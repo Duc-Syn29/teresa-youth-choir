@@ -24,23 +24,12 @@ Tất cả file năm dùng cùng một schema. Khi chỉnh JSON, lưu ý giữ d
 
 ## Quản trị nội dung và ảnh
 
-Mở `admin.html` qua Live Server để đăng nhập, thêm/sửa/xóa hoạt động, viết bài chi tiết, tải ảnh và chỉnh nội dung phần giới thiệu mỗi năm. Không mở trực tiếp bằng `file://`.
+Mở `admin.html` trên website đã deploy. Đăng nhập bằng **Firebase Email/Password** với email quản trị được cho phép. Mọi thay đổi năm, hoạt động, ban điều hành và số liệu thành viên được Worker xác minh rồi ghi vào file `data/` trên GitHub.
 
-- Tài khoản khởi tạo: `admin`
-- Mật khẩu khởi tạo: `teresa2026`
-- Đổi mật khẩu ngay sau khi đăng nhập.
-
-Dự án là **website tĩnh**, nên tài khoản, thay đổi nội dung và ảnh tải lên được lưu trong IndexedDB của chính trình duyệt/thiết bị quản trị. Chúng không tự xuất hiện ở thiết bị khác và không được ghi ngược lên GitHub Pages/Cloudflare Pages.
-
-- Khi thêm ảnh, chọn một **chủ đề** bắt buộc; kho ảnh tự nhóm và lọc theo năm/chủ đề. Mỗi ảnh tối đa 25 MB.
-- Mỗi hoạt động có thể đặt **ảnh trang mở đầu** riêng; ảnh này không làm thay đổi năm hoặc chủ đề của hoạt động.
-- Khu quản trị có biểu mẫu cập nhật **Ban điều hành** và thống kê thành viên: tổng số, **In** (thêm mới) và **Out** (nghỉ).
-- Nút **Hiện/Ẩn** bên cạnh ô mật khẩu giúp kiểm tra mật khẩu trước khi đăng nhập hoặc đổi mật khẩu.
-- Nút **Xuất Word năm …** tạo tệp `.docx` chứa phần giới thiệu và mọi hoạt động của năm đang chọn.
-- Trong biểu mẫu hoạt động, chọn một tệp `.docx` ở mục **Nhập bài viết Word** để chép nội dung vào bài viết chi tiết, kiểm tra rồi bấm Lưu.
-- Nút **Sao lưu JSON** giữ đầy đủ dữ liệu gồm cả ảnh để có thể **Nhập sao lưu JSON** trên trình duyệt khác.
-
-Muốn có tài khoản dùng chung, phân quyền thật và ảnh dùng chung sau khi deploy, cần bổ sung backend/storage (ví dụ Supabase hoặc Cloudflare).
+- Ảnh tải lên được lưu tại `images/uploads/<năm>/<chủ-đề>/`; ảnh bìa hoạt động dùng chính đường dẫn này nên hiển thị cho mọi thiết bị.
+- Worker chỉ chấp nhận Firebase token của email quản trị và dùng GitHub token được lưu dưới dạng Cloudflare Secret. Không đưa GitHub token vào source hoặc trình duyệt.
+- Mỗi commit do quản trị tạo sẽ kích hoạt Cloudflare Pages tự triển khai lại website.
+- Nút **Xuất Word năm …** tạo tệp `.docx`; **Sao lưu JSON** xuất dữ liệu năm để lưu dự phòng.
 
 ## Deploy miễn phí
 
