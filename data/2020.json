@@ -1,0 +1,43 @@
+{
+  "year": 2020,
+  "theme": { "accent": "#e6b85c" },
+  "overview": {
+    "eyebrow": "Năm thử thách", "title": "Gần nhau từ xa",
+    "summary": "Giữa ảnh hưởng của COVID-19, ca đoàn duy trì tinh thần phục vụ qua thiện nguyện và cuộc thi hát thánh ca trực tuyến.",
+    "verse": "Đừng sợ, chỉ cần tin thôi.",
+    "longDescription": "Dù đại dịch COVID-19 làm gián đoạn nhiều hoạt động, ca đoàn vẫn cố gắng gìn giữ các truyền thống thiện nguyện và tổ chức cuộc thi hát thánh ca trực tuyến hướng về cột mốc 5 năm. Đó là lời xác tín rằng khó khăn không thể làm mất đi tình yêu thánh nhạc và tinh thần phục vụ.",
+    "coverImage": "images/hero.jpg"
+  },
+  "leadership": {
+    "chaplain": { "name": "Lm. Anrê Nguyễn Minh Tâm", "note": "Đồng hành mục vụ" },
+    "leader": { "name": "Giuse Đỗ Anh Khoa", "note": "Nhiệm kỳ 2019–2021" },
+    "conductor": { "name": "Maria Nguyễn Diễm My", "note": "Phụ trách chuyên môn" },
+    "deputyConductor": { "name": "Gioan Trần Minh Quân", "note": "Hỗ trợ thu âm" },
+    "secretary": { "name": "Anna Lê Thanh Vy", "note": "Thư ký" },
+    "treasurer": { "name": "Phanxicô Trần Quốc Huy", "note": "Thủ quỹ" },
+    "serviceTeams": ["Ban Phụng vụ", "Ban Truyền thông", "Ban Đời sống"]
+  },
+  "members": { "total": 35, "new": 3, "inactive": 6, "notes": "Dù sinh hoạt gián đoạn, phần lớn ca viên vẫn kết nối qua các nhóm bè trực tuyến." },
+  "activities": [
+    { "type": "Thánh lễ", "date": "Theo giai đoạn", "title": "Những thánh lễ giản dị", "description": "Phục vụ với đội hình nhỏ khi điều kiện cho phép." },
+    { "type": "Hòa nhạc", "date": "05.2020", "title": "Hợp xướng tại nhà", "description": "Video hợp xướng đầu tiên được ghép từ phần thu riêng của từng ca viên." },
+    { "type": "Thiện nguyện", "date": "08.2020", "title": "Chia sẻ nhu yếu phẩm", "description": "Góp sức hỗ trợ các gia đình khó khăn trong giáo xứ." },
+    { "type": "Tĩnh tâm", "date": "12.2020", "title": "Một giờ ở lại", "description": "Giờ cầu nguyện trực tuyến khép lại một năm nhiều biến động." }
+  ],
+  "achievements": ["Thực hiện video hợp xướng trực tuyến đầu tiên.", "Duy trì sinh hoạt nhóm bè qua mạng.", "Tổ chức quỹ hỗ trợ nội bộ cho ca viên khó khăn."],
+  "challenges": ["Không thể tập luyện trực tiếp trong thời gian dài.", "Chất lượng thiết bị thu âm không đồng đều.", "Tâm lý và nhịp sống của nhiều ca viên bị xáo trộn."],
+  "gallery": [
+    { "src": "images/gallery/phung-vu-2025.jpg", "alt": "Ký ức phụng vụ", "event": "Phụng vụ", "caption": "Những ngày giản dị" },
+    { "src": "images/gallery/gan-ket-2024.jpg", "alt": "Kết nối ca viên", "event": "Kết nối", "caption": "Gần nhau từ xa" },
+    { "src": "images/gallery/giang-sinh-2022.jpg", "alt": "Ánh sáng hy vọng", "event": "Hy vọng", "caption": "Ánh sáng không tắt" }
+  ],
+  "sharing": [
+    { "name": "Anh Khoa", "role": "Trưởng ca đoàn 2020", "quote": "Có những tháng chúng mình không hát cùng nhau, nhưng chưa bao giờ ngừng hỏi nhau: bạn có ổn không?" },
+    { "name": "Thanh Vy", "role": "Thư ký 2020", "quote": "Màn hình không thay thế được một cái ôm, nhưng đã giúp chúng mình chờ ngày gặp lại." }
+  ],
+  "emotionJournal": [
+    { "date": "05.04", "title": "Phòng tập im tiếng", "text": "Lần đầu tiên tối Thứ Bảy trôi qua mà không có buổi tập.", "mood": "Trống vắng" },
+    { "date": "31.05", "title": "Video được đăng", "text": "Từng ô vuông nhỏ ghép lại thành một bài hát và một niềm hy vọng.", "mood": "Hy vọng" }
+  ],
+  "yearMark": { "title": "Khoảng cách không làm ta xa nhau.", "description": "2020 là bằng chứng rằng cộng đoàn không chỉ được tạo nên bởi một nơi chốn, mà bởi những người vẫn chọn quan tâm và chờ đợi nhau.", "highlight": "35 ca viên · 1 màn hình · cùng nhịp" }
+}

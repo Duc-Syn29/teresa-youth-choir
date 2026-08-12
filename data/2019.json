@@ -1,0 +1,44 @@
+{
+  "year": 2019,
+  "theme": { "accent": "#f27f6b" },
+  "overview": {
+    "eyebrow": "Năm sẻ chia", "title": "Mở rộng vòng tay",
+    "summary": "Ca đoàn có những chuyến đi xa: tĩnh tâm Tam Đảo, phục vụ Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế tại Huế và thiện nguyện Giáng Sinh ở Hà Giang.",
+    "verse": "Cho thì có phúc hơn là nhận.",
+    "longDescription": "Năm 2019, sau những thay đổi về nhân sự chuyên môn, anh Phêrô Nguyễn Huy Hùng và chú Vicente Vũ Hải Ngân được mời gọi hỗ trợ ca đoàn. Các ca viên tĩnh tâm tại Tam Đảo, phục vụ Thánh lễ khai mạc Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế toàn quốc lần thứ nhất tại Huế và tiếp tục chương trình Giáng Sinh trao yêu thương tại Hà Giang.",
+    "coverImage": "images/hero.jpg"
+  },
+  "leadership": {
+    "chaplain": { "name": "Lm. Anrê Nguyễn Minh Tâm", "note": "Đồng hành mục vụ" },
+    "leader": { "name": "Giuse Đỗ Anh Khoa", "note": "Nhiệm kỳ 2019–2021" },
+    "conductor": { "name": "Giuse Nguyễn Hoàng Nam", "note": "Phụ trách chuyên môn" },
+    "deputyConductor": { "name": "Maria Nguyễn Diễm My", "note": "Hỗ trợ tập hát" },
+    "secretary": { "name": "Anna Phạm Hồng Nhung", "note": "Thư ký" },
+    "treasurer": { "name": "Phanxicô Trần Quốc Huy", "note": "Thủ quỹ" },
+    "serviceTeams": ["Ban Phụng vụ", "Ban Bác ái", "Ban Truyền thông", "Ban Hậu cần"]
+  },
+  "members": { "total": 38, "new": 10, "inactive": 3, "notes": "Ca đoàn chào đón thêm những giọng ca mới và thành lập Ban Bác ái." },
+  "activities": [
+    { "type": "Thánh lễ", "date": "Hằng tuần", "title": "Bền bỉ phục vụ", "description": "Tiếp tục phụng vụ đều đặn tại giáo xứ." },
+    { "type": "Thiện nguyện", "date": "07.2019", "title": "Mùa hè yêu thương", "description": "Thăm mái ấm, tổ chức sinh hoạt và trao quà cho các em nhỏ." },
+    { "type": "Hòa nhạc", "date": "09.2019", "title": "Giao lưu hợp xướng", "description": "Lần đầu biểu diễn cùng ba ca đoàn bạn." },
+    { "type": "Lễ Quan thầy", "date": "01.10.2019", "title": "Con đường bé nhỏ", "description": "Đêm cầu nguyện và thánh nhạc mừng bổn mạng." },
+    { "type": "Du lịch/Team Building", "date": "11.2019", "title": "Đi để gần nhau", "description": "Chuyến đi hai ngày khép lại một năm nhiều trải nghiệm." }
+  ],
+  "achievements": ["Thành lập Ban Bác ái.", "Tổ chức chuyến thiện nguyện đầu tiên.", "Giao lưu hợp xướng liên giáo xứ."],
+  "challenges": ["Kinh phí cho hoạt động cộng đồng còn hạn chế.", "Cần nâng cao kỹ năng tổ chức sự kiện.", "Đội hình biến động vào mùa thi."],
+  "gallery": [
+    { "src": "images/gallery/thien-nguyen-2019.jpg", "alt": "Chuyến thiện nguyện năm 2019", "event": "Thiện nguyện", "caption": "Mùa hè yêu thương" },
+    { "src": "images/gallery/phung-vu-2025.jpg", "alt": "Ca đoàn phụng vụ", "event": "Thánh nhạc", "caption": "Tiếng hát lên đường" },
+    { "src": "images/gallery/team-building-2023.jpg", "alt": "Chuyến đi gắn kết", "event": "Gắn kết", "caption": "Đi để gần nhau" }
+  ],
+  "sharing": [
+    { "name": "Anh Khoa", "role": "Trưởng ca đoàn 2019", "quote": "Chuyến đi đầu tiên giúp mình hiểu rằng phụng sự đôi khi chỉ là ngồi xuống và lắng nghe một câu chuyện." },
+    { "name": "Diễm My", "role": "Ca phó 2019", "quote": "Tiếng hát đẹp nhất năm ấy là tiếng cười của những em nhỏ chúng mình gặp." }
+  ],
+  "emotionJournal": [
+    { "date": "20.07", "title": "Chuyến xe sáng sớm", "text": "Không ai ngủ dù xe khởi hành từ năm giờ, vì tất cả đều háo hức.", "mood": "Rộn ràng" },
+    { "date": "21.07", "title": "Một cái ôm tạm biệt", "text": "Chúng mình rời mái ấm với nhiều món quà hơn những gì đã mang tới.", "mood": "Xúc động" }
+  ],
+  "yearMark": { "title": "Tiếng hát đã biết lên đường.", "description": "2019 nhắc chúng mình rằng đức tin trở nên sống động khi được trao đi bằng thời gian, sự hiện diện và những việc nhỏ đầy yêu thương.", "highlight": "1 chuyến đi · nhiều trái tim" }
+}

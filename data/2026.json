@@ -1,0 +1,56 @@
+{
+  "year": 2026,
+  "theme": { "accent": "#f0b45f" },
+  "overview": {
+    "eyebrow": "Hành trình tiếp nối",
+    "title": "Cất tiếng giữa mùa hồng ân",
+    "summary": "Ca đoàn bước vào năm 2026 với số lượng ca viên đông hơn, thêm nhiều thánh lễ và các chương trình mang đậm dấu ấn đức tin.",
+    "verse": "Hãy vui mừng luôn mãi, cầu nguyện không ngừng, và tạ ơn trong mọi hoàn cảnh.",
+    "longDescription": "Năm 2026, Ca đoàn Giới trẻ Teresa tiếp tục chuyển mình mạnh mẽ: quy tụ thêm đông đảo ca viên, phục vụ nhiều thánh lễ lớn và các giờ chầu. Đêm Hòa Nhạc Phục Sinh Exsultet là một dấu ấn mới, tôn vinh mầu nhiệm Phục Sinh. Niềm vui ấy hòa cùng Đại lễ kỷ niệm 20 năm Gia Đình Công Giáo Xa Quê Hà Nội – mái nhà đã bao bọc và nâng đỡ ca đoàn trên hành trình 11 năm.",
+    "coverImage": "images/hero.jpg"
+  },
+  "leadership": {
+    "chaplain": { "name": "Đang cập nhật", "note": "Đồng hành mục vụ" },
+    "leader": { "name": "Đang cập nhật", "note": "Ban điều hành năm 2026" },
+    "conductor": { "name": "Đang cập nhật", "note": "Đồng hành chuyên môn" },
+    "deputyConductor": { "name": "Đang cập nhật", "note": "Hỗ trợ chuyên môn" },
+    "secretary": { "name": "Đang cập nhật", "note": "Lưu trữ tư liệu" },
+    "treasurer": { "name": "Đang cập nhật", "note": "Phụ trách tài chính" },
+    "serviceTeams": ["Ban Phụng vụ", "Ban Truyền thông", "Ban Bác ái", "Ban Hậu cần"]
+  },
+  "members": {
+    "total": 0,
+    "new": 0,
+    "inactive": 0,
+    "notes": "Số liệu ca viên năm 2026 sẽ được quản trị viên cập nhật từ danh sách chính thức."
+  },
+  "activities": [
+    { "type": "Hòa nhạc", "date": "Mùa Phục Sinh 2026", "title": "Exsultet — Đêm Hòa Nhạc Phục Sinh", "description": "Chương trình tôn vinh mầu nhiệm Phục Sinh của Thiên Chúa.", "body": "Một đêm hòa nhạc được tổ chức với ước mong đưa cộng đoàn đến gần hơn với niềm vui Phục Sinh qua thánh nhạc.", "topic": "Phục Sinh" },
+    { "type": "Đại lễ", "date": "2026", "title": "Mừng 20 năm Gia Đình Công Giáo Xa Quê Hà Nội", "description": "Ca đoàn cùng hiệp thông trong hành trình 20 năm của mái nhà Gia Đình Công Giáo Xa Quê Hà Nội.", "body": "Ca đoàn dâng lời tạ ơn và tri ân quý cha, quý sơ, quý chức, ân nhân, thân nhân cùng mọi thế hệ đã góp phần làm nên hành trình đức tin này.", "topic": "Cộng đoàn" },
+    { "type": "Thánh lễ", "date": "Trong năm", "title": "Phục vụ các thánh lễ và giờ chầu", "description": "Tiếp tục phụng sự bằng tiếng hát trong các thánh lễ lớn và giờ chầu.", "body": "Mỗi lần hiện diện trên cung thánh là một cơ hội để ca viên trưởng thành hơn trong đức tin và phụng vụ.", "topic": "Phụng vụ" }
+  ],
+  "achievements": [
+    "Tổ chức Đêm Hòa Nhạc Phục Sinh Exsultet.",
+    "Mở rộng sự hiện diện trong các thánh lễ và giờ chầu.",
+    "Hiệp thông trong Đại lễ 20 năm Gia Đình Công Giáo Xa Quê Hà Nội."
+  ],
+  "challenges": [
+    "Chuẩn hóa tư liệu, ảnh và bài viết của các hoạt động mới.",
+    "Đồng hành với số lượng ca viên ngày càng đông.",
+    "Gìn giữ chiều sâu đức tin trong nhịp hoạt động phong phú."
+  ],
+  "gallery": [
+    { "src": "images/gallery/phung-vu-2025.jpg", "alt": "Ca đoàn trong một thánh lễ", "event": "Phụng vụ", "caption": "Tiếp nối lời ca" }
+  ],
+  "sharing": [
+    { "name": "Tư liệu đang bổ sung", "role": "Ca viên 2026", "quote": "Hành trình vẫn đang tiếp tục bằng niềm vui được hát, được phục vụ và được thuộc về một gia đình." }
+  ],
+  "emotionJournal": [
+    { "date": "2026", "title": "Một chương đang mở", "text": "Những trang tư liệu mới đang chờ được viết tiếp bằng hình ảnh, câu chuyện và lời ca của từng ca viên.", "mood": "Hy vọng" }
+  ],
+  "yearMark": {
+    "title": "Tiếp nối hành trình hồng ân.",
+    "description": "Từ mái nhà Gia Đình Công Giáo Xa Quê Hà Nội, Ca đoàn Giới trẻ Teresa tiếp tục lớn lên trong đức tin, phụng vụ và tình hiệp nhất.",
+    "highlight": "11 năm Teresa · 20 năm GĐCGXQ Hà Nội"
+  }
+}

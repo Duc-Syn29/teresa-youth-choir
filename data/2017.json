@@ -1,0 +1,67 @@
+{
+  "year": 2017,
+  "theme": { "accent": "#f27f6b" },
+  "overview": {
+    "eyebrow": "Năm thứ ba",
+    "title": "Vững vàng trong lời ca",
+    "summary": "Ca đoàn ổn định nề nếp sinh hoạt và khởi xướng chương trình Thiện nguyện Giáng Sinh – một truyền thống được nối tiếp qua các thế hệ.",
+    "verse": "Hãy dùng lời ca tiếng hát mà cảm tạ Thiên Chúa trong lòng anh em.",
+    "longDescription": "Trong sự bao bọc của Gia Đình Công Giáo Xa Quê Hà Nội, ca đoàn tiếp tục gìn giữ nề nếp sinh hoạt. Dấu ấn quan trọng là chương trình Thiện nguyện Giáng Sinh lần đầu được khởi xướng: mỗi mùa Noel, các ca viên cùng mang yêu thương và hơi ấm đến những vùng núi còn nhiều khó khăn.",
+    "coverImage": "images/hero.jpg"
+  },
+  "leadership": {
+    "chaplain": { "name": "Lm. Anrê Nguyễn Minh Tâm", "note": "Đồng hành mục vụ" },
+    "leader": { "name": "Maria Trần Ngọc Anh", "note": "Nhiệm kỳ đầu tiên" },
+    "conductor": { "name": "Giuse Nguyễn Hoàng Nam", "note": "Phụ trách chuyên môn" },
+    "deputyConductor": { "name": "Têrêsa Lê Minh Châu", "note": "Hỗ trợ tập hát" },
+    "secretary": { "name": "Anna Phạm Hồng Nhung", "note": "Lưu giữ những trang đầu" },
+    "treasurer": { "name": "Phanxicô Trần Quốc Huy", "note": "Phụ trách tài chính" },
+    "serviceTeams": ["Ban Phụng vụ", "Ban Truyền thông", "Ban Hậu cần"]
+  },
+  "members": {
+    "total": 24,
+    "new": 8,
+    "inactive": 0,
+    "notes": "24 giọng ca tiếp tục vun đắp một gia đình mang tên Têrêsa trong năm thứ ba phục vụ."
+  },
+  "activities": [
+    { "type": "Thánh lễ", "date": "Hằng tuần", "title": "Giữ nhịp phụng vụ", "description": "Ca đoàn duy trì đều đặn việc phục vụ các thánh lễ Chúa Nhật." },
+    { "type": "Lễ Quan thầy", "date": "01.10.2017", "title": "Têrêsa — con đường nhỏ", "description": "Thánh lễ Quan thầy quy tụ các thế hệ đã đồng hành từ ngày đầu." },
+    { "type": "Tĩnh tâm", "date": "11.2017", "title": "Lắng nghe tiếng gọi", "description": "Cùng nhìn lại ý nghĩa của việc phục vụ sau ba năm đồng hành." },
+    { "type": "Giáng Sinh", "date": "24.12.2017", "title": "Đêm bình an", "description": "Chuẩn bị liên khúc Giáng Sinh bằng sự tự tin và gắn kết trưởng thành hơn." },
+    { "type": "Hát lễ cưới", "date": "12.2017", "title": "Lời chúc phúc bằng âm nhạc", "description": "Ca đoàn hát lễ cưới cho một người bạn trong giáo xứ." },
+    { "type": "Du lịch/Team Building", "date": "12.2017", "title": "Một ngày để hiểu nhau", "description": "Chuyến đi ngắn khép lại năm thứ ba bằng thật nhiều tiếng cười." }
+  ],
+  "achievements": [
+    "Duy trì đội hình 24 ca viên với sự bổ sung của tám gương mặt mới.",
+    "Hoàn thiện lịch tập và quy chế sinh hoạt.",
+    "Phục vụ đều đặn các thánh lễ cuối tuần.",
+    "Hoàn thành chương trình thánh nhạc Giáng Sinh với phần bè chỉn chu hơn."
+  ],
+  "challenges": [
+    "Kinh nghiệm hợp xướng và đọc nhạc còn hạn chế.",
+    "Thiếu nhạc cụ, bản phối và không gian tập ổn định.",
+    "Khó sắp xếp lịch sinh hoạt chung của các ca viên trẻ.",
+    "Cần xây dựng văn hóa lắng nghe và kỷ luật tập thể."
+  ],
+  "gallery": [
+    { "src": "images/gallery/quan-thay-2017.jpg", "alt": "Lễ Quan thầy ca đoàn năm 2017", "event": "Quan thầy", "caption": "Vững vàng trong lời ca" },
+    { "src": "images/gallery/phung-vu-2025.jpg", "alt": "Ca đoàn phục vụ phụng vụ", "event": "Phụng vụ", "caption": "Chung một nhịp thở" },
+    { "src": "images/gallery/giang-sinh-2022.jpg", "alt": "Kỷ niệm Giáng Sinh", "event": "Giáng Sinh", "caption": "Đêm bình an" },
+    { "src": "images/gallery/gan-ket-2024.jpg", "alt": "Ca viên cùng sinh hoạt", "event": "Gắn kết", "caption": "Những người bạn đồng hành" }
+  ],
+  "sharing": [
+    { "name": "Ngọc Anh", "role": "Trưởng ca đoàn 2017", "quote": "Sau ba năm, điều quý nhất là chúng mình vẫn giữ được niềm vui ngày đầu trong từng buổi tập và thánh lễ." },
+    { "name": "Hoàng Nam", "role": "Ca trưởng 2017", "quote": "Những buổi tập vẫn còn vài nốt chênh, nhưng ánh mắt mọi người thì luôn cùng hướng về một nơi." }
+  ],
+  "emotionJournal": [
+    { "date": "01.10", "title": "Ngày trở về", "text": "Các thế hệ cùng đứng cạnh nhau trong ngày Quan thầy, nghe lại những bài hát đã nuôi lớn gia đình Têrêsa.", "mood": "Rưng rưng" },
+    { "date": "15.10", "title": "Buổi tập sau giờ lễ", "text": "Không ai muốn về sớm. Chúng mình ngồi lại, sửa từng câu hát và chia nhau ổ bánh mì.", "mood": "Ấm áp" },
+    { "date": "24.12", "title": "Ánh nến đêm Giáng Sinh", "text": "Khi hợp âm cuối cùng ngân lên, mọi lo lắng bỗng hóa thành bình an.", "mood": "Biết ơn" }
+  ],
+  "yearMark": {
+    "title": "Chúng mình đã vững vàng.",
+    "description": "Dấu ấn lớn nhất của 2017 không nằm ở một chương trình riêng lẻ, mà ở cách một tập thể trẻ đã giữ được nền nếp phục vụ và sự ấm áp sau ba năm đồng hành.",
+    "highlight": "3 năm · 24 ca viên · 1 gia đình"
+  }
+}

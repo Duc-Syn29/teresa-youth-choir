@@ -1,0 +1,59 @@
+{
+  "year": 2015,
+  "theme": { "accent": "#7dd3fc" },
+  "overview": {
+    "eyebrow": "Năm thành lập",
+    "title": "Khởi đầu một lời ca",
+    "summary": "Ngày 20.09.2015, Ca đoàn Giới trẻ Teresa được thành lập để phục vụ Thánh lễ Giới trẻ tối thứ Bảy tại Giáo xứ Thái Hà.",
+    "verse": "Hãy ca tụng Chúa, vì Người nhân hậu; muôn ngàn đời Chúa vẫn trọn tình thương.",
+    "longDescription": "Dưới sự khởi xướng của Cha Gioan Lưu Ngọc Quỳnh và sự nâng đỡ của quý Cha Dòng Chúa Cứu Thế, những anh chị em trong Ban Giới trẻ Xa quê yêu mến thánh nhạc đã quy tụ để phục vụ Thánh lễ Giới trẻ lúc 20 giờ tối thứ Bảy. Từ đó, ca đoàn trở thành mái nhà chung của nhiều người trẻ xa quê học tập và làm việc tại Hà Nội. Ca đoàn chọn Thánh nữ Teresa Hài Đồng Giêsu làm bổn mạng, gìn giữ tinh thần Hiệp nhất – Yêu thương – Phục vụ.",
+    "coverImage": "images/hero.jpg"
+  },
+  "leadership": {
+    "chaplain": { "name": "Cha Gioan Lưu Ngọc Quỳnh", "note": "Khởi xướng và đồng hành" },
+    "leader": { "name": "Toma Trần Minh Quân", "note": "Trưởng ca đoàn nhiệm kỳ đầu" },
+    "deputyLeader": { "name": "Phêrô Bùi Ngọc Liêm · Giuse Nguyễn Xuân Hoàn", "note": "Phó ca đoàn nhiệm kỳ đầu" },
+    "conductor": { "name": "Sơ Maria Vũ Vĩ Cầm", "note": "Đồng hành chuyên môn" },
+    "deputyConductor": { "name": "Phạm Công Minh (cần xác minh)", "note": "Hỗ trợ chuyên môn" },
+    "secretary": { "name": "Đang cập nhật tư liệu", "note": "Lưu giữ tư liệu" },
+    "treasurer": { "name": "Đang cập nhật tư liệu", "note": "Phụ trách tài chính" },
+    "serviceTeams": ["Ban Phụng vụ", "Ban Hậu cần"]
+  },
+  "members": {
+    "total": 0,
+    "new": 0,
+    "inactive": 0,
+    "notes": "Số lượng ca viên năm thành lập đang được đối chiếu từ danh sách lưu trữ."
+  },
+  "activities": [
+    { "type": "Thành lập", "date": "20.09.2015", "title": "Ca đoàn Giới trẻ Teresa được thành lập", "description": "Quy tụ những người trẻ yêu mến thánh nhạc để phục vụ Thánh lễ Giới trẻ tại Giáo xứ Thái Hà.", "body": "Dấu mốc mở đầu cho một mái nhà chung của người trẻ xa quê tại Hà Nội." },
+    { "type": "Lễ Quan thầy", "date": "01.10.2015", "title": "Ra mắt trong lễ Thánh Teresa", "description": "Ca đoàn chọn Thánh Teresa Hài Đồng Giêsu làm bổn mạng và chính thức ra mắt cộng đoàn.", "body": "Ước mong các ca viên noi gương đời sống đơn sơ, khiêm nhường và lòng yêu mến phụng sự Chúa của Thánh nữ Teresa." }
+  ],
+  "achievements": [
+    "Thành lập Ca đoàn Giới trẻ Teresa.",
+    "Bắt đầu phục vụ Thánh lễ Giới trẻ tối thứ Bảy tại Giáo xứ Thái Hà.",
+    "Đặt nền tảng tinh thần Hiệp nhất – Yêu thương – Phục vụ."
+  ],
+  "challenges": [
+    "Cơ sở vật chất, phòng tập và tư liệu buổi đầu còn rất thiếu thốn.",
+    "Kỹ năng hợp xướng của các thành viên chưa đồng đều.",
+    "Không gian và trang thiết bị tập luyện còn hạn chế."
+  ],
+  "gallery": [
+    { "src": "images/gallery/quan-thay-2017.jpg", "alt": "Tư liệu minh họa cho những ngày đầu của ca đoàn", "event": "Khởi đầu", "caption": "Những giọng ca đầu tiên" },
+    { "src": "images/gallery/phung-vu-2025.jpg", "alt": "Tư liệu minh họa hoạt động phụng vụ", "event": "Phụng vụ", "caption": "Một lời xin vâng" },
+    { "src": "images/gallery/giang-sinh-2022.jpg", "alt": "Tư liệu minh họa mùa Giáng Sinh", "event": "Giáng Sinh", "caption": "Đêm bình an" }
+  ],
+  "sharing": [
+    { "name": "Tư liệu đang bổ sung", "role": "Thành viên sáng lập", "quote": "Điều ở lại rõ nhất trong ký ức là niềm vui được đứng cạnh nhau và hát bằng tất cả sự chân thành." }
+  ],
+  "emotionJournal": [
+    { "date": "2015", "title": "Buổi gặp đầu tiên", "text": "Những người trẻ xa lạ ngồi thành một vòng tròn và thử hòa chung bài hát đầu tiên.", "mood": "Háo hức" },
+    { "date": "24.12", "title": "Ánh nến đầu mùa", "text": "Một tập thể mới đã cùng đi qua mùa Giáng Sinh đầu tiên bằng tiếng hát.", "mood": "Bình an" }
+  ],
+  "yearMark": {
+    "title": "Một mái nhà được gọi tên.",
+    "description": "Từ một thao thức phục vụ Thánh lễ Giới trẻ, những giọng ca đầu tiên đã gieo hạt mầm cho hành trình Teresa.",
+    "highlight": "20.09.2015 · Ngày thành lập"
+  }
+}

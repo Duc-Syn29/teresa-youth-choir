@@ -1,0 +1,61 @@
+{
+  "year": 2016,
+  "theme": { "accent": "#67e8f9" },
+  "overview": {
+    "eyebrow": "Năm vun nền",
+    "title": "Học cách hòa chung",
+    "summary": "Ca đoàn phát triển mạnh, có thời điểm quy tụ gần 60 ca viên và được tin tưởng phục vụ thêm nhiều thánh lễ.",
+    "verse": "Anh em hãy đem lời ca tiếng hát mà chúc tụng Chúa hết tâm hồn.",
+    "longDescription": "Sau một năm hình thành, nhờ nhiệt huyết của ban điều hành và ca trưởng, ca đoàn phát triển mạnh với gần 60 ca viên ở một số thời điểm. Bên cạnh Thánh lễ Giới trẻ, ca đoàn được phân công phục vụ thêm các thánh lễ của Gia Đình Công Giáo Xa Quê Hà Nội và dịp Đại lễ Di dân.",
+    "coverImage": "images/hero.jpg"
+  },
+  "leadership": {
+    "chaplain": { "name": "Đang cập nhật tư liệu", "note": "Đồng hành mục vụ" },
+    "leader": { "name": "Đang cập nhật tư liệu", "note": "Điều phối sinh hoạt" },
+    "conductor": { "name": "Đang cập nhật tư liệu", "note": "Phụ trách chuyên môn" },
+    "deputyConductor": { "name": "Đang cập nhật tư liệu", "note": "Hỗ trợ tập hát" },
+    "secretary": { "name": "Đang cập nhật tư liệu", "note": "Lưu giữ tư liệu" },
+    "treasurer": { "name": "Đang cập nhật tư liệu", "note": "Phụ trách tài chính" },
+    "serviceTeams": ["Ban Phụng vụ", "Ban Truyền thông", "Ban Hậu cần"]
+  },
+  "members": {
+    "total": 60,
+    "new": 0,
+    "inactive": 2,
+    "notes": "Gần 60 ca viên là số liệu ghi nhận trong tư liệu; cần đối chiếu danh sách chính thức."
+  },
+  "activities": [
+    { "type": "Thánh lễ", "date": "Hằng tuần", "title": "Tập thành một nền nếp", "description": "Ca đoàn duy trì lịch tập và phục vụ phụng vụ đều đặn hơn." },
+    { "type": "Lễ Quan thầy", "date": "01.10.2016", "title": "Cùng đi con đường nhỏ", "description": "Ngày lễ bổn mạng trở thành dịp nhìn lại và gắn kết các thành viên." },
+    { "type": "Tĩnh tâm", "date": "2016", "title": "Ở lại để lắng nghe", "description": "Khoảng lặng giúp mỗi người làm mới động lực phục vụ." },
+    { "type": "Giáng Sinh", "date": "24.12.2016", "title": "Chung một nhịp thở", "description": "Các phần bè đầu tiên được chăm chút cho chương trình Giáng Sinh." },
+    { "type": "Du lịch/Team Building", "date": "Cuối năm", "title": "Gần nhau hơn", "description": "Ngày sinh hoạt chung giúp những thành viên cũ và mới trở thành một đội." }
+  ],
+  "achievements": [
+    "Duy trì lịch tập và phục vụ đều đặn.",
+    "Bắt đầu tổ chức đội hình theo các bè hát.",
+    "Hình thành các ban phục vụ hỗ trợ sinh hoạt chung."
+  ],
+  "challenges": [
+    "Cân bằng giữa lịch học, công việc và thời gian phục vụ.",
+    "Cần bổ sung bản phối và tài liệu luyện thanh.",
+    "Tư liệu hình ảnh của giai đoạn đầu còn thiếu."
+  ],
+  "gallery": [
+    { "src": "images/gallery/quan-thay-2017.jpg", "alt": "Tư liệu minh họa sinh hoạt ca đoàn", "event": "Quan thầy", "caption": "Cùng đi con đường nhỏ" },
+    { "src": "images/gallery/gan-ket-2024.jpg", "alt": "Tư liệu minh họa hoạt động gắn kết", "event": "Gắn kết", "caption": "Học cách hòa chung" },
+    { "src": "images/gallery/giang-sinh-2022.jpg", "alt": "Tư liệu minh họa chương trình Giáng Sinh", "event": "Giáng Sinh", "caption": "Chung một nhịp thở" }
+  ],
+  "sharing": [
+    { "name": "Tư liệu đang bổ sung", "role": "Ca viên 2016", "quote": "Chúng mình bắt đầu hiểu rằng hòa giọng không chỉ là hát đúng nốt, mà còn là biết nhường chỗ cho nhau." }
+  ],
+  "emotionJournal": [
+    { "date": "01.10", "title": "Ngày Quan thầy", "text": "Cả nhóm đứng cạnh nhau, nhìn lại một năm và thấy mái nhà chung đã rõ hình hài hơn.", "mood": "Biết ơn" },
+    { "date": "24.12", "title": "Một hợp âm tròn đầy", "text": "Phần bè cuối cùng vang lên gọn gàng sau nhiều tối cùng nhau sửa từng câu hát.", "mood": "Hạnh phúc" }
+  ],
+  "yearMark": {
+    "title": "Chúng mình học cách hòa chung.",
+    "description": "2016 là năm sự nhiệt thành được biến thành nền nếp và những người bạn dần trở thành một tập thể biết lắng nghe, nâng đỡ nhau.",
+    "highlight": "2 năm · Chung một nhịp"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "year": 2024,
+  "theme": { "accent": "#e6b85c" },
+  "overview": {
+    "eyebrow": "Năm lan tỏa", "title": "Cùng nhau cất bước",
+    "summary": "Một năm của tĩnh tâm, chuyển giao ban điều hành, thiện nguyện Đông Ấm Na Rì và góp tiếng hát trong Hoan ca mừng 100 năm Dòng Chúa Cứu Thế.",
+    "verse": "Mỗi người hãy dùng ân huệ đã nhận được mà phục vụ người khác.",
+    "longDescription": "Những ngày tĩnh tâm tại Đan viện Thiên Hà giúp các ca viên xác tín hơn về ơn gọi phục vụ. Ngày 15.08.2024, ca đoàn bầu ban điều hành mới: anh Phêrô Đỗ Tiến Hạng làm trưởng, anh Giuse Trần Viết Vĩ và Giuse Nguyễn Phan Hoài Duy làm phó; chị Maria Ban Mai tiếp tục đồng hành chuyên môn. Chương trình Đông Ấm Na Rì tại Bắc Kạn và phần hợp xướng trong Hoan ca mừng 100 năm Dòng Chúa Cứu Thế tại Việt Nam là những dấu ấn nổi bật.",
+    "coverImage": "images/hero.jpg"
+  },
+  "leadership": {
+    "chaplain": { "name": "Đang cập nhật tư liệu", "note": "Đồng hành mục vụ" },
+    "leader": { "name": "Phêrô Đỗ Tiến Hạng", "note": "Được bầu ngày 15.08.2024" },
+    "deputyLeader": { "name": "Giuse Trần Viết Vĩ · Giuse Nguyễn Phan Hoài Duy", "note": "Phó ca đoàn" },
+    "conductor": { "name": "Maria Ban Mai", "note": "Đồng hành chuyên môn" },
+    "deputyConductor": { "name": "Đang cập nhật tư liệu", "note": "Hỗ trợ chuyên môn" },
+    "secretary": { "name": "Đang cập nhật tư liệu", "note": "Thư ký" },
+    "treasurer": { "name": "Đang cập nhật tư liệu", "note": "Thủ quỹ" },
+    "serviceTeams": ["Ban Phụng vụ", "Ban Truyền thông", "Ban Đời sống", "Ban Hậu cần"]
+  },
+  "members": { "total": 55, "new": 8, "inactive": 4, "notes": "Ca đoàn đón thêm tám thành viên và kết nối thường xuyên hơn với cựu ca viên." },
+  "activities": [
+    { "type": "Thánh lễ", "date": "Hằng tuần", "title": "Giữ nhịp phục vụ", "description": "Duy trì lịch hát, lịch tập và đào tạo thanh nhạc theo nhóm bè." },
+    { "type": "Thiện nguyện", "date": "06.2024", "title": "Âm nhạc cho em", "description": "Ngày hội âm nhạc gây quỹ học bổng cho trẻ em khó khăn." },
+    { "type": "Tĩnh tâm", "date": "03.2024", "title": "Trở về nguồn", "description": "Hai ngày tĩnh tâm nhìn lại căn tính và linh đạo phục vụ." },
+    { "type": "Du lịch/Team Building", "date": "08.2024", "title": "Cùng nhau cất bước", "description": "Chuyến đi gắn kết kết hợp đào tạo đội ngũ kế thừa." },
+    { "type": "Giáng Sinh", "date": "12.2024", "title": "Người trẻ kể chuyện Giáng Sinh", "description": "Hoạt cảnh và đêm nhạc dành cho cộng đồng giáo xứ." }
+  ],
+  "achievements": ["Khởi động dự án Digital Memory Archive.", "Tổ chức đêm nhạc gây quỹ học bổng.", "Hoàn thiện nhóm đào tạo ca viên mới."],
+  "challenges": ["Tư liệu lịch sử phân tán ở nhiều nơi.", "Nhu cầu đào tạo nhân sự truyền thông.", "Cần cải thiện quy trình phối hợp giữa các ban."],
+  "gallery": [
+    { "src": "images/gallery/gan-ket-2024.jpg", "alt": "Ca đoàn gắn kết năm 2024", "event": "Gắn kết", "caption": "Cùng nhau cất bước" },
+    { "src": "images/gallery/thien-nguyen-2019.jpg", "alt": "Hoạt động thiện nguyện", "event": "Thiện nguyện", "caption": "Âm nhạc cho em" },
+    { "src": "images/gallery/giang-sinh-2022.jpg", "alt": "Chương trình Giáng Sinh", "event": "Giáng Sinh", "caption": "Kể chuyện bình an" },
+    { "src": "images/gallery/phung-vu-2025.jpg", "alt": "Phụng vụ của ca đoàn", "event": "Phụng vụ", "caption": "Giữ nhịp phục vụ" }
+  ],
+  "sharing": [
+    { "name": "Khánh Linh", "role": "Trưởng ca đoàn 2024", "quote": "Đi ra giúp chúng mình nhận ra mình có thể trao tặng điều gì; trở về giúp nhớ mình nhận sức mạnh từ đâu." },
+    { "name": "Quốc Bảo", "role": "Thủ quỹ 2024", "quote": "Kho lưu trữ không chỉ giữ ảnh cũ, mà giữ cả những con người đã làm nên lịch sử của ca đoàn." }
+  ],
+  "emotionJournal": [
+    { "date": "23.03", "title": "Một ngày không điện thoại", "text": "Tắt mọi thông báo để nghe lại tiếng lòng và tiếng người bên cạnh.", "mood": "Lắng đọng" },
+    { "date": "29.06", "title": "Đêm nhạc gây quỹ", "text": "Khi con số cuối cùng được công bố, cả hậu trường ôm nhau vì hạnh phúc.", "mood": "Hạnh phúc" }
+  ],
+  "yearMark": { "title": "Đi xa để trở về sâu hơn.", "description": "2024 đặt nền móng cho một ca đoàn biết lan tỏa giá trị ra cộng đồng mà vẫn chăm sóc đời sống nội tâm và ký ức của chính mình.", "highlight": "55 ca viên · 1 kho ký ức" }
+}

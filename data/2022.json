@@ -1,0 +1,44 @@
+{
+  "year": 2022,
+  "theme": { "accent": "#f27f6b" },
+  "overview": {
+    "eyebrow": "Năm trở về", "title": "Gặp lại trong tiếng hát",
+    "summary": "Khi dịch dần được kiểm soát, ca đoàn từng bước khôi phục tập hát và phục vụ, dù số lượng ca viên và tinh thần chung còn cần thời gian để hồi phục.",
+    "verse": "Ngọt ngào tốt đẹp lắm thay, anh em được sống vui vầy bên nhau.",
+    "longDescription": "Sau thời gian dài gián đoạn, ca đoàn từng bước khôi phục những sinh hoạt thường niên như tập hát và phục vụ Thánh lễ. Giai đoạn trở lại cũng đặt ra thách thức: số lượng ca viên giảm sút và nhiều anh chị em chưa lấy lại được tinh thần sau đại dịch.",
+    "coverImage": "images/hero.jpg"
+  },
+  "leadership": {
+    "chaplain": { "name": "Lm. Giuse Phạm Đức Hiệp", "note": "Đồng hành mục vụ" },
+    "leader": { "name": "Maria Vũ Thu Hà", "note": "Nhiệm kỳ 2021–2023" },
+    "conductor": { "name": "Gioan Trần Minh Quân", "note": "Phụ trách chuyên môn" },
+    "deputyConductor": { "name": "Têrêsa Nguyễn Khánh Linh", "note": "Hỗ trợ ca viên mới" },
+    "secretary": { "name": "Anna Lê Thanh Vy", "note": "Thư ký" },
+    "treasurer": { "name": "Giuse Đặng Quốc Bảo", "note": "Thủ quỹ" },
+    "serviceTeams": ["Ban Phụng vụ", "Ban Truyền thông", "Ban Đời sống", "Ban Hậu cần"]
+  },
+  "members": { "total": 46, "new": 17, "inactive": 4, "notes": "Đợt tuyển ca viên mới đông nhất kể từ ngày thành lập mang đến nguồn năng lượng mới." },
+  "activities": [
+    { "type": "Thánh lễ", "date": "03.2022", "title": "Thánh lễ ngày trở lại", "description": "Lần đầu đội hình đầy đủ cùng hát sau thời gian dài xa cách." },
+    { "type": "Tĩnh tâm", "date": "04.2022", "title": "Tạ ơn ngày gặp lại", "description": "Ngày tĩnh tâm và tái cam kết phục vụ của toàn ca đoàn." },
+    { "type": "Du lịch/Team Building", "date": "07.2022", "title": "Kết nối lại", "description": "Chuyến đi dành cho thành viên cũ và mười bảy ca viên mới." },
+    { "type": "Lễ Quan thầy", "date": "01.10.2022", "title": "Năm năm một hành trình", "description": "Mừng sinh nhật ca đoàn với sự trở về của các cựu ca viên." },
+    { "type": "Giáng Sinh", "date": "24.12.2022", "title": "Đêm đoàn viên", "description": "Đêm thánh nhạc trực tiếp đầu tiên sau thời gian gián đoạn." }
+  ],
+  "achievements": ["Khôi phục lịch tập và phụng vụ đầy đủ.", "Chào đón 17 ca viên mới.", "Tổ chức kỷ niệm 5 năm thành lập."],
+  "challenges": ["Tái xây dựng chất lượng hợp xướng sau thời gian dài.", "Kết nối thành viên cũ và mới.", "Sắp xếp lại nguồn lực cho các ban phục vụ."],
+  "gallery": [
+    { "src": "images/gallery/giang-sinh-2022.jpg", "alt": "Đêm Giáng Sinh 2022", "event": "Giáng Sinh", "caption": "Đêm đoàn viên" },
+    { "src": "images/gallery/gan-ket-2024.jpg", "alt": "Ca viên gặp lại", "event": "Gặp lại", "caption": "Ngày trở về" },
+    { "src": "images/gallery/phung-vu-2025.jpg", "alt": "Ca đoàn hát lễ", "event": "Phụng vụ", "caption": "Chung hàng ghế quen" }
+  ],
+  "sharing": [
+    { "name": "Thu Hà", "role": "Trưởng ca đoàn 2022", "quote": "Nghe tiếng mọi người khởi động trong phòng tập, mình mới nhận ra đã nhớ âm thanh ấy đến thế nào." },
+    { "name": "Khánh Linh", "role": "Ca phó 2022", "quote": "Mười bảy người mới đã làm gia đình này trẻ lại một lần nữa." }
+  ],
+  "emotionJournal": [
+    { "date": "12.03", "title": "Cánh cửa mở lại", "text": "Cả phòng tập vỗ tay khi người cuối cùng bước vào.", "mood": "Vỡ òa" },
+    { "date": "01.10", "title": "Năm ngọn nến", "text": "Những gương mặt cũ và mới cùng đứng trong một khung hình sinh nhật.", "mood": "Đoàn viên" }
+  ],
+  "yearMark": { "title": "Chúng mình đã trở về.", "description": "2022 không chỉ là trở lại một phòng tập, mà là tìm lại nhịp sống cộng đoàn và nhận ra nơi này vẫn luôn là nhà.", "highlight": "5 năm · 46 ca viên" }
+}

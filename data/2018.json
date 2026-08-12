@@ -1,0 +1,45 @@
+{
+  "year": 2018,
+  "theme": { "accent": "#f27f6b" },
+  "overview": {
+    "eyebrow": "Năm thứ tư", "title": "Bền bỉ một nhịp chung",
+    "summary": "Một ban điều hành mới mang đến năng lượng trẻ trung; ca đoàn có thời điểm quy tụ gần 70 ca viên và mở rộng nhiều hoạt động gắn kết.",
+    "verse": "Ở đâu có hai ba người họp lại nhân danh Thầy, thì có Thầy ở đấy.",
+    "longDescription": "Năm 2018, ca đoàn bầu ban điều hành nhiệm kỳ mới: anh Giuse Phạm Văn Tĩnh làm trưởng ca đoàn, anh Phêrô Bùi Ngọc Liêm làm phó; đồng hành chuyên môn có sơ Mai Phạm C.P và chị Anna Bảo Trang. Các hoạt động như tập cử điệu, gặp gỡ sau giờ tập, thăm hỏi thân nhân ca viên và giao lưu với các nhóm trẻ đã giúp cộng đoàn thêm gắn kết.",
+    "coverImage": "images/hero.jpg"
+  },
+  "leadership": {
+    "chaplain": { "name": "Đang cập nhật tư liệu", "note": "Đồng hành mục vụ" },
+    "leader": { "name": "Giuse Phạm Văn Tĩnh", "note": "Trưởng ca đoàn nhiệm kỳ mới" },
+    "deputyLeader": { "name": "Phêrô Bùi Ngọc Liêm", "note": "Phó ca đoàn" },
+    "conductor": { "name": "Sơ Mai Phạm C.P", "note": "Đồng hành chuyên môn" },
+    "deputyConductor": { "name": "Anna Bảo Trang", "note": "Đồng hành chuyên môn" },
+    "secretary": { "name": "Đang cập nhật tư liệu", "note": "Thư ký" },
+    "treasurer": { "name": "Đang cập nhật tư liệu", "note": "Thủ quỹ" },
+    "serviceTeams": ["Ban Phụng vụ", "Ban Truyền thông", "Ban Hậu cần"]
+  },
+  "members": { "total": 70, "new": 0, "inactive": 0, "notes": "Gần 70 ca viên là số liệu ghi nhận trong tư liệu; cần đối chiếu danh sách chính thức." },
+  "activities": [
+    { "type": "Thánh lễ", "date": "Hằng tuần", "title": "Nề nếp phụng vụ", "description": "Duy trì lịch hát và lịch tập cố định mỗi tuần." },
+    { "type": "Lễ Quan thầy", "date": "01.10.2018", "title": "Ba năm bên nhau", "description": "Mừng bổn mạng và kỷ niệm ba năm thành lập ca đoàn." },
+    { "type": "Tĩnh tâm", "date": "03.2018", "title": "Đi chậm để lắng nghe", "description": "Ngày tĩnh tâm mùa Chay dành cho toàn thể ca viên." },
+    { "type": "Hội thao", "date": "07.2018", "title": "Ngày hội tuổi trẻ", "description": "Giao lưu thể thao cùng các hội đoàn trong giáo xứ." },
+    { "type": "Giáng Sinh", "date": "12.2018", "title": "Mùa sao sáng", "description": "Liên khúc Giáng Sinh hai bè đầu tiên của ca đoàn." }
+  ],
+  "achievements": ["Ổn định đội hình ba bè cơ bản.", "Xây dựng kho bản nhạc dùng chung.", "Tổ chức kỷ niệm ba năm thành lập ca đoàn."],
+  "challenges": ["Chênh lệch kỹ năng đọc nhạc giữa các ca viên.", "Cần thêm người phụ trách nhạc cụ.", "Lịch học và làm việc thường xuyên thay đổi."],
+  "gallery": [
+    { "src": "images/gallery/phung-vu-2025.jpg", "alt": "Ca đoàn phục vụ phụng vụ", "event": "Phụng vụ", "caption": "Học cách hòa chung" },
+    { "src": "images/gallery/gan-ket-2024.jpg", "alt": "Sinh hoạt ca đoàn", "event": "Gắn kết", "caption": "Một năm bên nhau" },
+    { "src": "images/gallery/giang-sinh-2022.jpg", "alt": "Đêm Giáng Sinh", "event": "Giáng Sinh", "caption": "Mùa sao sáng" }
+  ],
+  "sharing": [
+    { "name": "Minh Châu", "role": "Ca phó 2018", "quote": "Hòa giọng không phải là hát nhỏ đi, mà là biết nghe để tiếng hát của mình nâng đỡ người khác." },
+    { "name": "Quốc Huy", "role": "Thủ quỹ 2018", "quote": "Những buổi sinh hoạt giản dị khiến chúng mình dần trở thành một gia đình." }
+  ],
+  "emotionJournal": [
+    { "date": "10.03", "title": "Ngày tĩnh tâm đầu mùa", "text": "Một ngày ít nói nhưng hiểu nhau hơn rất nhiều.", "mood": "Bình an" },
+    { "date": "01.10", "title": "Ba ngọn nến", "text": "Ba mươi mốt người cùng thổi ba ngọn nến mang tên Têrêsa.", "mood": "Vui" }
+  ],
+  "yearMark": { "title": "Chúng mình đã thành một đội.", "description": "Năm thứ tư dạy ca đoàn rằng kỷ luật và yêu thương không tách rời nhau; mỗi tiếng hát đẹp hơn khi biết đứng cạnh một tiếng hát khác.", "highlight": "31 ca viên · 3 bè hát" }
+}

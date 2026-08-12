@@ -1,0 +1,44 @@
+{
+  "year": 2023,
+  "theme": { "accent": "#f27f6b" },
+  "overview": {
+    "eyebrow": "Năm rực rỡ", "title": "Thanh xuân cùng cất tiếng",
+    "summary": "Sự đồng hành chuyên môn của ca trưởng Maria Ban Mai mở ra một giai đoạn khởi sắc, với nhiều chuyến đi, phụng vụ và thiện nguyện.",
+    "verse": "Hãy phục vụ Chúa với niềm vui, vào trước thánh nhan Người giữa tiếng hò reo.",
+    "longDescription": "Từ tháng 3.2023, chị Maria Ban Mai đồng hành chuyên môn và mang đến một làn gió mới cho ca đoàn. Chuyên môn được cải thiện, nhiều ca viên trở lại và thành viên mới gia nhập. Những kỷ niệm nổi bật gồm phục vụ lễ tĩnh tâm của Gia Đình Công Giáo Xa Quê Hà Nội, Đại lễ Di dân, tĩnh tâm tại Cô Tô, thiện nguyện Tây Bắc và các thánh lễ hôn phối của ca viên.",
+    "coverImage": "images/hero.jpg"
+  },
+  "leadership": {
+    "chaplain": { "name": "Lm. Giuse Phạm Đức Hiệp", "note": "Đồng hành mục vụ" },
+    "leader": { "name": "Têrêsa Nguyễn Khánh Linh", "note": "Nhiệm kỳ 2023–2025" },
+    "conductor": { "name": "Gioan Trần Minh Quân", "note": "Phụ trách chuyên môn" },
+    "deputyConductor": { "name": "Maria Vũ Thu Hà", "note": "Đào tạo bè nữ" },
+    "secretary": { "name": "Anna Lê Thanh Vy", "note": "Thư ký" },
+    "treasurer": { "name": "Giuse Đặng Quốc Bảo", "note": "Thủ quỹ" },
+    "serviceTeams": ["Ban Phụng vụ", "Ban Truyền thông", "Ban Đời sống", "Ban Hậu cần"]
+  },
+  "members": { "total": 51, "new": 9, "inactive": 4, "notes": "Đội hình lần đầu vượt mốc 50 ca viên và ổn định bốn bè hợp xướng." },
+  "activities": [
+    { "type": "Phục Sinh", "date": "04.2023", "title": "Bình minh hy vọng", "description": "Chương trình hợp xướng bốn bè trong thánh lễ Phục Sinh." },
+    { "type": "Du lịch/Team Building", "date": "07.2023", "title": "Thanh xuân gọi tên", "description": "Chuyến team building ba ngày với nhiều hoạt động kết nối." },
+    { "type": "Hội thao", "date": "08.2023", "title": "Sức trẻ Têrêsa", "description": "Ngày hội thể thao và âm nhạc dành cho ca viên." },
+    { "type": "Lễ Quan thầy", "date": "01.10.2023", "title": "Như một đóa hoa nhỏ", "description": "Đêm diễn nguyện kể chuyện Thánh Têrêsa." },
+    { "type": "Hát lễ cưới", "date": "Trong năm", "title": "Hát cho bạn mình", "description": "Đồng hành trong bốn thánh lễ hôn phối của ca viên." }
+  ],
+  "achievements": ["Ổn định đội hình hợp xướng bốn bè.", "Bắt đầu số hóa kho bản nhạc.", "Xây dựng nhóm đào tạo nhân sự kế thừa."],
+  "challenges": ["Quy mô lớn đòi hỏi quy trình tổ chức rõ ràng hơn.", "Thiếu không gian lưu trữ tư liệu chung.", "Cần cân bằng hoạt động và thời gian nghỉ ngơi."],
+  "gallery": [
+    { "src": "images/gallery/team-building-2023.jpg", "alt": "Team building năm 2023", "event": "Team Building", "caption": "Thanh xuân gọi tên" },
+    { "src": "images/gallery/phung-vu-2025.jpg", "alt": "Ca đoàn hợp xướng", "event": "Phục Sinh", "caption": "Bình minh hy vọng" },
+    { "src": "images/gallery/gan-ket-2024.jpg", "alt": "Ngày hội ca viên", "event": "Hội thao", "caption": "Sức trẻ Têrêsa" }
+  ],
+  "sharing": [
+    { "name": "Khánh Linh", "role": "Trưởng ca đoàn 2023", "quote": "Nhận trách nhiệm trong chính nơi mình đã lớn lên là một món quà, đồng thời là lời mời gọi phải yêu nhiều hơn." },
+    { "name": "Thanh Vy", "role": "Thư ký 2023", "quote": "Chúng mình bắt đầu lưu lại mọi thứ vì hiểu rằng ký ức cũng cần được chăm sóc." }
+  ],
+  "emotionJournal": [
+    { "date": "16.07", "title": "Đêm cuối của chuyến đi", "text": "Năm mươi người ngồi thành vòng tròn và kể về lý do mình ở lại.", "mood": "Thân tình" },
+    { "date": "01.10", "title": "Một đóa hoa nhỏ", "text": "Sân khấu tắt đèn, nhưng câu chuyện của Têrêsa vẫn còn sáng trong mỗi người.", "mood": "Tự hào" }
+  ],
+  "yearMark": { "title": "Thanh xuân đã có tên.", "description": "2023 là một năm rực rỡ không chỉ bởi nhiều hoạt động, mà bởi từng ca viên đã dám góp tiếng nói và trách nhiệm vào hành trình chung.", "highlight": "51 ca viên · 4 bè hát" }
+}

@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0b6b6c" />
+    <meta name="description" content="Nhật ký từng năm từ 2015 đến 2026 của Teresa Youth Choir." />
+    <title>Nhật ký năm — Teresa Youth Choir</title>
+    <link rel="icon" type="image/png" href="images/favicon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="css/style.css?v=archive-2026-11" />
+    <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js" defer></script>
+    <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-auth-compat.js" defer></script>
+    <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore-compat.js" defer></script>
+    <script src="js/firebase-config.js?v=archive-2026-1" defer></script>
+    <script src="js/store.js?v=archive-2026-11" defer></script>
+    <script src="js/main.js?v=archive-2026-9" defer></script>
+    <script src="js/year.js?v=archive-2026-7" defer></script>
+  </head>
+
+  <body class="year-page">
+    <a class="skip-link" href="#year-content">Đi đến nội dung chính</a>
+    <header class="site-header year-header" id="site-header">
+      <a class="brand" href="index.html" aria-label="Về trang chủ Teresa Youth Choir">
+        <span class="brand-logo"><img src="images/logo.jpg" alt="Logo Ca đoàn Giới trẻ Teresa" /></span>
+        <span><strong>TERESA</strong><small>YOUTH CHOIR</small></span>
+      </a>
+      <button class="menu-toggle" type="button" aria-label="Mở menu" aria-expanded="false"><span></span><span></span><span></span></button>
+      <nav class="main-nav" aria-label="Điều hướng chính">
+        <a href="index.html">Trang chủ</a>
+        <a href="index.html#about">Giới thiệu</a>
+        <a class="active" href="index.html#journey">Hành trình</a>
+        <a href="index.html#activities">Hoạt động</a>
+        <a href="index.html#album">Album</a>
+        <a href="index.html#contact">Liên hệ</a>
+        <a href="admin.html">Quản trị</a>
+      </nav>
+    </header>
+
+    <main id="year-content">
+      <!-- JavaScript thay toàn bộ vùng loading bằng dữ liệu của /data/{year}.json. -->
+      <div class="year-loading" id="year-loading" role="status" aria-live="polite">
+        <span class="loading-note" aria-hidden="true">♪</span>
+        <p>Đang mở trang nhật ký…</p>
+      </div>
+      <div id="year-app" hidden></div>
+    </main>
+
+    <footer class="site-footer year-footer">
+      <div class="container footer-bottom">
+        <a href="index.html#journey">← Trở về hành trình</a>
+        <span>© <span data-current-year></span> Teresa Youth Choir</span>
+      </div>
+    </footer>
+
+    <dialog class="lightbox" aria-label="Xem ảnh lớn">
+      <button class="lightbox-close" type="button" aria-label="Đóng ảnh">×</button>
+      <button class="lightbox-nav lightbox-prev" type="button" aria-label="Ảnh trước">←</button>
+      <figure><img src="" alt="" /><figcaption></figcaption></figure>
+      <button class="lightbox-nav lightbox-next" type="button" aria-label="Ảnh tiếp theo">→</button>
+    </dialog>
+    <button class="back-to-top" type="button" aria-label="Về đầu trang">↑</button>
+  </body>
+</html>
