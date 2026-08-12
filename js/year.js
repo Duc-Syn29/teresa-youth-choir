@@ -119,10 +119,7 @@
   async function render(data) {
     const { year, overview, leadership, members, activities, achievements, challenges, gallery, sharing, emotionJournal, yearMark } = data;
     const storedMedia = (await window.TeresaStore?.getMedia({ year })) || [];
-    const yearGallery = [
-      ...gallery,
-      ...storedMedia.map((media) => ({ src: `idb:${media.id}`, alt: media.alt, event: media.topic, caption: media.caption || media.filename })),
-    ];
+    const yearGallery = [...new Map([...(gallery || []), ...storedMedia.map((media) => ({ src: media.src, alt: media.alt, event: media.topic, caption: media.caption || media.filename }))].filter((image) => image.src).map((image) => [image.src, image])).values()];
     document.title = `${year} — Teresa Youth Choir`;
     document.documentElement.style.setProperty("--year-accent", data.theme?.accent || "#f27f6b");
 

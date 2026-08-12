@@ -1,28 +1,16 @@
-/* Cấu hình kết nối Đám mây cho Teresa Youth Choir (Firebase & Cloudflare R2)
- * 
- * HƯỚNG DẪN:
- * 1. Đăng nhập vào Firebase Console: https://console.firebase.google.com/
- * 2. Tạo dự án (Project) -> Vào Project Settings ⚙️ -> Phần "Your apps" -> Tạo ứng dụng Web (</>)
- * 3. Thay thế các giá trị bên dưới bằng cấu hình từ Firebase Console của bạn.
- */
-
+/* Firebase chỉ xác thực người quản trị. Nội dung/ảnh nằm trong GitHub source. */
 window.FIREBASE_CONFIG = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "teresa-youth-choir.firebaseapp.com",
-  projectId: "teresa-youth-choir",
-  storageBucket: "teresa-youth-choir.appspot.com",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyCg1OzlmS2ca6jmk09LUO-Rub2aU_Hfn6w",
+  authDomain: "teresa2026-bff4c.firebaseapp.com",
+  projectId: "teresa2026-bff4c",
+  storageBucket: "teresa2026-bff4c.firebasestorage.app",
+  messagingSenderId: "514745843922",
+  appId: "1:514745843922:web:0ab6d9d8d4612000f52d0b",
+  measurementId: "G-YYC6X3NJ9Z"
 };
 
-/* Cấu hình Cloudflare R2 (Lưu trữ Hình ảnh Miễn phí 10GB - 0$ Phí Băng thông)
- * 
- * HƯỚNG DẪN:
- * 1. Đăng nhập Cloudflare Dashboard -> Vào mục R2 -> Tạo Bucket (ví dụ: teresa-gallery)
- * 2. Bật Public Access cho Bucket hoặc gắn tên miền Custom Domain (ví dụ: https://pub-xxx.r2.dev)
- * 3. Nếu sử dụng Cloudflare Worker để tải ảnh lên, điền uploadEndpoint bên dưới.
- */
-window.CLOUDFLARE_R2_CONFIG = {
-  uploadEndpoint: "", // Ví dụ: "https://teresa-r2-upload.your-subdomain.workers.dev/upload"
-  publicDomain: ""    // Ví dụ: "https://pub-xxx.r2.dev"
+/* Sau khi triển khai Worker, đặt endpoint này là địa chỉ Worker hoặc api.cadoangioitreteresa.org. */
+window.TERESA_API_CONFIG = {
+  endpoint: "https://teresa-youth-choir.chanvcl10.workers.dev",
+  adminEmail: "chanvcl10@gmail.com"
 };

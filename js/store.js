@@ -1,413 +1,242 @@
-/* Kho dữ liệu cho Digital Memory Archive.
- * Hỗ trợ lưu trữ Đám mây (Firebase Firestore + Auth + Cloudflare R2)
- * và lưu trữ cục bộ phía trình duyệt (IndexedDB) làm dự phòng.
- */
+/* Nguồn dữ liệu công khai: file JSON và ảnh trong GitHub. Firebase chỉ dùng xác thực. */
 (function () {
   "use strict";
 
-  const DB_NAME = "teresa-youth-choir-archive";
-  const DB_VERSION = 1;
   const YEAR_MIN = 2015;
   const YEAR_MAX = 2026;
-  const ADMIN_KEY = "archive-admin";
-  const SESSION_KEY = "teresa-admin-session";
-
-  // Khởi tạo Firebase nếu có cấu hình hợp lệ
+  const DB_NAME = "teresa-youth-choir-cache";
+  const DB_VERSION = 1;
   let firebaseApp = null;
   let firebaseAuth = null;
-  let firestoreDb = null;
+
+  const copy = (value) => JSON.parse(JSON.stringify(value));
+  const apiConfig = () => window.TERESA_API_CONFIG || {};
+  const adminEmail = () => String(apiConfig().adminEmail || "").trim().toLowerCase();
+  const topicLabels = { "phung-vu": "Phụng vụ", "thanh-le": "Thánh lễ", "le-quan-thay": "Lễ Quan thầy", "dai-le": "Đại lễ", "thanh-lap": "Thành lập", "phuc-sinh": "Phục Sinh", "giang-sinh": "Giáng Sinh", "thien-nguyen": "Thiện nguyện", "tinh-tam": "Tĩnh tâm", "gan-ket": "Gắn kết", "hoi-thao": "Hội thao", "hoa-nhac": "Hòa nhạc", "cong-doan": "Cộng đoàn", khac: "Khác" };
+  const topicLabel = (value) => topicLabels[value] || value || "Khác";
 
   function isFirebaseConfigured() {
     const config = window.FIREBASE_CONFIG;
-    return Boolean(config && config.apiKey && config.apiKey !== "YOUR_API_KEY" && window.firebase);
+    return Boolean(config?.apiKey && config.apiKey !== "YOUR_API_KEY" && window.firebase);
+  }
+
+  function isSourceApiConfigured() {
+    return Boolean(String(apiConfig().endpoint || "").replace(/\/$/, ""));
   }
 
   function initFirebase() {
-    if (isFirebaseConfigured() && !firebaseApp) {
-      try {
-        if (!window.firebase.apps.length) {
-          firebaseApp = window.firebase.initializeApp(window.FIREBASE_CONFIG);
-        } else {
-          firebaseApp = window.firebase.app();
-        }
-        firebaseAuth = window.firebase.auth();
-        firestoreDb = window.firebase.firestore();
-        console.log("🔥 Đã kết nối Firebase (Auth & Firestore) thành công.");
-      } catch (error) {
-        console.warn("⚠️ Không thể kết nối Firebase, sẽ dùng IndexedDB cục bộ:", error);
-      }
+    if (!isFirebaseConfigured() || firebaseApp) return;
+    try {
+      firebaseApp = window.firebase.apps.length ? window.firebase.app() : window.firebase.initializeApp(window.FIREBASE_CONFIG);
+      firebaseAuth = window.firebase.auth();
+    } catch (error) {
+      console.warn("Không thể khởi tạo Firebase Auth:", error);
     }
   }
 
-  // Tự động khởi tạo khi thư viện Firebase được nhúng
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", initFirebase);
-  } else {
-    initFirebase();
-  }
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", initFirebase);
+  else initFirebase();
 
   function openDatabase() {
     return new Promise((resolve, reject) => {
-      const request = indexedDB.open(DB_NAME, DB_VERSION);
-      request.onupgradeneeded = () => {
-        const db = request.result;
+      const result = indexedDB.open(DB_NAME, DB_VERSION);
+      result.onupgradeneeded = () => {
+        const db = result.result;
         if (!db.objectStoreNames.contains("years")) db.createObjectStore("years", { keyPath: "year" });
         if (!db.objectStoreNames.contains("media")) db.createObjectStore("media", { keyPath: "id" });
-        if (!db.objectStoreNames.contains("settings")) db.createObjectStore("settings", { keyPath: "key" });
       };
-      request.onsuccess = () => resolve(request.result);
-      request.onerror = () => reject(request.error);
+      result.onsuccess = () => resolve(result.result);
+      result.onerror = () => reject(result.error);
     });
   }
 
-  async function request(storeName, mode, action) {
+  async function inStore(name, mode, action) {
     const db = await openDatabase();
     return new Promise((resolve, reject) => {
-      const transaction = db.transaction(storeName, mode);
-      const store = transaction.objectStore(storeName);
-      const result = action(store);
-      transaction.oncomplete = () => { db.close(); resolve(result?.result); };
-      transaction.onerror = () => { db.close(); reject(transaction.error); };
-      transaction.onabort = () => { db.close(); reject(transaction.error); };
+      const tx = db.transaction(name, mode);
+      const result = action(tx.objectStore(name));
+      tx.oncomplete = () => { db.close(); resolve(result?.result); };
+      tx.onerror = () => { db.close(); reject(tx.error); };
     });
   }
 
-  const copy = (data) => JSON.parse(JSON.stringify(data));
-  const id = (prefix) => `${prefix}-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
-
   function normalizeYear(data) {
-    const normalized = copy(data);
-    normalized.activities = (normalized.activities || []).map((activity, index) => ({
+    const next = copy(data);
+    next.year = Number(next.year);
+    next.activities = (next.activities || []).map((activity, index) => ({
       ...activity,
-      id: activity.id || `${normalized.year}-activity-${index + 1}`,
+      id: activity.id || `${next.year}-activity-${index + 1}`,
       body: activity.body || activity.description || "",
       images: activity.images || [],
-      topic: activity.topic || activity.type || "Khác",
+      topic: activity.topic || activity.type || "Khác"
     }));
-    return normalized;
+    return next;
   }
 
   async function loadYear(year) {
-    initFirebase();
-    const numYear = Number(year);
-
-    // 1. Nếu có Firestore, thử lấy dữ liệu đám mây thời gian thực
-    if (firestoreDb) {
-      try {
-        const docRef = firestoreDb.collection("years").doc(String(numYear));
-        const docSnap = await docRef.get();
-        if (docSnap.exists) {
-          const data = normalizeYear(docSnap.data());
-          // Lưu bản sao xuống IndexedDB để dùng khi offline
-          await request("years", "readwrite", (store) => store.put({ year: numYear, data, updatedAt: new Date().toISOString() }));
-          return data;
-        }
-      } catch (error) {
-        console.warn(`[Firestore] Đọc năm ${year} thất bại, chuyển sang IndexedDB/JSON:`, error);
-      }
+    const numericYear = Number(year);
+    const cached = await inStore("years", "readonly", (store) => store.get(numericYear));
+    if (cached?.data && Date.now() - new Date(cached.updatedAt || 0).getTime() < 10 * 60 * 1000) return normalizeYear(cached.data);
+    const response = await fetch(`data/${numericYear}.json?updated=${Date.now()}`, { cache: "no-store" });
+    if (response.ok) {
+      const data = normalizeYear(await response.json());
+      await inStore("years", "readwrite", (store) => store.put({ year: numericYear, data, updatedAt: new Date().toISOString() }));
+      return data;
     }
-
-    // 2. Thử đọc từ IndexedDB cục bộ
-    const stored = await request("years", "readonly", (store) => store.get(numYear));
+    const stored = await inStore("years", "readonly", (store) => store.get(numericYear));
     if (stored?.data) return normalizeYear(stored.data);
+    throw new Error(`Không thể đọc dữ liệu năm ${numericYear}.`);
+  }
 
-    // 3. Đọc từ file JSON tĩnh dự phòng
-    const response = await fetch(`data/${year}.json`);
-    if (!response.ok) throw new Error(`Không thể đọc dữ liệu năm ${year}`);
-    return normalizeYear(await response.json());
+  async function requireAdminToken() {
+    initFirebase();
+    const user = firebaseAuth?.currentUser;
+    if (!user) throw new Error("Phiên đăng nhập đã hết. Vui lòng đăng nhập lại.");
+    if (!adminEmail() || user.email?.toLowerCase() !== adminEmail()) throw new Error("Tài khoản này không có quyền quản trị.");
+    return user.getIdToken();
+  }
+
+  async function api(path, options = {}) {
+    if (!isSourceApiConfigured()) throw new Error("Chưa cấu hình địa chỉ Worker quản trị trong js/firebase-config.js.");
+    const token = await requireAdminToken();
+    const response = await fetch(`${String(apiConfig().endpoint).replace(/\/$/, "")}${path}`, {
+      ...options,
+      headers: { Authorization: `Bearer ${token}`, ...(options.headers || {}) }
+    });
+    const body = await response.json().catch(() => ({}));
+    if (!response.ok) throw new Error(body.error || "Không thể kết nối máy chủ quản trị.");
+    return body;
   }
 
   async function saveYear(data) {
-    initFirebase();
     const normalized = normalizeYear(data);
-    const numYear = Number(normalized.year);
-
-    // 1. Lưu lên Firestore đám mây nếu có kết nối
-    if (firestoreDb) {
-      try {
-        await firestoreDb.collection("years").doc(String(numYear)).set(normalized);
-        console.log(`☁️ Đã lưu dữ liệu năm ${numYear} lên Firestore.`);
-      } catch (error) {
-        console.error(`[Firestore] Không thể lưu năm ${numYear}:`, error);
-        throw new Error(`Không thể lưu lên Firestore Đám mây: ${error.message}`);
-      }
-    }
-
-    // 2. Lưu bản sao vào IndexedDB trình duyệt
-    await request("years", "readwrite", (store) => store.put({ year: numYear, data: normalized, updatedAt: new Date().toISOString() }));
+    if (normalized.year < YEAR_MIN || normalized.year > YEAR_MAX) throw new Error("Năm phải trong khoảng 2015–2026.");
+    await api(`/api/years/${normalized.year}`, {
+      method: "PUT",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(normalized)
+    });
+    await inStore("years", "readwrite", (store) => store.put({ year: normalized.year, data: normalized, updatedAt: new Date().toISOString() }));
     return normalized;
   }
 
+  const makeId = (prefix) => `${prefix}-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
+
   async function saveActivity(year, activity) {
     const data = await loadYear(year);
-    const next = { ...activity, id: activity.id || id(`${year}-activity`), images: activity.images || [] };
-    const existing = data.activities.findIndex((item) => item.id === next.id);
-    if (existing === -1) data.activities.push(next);
-    else data.activities[existing] = next;
+    const next = { ...activity, id: activity.id || makeId(`${year}-activity`), images: activity.images || [] };
+    const index = data.activities.findIndex((item) => item.id === next.id);
+    if (index < 0) data.activities.push(next); else data.activities[index] = next;
     await saveYear(data);
     return next;
   }
 
   async function deleteActivity(year, activityId) {
     const data = await loadYear(year);
-    data.activities = data.activities.filter((activity) => activity.id !== activityId);
+    data.activities = data.activities.filter((item) => item.id !== activityId);
     await saveYear(data);
-  }
-
-  function fileToDataURL(file) {
-    return new Promise((resolve, reject) => {
-      const reader = new FileReader();
-      reader.onload = () => resolve(reader.result);
-      reader.onerror = () => reject(reader.error);
-      reader.readAsDataURL(file);
-    });
   }
 
   async function saveMedia(file, metadata = {}) {
     if (!file?.type?.startsWith("image/")) throw new Error("Vui lòng chọn một tệp ảnh.");
-    if (file.size > 25 * 1024 * 1024) throw new Error("Mỗi ảnh tối đa 25 MB.");
-
-    initFirebase();
-    const r2Config = window.CLOUDFLARE_R2_CONFIG || {};
-    let imageUrl = "";
-
-    // 1. Tải ảnh lên Cloudflare R2 nếu có endpoint
-    if (r2Config.uploadEndpoint) {
-      try {
-        const formData = new FormData();
-        formData.append("file", file);
-        formData.append("year", metadata.year || "");
-        formData.append("topic", metadata.topic || "");
-
-        const response = await fetch(r2Config.uploadEndpoint, {
-          method: "POST",
-          body: formData
-        });
-        if (!response.ok) throw new Error("Lỗi tải ảnh lên Cloudflare R2");
-        const result = await response.json();
-        imageUrl = result.url || result.src;
-      } catch (error) {
-        console.warn("⚠️ Upload R2 thất bại, tự động dùng DataURL:", error);
-      }
-    }
-
-    // 2. Nếu không có R2 hoặc upload thất bại, chuyển thành DataURL
-    if (!imageUrl) {
-      imageUrl = await fileToDataURL(file);
-    }
-
-    const media = {
-      id: id("image"),
-      year: Number(metadata.year),
-      topic: metadata.topic || "Khác",
-      filename: file.name,
-      alt: metadata.alt || file.name,
-      caption: metadata.caption || "",
-      dataUrl: imageUrl,
-      src: imageUrl,
-      createdAt: new Date().toISOString(),
-    };
-
-    // Lưu vào Firestore nếu có
-    if (firestoreDb) {
-      try {
-        await firestoreDb.collection("media").doc(media.id).set(media);
-      } catch (err) {
-        console.warn("[Firestore] Không thể lưu media metadata:", err);
-      }
-    }
-
-    // Lưu vào IndexedDB
-    await request("media", "readwrite", (store) => store.put(media));
-    return media;
+    if (file.size > 20 * 1024 * 1024) throw new Error("Mỗi ảnh tối đa 20 MB khi lưu trong GitHub source.");
+    const form = new FormData();
+    form.append("file", file);
+    form.append("year", String(metadata.year || ""));
+    form.append("topic", metadata.topic || "Khác");
+    form.append("caption", metadata.caption || "");
+    form.append("alt", metadata.alt || file.name);
+    const media = await api("/api/media", { method: "POST", body: form });
+    const normalized = { ...media, id: media.id || media.src, year: Number(metadata.year), topic: metadata.topic || "Khác", filename: media.filename || file.name, caption: metadata.caption || "", alt: metadata.alt || file.name };
+    await inStore("media", "readwrite", (store) => store.put(normalized));
+    return normalized;
   }
 
   async function getMedia(filters = {}) {
-    initFirebase();
-    if (firestoreDb) {
+    let media = [];
+    if (isSourceApiConfigured() && firebaseAuth?.currentUser) {
       try {
-        let ref = firestoreDb.collection("media");
-        if (filters.year) ref = ref.where("year", "==", Number(filters.year));
-        const snapshot = await ref.get();
-        if (!snapshot.empty) {
-          const media = snapshot.docs.map((doc) => doc.data());
-          if (filters.topic && filters.topic !== "Tất cả") {
-            return media.filter((item) => item.topic === filters.topic);
-          }
-          return media.sort((a, b) => (b.createdAt || "").localeCompare(a.createdAt || ""));
-        }
-      } catch (error) {
-        console.warn("[Firestore] Đọc media thất bại, chuyển sang IndexedDB:", error);
-      }
+        const response = await api(`/api/media?year=${encodeURIComponent(filters.year || "")}`);
+        media = (response.items || []).map((item) => ({ ...item, topic: topicLabel(item.topic) }));
+        await Promise.all(media.map((item) => inStore("media", "readwrite", (store) => store.put(item))));
+      } catch (error) { console.warn("Không đọc được kho ảnh GitHub, dùng bộ nhớ cục bộ:", error); }
     }
-
-    const media = (await request("media", "readonly", (store) => store.getAll())) || [];
-    return media
-      .filter((item) => (!filters.year || item.year === Number(filters.year)) && (!filters.topic || filters.topic === "Tất cả" || item.topic === filters.topic))
-      .sort((a, b) => b.createdAt.localeCompare(a.createdAt));
+    if (!media.length) media = (await inStore("media", "readonly", (store) => store.getAll())) || [];
+    return media.filter((item) => (!filters.year || Number(item.year) === Number(filters.year)) && (!filters.topic || filters.topic === "Tất cả" || item.topic === filters.topic));
   }
 
-  async function getMediaById(mediaId) {
-    initFirebase();
-    if (firestoreDb) {
-      try {
-        const doc = await firestoreDb.collection("media").doc(mediaId).get();
-        if (doc.exists) return doc.data();
-      } catch (e) { /* ignore */ }
-    }
-    return request("media", "readonly", (store) => store.get(mediaId));
-  }
-
-  async function deleteMedia(mediaId) {
-    initFirebase();
-    if (firestoreDb) {
-      try {
-        await firestoreDb.collection("media").doc(mediaId).delete();
-      } catch (e) { /* ignore */ }
-    }
-    await request("media", "readwrite", (store) => store.delete(mediaId));
+  async function deleteMedia(path) {
+    const id = String(path);
+    await api("/api/media", { method: "DELETE", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ path: id }) });
+    await inStore("media", "readwrite", (store) => store.delete(id));
   }
 
   async function resolveSource(source) {
     if (!source) return "images/hero.jpg";
-    if (source.startsWith("http://") || source.startsWith("https://") || source.startsWith("data:") || source.startsWith("images/")) {
-      return source;
-    }
     if (source.startsWith("idb:")) {
-      const media = await getMediaById(source.slice(4));
-      return media?.dataUrl || media?.src || "images/hero.jpg";
+      const item = await inStore("media", "readonly", (store) => store.get(source.slice(4)));
+      return item?.src || "images/hero.jpg";
     }
     return source;
   }
 
   async function hydrateMedia(root = document) {
-    const elements = [...root.querySelectorAll("[data-media-src]")];
-    await Promise.all(elements.map(async (element) => {
-      const source = await resolveSource(element.dataset.mediaSrc);
-      if (element.tagName === "IMG") element.src = source;
-      else element.style.backgroundImage = `url("${source}")`;
+    await Promise.all([...root.querySelectorAll("[data-media-src]")].map(async (element) => {
+      const src = await resolveSource(element.dataset.mediaSrc);
+      if (element.tagName === "IMG") element.src = src;
+      else element.style.backgroundImage = `url("${src}")`;
     }));
   }
 
-  async function digest(value) {
-    if (window.crypto?.subtle) {
-      const bytes = new TextEncoder().encode(value);
-      const hash = await window.crypto.subtle.digest("SHA-256", bytes);
-      return [...new Uint8Array(hash)].map((byte) => byte.toString(16).padStart(2, "0")).join("");
-    }
-    return btoa(unescape(encodeURIComponent(value)));
-  }
-
-  async function getAdmin() {
-    let admin = await request("settings", "readonly", (store) => store.get(ADMIN_KEY));
-    if (!admin) {
-      admin = { key: ADMIN_KEY, username: "admin", passwordHash: await digest("teresa2026") };
-      await request("settings", "readwrite", (store) => store.put(admin));
-    }
-    return admin;
-  }
-
-  async function login(usernameOrEmail, password) {
-    initFirebase();
-    if (firebaseAuth) {
-      try {
-        const userCredential = await firebaseAuth.signInWithEmailAndPassword(usernameOrEmail, password);
-        sessionStorage.setItem(SESSION_KEY, "true");
-        return { success: true, user: userCredential.user };
-      } catch (error) {
-        console.error("Lỗi đăng nhập Firebase Auth:", error);
-        return { success: false, message: getAuthErrorMessage(error.code) };
-      }
-    }
-
-    // Fallback: Đăng nhập local nếu Firebase chưa bật
-    const admin = await getAdmin();
-    const verified = usernameOrEmail.trim() === admin.username && (await digest(password)) === admin.passwordHash;
-    if (verified) sessionStorage.setItem(SESSION_KEY, "true");
-    return { success: verified, message: verified ? "" : "Tài khoản hoặc mật khẩu chưa đúng." };
-  }
-
   function getAuthErrorMessage(code) {
-    switch (code) {
-      case "auth/user-not-found":
-      case "auth/wrong-password":
-      case "auth/invalid-credential":
-        return "Email hoặc mật khẩu không chính xác.";
-      case "auth/invalid-email":
-        return "Định dạng Email không hợp lệ.";
-      case "auth/too-many-requests":
-        return "Tài khoản tạm thời bị khóa do đăng nhập sai nhiều lần.";
-      default:
-        return "Lỗi đăng nhập: " + code;
-    }
+    if (["auth/user-not-found", "auth/wrong-password", "auth/invalid-credential"].includes(code)) return "Email hoặc mật khẩu không chính xác.";
+    if (code === "auth/invalid-email") return "Định dạng email không hợp lệ.";
+    if (code === "auth/too-many-requests") return "Tài khoản tạm thời bị khóa vì đăng nhập sai nhiều lần.";
+    return `Lỗi đăng nhập: ${code || "không xác định"}`;
   }
 
-  const isAdmin = () => {
+  async function login(email, password) {
     initFirebase();
-    if (firebaseAuth && firebaseAuth.currentUser) return true;
-    return sessionStorage.getItem(SESSION_KEY) === "true";
-  };
-
-  const logout = async () => {
-    initFirebase();
-    if (firebaseAuth) {
-      try { await firebaseAuth.signOut(); } catch (e) { /* ignore */ }
-    }
-    sessionStorage.removeItem(SESSION_KEY);
-  };
-
-  async function changeCredentials(username, password) {
-    initFirebase();
-    if (firebaseAuth && firebaseAuth.currentUser) {
-      if (password.length < 8) throw new Error("Mật khẩu cần ít nhất 8 ký tự.");
-      await firebaseAuth.currentUser.updatePassword(password);
-      return;
-    }
-    if (!username?.trim() || password.length < 8) throw new Error("Tên đăng nhập là bắt buộc và mật khẩu cần ít nhất 8 ký tự.");
-    const passwordHash = await digest(password);
-    await request("settings", "readwrite", (store) => store.put({ key: ADMIN_KEY, username: username.trim(), passwordHash }));
-  }
-
-  // Đồng bộ toàn bộ dữ liệu 2015-2026 từ file JSON tĩnh lên Firestore
-  async function seedFirestoreToCloud() {
-    initFirebase();
-    if (!firestoreDb) throw new Error("Chưa cấu hình Firebase SDK.");
-    let count = 0;
-    for (let year = YEAR_MIN; year <= YEAR_MAX; year++) {
-      try {
-        const response = await fetch(`data/${year}.json`);
-        if (response.ok) {
-          const rawData = await response.json();
-          const normalized = normalizeYear(rawData);
-          await firestoreDb.collection("years").doc(String(year)).set(normalized);
-          count++;
-        }
-      } catch (err) {
-        console.warn(`Lỗi đồng bộ năm ${year}:`, err);
+    if (!firebaseAuth) return { success: false, message: "Firebase Auth chưa được tải. Hãy kiểm tra cấu hình." };
+    try {
+      const credential = await firebaseAuth.signInWithEmailAndPassword(email, password);
+      if (credential.user.email?.toLowerCase() !== adminEmail()) {
+        await firebaseAuth.signOut();
+        return { success: false, message: "Email này không có quyền quản trị." };
       }
-    }
-    return count;
+      return { success: true, user: credential.user };
+    } catch (error) { return { success: false, message: getAuthErrorMessage(error.code) }; }
+  }
+
+  function isAdmin() {
+    initFirebase();
+    return Boolean(firebaseAuth?.currentUser && firebaseAuth.currentUser.email?.toLowerCase() === adminEmail());
+  }
+
+  async function waitForAuth() {
+    initFirebase();
+    if (!firebaseAuth) return;
+    await new Promise((resolve) => firebaseAuth.onAuthStateChanged(() => resolve()));
+  }
+
+  async function logout() { initFirebase(); if (firebaseAuth) await firebaseAuth.signOut(); }
+  async function changeCredentials(_email, password) {
+    initFirebase();
+    if (!firebaseAuth?.currentUser) throw new Error("Hãy đăng nhập lại để đổi mật khẩu.");
+    if (password.length < 8) throw new Error("Mật khẩu cần ít nhất 8 ký tự.");
+    await firebaseAuth.currentUser.updatePassword(password);
   }
 
   async function exportArchive() {
-    const [years, media] = await Promise.all([
-      request("years", "readonly", (store) => store.getAll()),
-      request("media", "readonly", (store) => store.getAll()),
-    ]);
-    return { version: 1, exportedAt: new Date().toISOString(), years, media };
+    const years = [];
+    for (let year = YEAR_MIN; year <= YEAR_MAX; year += 1) years.push({ year, data: await loadYear(year) });
+    return { version: 2, exportedAt: new Date().toISOString(), years };
   }
 
   async function importArchive(archive) {
-    if (!archive || !Array.isArray(archive.years) || !Array.isArray(archive.media)) throw new Error("Tệp sao lưu không đúng định dạng.");
-    await Promise.all(archive.years.map((item) => saveYear(item.data || item)));
-    await Promise.all(archive.media.map((item) => saveMedia(item)));
+    if (!archive || !Array.isArray(archive.years)) throw new Error("Tệp sao lưu không đúng định dạng.");
+    for (const item of archive.years) await saveYear(item.data || item);
   }
 
-  window.TeresaStore = {
-    YEAR_MIN, YEAR_MAX, loadYear, saveYear, saveActivity, deleteActivity,
-    saveMedia, getMedia, deleteMedia, resolveSource, hydrateMedia,
-    getAdmin, login, isAdmin, logout, changeCredentials,
-    exportArchive, importArchive, seedFirestoreToCloud, isFirebaseConfigured
-  };
+  window.TeresaStore = { YEAR_MIN, YEAR_MAX, loadYear, saveYear, saveActivity, deleteActivity, saveMedia, getMedia, deleteMedia, resolveSource, hydrateMedia, login, isAdmin, logout, changeCredentials, exportArchive, importArchive, isFirebaseConfigured, isSourceApiConfigured, waitForAuth };
 })();
-

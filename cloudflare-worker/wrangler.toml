@@ -1,0 +1,8 @@
+name = "teresa-admin-api"
+main = "worker.js"
+compatibility_date = "2026-08-13"
+
+[vars]
+GITHUB_OWNER = "Duc-Syn29"
+GITHUB_REPO = "teresa-youth-choir"
+GITHUB_BRANCH = "main"
