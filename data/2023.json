@@ -12,8 +12,6 @@
     "chaplain": { "name": "Lm. Giuse Phạm Đức Hiệp", "note": "Đồng hành mục vụ" },
     "leader": { "name": "Têrêsa Nguyễn Khánh Linh", "note": "Nhiệm kỳ 2023–2025" },
     "conductor": { "name": "Gioan Trần Minh Quân", "note": "Phụ trách chuyên môn" },
-    "deputyConductor": { "name": "Maria Vũ Thu Hà", "note": "Đào tạo bè nữ" },
-    "secretary": { "name": "Anna Lê Thanh Vy", "note": "Thư ký" },
     "treasurer": { "name": "Giuse Đặng Quốc Bảo", "note": "Thủ quỹ" },
     "serviceTeams": ["Ban Phụng vụ", "Ban Truyền thông", "Ban Đời sống", "Ban Hậu cần"]
   },
@@ -34,7 +32,7 @@
   ],
   "sharing": [
     { "name": "Khánh Linh", "role": "Trưởng ca đoàn 2023", "quote": "Nhận trách nhiệm trong chính nơi mình đã lớn lên là một món quà, đồng thời là lời mời gọi phải yêu nhiều hơn." },
-    { "name": "Thanh Vy", "role": "Thư ký 2023", "quote": "Chúng mình bắt đầu lưu lại mọi thứ vì hiểu rằng ký ức cũng cần được chăm sóc." }
+    { "name": "Thanh Vy", "role": "Ca viên 2023", "quote": "Chúng mình bắt đầu lưu lại mọi thứ vì hiểu rằng ký ức cũng cần được chăm sóc." }
   ],
   "emotionJournal": [
     { "date": "16.07", "title": "Đêm cuối của chuyến đi", "text": "Năm mươi người ngồi thành vòng tròn và kể về lý do mình ở lại.", "mood": "Thân tình" },

@@ -13,8 +13,6 @@
     "leader": { "name": "Phêrô Đỗ Tiến Hạng", "note": "Được bầu ngày 15.08.2024" },
     "deputyLeader": { "name": "Giuse Trần Viết Vĩ · Giuse Nguyễn Phan Hoài Duy", "note": "Phó ca đoàn" },
     "conductor": { "name": "Maria Ban Mai", "note": "Đồng hành chuyên môn" },
-    "deputyConductor": { "name": "Đang cập nhật tư liệu", "note": "Hỗ trợ chuyên môn" },
-    "secretary": { "name": "Đang cập nhật tư liệu", "note": "Thư ký" },
     "treasurer": { "name": "Đang cập nhật tư liệu", "note": "Thủ quỹ" },
     "serviceTeams": ["Ban Phụng vụ", "Ban Truyền thông", "Ban Đời sống", "Ban Hậu cần"]
   },

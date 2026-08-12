@@ -12,8 +12,6 @@
     "chaplain": { "name": "Lm. Giuse Phạm Đức Hiệp", "note": "Đồng hành mục vụ" },
     "leader": { "name": "Maria Vũ Thu Hà", "note": "Nhiệm kỳ 2021–2023" },
     "conductor": { "name": "Gioan Trần Minh Quân", "note": "Phụ trách chuyên môn" },
-    "deputyConductor": { "name": "Têrêsa Nguyễn Khánh Linh", "note": "Hỗ trợ ca viên mới" },
-    "secretary": { "name": "Anna Lê Thanh Vy", "note": "Thư ký" },
     "treasurer": { "name": "Giuse Đặng Quốc Bảo", "note": "Thủ quỹ" },
     "serviceTeams": ["Ban Phụng vụ", "Ban Truyền thông", "Ban Đời sống", "Ban Hậu cần"]
   },
@@ -34,7 +32,7 @@
   ],
   "sharing": [
     { "name": "Thu Hà", "role": "Trưởng ca đoàn 2022", "quote": "Nghe tiếng mọi người khởi động trong phòng tập, mình mới nhận ra đã nhớ âm thanh ấy đến thế nào." },
-    { "name": "Khánh Linh", "role": "Ca phó 2022", "quote": "Mười bảy người mới đã làm gia đình này trẻ lại một lần nữa." }
+    { "name": "Khánh Linh", "role": "Ca viên 2022", "quote": "Mười bảy người mới đã làm gia đình này trẻ lại một lần nữa." }
   ],
   "emotionJournal": [
     { "date": "12.03", "title": "Cánh cửa mở lại", "text": "Cả phòng tập vỗ tay khi người cuối cùng bước vào.", "mood": "Vỡ òa" },

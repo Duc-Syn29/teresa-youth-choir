@@ -12,8 +12,6 @@
     "chaplain": { "name": "Lm. Giuse Phạm Đức Hiệp", "note": "Đồng hành mục vụ" },
     "leader": { "name": "Maria Vũ Thu Hà", "note": "Nhiệm kỳ 2021–2023" },
     "conductor": { "name": "Maria Nguyễn Diễm My", "note": "Phụ trách chuyên môn" },
-    "deputyConductor": { "name": "Gioan Trần Minh Quân", "note": "Phụ trách kỹ thuật" },
-    "secretary": { "name": "Anna Lê Thanh Vy", "note": "Thư ký" },
     "treasurer": { "name": "Giuse Đặng Quốc Bảo", "note": "Thủ quỹ" },
     "serviceTeams": ["Ban Phụng vụ", "Ban Truyền thông", "Ban Đời sống"]
   },
@@ -33,7 +31,7 @@
   ],
   "sharing": [
     { "name": "Thu Hà", "role": "Trưởng ca đoàn 2021", "quote": "Năm ấy, điều quan trọng nhất không phải là thu được một bài thật hoàn hảo, mà là không để ai cảm thấy mình bị bỏ lại." },
-    { "name": "Minh Quân", "role": "Ca phó 2021", "quote": "Mỗi file thu âm gửi về là một lời nhắn: mình vẫn ở đây." }
+    { "name": "Minh Quân", "role": "Ca viên 2021", "quote": "Mỗi file thu âm gửi về là một lời nhắn: mình vẫn ở đây." }
   ],
   "emotionJournal": [
     { "date": "14.08", "title": "Những túi quà được gửi đi", "text": "Không thể cùng nhau đóng gói, nhưng mỗi người góp một phần từ nơi mình ở.", "mood": "Sẻ chia" },

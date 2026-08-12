@@ -13,8 +13,6 @@
     "chaplain": { "name": "Đang cập nhật tư liệu", "note": "Đồng hành mục vụ" },
     "leader": { "name": "Đang cập nhật tư liệu", "note": "Điều phối sinh hoạt" },
     "conductor": { "name": "Đang cập nhật tư liệu", "note": "Phụ trách chuyên môn" },
-    "deputyConductor": { "name": "Đang cập nhật tư liệu", "note": "Hỗ trợ tập hát" },
-    "secretary": { "name": "Đang cập nhật tư liệu", "note": "Lưu giữ tư liệu" },
     "treasurer": { "name": "Đang cập nhật tư liệu", "note": "Phụ trách tài chính" },
     "serviceTeams": ["Ban Phụng vụ", "Ban Truyền thông", "Ban Hậu cần"]
   },

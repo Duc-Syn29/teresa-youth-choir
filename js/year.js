@@ -33,8 +33,6 @@
       leader: "Trưởng ca đoàn",
       deputyLeader: "Phó ca đoàn",
       conductor: "Ca trưởng",
-      deputyConductor: "Ca phó",
-      secretary: "Thư ký",
       treasurer: "Thủ quỹ",
     };
     const people = Object.entries(labels).map(([key, role]) => ({ role, ...(leadership[key] || {}) }));
@@ -55,20 +53,27 @@
       .join("");
   }
 
-  function renderActivities(activities = []) {
+  function renderActivities(activities = [], gallery = [], fallbackImage = "images/hero.jpg") {
     const icons = { "Thánh lễ": "♪", "Lễ Quan thầy": "✦", "Hòa nhạc": "♫", "Thiện nguyện": "♡", "Tĩnh tâm": "☼", "Du lịch/Team Building": "↗", "Hội thao": "◎", "Giáng Sinh": "★", "Phục Sinh": "☀", "Hát lễ cưới": "∞" };
     return activities
-      .map(
-        (activity) => `
-          <a class="year-activity reveal" href="activity.html?year=${encodeURIComponent(activity.year || "")}&id=${encodeURIComponent(activity.id || "")}">
+      .map((activity, index) => {
+        const matchingPhoto = gallery.find((photo) => photo.event === activity.title || photo.event === activity.type);
+        const preview = activity.coverImage || activity.images?.[0]?.src || matchingPhoto?.src || fallbackImage;
+        const photoCount = activity.images?.length || (matchingPhoto ? 1 : 0);
+        return `
+          <a class="year-activity reveal" href="activity.html?year=${encodeURIComponent(activity.year || "")}&id=${encodeURIComponent(activity.id || "")}" aria-label="Mở hoạt động: ${escapeHTML(activity.title)}">
+            <span class="year-activity-media" data-media-src="${escapeHTML(preview)}" aria-hidden="true"></span>
+            <span class="year-activity-shade" aria-hidden="true"></span>
+            <span class="year-activity-number" aria-hidden="true">${String(index + 1).padStart(2, "0")}</span>
+            <span class="year-activity-content">
+              <span class="year-activity-meta"><span>${escapeHTML(activity.type)}</span><time>${escapeHTML(activity.date)}</time></span>
+              <strong>${escapeHTML(activity.title)}</strong>
+              <span class="year-activity-description">${escapeHTML(activity.description)}</span>
+              <span class="year-activity-footer"><span>${photoCount ? `${photoCount} ảnh tư liệu` : "Đọc câu chuyện"}</span><b aria-hidden="true">↗</b></span>
+            </span>
             <span class="year-activity-icon" aria-hidden="true">${icons[activity.type] || "♪"}</span>
-            <div>
-              <small>${escapeHTML(activity.type)} · ${escapeHTML(activity.date)}</small>
-              <h3>${escapeHTML(activity.title)}</h3>
-              <p>${escapeHTML(activity.description)}</p>
-            </div>
-          </a>`,
-      )
+          </a>`;
+      })
       .join("");
   }
 
@@ -178,7 +183,7 @@
       <section class="year-section" aria-labelledby="year-activities">
         <div class="container">
           ${sectionHeading(4, "Những ngày cùng nhau", "Hoạt động trong năm", "year-activities")}
-          <div class="year-activities">${renderActivities(activities.map((activity) => ({ ...activity, year })))}</div>
+          <div class="year-activities">${renderActivities(activities.map((activity) => ({ ...activity, year })), gallery || [], overview.coverImage)}</div>
         </div>
       </section>
 

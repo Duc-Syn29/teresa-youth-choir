@@ -13,8 +13,6 @@
     "chaplain": { "name": "Lm. Giuse Phạm Đức Hiệp", "note": "Đồng hành mục vụ" },
     "leader": { "name": "Têrêsa Nguyễn Khánh Linh", "note": "Nhiệm kỳ 2024–2026" },
     "conductor": { "name": "Gioan Trần Minh Quân", "note": "Phụ trách chuyên môn" },
-    "deputyConductor": { "name": "Maria Vũ Thu Hà", "note": "Đào tạo bè nữ" },
-    "secretary": { "name": "Anna Lê Thanh Vy", "note": "Quản lý nhật ký số" },
     "treasurer": { "name": "Giuse Đặng Quốc Bảo", "note": "Phụ trách tài chính" },
     "serviceTeams": ["Ban Phụng vụ", "Ban Truyền thông", "Ban Đời sống", "Ban Hậu cần"]
   },
@@ -60,7 +58,7 @@
   "sharing": [
     { "name": "Khánh Linh", "role": "Trưởng ca đoàn 2025", "quote": "Trưởng thành không phải là đi thật xa khỏi điểm bắt đầu, mà là biết mang tinh thần ngày đầu tiên vào mỗi việc mình làm hôm nay." },
     { "name": "Minh Quân", "role": "Ca trưởng 2025", "quote": "Chất lượng của một hợp xướng bắt đầu từ kỹ thuật, nhưng sức chạm của nó luôn bắt đầu từ tình yêu giữa những người đang hát." },
-    { "name": "Thanh Vy", "role": "Thư ký 2025", "quote": "Mỗi bức ảnh, mỗi mẩu ghi chép được lưu lại để mai này chúng mình nhớ rằng đã từng có một tuổi trẻ đẹp đến thế." },
+    { "name": "Thanh Vy", "role": "Ca viên 2025", "quote": "Mỗi bức ảnh, mỗi mẩu ghi chép được lưu lại để mai này chúng mình nhớ rằng đã từng có một tuổi trẻ đẹp đến thế." },
     { "name": "Bảo An", "role": "Ca viên mới", "quote": "Mình đến vì thích hát, nhưng ở lại vì tìm thấy một gia đình." }
   ],
   "emotionJournal": [

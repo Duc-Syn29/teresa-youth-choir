@@ -12,8 +12,6 @@
     "chaplain": { "name": "Lm. Anrê Nguyễn Minh Tâm", "note": "Đồng hành mục vụ" },
     "leader": { "name": "Giuse Đỗ Anh Khoa", "note": "Nhiệm kỳ 2019–2021" },
     "conductor": { "name": "Giuse Nguyễn Hoàng Nam", "note": "Phụ trách chuyên môn" },
-    "deputyConductor": { "name": "Maria Nguyễn Diễm My", "note": "Hỗ trợ tập hát" },
-    "secretary": { "name": "Anna Phạm Hồng Nhung", "note": "Thư ký" },
     "treasurer": { "name": "Phanxicô Trần Quốc Huy", "note": "Thủ quỹ" },
     "serviceTeams": ["Ban Phụng vụ", "Ban Bác ái", "Ban Truyền thông", "Ban Hậu cần"]
   },
@@ -34,7 +32,7 @@
   ],
   "sharing": [
     { "name": "Anh Khoa", "role": "Trưởng ca đoàn 2019", "quote": "Chuyến đi đầu tiên giúp mình hiểu rằng phụng sự đôi khi chỉ là ngồi xuống và lắng nghe một câu chuyện." },
-    { "name": "Diễm My", "role": "Ca phó 2019", "quote": "Tiếng hát đẹp nhất năm ấy là tiếng cười của những em nhỏ chúng mình gặp." }
+    { "name": "Diễm My", "role": "Ca viên 2019", "quote": "Tiếng hát đẹp nhất năm ấy là tiếng cười của những em nhỏ chúng mình gặp." }
   ],
   "emotionJournal": [
     { "date": "20.07", "title": "Chuyến xe sáng sớm", "text": "Không ai ngủ dù xe khởi hành từ năm giờ, vì tất cả đều háo hức.", "mood": "Rộn ràng" },

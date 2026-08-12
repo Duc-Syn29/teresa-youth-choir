@@ -13,8 +13,6 @@
     "chaplain": { "name": "Lm. Anrê Nguyễn Minh Tâm", "note": "Đồng hành mục vụ" },
     "leader": { "name": "Maria Trần Ngọc Anh", "note": "Nhiệm kỳ đầu tiên" },
     "conductor": { "name": "Giuse Nguyễn Hoàng Nam", "note": "Phụ trách chuyên môn" },
-    "deputyConductor": { "name": "Têrêsa Lê Minh Châu", "note": "Hỗ trợ tập hát" },
-    "secretary": { "name": "Anna Phạm Hồng Nhung", "note": "Lưu giữ những trang đầu" },
     "treasurer": { "name": "Phanxicô Trần Quốc Huy", "note": "Phụ trách tài chính" },
     "serviceTeams": ["Ban Phụng vụ", "Ban Truyền thông", "Ban Hậu cần"]
   },

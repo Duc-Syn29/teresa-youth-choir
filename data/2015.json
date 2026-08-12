@@ -14,8 +14,6 @@
     "leader": { "name": "Toma Trần Minh Quân", "note": "Trưởng ca đoàn nhiệm kỳ đầu" },
     "deputyLeader": { "name": "Phêrô Bùi Ngọc Liêm · Giuse Nguyễn Xuân Hoàn", "note": "Phó ca đoàn nhiệm kỳ đầu" },
     "conductor": { "name": "Sơ Maria Vũ Vĩ Cầm", "note": "Đồng hành chuyên môn" },
-    "deputyConductor": { "name": "Phạm Công Minh (cần xác minh)", "note": "Hỗ trợ chuyên môn" },
-    "secretary": { "name": "Đang cập nhật tư liệu", "note": "Lưu giữ tư liệu" },
     "treasurer": { "name": "Đang cập nhật tư liệu", "note": "Phụ trách tài chính" },
     "serviceTeams": ["Ban Phụng vụ", "Ban Hậu cần"]
   },

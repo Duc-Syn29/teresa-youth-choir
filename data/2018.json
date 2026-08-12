@@ -13,8 +13,6 @@
     "leader": { "name": "Giuse Phạm Văn Tĩnh", "note": "Trưởng ca đoàn nhiệm kỳ mới" },
     "deputyLeader": { "name": "Phêrô Bùi Ngọc Liêm", "note": "Phó ca đoàn" },
     "conductor": { "name": "Sơ Mai Phạm C.P", "note": "Đồng hành chuyên môn" },
-    "deputyConductor": { "name": "Anna Bảo Trang", "note": "Đồng hành chuyên môn" },
-    "secretary": { "name": "Đang cập nhật tư liệu", "note": "Thư ký" },
     "treasurer": { "name": "Đang cập nhật tư liệu", "note": "Thủ quỹ" },
     "serviceTeams": ["Ban Phụng vụ", "Ban Truyền thông", "Ban Hậu cần"]
   },
@@ -34,7 +32,7 @@
     { "src": "images/gallery/giang-sinh-2022.jpg", "alt": "Đêm Giáng Sinh", "event": "Giáng Sinh", "caption": "Mùa sao sáng" }
   ],
   "sharing": [
-    { "name": "Minh Châu", "role": "Ca phó 2018", "quote": "Hòa giọng không phải là hát nhỏ đi, mà là biết nghe để tiếng hát của mình nâng đỡ người khác." },
+    { "name": "Minh Châu", "role": "Ca viên 2018", "quote": "Hòa giọng không phải là hát nhỏ đi, mà là biết nghe để tiếng hát của mình nâng đỡ người khác." },
     { "name": "Quốc Huy", "role": "Thủ quỹ 2018", "quote": "Những buổi sinh hoạt giản dị khiến chúng mình dần trở thành một gia đình." }
   ],
   "emotionJournal": [

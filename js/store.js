@@ -63,6 +63,10 @@
   function normalizeYear(data) {
     const next = copy(data);
     next.year = Number(next.year);
+    if (next.leadership) {
+      const { deputyConductor, secretary, ...leadership } = next.leadership;
+      next.leadership = leadership;
+    }
     next.activities = (next.activities || []).map((activity, index) => ({
       ...activity,
       id: activity.id || `${next.year}-activity-${index + 1}`,

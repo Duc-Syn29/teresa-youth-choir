@@ -6,8 +6,23 @@
   const app = document.querySelector("#activity-app");
   const escapeHTML = (value = "") => String(value).replace(/[&<>'"]/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[character]);
 
-  function photoMarkup(photo, activity) {
-    return `<button class="gallery-item activity-photo" type="button" data-full="${escapeHTML(photo.src)}" data-caption="${escapeHTML(photo.caption || activity.title)}"><img data-media-src="${escapeHTML(photo.src)}" src="images/hero.jpg" alt="${escapeHTML(photo.alt || activity.title)}" loading="lazy" /><span><small>${escapeHTML(activity.topic || activity.type)}</small><strong>${escapeHTML(photo.caption || activity.title)}</strong></span></button>`;
+  function photoMarkup(photo, activity, index) {
+    return `<button class="gallery-item activity-photo reveal" type="button" data-full="${escapeHTML(photo.src)}" data-caption="${escapeHTML(photo.caption || activity.title)}"><img data-media-src="${escapeHTML(photo.src)}" src="images/hero.jpg" alt="${escapeHTML(photo.alt || activity.title)}" loading="lazy" /><span class="activity-photo-index">${String(index + 1).padStart(2, "0")}</span><span><small>${escapeHTML(activity.topic || activity.type)}</small><strong>${escapeHTML(photo.caption || activity.title)}</strong></span></button>`;
+  }
+
+  function proseMarkup(value = "") {
+    const paragraphs = String(value).split(/\n\s*\n|\n/).map((part) => part.trim()).filter(Boolean);
+    return paragraphs.map((paragraph, index) => `<p${index === 0 ? ' class="activity-lead"' : ""}>${escapeHTML(paragraph)}</p>`).join("");
+  }
+
+  function activityPreview(activity, data) {
+    const matchingPhoto = (data.gallery || []).find((photo) => photo.event === activity.title || photo.event === activity.type);
+    return activity.coverImage || activity.images?.[0]?.src || matchingPhoto?.src || data.overview.coverImage;
+  }
+
+  function navigationCard(activity, data, direction) {
+    if (!activity) return '<span class="activity-nav-spacer"></span>';
+    return `<a class="activity-nav-card reveal ${direction}" href="activity.html?year=${data.year}&id=${encodeURIComponent(activity.id)}"><span class="activity-nav-image" data-media-src="${escapeHTML(activityPreview(activity, data))}" aria-hidden="true"></span><span class="activity-nav-overlay" aria-hidden="true"></span><span class="activity-nav-copy"><small>${direction === "previous" ? "← Hoạt động trước" : "Hoạt động tiếp →"}</small><strong>${escapeHTML(activity.title)}</strong><span>${escapeHTML(activity.date)}</span></span></a>`;
   }
 
   async function render() {
@@ -17,17 +32,52 @@
     }
     try {
       const data = await window.TeresaStore.loadYear(year);
-      const activity = data.activities.find((item) => item.id === activityId);
+      const activityIndex = data.activities.findIndex((item) => item.id === activityId);
+      const activity = data.activities[activityIndex];
       if (!activity) throw new Error("Không tìm thấy hoạt động này.");
       document.title = `${activity.title} — Teresa Youth Choir`;
       document.querySelector("#back-to-year").href = `year.html?year=${year}`;
-      const photos = activity.images?.length ? activity.images : data.gallery.filter((photo) => photo.event === activity.title || photo.event === activity.type).slice(0, 6);
+      const photos = activity.images?.length ? activity.images : (data.gallery || []).filter((photo) => photo.event === activity.title || photo.event === activity.type).slice(0, 6);
       const coverImage = activity.coverImage || photos[0]?.src || data.overview.coverImage;
+      const previous = activityIndex > 0 ? data.activities[activityIndex - 1] : null;
+      const next = activityIndex < data.activities.length - 1 ? data.activities[activityIndex + 1] : null;
       const adminLink = window.TeresaStore.isAdmin() ? `<a class="button button-light" href="admin.html?year=${year}&activity=${encodeURIComponent(activity.id)}">Chỉnh sửa hoạt động ↗</a>` : "";
       app.innerHTML = `
-        <section class="activity-hero"><div class="activity-hero-bg" data-media-src="${escapeHTML(coverImage)}" style="background-image:url('${escapeHTML(coverImage)}')"></div><div class="container"><p class="eyebrow">${escapeHTML(activity.type)} · ${escapeHTML(activity.date)}</p><h1>${escapeHTML(activity.title)}</h1><p>${escapeHTML(activity.description)}</p><div class="activity-actions"><a class="button button-primary" href="year.html?year=${year}">← Nhật ký ${year}</a>${adminLink}</div></div></section>
-        <section class="year-section"><div class="container activity-detail-grid"><article class="activity-body reveal"><p>${escapeHTML(activity.body || activity.description)}</p></article><aside class="activity-meta reveal"><span>Năm</span><strong>${year}</strong><span>Chủ đề</span><strong>${escapeHTML(activity.topic || activity.type)}</strong></aside></div></section>
-        <section class="year-section activity-gallery-section"><div class="container"><div class="year-section-heading"><span class="index">ẢNH — TƯ LIỆU</span><h2>Khoảnh khắc của hoạt động</h2></div>${photos.length ? `<div class="year-gallery">${photos.map((photo) => photoMarkup(photo, activity)).join("")}</div>` : '<p class="empty-note">Chưa có ảnh cho hoạt động này. Quản trị viên có thể bổ sung ảnh trong khu quản trị.</p>'}</div></section>`;
+        <section class="activity-hero">
+          <div class="activity-hero-bg" data-media-src="${escapeHTML(coverImage)}"></div>
+          <div class="activity-hero-grain" aria-hidden="true"></div>
+          <div class="container activity-hero-content">
+            <nav class="activity-breadcrumb" aria-label="Đường dẫn"><a href="index.html">Trang chủ</a><span>/</span><a href="year.html?year=${year}">Nhật ký ${year}</a><span>/</span><span>${escapeHTML(activity.type)}</span></nav>
+            <div class="activity-hero-meta"><span>${escapeHTML(activity.type)}</span><time>${escapeHTML(activity.date)}</time></div>
+            <h1>${escapeHTML(activity.title)}</h1>
+            <p class="activity-hero-summary">${escapeHTML(activity.description)}</p>
+            <div class="activity-actions"><a class="button button-primary" href="year.html?year=${year}">← Nhật ký ${year}</a>${adminLink}</div>
+          </div>
+          <a class="activity-scroll-cue" href="#activity-story"><span>Đọc câu chuyện</span><i aria-hidden="true">↓</i></a>
+        </section>
+        <section class="activity-story-section" id="activity-story">
+          <div class="container activity-detail-grid">
+            <aside class="activity-facts reveal" aria-label="Thông tin hoạt động">
+              <p class="eyebrow">Tư liệu hoạt động</p>
+              <div class="activity-fact"><span>Năm</span><strong>${year}</strong></div>
+              <div class="activity-fact"><span>Thời gian</span><strong>${escapeHTML(activity.date)}</strong></div>
+              <div class="activity-fact"><span>Chủ đề</span><strong>${escapeHTML(activity.topic || activity.type)}</strong></div>
+              <div class="activity-fact"><span>Kho ảnh</span><strong>${photos.length ? `${photos.length} khoảnh khắc` : "Đang cập nhật"}</strong></div>
+            </aside>
+            <article class="activity-story reveal">
+              <p class="activity-story-kicker">Câu chuyện được lưu lại</p>
+              <h2>${escapeHTML(activity.title)}</h2>
+              <div class="activity-prose">${proseMarkup(activity.body || activity.description)}</div>
+            </article>
+          </div>
+        </section>
+        <section class="activity-gallery-section">
+          <div class="container">
+            <div class="activity-section-heading reveal"><div><span>Ảnh — tư liệu</span><strong>${String(photos.length).padStart(2, "0")}</strong></div><h2>Những khoảnh khắc<br /><em>còn ở lại.</em></h2></div>
+            ${photos.length ? `<div class="activity-gallery">${photos.map((photo, index) => photoMarkup(photo, activity, index)).join("")}</div>` : '<div class="activity-empty reveal"><span aria-hidden="true">◇</span><h3>Kho ảnh đang được hoàn thiện</h3><p>Những hình ảnh của hoạt động này sẽ sớm được bổ sung vào kho lưu trữ.</p></div>'}
+          </div>
+        </section>
+        <section class="activity-navigation"><div class="container"><p class="eyebrow">Tiếp tục hành trình ${year}</p><div class="activity-nav-grid">${navigationCard(previous, data, "previous")}${navigationCard(next, data, "next")}</div></div></section>`;
       await window.TeresaStore.hydrateMedia(app);
       window.TeresaUI?.initReveal(app);
       window.TeresaUI?.initLightbox();
