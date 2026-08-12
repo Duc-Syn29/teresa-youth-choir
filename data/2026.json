@@ -51,13 +51,14 @@
   },
   "activities": [
     {
-      "type": "Hòa nhạc",
-      "date": "Mùa Phục Sinh 2026",
+      "id": "2026-activity-1",
+      "coverImage": "images/hero.jpg",
       "title": "Exsultet — Đêm Hòa Nhạc Phục Sinh",
+      "date": "Mùa Phục Sinh 2026",
+      "type": "Hòa nhạc",
+      "topic": "Phục Sinh",
       "description": "Chương trình tôn vinh mầu nhiệm Phục Sinh của Thiên Chúa.",
       "body": "Một đêm hòa nhạc được tổ chức với ước mong đưa cộng đoàn đến gần hơn với niềm vui Phục Sinh qua thánh nhạc.",
-      "topic": "Phục Sinh",
-      "id": "2026-activity-1",
       "images": []
     },
     {
