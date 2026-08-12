@@ -254,12 +254,12 @@ button { color: inherit; }
 
 .year-hero { position: relative; min-height: 78svh; display: flex; align-items: flex-end; overflow: hidden; color: var(--white); background: var(--teal-950); }
 .year-hero-bg { position: absolute; inset: 0; background-position: center; background-size: cover; }
-.year-hero-bg::after { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(7,58,88,.92), rgba(12,118,154,.38)), linear-gradient(0deg, rgba(7,58,88,.78), transparent 65%); }
+.year-hero-bg::after { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(7,58,88,.76) 0%, rgba(12,118,154,.34) 48%, rgba(12,118,154,.08) 100%), linear-gradient(0deg, rgba(7,58,88,.62), transparent 72%); }
 .year-hero-content { position: relative; z-index: 2; display: grid; grid-template-columns: .7fr 1.3fr; gap: 5rem; align-items: end; padding: 10rem 0 5rem; }
 .year-number { font-family: var(--serif); font-size: clamp(6rem, 17vw, 13rem); line-height: .65; letter-spacing: -.08em; opacity: .9; }
 .year-intro .eyebrow { color: var(--coral-soft); }
-.year-intro h1 { max-width: 720px; margin: 0; font-family: var(--serif); font-size: clamp(2.7rem, 6vw, 5.6rem); line-height: .96; letter-spacing: -.04em; }
-.year-intro > p:last-of-type { max-width: 620px; color: rgba(255,255,255,.75); }
+.year-intro h1 { max-width: 720px; margin: 0; font-family: var(--serif); font-size: clamp(2.7rem, 6vw, 5.6rem); line-height: .96; letter-spacing: -.04em; text-shadow: 0 3px 20px rgba(1,36,55,.72); }
+.year-intro > p:last-of-type { max-width: 620px; color: rgba(255,255,255,.96); font-weight: 500; text-shadow: 0 2px 14px rgba(1,36,55,.8); }
 .year-verse { margin-top: 2rem; padding-left: 1.5rem; border-left: 2px solid var(--coral); font-family: var(--serif); font-style: italic; }
 
 .year-nav { position: sticky; z-index: 80; top: 4.55rem; color: var(--ink); background: rgba(251,254,255,.96); border-bottom: 1px solid var(--line); backdrop-filter: blur(12px); overflow-x: auto; }

@@ -137,9 +137,35 @@
     await saveYear(data);
   }
 
+  async function compressImage(file) {
+    const unchanged = { file, compressed: false, originalBytes: file.size, savedBytes: file.size };
+    if (!file?.type?.startsWith("image/") || /image\/(gif|svg\+xml)/.test(file.type)) return unchanged;
+    try {
+      const bitmap = await createImageBitmap(file);
+      const longest = Math.max(bitmap.width, bitmap.height);
+      const scale = Math.min(1, 2560 / longest);
+      const width = Math.max(1, Math.round(bitmap.width * scale));
+      const height = Math.max(1, Math.round(bitmap.height * scale));
+      const canvas = document.createElement("canvas");
+      canvas.width = width; canvas.height = height;
+      const context = canvas.getContext("2d", { alpha: false });
+      context.drawImage(bitmap, 0, 0, width, height);
+      bitmap.close?.();
+      const blob = await new Promise((resolve) => canvas.toBlob(resolve, "image/jpeg", .88));
+      if (!blob || blob.size >= file.size) return unchanged;
+      const name = file.name + ".jpg";
+      return { file: new File([blob], name, { type: "image/jpeg", lastModified: file.lastModified }), compressed: true, originalBytes: file.size, savedBytes: blob.size };
+    } catch (error) {
+      console.warn("Không thể nén ảnh, sẽ tải ảnh gốc:", error);
+      return unchanged;
+    }
+  }
+
   async function saveMedia(file, metadata = {}) {
     if (!file?.type?.startsWith("image/")) throw new Error("Vui lòng chọn một tệp ảnh.");
-    if (file.size > 20 * 1024 * 1024) throw new Error("Mỗi ảnh tối đa 20 MB khi lưu trong GitHub source.");
+    const prepared = await compressImage(file);
+    file = prepared.file;
+    if (file.size > 20 * 1024 * 1024) throw new Error("Ảnh sau khi nén vẫn lớn hơn 20 MB. Hãy chọn ảnh nhỏ hơn.");
     const form = new FormData();
     form.append("file", file);
     form.append("year", String(metadata.year || ""));
@@ -149,7 +175,7 @@
     const media = await api("/api/media", { method: "POST", body: form });
     const normalized = { ...media, id: media.id || media.src, year: Number(metadata.year), topic: metadata.topic || "Khác", filename: media.filename || file.name, caption: metadata.caption || "", alt: metadata.alt || file.name };
     await inStore("media", "readwrite", (store) => store.put(normalized));
-    return normalized;
+    return { ...normalized, compression: prepared.compressed ? { originalBytes: prepared.originalBytes, savedBytes: prepared.savedBytes } : null };
   }
 
   async function getMedia(filters = {}) {
