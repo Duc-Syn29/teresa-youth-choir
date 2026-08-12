@@ -2,42 +2,175 @@
   "year": 2020,
   "theme": { "accent": "#e6b85c" },
   "overview": {
-    "eyebrow": "Năm thử thách", "title": "Gần nhau từ xa",
-    "summary": "Giữa ảnh hưởng của COVID-19, ca đoàn duy trì tinh thần phục vụ qua thiện nguyện và cuộc thi hát thánh ca trực tuyến.",
-    "verse": "Đừng sợ, chỉ cần tin thôi.",
-    "longDescription": "Dù đại dịch COVID-19 làm gián đoạn nhiều hoạt động, ca đoàn vẫn cố gắng gìn giữ các truyền thống thiện nguyện và tổ chức cuộc thi hát thánh ca trực tuyến hướng về cột mốc 5 năm. Đó là lời xác tín rằng khó khăn không thể làm mất đi tình yêu thánh nhạc và tinh thần phục vụ.",
-    "coverImage": "images/hero.jpg"
+    "eyebrow": "Dấu mốc 5 năm",
+    "title": "5 năm một hành trình — Muôn Đời Tạ Ơn",
+    "summary": "Năm kỷ niệm 5 năm thành lập, khi Ca đoàn Giới trẻ Têrêsa giữ lửa phục vụ, tạ ơn và bác ái giữa những biến động của đại dịch COVID-19.",
+    "verse": "Muôn đời tạ ơn Chúa vì tình thương của Ngài.",
+    "longDescription": "Năm 2020 đánh dấu 5 năm Ca đoàn Giới trẻ Têrêsa được quy tụ dưới một mái nhà. Dù COVID-19 khiến nhiều ca viên xa quê, các buổi tập và Thánh lễ có lúc phải tạm dừng, ca đoàn vẫn duy trì sự kết nối qua những buổi tập trực tuyến. Tạ ơn Chúa, hành trình năm nay vẫn có những dấu ấn đậm sâu: tĩnh tâm tại Đan viện Biển Đức Thiên Hà, thực hiện MV Muôn Đời Tạ Ơn, mừng lễ bổn mạng, phục vụ diễn nguyện Giáng Sinh và chương trình Giáng Sinh Yêu Thương tại Hà Giang.",
+    "coverImage": "images/gallery/2020/lequanthay20202.jpg"
   },
   "leadership": {
-    "chaplain": { "name": "Lm. Anrê Nguyễn Minh Tâm", "note": "Đồng hành mục vụ" },
-    "leader": { "name": "Giuse Đỗ Anh Khoa", "note": "Nhiệm kỳ 2019–2021" },
-    "conductor": { "name": "Maria Nguyễn Diễm My", "note": "Phụ trách chuyên môn" },
-    "deputyConductor": { "name": "Gioan Trần Minh Quân", "note": "Hỗ trợ thu âm" },
-    "secretary": { "name": "Anna Lê Thanh Vy", "note": "Thư ký" },
-    "treasurer": { "name": "Phanxicô Trần Quốc Huy", "note": "Thủ quỹ" },
-    "serviceTeams": ["Ban Phụng vụ", "Ban Truyền thông", "Ban Đời sống"]
+    "leader": { "name": "Giuse Phạm Văn Tĩnh", "note": "Trưởng ca đoàn" },
+    "deputyLeader": { "name": "Phêrô Bùi Ngọc Liêm · Giuse Nguyễn Xuân Hoàn", "note": "Phó ca đoàn" },
+    "conductor": { "name": "Vincente Vũ Hải Ngân", "note": "Ca trưởng" },
+    "treasurer": { "name": "Maria Đặng Thị Thúy", "note": "Thủ quỹ" },
+    "teams": [
+      { "name": "Ban Truyền thông", "members": ["Tôma Vũ Duy Tâm", "Giuse Nguyễn Văn Thượng"] },
+      { "name": "Ban Liên kết", "members": ["Maria Đỗ Thị Thanh Hoa"] },
+      { "name": "Ban Tâm linh", "members": ["Maria Nguyễn Thị Uyên", "Maria Nguyễn Thị Oanh"] },
+      { "name": "Ban Sinh hoạt", "members": ["Antôn Nguyễn Thành Dương"] }
+    ]
   },
-  "members": { "total": 35, "new": 3, "inactive": 6, "notes": "Dù sinh hoạt gián đoạn, phần lớn ca viên vẫn kết nối qua các nhóm bè trực tuyến." },
+  "members": {
+    "total": 63,
+    "new": 18,
+    "inactive": 15,
+    "notes": "Ca viên mới trong năm: khoảng 15–20 người; thành viên nghỉ: khoảng 15 người."
+  },
   "activities": [
-    { "type": "Thánh lễ", "date": "Theo giai đoạn", "title": "Những thánh lễ giản dị", "description": "Phục vụ với đội hình nhỏ khi điều kiện cho phép." },
-    { "type": "Hòa nhạc", "date": "05.2020", "title": "Hợp xướng tại nhà", "description": "Video hợp xướng đầu tiên được ghép từ phần thu riêng của từng ca viên." },
-    { "type": "Thiện nguyện", "date": "08.2020", "title": "Chia sẻ nhu yếu phẩm", "description": "Góp sức hỗ trợ các gia đình khó khăn trong giáo xứ." },
-    { "type": "Tĩnh tâm", "date": "12.2020", "title": "Một giờ ở lại", "description": "Giờ cầu nguyện trực tuyến khép lại một năm nhiều biến động." }
+    {
+      "id": "2020-prayer-lent",
+      "type": "Tĩnh tâm",
+      "topic": "Tâm linh",
+      "date": "28.02.2020",
+      "title": "Giờ cầu nguyện và giao hòa Mùa Chay",
+      "description": "Cha đặc trách và Ban Điều hành tổ chức giờ cầu nguyện, giải tội để ca viên chuẩn bị tâm hồn đón Mùa Chay.",
+      "body": "Ngày 28/2, cha đặc trách cùng Ban Điều hành tổ chức giờ cầu nguyện và giải tội cho anh chị em ca viên, giúp mọi người dọn mình đón Mùa Chay sốt sáng."
+    },
+    {
+      "id": "2020-return-to-service",
+      "type": "Thánh lễ",
+      "topic": "Phụng vụ",
+      "date": "07–21.05.2020",
+      "title": "Trở lại trong tiếng hát",
+      "description": "Ca đoàn tập hát và phục vụ trở lại sau giãn cách; phục vụ lễ vọng Mừng Chúa Lên Trời và cùng mừng sinh nhật ca viên.",
+      "body": "Khi tình hình dịch bệnh được kiểm soát, từ 7/5 ca đoàn trở lại tập hát với sự cho phép của quý cha linh hướng và sự thống nhất của Ban Điều hành. Dù số người trở lại chưa nhiều, ca đoàn vẫn phục vụ lễ vọng Mừng Chúa Lên Trời ngày 20/5; hôm sau cùng mừng sinh nhật ca viên trong buổi tập thường niên."
+    },
+    {
+      "id": "2020-retreat-thien-ha",
+      "type": "Tĩnh tâm",
+      "topic": "Tĩnh tâm",
+      "date": "20–21.06.2020",
+      "title": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "description": "Hai ngày lắng đọng, cầu nguyện và nhìn lại hành trình chung tại Đan viện Thiên Hà, Hòa Bình.",
+      "body": "Giữa không gian bình yên của Đan viện Thiên Hà – Hòa Bình, ca viên cùng cầu nguyện, chia sẻ, nhìn lại bản thân và góp ý để ca đoàn thăng tiến hơn, hướng tới kỷ niệm 5 năm. Chuyến đi có sự đồng hành của cha đặc trách giới trẻ Giuse Trần Hữu Hoan và cha Fx. Phạm Minh Thiết, Bề trên Đan viện Thiên Hà. Qua những lời chia sẻ, mỗi người được mời gọi sống tĩnh lặng, yêu thương tha nhân và hiểu rõ hơn ơn gọi phục vụ.",
+      "coverImage": "images/gallery/2020/tinhtam20206.jpg",
+      "images": [
+        { "src": "images/gallery/2020/tinhtam20201.jpg", "caption": "Cầu nguyện trong ánh nến", "alt": "Nến được xếp thành hình trái tim trong giờ cầu nguyện" },
+        { "src": "images/gallery/2020/tinhtam20202.jpg", "caption": "Thánh lễ trong kỳ tĩnh tâm", "alt": "Linh mục chủ sự trong kỳ tĩnh tâm" },
+        { "src": "images/gallery/2020/tinhtam20203.jpg", "caption": "Chầu Thánh Thể", "alt": "Ca viên cầu nguyện trước Thánh giá" },
+        { "src": "images/gallery/2020/tinhtam20204.jpg", "caption": "Lắng nghe và chia sẻ", "alt": "Ca viên tham dự buổi chia sẻ tại Đan viện Thiên Hà" },
+        { "src": "images/gallery/2020/tinhtam20205.jpg", "caption": "Một buổi học hỏi chung", "alt": "Ca viên lắng nghe trong buổi tĩnh tâm" },
+        { "src": "images/gallery/2020/tinhtam20206.jpg", "caption": "Kỷ niệm tại Đan viện Thiên Hà", "alt": "Ca đoàn chụp ảnh cùng các linh mục tại Đan viện Thiên Hà" }
+      ]
+    },
+    {
+      "id": "2020-muon-doi-ta-on",
+      "type": "Hòa nhạc",
+      "topic": "Hòa nhạc",
+      "date": "06.2020",
+      "title": "MV Muôn Đời Tạ Ơn",
+      "description": "Món quà âm nhạc đánh dấu 5 năm hình thành và phát triển của Ca đoàn Giới trẻ Têrêsa.",
+      "body": "Được thực hiện tại Đan viện Thiên Hà, MV Muôn Đời Tạ Ơn là món quà đặc biệt mừng 5 năm thành lập. Những giai điệu, khuôn mặt và kỷ niệm trong MV trở thành lời tạ ơn của ca đoàn vì đã được Chúa quy tụ, gìn giữ và đồng hành."
+    },
+    {
+      "id": "2020-song-ca",
+      "type": "Hòa nhạc",
+      "topic": "Gắn kết",
+      "date": "09.2020",
+      "title": "Những đôi song ca hướng về lễ Quan thầy",
+      "description": "Các cặp đôi trong ca đoàn gửi những tiết mục song ca trên trang nội bộ, tạo thêm niềm vui và sự gắn kết.",
+      "body": "Trong bầu khí chuẩn bị lễ bổn mạng, các cặp đôi trong ca đoàn tham gia chương trình hát song ca. Các tiết mục lần lượt được đăng tải trên trang Ca đoàn Giới trẻ Teresa để mọi người cùng theo dõi, chia sẻ và bình luận."
+    },
+    {
+      "id": "2020-patron-feast",
+      "type": "Lễ Quan thầy",
+      "topic": "Lễ Quan thầy",
+      "date": "30.09–01.10.2020",
+      "title": "Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "description": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu, cùng tạ ơn hành trình 5 năm của các thế hệ ca viên.",
+      "body": "Ngày 30/9/2020, ca đoàn long trọng mừng lễ bổn mạng Thánh Têrêsa Hài Đồng Giêsu. Vì hưởng ứng tinh thần phòng chống dịch, chương trình được tổ chức ấm cúng nhưng đầy ý nghĩa. Đây là dịp các thế hệ ca viên và cựu ca viên cùng nhìn lại chặng đường 5 năm, tạ ơn Chúa và tiếp tục trao phó hành trình phía trước qua lời chuyển cầu của Thánh Têrêsa.",
+      "coverImage": "images/gallery/2020/lequanthay20201.jpg",
+      "images": [
+        { "src": "images/gallery/2020/lequanthay20201.jpg", "caption": "5 năm một chặng đường", "alt": "Áp phích mừng lễ Quan thầy lần thứ V của Ca đoàn Giới trẻ Giáo xứ Thái Hà" },
+        { "src": "images/gallery/2020/lequanthay20202.jpg", "caption": "Cùng dâng lời tạ ơn", "alt": "Ca đoàn và các linh mục chụp ảnh trong Thánh lễ Quan thầy năm 2020" }
+      ]
+    },
+    {
+      "id": "2020-catechism-service",
+      "type": "Hội thao",
+      "topic": "Cộng đoàn",
+      "date": "10.2020",
+      "title": "Phục vụ và học hỏi giáo lý",
+      "description": "Duy trì phục vụ phụng vụ, tham gia cuộc thi giáo lý khối Liên Ca đoàn và đời sống chung của giáo xứ.",
+      "body": "Trong tháng 10, ca đoàn tiếp tục phục vụ các Thánh lễ, ngày kính Đức Mẹ, Đại lễ Di dân và lễ kính Thánh nữ Cecilia. Ngày 20/10, các thành viên tham gia cuộc thi giáo lý của khối Liên Ca đoàn, cùng học hỏi đức tin và xây dựng tinh thần hiệp nhất."
+    },
+    {
+      "id": "2020-dem-dong",
+      "type": "Giáng Sinh",
+      "topic": "Giáng Sinh",
+      "date": "18.12.2020",
+      "title": "Diễn nguyện Giáng Sinh — Đêm Đông",
+      "description": "Ca đoàn Têrêsa kết hợp cùng Ca đoàn Latinh hợp xướng Đêm Đông trong chương trình diễn nguyện tại Nhà thờ Hàng Bột.",
+      "body": "Đêm 18/12/2020, Ca đoàn Giới trẻ Têrêsa kết hợp với Ca đoàn Latinh hợp xướng bài Đêm Đông trong chương trình diễn nguyện cùng các ca đoàn tại Hà Nội, tổ chức ở Nhà thờ Hàng Bột."
+    },
+    {
+      "id": "2020-ha-giang-charity",
+      "type": "Thiện nguyện",
+      "topic": "Thiện nguyện",
+      "date": "18–20.12.2020",
+      "title": "Giáng Sinh Yêu Thương — Hà Giang",
+      "description": "Mang quà, sự sẻ chia và tiếng hát Giáng Sinh đến bản người Mông tại xã Thuận Hòa, huyện Vị Xuyên, tỉnh Hà Giang.",
+      "body": "Ngay sau chương trình diễn nguyện, ca đoàn lên đường trong đêm đến xã Thuận Hòa, huyện Vị Xuyên, tỉnh Hà Giang để tổ chức chương trình Giáng Sinh Yêu Thương. Những món quà, phần sẻ chia và tiếng hát Giáng Sinh được gửi tới các em nhỏ cùng những gia đình có hoàn cảnh khó khăn ở vùng cao. Đây là hoạt động khép lại năm kỷ niệm 5 năm thành lập đầy ý nghĩa của ca đoàn.",
+      "coverImage": "images/gallery/2020/thienguyen202013.jpg",
+      "images": [
+        { "src": "images/gallery/2020/thienguyen20201.jpg", "caption": "Khởi hành đến vùng cao", "alt": "Đoàn thiện nguyện chụp ảnh tại biển Quản Bạ" },
+        { "src": "images/gallery/2020/thienguyen20202.jpg", "caption": "Trao quà tại bản", "alt": "Người dân nhận quà thiện nguyện" },
+        { "src": "images/gallery/2020/thienguyen20203.jpg", "caption": "Ánh sáng Giáng Sinh", "alt": "Hang đá Giáng Sinh tại giáo xứ" },
+        { "src": "images/gallery/2020/thienguyen20204.jpg", "caption": "Những phần quà sẻ chia", "alt": "Quà thiện nguyện được chuẩn bị tại vùng cao" },
+        { "src": "images/gallery/2020/thienguyen20205.jpg", "caption": "Lửa trại Giáng Sinh", "alt": "Cộng đoàn quây quần bên lửa trại" },
+        { "src": "images/gallery/2020/thienguyen20206.jpg", "caption": "Đêm hội bên ánh lửa", "alt": "Lửa trại trong đêm Giáng Sinh" },
+        { "src": "images/gallery/2020/thienguyen20207.jpg", "caption": "Cộng đoàn cùng chung vui", "alt": "Mọi người quây quần bên lửa trại trước nhà thờ" },
+        { "src": "images/gallery/2020/thienguyen20208.jpg", "caption": "Tiết mục mừng Chúa Giáng Sinh", "alt": "Tiết mục văn nghệ mừng Giáng Sinh" },
+        { "src": "images/gallery/2020/thienguyen20209.jpg", "caption": "Một ánh nhìn cần được yêu thương", "alt": "Em nhỏ tại chương trình thiện nguyện" },
+        { "src": "images/gallery/2020/thienguyen202010.jpg", "caption": "Ghé thăm bản làng", "alt": "Ca viên thăm một gia đình vùng cao" },
+        { "src": "images/gallery/2020/thienguyen202011.jpg", "caption": "Bữa ăn chung", "alt": "Ca viên chuẩn bị bữa ăn ngoài trời" },
+        { "src": "images/gallery/2020/thienguyen202012.jpg", "caption": "Niềm vui bên bếp lửa", "alt": "Ca viên quây quần chuẩn bị đồ ăn" },
+        { "src": "images/gallery/2020/thienguyen202013.jpg", "caption": "Trao chăn ấm", "alt": "Đoàn thiện nguyện trao chăn cho người dân" },
+        { "src": "images/gallery/2020/thienguyen202014.jpg", "caption": "Cùng nhau chuẩn bị quà", "alt": "Đoàn thiện nguyện chuẩn bị quà giữa vùng núi" },
+        { "src": "images/gallery/2020/thienguyen202015.jpg", "caption": "Nụ cười của ngày gặp gỡ", "alt": "Ca viên và người dân chụp ảnh cùng nhau" },
+        { "src": "images/gallery/2020/thienguyen202016.jpg", "caption": "Sẻ chia từng món đồ", "alt": "Đoàn thiện nguyện phân phát quần áo" },
+        { "src": "images/gallery/2020/thienguyen202017.jpg", "caption": "Những phần quà đến bản", "alt": "Người dân vùng cao đứng cùng quà thiện nguyện" },
+        { "src": "images/gallery/2020/thienguyen202018.jpg", "caption": "Con đường đến với bản", "alt": "Con đường miền núi dẫn tới bản làng" },
+        { "src": "images/gallery/2020/thienguyen202019.jpg", "caption": "Hành trình sẻ chia", "alt": "Đoàn thiện nguyện đi trên đường vùng núi" }
+      ]
+    }
   ],
-  "achievements": ["Thực hiện video hợp xướng trực tuyến đầu tiên.", "Duy trì sinh hoạt nhóm bè qua mạng.", "Tổ chức quỹ hỗ trợ nội bộ cho ca viên khó khăn."],
-  "challenges": ["Không thể tập luyện trực tiếp trong thời gian dài.", "Chất lượng thiết bị thu âm không đồng đều.", "Tâm lý và nhịp sống của nhiều ca viên bị xáo trộn."],
+  "achievements": [
+    "Kỷ niệm 5 năm thành lập trong tinh thần tạ ơn và hiệp nhất.",
+    "Duy trì kết nối, tập hát trực tuyến khi sinh hoạt trực tiếp bị gián đoạn.",
+    "Thực hiện MV Muôn Đời Tạ Ơn và tổ chức nhiều hoạt động phục vụ, bác ái."
+  ],
+  "challenges": [
+    "COVID-19 khiến các buổi tập hát, Thánh lễ và hoạt động chung có lúc phải dừng lại.",
+    "Nhiều ca viên xa quê hoặc chưa thể trở lại Hà Nội.",
+    "Các hoạt động kỷ niệm 5 năm phải tổ chức gọn nhẹ để bảo đảm an toàn."
+  ],
   "gallery": [
-    { "src": "images/gallery/phung-vu-2025.jpg", "alt": "Ký ức phụng vụ", "event": "Phụng vụ", "caption": "Những ngày giản dị" },
-    { "src": "images/gallery/gan-ket-2024.jpg", "alt": "Kết nối ca viên", "event": "Kết nối", "caption": "Gần nhau từ xa" },
-    { "src": "images/gallery/giang-sinh-2022.jpg", "alt": "Ánh sáng hy vọng", "event": "Hy vọng", "caption": "Ánh sáng không tắt" }
+    { "src": "images/gallery/2020/lequanthay20202.jpg", "alt": "Ca đoàn mừng lễ Quan thầy năm 2020", "event": "Lễ Quan thầy", "caption": "5 năm một hành trình" },
+    { "src": "images/gallery/2020/tinhtam20206.jpg", "alt": "Ca đoàn tại Đan viện Thiên Hà", "event": "Tĩnh tâm", "caption": "Lắng đọng tại Thiên Hà" },
+    { "src": "images/gallery/2020/thienguyen202013.jpg", "alt": "Chương trình thiện nguyện Hà Giang", "event": "Thiện nguyện", "caption": "Giáng Sinh Yêu Thương" },
+    { "src": "images/gallery/2020/thienguyen20208.jpg", "alt": "Văn nghệ mừng Giáng Sinh", "event": "Thiện nguyện", "caption": "Niềm vui nơi vùng cao" },
+    { "src": "images/gallery/2020/tinhtam20201.jpg", "alt": "Giờ cầu nguyện bằng nến", "event": "Tĩnh tâm", "caption": "Một giờ ở lại" }
   ],
   "sharing": [
-    { "name": "Anh Khoa", "role": "Trưởng ca đoàn 2020", "quote": "Có những tháng chúng mình không hát cùng nhau, nhưng chưa bao giờ ngừng hỏi nhau: bạn có ổn không?" },
-    { "name": "Thanh Vy", "role": "Thư ký 2020", "quote": "Màn hình không thay thế được một cái ôm, nhưng đã giúp chúng mình chờ ngày gặp lại." }
+    { "name": "Giuse Phạm Văn Tĩnh", "role": "Trưởng ca đoàn 2020", "quote": "Năm 2020, lễ mừng kính Thánh Têrêsa Quan thầy là dịp để ca đoàn dâng lời tạ ơn Thiên Chúa, cầu nguyện cho ân nhân, thân nhân và tiếp thêm nhiệt huyết phục vụ cho các ca viên." },
+    { "name": "Maria Nguyễn Thị Uyên", "role": "Phó ca đoàn 2020", "quote": "Để hưởng ứng tinh thần chống dịch COVID-19, Ban Điều hành đã chọn tổ chức các hoạt động kỷ niệm nhỏ hơn nhưng đầy ý nghĩa và ấm cúng." }
   ],
-  "emotionJournal": [
-    { "date": "05.04", "title": "Phòng tập im tiếng", "text": "Lần đầu tiên tối Thứ Bảy trôi qua mà không có buổi tập.", "mood": "Trống vắng" },
-    { "date": "31.05", "title": "Video được đăng", "text": "Từng ô vuông nhỏ ghép lại thành một bài hát và một niềm hy vọng.", "mood": "Hy vọng" }
-  ],
-  "yearMark": { "title": "Khoảng cách không làm ta xa nhau.", "description": "2020 là bằng chứng rằng cộng đoàn không chỉ được tạo nên bởi một nơi chốn, mà bởi những người vẫn chọn quan tâm và chờ đợi nhau.", "highlight": "35 ca viên · 1 màn hình · cùng nhịp" }
+  "emotionJournal": [],
+  "yearMark": {
+    "title": "5 năm một hành trình — Muôn Đời Tạ Ơn",
+    "description": "2020 là năm của thử thách nhưng cũng đầy hồng ân. Sau năm năm với biết bao khuôn mặt, kỷ niệm, tiếng hát và những khoảng lặng, Ca đoàn Giới trẻ Têrêsa vẫn nhận ra Chúa luôn quy tụ, gìn giữ và đồng hành.",
+    "highlight": "2015–2020 · 5 năm một hành trình"
+  }
 }
