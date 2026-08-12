@@ -541,12 +541,12 @@ button { color: inherit; }
    ARCHIVE 2026 — activity detail and local administration.
    ================================================================ */
 .activity-hero { position: relative; isolation: isolate; overflow: hidden; padding: clamp(10rem, 18vw, 14rem) 0 clamp(4.5rem, 9vw, 7rem); color: var(--white); background: linear-gradient(135deg, #063d59, #087ca5 58%, #5bc4d8); }
-.activity-hero-bg { position: absolute; z-index: 0; inset: 0; background: center / cover no-repeat; opacity: .55; }
+.activity-hero-bg { position: absolute; z-index: 0; inset: 0; background: center / cover no-repeat; opacity: .86; }
 .activity-hero .container { position: relative; z-index: 1; }
-.activity-hero-bg::after { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(4,48,75,.92), rgba(7,103,137,.72), rgba(7,103,137,.32)); }
+.activity-hero-bg::after { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(4,48,75,.78) 0%, rgba(7,103,137,.48) 48%, rgba(7,103,137,.12) 100%); }
 .activity-hero .eyebrow { color: var(--coral-soft); }
-.activity-hero h1, .admin-heading h1, .admin-login h1 { max-width: 900px; margin: 0; font-family: var(--serif); font-size: clamp(3rem, 7vw, 6.5rem); line-height: .96; letter-spacing: -.045em; }
-.activity-hero > .container > p:not(.eyebrow) { max-width: 720px; margin: 1.7rem 0 0; color: rgba(255,255,255,.78); font-size: 1.06rem; }
+.activity-hero h1, .admin-heading h1, .admin-login h1 { max-width: 900px; margin: 0; font-family: var(--serif); font-size: clamp(3rem, 7vw, 6.5rem); line-height: .96; letter-spacing: -.045em; text-shadow: 0 3px 20px rgba(1,36,55,.72); }
+.activity-hero > .container > p:not(.eyebrow) { max-width: 720px; margin: 1.7rem 0 0; color: rgba(255,255,255,.96); font-size: 1.06rem; font-weight: 500; text-shadow: 0 2px 14px rgba(1,36,55,.82); }
 .activity-actions { display: flex; flex-wrap: wrap; gap: .8rem; margin-top: 2.3rem; }
 .activity-body { padding: clamp(2rem, 5vw, 4.5rem); background: rgba(255,255,255,.64); border: 1px solid rgba(255,255,255,.8); border-radius: var(--radius); box-shadow: var(--glass-shadow); }
 .activity-body p { margin: 0; white-space: pre-line; font-family: var(--serif); font-size: clamp(1.08rem, 1.55vw, 1.38rem); line-height: 1.75; }

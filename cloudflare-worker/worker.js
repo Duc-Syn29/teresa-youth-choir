@@ -41,17 +41,23 @@ function toBase64(bytes) {
 }
 
 async function verifyAdmin(request, env) {
+  if (!env.FIREBASE_API_KEY) throw new Error("Worker chưa có secret FIREBASE_API_KEY.");
+  if (!env.ADMIN_EMAIL) throw new Error("Worker chưa có secret ADMIN_EMAIL.");
   const match = /^Bearer\s+(.+)$/i.exec(request.headers.get("Authorization") || "");
   if (!match) throw new Error("Thiếu phiên đăng nhập Firebase.");
   const response = await fetch(`https://identitytoolkit.googleapis.com/v1/accounts:lookup?key=${encodeURIComponent(env.FIREBASE_API_KEY)}`, {
     method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ idToken: match[1] })
   });
   const data = await response.json();
-  const email = data.users?.[0]?.email?.toLowerCase();
-  if (!response.ok || !email || email !== String(env.ADMIN_EMAIL || "").toLowerCase()) throw new Error("Tài khoản không có quyền quản trị.");
+  if (!response.ok) throw new Error("Firebase không xác minh được phiên đăng nhập: " + ((data.error && data.error.message) || "unknown error") + ".");
+  const email = data.users?.[0]?.email?.trim().toLowerCase();
+  if (!email) throw new Error("Firebase không trả về email tài khoản.");
+  if (email !== String(env.ADMIN_EMAIL).trim().toLowerCase()) throw new Error("Email Firebase " + email + " chưa trùng với secret ADMIN_EMAIL của Worker.");
+  return email;
 }
 
 async function github(env, path, init = {}) {
+  if (!env.GITHUB_TOKEN) throw new Error("Worker chưa có secret GITHUB_TOKEN.");
   const response = await fetch(`https://api.github.com/repos/${encodeURIComponent(env.GITHUB_OWNER || "Duc-Syn29")}/${encodeURIComponent(env.GITHUB_REPO || "teresa-youth-choir")}${path}`, {
     ...init,
     headers: { "Accept": "application/vnd.github+json", "Authorization": `Bearer ${env.GITHUB_TOKEN}`, "X-GitHub-Api-Version": "2022-11-28", "User-Agent": "teresa-youth-choir-admin", ...(init.headers || {}) }
@@ -72,7 +78,8 @@ export default {
     const url = new URL(request.url);
     try {
       if (url.pathname === "/health") return json(request, { ok: true, service: "teresa-admin-api" });
-      await verifyAdmin(request, env);
+      const verifiedEmail = await verifyAdmin(request, env);
+      if (request.method === "GET" && url.pathname === "/api/session") return json(request, { ok: true, email: verifiedEmail });
       if (request.method === "PUT" && /^\/api\/years\/\d{4}$/.test(url.pathname)) {
         const year = cleanYear(url.pathname.split("/").pop());
         const data = await request.json();
