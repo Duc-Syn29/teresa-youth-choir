@@ -285,8 +285,7 @@ button { color: inherit; }
 .person-card { min-height: 12rem; padding: 1.6rem; background: var(--white); border: 1px solid var(--line); border-radius: 1rem; transition: transform .3s, box-shadow .3s, border-color .3s; }
 .person-card:hover { transform: translateY(-.4rem); box-shadow: var(--shadow); border-color: transparent; }
 .person-card span { color: var(--muted); font-size: .6rem; letter-spacing: .12em; text-transform: uppercase; }
-.person-card h3 { margin: 1.4rem 0 .2rem; font-family: var(--serif); font-size: 1.35rem; }
-.person-card p { margin: 0; color: var(--teal-700); font-size: .68rem; }
+.person-card h3 { margin: 1.4rem 0 0; font-family: var(--serif); font-size: 1.35rem; }
 
 .member-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
 .member-stat { padding: 2.3rem; color: var(--white); background: var(--teal-700); border-radius: 1rem; text-align: center; }
@@ -303,8 +302,10 @@ button { color: inherit; }
 .year-activity-media { position: absolute; z-index: -3; inset: 0; background: linear-gradient(145deg, var(--teal-800), var(--teal-500)) center / cover no-repeat; transform: scale(1.015); transition: transform 1s cubic-bezier(.2,.75,.2,1), filter .6s ease; }
 .year-activity-shade { position: absolute; z-index: -2; inset: 0; background: linear-gradient(180deg, rgba(3,37,57,.06) 8%, rgba(3,48,72,.26) 42%, rgba(2,35,55,.95) 100%); transition: background .5s ease; }
 .year-activity::after { content: ""; position: absolute; z-index: -1; inset: 0; pointer-events: none; border-radius: inherit; box-shadow: inset 0 1px 0 rgba(255,255,255,.34); }
-.year-activity-number { position: absolute; top: 1.45rem; left: 1.55rem; color: rgba(255,255,255,.78); font-family: var(--serif); font-size: .95rem; font-weight: 700; letter-spacing: .08em; }
-.year-activity-icon { position: absolute; top: 1.2rem; right: 1.25rem; display: grid; width: 3rem; height: 3rem; place-items: center; color: var(--teal-950); background: rgba(255,255,255,.84); border: 1px solid rgba(255,255,255,.7); border-radius: 50%; box-shadow: 0 10px 25px rgba(0,0,0,.15); font-family: var(--serif); font-size: 1.15rem; -webkit-backdrop-filter: blur(14px); backdrop-filter: blur(14px); transition: transform .45s cubic-bezier(.2,.75,.2,1), background .35s ease; }
+.year-activity-number { position: absolute; top: 1.25rem; left: 1.3rem; display: flex; align-items: baseline; gap: .35rem; padding: .62rem .78rem; color: var(--white); background: rgba(2,35,55,.58); border: 1px solid rgba(255,255,255,.55); border-radius: .85rem; box-shadow: 0 10px 28px rgba(0,0,0,.16); -webkit-backdrop-filter: blur(16px) saturate(140%); backdrop-filter: blur(16px) saturate(140%); }
+.year-activity-number small { align-self: center; margin-right: .2rem; font-size: .52rem; font-weight: 800; letter-spacing: .13em; text-transform: uppercase; }
+.year-activity-number strong { font-family: var(--serif); font-size: 1.35rem; line-height: 1; letter-spacing: .02em; }
+.year-activity-number em { color: rgba(255,255,255,.72); font-size: .62rem; font-style: normal; font-weight: 700; letter-spacing: .06em; }
 .year-activity-content { align-self: flex-end; display: grid; width: 100%; gap: .75rem; padding: clamp(1.45rem, 3vw, 2.25rem); }
 .year-activity-meta { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem .7rem; color: rgba(255,255,255,.82); font-size: .62rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
 .year-activity-meta > span { padding: .38rem .65rem; color: var(--teal-950); background: var(--coral-soft); border-radius: 999px; }
@@ -315,7 +316,6 @@ button { color: inherit; }
 .year-activity:hover { border-color: rgba(255,255,255,.95); box-shadow: 0 34px 80px rgba(3,55,84,.28); transform: translateY(-.55rem); }
 .year-activity:hover .year-activity-media { filter: saturate(1.08); transform: scale(1.08); }
 .year-activity:hover .year-activity-shade { background: linear-gradient(180deg, rgba(3,37,57,.02), rgba(3,48,72,.2) 38%, rgba(2,35,55,.97)); }
-.year-activity:hover .year-activity-icon { background: var(--coral-soft); transform: rotate(8deg) scale(1.08); }
 .year-activity:hover .year-activity-footer b { transform: rotate(45deg); }
 .year-activity:focus-visible { outline: 3px solid var(--coral-soft); outline-offset: 4px; }
 
@@ -552,8 +552,9 @@ button { color: inherit; }
   .year-activity-content { padding: 1.25rem; }
   .year-activity-description { font-size: .75rem; -webkit-line-clamp: 3; }
   .year-activity-content > strong { font-size: clamp(1.65rem, 8vw, 2.2rem); }
-  .year-activity-number { top: 1.15rem; left: 1.2rem; }
-  .year-activity-icon { top: 1rem; right: 1rem; width: 2.75rem; height: 2.75rem; }
+  .year-activity-number { top: 1rem; left: 1rem; padding: .58rem .7rem; }
+  .year-activity-number small { font-size: .48rem; }
+  .year-activity-number strong { font-size: 1.3rem; }
   .journal-entry { grid-template-columns: 1fr; gap: .6rem; }
   .journal-mood { justify-self: start; }
   .year-switcher { flex-direction: column; align-items: center; }

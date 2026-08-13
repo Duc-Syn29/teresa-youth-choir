@@ -38,7 +38,7 @@
     const people = Object.entries(labels).map(([key, role]) => ({ role, ...(leadership[key] || {}) }));
     const serviceTeams = (leadership.teams || leadership.serviceTeams || []).map((team) => {
       const normalized = typeof team === "string" ? { name: team, members: [] } : team;
-      return { role: normalized.name || "Ban phục vụ", name: (normalized.members || []).join(" · ") || "Đang cập nhật thành viên", note: "Ban phục vụ" };
+      return { role: normalized.name || "Ban phục vụ", name: (normalized.members || []).join(" · ") || "Đang cập nhật thành viên" };
     });
 
     return [...people, ...serviceTeams]
@@ -47,14 +47,12 @@
           <article class="person-card reveal">
             <span>${escapeHTML(person.role)}</span>
             <h3>${escapeHTML(person.name || "Đang cập nhật")}</h3>
-            <p>${escapeHTML(person.note || "Phụng sự trong năm")}</p>
           </article>`,
       )
       .join("");
   }
 
   function renderActivities(activities = [], gallery = [], fallbackImage = "images/hero.jpg") {
-    const icons = { "Thánh lễ": "♪", "Lễ Quan thầy": "✦", "Hòa nhạc": "♫", "Thiện nguyện": "♡", "Tĩnh tâm": "☼", "Du lịch/Team Building": "↗", "Hội thao": "◎", "Giáng Sinh": "★", "Phục Sinh": "☀", "Hát lễ cưới": "∞" };
     return activities
       .map((activity, index) => {
         const matchingPhoto = gallery.find((photo) => photo.event === activity.title || photo.event === activity.type);
@@ -64,14 +62,13 @@
           <a class="year-activity reveal" href="activity.html?year=${encodeURIComponent(activity.year || "")}&id=${encodeURIComponent(activity.id || "")}" aria-label="Mở hoạt động: ${escapeHTML(activity.title)}">
             <span class="year-activity-media" data-media-src="${escapeHTML(preview)}" aria-hidden="true"></span>
             <span class="year-activity-shade" aria-hidden="true"></span>
-            <span class="year-activity-number" aria-hidden="true">${String(index + 1).padStart(2, "0")}</span>
+            <span class="year-activity-number" aria-hidden="true"><small>Hoạt động</small><strong>${String(index + 1).padStart(2, "0")}</strong><em>/ ${String(activities.length).padStart(2, "0")}</em></span>
             <span class="year-activity-content">
               <span class="year-activity-meta"><span>${escapeHTML(activity.type)}</span><time>${escapeHTML(activity.date)}</time></span>
               <strong>${escapeHTML(activity.title)}</strong>
               <span class="year-activity-description">${escapeHTML(activity.description)}</span>
               <span class="year-activity-footer"><span>${photoCount ? `${photoCount} ảnh tư liệu` : "Đọc câu chuyện"}</span><b aria-hidden="true">↗</b></span>
             </span>
-            <span class="year-activity-icon" aria-hidden="true">${icons[activity.type] || "♪"}</span>
           </a>`;
       })
       .join("");
