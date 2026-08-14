@@ -1,11 +1,11 @@
-/* Nguồn dữ liệu công khai: file JSON và ảnh trong GitHub. Firebase chỉ dùng xác thực. */
+/* Nguồn dữ liệu công khai: chỉ mục/nội dung JSON và ảnh Cloudflare R2. Firebase chỉ dùng xác thực. */
 (function () {
   "use strict";
 
   const YEAR_MIN = 2015;
   const YEAR_MAX = 2026;
   const DB_NAME = "teresa-youth-choir-cache";
-  const DB_VERSION = 1;
+  const DB_VERSION = 2;
   let firebaseApp = null;
   let firebaseAuth = null;
 
@@ -44,6 +44,7 @@
         const db = result.result;
         if (!db.objectStoreNames.contains("years")) db.createObjectStore("years", { keyPath: "year" });
         if (!db.objectStoreNames.contains("media")) db.createObjectStore("media", { keyPath: "id" });
+        if (!db.objectStoreNames.contains("index")) db.createObjectStore("index", { keyPath: "id" });
       };
       result.onsuccess = () => resolve(result.result);
       result.onerror = () => reject(result.error);
@@ -65,7 +66,20 @@
     next.year = Number(next.year);
     if (next.leadership) {
       const { deputyConductor, secretary, ...leadership } = next.leadership;
-      next.leadership = leadership;
+      const teams = (leadership.teams || leadership.serviceTeams || []).map((team) => {
+        const normalized = typeof team === "string" ? { name: team, members: [] } : team;
+        return {
+          ...normalized,
+          members: (normalized.members || []).map((member) => typeof member === "string"
+            ? { name: member, photo: "" }
+            : { name: member?.name || "", photo: member?.photo || "" }).filter((member) => member.name)
+        };
+      });
+      next.leadership = {
+        ...leadership,
+        teams,
+        serviceTeams: teams.map((team) => team.name)
+      };
     }
     next.activities = (next.activities || []).map((activity, index) => ({
       ...activity,
@@ -75,6 +89,38 @@
       topic: activity.topic || activity.type || "Khác"
     }));
     return next;
+  }
+
+  function normalizeIndex(data) {
+    const next = copy(data || {});
+    next.version = Number(next.version) || 1;
+    next.years = (next.years || []).map((year) => ({
+      ...year,
+      year: Number(year.year),
+      members: year.members || {},
+      leadership: year.leadership || [],
+      events: (year.events || []).map((event, index) => ({
+        ...event,
+        id: event.id || `${year.year}-activity-${index + 1}`,
+        type: event.type || "Khác",
+        image: event.image || "images/hero.jpg"
+      }))
+    })).filter((year) => Number.isInteger(year.year)).sort((a, b) => b.year - a.year);
+    next.totals = next.totals || { years: next.years.length, members: 0, activities: next.years.reduce((total, year) => total + year.events.length, 0) };
+    return next;
+  }
+
+  async function loadIndex() {
+    const cached = await inStore("index", "readonly", (store) => store.get("archive-index"));
+    if (cached?.data && Date.now() - new Date(cached.updatedAt || 0).getTime() < 10 * 60 * 1000) return normalizeIndex(cached.data);
+    const response = await fetch(`data/index.json?updated=${Date.now()}`, { cache: "no-store" });
+    if (response.ok) {
+      const data = normalizeIndex(await response.json());
+      await inStore("index", "readwrite", (store) => store.put({ id: "archive-index", data, updatedAt: new Date().toISOString() }));
+      return data;
+    }
+    if (cached?.data) return normalizeIndex(cached.data);
+    throw new Error("Không thể đọc chỉ mục tư liệu.");
   }
 
   async function loadYear(year) {
@@ -169,7 +215,7 @@
     if (!file?.type?.startsWith("image/")) throw new Error("Vui lòng chọn một tệp ảnh.");
     const prepared = await compressImage(file);
     file = prepared.file;
-    if (file.size > 20 * 1024 * 1024) throw new Error("Ảnh sau khi nén vẫn lớn hơn 20 MB. Hãy chọn ảnh nhỏ hơn.");
+    if (file.size > 25 * 1024 * 1024) throw new Error("Ảnh sau khi nén vẫn lớn hơn 25 MB. Hãy chọn ảnh nhỏ hơn.");
     const form = new FormData();
     form.append("file", file);
     form.append("year", String(metadata.year || ""));
@@ -189,7 +235,7 @@
         const response = await api(`/api/media?year=${encodeURIComponent(filters.year || "")}`);
         media = (response.items || []).map((item) => ({ ...item, topic: topicLabel(item.topic) }));
         await Promise.all(media.map((item) => inStore("media", "readwrite", (store) => store.put(item))));
-      } catch (error) { console.warn("Không đọc được kho ảnh GitHub, dùng bộ nhớ cục bộ:", error); }
+      } catch (error) { console.warn("Không đọc được kho ảnh R2, dùng bộ nhớ cục bộ:", error); }
     }
     if (!media.length) media = (await inStore("media", "readonly", (store) => store.getAll())) || [];
     return media.filter((item) => (!filters.year || Number(item.year) === Number(filters.year)) && (!filters.topic || filters.topic === "Tất cả" || item.topic === filters.topic));
@@ -268,5 +314,5 @@
     for (const item of archive.years) await saveYear(item.data || item);
   }
 
-  window.TeresaStore = { YEAR_MIN, YEAR_MAX, loadYear, saveYear, saveActivity, deleteActivity, saveMedia, getMedia, deleteMedia, resolveSource, hydrateMedia, login, isAdmin, logout, changeCredentials, exportArchive, importArchive, isFirebaseConfigured, isSourceApiConfigured, waitForAuth };
+  window.TeresaStore = { YEAR_MIN, YEAR_MAX, loadYear, loadIndex, saveYear, saveActivity, deleteActivity, saveMedia, getMedia, deleteMedia, resolveSource, hydrateMedia, login, isAdmin, logout, changeCredentials, exportArchive, importArchive, isFirebaseConfigured, isSourceApiConfigured, waitForAuth };
 })();

@@ -18,12 +18,12 @@
       href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="css/style.css?v=archive-2026-18" />
+    <link rel="stylesheet" href="css/style.css?v=archive-2026-24" />
     <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js" defer></script>
     <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-auth-compat.js" defer></script>
-    <script src="js/firebase-config.js?v=archive-2026-13" defer></script>
-    <script src="js/store.js?v=archive-2026-16" defer></script>
-    <script src="js/main.js?v=archive-2026-11" defer></script>
+    <script src="js/firebase-config.js?v=archive-2026-21" defer></script>
+    <script src="js/store.js?v=archive-2026-22" defer></script>
+    <script src="js/main.js?v=archive-2026-22" defer></script>
   </head>
 
   <body>
@@ -220,30 +220,30 @@
             <p>Từ cung thánh đến những chuyến đi, mỗi hoạt động là một cách để chúng mình đến gần Chúa và gần nhau hơn.</p>
           </div>
 
-          <div class="activity-grid">
-            <article class="activity-card activity-large reveal">
+          <div class="activity-grid" aria-label="Khám phá hoạt động theo chủ đề">
+            <article class="activity-card activity-large reveal" role="button" tabindex="0" data-activity-group="liturgy" aria-haspopup="dialog" aria-controls="activity-archive-dialog" aria-label="Mở các sự kiện Phụng vụ và Thánh nhạc">
               <span class="card-number">01</span><span class="card-icon" aria-hidden="true">♪</span>
               <h3>Phụng vụ & Thánh nhạc</h3>
               <p>Hát lễ, lễ Quan thầy, Giáng Sinh, Phục Sinh và những dịp đặc biệt.</p>
-              <a href="year.html?year=2025">Xem ký ức <span>↗</span></a>
+              <span class="activity-card-cta">Xem các sự kiện <span>↗</span></span>
             </article>
-            <article class="activity-card reveal">
+            <article class="activity-card reveal" role="button" tabindex="0" data-activity-group="bonding" aria-haspopup="dialog" aria-controls="activity-archive-dialog" aria-label="Mở các sự kiện Gắn kết">
               <span class="card-number">02</span><span class="card-icon" aria-hidden="true">☀</span>
               <h3>Gắn kết</h3>
               <p>Team building, du lịch, hội thao và những buổi sinh hoạt chung.</p>
-              <a href="#album">Xem album <span>↗</span></a>
+              <span class="activity-card-cta">Xem các sự kiện <span>↗</span></span>
             </article>
-            <article class="activity-card coral reveal">
+            <article class="activity-card coral reveal" role="button" tabindex="0" data-activity-group="charity" aria-haspopup="dialog" aria-controls="activity-archive-dialog" aria-label="Mở các sự kiện Thiện nguyện">
               <span class="card-number">03</span><span class="card-icon" aria-hidden="true">♡</span>
               <h3>Thiện nguyện</h3>
               <p>Trao đi tiếng hát, thời gian và sự hiện diện tới những nơi cần sẻ chia.</p>
-              <a href="year.html?year=2019">Đọc câu chuyện <span>↗</span></a>
+              <span class="activity-card-cta">Xem các sự kiện <span>↗</span></span>
             </article>
-            <article class="activity-card dark reveal">
+            <article class="activity-card dark reveal" role="button" tabindex="0" data-activity-group="retreat" aria-haspopup="dialog" aria-controls="activity-archive-dialog" aria-label="Mở các sự kiện Tĩnh tâm">
               <span class="card-number">04</span><span class="card-icon" aria-hidden="true">✦</span>
               <h3>Tĩnh tâm</h3>
               <p>Khoảng lặng để lắng nghe, làm mới đời sống đức tin và ơn gọi phục vụ.</p>
-              <a href="year.html?year=2024">Khám phá <span>↗</span></a>
+              <span class="activity-card-cta">Xem các sự kiện <span>↗</span></span>
             </article>
           </div>
         </div>
@@ -349,6 +349,28 @@
         <span>Lưu giữ bằng đức tin & tình yêu</span>
       </div>
     </footer>
+
+    <dialog class="activity-archive-dialog" id="activity-archive-dialog" aria-labelledby="activity-archive-title">
+      <div class="activity-archive-shell">
+        <header class="activity-archive-header">
+          <div>
+            <p class="eyebrow" id="activity-archive-eyebrow">Nhịp sống Têrêsa</p>
+            <h2 id="activity-archive-title">Các sự kiện tiêu biểu</h2>
+            <p id="activity-archive-description">Đang mở kho tư liệu từ năm 2015 đến 2026…</p>
+          </div>
+          <button class="activity-archive-close" type="button" aria-label="Đóng danh sách sự kiện">×</button>
+        </header>
+        <div class="activity-archive-body">
+          <div class="activity-archive-summary" aria-live="polite">
+            <strong id="activity-archive-count">Đang tải…</strong>
+            <span>Chọn một sự kiện để mở bài viết và hình ảnh của năm đó.</span>
+          </div>
+          <div class="activity-archive-events" id="activity-archive-events" aria-live="polite">
+            <div class="activity-archive-loading"><span aria-hidden="true">♪</span><p>Đang tổng hợp hành trình…</p></div>
+          </div>
+        </div>
+      </div>
+    </dialog>
 
     <dialog class="lightbox" aria-label="Xem ảnh lớn">
       <button class="lightbox-close" type="button" aria-label="Đóng ảnh">×</button>

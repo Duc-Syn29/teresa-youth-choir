@@ -6,6 +6,33 @@
   "use strict";
 
   const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const escapeHTML = (value = "") => String(value).replace(/[&<>'"]/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[character]);
+  const activityGroups = {
+    liturgy: {
+      title: "Phụng vụ & Thánh nhạc",
+      description: "Thánh lễ, lễ Quan thầy, Giáng Sinh, Phục Sinh, hòa nhạc và những dịp phụng vụ đặc biệt qua các thế hệ.",
+      types: ["thanh le", "le quan thay", "giang sinh", "phuc sinh", "hoa nhac", "hat le cuoi", "dai le"],
+    },
+    bonding: {
+      title: "Gắn kết",
+      description: "Những chuyến đi, ngày hội, hoạt động đội nhóm và khoảnh khắc cùng nhau lớn lên.",
+      types: ["du lich/team building", "hoi thao", "thanh lap"],
+    },
+    charity: {
+      title: "Thiện nguyện",
+      description: "Những hành trình sẻ chia, trao tặng và hiện diện bên những cộng đồng cần được nâng đỡ.",
+      types: ["thien nguyen"],
+    },
+    retreat: {
+      title: "Tĩnh tâm",
+      description: "Những khoảng lặng cầu nguyện, giao hòa và làm mới đời sống đức tin trong suốt hành trình.",
+      types: ["tinh tam"],
+    },
+  };
+
+  function normalizeText(value = "") {
+    return String(value).normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/đ/g, "d").replace(/Đ/g, "D").trim().toLowerCase();
+  }
 
   function initHeader() {
     const header = document.querySelector(".site-header");
@@ -52,6 +79,27 @@
       );
       sections.forEach((section) => spy.observe(section));
     }
+  }
+
+  function initPageReturn() {
+    // Khi người dùng vuốt để quay lại trên iOS/Safari, giữ nguyên ảnh và vị trí
+    // đã được cache thay vì chạy lại hiệu ứng mở trang gây cảm giác giật.
+    window.addEventListener("pageshow", (event) => {
+      if (!event.persisted) return;
+      document.documentElement.classList.add("page-restored");
+      window.setTimeout(() => document.documentElement.classList.remove("page-restored"), 180);
+    });
+
+    const rail = document.querySelector(".year-nav");
+    if (!rail) return;
+    rail.addEventListener("wheel", (event) => {
+      if (Math.abs(event.deltaY) <= Math.abs(event.deltaX) || !rail.scrollWidth) return;
+      const atStart = rail.scrollLeft <= 0;
+      const atEnd = Math.ceil(rail.scrollLeft + rail.clientWidth) >= rail.scrollWidth;
+      if ((event.deltaY < 0 && atStart) || (event.deltaY > 0 && atEnd)) return;
+      rail.scrollLeft += event.deltaY;
+      event.preventDefault();
+    }, { passive: false });
   }
 
   function initReveal(root = document) {
@@ -173,6 +221,7 @@
       ".info-list",
       ".timeline-item",
       ".activity-card",
+      ".activity-archive-event",
       ".gallery-filters button",
       ".gallery-item",
       ".contact-card",
@@ -189,7 +238,6 @@
       ".activity-nav-card",
       ".reflection-card",
       ".quote-card",
-      ".journal-mood",
       ".year-switcher a",
     ];
     const surfaces = [...root.querySelectorAll(selectors.join(","))].filter(
@@ -259,6 +307,86 @@
     });
   }
 
+  function initActivityArchive() {
+    const dialog = document.querySelector("#activity-archive-dialog");
+    const cards = [...document.querySelectorAll("[data-activity-group]")];
+    if (!dialog || !cards.length || typeof dialog.showModal !== "function") return;
+
+    const title = dialog.querySelector("#activity-archive-title");
+    const description = dialog.querySelector("#activity-archive-description");
+    const count = dialog.querySelector("#activity-archive-count");
+    const eventsRoot = dialog.querySelector("#activity-archive-events");
+    const close = dialog.querySelector(".activity-archive-close");
+    let archivePromise;
+
+    const loadArchive = () => {
+      if (archivePromise) return archivePromise;
+      archivePromise = (window.TeresaStore?.loadIndex
+        ? window.TeresaStore.loadIndex()
+        : fetch("data/index.json", { cache: "no-store" }).then((response) => response.ok ? response.json() : Promise.reject(new Error("Không thể đọc chỉ mục tư liệu."))))
+        .then((index) => index.years || []);
+      return archivePromise;
+    };
+
+    const eventMarkup = (item) => `
+      <a class="activity-archive-event" href="activity.html?year=${item.year}&id=${encodeURIComponent(item.id)}">
+        <span class="activity-archive-event-media" data-media-src="${escapeHTML(item.cover)}" aria-hidden="true"></span>
+        <span class="activity-archive-event-shade" aria-hidden="true"></span>
+        <span class="activity-archive-event-copy">
+          <span class="activity-archive-event-meta"><strong>${item.year}</strong><em>${escapeHTML(item.type)}</em></span>
+          <span class="activity-archive-event-title">${escapeHTML(item.title)}</span>
+          <span class="activity-archive-event-description">${escapeHTML(item.description)}</span>
+          <span class="activity-archive-event-foot"><time>${escapeHTML(item.date)}</time><b>Mở hoạt động ↗</b></span>
+        </span>
+      </a>`;
+
+    const openGroup = async (groupKey) => {
+      const group = activityGroups[groupKey];
+      if (!group) return;
+      title.textContent = group.title;
+      description.textContent = group.description;
+      count.textContent = "Đang tổng hợp…";
+      eventsRoot.innerHTML = '<div class="activity-archive-loading"><span aria-hidden="true">♪</span><p>Đang mở chỉ mục tư liệu từ 2015 đến 2026…</p></div>';
+      if (!dialog.open) dialog.showModal();
+      document.body.classList.add("activity-archive-open");
+
+      const years = await loadArchive();
+      const events = years
+        .flatMap((yearData) => (yearData.events || []).map((activity) => ({
+          ...activity,
+          year: Number(yearData.year),
+          cover: activity.image || yearData.overview?.coverImage || "images/hero.jpg"
+        })))
+        .filter((activity) => group.types.includes(normalizeText(activity.type)))
+        .sort((a, b) => b.year - a.year);
+
+      count.textContent = `${events.length} sự kiện · ${years.length} năm tư liệu`;
+      eventsRoot.innerHTML = events.length
+        ? events.map(eventMarkup).join("")
+        : '<div class="activity-archive-empty"><strong>Chưa có sự kiện phù hợp</strong><p>Tư liệu của chủ đề này đang được tiếp tục bổ sung.</p></div>';
+      await window.TeresaStore?.hydrateMedia(eventsRoot);
+      initLiquidGlass(eventsRoot);
+    };
+
+    const closeDialog = () => {
+      if (dialog.open) dialog.close();
+      document.body.classList.remove("activity-archive-open");
+    };
+
+    cards.forEach((card) => {
+      card.addEventListener("click", () => openGroup(card.dataset.activityGroup));
+      card.addEventListener("keydown", (event) => {
+        if (!["Enter", " "].includes(event.key)) return;
+        event.preventDefault();
+        openGroup(card.dataset.activityGroup);
+      });
+    });
+    close.addEventListener("click", closeDialog);
+    dialog.addEventListener("cancel", () => document.body.classList.remove("activity-archive-open"));
+    dialog.addEventListener("close", () => document.body.classList.remove("activity-archive-open"));
+    dialog.addEventListener("click", (event) => { if (event.target === dialog) closeDialog(); });
+  }
+
   function initLightbox() {
     const dialog = document.querySelector(".lightbox");
     if (!dialog || typeof dialog.showModal !== "function") return;
@@ -326,11 +454,13 @@
 
   function init() {
     initHeader();
+    initPageReturn();
     initReveal();
     initTimeline();
     initCounters();
     initParallax();
     initLiquidGlass();
+    initActivityArchive();
     initGalleryFilters();
     initLightbox();
     initBackToTop();

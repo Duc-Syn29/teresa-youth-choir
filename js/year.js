@@ -35,19 +35,34 @@
       conductor: "Ca trưởng",
       treasurer: "Thủ quỹ",
     };
-    const people = Object.entries(labels).map(([key, role]) => ({ role, ...(leadership[key] || {}) }));
+    const people = Object.entries(labels).map(([key, role]) => {
+      const entry = leadership[key] || {};
+      const members = key === "deputyLeader"
+        ? (entry.members || String(entry.name || "").split(/\s*[·•]\s*|\s*;\s*/).map((name) => ({ name: name.trim() })).filter((member) => member.name))
+        : [];
+      return { role, ...entry, members };
+    });
     const serviceTeams = (leadership.teams || leadership.serviceTeams || []).map((team) => {
       const normalized = typeof team === "string" ? { name: team, members: [] } : team;
-      return { role: normalized.name || "Ban phục vụ", name: (normalized.members || []).join(" · ") || "Đang cập nhật thành viên" };
+      return { role: normalized.name || "Ban phục vụ", members: normalized.members || [] };
     });
+
+    const memberData = (member) => typeof member === "string" ? { name: member, photo: "" } : (member || {});
+    const photo = (src, alt, className = "person-card-photo") => src
+      ? `<img class="${className}" src="images/hero.jpg" data-media-src="${escapeHTML(src)}" alt="${escapeHTML(alt)}" loading="lazy" />`
+      : "";
 
     return [...people, ...serviceTeams]
       .map(
-        (person) => `
-          <article class="person-card reveal">
+        (person) => {
+          const members = Array.isArray(person.members) ? person.members.map(memberData).filter((member) => member.name) : [];
+          const name = person.name || "Đang cập nhật";
+          return `
+          <article class="person-card reveal${members.length ? " person-card-team" : ""}">
             <span>${escapeHTML(person.role)}</span>
-            <h3>${escapeHTML(person.name || "Đang cập nhật")}</h3>
-          </article>`,
+            ${members.length ? `<ul class="team-member-list">${members.map((member) => `<li>${photo(member.photo, member.name, "team-member-photo")}<b>${escapeHTML(member.name)}</b></li>`).join("")}</ul>` : `${photo(person.photo, name)}<h3>${escapeHTML(name)}</h3>`}
+          </article>`;
+        },
       )
       .join("");
   }
@@ -62,7 +77,7 @@
           <a class="year-activity reveal" href="activity.html?year=${encodeURIComponent(activity.year || "")}&id=${encodeURIComponent(activity.id || "")}" aria-label="Mở hoạt động: ${escapeHTML(activity.title)}">
             <span class="year-activity-media" data-media-src="${escapeHTML(preview)}" aria-hidden="true"></span>
             <span class="year-activity-shade" aria-hidden="true"></span>
-            <span class="year-activity-number" aria-hidden="true"><small>Hoạt động</small><strong>${String(index + 1).padStart(2, "0")}</strong><em>/ ${String(activities.length).padStart(2, "0")}</em></span>
+            <span class="year-activity-number" aria-hidden="true">${String(index + 1).padStart(2, "0")}</span>
             <span class="year-activity-content">
               <span class="year-activity-meta"><span>${escapeHTML(activity.type)}</span><time>${escapeHTML(activity.date)}</time></span>
               <strong>${escapeHTML(activity.title)}</strong>
@@ -99,19 +114,6 @@
       .join("");
   }
 
-  function renderJournal(entries = []) {
-    return entries
-      .map(
-        (entry) => `
-          <article class="journal-entry reveal">
-            <time class="journal-date">${escapeHTML(entry.date)}</time>
-            <div><h3>${escapeHTML(entry.title)}</h3><p>${escapeHTML(entry.text)}</p></div>
-            <span class="journal-mood">${escapeHTML(entry.mood)}</span>
-          </article>`,
-      )
-      .join("");
-  }
-
   function yearSwitcher(year) {
     const previous = VALID_YEARS.includes(year - 1) ? `<a href="year.html?year=${year - 1}">← Nhật ký ${year - 1}</a>` : "<span></span>";
     const next = VALID_YEARS.includes(year + 1) ? `<a href="year.html?year=${year + 1}">Nhật ký ${year + 1} →</a>` : "<span></span>";
@@ -119,7 +121,7 @@
   }
 
   async function render(data) {
-    const { year, overview, leadership, members, activities, achievements, challenges, gallery, sharing, emotionJournal, yearMark } = data;
+    const { year, overview, leadership, members, activities, achievements, challenges, gallery, sharing, yearMark } = data;
     const storedMedia = (await window.TeresaStore?.getMedia({ year })) || [];
     const yearGallery = [...new Map([...(gallery || []), ...storedMedia.map((media) => ({ src: media.src, alt: media.alt, event: media.topic, caption: media.caption || media.filename }))].filter((image) => image.src).map((image) => [image.src, image])).values()];
     document.title = `${year} — Teresa Youth Choir`;
@@ -144,7 +146,7 @@
         <div class="container year-nav-inner">
           <a href="#overview">Tổng quan</a><a href="#leadership">Ban điều hành</a><a href="#members">Thành viên</a>
           <a href="#year-activities">Hoạt động</a><a href="#reflection">Nhìn lại</a><a href="#year-album">Album</a>
-          <a href="#sharing">Lời chia sẻ</a><a href="#journal">Nhật ký</a>
+          <a href="#sharing">Lời chia sẻ</a>
         </div>
       </nav>
 
@@ -206,13 +208,6 @@
         <div class="container">
           ${sectionHeading(7, "Thanh âm ở lại", "Lời chia sẻ", "sharing")}
           <div class="quote-grid">${renderQuotes(sharing)}</div>
-        </div>
-      </section>
-
-      <section class="year-section" aria-labelledby="journal">
-        <div class="container">
-          ${sectionHeading(8, "Nhật ký cảm xúc", "Những dòng chưa quên", "journal")}
-          <div class="journal-list">${renderJournal(emotionJournal)}</div>
         </div>
       </section>
 

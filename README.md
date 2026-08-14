@@ -24,11 +24,11 @@ Tất cả file năm dùng cùng một schema. Khi chỉnh JSON, lưu ý giữ d
 
 ## Quản trị nội dung và ảnh
 
-Mở `admin.html` trên website đã deploy. Đăng nhập bằng **Firebase Email/Password** với email quản trị được cho phép. Mọi thay đổi năm, hoạt động, ban điều hành và số liệu thành viên được Worker xác minh rồi ghi vào file `data/` trên GitHub.
+Mở `admin.html` trên website đã deploy. Đăng nhập bằng **Firebase Email/Password** với email quản trị được cho phép. Mọi thay đổi năm, hoạt động, ban điều hành và số liệu thành viên được Worker xác minh rồi ghi vào file `data/` trên GitHub. Sau mỗi lần lưu năm, Worker đồng thời làm mới `data/index.json` để trang chủ chỉ cần tải một chỉ mục tổng hợp.
 
-- Ảnh tải lên được lưu tại `images/uploads/<năm>/<chủ-đề>/`; ảnh bìa hoạt động dùng chính đường dẫn này nên hiển thị cho mọi thiết bị.
-- Worker chỉ chấp nhận Firebase token của email quản trị và dùng GitHub token được lưu dưới dạng Cloudflare Secret. Không đưa GitHub token vào source hoặc trình duyệt.
-- Mỗi commit do quản trị tạo sẽ kích hoạt Cloudflare Pages tự triển khai lại website.
+- Ảnh tải lên được lưu trong Cloudflare R2 theo khóa `media/<năm>/<chủ-đề>/…`; Git repository không chứa ảnh mới. Worker cung cấp URL công khai và cache dài hạn cho ảnh.
+- Worker chỉ chấp nhận Firebase token của email quản trị và dùng GitHub token được lưu dưới dạng Cloudflare Secret. Không đưa token hoặc khóa truy cập R2 vào source hay trình duyệt.
+- Dữ liệu nội dung vẫn tạo commit GitHub để Cloudflare Pages triển khai lại; upload ảnh R2 không tạo commit.
 - Nút **Xuất Word năm …** tạo tệp `.docx`; **Sao lưu JSON** xuất dữ liệu năm để lưu dự phòng.
 
 ## Deploy miễn phí
@@ -56,6 +56,7 @@ TeresaYouthChoir/
 ├── js/admin.js
 ├── js/store.js
 ├── data/2015.json ... 2026.json
+├── data/index.json          # chỉ mục nhẹ cho trang chủ và Nhịp sống Têrêsa
 └── images/
     ├── hero.jpg
     └── gallery/

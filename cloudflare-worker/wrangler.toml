@@ -6,3 +6,9 @@ compatibility_date = "2026-08-13"
 GITHUB_OWNER = "Duc-Syn29"
 GITHUB_REPO = "teresa-youth-choir"
 GITHUB_BRANCH = "main"
+# Bucket R2 đang dùng cho ảnh của ca đoàn.
+R2_PUBLIC_BASE_URL = ""
+
+[[r2_buckets]]
+binding = "MEDIA_BUCKET"
+bucket_name = "teresa-choir-images"

@@ -1,4 +1,4 @@
-/* Firebase chỉ xác thực người quản trị. Nội dung/ảnh nằm trong GitHub source. */
+/* Firebase chỉ xác thực người quản trị. Ảnh mới nằm trên Cloudflare R2. */
 window.FIREBASE_CONFIG = {
   apiKey: "AIzaSyCg1OzlmS2ca6jmk09LUO-Rub2aU_Hfn6w",
   authDomain: "teresa2026-bff4c.firebaseapp.com",

@@ -1,0 +1,1031 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-14T00:00:00.000Z",
+  "totals": {
+    "years": 12,
+    "members": 624,
+    "activities": 67
+  },
+  "years": [
+    {
+      "year": 2026,
+      "overview": {
+        "eyebrow": "Hành trình tiếp nối",
+        "title": "Cất tiếng giữa mùa hồng ân",
+        "summary": "Ca đoàn bước vào năm 2026 với số lượng ca viên đông hơn, thêm nhiều thánh lễ và các chương trình mang đậm dấu ấn đức tin.",
+        "coverImage": "images/hero.jpg"
+      },
+      "members": {
+        "total": 109,
+        "new": 20,
+        "inactive": 5,
+        "notes": ""
+      },
+      "leadership": [
+        {
+          "role": "chaplain",
+          "name": "Đang cập nhật"
+        },
+        {
+          "role": "leader",
+          "name": "Đang cập nhật"
+        },
+        {
+          "role": "conductor",
+          "name": "Đang cập nhật"
+        },
+        {
+          "role": "treasurer",
+          "name": "Đang cập nhật"
+        },
+        {
+          "role": "serviceTeams",
+          "name": "Ban Phụng vụ · Ban Truyền thông · Ban Bác ái · Ban Hậu cần"
+        }
+      ],
+      "events": [
+        {
+          "id": "2026-activity-1",
+          "title": "Exsultet — Đêm Hòa Nhạc Phục Sinh",
+          "type": "Hòa nhạc",
+          "date": "Mùa Phục Sinh 2026",
+          "description": "Chương trình tôn vinh mầu nhiệm Phục Sinh của Thiên Chúa.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2026-activity-2",
+          "title": "Mừng 20 năm Gia Đình Công Giáo Xa Quê Hà Nội",
+          "type": "Đại lễ",
+          "date": "2026",
+          "description": "Ca đoàn cùng hiệp thông trong hành trình 20 năm của mái nhà Gia Đình Công Giáo Xa Quê Hà Nội.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2026-activity-3",
+          "title": "Phục vụ các thánh lễ và giờ chầu",
+          "type": "Thánh lễ",
+          "date": "Trong năm",
+          "description": "Tiếp tục phụng sự bằng tiếng hát trong các thánh lễ lớn và giờ chầu.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2026-activity-1786561413635-wqq3s5",
+          "title": "hoà nhạc mừng mẹ lên trời ",
+          "type": "hoà nhạc",
+          "date": "14.08.2026",
+          "description": "hồng ân tuyệt vời",
+          "image": "images/uploads/2026/hoa-nhac/1786561398970-lequanthay202011.jpg"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "overview": {
+        "eyebrow": "Một chương mới",
+        "title": "Đủ lớn để trao lại yêu thương",
+        "summary": "Dấu mốc 10 năm là dịp tạ ơn, nhìn lại hành trình và tổ chức đêm hòa nhạc Hồng Ân Tuyệt Vời.",
+        "coverImage": "images/hero.jpg"
+      },
+      "members": {
+        "total": 58,
+        "new": 12,
+        "inactive": 5,
+        "notes": "Một gia đình nhiều thế hệ, trong đó mỗi người đều có một vai trò và một chỗ để thuộc về."
+      },
+      "leadership": [
+        {
+          "role": "chaplain",
+          "name": "Lm. Giuse Phạm Đức Hiệp"
+        },
+        {
+          "role": "leader",
+          "name": "Têrêsa Nguyễn Khánh Linh"
+        },
+        {
+          "role": "conductor",
+          "name": "Gioan Trần Minh Quân"
+        },
+        {
+          "role": "treasurer",
+          "name": "Giuse Đặng Quốc Bảo"
+        },
+        {
+          "role": "serviceTeams",
+          "name": "Ban Phụng vụ · Ban Truyền thông · Ban Đời sống · Ban Hậu cần"
+        }
+      ],
+      "events": [
+        {
+          "id": "2025-activity-1",
+          "title": "Phụng sự bằng sự hiện diện",
+          "type": "Thánh lễ",
+          "date": "Hằng tuần",
+          "description": "Duy trì bốn thánh lễ mỗi tháng cùng lịch tập chuyên môn đều đặn.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2025-activity-2",
+          "title": "Têrêsa — con đường nhỏ",
+          "type": "Lễ Quan thầy",
+          "date": "01.10.2025",
+          "description": "Đêm thánh nhạc kể lại linh đạo đơn sơ và tin yêu của Thánh bổn mạng.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2025-activity-3",
+          "title": "Hồng Ân Tuyệt Vời",
+          "type": "Hòa nhạc",
+          "date": "2025",
+          "description": "Đêm hòa nhạc tạ ơn, kỷ niệm 10 năm thành lập và phát triển của Ca đoàn Giới trẻ Teresa.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2025-activity-4",
+          "title": "Tiếng hát đến vùng cao",
+          "type": "Thiện nguyện",
+          "date": "07.2025",
+          "description": "Chuyến phục vụ mùa hè kết hợp trao học bổng và sinh hoạt âm nhạc.",
+          "image": "images/gallery/thien-nguyen-2019.jpg"
+        },
+        {
+          "id": "2025-activity-5",
+          "title": "Ở lại trong tình yêu",
+          "type": "Tĩnh tâm",
+          "date": "03.2025",
+          "description": "Hai ngày thinh lặng, cầu nguyện và làm mới lời cam kết phục vụ.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2025-activity-6",
+          "title": "Về chung một đội",
+          "type": "Du lịch/Team Building",
+          "date": "08.2025",
+          "description": "Ba ngày kết nối thế hệ mới với những ca viên đã đồng hành lâu năm.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2025-activity-7",
+          "title": "Teresa Games",
+          "type": "Hội thao",
+          "date": "05.2025",
+          "description": "Ngày hội thể thao nội bộ với tinh thần vui khỏe và hiệp nhất.",
+          "image": "images/gallery/gan-ket-2024.jpg"
+        },
+        {
+          "id": "2025-activity-8",
+          "title": "Đêm của hy vọng",
+          "type": "Giáng Sinh",
+          "date": "24.12.2025",
+          "description": "Hoạt cảnh và liên khúc Giáng Sinh được dàn dựng bởi chính các ca viên.",
+          "image": "images/gallery/giang-sinh-2022.jpg"
+        },
+        {
+          "id": "2025-activity-9",
+          "title": "Khúc ca phục sinh",
+          "type": "Phục Sinh",
+          "date": "04.2025",
+          "description": "Chương trình phụng vụ trọng điểm với dàn hợp xướng bốn bè.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2025-activity-10",
+          "title": "Hát cho ngày hạnh phúc",
+          "type": "Hát lễ cưới",
+          "date": "Trong năm",
+          "description": "Đồng hành trong sáu thánh lễ hôn phối của bạn bè và cựu ca viên.",
+          "image": "images/hero.jpg"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "overview": {
+        "eyebrow": "Năm lan tỏa",
+        "title": "Cùng nhau cất bước",
+        "summary": "Một năm của tĩnh tâm, chuyển giao ban điều hành, thiện nguyện Đông Ấm Na Rì và góp tiếng hát trong Hoan ca mừng 100 năm Dòng Chúa Cứu Thế.",
+        "coverImage": "images/hero.jpg"
+      },
+      "members": {
+        "total": 55,
+        "new": 8,
+        "inactive": 4,
+        "notes": "Ca đoàn đón thêm tám thành viên và kết nối thường xuyên hơn với cựu ca viên."
+      },
+      "leadership": [
+        {
+          "role": "chaplain",
+          "name": "Đang cập nhật tư liệu"
+        },
+        {
+          "role": "leader",
+          "name": "Phêrô Đỗ Tiến Hạng"
+        },
+        {
+          "role": "deputyLeader",
+          "name": "Giuse Trần Viết Vĩ · Giuse Nguyễn Phan Hoài Duy"
+        },
+        {
+          "role": "conductor",
+          "name": "Maria Ban Mai"
+        },
+        {
+          "role": "treasurer",
+          "name": "Đang cập nhật tư liệu"
+        },
+        {
+          "role": "serviceTeams",
+          "name": "Ban Phụng vụ · Ban Truyền thông · Ban Đời sống · Ban Hậu cần"
+        }
+      ],
+      "events": [
+        {
+          "id": "2024-activity-1",
+          "title": "Giữ nhịp phục vụ",
+          "type": "Thánh lễ",
+          "date": "Hằng tuần",
+          "description": "Duy trì lịch hát, lịch tập và đào tạo thanh nhạc theo nhóm bè.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2024-activity-2",
+          "title": "Âm nhạc cho em",
+          "type": "Thiện nguyện",
+          "date": "06.2024",
+          "description": "Ngày hội âm nhạc gây quỹ học bổng cho trẻ em khó khăn.",
+          "image": "images/gallery/thien-nguyen-2019.jpg"
+        },
+        {
+          "id": "2024-activity-3",
+          "title": "Trở về nguồn",
+          "type": "Tĩnh tâm",
+          "date": "03.2024",
+          "description": "Hai ngày tĩnh tâm nhìn lại căn tính và linh đạo phục vụ.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2024-activity-4",
+          "title": "Cùng nhau cất bước",
+          "type": "Du lịch/Team Building",
+          "date": "08.2024",
+          "description": "Chuyến đi gắn kết kết hợp đào tạo đội ngũ kế thừa.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2024-activity-5",
+          "title": "Người trẻ kể chuyện Giáng Sinh",
+          "type": "Giáng Sinh",
+          "date": "12.2024",
+          "description": "Hoạt cảnh và đêm nhạc dành cho cộng đồng giáo xứ.",
+          "image": "images/gallery/giang-sinh-2022.jpg"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "overview": {
+        "eyebrow": "Năm rực rỡ",
+        "title": "Thanh xuân cùng cất tiếng",
+        "summary": "Sự đồng hành chuyên môn của ca trưởng Maria Ban Mai mở ra một giai đoạn khởi sắc, với nhiều chuyến đi, phụng vụ và thiện nguyện.",
+        "coverImage": "images/hero.jpg"
+      },
+      "members": {
+        "total": 51,
+        "new": 9,
+        "inactive": 4,
+        "notes": "Đội hình lần đầu vượt mốc 50 ca viên và ổn định bốn bè hợp xướng."
+      },
+      "leadership": [
+        {
+          "role": "chaplain",
+          "name": "Lm. Giuse Phạm Đức Hiệp"
+        },
+        {
+          "role": "leader",
+          "name": "Têrêsa Nguyễn Khánh Linh"
+        },
+        {
+          "role": "conductor",
+          "name": "Gioan Trần Minh Quân"
+        },
+        {
+          "role": "treasurer",
+          "name": "Giuse Đặng Quốc Bảo"
+        },
+        {
+          "role": "serviceTeams",
+          "name": "Ban Phụng vụ · Ban Truyền thông · Ban Đời sống · Ban Hậu cần"
+        }
+      ],
+      "events": [
+        {
+          "id": "2023-activity-1",
+          "title": "Bình minh hy vọng",
+          "type": "Phục Sinh",
+          "date": "04.2023",
+          "description": "Chương trình hợp xướng bốn bè trong thánh lễ Phục Sinh.",
+          "image": "images/gallery/phung-vu-2025.jpg"
+        },
+        {
+          "id": "2023-activity-2",
+          "title": "Thanh xuân gọi tên",
+          "type": "Du lịch/Team Building",
+          "date": "07.2023",
+          "description": "Chuyến team building ba ngày với nhiều hoạt động kết nối.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2023-activity-3",
+          "title": "Sức trẻ Têrêsa",
+          "type": "Hội thao",
+          "date": "08.2023",
+          "description": "Ngày hội thể thao và âm nhạc dành cho ca viên.",
+          "image": "images/gallery/gan-ket-2024.jpg"
+        },
+        {
+          "id": "2023-activity-4",
+          "title": "Như một đóa hoa nhỏ",
+          "type": "Lễ Quan thầy",
+          "date": "01.10.2023",
+          "description": "Đêm diễn nguyện kể chuyện Thánh Têrêsa.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2023-activity-5",
+          "title": "Hát cho bạn mình",
+          "type": "Hát lễ cưới",
+          "date": "Trong năm",
+          "description": "Đồng hành trong bốn thánh lễ hôn phối của ca viên.",
+          "image": "images/hero.jpg"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "overview": {
+        "eyebrow": "Năm trở về",
+        "title": "Gặp lại trong tiếng hát",
+        "summary": "Khi dịch dần được kiểm soát, ca đoàn từng bước khôi phục tập hát và phục vụ, dù số lượng ca viên và tinh thần chung còn cần thời gian để hồi phục.",
+        "coverImage": "images/hero.jpg"
+      },
+      "members": {
+        "total": 46,
+        "new": 17,
+        "inactive": 4,
+        "notes": "Đợt tuyển ca viên mới đông nhất kể từ ngày thành lập mang đến nguồn năng lượng mới."
+      },
+      "leadership": [
+        {
+          "role": "chaplain",
+          "name": "Lm. Giuse Phạm Đức Hiệp"
+        },
+        {
+          "role": "leader",
+          "name": "Maria Vũ Thu Hà"
+        },
+        {
+          "role": "conductor",
+          "name": "Gioan Trần Minh Quân"
+        },
+        {
+          "role": "treasurer",
+          "name": "Giuse Đặng Quốc Bảo"
+        },
+        {
+          "role": "serviceTeams",
+          "name": "Ban Phụng vụ · Ban Truyền thông · Ban Đời sống · Ban Hậu cần"
+        }
+      ],
+      "events": [
+        {
+          "id": "2022-activity-1",
+          "title": "Thánh lễ ngày trở lại",
+          "type": "Thánh lễ",
+          "date": "03.2022",
+          "description": "Lần đầu đội hình đầy đủ cùng hát sau thời gian dài xa cách.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2022-activity-2",
+          "title": "Tạ ơn ngày gặp lại",
+          "type": "Tĩnh tâm",
+          "date": "04.2022",
+          "description": "Ngày tĩnh tâm và tái cam kết phục vụ của toàn ca đoàn.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2022-activity-3",
+          "title": "Kết nối lại",
+          "type": "Du lịch/Team Building",
+          "date": "07.2022",
+          "description": "Chuyến đi dành cho thành viên cũ và mười bảy ca viên mới.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2022-activity-4",
+          "title": "Năm năm một hành trình",
+          "type": "Lễ Quan thầy",
+          "date": "01.10.2022",
+          "description": "Mừng sinh nhật ca đoàn với sự trở về của các cựu ca viên.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2022-activity-5",
+          "title": "Đêm đoàn viên",
+          "type": "Giáng Sinh",
+          "date": "24.12.2022",
+          "description": "Đêm thánh nhạc trực tiếp đầu tiên sau thời gian gián đoạn.",
+          "image": "images/gallery/giang-sinh-2022.jpg"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "overview": {
+        "eyebrow": "Năm kiên tâm",
+        "title": "Niềm tin không tắt",
+        "summary": "Đại dịch tiếp tục gây nhiều tổn thương, nhưng những cử chỉ quan tâm và niềm thao thức được trở lại phục vụ đã giữ các ca viên gần nhau.",
+        "coverImage": "images/hero.jpg"
+      },
+      "members": {
+        "total": 33,
+        "new": 4,
+        "inactive": 6,
+        "notes": "Các nhóm bè nhỏ trở thành nơi nâng đỡ đời sống tinh thần trong thời gian giãn cách."
+      },
+      "leadership": [
+        {
+          "role": "chaplain",
+          "name": "Lm. Giuse Phạm Đức Hiệp"
+        },
+        {
+          "role": "leader",
+          "name": "Maria Vũ Thu Hà"
+        },
+        {
+          "role": "conductor",
+          "name": "Maria Nguyễn Diễm My"
+        },
+        {
+          "role": "treasurer",
+          "name": "Giuse Đặng Quốc Bảo"
+        },
+        {
+          "role": "serviceTeams",
+          "name": "Ban Phụng vụ · Ban Truyền thông · Ban Đời sống"
+        }
+      ],
+      "events": [
+        {
+          "id": "2021-activity-1",
+          "title": "Thánh ca từ căn phòng nhỏ",
+          "type": "Hòa nhạc",
+          "date": "04.2021",
+          "description": "Chuỗi video thánh ca ngắn do các nhóm bè tự thu tại nhà.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2021-activity-2",
+          "title": "Túi quà bình an",
+          "type": "Thiện nguyện",
+          "date": "08.2021",
+          "description": "Đóng góp và chuyển nhu yếu phẩm tới các gia đình gặp khó khăn.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2021-activity-3",
+          "title": "Hy vọng trong thinh lặng",
+          "type": "Tĩnh tâm",
+          "date": "10.2021",
+          "description": "Ba tối cầu nguyện trực tuyến mừng lễ bổn mạng.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2021-activity-4",
+          "title": "Ngôi sao trong nhà",
+          "type": "Giáng Sinh",
+          "date": "24.12.2021",
+          "description": "Chương trình Giáng Sinh trực tuyến kết nối ca viên và gia đình.",
+          "image": "images/gallery/giang-sinh-2022.jpg"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "overview": {
+        "eyebrow": "Dấu mốc 5 năm",
+        "title": "5 năm một hành trình — Muôn Đời Tạ Ơn",
+        "summary": "Năm kỷ niệm 5 năm thành lập, khi Ca đoàn Giới trẻ Têrêsa giữ lửa phục vụ, tạ ơn và bác ái giữa những biến động của đại dịch COVID-19.",
+        "coverImage": "images/gallery/2020/lequanthay20202.jpg"
+      },
+      "members": {
+        "total": 63,
+        "new": 18,
+        "inactive": 15,
+        "notes": "Ca viên mới trong năm: khoảng 15–20 người; thành viên nghỉ: khoảng 15 người."
+      },
+      "leadership": [
+        {
+          "role": "leader",
+          "name": "Giuse Phạm Văn Tĩnh"
+        },
+        {
+          "role": "deputyLeader",
+          "name": "Phêrô Bùi Ngọc Liêm · Giuse Nguyễn Xuân Hoàn"
+        },
+        {
+          "role": "deputyLeader",
+          "name": "Phêrô Bùi Ngọc Liêm · Giuse Nguyễn Xuân Hoàn"
+        },
+        {
+          "role": "conductor",
+          "name": "Vincente Vũ Hải Ngân"
+        },
+        {
+          "role": "treasurer",
+          "name": "Maria Đặng Thị Thúy"
+        },
+        {
+          "role": "teams",
+          "name": "Ban Truyền thông · Ban Liên kết · Ban Tâm linh · Ban Sinh hoạt"
+        }
+      ],
+      "events": [
+        {
+          "id": "2020-prayer-lent",
+          "title": "Giờ cầu nguyện và giao hòa Mùa Chay",
+          "type": "Tĩnh tâm",
+          "date": "28.02.2020",
+          "description": "Cha đặc trách và Ban Điều hành tổ chức giờ cầu nguyện, giải tội để ca viên chuẩn bị tâm hồn đón Mùa Chay.",
+          "image": "images/gallery/2020/tinhtam20206.jpg"
+        },
+        {
+          "id": "2020-return-to-service",
+          "title": "Trở lại trong tiếng hát",
+          "type": "Thánh lễ",
+          "date": "07–21.05.2020",
+          "description": "Ca đoàn tập hát và phục vụ trở lại sau giãn cách; phục vụ lễ vọng Mừng Chúa Lên Trời và cùng mừng sinh nhật ca viên.",
+          "image": "images/gallery/2020/lequanthay20202.jpg"
+        },
+        {
+          "id": "2020-retreat-thien-ha",
+          "title": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+          "type": "Tĩnh tâm",
+          "date": "20–21.06.2020",
+          "description": "Hai ngày lắng đọng, cầu nguyện và nhìn lại hành trình chung tại Đan viện Thiên Hà, Hòa Bình.",
+          "image": "images/gallery/2020/tinhtam20206.jpg"
+        },
+        {
+          "id": "2020-muon-doi-ta-on",
+          "title": "MV Muôn Đời Tạ Ơn",
+          "type": "Hòa nhạc",
+          "date": "06.2020",
+          "description": "Món quà âm nhạc đánh dấu 5 năm hình thành và phát triển của Ca đoàn Giới trẻ Têrêsa.",
+          "image": "images/gallery/2020/lequanthay20202.jpg"
+        },
+        {
+          "id": "2020-song-ca",
+          "title": "Những đôi song ca hướng về lễ Quan thầy",
+          "type": "Hòa nhạc",
+          "date": "09.2020",
+          "description": "Các cặp đôi trong ca đoàn gửi những tiết mục song ca trên trang nội bộ, tạo thêm niềm vui và sự gắn kết.",
+          "image": "images/gallery/2020/lequanthay20202.jpg"
+        },
+        {
+          "id": "2020-patron-feast",
+          "title": "Mừng lễ Quan thầy — 5 năm một chặng đường",
+          "type": "Lễ Quan thầy",
+          "date": "30.09–01.10.2020",
+          "description": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu, cùng tạ ơn hành trình 5 năm của các thế hệ ca viên.",
+          "image": "images/gallery/2020/lequanthay20201.jpg"
+        },
+        {
+          "id": "2020-catechism-service",
+          "title": "Phục vụ và học hỏi giáo lý",
+          "type": "Hội thao",
+          "date": "10.2020",
+          "description": "Duy trì phục vụ phụng vụ, tham gia cuộc thi giáo lý khối Liên Ca đoàn và đời sống chung của giáo xứ.",
+          "image": "images/gallery/2020/lequanthay20202.jpg"
+        },
+        {
+          "id": "2020-dem-dong",
+          "title": "Diễn nguyện Giáng Sinh — Đêm Đông",
+          "type": "Giáng Sinh",
+          "date": "18.12.2020",
+          "description": "Ca đoàn Têrêsa kết hợp cùng Ca đoàn Latinh hợp xướng Đêm Đông trong chương trình diễn nguyện tại Nhà thờ Hàng Bột.",
+          "image": "images/gallery/2020/lequanthay20202.jpg"
+        },
+        {
+          "id": "2020-ha-giang-charity",
+          "title": "Giáng Sinh Yêu Thương — Hà Giang",
+          "type": "Thiện nguyện",
+          "date": "18–20.12.2020",
+          "description": "Mang quà, sự sẻ chia và tiếng hát Giáng Sinh đến bản người Mông tại xã Thuận Hòa, huyện Vị Xuyên, tỉnh Hà Giang.",
+          "image": "images/gallery/2020/thienguyen202013.jpg"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "overview": {
+        "eyebrow": "Kiên vững niềm tin, kiên trung phụng vụ",
+        "title": "Kiên vững niềm tin, kiên trung phụng vụ",
+        "summary": "Năm của những bước chân nhiệt huyết: tĩnh tâm Tam Đảo, phục vụ Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế tại Huế và Giáng Sinh Trao Yêu Thương tại Hà Giang.",
+        "coverImage": "images/hero.jpg"
+      },
+      "members": {
+        "total": 55,
+        "new": 15,
+        "inactive": 10,
+        "notes": "Số liệu thành viên được ghi trong Nhật ký Ca đoàn Giới trẻ Têrêsa năm 2019."
+      },
+      "leadership": [
+        {
+          "role": "leader",
+          "name": "Giuse Phạm Văn Tĩnh"
+        },
+        {
+          "role": "deputyLeader",
+          "name": "Phêrô Bùi Ngọc Liêm · Giuse Nguyễn Xuân Hoàn"
+        },
+        {
+          "role": "conductor",
+          "name": "Phê-rô Nguyễn Huy Hùng"
+        },
+        {
+          "role": "treasurer",
+          "name": "Maria Đặng Thị Thuý"
+        },
+        {
+          "role": "serviceTeams",
+          "name": "Ban Truyền thông · Ban Liên Kết · Ban Tâm Linh · Ban Sinh Hoạt · Ban Thể Thao"
+        }
+      ],
+      "events": [
+        {
+          "id": "2019-tinh-tam",
+          "title": "Tĩnh tâm 2019",
+          "type": "Tĩnh tâm",
+          "date": "06 – 07/07/2019",
+          "description": "Chủ đề “Tín thác và Cầu nguyện” tại Tam Đảo – Vĩnh Phúc.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2019-dai-hoi-gioi-tre",
+          "title": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
+          "type": "Đại lễ",
+          "date": "28 – 29/09/2019",
+          "description": "DCCT Huế – ca đoàn phục vụ Thánh lễ khai mạc đại hội.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2019-le-quan-thay",
+          "title": "Lễ Quan Thầy Ca đoàn",
+          "type": "Lễ Quan thầy",
+          "date": "08/10/2019",
+          "description": "Mừng Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 4 năm thành lập Ca đoàn.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2019-dam-cuoi-quang-minh-do-lieu",
+          "title": "Đám cưới Quang Minh – Đỗ Liệu",
+          "type": "Thánh lễ",
+          "date": "20/10/2019",
+          "description": "Ca đoàn phục vụ Thánh lễ Hôn phối của anh Quang Minh và chị Đỗ Liệu.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2019-hoi-thao-cecilia",
+          "title": "Hội thao chào mừng lễ Thánh Cecilia",
+          "type": "Hội thao",
+          "date": "17/11/2019",
+          "description": "Ngày hội tình huynh đệ của các ca đoàn trong Giáo xứ Thái Hà.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2019-dai-le-di-dan",
+          "title": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+          "type": "Đại lễ",
+          "date": "25 – 27/11/2019",
+          "description": "Ca đoàn kết hợp cùng 3 ca đoàn phục vụ Đại lễ Di dân tại Giáo xứ Thái Hà.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2019-giang-sinh-trao-yeu-thuong",
+          "title": "Giáng Sinh Trao Yêu Thương 2019",
+          "type": "Thiện nguyện",
+          "date": "14 – 15/12/2019",
+          "description": "Bản Lùng Chang, xã Linh Hồ, huyện Vị Xuyên, Hà Giang.",
+          "image": "images/hero.jpg"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "overview": {
+        "eyebrow": "Năm thứ tư",
+        "title": "Bền bỉ một nhịp chung",
+        "summary": "Một ban điều hành mới mang đến năng lượng trẻ trung; ca đoàn có thời điểm quy tụ gần 70 ca viên và mở rộng nhiều hoạt động gắn kết.",
+        "coverImage": "images/hero.jpg"
+      },
+      "members": {
+        "total": 70,
+        "new": 0,
+        "inactive": 0,
+        "notes": "Gần 70 ca viên là số liệu ghi nhận trong tư liệu; cần đối chiếu danh sách chính thức."
+      },
+      "leadership": [
+        {
+          "role": "chaplain",
+          "name": "Đang cập nhật tư liệu"
+        },
+        {
+          "role": "leader",
+          "name": "Giuse Phạm Văn Tĩnh"
+        },
+        {
+          "role": "deputyLeader",
+          "name": "Phêrô Bùi Ngọc Liêm"
+        },
+        {
+          "role": "conductor",
+          "name": "Sơ Mai Phạm C.P"
+        },
+        {
+          "role": "treasurer",
+          "name": "Đang cập nhật tư liệu"
+        },
+        {
+          "role": "serviceTeams",
+          "name": "Ban Phụng vụ · Ban Truyền thông · Ban Hậu cần"
+        }
+      ],
+      "events": [
+        {
+          "id": "2018-activity-1",
+          "title": "Nề nếp phụng vụ",
+          "type": "Thánh lễ",
+          "date": "Hằng tuần",
+          "description": "Duy trì lịch hát và lịch tập cố định mỗi tuần.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2018-activity-2",
+          "title": "Ba năm bên nhau",
+          "type": "Lễ Quan thầy",
+          "date": "01.10.2018",
+          "description": "Mừng bổn mạng và kỷ niệm ba năm thành lập ca đoàn.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2018-activity-3",
+          "title": "Đi chậm để lắng nghe",
+          "type": "Tĩnh tâm",
+          "date": "03.2018",
+          "description": "Ngày tĩnh tâm mùa Chay dành cho toàn thể ca viên.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2018-activity-4",
+          "title": "Ngày hội tuổi trẻ",
+          "type": "Hội thao",
+          "date": "07.2018",
+          "description": "Giao lưu thể thao cùng các hội đoàn trong giáo xứ.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2018-activity-5",
+          "title": "Mùa sao sáng",
+          "type": "Giáng Sinh",
+          "date": "12.2018",
+          "description": "Liên khúc Giáng Sinh hai bè đầu tiên của ca đoàn.",
+          "image": "images/gallery/giang-sinh-2022.jpg"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "overview": {
+        "eyebrow": "Năm thứ ba",
+        "title": "Vững vàng trong lời ca",
+        "summary": "Ca đoàn ổn định nề nếp sinh hoạt và khởi xướng chương trình Thiện nguyện Giáng Sinh – một truyền thống được nối tiếp qua các thế hệ.",
+        "coverImage": "images/hero.jpg"
+      },
+      "members": {
+        "total": 24,
+        "new": 8,
+        "inactive": 0,
+        "notes": "24 giọng ca tiếp tục vun đắp một gia đình mang tên Têrêsa trong năm thứ ba phục vụ."
+      },
+      "leadership": [
+        {
+          "role": "chaplain",
+          "name": "Lm. Anrê Nguyễn Minh Tâm"
+        },
+        {
+          "role": "leader",
+          "name": "Maria Trần Ngọc Anh"
+        },
+        {
+          "role": "conductor",
+          "name": "Giuse Nguyễn Hoàng Nam"
+        },
+        {
+          "role": "treasurer",
+          "name": "Phanxicô Trần Quốc Huy"
+        },
+        {
+          "role": "serviceTeams",
+          "name": "Ban Phụng vụ · Ban Truyền thông · Ban Hậu cần"
+        }
+      ],
+      "events": [
+        {
+          "id": "2017-activity-1",
+          "title": "Giữ nhịp phụng vụ",
+          "type": "Thánh lễ",
+          "date": "Hằng tuần",
+          "description": "Ca đoàn duy trì đều đặn việc phục vụ các thánh lễ Chúa Nhật.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2017-activity-2",
+          "title": "Têrêsa — con đường nhỏ",
+          "type": "Lễ Quan thầy",
+          "date": "01.10.2017",
+          "description": "Thánh lễ Quan thầy quy tụ các thế hệ đã đồng hành từ ngày đầu.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2017-activity-3",
+          "title": "Lắng nghe tiếng gọi",
+          "type": "Tĩnh tâm",
+          "date": "11.2017",
+          "description": "Cùng nhìn lại ý nghĩa của việc phục vụ sau ba năm đồng hành.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2017-activity-4",
+          "title": "Đêm bình an",
+          "type": "Giáng Sinh",
+          "date": "24.12.2017",
+          "description": "Chuẩn bị liên khúc Giáng Sinh bằng sự tự tin và gắn kết trưởng thành hơn.",
+          "image": "images/gallery/giang-sinh-2022.jpg"
+        },
+        {
+          "id": "2017-activity-5",
+          "title": "Lời chúc phúc bằng âm nhạc",
+          "type": "Hát lễ cưới",
+          "date": "12.2017",
+          "description": "Ca đoàn hát lễ cưới cho một người bạn trong giáo xứ.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2017-activity-6",
+          "title": "Một ngày để hiểu nhau",
+          "type": "Du lịch/Team Building",
+          "date": "12.2017",
+          "description": "Chuyến đi ngắn khép lại năm thứ ba bằng thật nhiều tiếng cười.",
+          "image": "images/hero.jpg"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "overview": {
+        "eyebrow": "Năm vun nền",
+        "title": "Học cách hòa chung",
+        "summary": "Ca đoàn phát triển mạnh, có thời điểm quy tụ gần 60 ca viên và được tin tưởng phục vụ thêm nhiều thánh lễ.",
+        "coverImage": "images/hero.jpg"
+      },
+      "members": {
+        "total": 60,
+        "new": 0,
+        "inactive": 2,
+        "notes": "Gần 60 ca viên là số liệu ghi nhận trong tư liệu; cần đối chiếu danh sách chính thức."
+      },
+      "leadership": [
+        {
+          "role": "chaplain",
+          "name": "Đang cập nhật tư liệu"
+        },
+        {
+          "role": "leader",
+          "name": "Đang cập nhật tư liệu"
+        },
+        {
+          "role": "conductor",
+          "name": "Đang cập nhật tư liệu"
+        },
+        {
+          "role": "treasurer",
+          "name": "Đang cập nhật tư liệu"
+        },
+        {
+          "role": "serviceTeams",
+          "name": "Ban Phụng vụ · Ban Truyền thông · Ban Hậu cần"
+        }
+      ],
+      "events": [
+        {
+          "id": "2016-activity-1",
+          "title": "Tập thành một nền nếp",
+          "type": "Thánh lễ",
+          "date": "Hằng tuần",
+          "description": "Ca đoàn duy trì lịch tập và phục vụ phụng vụ đều đặn hơn.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2016-activity-2",
+          "title": "Cùng đi con đường nhỏ",
+          "type": "Lễ Quan thầy",
+          "date": "01.10.2016",
+          "description": "Ngày lễ bổn mạng trở thành dịp nhìn lại và gắn kết các thành viên.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2016-activity-3",
+          "title": "Ở lại để lắng nghe",
+          "type": "Tĩnh tâm",
+          "date": "2016",
+          "description": "Khoảng lặng giúp mỗi người làm mới động lực phục vụ.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2016-activity-4",
+          "title": "Chung một nhịp thở",
+          "type": "Giáng Sinh",
+          "date": "24.12.2016",
+          "description": "Các phần bè đầu tiên được chăm chút cho chương trình Giáng Sinh.",
+          "image": "images/gallery/giang-sinh-2022.jpg"
+        },
+        {
+          "id": "2016-activity-5",
+          "title": "Gần nhau hơn",
+          "type": "Du lịch/Team Building",
+          "date": "Cuối năm",
+          "description": "Ngày sinh hoạt chung giúp những thành viên cũ và mới trở thành một đội.",
+          "image": "images/hero.jpg"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "overview": {
+        "eyebrow": "Năm thành lập",
+        "title": "Khởi đầu một lời ca",
+        "summary": "Ngày 20.09.2015, Ca đoàn Giới trẻ Teresa được thành lập để phục vụ Thánh lễ Giới trẻ tối thứ Bảy tại Giáo xứ Thái Hà.",
+        "coverImage": "images/hero.jpg"
+      },
+      "members": {
+        "total": 0,
+        "new": 0,
+        "inactive": 0,
+        "notes": "Số lượng ca viên năm thành lập đang được đối chiếu từ danh sách lưu trữ."
+      },
+      "leadership": [
+        {
+          "role": "chaplain",
+          "name": "Cha Gioan Lưu Ngọc Quỳnh"
+        },
+        {
+          "role": "leader",
+          "name": "Toma Trần Minh Quân"
+        },
+        {
+          "role": "deputyLeader",
+          "name": "Phêrô Bùi Ngọc Liêm · Giuse Nguyễn Xuân Hoàn"
+        },
+        {
+          "role": "conductor",
+          "name": "Sơ Maria Vũ Vĩ Cầm"
+        },
+        {
+          "role": "treasurer",
+          "name": "Đang cập nhật tư liệu"
+        },
+        {
+          "role": "serviceTeams",
+          "name": "Ban Phụng vụ · Ban Hậu cần"
+        }
+      ],
+      "events": [
+        {
+          "id": "2015-activity-1",
+          "title": "Ca đoàn Giới trẻ Teresa được thành lập",
+          "type": "Thành lập",
+          "date": "20.09.2015",
+          "description": "Quy tụ những người trẻ yêu mến thánh nhạc để phục vụ Thánh lễ Giới trẻ tại Giáo xứ Thái Hà.",
+          "image": "images/hero.jpg"
+        },
+        {
+          "id": "2015-activity-2",
+          "title": "Ra mắt trong lễ Thánh Teresa",
+          "type": "Lễ Quan thầy",
+          "date": "01.10.2015",
+          "description": "Ca đoàn chọn Thánh Teresa Hài Đồng Giêsu làm bổn mạng và chính thức ra mắt cộng đoàn.",
+          "image": "images/hero.jpg"
+        }
+      ]
+    }
+  ]
+}
