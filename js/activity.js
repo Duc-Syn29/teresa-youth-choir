@@ -4,10 +4,45 @@
   const year = Number(params.get("year"));
   const activityId = params.get("id");
   const app = document.querySelector("#activity-app");
+  const galleryBatchSize = window.matchMedia("(max-width: 560px)").matches ? 8 : 18;
   const escapeHTML = (value = "") => String(value).replace(/[&<>'"]/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[character]);
 
   function photoMarkup(photo, activity, index) {
-    return `<button class="gallery-item activity-photo reveal" type="button" data-full="${escapeHTML(photo.src)}" data-caption="${escapeHTML(photo.caption || activity.title)}"><img data-media-src="${escapeHTML(photo.src)}" src="images/hero.jpg" alt="${escapeHTML(photo.alt || activity.title)}" loading="lazy" /><span class="activity-photo-index">${String(index + 1).padStart(2, "0")}</span><span><small>${escapeHTML(activity.topic || activity.type)}</small><strong>${escapeHTML(photo.caption || activity.title)}</strong></span></button>`;
+    return `<button class="gallery-item activity-photo reveal" type="button" data-full="${escapeHTML(photo.src)}" data-caption="${escapeHTML(photo.caption || activity.title)}"><img data-media-src="${escapeHTML(photo.src)}" src="images/hero.jpg" alt="${escapeHTML(photo.alt || activity.title)}" loading="lazy" decoding="async" fetchpriority="low" /><span class="activity-photo-index">${String(index + 1).padStart(2, "0")}</span><span><small>${escapeHTML(activity.topic || activity.type)}</small><strong>${escapeHTML(photo.caption || activity.title)}</strong></span></button>`;
+  }
+
+  function initProgressiveGallery(photos, activity) {
+    const grid = app.querySelector(".activity-gallery");
+    const button = app.querySelector("[data-gallery-more]");
+    if (!grid || !button) return;
+    let rendered = grid.children.length;
+    let loadingBatch = false;
+    const updateButton = () => {
+      const remaining = Math.max(0, photos.length - rendered);
+      button.hidden = remaining === 0;
+      button.textContent = remaining ? `Xem thêm ${Math.min(galleryBatchSize, remaining)} ảnh · còn ${remaining}` : "Đã mở toàn bộ ảnh";
+    };
+    const loadMore = async () => {
+      if (loadingBatch || rendered >= photos.length) return;
+      loadingBatch = true;
+      const batch = photos.slice(rendered, rendered + galleryBatchSize);
+      grid.insertAdjacentHTML("beforeend", batch.map((photo, index) => photoMarkup(photo, activity, rendered + index)).join(""));
+      rendered += batch.length;
+      await window.TeresaStore?.hydrateMedia(grid);
+      window.TeresaUI?.initReveal(grid);
+      window.TeresaUI?.initLightbox();
+      window.TeresaUI?.initLiquidGlass(grid);
+      updateButton();
+      loadingBatch = false;
+    };
+    button.addEventListener("click", loadMore);
+    if ("IntersectionObserver" in window) {
+      const observer = new IntersectionObserver(([entry]) => {
+        if (entry.isIntersecting) loadMore();
+      }, { rootMargin: "450px 0px" });
+      observer.observe(button);
+    }
+    updateButton();
   }
 
   function proseMarkup(value = "") {
@@ -44,7 +79,7 @@
       const adminLink = window.TeresaStore.isAdmin() ? `<a class="button button-light" href="admin.html?year=${year}&activity=${encodeURIComponent(activity.id)}">Chỉnh sửa hoạt động ↗</a>` : "";
       app.innerHTML = `
         <section class="activity-hero">
-          <div class="activity-hero-bg" data-media-src="${escapeHTML(coverImage)}"></div>
+          <div class="activity-hero-bg" data-media-src="${escapeHTML(coverImage)}" data-media-priority="high"></div>
           <div class="activity-hero-grain" aria-hidden="true"></div>
           <div class="container activity-hero-content">
             <nav class="activity-breadcrumb" aria-label="Đường dẫn"><a href="index.html">Trang chủ</a><span>/</span><a href="year.html?year=${year}">Nhật ký ${year}</a><span>/</span><span>${escapeHTML(activity.type)}</span></nav>
@@ -74,7 +109,7 @@
         <section class="activity-gallery-section">
           <div class="container">
             <div class="activity-section-heading reveal"><div><span>Ảnh — tư liệu</span><strong>${String(photos.length).padStart(2, "0")}</strong></div><h2>Những khoảnh khắc<br /><em>còn ở lại.</em></h2></div>
-            ${photos.length ? `<div class="activity-gallery">${photos.map((photo, index) => photoMarkup(photo, activity, index)).join("")}</div>` : '<div class="activity-empty reveal"><span aria-hidden="true">◇</span><h3>Kho ảnh đang được hoàn thiện</h3><p>Những hình ảnh của hoạt động này sẽ sớm được bổ sung vào kho lưu trữ.</p></div>'}
+            ${photos.length ? `<div class="activity-gallery">${photos.slice(0, galleryBatchSize).map((photo, index) => photoMarkup(photo, activity, index)).join("")}</div><div class="gallery-more-wrap"><button class="gallery-load-more" type="button" data-gallery-more>Xem thêm ảnh</button></div>` : '<div class="activity-empty reveal"><span aria-hidden="true">◇</span><h3>Kho ảnh đang được hoàn thiện</h3><p>Những hình ảnh của hoạt động này sẽ sớm được bổ sung vào kho lưu trữ.</p></div>'}
           </div>
         </section>
         <section class="activity-navigation"><div class="container"><p class="eyebrow">Tiếp tục hành trình ${year}</p><div class="activity-nav-grid">${navigationCard(previous, data, "previous")}${navigationCard(next, data, "next")}</div></div></section>`;
@@ -82,6 +117,7 @@
       window.TeresaUI?.initReveal(app);
       window.TeresaUI?.initLightbox();
       window.TeresaUI?.initLiquidGlass(app);
+      initProgressiveGallery(photos, activity);
     } catch (error) {
       app.innerHTML = `<section class="year-error"><h1>Ôi!</h1><p>${escapeHTML(error.message || "Không thể mở hoạt động.")}</p><a class="button" href="index.html#journey">Trở về hành trình</a></section>`;
     }

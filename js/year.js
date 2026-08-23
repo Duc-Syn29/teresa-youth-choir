@@ -10,6 +10,7 @@
   const selectedYear = Number(params.get("year"));
   const app = document.querySelector("#year-app");
   const loading = document.querySelector("#year-loading");
+  const galleryBatchSize = window.matchMedia("(max-width: 680px)").matches ? 10 : 24;
 
   const escapeHTML = (value = "") =>
     String(value).replace(
@@ -37,11 +38,11 @@
     };
     const people = Object.entries(labels).map(([key, role]) => {
       const entry = leadership[key] || {};
-      const members = key === "deputyLeader"
-        ? (entry.members || String(entry.name || "").split(/\s*[·•]\s*|\s*;\s*/).map((name) => ({ name: name.trim() })).filter((member) => member.name))
-        : [];
+      const members = entry.members || (/[·•;,]/.test(String(entry.name || ""))
+        ? String(entry.name || "").split(/\s*[·•;,]\s*/).map((name) => ({ name: name.trim() })).filter((member) => member.name)
+        : []);
       return { role, ...entry, members };
-    });
+    }).filter((person) => person.name || person.members.length);
     const serviceTeams = (leadership.teams || leadership.serviceTeams || []).map((team) => {
       const normalized = typeof team === "string" ? { name: team, members: [] } : team;
       return { role: normalized.name || "Ban phục vụ", members: normalized.members || [] };
@@ -49,7 +50,7 @@
 
     const memberData = (member) => typeof member === "string" ? { name: member, photo: "" } : (member || {});
     const photo = (src, alt, className = "person-card-photo") => src
-      ? `<img class="${className}" src="images/hero.jpg" data-media-src="${escapeHTML(src)}" alt="${escapeHTML(alt)}" loading="lazy" />`
+      ? `<img class="${className}" src="images/hero.jpg" data-media-src="${escapeHTML(src)}" alt="${escapeHTML(alt)}" loading="lazy" decoding="async" fetchpriority="low" />`
       : "";
 
     return [...people, ...serviceTeams]
@@ -89,16 +90,53 @@
       .join("");
   }
 
-  function renderGallery(gallery = []) {
+  function renderGallery(gallery = [], startIndex = 0) {
     return gallery
       .map(
-        (photo) => `
+        (photo, index) => `
           <button class="gallery-item reveal" type="button" data-full="${escapeHTML(photo.src)}" data-caption="${escapeHTML(photo.caption)}">
-            <img src="${escapeHTML(photo.src)}" data-media-src="${escapeHTML(photo.src)}" alt="${escapeHTML(photo.alt)}" loading="lazy" />
+            <img src="images/hero.jpg" data-media-src="${escapeHTML(photo.src)}" alt="${escapeHTML(photo.alt)}" loading="lazy" decoding="async" fetchpriority="low" />
+            <i class="gallery-photo-number" aria-hidden="true">${String(startIndex + index + 1).padStart(2, "0")}</i>
             <span><small>${escapeHTML(photo.event)}</small><strong>${escapeHTML(photo.caption)}</strong></span>
           </button>`,
       )
       .join("");
+  }
+
+  function initProgressiveGallery(gallery) {
+    const grid = app.querySelector(".year-gallery");
+    const button = app.querySelector("[data-gallery-more]");
+    if (!grid || !button) return;
+    let rendered = grid.children.length;
+    let loadingBatch = false;
+
+    const updateButton = () => {
+      const remaining = Math.max(0, gallery.length - rendered);
+      button.hidden = remaining === 0;
+      button.textContent = remaining ? `Xem thêm ${Math.min(galleryBatchSize, remaining)} ảnh · còn ${remaining}` : "Đã mở toàn bộ album";
+    };
+    const loadMore = async () => {
+      if (loadingBatch || rendered >= gallery.length) return;
+      loadingBatch = true;
+      const batch = gallery.slice(rendered, rendered + galleryBatchSize);
+      grid.insertAdjacentHTML("beforeend", renderGallery(batch, rendered));
+      rendered += batch.length;
+      await window.TeresaStore?.hydrateMedia(grid);
+      window.TeresaUI?.initReveal(grid);
+      window.TeresaUI?.initLightbox();
+      window.TeresaUI?.initLiquidGlass(grid);
+      updateButton();
+      loadingBatch = false;
+    };
+
+    button.addEventListener("click", loadMore);
+    if ("IntersectionObserver" in window) {
+      const observer = new IntersectionObserver(([entry]) => {
+        if (entry.isIntersecting) loadMore();
+      }, { rootMargin: "450px 0px" });
+      observer.observe(button);
+    }
+    updateButton();
   }
 
   function renderQuotes(sharing = []) {
@@ -129,7 +167,7 @@
 
     app.innerHTML = `
       <section class="year-hero">
-        <div class="year-hero-bg" style="background-image:url('${escapeHTML(overview.coverImage)}')" data-media-src="${escapeHTML(overview.coverImage)}"></div>
+        <div class="year-hero-bg" data-media-src="${escapeHTML(overview.coverImage)}" data-media-priority="high"></div>
         <div class="year-glass-orb" aria-hidden="true"></div>
         <div class="container year-hero-content">
           <div class="year-number">${year}</div>
@@ -199,7 +237,8 @@
       <section class="year-section" aria-labelledby="year-album">
         <div class="container">
           ${sectionHeading(6, "Khoảnh khắc", `Album ${year}`, "year-album")}
-          <div class="year-gallery">${renderGallery(yearGallery)}</div>
+          <div class="year-gallery">${renderGallery(yearGallery.slice(0, galleryBatchSize))}</div>
+          <div class="gallery-more-wrap"><button class="gallery-load-more" type="button" data-gallery-more>Xem thêm ảnh</button></div>
           <p class="gallery-note">Ảnh được thêm qua khu quản trị sẽ tự xuất hiện ở đây, theo năm và chủ đề đã chọn.</p>
         </div>
       </section>
@@ -226,6 +265,7 @@
     window.TeresaUI?.initReveal(app);
     window.TeresaUI?.initLightbox();
     window.TeresaUI?.initLiquidGlass(app);
+    initProgressiveGallery(yearGallery);
   }
 
   function renderError(message) {

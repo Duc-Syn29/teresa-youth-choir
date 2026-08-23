@@ -1,65 +1,830 @@
 {
   "year": 2017,
-  "theme": { "accent": "#f27f6b" },
+  "theme": {
+    "accent": "#f27f6b"
+  },
   "overview": {
     "eyebrow": "Năm thứ ba",
     "title": "Vững vàng trong lời ca",
-    "summary": "Ca đoàn ổn định nề nếp sinh hoạt và khởi xướng chương trình Thiện nguyện Giáng Sinh – một truyền thống được nối tiếp qua các thế hệ.",
+    "summary": "Năm giữ vững nề nếp sinh hoạt, mở ra truyền thống Thiện nguyện Giáng Sinh và nhiều hành trình phục vụ đáng nhớ.",
     "verse": "Hãy dùng lời ca tiếng hát mà cảm tạ Thiên Chúa trong lòng anh em.",
-    "longDescription": "Trong sự bao bọc của Gia Đình Công Giáo Xa Quê Hà Nội, ca đoàn tiếp tục gìn giữ nề nếp sinh hoạt. Dấu ấn quan trọng là chương trình Thiện nguyện Giáng Sinh lần đầu được khởi xướng: mỗi mùa Noel, các ca viên cùng mang yêu thương và hơi ấm đến những vùng núi còn nhiều khó khăn.",
-    "coverImage": "images/hero.jpg"
+    "longDescription": "Năm 2017, trong sự bao bọc và nâng đỡ của Gia Đình Công Giáo Xa Quê Hà Nội, ca đoàn chúng con vẫn tiếp tục gìn giữ được các nếp sinh hoạt và ngày một ổn định hơn. Thời gian như dòng chảy miệt mài, lặng lẽ cuốn đi từng khoảnh khắc, nhưng cũng chính thời gian là minh chứng cho sự trưởng thành và bền bỉ, dẫu có khó khăn nhưng tất cả đều hun đúc thêm lòng nhiệt thành yêu mến phục vụ.\n\nNăm 2017 là một trong những năm ghi dấu nhiều hoạt động đáng nhớ của Ca đoàn Giới Trẻ Têrêsa. Sau những năm đầu tiên hình thành và từng bước ổn định, ca đoàn tiếp tục được xây dựng qua những buổi tập hát, những Thánh lễ phục vụ, những hoạt động giao lưu, tĩnh tâm. Đặc biệt, chương trình Thiện nguyện Giáng sinh lần đầu tiên được khởi xướng và từ đó trở thành một truyền thống đẹp được gìn giữ, tiếp nối qua từng thế hệ ca viên.",
+    "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/001.jpg"
   },
   "leadership": {
-    "chaplain": { "name": "Lm. Anrê Nguyễn Minh Tâm", "note": "Đồng hành mục vụ" },
-    "leader": { "name": "Maria Trần Ngọc Anh", "note": "Nhiệm kỳ đầu tiên" },
-    "conductor": { "name": "Giuse Nguyễn Hoàng Nam", "note": "Phụ trách chuyên môn" },
-    "treasurer": { "name": "Phanxicô Trần Quốc Huy", "note": "Phụ trách tài chính" },
-    "serviceTeams": ["Ban Phụng vụ", "Ban Truyền thông", "Ban Hậu cần"]
+    "leader": {
+      "name": "Toma Trần Minh Quân"
+    },
+    "deputyLeader": {
+      "name": "Phêrô Bùi Ngọc Liêm · Giuse Nguyễn Xuân Hoàn"
+    },
+    "conductor": {
+      "name": "Sơ Maria Mai Phạm C.P · Chị Anna Bảo Trang"
+    },
+    "treasurer": {
+      "name": "Maria Đỗ Thị Lan"
+    },
+    "teams": [
+      {
+        "name": "Ban Truyền Thông",
+        "members": [
+          {
+            "name": "Cua Tồ"
+          }
+        ]
+      },
+      {
+        "name": "Ban Tâm Linh",
+        "members": [
+          {
+            "name": "Maria Nguyễn Thị Uyên"
+          }
+        ]
+      },
+      {
+        "name": "Ban Thể Thao",
+        "members": [
+          {
+            "name": "Giuse Phạm Văn Tĩnh"
+          }
+        ]
+      },
+      {
+        "name": "Ban Liên Kết",
+        "members": [
+          {
+            "name": "Maria Đỗ Thị Liệu"
+          }
+        ]
+      }
+    ]
   },
   "members": {
-    "total": 24,
-    "new": 8,
+    "total": 40,
+    "new": 15,
     "inactive": 0,
-    "notes": "24 giọng ca tiếp tục vun đắp một gia đình mang tên Têrêsa trong năm thứ ba phục vụ."
+    "notes": "Thành viên nghỉ: không có số liệu trong Nhật ký Ca đoàn Giới trẻ Têrêsa năm 2017."
   },
   "activities": [
-    { "type": "Thánh lễ", "date": "Hằng tuần", "title": "Giữ nhịp phụng vụ", "description": "Ca đoàn duy trì đều đặn việc phục vụ các thánh lễ Chúa Nhật." },
-    { "type": "Lễ Quan thầy", "date": "01.10.2017", "title": "Têrêsa — con đường nhỏ", "description": "Thánh lễ Quan thầy quy tụ các thế hệ đã đồng hành từ ngày đầu." },
-    { "type": "Tĩnh tâm", "date": "11.2017", "title": "Lắng nghe tiếng gọi", "description": "Cùng nhìn lại ý nghĩa của việc phục vụ sau ba năm đồng hành." },
-    { "type": "Giáng Sinh", "date": "24.12.2017", "title": "Đêm bình an", "description": "Chuẩn bị liên khúc Giáng Sinh bằng sự tự tin và gắn kết trưởng thành hơn." },
-    { "type": "Hát lễ cưới", "date": "12.2017", "title": "Lời chúc phúc bằng âm nhạc", "description": "Ca đoàn hát lễ cưới cho một người bạn trong giáo xứ." },
-    { "type": "Du lịch/Team Building", "date": "12.2017", "title": "Một ngày để hiểu nhau", "description": "Chuyến đi ngắn khép lại năm thứ ba bằng thật nhiều tiếng cười." }
+    {
+      "id": "2017-football",
+      "type": "Giao lưu",
+      "topic": "Gắn kết",
+      "date": "09.03.2017",
+      "title": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục",
+      "description": "Một buổi giao hữu để các thành viên vận động, vui chơi và vun đắp tình huynh đệ.",
+      "body": "Khởi đầu những hoạt động đầu tiên của ca đoàn trong năm 2017, Ca đoàn Giới Trẻ Têrêsa có buổi giao hữu bóng đá với Cộng đoàn Giu-se Hiền Xuân Dục. Trận đấu diễn ra hấp dẫn và gay cấn trong bầu khí vui tươi và gần gũi giữa những người con xa quê. Trên sân bóng, tinh thần thi đấu hết mình, những tiếng cười và sự cổ vũ dành cho nhau đã giúp các thành viên thêm gắn bó.\n\nĐiều đáng nhớ không chỉ nằm ở kết quả của trận đấu, mà còn ở tình bạn, tình huynh đệ được hình thành và vun đắp qua những hoạt động rất đời thường. Đối với Ca đoàn Giới Trẻ Têrêsa, những chương trình như vậy góp phần tạo nên một môi trường sinh hoạt trẻ trung, nơi mỗi thành viên không chỉ gặp nhau để phục vụ mà còn thực sự trở thành những người bạn, những người anh chị em đồng hành cùng nhau trên hành trình đức tin.",
+      "images": [
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/001.jpg",
+          "caption": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục · ảnh 1",
+          "alt": "Ảnh tư liệu: Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/002.jpg",
+          "caption": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục · ảnh 2",
+          "alt": "Ảnh tư liệu: Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/003.jpg",
+          "caption": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục · ảnh 3",
+          "alt": "Ảnh tư liệu: Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/004.jpg",
+          "caption": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục · ảnh 4",
+          "alt": "Ảnh tư liệu: Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục"
+        }
+      ],
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/001.jpg"
+    },
+    {
+      "id": "2017-retreat",
+      "type": "Tĩnh tâm",
+      "topic": "Tĩnh tâm",
+      "date": "05.08.2017",
+      "title": "Tĩnh tâm tại Tam Đảo",
+      "description": "Khoảng dừng để cầu nguyện, nhìn lại và tiếp tục lên đường phục vụ với một tinh thần mới.",
+      "body": "Ngày 05/08/2017, ca đoàn tổ chức chuyến tĩnh tâm tại Tam Đảo. Giữa những ngày tháng bận rộn với công việc, học tập và những hoạt động phục vụ, đây là khoảng thời gian quý giá để các ca viên tạm dừng lại, bước ra khỏi những bộn bề thường ngày và dành thời gian cho đời sống tâm linh cũng như cho chính những người anh chị em đang đồng hành cùng mình.\n\nĐặc biệt trong chuyến tĩnh tâm lần này có sự đồng hành của cha phó đặc trách Giuse Trần Hữu Hoan. Bên cạnh những phút giây tĩnh lặng, chuyến đi cũng đem đến nhiều khoảnh khắc vui vẻ và gần gũi. Những câu chuyện được chia sẻ, những tiếng cười và những khoảng thời gian cùng nhau đã giúp khoảng cách giữa các thành viên được rút ngắn hơn. Chuyến tĩnh tâm Tam Đảo năm 2017 trở thành một khoảng dừng để mỗi người nhìn lại mình, đồng thời cũng là một bước chuẩn bị để tiếp tục lên đường phục vụ với một tinh thần mới.",
+      "images": [
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/001.jpg",
+          "caption": "Tĩnh tâm tại Tam Đảo · ảnh 1",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/002.jpg",
+          "caption": "Tĩnh tâm tại Tam Đảo · ảnh 2",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/003.jpg",
+          "caption": "Tĩnh tâm tại Tam Đảo · ảnh 3",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/004.jpg",
+          "caption": "Tĩnh tâm tại Tam Đảo · ảnh 4",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/005.jpg",
+          "caption": "Tĩnh tâm tại Tam Đảo · ảnh 5",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/006.jpg",
+          "caption": "Tĩnh tâm tại Tam Đảo · ảnh 6",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/007.jpg",
+          "caption": "Tĩnh tâm tại Tam Đảo · ảnh 7",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/008.jpg",
+          "caption": "Tĩnh tâm tại Tam Đảo · ảnh 8",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/009.jpg",
+          "caption": "Tĩnh tâm tại Tam Đảo · ảnh 9",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/010.jpg",
+          "caption": "Tĩnh tâm tại Tam Đảo · ảnh 10",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/011.jpg",
+          "caption": "Tĩnh tâm tại Tam Đảo · ảnh 11",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/012.jpg",
+          "caption": "Tĩnh tâm tại Tam Đảo · ảnh 12",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo"
+        }
+      ],
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/001.jpg"
+    },
+    {
+      "id": "2017-cathedral",
+      "type": "Thánh lễ",
+      "topic": "Phụng vụ",
+      "date": "25.08.2017",
+      "title": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+      "description": "Niềm vui và vinh dự lần đầu được phục vụ Thánh lễ do Đức Hồng Y chủ sự.",
+      "body": "Sáng ngày 25/08/2017, Ca đoàn Giới Trẻ Têrêsa kết hợp với Ca đoàn Trinh Vương có cơ hội phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội, trong Thánh lễ do Đức Hồng Y chủ sự. Đây là một niềm vui và cũng là một vinh dự đối với các ca viên khi lần đầu tiên được quý cha tin tưởng giao nhiệm vụ phục vụ thánh lễ quan trọng này.\n\nĐược đứng trong một ngôi thánh đường lớn, cùng nhau cất lên những lời ca phụng vụ để phục vụ cộng đoàn là một trải nghiệm đặc biệt đối với những người trẻ đang từng bước trưởng thành trong sứ mạng của mình. Trong Thánh lễ, mỗi tiếng hát không chỉ là một phần của âm nhạc phụng vụ, mà còn là lời cầu nguyện được dâng lên Thiên Chúa.",
+      "images": [
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/001.jpg",
+          "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội · ảnh 1",
+          "alt": "Ảnh tư liệu: Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/002.jpg",
+          "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội · ảnh 2",
+          "alt": "Ảnh tư liệu: Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/003.jpg",
+          "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội · ảnh 3",
+          "alt": "Ảnh tư liệu: Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/004.jpg",
+          "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội · ảnh 4",
+          "alt": "Ảnh tư liệu: Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/005.jpg",
+          "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội · ảnh 5",
+          "alt": "Ảnh tư liệu: Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội"
+        }
+      ],
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/001.jpg"
+    },
+    {
+      "id": "2017-patron",
+      "type": "Lễ Quan thầy",
+      "topic": "Lễ Quan thầy",
+      "date": "20.09.2017",
+      "title": "Mừng lễ Quan thầy lần thứ hai",
+      "description": "Ngày hân hoan mừng kính Thánh Têrêsa tại thánh đường Giáo xứ Thái Hà.",
+      "body": "Ngày 20/09/2017, tại thánh đường Giáo xứ Thái Hà, Ca đoàn Giới trẻ Teresa đã hân hoan mừng lễ Thánh Quan thầy lần thứ hai trong bầu khí linh thiêng và chan chứa ân sủng, với sự hiện diện của cha đặc trách Gio-an Lưu Ngọc Quỳnh cùng quý anh chị em trong Đại Gia Đình Công Giáo Xa Quê Hà Nội.\n\nĐối với mỗi ca viên, ngày lễ quan thầy luôn mang một ý nghĩa đặc biệt. Đây không chỉ là ngày kính nhớ vị thánh mà ca đoàn nhận làm bổn mạng, mà còn là dịp để tất cả thành viên cùng nhau dâng lời tạ ơn Thiên Chúa vì những hồng ân đã nhận được trong suốt hành trình hoạt động. Tiếng hát cất lên không chỉ là lời ca, mà còn là nhịp đập của những tâm hồn khao khát phụng sự, của những trái tim xa quê tìm về chung một mái nhà.",
+      "images": [
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/001.jpg",
+          "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 1",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/002.jpg",
+          "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 2",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/003.jpg",
+          "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 3",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/004.jpg",
+          "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 4",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/005.jpg",
+          "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 5",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/006.jpg",
+          "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 6",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/007.jpg",
+          "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 7",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/008.jpg",
+          "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 8",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/009.jpg",
+          "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 9",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/010.jpg",
+          "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 10",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/011.jpg",
+          "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 11",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/012.jpg",
+          "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 12",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/013.jpg",
+          "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 13",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/014.jpg",
+          "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 14",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/015.jpg",
+          "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 15",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/016.jpg",
+          "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 16",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/017.jpg",
+          "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 17",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/018.jpg",
+          "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 18",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/019.jpg",
+          "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 19",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/020.jpg",
+          "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 20",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai"
+        }
+      ],
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/001.jpg"
+    },
+    {
+      "id": "2017-migrant",
+      "type": "Đại lễ",
+      "topic": "Phụng vụ",
+      "date": "09–11.10.2017",
+      "title": "Phục vụ Đại lễ Di dân 2017",
+      "description": "Ca đoàn phục vụ Thánh lễ ngày thứ hai của Đại lễ Di dân tại Nhà thờ Thái Hà.",
+      "body": "Tối ngày 10/10/2017, tại Nhà thờ Thái Hà, ngày thứ hai trong khuôn khổ Đại lễ Di dân 2017 được tổ chức cách long trọng. Được sự ưu ái của quý cha đặc trách, ca đoàn Giới trẻ đã được phân công phục vụ thánh lễ ngày thứ hai trong dịp đại lễ di dân lần này. Đây là một dịp đặc biệt quy tụ đông đảo những người con xa quê đang học tập, làm việc và sinh sống tại Hà Nội, cùng trở về bên nhau trong tình hiệp nhất và cùng hướng về Thiên Chúa. Dù thời tiết có mưa, điều đó không làm giảm đi lòng nhiệt thành của anh chị em ca viên.\n\nTrong ba ngày đại lễ, những người con xa quê đã dâng lên Chúa những đóa hoa tươi thắm và những giai điệu nhẹ nhàng qua các bài hát dâng hoa trước tượng đài Mẹ. Qua tiếng hát, ca đoàn được cùng cộng đoàn dâng lời cầu nguyện, đồng thời cảm nhận rõ hơn sứ mạng phục vụ Giáo Hội và những người trẻ xa quê đang sống giữa lòng thành phố.",
+      "images": [
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/001.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 1",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/002.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 2",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/003.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 3",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/004.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 4",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/005.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 5",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/006.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 6",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017"
+        }
+      ],
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/001.jpg"
+    },
+    {
+      "id": "2017-charity",
+      "type": "Thiện nguyện",
+      "topic": "Thiện nguyện",
+      "date": "19.12.2017",
+      "title": "Thiện nguyện tại Giáo xứ Bó Tờ",
+      "description": "Chương trình Thiện nguyện Giáng Sinh đầu tiên tại Giáo phận Lạng Sơn.",
+      "body": "Ngày 19/12/2017, Ca đoàn Giới Trẻ Têrêsa có chuyến thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn trong những ngày chuẩn bị đón mừng Đại lễ Giáng Sinh. Đây là lần đầu tiên ca đoàn giới trẻ tổ chức một chương trình thiện nguyện. Các ca viên không chỉ dùng tiếng hát để phục vụ trong nhà thờ mà còn cùng nhau lên đường, mang theo tình yêu thương và tinh thần sẻ chia đến với những người còn gặp nhiều khó khăn.\n\nĐặc biệt, ca đoàn còn lên ý tưởng tổ chức hoan ca Giáng Sinh cho những em nhỏ, những anh chị em đồng bào. Mỗi phần quà, mỗi lời hỏi thăm, mỗi cuộc gặp gỡ tuy có thể rất giản dị nhưng đều mang trong mình một thông điệp: Giáng Sinh không chỉ là niềm vui được đón nhận, mà còn là niềm vui được trao ban. Sau chương trình, ca đoàn di chuyển về Giáo Phận Lạng Sơn, Cao Bằng và có vinh dự được gặp gỡ Đức Cha Giuse Châu Ngọc Tri, nói chuyện và ăn bữa cơm với ngài.",
+      "images": [
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/001.jpg",
+          "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 1",
+          "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/002.jpg",
+          "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 2",
+          "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/003.jpg",
+          "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 3",
+          "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/004.jpg",
+          "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 4",
+          "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/005.jpg",
+          "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 5",
+          "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/006.jpg",
+          "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 6",
+          "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/007.jpg",
+          "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 7",
+          "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/008.jpg",
+          "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 8",
+          "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/009.jpg",
+          "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 9",
+          "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/010.jpg",
+          "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 10",
+          "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/011.jpg",
+          "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 11",
+          "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ"
+        }
+      ],
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/001.jpg"
+    },
+    {
+      "id": "2017-review",
+      "type": "Gắn kết",
+      "topic": "Gắn kết",
+      "date": "22.12.2017",
+      "title": "Họp ca đoàn tổng kết năm 2017",
+      "description": "Cùng nhìn lại một năm và kiện toàn các ban hướng tới năm 2018.",
+      "body": "Ca đoàn khép lại năm 2017 bằng việc tổ chức buổi họp tổng kết năm. Đây là dịp để các thành viên cùng nhau nhìn lại một năm đã qua với những hoạt động, những chương trình và những kỷ niệm đáng nhớ. Buổi họp cũng là thời gian để ca đoàn nhìn lại những điều đã làm được, những khó khăn đã trải qua và những điều cần tiếp tục cố gắng trong thời gian tới.\n\nQuan trọng hơn, đây là dịp để các thành viên cùng ngồi lại bên nhau, chia sẻ những tâm tư và nhìn về chặng đường phía trước với tinh thần đoàn kết. Trong buổi họp lần này, ca đoàn cũng có một chút bổ sung, thay đổi về nhân sự nhằm kiện toàn đầy đủ các ban và hướng đến một năm 2018 phát triển mạnh mẽ hơn.",
+      "images": [
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/001.jpg",
+          "caption": "Họp ca đoàn tổng kết năm 2017 · ảnh 1",
+          "alt": "Ảnh tư liệu: Họp ca đoàn tổng kết năm 2017"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/002.jpg",
+          "caption": "Họp ca đoàn tổng kết năm 2017 · ảnh 2",
+          "alt": "Ảnh tư liệu: Họp ca đoàn tổng kết năm 2017"
+        }
+      ],
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/001.jpg"
+    }
   ],
   "achievements": [
-    "Duy trì đội hình 24 ca viên với sự bổ sung của tám gương mặt mới.",
-    "Hoàn thiện lịch tập và quy chế sinh hoạt.",
-    "Phục vụ đều đặn các thánh lễ cuối tuần.",
-    "Hoàn thành chương trình thánh nhạc Giáng Sinh với phần bè chỉn chu hơn."
+    "Giữ vững nề nếp tập hát và phục vụ.",
+    "Lần đầu thực hiện chương trình Thiện nguyện Giáng Sinh.",
+    "Mở rộng cơ hội phục vụ phụng vụ và hiệp thông với các cộng đoàn."
   ],
   "challenges": [
-    "Kinh nghiệm hợp xướng và đọc nhạc còn hạn chế.",
-    "Thiếu nhạc cụ, bản phối và không gian tập ổn định.",
-    "Khó sắp xếp lịch sinh hoạt chung của các ca viên trẻ.",
-    "Cần xây dựng văn hóa lắng nghe và kỷ luật tập thể."
+    "Tiếp tục nuôi dưỡng lòng nhiệt thành và sự bền bỉ trong đời sống phục vụ."
   ],
-  "gallery": [
-    { "src": "images/gallery/quan-thay-2017.jpg", "alt": "Lễ Quan thầy ca đoàn năm 2017", "event": "Quan thầy", "caption": "Vững vàng trong lời ca" },
-    { "src": "images/gallery/phung-vu-2025.jpg", "alt": "Ca đoàn phục vụ phụng vụ", "event": "Phụng vụ", "caption": "Chung một nhịp thở" },
-    { "src": "images/gallery/giang-sinh-2022.jpg", "alt": "Kỷ niệm Giáng Sinh", "event": "Giáng Sinh", "caption": "Đêm bình an" },
-    { "src": "images/gallery/gan-ket-2024.jpg", "alt": "Ca viên cùng sinh hoạt", "event": "Gắn kết", "caption": "Những người bạn đồng hành" }
-  ],
-  "sharing": [
-    { "name": "Ngọc Anh", "role": "Trưởng ca đoàn 2017", "quote": "Sau ba năm, điều quý nhất là chúng mình vẫn giữ được niềm vui ngày đầu trong từng buổi tập và thánh lễ." },
-    { "name": "Hoàng Nam", "role": "Ca trưởng 2017", "quote": "Những buổi tập vẫn còn vài nốt chênh, nhưng ánh mắt mọi người thì luôn cùng hướng về một nơi." }
-  ],
-  "emotionJournal": [
-    { "date": "01.10", "title": "Ngày trở về", "text": "Các thế hệ cùng đứng cạnh nhau trong ngày Quan thầy, nghe lại những bài hát đã nuôi lớn gia đình Têrêsa.", "mood": "Rưng rưng" },
-    { "date": "15.10", "title": "Buổi tập sau giờ lễ", "text": "Không ai muốn về sớm. Chúng mình ngồi lại, sửa từng câu hát và chia nhau ổ bánh mì.", "mood": "Ấm áp" },
-    { "date": "24.12", "title": "Ánh nến đêm Giáng Sinh", "text": "Khi hợp âm cuối cùng ngân lên, mọi lo lắng bỗng hóa thành bình an.", "mood": "Biết ơn" }
-  ],
+  "sharing": [],
   "yearMark": {
-    "title": "Chúng mình đã vững vàng.",
-    "description": "Dấu ấn lớn nhất của 2017 không nằm ở một chương trình riêng lẻ, mà ở cách một tập thể trẻ đã giữ được nền nếp phục vụ và sự ấm áp sau ba năm đồng hành.",
-    "highlight": "3 năm · 24 ca viên · 1 gia đình"
-  }
+    "title": "Cùng nhau hát, phục vụ và trưởng thành.",
+    "description": "Khép lại năm 2017, ca đoàn nhìn lại một hành trình với những Thánh lễ trang nghiêm, những buổi giao lưu đầy tiếng cười, những chuyến đi, những giờ phút tĩnh tâm và đặc biệt là hoạt động thiện nguyện mang tinh thần sẻ chia.",
+    "highlight": "2017 · Truyền thống thiện nguyện được khởi xướng"
+  },
+  "gallery": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/001.jpg",
+      "caption": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục · ảnh 1",
+      "alt": "Ảnh tư liệu: Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục",
+      "event": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/002.jpg",
+      "caption": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục · ảnh 2",
+      "alt": "Ảnh tư liệu: Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục",
+      "event": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/003.jpg",
+      "caption": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục · ảnh 3",
+      "alt": "Ảnh tư liệu: Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục",
+      "event": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/004.jpg",
+      "caption": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục · ảnh 4",
+      "alt": "Ảnh tư liệu: Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục",
+      "event": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/001.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 1",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "event": "Tĩnh tâm tại Tam Đảo"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/002.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 2",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "event": "Tĩnh tâm tại Tam Đảo"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/003.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 3",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "event": "Tĩnh tâm tại Tam Đảo"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/004.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 4",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "event": "Tĩnh tâm tại Tam Đảo"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/005.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 5",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "event": "Tĩnh tâm tại Tam Đảo"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/006.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 6",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "event": "Tĩnh tâm tại Tam Đảo"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/007.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 7",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "event": "Tĩnh tâm tại Tam Đảo"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/008.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 8",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "event": "Tĩnh tâm tại Tam Đảo"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/009.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 9",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "event": "Tĩnh tâm tại Tam Đảo"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/010.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 10",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "event": "Tĩnh tâm tại Tam Đảo"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/011.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 11",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "event": "Tĩnh tâm tại Tam Đảo"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/012.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 12",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "event": "Tĩnh tâm tại Tam Đảo"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/001.jpg",
+      "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội · ảnh 1",
+      "alt": "Ảnh tư liệu: Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+      "event": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/002.jpg",
+      "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội · ảnh 2",
+      "alt": "Ảnh tư liệu: Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+      "event": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/003.jpg",
+      "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội · ảnh 3",
+      "alt": "Ảnh tư liệu: Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+      "event": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/004.jpg",
+      "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội · ảnh 4",
+      "alt": "Ảnh tư liệu: Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+      "event": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/005.jpg",
+      "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội · ảnh 5",
+      "alt": "Ảnh tư liệu: Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+      "event": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/001.jpg",
+      "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 1",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai",
+      "event": "Mừng lễ Quan thầy lần thứ hai"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/002.jpg",
+      "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 2",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai",
+      "event": "Mừng lễ Quan thầy lần thứ hai"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/003.jpg",
+      "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 3",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai",
+      "event": "Mừng lễ Quan thầy lần thứ hai"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/004.jpg",
+      "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 4",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai",
+      "event": "Mừng lễ Quan thầy lần thứ hai"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/005.jpg",
+      "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 5",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai",
+      "event": "Mừng lễ Quan thầy lần thứ hai"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/006.jpg",
+      "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 6",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai",
+      "event": "Mừng lễ Quan thầy lần thứ hai"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/007.jpg",
+      "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 7",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai",
+      "event": "Mừng lễ Quan thầy lần thứ hai"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/008.jpg",
+      "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 8",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai",
+      "event": "Mừng lễ Quan thầy lần thứ hai"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/009.jpg",
+      "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 9",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai",
+      "event": "Mừng lễ Quan thầy lần thứ hai"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/010.jpg",
+      "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 10",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai",
+      "event": "Mừng lễ Quan thầy lần thứ hai"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/011.jpg",
+      "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 11",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai",
+      "event": "Mừng lễ Quan thầy lần thứ hai"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/012.jpg",
+      "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 12",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai",
+      "event": "Mừng lễ Quan thầy lần thứ hai"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/013.jpg",
+      "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 13",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai",
+      "event": "Mừng lễ Quan thầy lần thứ hai"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/014.jpg",
+      "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 14",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai",
+      "event": "Mừng lễ Quan thầy lần thứ hai"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/015.jpg",
+      "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 15",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai",
+      "event": "Mừng lễ Quan thầy lần thứ hai"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/016.jpg",
+      "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 16",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai",
+      "event": "Mừng lễ Quan thầy lần thứ hai"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/017.jpg",
+      "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 17",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai",
+      "event": "Mừng lễ Quan thầy lần thứ hai"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/018.jpg",
+      "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 18",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai",
+      "event": "Mừng lễ Quan thầy lần thứ hai"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/019.jpg",
+      "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 19",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai",
+      "event": "Mừng lễ Quan thầy lần thứ hai"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/020.jpg",
+      "caption": "Mừng lễ Quan thầy lần thứ hai · ảnh 20",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy lần thứ hai",
+      "event": "Mừng lễ Quan thầy lần thứ hai"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/001.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 1",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017",
+      "event": "Phục vụ Đại lễ Di dân 2017"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/002.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 2",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017",
+      "event": "Phục vụ Đại lễ Di dân 2017"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/003.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 3",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017",
+      "event": "Phục vụ Đại lễ Di dân 2017"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/004.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 4",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017",
+      "event": "Phục vụ Đại lễ Di dân 2017"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/005.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 5",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017",
+      "event": "Phục vụ Đại lễ Di dân 2017"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/006.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 6",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017",
+      "event": "Phục vụ Đại lễ Di dân 2017"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/001.jpg",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 1",
+      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
+      "event": "Thiện nguyện tại Giáo xứ Bó Tờ"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/002.jpg",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 2",
+      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
+      "event": "Thiện nguyện tại Giáo xứ Bó Tờ"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/003.jpg",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 3",
+      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
+      "event": "Thiện nguyện tại Giáo xứ Bó Tờ"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/004.jpg",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 4",
+      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
+      "event": "Thiện nguyện tại Giáo xứ Bó Tờ"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/005.jpg",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 5",
+      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
+      "event": "Thiện nguyện tại Giáo xứ Bó Tờ"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/006.jpg",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 6",
+      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
+      "event": "Thiện nguyện tại Giáo xứ Bó Tờ"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/007.jpg",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 7",
+      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
+      "event": "Thiện nguyện tại Giáo xứ Bó Tờ"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/008.jpg",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 8",
+      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
+      "event": "Thiện nguyện tại Giáo xứ Bó Tờ"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/009.jpg",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 9",
+      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
+      "event": "Thiện nguyện tại Giáo xứ Bó Tờ"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/010.jpg",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 10",
+      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
+      "event": "Thiện nguyện tại Giáo xứ Bó Tờ"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/011.jpg",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 11",
+      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
+      "event": "Thiện nguyện tại Giáo xứ Bó Tờ"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/001.jpg",
+      "caption": "Họp ca đoàn tổng kết năm 2017 · ảnh 1",
+      "alt": "Ảnh tư liệu: Họp ca đoàn tổng kết năm 2017",
+      "event": "Họp ca đoàn tổng kết năm 2017"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/002.jpg",
+      "caption": "Họp ca đoàn tổng kết năm 2017 · ảnh 2",
+      "alt": "Ảnh tư liệu: Họp ca đoàn tổng kết năm 2017",
+      "event": "Họp ca đoàn tổng kết năm 2017"
+    }
+  ]
 }

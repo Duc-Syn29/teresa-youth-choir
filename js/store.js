@@ -193,7 +193,8 @@
     try {
       const bitmap = await createImageBitmap(file);
       const longest = Math.max(bitmap.width, bitmap.height);
-      const scale = Math.min(1, 2560 / longest);
+      // 2048 px vẫn sắc nét trên màn hình desktop/Retina nhưng nhẹ hơn đáng kể cho 4G/5G.
+      const scale = Math.min(1, 2048 / longest);
       const width = Math.max(1, Math.round(bitmap.width * scale));
       const height = Math.max(1, Math.round(bitmap.height * scale));
       const canvas = document.createElement("canvas");
@@ -201,7 +202,7 @@
       const context = canvas.getContext("2d", { alpha: false });
       context.drawImage(bitmap, 0, 0, width, height);
       bitmap.close?.();
-      const blob = await new Promise((resolve) => canvas.toBlob(resolve, "image/jpeg", .88));
+      const blob = await new Promise((resolve) => canvas.toBlob(resolve, "image/jpeg", .84));
       if (!blob || blob.size >= file.size) return unchanged;
       const name = file.name + ".jpg";
       return { file: new File([blob], name, { type: "image/jpeg", lastModified: file.lastModified }), compressed: true, originalBytes: file.size, savedBytes: blob.size };
@@ -257,10 +258,44 @@
   }
 
   async function hydrateMedia(root = document) {
-    await Promise.all([...root.querySelectorAll("[data-media-src]")].map(async (element) => {
+    const elements = [...root.querySelectorAll("[data-media-src]:not([data-media-hydrated])")];
+    const loadBackground = async (element, src) => {
+      const image = new Image();
+      image.decoding = "async";
+      image.src = src;
+      try {
+        if (image.decode) await image.decode();
+        else await new Promise((resolve) => { image.onload = image.onerror = resolve; });
+      } catch (_error) {
+        // Vẫn hiển thị ảnh nếu trình duyệt không hỗ trợ decode() đầy đủ.
+      }
+      element.style.backgroundImage = `url("${src}")`;
+      element.classList.add("media-ready");
+    };
+
+    await Promise.all(elements.map(async (element) => {
+      element.dataset.mediaHydrated = "true";
+      element.classList.add("media-loading");
       const src = await resolveSource(element.dataset.mediaSrc);
-      if (element.tagName === "IMG") element.src = src;
-      else element.style.backgroundImage = `url("${src}")`;
+      if (element.tagName === "IMG") {
+        element.decoding = "async";
+        element.fetchPriority = element.dataset.mediaPriority === "high" ? "high" : "low";
+        element.addEventListener("load", () => element.classList.add("media-ready"), { once: true });
+        element.addEventListener("error", () => element.classList.add("media-ready"), { once: true });
+        element.src = src;
+        return;
+      }
+
+      if (element.dataset.mediaPriority === "high" || !("IntersectionObserver" in window)) {
+        await loadBackground(element, src);
+        return;
+      }
+      const observer = new IntersectionObserver(([entry], currentObserver) => {
+        if (!entry.isIntersecting) return;
+        currentObserver.disconnect();
+        loadBackground(element, src);
+      }, { rootMargin: "600px 0px" });
+      observer.observe(element);
     }));
   }
 

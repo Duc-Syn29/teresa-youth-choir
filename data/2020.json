@@ -1,24 +1,68 @@
 {
   "year": 2020,
-  "theme": { "accent": "#e6b85c" },
+  "theme": {
+    "accent": "#e6b85c"
+  },
   "overview": {
     "eyebrow": "Dấu mốc 5 năm",
     "title": "5 năm một hành trình — Muôn Đời Tạ Ơn",
     "summary": "Năm kỷ niệm 5 năm thành lập, khi Ca đoàn Giới trẻ Têrêsa giữ lửa phục vụ, tạ ơn và bác ái giữa những biến động của đại dịch COVID-19.",
     "verse": "Muôn đời tạ ơn Chúa vì tình thương của Ngài.",
     "longDescription": "Năm 2020 đánh dấu 5 năm Ca đoàn Giới trẻ Têrêsa được quy tụ dưới một mái nhà. Dù COVID-19 khiến nhiều ca viên xa quê, các buổi tập và Thánh lễ có lúc phải tạm dừng, ca đoàn vẫn duy trì sự kết nối qua những buổi tập trực tuyến. Tạ ơn Chúa, hành trình năm nay vẫn có những dấu ấn đậm sâu: tĩnh tâm tại Đan viện Biển Đức Thiên Hà, thực hiện MV Muôn Đời Tạ Ơn, mừng lễ bổn mạng, phục vụ diễn nguyện Giáng Sinh và chương trình Giáng Sinh Yêu Thương tại Hà Giang.",
-    "coverImage": "images/gallery/2020/lequanthay20202.jpg"
+    "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/001.jpg"
   },
   "leadership": {
-    "leader": { "name": "Giuse Phạm Văn Tĩnh", "note": "Trưởng ca đoàn" },
-    "deputyLeader": { "name": "Phêrô Bùi Ngọc Liêm · Giuse Nguyễn Xuân Hoàn", "note": "Phó ca đoàn" },
-    "conductor": { "name": "Vincente Vũ Hải Ngân", "note": "Ca trưởng" },
-    "treasurer": { "name": "Maria Đặng Thị Thúy", "note": "Thủ quỹ" },
+    "leader": {
+      "name": "Giuse Phạm Văn Tĩnh"
+    },
+    "deputyLeader": {
+      "name": "Phêrô Bùi Ngọc Liêm · Giuse Nguyễn Xuân Hoàn"
+    },
+    "conductor": {
+      "name": "Vincente Vũ Hải Ngân"
+    },
+    "treasurer": {
+      "name": "Maria Đặng Thị Thuý"
+    },
     "teams": [
-      { "name": "Ban Truyền thông", "members": ["Tôma Vũ Duy Tâm", "Giuse Nguyễn Văn Thượng"] },
-      { "name": "Ban Liên kết", "members": ["Maria Đỗ Thị Thanh Hoa"] },
-      { "name": "Ban Tâm linh", "members": ["Maria Nguyễn Thị Uyên", "Maria Nguyễn Thị Oanh"] },
-      { "name": "Ban Sinh hoạt", "members": ["Antôn Nguyễn Thành Dương"] }
+      {
+        "name": "Ban Truyền thông",
+        "members": [
+          {
+            "name": "Toma Vũ Duy Tâm"
+          },
+          {
+            "name": "Giuse Nguyễn Văn Thượng"
+          }
+        ]
+      },
+      {
+        "name": "Ban Liên Kết",
+        "members": [
+          {
+            "name": "Maria Đỗ Thị Thanh Hoa"
+          }
+        ]
+      },
+      {
+        "name": "Ban Tâm Linh",
+        "members": [
+          {
+            "name": "Maria Nguyễn Thị Uyên"
+          },
+          {
+            "name": "Maria Nguyễn Thị Oanh"
+          }
+        ]
+      },
+      {
+        "name": "Ban Sinh Hoạt",
+        "members": [
+          {
+            "name": "Antôn Nguyễn Thành Dương"
+          }
+        ]
+      }
     ]
   },
   "members": {
@@ -35,7 +79,8 @@
       "date": "28.02.2020",
       "title": "Giờ cầu nguyện và giao hòa Mùa Chay",
       "description": "Cha đặc trách và Ban Điều hành tổ chức giờ cầu nguyện, giải tội để ca viên chuẩn bị tâm hồn đón Mùa Chay.",
-      "body": "Ngày 28/2, cha đặc trách cùng Ban Điều hành tổ chức giờ cầu nguyện và giải tội cho anh chị em ca viên, giúp mọi người dọn mình đón Mùa Chay sốt sáng."
+      "body": "Ngày 28/2, cha đặc trách cùng Ban Điều hành tổ chức giờ cầu nguyện và giải tội cho anh chị em ca viên, giúp mọi người dọn mình đón Mùa Chay sốt sáng.",
+      "images": []
     },
     {
       "id": "2020-return-to-service",
@@ -44,7 +89,8 @@
       "date": "07–21.05.2020",
       "title": "Trở lại trong tiếng hát",
       "description": "Ca đoàn tập hát và phục vụ trở lại sau giãn cách; phục vụ lễ vọng Mừng Chúa Lên Trời và cùng mừng sinh nhật ca viên.",
-      "body": "Khi tình hình dịch bệnh được kiểm soát, từ 7/5 ca đoàn trở lại tập hát với sự cho phép của quý cha linh hướng và sự thống nhất của Ban Điều hành. Dù số người trở lại chưa nhiều, ca đoàn vẫn phục vụ lễ vọng Mừng Chúa Lên Trời ngày 20/5; hôm sau cùng mừng sinh nhật ca viên trong buổi tập thường niên."
+      "body": "Khi tình hình dịch bệnh được kiểm soát, từ 7/5 ca đoàn trở lại tập hát với sự cho phép của quý cha linh hướng và sự thống nhất của Ban Điều hành. Dù số người trở lại chưa nhiều, ca đoàn vẫn phục vụ lễ vọng Mừng Chúa Lên Trời ngày 20/5; hôm sau cùng mừng sinh nhật ca viên trong buổi tập thường niên.",
+      "images": []
     },
     {
       "id": "2020-retreat-thien-ha",
@@ -54,15 +100,89 @@
       "title": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
       "description": "Hai ngày lắng đọng, cầu nguyện và nhìn lại hành trình chung tại Đan viện Thiên Hà, Hòa Bình.",
       "body": "Giữa không gian bình yên của Đan viện Thiên Hà – Hòa Bình, ca viên cùng cầu nguyện, chia sẻ, nhìn lại bản thân và góp ý để ca đoàn thăng tiến hơn, hướng tới kỷ niệm 5 năm. Chuyến đi có sự đồng hành của cha đặc trách giới trẻ Giuse Trần Hữu Hoan và cha Fx. Phạm Minh Thiết, Bề trên Đan viện Thiên Hà. Qua những lời chia sẻ, mỗi người được mời gọi sống tĩnh lặng, yêu thương tha nhân và hiểu rõ hơn ơn gọi phục vụ.",
-      "coverImage": "images/gallery/2020/tinhtam20206.jpg",
       "images": [
-        { "src": "images/gallery/2020/tinhtam20201.jpg", "caption": "Cầu nguyện trong ánh nến", "alt": "Nến được xếp thành hình trái tim trong giờ cầu nguyện" },
-        { "src": "images/gallery/2020/tinhtam20202.jpg", "caption": "Thánh lễ trong kỳ tĩnh tâm", "alt": "Linh mục chủ sự trong kỳ tĩnh tâm" },
-        { "src": "images/gallery/2020/tinhtam20203.jpg", "caption": "Chầu Thánh Thể", "alt": "Ca viên cầu nguyện trước Thánh giá" },
-        { "src": "images/gallery/2020/tinhtam20204.jpg", "caption": "Lắng nghe và chia sẻ", "alt": "Ca viên tham dự buổi chia sẻ tại Đan viện Thiên Hà" },
-        { "src": "images/gallery/2020/tinhtam20205.jpg", "caption": "Một buổi học hỏi chung", "alt": "Ca viên lắng nghe trong buổi tĩnh tâm" },
-        { "src": "images/gallery/2020/tinhtam20206.jpg", "caption": "Kỷ niệm tại Đan viện Thiên Hà", "alt": "Ca đoàn chụp ảnh cùng các linh mục tại Đan viện Thiên Hà" }
-      ]
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/001.jpg",
+          "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 1",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/002.jpg",
+          "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 2",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/003.jpg",
+          "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 3",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/004.jpg",
+          "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 4",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/005.jpg",
+          "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 5",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/006.jpg",
+          "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 6",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/007.jpg",
+          "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 7",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/008.jpg",
+          "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 8",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/009.jpg",
+          "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 9",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/010.jpg",
+          "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 10",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/011.jpg",
+          "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 11",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/012.jpg",
+          "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 12",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/013.jpg",
+          "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 13",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/014.jpg",
+          "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 14",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/015.jpg",
+          "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 15",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/016.jpg",
+          "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 16",
+          "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+        }
+      ],
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/001.jpg"
     },
     {
       "id": "2020-muon-doi-ta-on",
@@ -71,7 +191,8 @@
       "date": "06.2020",
       "title": "MV Muôn Đời Tạ Ơn",
       "description": "Món quà âm nhạc đánh dấu 5 năm hình thành và phát triển của Ca đoàn Giới trẻ Têrêsa.",
-      "body": "Được thực hiện tại Đan viện Thiên Hà, MV Muôn Đời Tạ Ơn là món quà đặc biệt mừng 5 năm thành lập. Những giai điệu, khuôn mặt và kỷ niệm trong MV trở thành lời tạ ơn của ca đoàn vì đã được Chúa quy tụ, gìn giữ và đồng hành."
+      "body": "Được thực hiện tại Đan viện Thiên Hà, MV Muôn Đời Tạ Ơn là món quà đặc biệt mừng 5 năm thành lập. Những giai điệu, khuôn mặt và kỷ niệm trong MV trở thành lời tạ ơn của ca đoàn vì đã được Chúa quy tụ, gìn giữ và đồng hành.",
+      "images": []
     },
     {
       "id": "2020-song-ca",
@@ -80,7 +201,30 @@
       "date": "09.2020",
       "title": "Những đôi song ca hướng về lễ Quan thầy",
       "description": "Các cặp đôi trong ca đoàn gửi những tiết mục song ca trên trang nội bộ, tạo thêm niềm vui và sự gắn kết.",
-      "body": "Trong bầu khí chuẩn bị lễ bổn mạng, các cặp đôi trong ca đoàn tham gia chương trình hát song ca. Các tiết mục lần lượt được đăng tải trên trang Ca đoàn Giới trẻ Teresa để mọi người cùng theo dõi, chia sẻ và bình luận."
+      "body": "Trong bầu khí chuẩn bị lễ bổn mạng, các cặp đôi trong ca đoàn tham gia chương trình hát song ca. Các tiết mục lần lượt được đăng tải trên trang Ca đoàn Giới trẻ Teresa để mọi người cùng theo dõi, chia sẻ và bình luận.",
+      "images": [
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/song-ca/001.jpg",
+          "caption": "Những đôi song ca hướng về lễ Quan thầy · ảnh 1",
+          "alt": "Ảnh tư liệu: Những đôi song ca hướng về lễ Quan thầy"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/song-ca/002.jpg",
+          "caption": "Những đôi song ca hướng về lễ Quan thầy · ảnh 2",
+          "alt": "Ảnh tư liệu: Những đôi song ca hướng về lễ Quan thầy"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/song-ca/003.jpg",
+          "caption": "Những đôi song ca hướng về lễ Quan thầy · ảnh 3",
+          "alt": "Ảnh tư liệu: Những đôi song ca hướng về lễ Quan thầy"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/song-ca/004.jpg",
+          "caption": "Những đôi song ca hướng về lễ Quan thầy · ảnh 4",
+          "alt": "Ảnh tư liệu: Những đôi song ca hướng về lễ Quan thầy"
+        }
+      ],
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/song-ca/001.jpg"
     },
     {
       "id": "2020-patron-feast",
@@ -90,11 +234,299 @@
       "title": "Mừng lễ Quan thầy — 5 năm một chặng đường",
       "description": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu, cùng tạ ơn hành trình 5 năm của các thế hệ ca viên.",
       "body": "Ngày 30/9/2020, ca đoàn long trọng mừng lễ bổn mạng Thánh Têrêsa Hài Đồng Giêsu. Vì hưởng ứng tinh thần phòng chống dịch, chương trình được tổ chức ấm cúng nhưng đầy ý nghĩa. Đây là dịp các thế hệ ca viên và cựu ca viên cùng nhìn lại chặng đường 5 năm, tạ ơn Chúa và tiếp tục trao phó hành trình phía trước qua lời chuyển cầu của Thánh Têrêsa.",
-      "coverImage": "images/gallery/2020/lequanthay20201.jpg",
       "images": [
-        { "src": "images/gallery/2020/lequanthay20201.jpg", "caption": "5 năm một chặng đường", "alt": "Áp phích mừng lễ Quan thầy lần thứ V của Ca đoàn Giới trẻ Giáo xứ Thái Hà" },
-        { "src": "images/gallery/2020/lequanthay20202.jpg", "caption": "Cùng dâng lời tạ ơn", "alt": "Ca đoàn và các linh mục chụp ảnh trong Thánh lễ Quan thầy năm 2020" }
-      ]
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/001.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 1",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/002.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 2",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/003.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 3",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/004.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 4",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/005.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 5",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/006.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 6",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/007.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 7",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/008.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 8",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/009.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 9",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/010.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 10",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/011.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 11",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/012.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 12",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/013.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 13",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/014.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 14",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/015.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 15",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/016.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 16",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/017.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 17",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/018.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 18",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/019.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 19",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/020.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 20",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/021.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 21",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/022.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 22",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/023.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 23",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/024.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 24",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/025.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 25",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/026.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 26",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/027.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 27",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/028.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 28",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/029.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 29",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/030.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 30",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/031.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 31",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/032.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 32",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/033.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 33",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/034.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 34",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/035.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 35",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/036.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 36",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/037.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 37",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/038.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 38",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/039.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 39",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/040.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 40",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/041.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 41",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/042.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 42",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/043.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 43",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/044.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 44",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/045.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 45",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/046.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 46",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/047.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 47",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/048.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 48",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/049.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 49",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/050.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 50",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/051.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 51",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/052.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 52",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/053.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 53",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/054.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 54",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/055.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 55",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/056.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 56",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/057.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 57",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/058.jpg",
+          "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 58",
+          "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường"
+        }
+      ],
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/001.jpg"
     },
     {
       "id": "2020-catechism-service",
@@ -103,7 +535,8 @@
       "date": "10.2020",
       "title": "Phục vụ và học hỏi giáo lý",
       "description": "Duy trì phục vụ phụng vụ, tham gia cuộc thi giáo lý khối Liên Ca đoàn và đời sống chung của giáo xứ.",
-      "body": "Trong tháng 10, ca đoàn tiếp tục phục vụ các Thánh lễ, ngày kính Đức Mẹ, Đại lễ Di dân và lễ kính Thánh nữ Cecilia. Ngày 20/10, các thành viên tham gia cuộc thi giáo lý của khối Liên Ca đoàn, cùng học hỏi đức tin và xây dựng tinh thần hiệp nhất."
+      "body": "Trong tháng 10, ca đoàn tiếp tục phục vụ các Thánh lễ, ngày kính Đức Mẹ, Đại lễ Di dân và lễ kính Thánh nữ Cecilia. Ngày 20/10, các thành viên tham gia cuộc thi giáo lý của khối Liên Ca đoàn, cùng học hỏi đức tin và xây dựng tinh thần hiệp nhất.",
+      "images": []
     },
     {
       "id": "2020-dem-dong",
@@ -112,7 +545,8 @@
       "date": "18.12.2020",
       "title": "Diễn nguyện Giáng Sinh — Đêm Đông",
       "description": "Ca đoàn Têrêsa kết hợp cùng Ca đoàn Latinh hợp xướng Đêm Đông trong chương trình diễn nguyện tại Nhà thờ Hàng Bột.",
-      "body": "Đêm 18/12/2020, Ca đoàn Giới trẻ Têrêsa kết hợp với Ca đoàn Latinh hợp xướng bài Đêm Đông trong chương trình diễn nguyện cùng các ca đoàn tại Hà Nội, tổ chức ở Nhà thờ Hàng Bột."
+      "body": "Đêm 18/12/2020, Ca đoàn Giới trẻ Têrêsa kết hợp với Ca đoàn Latinh hợp xướng bài Đêm Đông trong chương trình diễn nguyện cùng các ca đoàn tại Hà Nội, tổ chức ở Nhà thờ Hàng Bột.",
+      "images": []
     },
     {
       "id": "2020-ha-giang-charity",
@@ -122,28 +556,435 @@
       "title": "Giáng Sinh Yêu Thương — Hà Giang",
       "description": "Mang quà, sự sẻ chia và tiếng hát Giáng Sinh đến bản người Mông tại xã Thuận Hòa, huyện Vị Xuyên, tỉnh Hà Giang.",
       "body": "Ngay sau chương trình diễn nguyện, ca đoàn lên đường trong đêm đến xã Thuận Hòa, huyện Vị Xuyên, tỉnh Hà Giang để tổ chức chương trình Giáng Sinh Yêu Thương. Những món quà, phần sẻ chia và tiếng hát Giáng Sinh được gửi tới các em nhỏ cùng những gia đình có hoàn cảnh khó khăn ở vùng cao. Đây là hoạt động khép lại năm kỷ niệm 5 năm thành lập đầy ý nghĩa của ca đoàn.",
-      "coverImage": "images/gallery/2020/thienguyen202013.jpg",
       "images": [
-        { "src": "images/gallery/2020/thienguyen20201.jpg", "caption": "Khởi hành đến vùng cao", "alt": "Đoàn thiện nguyện chụp ảnh tại biển Quản Bạ" },
-        { "src": "images/gallery/2020/thienguyen20202.jpg", "caption": "Trao quà tại bản", "alt": "Người dân nhận quà thiện nguyện" },
-        { "src": "images/gallery/2020/thienguyen20203.jpg", "caption": "Ánh sáng Giáng Sinh", "alt": "Hang đá Giáng Sinh tại giáo xứ" },
-        { "src": "images/gallery/2020/thienguyen20204.jpg", "caption": "Những phần quà sẻ chia", "alt": "Quà thiện nguyện được chuẩn bị tại vùng cao" },
-        { "src": "images/gallery/2020/thienguyen20205.jpg", "caption": "Lửa trại Giáng Sinh", "alt": "Cộng đoàn quây quần bên lửa trại" },
-        { "src": "images/gallery/2020/thienguyen20206.jpg", "caption": "Đêm hội bên ánh lửa", "alt": "Lửa trại trong đêm Giáng Sinh" },
-        { "src": "images/gallery/2020/thienguyen20207.jpg", "caption": "Cộng đoàn cùng chung vui", "alt": "Mọi người quây quần bên lửa trại trước nhà thờ" },
-        { "src": "images/gallery/2020/thienguyen20208.jpg", "caption": "Tiết mục mừng Chúa Giáng Sinh", "alt": "Tiết mục văn nghệ mừng Giáng Sinh" },
-        { "src": "images/gallery/2020/thienguyen20209.jpg", "caption": "Một ánh nhìn cần được yêu thương", "alt": "Em nhỏ tại chương trình thiện nguyện" },
-        { "src": "images/gallery/2020/thienguyen202010.jpg", "caption": "Ghé thăm bản làng", "alt": "Ca viên thăm một gia đình vùng cao" },
-        { "src": "images/gallery/2020/thienguyen202011.jpg", "caption": "Bữa ăn chung", "alt": "Ca viên chuẩn bị bữa ăn ngoài trời" },
-        { "src": "images/gallery/2020/thienguyen202012.jpg", "caption": "Niềm vui bên bếp lửa", "alt": "Ca viên quây quần chuẩn bị đồ ăn" },
-        { "src": "images/gallery/2020/thienguyen202013.jpg", "caption": "Trao chăn ấm", "alt": "Đoàn thiện nguyện trao chăn cho người dân" },
-        { "src": "images/gallery/2020/thienguyen202014.jpg", "caption": "Cùng nhau chuẩn bị quà", "alt": "Đoàn thiện nguyện chuẩn bị quà giữa vùng núi" },
-        { "src": "images/gallery/2020/thienguyen202015.jpg", "caption": "Nụ cười của ngày gặp gỡ", "alt": "Ca viên và người dân chụp ảnh cùng nhau" },
-        { "src": "images/gallery/2020/thienguyen202016.jpg", "caption": "Sẻ chia từng món đồ", "alt": "Đoàn thiện nguyện phân phát quần áo" },
-        { "src": "images/gallery/2020/thienguyen202017.jpg", "caption": "Những phần quà đến bản", "alt": "Người dân vùng cao đứng cùng quà thiện nguyện" },
-        { "src": "images/gallery/2020/thienguyen202018.jpg", "caption": "Con đường đến với bản", "alt": "Con đường miền núi dẫn tới bản làng" },
-        { "src": "images/gallery/2020/thienguyen202019.jpg", "caption": "Hành trình sẻ chia", "alt": "Đoàn thiện nguyện đi trên đường vùng núi" }
-      ]
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/001.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 1",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/002.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 2",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/003.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 3",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/004.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 4",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/005.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 5",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/006.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 6",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/007.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 7",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/008.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 8",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/009.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 9",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/010.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 10",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/011.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 11",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/012.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 12",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/013.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 13",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/014.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 14",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/015.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 15",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/016.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 16",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/017.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 17",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/018.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 18",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/019.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 19",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/020.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 20",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/021.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 21",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/022.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 22",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/023.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 23",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/024.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 24",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/025.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 25",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/026.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 26",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/027.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 27",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/028.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 28",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/029.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 29",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/030.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 30",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/031.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 31",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/032.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 32",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/033.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 33",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/034.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 34",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/035.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 35",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/036.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 36",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/037.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 37",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/038.jpg",
+          "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 38",
+          "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang"
+        }
+      ],
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/001.jpg"
+    },
+    {
+      "id": "2020-wedding",
+      "type": "Hôn phối",
+      "topic": "Cộng đoàn",
+      "date": "2020",
+      "title": "Lễ cưới anh Phó Liêm – Dáng",
+      "description": "Kho ảnh lưu lại lễ cưới của anh Phó ca đoàn Liêm và Dáng.",
+      "body": "Tư liệu ảnh được lưu trong hồ sơ năm 2020 với tên “Lễ cưới anh phó Liêm - Dáng 2020”, ghi lại niềm vui của cộng đoàn trong ngày hôn phối.",
+      "images": [
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/001.jpg",
+          "caption": "Lễ cưới anh Phó Liêm – Dáng · ảnh 1",
+          "alt": "Ảnh tư liệu: Lễ cưới anh Phó Liêm – Dáng"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/002.jpg",
+          "caption": "Lễ cưới anh Phó Liêm – Dáng · ảnh 2",
+          "alt": "Ảnh tư liệu: Lễ cưới anh Phó Liêm – Dáng"
+        }
+      ],
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/001.jpg"
+    },
+    {
+      "id": "2020-year-end",
+      "type": "Gắn kết",
+      "topic": "Gắn kết",
+      "date": "2020",
+      "title": "Tất niên ca đoàn",
+      "description": "Kho ảnh những phút giây gặp gỡ, sinh hoạt cuối năm.",
+      "body": "Tư liệu ảnh được lưu trong hồ sơ năm 2020 với tên “Tất niên 2020”, ghi lại những phút giây gặp gỡ và gắn kết của ca đoàn.",
+      "images": [
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/001.jpg",
+          "caption": "Tất niên ca đoàn · ảnh 1",
+          "alt": "Ảnh tư liệu: Tất niên ca đoàn"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/002.jpg",
+          "caption": "Tất niên ca đoàn · ảnh 2",
+          "alt": "Ảnh tư liệu: Tất niên ca đoàn"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/003.jpg",
+          "caption": "Tất niên ca đoàn · ảnh 3",
+          "alt": "Ảnh tư liệu: Tất niên ca đoàn"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/004.jpg",
+          "caption": "Tất niên ca đoàn · ảnh 4",
+          "alt": "Ảnh tư liệu: Tất niên ca đoàn"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/005.jpg",
+          "caption": "Tất niên ca đoàn · ảnh 5",
+          "alt": "Ảnh tư liệu: Tất niên ca đoàn"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/006.jpg",
+          "caption": "Tất niên ca đoàn · ảnh 6",
+          "alt": "Ảnh tư liệu: Tất niên ca đoàn"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/007.jpg",
+          "caption": "Tất niên ca đoàn · ảnh 7",
+          "alt": "Ảnh tư liệu: Tất niên ca đoàn"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/008.jpg",
+          "caption": "Tất niên ca đoàn · ảnh 8",
+          "alt": "Ảnh tư liệu: Tất niên ca đoàn"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/009.jpg",
+          "caption": "Tất niên ca đoàn · ảnh 9",
+          "alt": "Ảnh tư liệu: Tất niên ca đoàn"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/010.jpg",
+          "caption": "Tất niên ca đoàn · ảnh 10",
+          "alt": "Ảnh tư liệu: Tất niên ca đoàn"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/011.jpg",
+          "caption": "Tất niên ca đoàn · ảnh 11",
+          "alt": "Ảnh tư liệu: Tất niên ca đoàn"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/012.jpg",
+          "caption": "Tất niên ca đoàn · ảnh 12",
+          "alt": "Ảnh tư liệu: Tất niên ca đoàn"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/013.jpg",
+          "caption": "Tất niên ca đoàn · ảnh 13",
+          "alt": "Ảnh tư liệu: Tất niên ca đoàn"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/014.jpg",
+          "caption": "Tất niên ca đoàn · ảnh 14",
+          "alt": "Ảnh tư liệu: Tất niên ca đoàn"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/015.jpg",
+          "caption": "Tất niên ca đoàn · ảnh 15",
+          "alt": "Ảnh tư liệu: Tất niên ca đoàn"
+        }
+      ],
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/001.jpg"
+    },
+    {
+      "id": "2020-migrant",
+      "type": "Đại lễ",
+      "topic": "Phụng vụ",
+      "date": "10.2020",
+      "title": "Phục vụ Đại lễ Di dân 2020",
+      "description": "Kho ảnh hoạt động phục vụ trong Đại lễ Di dân năm 2020.",
+      "body": "Tư liệu ảnh được lưu trong hồ sơ năm 2020 với tên “Đại Lễ Di Dân 2020”, ghi lại hoạt động phục vụ phụng vụ và hiệp thông của ca đoàn trong dịp đại lễ.",
+      "images": [
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/001.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 1",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/002.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 2",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/003.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 3",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/004.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 4",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/005.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 5",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/006.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 6",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/007.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 7",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/008.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 8",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/009.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 9",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/010.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 10",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/011.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 11",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/012.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 12",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/013.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 13",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/014.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 14",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/015.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 15",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/016.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 16",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/017.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 17",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/018.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 18",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/019.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 19",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/020.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 20",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/021.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 21",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/022.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 22",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/023.jpg",
+          "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 23",
+          "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020"
+        }
+      ],
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/001.jpg"
     }
   ],
   "achievements": [
@@ -157,15 +998,954 @@
     "Các hoạt động kỷ niệm 5 năm phải tổ chức gọn nhẹ để bảo đảm an toàn."
   ],
   "gallery": [
-    { "src": "images/gallery/2020/lequanthay20202.jpg", "alt": "Ca đoàn mừng lễ Quan thầy năm 2020", "event": "Lễ Quan thầy", "caption": "5 năm một hành trình" },
-    { "src": "images/gallery/2020/tinhtam20206.jpg", "alt": "Ca đoàn tại Đan viện Thiên Hà", "event": "Tĩnh tâm", "caption": "Lắng đọng tại Thiên Hà" },
-    { "src": "images/gallery/2020/thienguyen202013.jpg", "alt": "Chương trình thiện nguyện Hà Giang", "event": "Thiện nguyện", "caption": "Giáng Sinh Yêu Thương" },
-    { "src": "images/gallery/2020/thienguyen20208.jpg", "alt": "Văn nghệ mừng Giáng Sinh", "event": "Thiện nguyện", "caption": "Niềm vui nơi vùng cao" },
-    { "src": "images/gallery/2020/tinhtam20201.jpg", "alt": "Giờ cầu nguyện bằng nến", "event": "Tĩnh tâm", "caption": "Một giờ ở lại" }
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/001.jpg",
+      "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 1",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/002.jpg",
+      "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 2",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/003.jpg",
+      "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 3",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/004.jpg",
+      "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 4",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/005.jpg",
+      "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 5",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/006.jpg",
+      "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 6",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/007.jpg",
+      "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 7",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/008.jpg",
+      "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 8",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/009.jpg",
+      "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 9",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/010.jpg",
+      "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 10",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/011.jpg",
+      "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 11",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/012.jpg",
+      "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 12",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/013.jpg",
+      "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 13",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/014.jpg",
+      "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 14",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/015.jpg",
+      "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 15",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/016.jpg",
+      "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà · ảnh 16",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/song-ca/001.jpg",
+      "caption": "Những đôi song ca hướng về lễ Quan thầy · ảnh 1",
+      "alt": "Ảnh tư liệu: Những đôi song ca hướng về lễ Quan thầy",
+      "event": "Những đôi song ca hướng về lễ Quan thầy"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/song-ca/002.jpg",
+      "caption": "Những đôi song ca hướng về lễ Quan thầy · ảnh 2",
+      "alt": "Ảnh tư liệu: Những đôi song ca hướng về lễ Quan thầy",
+      "event": "Những đôi song ca hướng về lễ Quan thầy"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/song-ca/003.jpg",
+      "caption": "Những đôi song ca hướng về lễ Quan thầy · ảnh 3",
+      "alt": "Ảnh tư liệu: Những đôi song ca hướng về lễ Quan thầy",
+      "event": "Những đôi song ca hướng về lễ Quan thầy"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/song-ca/004.jpg",
+      "caption": "Những đôi song ca hướng về lễ Quan thầy · ảnh 4",
+      "alt": "Ảnh tư liệu: Những đôi song ca hướng về lễ Quan thầy",
+      "event": "Những đôi song ca hướng về lễ Quan thầy"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/001.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 1",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/002.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 2",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/003.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 3",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/004.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 4",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/005.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 5",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/006.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 6",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/007.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 7",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/008.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 8",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/009.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 9",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/010.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 10",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/011.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 11",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/012.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 12",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/013.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 13",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/014.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 14",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/015.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 15",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/016.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 16",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/017.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 17",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/018.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 18",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/019.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 19",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/020.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 20",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/021.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 21",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/022.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 22",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/023.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 23",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/024.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 24",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/025.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 25",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/026.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 26",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/027.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 27",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/028.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 28",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/029.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 29",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/030.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 30",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/031.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 31",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/032.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 32",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/033.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 33",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/034.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 34",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/035.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 35",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/036.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 36",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/037.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 37",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/038.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 38",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/039.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 39",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/040.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 40",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/041.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 41",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/042.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 42",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/043.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 43",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/044.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 44",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/045.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 45",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/046.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 46",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/047.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 47",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/048.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 48",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/049.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 49",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/050.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 50",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/051.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 51",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/052.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 52",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/053.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 53",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/054.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 54",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/055.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 55",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/056.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 56",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/057.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 57",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/058.jpg",
+      "caption": "Mừng lễ Quan thầy — 5 năm một chặng đường · ảnh 58",
+      "alt": "Ảnh tư liệu: Mừng lễ Quan thầy — 5 năm một chặng đường",
+      "event": "Mừng lễ Quan thầy — 5 năm một chặng đường"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/001.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 1",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/002.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 2",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/003.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 3",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/004.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 4",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/005.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 5",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/006.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 6",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/007.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 7",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/008.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 8",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/009.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 9",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/010.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 10",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/011.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 11",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/012.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 12",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/013.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 13",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/014.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 14",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/015.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 15",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/016.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 16",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/017.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 17",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/018.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 18",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/019.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 19",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/020.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 20",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/021.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 21",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/022.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 22",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/023.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 23",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/024.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 24",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/025.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 25",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/026.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 26",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/027.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 27",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/028.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 28",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/029.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 29",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/030.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 30",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/031.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 31",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/032.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 32",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/033.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 33",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/034.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 34",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/035.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 35",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/036.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 36",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/037.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 37",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/038.jpg",
+      "caption": "Giáng Sinh Yêu Thương — Hà Giang · ảnh 38",
+      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/001.jpg",
+      "caption": "Lễ cưới anh Phó Liêm – Dáng · ảnh 1",
+      "alt": "Ảnh tư liệu: Lễ cưới anh Phó Liêm – Dáng",
+      "event": "Lễ cưới anh Phó Liêm – Dáng"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/002.jpg",
+      "caption": "Lễ cưới anh Phó Liêm – Dáng · ảnh 2",
+      "alt": "Ảnh tư liệu: Lễ cưới anh Phó Liêm – Dáng",
+      "event": "Lễ cưới anh Phó Liêm – Dáng"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/001.jpg",
+      "caption": "Tất niên ca đoàn · ảnh 1",
+      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "event": "Tất niên ca đoàn"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/002.jpg",
+      "caption": "Tất niên ca đoàn · ảnh 2",
+      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "event": "Tất niên ca đoàn"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/003.jpg",
+      "caption": "Tất niên ca đoàn · ảnh 3",
+      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "event": "Tất niên ca đoàn"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/004.jpg",
+      "caption": "Tất niên ca đoàn · ảnh 4",
+      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "event": "Tất niên ca đoàn"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/005.jpg",
+      "caption": "Tất niên ca đoàn · ảnh 5",
+      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "event": "Tất niên ca đoàn"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/006.jpg",
+      "caption": "Tất niên ca đoàn · ảnh 6",
+      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "event": "Tất niên ca đoàn"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/007.jpg",
+      "caption": "Tất niên ca đoàn · ảnh 7",
+      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "event": "Tất niên ca đoàn"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/008.jpg",
+      "caption": "Tất niên ca đoàn · ảnh 8",
+      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "event": "Tất niên ca đoàn"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/009.jpg",
+      "caption": "Tất niên ca đoàn · ảnh 9",
+      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "event": "Tất niên ca đoàn"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/010.jpg",
+      "caption": "Tất niên ca đoàn · ảnh 10",
+      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "event": "Tất niên ca đoàn"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/011.jpg",
+      "caption": "Tất niên ca đoàn · ảnh 11",
+      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "event": "Tất niên ca đoàn"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/012.jpg",
+      "caption": "Tất niên ca đoàn · ảnh 12",
+      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "event": "Tất niên ca đoàn"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/013.jpg",
+      "caption": "Tất niên ca đoàn · ảnh 13",
+      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "event": "Tất niên ca đoàn"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/014.jpg",
+      "caption": "Tất niên ca đoàn · ảnh 14",
+      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "event": "Tất niên ca đoàn"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/015.jpg",
+      "caption": "Tất niên ca đoàn · ảnh 15",
+      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "event": "Tất niên ca đoàn"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/001.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 1",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/002.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 2",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/003.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 3",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/004.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 4",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/005.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 5",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/006.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 6",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/007.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 7",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/008.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 8",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/009.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 9",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/010.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 10",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/011.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 11",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/012.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 12",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/013.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 13",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/014.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 14",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/015.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 15",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/016.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 16",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/017.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 17",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/018.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 18",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/019.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 19",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/020.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 20",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/021.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 21",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/022.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 22",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/023.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2020 · ảnh 23",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "event": "Phục vụ Đại lễ Di dân 2020"
+    }
   ],
   "sharing": [
-    { "name": "Giuse Phạm Văn Tĩnh", "role": "Trưởng ca đoàn 2020", "quote": "Năm 2020, lễ mừng kính Thánh Têrêsa Quan thầy là dịp để ca đoàn dâng lời tạ ơn Thiên Chúa, cầu nguyện cho ân nhân, thân nhân và tiếp thêm nhiệt huyết phục vụ cho các ca viên." },
-    { "name": "Maria Nguyễn Thị Uyên", "role": "Phó ca đoàn 2020", "quote": "Để hưởng ứng tinh thần chống dịch COVID-19, Ban Điều hành đã chọn tổ chức các hoạt động kỷ niệm nhỏ hơn nhưng đầy ý nghĩa và ấm cúng." }
+    {
+      "name": "Giuse Phạm Văn Tĩnh",
+      "role": "Trưởng ca đoàn 2020",
+      "quote": "Năm 2020, lễ mừng kính Thánh Têrêsa Quan thầy là dịp để ca đoàn dâng lời tạ ơn Thiên Chúa, cầu nguyện cho ân nhân, thân nhân và tiếp thêm nhiệt huyết phục vụ cho các ca viên."
+    },
+    {
+      "name": "Maria Nguyễn Thị Uyên",
+      "role": "Phó ca đoàn 2020",
+      "quote": "Để hưởng ứng tinh thần chống dịch COVID-19, Ban Điều hành đã chọn tổ chức các hoạt động kỷ niệm nhỏ hơn nhưng đầy ý nghĩa và ấm cúng."
+    }
   ],
   "emotionJournal": [],
   "yearMark": {

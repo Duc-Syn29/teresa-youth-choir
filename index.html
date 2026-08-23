@@ -18,12 +18,13 @@
       href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="css/style.css?v=archive-2026-24" />
+    <link rel="preload" as="image" href="images/hero.jpg" fetchpriority="high" />
+    <link rel="stylesheet" href="css/style.css?v=archive-2026-29" />
     <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js" defer></script>
     <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-auth-compat.js" defer></script>
     <script src="js/firebase-config.js?v=archive-2026-21" defer></script>
-    <script src="js/store.js?v=archive-2026-22" defer></script>
-    <script src="js/main.js?v=archive-2026-22" defer></script>
+    <script src="js/store.js?v=archive-2026-29" defer></script>
+    <script src="js/main.js?v=archive-2026-29" defer></script>
   </head>
 
   <body>
@@ -31,7 +32,7 @@
 
     <header class="site-header" id="site-header">
       <a class="brand" href="#home" aria-label="Teresa Youth Choir — Trang chủ">
-        <span class="brand-logo"><img src="images/logo.jpg" alt="Logo Ca đoàn Giới trẻ Teresa" /></span>
+        <span class="brand-logo"><img src="images/logo.jpg" alt="Logo Ca đoàn Giới trẻ Teresa" decoding="async" fetchpriority="high" /></span>
         <span>
           <strong>TERESA</strong>
           <small>YOUTH CHOIR</small>
@@ -103,7 +104,7 @@
         <div class="container about-grid">
           <div class="about-visual reveal reveal-left">
             <div class="image-frame">
-              <img src="images/gallery/phung-vu-2025.jpg" alt="Ca đoàn Giới trẻ Têrêsa trong trang phục trắng xanh tại thánh đường" />
+              <img src="images/gallery/phung-vu-2025.jpg" alt="Ca đoàn Giới trẻ Têrêsa trong trang phục trắng xanh tại thánh đường" loading="lazy" decoding="async" />
             </div>
             <div class="about-year" aria-hidden="true">
               <span>Từ</span>
@@ -266,27 +267,27 @@
 
           <div class="gallery-grid">
             <button class="gallery-item tall reveal" data-category="phung-vu" data-full="images/gallery/phung-vu-2025.jpg" data-caption="Một gia đình trong lời ca">
-              <img src="images/gallery/phung-vu-2025.jpg" alt="Ca đoàn Têrêsa trong trang phục trắng xanh tại thánh đường" />
+              <img src="images/gallery/phung-vu-2025.jpg" alt="Ca đoàn Têrêsa trong trang phục trắng xanh tại thánh đường" loading="lazy" decoding="async" />
               <span><small>Phụng vụ</small><strong>Một gia đình trong lời ca</strong></span>
             </button>
             <button class="gallery-item reveal" data-category="gan-ket" data-full="images/gallery/gan-ket-2024.jpg" data-caption="Cùng nhau viết tiếp">
-              <img src="images/gallery/gan-ket-2024.jpg" alt="Đại gia đình ca đoàn cùng các ca đoàn bạn và ban nhạc" />
+              <img src="images/gallery/gan-ket-2024.jpg" alt="Đại gia đình ca đoàn cùng các ca đoàn bạn và ban nhạc" loading="lazy" decoding="async" />
               <span><small>Hội ngộ</small><strong>Cùng nhau viết tiếp</strong></span>
             </button>
             <button class="gallery-item reveal" data-category="thien-nguyen" data-full="images/gallery/thien-nguyen-2019.jpg" data-caption="Dấu chân tuổi trẻ">
-              <img src="images/gallery/thien-nguyen-2019.jpg" alt="Ca đoàn trong chuyến hành trình tại Tu viện Dòng Chúa Cứu Thế Hà Nội" />
+              <img src="images/gallery/thien-nguyen-2019.jpg" alt="Ca đoàn trong chuyến hành trình tại Tu viện Dòng Chúa Cứu Thế Hà Nội" loading="lazy" decoding="async" />
               <span><small>Hành trình</small><strong>Dấu chân tuổi trẻ</strong></span>
             </button>
             <button class="gallery-item wide reveal" data-category="phung-vu" data-full="images/gallery/quan-thay-2017.jpg" data-caption="Tuyệt vời khi có nhau">
-              <img src="images/gallery/quan-thay-2017.jpg" alt="Khoảnh khắc hội ngộ của ca đoàn, ca đoàn bạn và ban nhạc" />
+              <img src="images/gallery/quan-thay-2017.jpg" alt="Khoảnh khắc hội ngộ của ca đoàn, ca đoàn bạn và ban nhạc" loading="lazy" decoding="async" />
               <span><small>Hội ngộ thánh nhạc</small><strong>Tuyệt vời khi có nhau</strong></span>
             </button>
             <button class="gallery-item reveal" data-category="gan-ket" data-full="images/gallery/team-building-2023.jpg" data-caption="Một chuyến đi, một gia đình">
-              <img src="images/gallery/team-building-2023.jpg" alt="Các ca viên cùng lưu lại kỷ niệm trong chuyến đi" />
+              <img src="images/gallery/team-building-2023.jpg" alt="Các ca viên cùng lưu lại kỷ niệm trong chuyến đi" loading="lazy" decoding="async" />
               <span><small>Gắn kết</small><strong>Một chuyến đi, một gia đình</strong></span>
             </button>
             <button class="gallery-item reveal" data-category="phung-vu" data-full="images/gallery/giang-sinh-2022.jpg" data-caption="Màu áo Têrêsa">
-              <img src="images/gallery/giang-sinh-2022.jpg" alt="Tập thể ca đoàn trong màu áo trắng xanh" />
+              <img src="images/gallery/giang-sinh-2022.jpg" alt="Tập thể ca đoàn trong màu áo trắng xanh" loading="lazy" decoding="async" />
               <span><small>Dấu ấn</small><strong>Màu áo Têrêsa</strong></span>
             </button>
           </div>

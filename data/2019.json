@@ -1,44 +1,708 @@
 {
   "year": 2019,
-  "theme": { "accent": "#f27f6b" },
+  "theme": {
+    "accent": "#f27f6b"
+  },
   "overview": {
-    "eyebrow": "Kiên vững niềm tin, kiên trung phụng vụ", "title": "Kiên vững niềm tin, kiên trung phụng vụ",
+    "eyebrow": "Kiên vững niềm tin, kiên trung phụng vụ",
+    "title": "Kiên vững niềm tin, kiên trung phụng vụ",
     "summary": "Năm của những bước chân nhiệt huyết: tĩnh tâm Tam Đảo, phục vụ Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế tại Huế và Giáng Sinh Trao Yêu Thương tại Hà Giang.",
     "verse": "Cho thì có phúc hơn là nhận.",
     "longDescription": "Năm 2019 là năm của những bước chân nhiệt huyết khi chúng con có nhiều cơ hội được đi xa hơn và ca đoàn cũng có những thay đổi nhân sự khi 2 chị hỗ trợ chuyên môn ca trưởng của ca đoàn quyết định dấn thân đi theo tiếng gọi tu trì. Ngay sau đó, anh Phê-rô Nguyễn Huy Hùng đã được mời gọi hỗ trợ chuyên môn cho ca đoàn. Bên cạnh những sinh hoạt thường niên như tập hát, phục vụ Thánh Lễ, chầu Thánh Thể,.. ca đoàn chúng con còn tổ chức cho anh chị em ca viên đi tĩnh tâm tại Tam Đảo giúp mỗi ca viên tìm lại sự bình an, thêm lòng yêu mến Chúa và nhiệt huyết phục vụ. Tiếp đến, môt vinh dự lớn lao cho ca đoàn khi được quý cha nhà dòng tin tưởng giao trách nhiệm phục vụ Thánh lễ khai mạc Đại Hội Giới Trẻ Thừa Sai Chúa Cứu Thế toàn Quốc lần thứ 1 tại Huế. Đây là chuyến đi xa nhất của ca đoàn chúng con và là một chuyến đi đầy ý nghĩa giúp anh chị em ca viên được gặp gỡ và sống đức tin cùng gần 1000 bạn trẻ trên khắp mọi miền đất nước. Và cuối cùng không thể thiếu chuyến đi thiện nguyện ‘Giáng sinh trao yêu thương’ tại miền núi Hà Giang để tiếp tục lan tỏa tinh thần bác ái, đem niềm vui đến với những hoàn cảnh khó khăn.",
-    "coverImage": "images/hero.jpg"
+    "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/001.jpg"
   },
   "leadership": {
-    "leader": { "name": "Giuse Phạm Văn Tĩnh" },
-    "deputyLeader": { "name": "Phêrô Bùi Ngọc Liêm · Giuse Nguyễn Xuân Hoàn" },
-    "conductor": { "name": "Phê-rô Nguyễn Huy Hùng" },
-    "treasurer": { "name": "Maria Đặng Thị Thuý" },
+    "leader": {
+      "name": "Giuse Phạm Văn Tĩnh"
+    },
+    "deputyLeader": {
+      "name": "Phêrô Bùi Ngọc Liêm · Giuse Nguyễn Xuân Hoàn"
+    },
+    "conductor": {
+      "name": "Phê-rô Nguyễn Huy Hùng"
+    },
+    "treasurer": {
+      "name": "Maria Đặng Thị Thuý"
+    },
     "teams": [
-      { "name": "Ban Truyền thông", "members": [{ "name": "Tôma Vũ Duy Tâm" }, { "name": "Giuse Nguyễn Văn Thượng" }] },
-      { "name": "Ban Liên Kết", "members": [{ "name": "Maria Đỗ Thị Thanh Hoa" }] },
-      { "name": "Ban Tâm Linh", "members": [{ "name": "Maria Nguyễn Thị Uyên" }, { "name": "Maria Nguyễn Thị Oanh" }] },
-      { "name": "Ban Sinh Hoạt", "members": [{ "name": "Antôn Nguyễn Thành Dương" }] },
-      { "name": "Ban Thể Thao", "members": [{ "name": "Giu-se Nguyễn Văn Phát (Tương Ớt)" }] }
-    ],
-    "serviceTeams": ["Ban Truyền thông", "Ban Liên Kết", "Ban Tâm Linh", "Ban Sinh Hoạt", "Ban Thể Thao"]
+      {
+        "name": "Ban Truyền thông",
+        "members": [
+          {
+            "name": "Toma Vũ Duy Tâm"
+          },
+          {
+            "name": "Giuse Nguyễn Văn Thượng"
+          }
+        ]
+      },
+      {
+        "name": "Ban Liên Kết",
+        "members": [
+          {
+            "name": "Maria Đỗ Thị Thanh Hoa"
+          }
+        ]
+      },
+      {
+        "name": "Ban Tâm Linh",
+        "members": [
+          {
+            "name": "Maria Nguyễn Thị Uyên"
+          },
+          {
+            "name": "Maria Nguyễn Thị Oanh"
+          }
+        ]
+      },
+      {
+        "name": "Ban Sinh Hoạt",
+        "members": [
+          {
+            "name": "Antôn Nguyễn Thành Dương"
+          }
+        ]
+      },
+      {
+        "name": "Ban Thể Thao",
+        "members": [
+          {
+            "name": "Giu-se Nguyễn Văn Phát (Tương Ớt)"
+          }
+        ]
+      }
+    ]
   },
-  "members": { "total": 55, "new": 15, "inactive": 10, "notes": "Số liệu thành viên được ghi trong Nhật ký Ca đoàn Giới trẻ Têrêsa năm 2019." },
+  "members": {
+    "total": 55,
+    "new": 15,
+    "inactive": 10,
+    "notes": "Số liệu thành viên được ghi trong Nhật ký Ca đoàn Giới trẻ Têrêsa năm 2019."
+  },
   "activities": [
-    { "id": "2019-tinh-tam", "type": "Tĩnh tâm", "date": "06 – 07/07/2019", "title": "Tĩnh tâm 2019", "description": "Chủ đề “Tín thác và Cầu nguyện” tại Tam Đảo – Vĩnh Phúc.", "body": "Chủ đề: “TÍN THÁC VÀ CẦU NGUYỆN”\nTam Đảo – Vĩnh Phúc\n\nHành trình phục vụ của ca đoàn năm 2019 được ghi dấu bắt đầu bằng chuyến tĩnh tâm của Ca đoàn Giới trẻ Teresa tại Tam Đảo. Rời xa những bộn bề thường ngày, các ca viên có những khoảng thời gian lắng đọng để nhìn lại chính mình, nhìn lại hành trình phục vụ và nhất là trở về với Chúa trong cầu nguyện.\n\nVới chủ đề “Tín thác và Cầu nguyện”, chuyến tĩnh tâm không đơn thuần là một chuyến đi, mà là dịp để mỗi người học cách phó thác nhiều hơn, yêu mến Chúa hơn và thêm gắn kết với những người anh chị em đang cùng mình phục vụ. Hai ngày tại Tam Đảo trở thành một khoảng lặng quý giá, để từ đó mỗi người lại trở về với một tâm thế mới, sẵn sàng bước tiếp trên hành trình phục vụ." },
-    { "id": "2019-dai-hoi-gioi-tre", "type": "Đại lễ", "date": "28 – 29/09/2019", "title": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất", "description": "DCCT Huế – ca đoàn phục vụ Thánh lễ khai mạc đại hội.", "body": "Tại DCCT Huế.\n\nTháng 9, những người trẻ Chúa Cứu Thế từ ba miền Bắc – Trung – Nam cùng quy tụ tại Huế trong Đại hội Giới trẻ Thừa sai Chúa Cứu Thế 3 miền lần thứ nhất. Đây là một dấu mốc đặc biệt khi các ca viên được gặp gỡ, giao lưu và sống trong bầu khí hiệp thông của đại gia đình giới trẻ Chúa Cứu Thế. Và thật vinh dự cho ca đoàn khi được quý cha nhà dòng tin tưởng trao phó trọng trách phục vụ thánh lễ khai mạc đại hội. Giữa hàng ngàn người trẻ cùng chung một niềm tin và một nhiệt huyết, ca đoàn thêm ý thức rằng tiếng hát của mình không chỉ phục vụ một cộng đoàn nhỏ bé, nhưng còn là một phần trong sứ mạng chung: đem Tin Mừng đến với người trẻ và làm cho Thiên Chúa được yêu mến giữa muôn người." },
-    { "id": "2019-le-quan-thay", "type": "Lễ Quan thầy", "date": "08/10/2019", "title": "Lễ Quan Thầy Ca đoàn", "description": "Mừng Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 4 năm thành lập Ca đoàn.", "body": "🎉 Kỷ niệm 4 năm thành lập Ca đoàn\n\nNgày 08/10/2019, ca đoàn hân hoan mừng Lễ Quan Thầy Thánh Têrêsa Hài Đồng Giêsu, đồng thời kỷ niệm 4 năm ngày thành lập.\n\nBốn năm – một chặng đường chưa quá dài nhưng đủ để lưu lại biết bao kỷ niệm. Có những người đến rồi đi, có những thế hệ nối tiếp nhau, nhưng tình yêu dành cho tiếng hát và sứ mạng phục vụ vẫn được trao truyền. Ngày lễ quan thầy là dịp để mỗi ca viên cùng nhìn lại những gì Chúa đã thực hiện nơi ca đoàn và dâng lời tạ ơn vì biết bao hồng ân đã nhận được trong suốt hành trình. Dưới sự bảo trợ của Thánh Têrêsa Hài Đồng Giêsu, ca đoàn tiếp tục được mời gọi sống con đường nhỏ – làm những việc nhỏ bé với một tình yêu lớn lao." },
-    { "id": "2019-dam-cuoi-quang-minh-do-lieu", "type": "Thánh lễ", "date": "20/10/2019", "title": "Đám cưới Quang Minh – Đỗ Liệu", "description": "Ca đoàn phục vụ Thánh lễ Hôn phối của anh Quang Minh và chị Đỗ Liệu.", "body": "Ngày 20/10, tiếng hát của ca đoàn lại vang lên trong một niềm vui rất riêng: Thánh lễ Hôn phối của anh Quang Minh và chị Đỗ Liệu. Đối với một ca đoàn, được hiện diện trong những dấu mốc quan trọng của các thành viên không chỉ là một nhiệm vụ phục vụ, mà còn là niềm vui khi được cùng nhau chứng kiến và cầu nguyện cho những bước ngoặt trong cuộc đời. Tiếng hát hôm ấy là lời cầu chúc, là lời tạ ơn và cũng là lời nguyện xin cho một gia đình mới luôn được xây dựng trên tình yêu và sự hiện diện của Thiên Chúa." },
-    { "id": "2019-hoi-thao-cecilia", "type": "Hội thao", "date": "17/11/2019", "title": "Hội thao chào mừng lễ Thánh Cecilia", "description": "Ngày hội tình huynh đệ của các ca đoàn trong Giáo xứ Thái Hà.", "body": "Không chỉ cùng nhau phục vụ bằng lời ca tiếng hát, các ca viên còn có dịp gắn kết trong những hoạt động thể thao. Hội thao chào mừng lễ Thánh Cecilia – bổn mạng các ca đoàn – là một ngày hội của tình huynh đệ, nơi các ca đoàn trong Giáo xứ Thái Hà tạm gác những buổi tập hát để cùng nhau vui chơi, thi đấu và sẻ chia những khoảnh khắc đáng nhớ. Thắng – thua rồi cũng qua, nhưng những tiếng cười, những cái bắt tay và tinh thần đồng đội vẫn còn ở lại." },
-    { "id": "2019-dai-le-di-dan", "type": "Đại lễ", "date": "25 – 27/11/2019", "title": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019", "description": "Ca đoàn kết hợp cùng 3 ca đoàn phục vụ Đại lễ Di dân tại Giáo xứ Thái Hà.", "body": "Một trong những dấu ấn nổi bật của năm 2019 là việc Ca đoàn Giới trẻ Têrêsa kết hợp cùng 3 ca đoàn: Latin và Maria Trinh Vương hiệp nhất trong việc phục vụ Đại lễ Di dân 2019. Những giọng hát đến từ nhiều ca đoàn đã cùng hòa chung thành một tiếng hát. Đó cũng là hình ảnh đẹp của tinh thần hiệp nhất: không phải để tiếng hát của riêng mình được nổi bật, mà để cùng nhau tạo nên một lời ca lớn hơn, đẹp hơn cho Chúa và cho cộng đoàn.\n\nĐặc biệt, ca đoàn cùng tham gia hợp xướng “Tiếng Nhạc Oai Hùng” kết hợp với ban kèn, ban trống của GĐCGXQ Hà Nội để khai mạc Đại lễ Di dân tại Giáo xứ Thái Hà.\n\n🎥 Video Full HD: DvtJckLw_N8" },
-    { "id": "2019-giang-sinh-trao-yeu-thuong", "type": "Thiện nguyện", "date": "14 – 15/12/2019", "title": "Giáng Sinh Trao Yêu Thương 2019", "description": "Bản Lùng Chang, xã Linh Hồ, huyện Vị Xuyên, Hà Giang.", "body": "Chủ đề: “GIÁNG SINH TRAO YÊU THƯƠNG”\nBản Lùng Chang – xã Linh Hồ – huyện Vị Xuyên – Hà Giang\n\nKhép lại một năm với thật nhiều hoạt động, ca đoàn lên đường đến Bản Lùng Chang, xã Linh Hồ, huyện Vị Xuyên, Hà Giang trong chương trình thiện nguyện “Giáng Sinh Trao Yêu Thương”. Rời xa Hà Nội, những người trẻ mang theo không chỉ những món quà, những phần hỗ trợ, mà còn mang theo tiếng hát và niềm vui Giáng Sinh đến với bà con nơi vùng cao. Hai ngày nơi Lùng Chang là hành trình của những cuộc gặp gỡ. Có những nụ cười, những ánh mắt, những câu chuyện và những khoảnh khắc giản dị nhưng khiến mỗi người nhận ra rằng: đôi khi điều quý giá nhất không nằm ở món quà lớn hay nhỏ, mà nằm ở tấm lòng của người trao và tình yêu dành cho người nhận.\n\nGiáng Sinh năm ấy vì thế không chỉ là ngày kỷ niệm Chúa đến với nhân loại, mà còn là dịp để mỗi ca viên học cách đem Chúa đến gần hơn với những người mình gặp bằng chính sự hiện diện và tình yêu thương của mình. “Giáng Sinh Trao Yêu Thương” – một hành trình khép lại năm 2019, nhưng đồng thời cũng mở ra một điều rất đẹp trong sứ mạng của ca đoàn: không chỉ hát về tình yêu của Chúa, mà còn sống và trao tình yêu ấy cho mọi người." }
+    {
+      "id": "2019-tinh-tam",
+      "type": "Tĩnh tâm",
+      "date": "06 – 07/07/2019",
+      "title": "Tĩnh tâm 2019",
+      "description": "Chủ đề “Tín thác và Cầu nguyện” tại Tam Đảo – Vĩnh Phúc.",
+      "body": "Chủ đề: “TÍN THÁC VÀ CẦU NGUYỆN”\nTam Đảo – Vĩnh Phúc\n\nHành trình phục vụ của ca đoàn năm 2019 được ghi dấu bắt đầu bằng chuyến tĩnh tâm của Ca đoàn Giới trẻ Teresa tại Tam Đảo. Rời xa những bộn bề thường ngày, các ca viên có những khoảng thời gian lắng đọng để nhìn lại chính mình, nhìn lại hành trình phục vụ và nhất là trở về với Chúa trong cầu nguyện.\n\nVới chủ đề “Tín thác và Cầu nguyện”, chuyến tĩnh tâm không đơn thuần là một chuyến đi, mà là dịp để mỗi người học cách phó thác nhiều hơn, yêu mến Chúa hơn và thêm gắn kết với những người anh chị em đang cùng mình phục vụ. Hai ngày tại Tam Đảo trở thành một khoảng lặng quý giá, để từ đó mỗi người lại trở về với một tâm thế mới, sẵn sàng bước tiếp trên hành trình phục vụ.",
+      "images": [
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/001.jpg",
+          "caption": "Tĩnh tâm 2019 · ảnh 1",
+          "alt": "Ảnh tư liệu: Tĩnh tâm 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/002.jpg",
+          "caption": "Tĩnh tâm 2019 · ảnh 2",
+          "alt": "Ảnh tư liệu: Tĩnh tâm 2019"
+        }
+      ],
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/001.jpg"
+    },
+    {
+      "id": "2019-dai-hoi-gioi-tre",
+      "type": "Đại lễ",
+      "date": "28 – 29/09/2019",
+      "title": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
+      "description": "DCCT Huế – ca đoàn phục vụ Thánh lễ khai mạc đại hội.",
+      "body": "Tại DCCT Huế.\n\nTháng 9, những người trẻ Chúa Cứu Thế từ ba miền Bắc – Trung – Nam cùng quy tụ tại Huế trong Đại hội Giới trẻ Thừa sai Chúa Cứu Thế 3 miền lần thứ nhất. Đây là một dấu mốc đặc biệt khi các ca viên được gặp gỡ, giao lưu và sống trong bầu khí hiệp thông của đại gia đình giới trẻ Chúa Cứu Thế. Và thật vinh dự cho ca đoàn khi được quý cha nhà dòng tin tưởng trao phó trọng trách phục vụ thánh lễ khai mạc đại hội. Giữa hàng ngàn người trẻ cùng chung một niềm tin và một nhiệt huyết, ca đoàn thêm ý thức rằng tiếng hát của mình không chỉ phục vụ một cộng đoàn nhỏ bé, nhưng còn là một phần trong sứ mạng chung: đem Tin Mừng đến với người trẻ và làm cho Thiên Chúa được yêu mến giữa muôn người.",
+      "images": [
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/001.jpg",
+          "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 1",
+          "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/002.jpg",
+          "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 2",
+          "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/003.jpg",
+          "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 3",
+          "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/004.jpg",
+          "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 4",
+          "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/005.jpg",
+          "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 5",
+          "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/006.jpg",
+          "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 6",
+          "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/007.jpg",
+          "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 7",
+          "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất"
+        }
+      ],
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/001.jpg"
+    },
+    {
+      "id": "2019-le-quan-thay",
+      "type": "Lễ Quan thầy",
+      "date": "08/10/2019",
+      "title": "Lễ Quan Thầy Ca đoàn",
+      "description": "Mừng Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 4 năm thành lập Ca đoàn.",
+      "body": "🎉 Kỷ niệm 4 năm thành lập Ca đoàn\n\nNgày 08/10/2019, ca đoàn hân hoan mừng Lễ Quan Thầy Thánh Têrêsa Hài Đồng Giêsu, đồng thời kỷ niệm 4 năm ngày thành lập.\n\nBốn năm – một chặng đường chưa quá dài nhưng đủ để lưu lại biết bao kỷ niệm. Có những người đến rồi đi, có những thế hệ nối tiếp nhau, nhưng tình yêu dành cho tiếng hát và sứ mạng phục vụ vẫn được trao truyền. Ngày lễ quan thầy là dịp để mỗi ca viên cùng nhìn lại những gì Chúa đã thực hiện nơi ca đoàn và dâng lời tạ ơn vì biết bao hồng ân đã nhận được trong suốt hành trình. Dưới sự bảo trợ của Thánh Têrêsa Hài Đồng Giêsu, ca đoàn tiếp tục được mời gọi sống con đường nhỏ – làm những việc nhỏ bé với một tình yêu lớn lao.",
+      "images": [
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/001.jpg",
+          "caption": "Lễ Quan Thầy Ca đoàn · ảnh 1",
+          "alt": "Ảnh tư liệu: Lễ Quan Thầy Ca đoàn"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/002.jpg",
+          "caption": "Lễ Quan Thầy Ca đoàn · ảnh 2",
+          "alt": "Ảnh tư liệu: Lễ Quan Thầy Ca đoàn"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/003.jpg",
+          "caption": "Lễ Quan Thầy Ca đoàn · ảnh 3",
+          "alt": "Ảnh tư liệu: Lễ Quan Thầy Ca đoàn"
+        }
+      ],
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/001.jpg"
+    },
+    {
+      "id": "2019-dam-cuoi-quang-minh-do-lieu",
+      "type": "Thánh lễ",
+      "date": "20/10/2019",
+      "title": "Đám cưới Quang Minh – Đỗ Liệu",
+      "description": "Ca đoàn phục vụ Thánh lễ Hôn phối của anh Quang Minh và chị Đỗ Liệu.",
+      "body": "Ngày 20/10, tiếng hát của ca đoàn lại vang lên trong một niềm vui rất riêng: Thánh lễ Hôn phối của anh Quang Minh và chị Đỗ Liệu. Đối với một ca đoàn, được hiện diện trong những dấu mốc quan trọng của các thành viên không chỉ là một nhiệm vụ phục vụ, mà còn là niềm vui khi được cùng nhau chứng kiến và cầu nguyện cho những bước ngoặt trong cuộc đời. Tiếng hát hôm ấy là lời cầu chúc, là lời tạ ơn và cũng là lời nguyện xin cho một gia đình mới luôn được xây dựng trên tình yêu và sự hiện diện của Thiên Chúa.",
+      "images": [
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/001.jpg",
+          "caption": "Đám cưới Quang Minh – Đỗ Liệu · ảnh 1",
+          "alt": "Ảnh tư liệu: Đám cưới Quang Minh – Đỗ Liệu"
+        }
+      ],
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/001.jpg"
+    },
+    {
+      "id": "2019-hoi-thao-cecilia",
+      "type": "Hội thao",
+      "date": "17/11/2019",
+      "title": "Hội thao chào mừng lễ Thánh Cecilia",
+      "description": "Ngày hội tình huynh đệ của các ca đoàn trong Giáo xứ Thái Hà.",
+      "body": "Không chỉ cùng nhau phục vụ bằng lời ca tiếng hát, các ca viên còn có dịp gắn kết trong những hoạt động thể thao. Hội thao chào mừng lễ Thánh Cecilia – bổn mạng các ca đoàn – là một ngày hội của tình huynh đệ, nơi các ca đoàn trong Giáo xứ Thái Hà tạm gác những buổi tập hát để cùng nhau vui chơi, thi đấu và sẻ chia những khoảnh khắc đáng nhớ. Thắng – thua rồi cũng qua, nhưng những tiếng cười, những cái bắt tay và tinh thần đồng đội vẫn còn ở lại.",
+      "images": [
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/hoi-thao-cecilia/001.jpg",
+          "caption": "Hội thao chào mừng lễ Thánh Cecilia · ảnh 1",
+          "alt": "Ảnh tư liệu: Hội thao chào mừng lễ Thánh Cecilia"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/hoi-thao-cecilia/002.jpg",
+          "caption": "Hội thao chào mừng lễ Thánh Cecilia · ảnh 2",
+          "alt": "Ảnh tư liệu: Hội thao chào mừng lễ Thánh Cecilia"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/hoi-thao-cecilia/003.jpg",
+          "caption": "Hội thao chào mừng lễ Thánh Cecilia · ảnh 3",
+          "alt": "Ảnh tư liệu: Hội thao chào mừng lễ Thánh Cecilia"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/hoi-thao-cecilia/004.jpg",
+          "caption": "Hội thao chào mừng lễ Thánh Cecilia · ảnh 4",
+          "alt": "Ảnh tư liệu: Hội thao chào mừng lễ Thánh Cecilia"
+        }
+      ],
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/hoi-thao-cecilia/001.jpg"
+    },
+    {
+      "id": "2019-dai-le-di-dan",
+      "type": "Đại lễ",
+      "date": "25 – 27/11/2019",
+      "title": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "description": "Ca đoàn kết hợp cùng 3 ca đoàn phục vụ Đại lễ Di dân tại Giáo xứ Thái Hà.",
+      "body": "Một trong những dấu ấn nổi bật của năm 2019 là việc Ca đoàn Giới trẻ Têrêsa kết hợp cùng 3 ca đoàn: Latin và Maria Trinh Vương hiệp nhất trong việc phục vụ Đại lễ Di dân 2019. Những giọng hát đến từ nhiều ca đoàn đã cùng hòa chung thành một tiếng hát. Đó cũng là hình ảnh đẹp của tinh thần hiệp nhất: không phải để tiếng hát của riêng mình được nổi bật, mà để cùng nhau tạo nên một lời ca lớn hơn, đẹp hơn cho Chúa và cho cộng đoàn.\n\nĐặc biệt, ca đoàn cùng tham gia hợp xướng “Tiếng Nhạc Oai Hùng” kết hợp với ban kèn, ban trống của GĐCGXQ Hà Nội để khai mạc Đại lễ Di dân tại Giáo xứ Thái Hà.\n\n🎥 Video Full HD: DvtJckLw_N8",
+      "images": [
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/001.jpg",
+          "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 1",
+          "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/002.jpg",
+          "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 2",
+          "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/003.jpg",
+          "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 3",
+          "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/004.jpg",
+          "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 4",
+          "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/005.jpg",
+          "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 5",
+          "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/006.jpg",
+          "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 6",
+          "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/007.jpg",
+          "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 7",
+          "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/008.jpg",
+          "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 8",
+          "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/009.jpg",
+          "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 9",
+          "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/010.jpg",
+          "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 10",
+          "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/011.jpg",
+          "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 11",
+          "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/012.jpg",
+          "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 12",
+          "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/013.jpg",
+          "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 13",
+          "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+        }
+      ],
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/001.jpg"
+    },
+    {
+      "id": "2019-giang-sinh-trao-yeu-thuong",
+      "type": "Thiện nguyện",
+      "date": "14 – 15/12/2019",
+      "title": "Giáng Sinh Trao Yêu Thương 2019",
+      "description": "Bản Lùng Chang, xã Linh Hồ, huyện Vị Xuyên, Hà Giang.",
+      "body": "Chủ đề: “GIÁNG SINH TRAO YÊU THƯƠNG”\nBản Lùng Chang – xã Linh Hồ – huyện Vị Xuyên – Hà Giang\n\nKhép lại một năm với thật nhiều hoạt động, ca đoàn lên đường đến Bản Lùng Chang, xã Linh Hồ, huyện Vị Xuyên, Hà Giang trong chương trình thiện nguyện “Giáng Sinh Trao Yêu Thương”. Rời xa Hà Nội, những người trẻ mang theo không chỉ những món quà, những phần hỗ trợ, mà còn mang theo tiếng hát và niềm vui Giáng Sinh đến với bà con nơi vùng cao. Hai ngày nơi Lùng Chang là hành trình của những cuộc gặp gỡ. Có những nụ cười, những ánh mắt, những câu chuyện và những khoảnh khắc giản dị nhưng khiến mỗi người nhận ra rằng: đôi khi điều quý giá nhất không nằm ở món quà lớn hay nhỏ, mà nằm ở tấm lòng của người trao và tình yêu dành cho người nhận.\n\nGiáng Sinh năm ấy vì thế không chỉ là ngày kỷ niệm Chúa đến với nhân loại, mà còn là dịp để mỗi ca viên học cách đem Chúa đến gần hơn với những người mình gặp bằng chính sự hiện diện và tình yêu thương của mình. “Giáng Sinh Trao Yêu Thương” – một hành trình khép lại năm 2019, nhưng đồng thời cũng mở ra một điều rất đẹp trong sứ mạng của ca đoàn: không chỉ hát về tình yêu của Chúa, mà còn sống và trao tình yêu ấy cho mọi người.",
+      "images": [
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/001.jpg",
+          "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 1",
+          "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/002.jpg",
+          "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 2",
+          "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/003.jpg",
+          "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 3",
+          "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/004.jpg",
+          "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 4",
+          "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/005.jpg",
+          "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 5",
+          "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/006.jpg",
+          "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 6",
+          "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/007.jpg",
+          "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 7",
+          "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/008.jpg",
+          "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 8",
+          "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/009.jpg",
+          "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 9",
+          "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/010.jpg",
+          "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 10",
+          "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/011.jpg",
+          "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 11",
+          "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/012.jpg",
+          "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 12",
+          "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/013.jpg",
+          "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 13",
+          "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/014.jpg",
+          "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 14",
+          "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/015.jpg",
+          "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 15",
+          "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019"
+        }
+      ],
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/001.jpg"
+    },
+    {
+      "id": "2019-christmas-prep",
+      "type": "Giáng Sinh",
+      "topic": "Giáng Sinh",
+      "date": "2019",
+      "title": "Tập múa chuẩn bị cho Giáng Sinh",
+      "description": "Kho ảnh lưu lại những buổi tập múa chuẩn bị cho mùa Giáng Sinh.",
+      "body": "Tư liệu ảnh được lưu trong hồ sơ năm 2019 với tên “Tập múa chuẩn bị cho Giáng Sinh 2019”, ghi lại những buổi chuẩn bị của ca đoàn cho mùa Giáng Sinh.",
+      "images": [
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/001.jpg",
+          "caption": "Tập múa chuẩn bị cho Giáng Sinh · ảnh 1",
+          "alt": "Ảnh tư liệu: Tập múa chuẩn bị cho Giáng Sinh"
+        },
+        {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/002.jpg",
+          "caption": "Tập múa chuẩn bị cho Giáng Sinh · ảnh 2",
+          "alt": "Ảnh tư liệu: Tập múa chuẩn bị cho Giáng Sinh"
+        }
+      ],
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/001.jpg"
+    }
   ],
-  "achievements": ["Tĩnh tâm Tam Đảo với chủ đề “Tín thác và Cầu nguyện”.", "Phục vụ Thánh lễ khai mạc Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại Huế.", "Hiệp nhất cùng các ca đoàn phục vụ Đại lễ Di dân 2019 và hợp xướng “Tiếng Nhạc Oai Hùng”.", "Thực hiện chương trình “Giáng Sinh Trao Yêu Thương” tại Bản Lùng Chang, Hà Giang."],
-  "challenges": ["Có những thay đổi nhân sự khi 2 chị hỗ trợ chuyên môn ca trưởng quyết định dấn thân đi theo tiếng gọi tu trì.", "Tiếp tục nuôi dưỡng tinh thần phục vụ bền bỉ và đức tin ngày càng vững mạnh hơn."],
+  "achievements": [
+    "Tĩnh tâm Tam Đảo với chủ đề “Tín thác và Cầu nguyện”.",
+    "Phục vụ Thánh lễ khai mạc Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại Huế.",
+    "Hiệp nhất cùng các ca đoàn phục vụ Đại lễ Di dân 2019 và hợp xướng “Tiếng Nhạc Oai Hùng”.",
+    "Thực hiện chương trình “Giáng Sinh Trao Yêu Thương” tại Bản Lùng Chang, Hà Giang."
+  ],
+  "challenges": [
+    "Có những thay đổi nhân sự khi 2 chị hỗ trợ chuyên môn ca trưởng quyết định dấn thân đi theo tiếng gọi tu trì.",
+    "Tiếp tục nuôi dưỡng tinh thần phục vụ bền bỉ và đức tin ngày càng vững mạnh hơn."
+  ],
   "gallery": [
-    { "src": "images/gallery/thien-nguyen-2019.jpg", "alt": "Chuyến thiện nguyện năm 2019", "event": "Thiện nguyện", "caption": "Mùa hè yêu thương" },
-    { "src": "images/gallery/phung-vu-2025.jpg", "alt": "Ca đoàn phụng vụ", "event": "Thánh nhạc", "caption": "Tiếng hát lên đường" },
-    { "src": "images/gallery/team-building-2023.jpg", "alt": "Chuyến đi gắn kết", "event": "Gắn kết", "caption": "Đi để gần nhau" }
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/001.jpg",
+      "caption": "Tĩnh tâm 2019 · ảnh 1",
+      "alt": "Ảnh tư liệu: Tĩnh tâm 2019",
+      "event": "Tĩnh tâm 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/002.jpg",
+      "caption": "Tĩnh tâm 2019 · ảnh 2",
+      "alt": "Ảnh tư liệu: Tĩnh tâm 2019",
+      "event": "Tĩnh tâm 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/001.jpg",
+      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 1",
+      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
+      "event": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/002.jpg",
+      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 2",
+      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
+      "event": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/003.jpg",
+      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 3",
+      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
+      "event": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/004.jpg",
+      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 4",
+      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
+      "event": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/005.jpg",
+      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 5",
+      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
+      "event": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/006.jpg",
+      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 6",
+      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
+      "event": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/007.jpg",
+      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 7",
+      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
+      "event": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/001.jpg",
+      "caption": "Lễ Quan Thầy Ca đoàn · ảnh 1",
+      "alt": "Ảnh tư liệu: Lễ Quan Thầy Ca đoàn",
+      "event": "Lễ Quan Thầy Ca đoàn"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/002.jpg",
+      "caption": "Lễ Quan Thầy Ca đoàn · ảnh 2",
+      "alt": "Ảnh tư liệu: Lễ Quan Thầy Ca đoàn",
+      "event": "Lễ Quan Thầy Ca đoàn"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/003.jpg",
+      "caption": "Lễ Quan Thầy Ca đoàn · ảnh 3",
+      "alt": "Ảnh tư liệu: Lễ Quan Thầy Ca đoàn",
+      "event": "Lễ Quan Thầy Ca đoàn"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/001.jpg",
+      "caption": "Đám cưới Quang Minh – Đỗ Liệu · ảnh 1",
+      "alt": "Ảnh tư liệu: Đám cưới Quang Minh – Đỗ Liệu",
+      "event": "Đám cưới Quang Minh – Đỗ Liệu"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/hoi-thao-cecilia/001.jpg",
+      "caption": "Hội thao chào mừng lễ Thánh Cecilia · ảnh 1",
+      "alt": "Ảnh tư liệu: Hội thao chào mừng lễ Thánh Cecilia",
+      "event": "Hội thao chào mừng lễ Thánh Cecilia"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/hoi-thao-cecilia/002.jpg",
+      "caption": "Hội thao chào mừng lễ Thánh Cecilia · ảnh 2",
+      "alt": "Ảnh tư liệu: Hội thao chào mừng lễ Thánh Cecilia",
+      "event": "Hội thao chào mừng lễ Thánh Cecilia"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/hoi-thao-cecilia/003.jpg",
+      "caption": "Hội thao chào mừng lễ Thánh Cecilia · ảnh 3",
+      "alt": "Ảnh tư liệu: Hội thao chào mừng lễ Thánh Cecilia",
+      "event": "Hội thao chào mừng lễ Thánh Cecilia"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/hoi-thao-cecilia/004.jpg",
+      "caption": "Hội thao chào mừng lễ Thánh Cecilia · ảnh 4",
+      "alt": "Ảnh tư liệu: Hội thao chào mừng lễ Thánh Cecilia",
+      "event": "Hội thao chào mừng lễ Thánh Cecilia"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/001.jpg",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 1",
+      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/002.jpg",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 2",
+      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/003.jpg",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 3",
+      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/004.jpg",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 4",
+      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/005.jpg",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 5",
+      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/006.jpg",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 6",
+      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/007.jpg",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 7",
+      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/008.jpg",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 8",
+      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/009.jpg",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 9",
+      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/010.jpg",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 10",
+      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/011.jpg",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 11",
+      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/012.jpg",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 12",
+      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/013.jpg",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 13",
+      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/001.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 1",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/002.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 2",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/003.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 3",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/004.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 4",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/005.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 5",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/006.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 6",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/007.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 7",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/008.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 8",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/009.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 9",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/010.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 10",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/011.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 11",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/012.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 12",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/013.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 13",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/014.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 14",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/015.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 15",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/001.jpg",
+      "caption": "Tập múa chuẩn bị cho Giáng Sinh · ảnh 1",
+      "alt": "Ảnh tư liệu: Tập múa chuẩn bị cho Giáng Sinh",
+      "event": "Tập múa chuẩn bị cho Giáng Sinh"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/002.jpg",
+      "caption": "Tập múa chuẩn bị cho Giáng Sinh · ảnh 2",
+      "alt": "Ảnh tư liệu: Tập múa chuẩn bị cho Giáng Sinh",
+      "event": "Tập múa chuẩn bị cho Giáng Sinh"
+    }
   ],
   "sharing": [],
-  "yearMark": { "title": "Kiên vững niềm tin, kiên trung phụng vụ.", "description": "Bốn năm trôi qua, dấu ấn khắc ghi biết bao biến động, thử thách nhưng ân sủng của Chúa vẫn như nguồn suối mát tuôn chảy âm thầm, nhẹ nhàng nuôi dưỡng từng khoảnh khắc để rồi ghi tạc trong lòng mỗi ca viên không ngừng một tinh thần phục vụ bền bỉ và một đức tin ngày càng vững mạnh hơn.\n\nChặng đường phía trước có thể còn những lối mòn chưa tỏ, những đoạn đường chưa bằng phẳng. Nhưng với niềm tín thác tuyệt đối nơi Chúa, Ca đoàn Giới trẻ Teresa vẫn tiếp tục tiến bước – vững vàng, khiêm tốn và bền bỉ. Mỗi lời ca được cất lên không chỉ là nét đẹp phụng vụ, mà còn là lời cầu nguyện dâng lên Thiên Chúa – một ánh lửa đức tin, chân thành không ngừng cháy sáng giữa đời.\n\nDẫu đường gian khó bể dâu\nNhưng vì ơn Chúa - thắm tình nhiệm màu\nCho con phụng sự sắt son\nTrong niềm vui thánh, giữa muôn phúc lành\n\nNgày viết: 13/8/2026\nNgười biên soạn: Phê-rô Đỗ Tiến Hạng", "highlight": "4 năm · Kiên vững niềm tin, kiên trung phụng vụ" }
+  "yearMark": {
+    "title": "Kiên vững niềm tin, kiên trung phụng vụ.",
+    "description": "Bốn năm trôi qua, dấu ấn khắc ghi biết bao biến động, thử thách nhưng ân sủng của Chúa vẫn như nguồn suối mát tuôn chảy âm thầm, nhẹ nhàng nuôi dưỡng từng khoảnh khắc để rồi ghi tạc trong lòng mỗi ca viên không ngừng một tinh thần phục vụ bền bỉ và một đức tin ngày càng vững mạnh hơn.\n\nChặng đường phía trước có thể còn những lối mòn chưa tỏ, những đoạn đường chưa bằng phẳng. Nhưng với niềm tín thác tuyệt đối nơi Chúa, Ca đoàn Giới trẻ Teresa vẫn tiếp tục tiến bước – vững vàng, khiêm tốn và bền bỉ. Mỗi lời ca được cất lên không chỉ là nét đẹp phụng vụ, mà còn là lời cầu nguyện dâng lên Thiên Chúa – một ánh lửa đức tin, chân thành không ngừng cháy sáng giữa đời.\n\nDẫu đường gian khó bể dâu\nNhưng vì ơn Chúa - thắm tình nhiệm màu\nCho con phụng sự sắt son\nTrong niềm vui thánh, giữa muôn phúc lành\n\nNgày viết: 13/8/2026\nNgười biên soạn: Phê-rô Đỗ Tiến Hạng",
+    "highlight": "4 năm · Kiên vững niềm tin, kiên trung phụng vụ"
+  }
 }

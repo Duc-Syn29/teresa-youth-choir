@@ -6,6 +6,7 @@
   "use strict";
 
   const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const coarsePointer = window.matchMedia("(pointer: coarse)").matches || window.matchMedia("(max-width: 820px)").matches;
   const escapeHTML = (value = "") => String(value).replace(/[&<>'"]/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[character]);
   const activityGroups = {
     liturgy: {
@@ -197,7 +198,7 @@
 
   function initParallax() {
     const background = document.querySelector(".hero-bg");
-    if (!background || reduceMotion) return;
+    if (!background || reduceMotion || coarsePointer) return;
     let ticking = false;
     const update = () => {
       const y = Math.min(window.scrollY * 0.14, 100);
@@ -247,12 +248,12 @@
     surfaces.forEach((surface) => {
       surface.dataset.glassReady = "true";
       surface.classList.add("glass-surface");
+      if (reduceMotion || coarsePointer) return;
       const shine = document.createElement("span");
       shine.className = "liquid-glass-shine";
       shine.setAttribute("aria-hidden", "true");
       surface.append(shine);
 
-      if (reduceMotion) return;
       surface.addEventListener("pointermove", (event) => {
         if (event.pointerType === "touch") return;
         const bounds = surface.getBoundingClientRect();
@@ -265,7 +266,7 @@
       surface.addEventListener("pointerleave", () => surface.classList.remove("glass-active"));
     });
 
-    if (!reduceMotion && !document.documentElement.hasAttribute("data-glass-pointer")) {
+    if (!reduceMotion && !coarsePointer && !document.documentElement.hasAttribute("data-glass-pointer")) {
       document.documentElement.dataset.glassPointer = "true";
       let pointerTicking = false;
       let pointerX = 0;
