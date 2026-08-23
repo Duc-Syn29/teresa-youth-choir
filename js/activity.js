@@ -52,12 +52,13 @@
 
   function activityPreview(activity, data) {
     const matchingPhoto = (data.gallery || []).find((photo) => photo.event === activity.title || photo.event === activity.type);
-    return activity.coverImage || activity.images?.[0]?.src || matchingPhoto?.src || data.overview.coverImage;
+    return activity.coverImage || activity.images?.[0]?.src || matchingPhoto?.src || "";
   }
 
   function navigationCard(activity, data, direction) {
     if (!activity) return '<span class="activity-nav-spacer"></span>';
-    return `<a class="activity-nav-card reveal ${direction}" href="activity.html?year=${data.year}&id=${encodeURIComponent(activity.id)}"><span class="activity-nav-image" data-media-src="${escapeHTML(activityPreview(activity, data))}" aria-hidden="true"></span><span class="activity-nav-overlay" aria-hidden="true"></span><span class="activity-nav-copy"><small>${direction === "previous" ? "← Hoạt động trước" : "Hoạt động tiếp →"}</small><strong>${escapeHTML(activity.title)}</strong><span>${escapeHTML(activity.date)}</span></span></a>`;
+    const preview = activityPreview(activity, data);
+    return `<a class="activity-nav-card reveal ${direction}" href="activity.html?year=${data.year}&id=${encodeURIComponent(activity.id)}"><span class="activity-nav-image${preview ? "" : " activity-nav-image-empty"}"${preview ? ` data-media-src="${escapeHTML(preview)}"` : ""} aria-hidden="true"></span><span class="activity-nav-overlay" aria-hidden="true"></span><span class="activity-nav-copy"><small>${direction === "previous" ? "← Hoạt động trước" : "Hoạt động tiếp →"}</small><strong>${escapeHTML(activity.title)}</strong><span>${escapeHTML(activity.date)}</span></span></a>`;
   }
 
   async function render() {
@@ -73,13 +74,13 @@
       document.title = `${activity.title} — Teresa Youth Choir`;
       document.querySelector("#back-to-year").href = `year.html?year=${year}`;
       const photos = activity.images?.length ? activity.images : (data.gallery || []).filter((photo) => photo.event === activity.title || photo.event === activity.type).slice(0, 6);
-      const coverImage = activity.coverImage || photos[0]?.src || data.overview.coverImage;
+      const coverImage = activity.coverImage || photos[0]?.src || "";
       const previous = activityIndex > 0 ? data.activities[activityIndex - 1] : null;
       const next = activityIndex < data.activities.length - 1 ? data.activities[activityIndex + 1] : null;
       const adminLink = window.TeresaStore.isAdmin() ? `<a class="button button-light" href="admin.html?year=${year}&activity=${encodeURIComponent(activity.id)}">Chỉnh sửa hoạt động ↗</a>` : "";
       app.innerHTML = `
         <section class="activity-hero">
-          <div class="activity-hero-bg" data-media-src="${escapeHTML(coverImage)}" data-media-priority="high"></div>
+          <div class="activity-hero-bg${coverImage ? "" : " activity-hero-bg-empty"}"${coverImage ? ` data-media-src="${escapeHTML(coverImage)}" data-media-priority="high"` : ""}></div>
           <div class="activity-hero-grain" aria-hidden="true"></div>
           <div class="container activity-hero-content">
             <nav class="activity-breadcrumb" aria-label="Đường dẫn"><a href="index.html">Trang chủ</a><span>/</span><a href="year.html?year=${year}">Nhật ký ${year}</a><span>/</span><span>${escapeHTML(activity.type)}</span></nav>

@@ -350,6 +350,7 @@ button { color: inherit; }
 .year-activity:nth-child(5n+1) { grid-column: span 7; }
 .year-activity:nth-child(5n+2) { grid-column: span 5; }
 .year-activity-media { position: absolute; z-index: -3; inset: 0; background: linear-gradient(145deg, var(--teal-800), var(--teal-500)) center / cover no-repeat; transform: scale(1.015); transition: transform 1s cubic-bezier(.2,.75,.2,1), filter .6s ease; }
+.year-activity-media-empty, .activity-hero-bg-empty, .activity-nav-image-empty, .activity-archive-event-media-empty { background-image: radial-gradient(circle at 75% 20%, rgba(179,239,250,.34), transparent 28%), linear-gradient(145deg, #075477, #078db8 56%, #54cadd); }
 .year-activity-shade { position: absolute; z-index: -2; inset: 0; background: linear-gradient(180deg, rgba(3,37,57,.06) 8%, rgba(3,48,72,.26) 42%, rgba(2,35,55,.95) 100%); transition: background .5s ease; }
 .year-activity::after { content: ""; position: absolute; z-index: -1; inset: 0; pointer-events: none; border-radius: inherit; box-shadow: inset 0 1px 0 rgba(255,255,255,.34); }
 .year-activity-number { position: absolute; top: 1.45rem; left: 1.55rem; color: rgba(255,255,255,.86); font-family: var(--serif); font-size: 1rem; font-weight: 700; letter-spacing: .08em; text-shadow: 0 2px 12px rgba(0,0,0,.32); }

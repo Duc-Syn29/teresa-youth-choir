@@ -81,11 +81,21 @@
         serviceTeams: teams.map((team) => team.name)
       };
     }
+    const activityImages = (activity) => {
+      const source = activity.images || [];
+      if (Array.isArray(source)) return source;
+      if (source.base && Number(source.count) > 0) {
+        return Array.from({ length: Number(source.count) }, (_, index) => `${String(source.base).replace(/\/$/, "")}/${String(index + 1).padStart(3, "0")}.jpg`);
+      }
+      return [];
+    };
     next.activities = (next.activities || []).map((activity, index) => ({
       ...activity,
       id: activity.id || `${next.year}-activity-${index + 1}`,
       body: activity.body || activity.description || "",
-      images: activity.images || [],
+      images: activityImages(activity).map((image) => typeof image === "string"
+        ? { src: image, alt: `Ảnh tư liệu: ${activity.title || activity.type || next.year}`, caption: activity.title || activity.type || `Năm ${next.year}`, event: activity.title || activity.type || "Hoạt động" }
+        : image),
       topic: activity.topic || activity.type || "Khác"
     }));
     return next;
@@ -103,7 +113,7 @@
         ...event,
         id: event.id || `${year.year}-activity-${index + 1}`,
         type: event.type || "Khác",
-        image: event.image || "images/hero.jpg"
+        image: event.image || ""
       }))
     })).filter((year) => Number.isInteger(year.year)).sort((a, b) => b.year - a.year);
     next.totals = next.totals || { years: next.years.length, members: 0, activities: next.years.reduce((total, year) => total + year.events.length, 0) };

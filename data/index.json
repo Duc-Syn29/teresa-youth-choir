@@ -4,7 +4,7 @@
   "totals": {
     "years": 12,
     "members": 635,
-    "activities": 80
+    "activities": 81
   },
   "years": [
     {
@@ -515,7 +515,7 @@
         "eyebrow": "Dấu mốc 5 năm",
         "title": "5 năm một hành trình — Muôn Đời Tạ Ơn",
         "summary": "Năm kỷ niệm 5 năm thành lập, khi Ca đoàn Giới trẻ Têrêsa giữ lửa phục vụ, tạ ơn và bác ái giữa những biến động của đại dịch COVID-19.",
-        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/001.jpg"
+        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/001.jpg"
       },
       "members": {
         "total": 63,
@@ -543,12 +543,20 @@
       ],
       "events": [
         {
+          "id": "2020-opening-covid",
+          "title": "Khởi đầu năm và khoảng lặng COVID-19",
+          "type": "Gắn kết",
+          "date": "01–03.2020",
+          "description": "Ca đoàn khởi đầu năm với tập hát, phục vụ lễ thường niên và đón ca viên mới trước khi các hoạt động phải tạm dừng vì đại dịch.",
+          "image": ""
+        },
+        {
           "id": "2020-prayer-lent",
           "title": "Giờ cầu nguyện và giao hòa Mùa Chay",
           "type": "Tĩnh tâm",
           "date": "28.02.2020",
           "description": "Cha đặc trách và Ban Điều hành tổ chức giờ cầu nguyện, giải tội để ca viên chuẩn bị tâm hồn đón Mùa Chay.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/001.jpg"
+          "image": ""
         },
         {
           "id": "2020-return-to-service",
@@ -556,15 +564,15 @@
           "type": "Thánh lễ",
           "date": "07–21.05.2020",
           "description": "Ca đoàn tập hát và phục vụ trở lại sau giãn cách; phục vụ lễ vọng Mừng Chúa Lên Trời và cùng mừng sinh nhật ca viên.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/001.jpg"
+          "image": ""
         },
         {
           "id": "2020-retreat-thien-ha",
           "title": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
           "type": "Tĩnh tâm",
           "date": "20–21.06.2020",
-          "description": "Hai ngày lắng đọng, cầu nguyện và nhìn lại hành trình chung tại Đan viện Thiên Hà, Hòa Bình.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/001.jpg"
+          "description": "Hai ngày lắng đọng, cầu nguyện, chia sẻ và nhìn lại hành trình chung tại Đan viện Thiên Hà, Hòa Bình.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/001.jpg"
         },
         {
           "id": "2020-muon-doi-ta-on",
@@ -572,15 +580,15 @@
           "type": "Hòa nhạc",
           "date": "06.2020",
           "description": "Món quà âm nhạc đánh dấu 5 năm hình thành và phát triển của Ca đoàn Giới trẻ Têrêsa.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/001.jpg"
+          "image": ""
         },
         {
           "id": "2020-song-ca",
-          "title": "Những đôi song ca hướng về lễ Quan thầy",
+          "title": "Cuộc thi hát song ca hướng về lễ Quan thầy",
           "type": "Hòa nhạc",
           "date": "09.2020",
-          "description": "Các cặp đôi trong ca đoàn gửi những tiết mục song ca trên trang nội bộ, tạo thêm niềm vui và sự gắn kết.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/song-ca/001.jpg"
+          "description": "Các cặp đôi tham gia chương trình hát song ca, cùng giao lưu, gắn kết và hướng về ngày mừng kính Thánh Têrêsa.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-song-ca/001.jpg"
         },
         {
           "id": "2020-patron-feast",
@@ -588,15 +596,15 @@
           "type": "Lễ Quan thầy",
           "date": "30.09–01.10.2020",
           "description": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu, cùng tạ ơn hành trình 5 năm của các thế hệ ca viên.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-patron-feast/001.jpg"
         },
         {
           "id": "2020-catechism-service",
-          "title": "Phục vụ và học hỏi giáo lý",
-          "type": "Hội thao",
-          "date": "10.2020",
-          "description": "Duy trì phục vụ phụng vụ, tham gia cuộc thi giáo lý khối Liên Ca đoàn và đời sống chung của giáo xứ.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/001.jpg"
+          "title": "Học hỏi giáo lý cùng khối Liên Ca đoàn",
+          "type": "Gắn kết",
+          "date": "20.10.2020",
+          "description": "Các thành viên tham gia cuộc thi giáo lý, cùng trau dồi kiến thức đức tin và xây dựng tinh thần hiệp nhất.",
+          "image": ""
         },
         {
           "id": "2020-dem-dong",
@@ -604,7 +612,7 @@
           "type": "Giáng Sinh",
           "date": "18.12.2020",
           "description": "Ca đoàn Têrêsa kết hợp cùng Ca đoàn Latinh hợp xướng Đêm Đông trong chương trình diễn nguyện tại Nhà thờ Hàng Bột.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/001.jpg"
+          "image": ""
         },
         {
           "id": "2020-ha-giang-charity",
@@ -612,31 +620,31 @@
           "type": "Thiện nguyện",
           "date": "18–20.12.2020",
           "description": "Mang quà, sự sẻ chia và tiếng hát Giáng Sinh đến bản người Mông tại xã Thuận Hòa, huyện Vị Xuyên, tỉnh Hà Giang.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/001.jpg"
         },
         {
           "id": "2020-wedding",
           "title": "Lễ cưới anh Phó Liêm – Dáng",
           "type": "Hôn phối",
           "date": "2020",
-          "description": "Kho ảnh lưu lại lễ cưới của anh Phó ca đoàn Liêm và Dáng.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/001.jpg"
+          "description": "Khoảnh khắc ca đoàn hiệp thông trong ngày hôn phối của anh Phó ca đoàn Liêm và Dáng.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-wedding/001.jpg"
         },
         {
           "id": "2020-year-end",
           "title": "Tất niên ca đoàn",
           "type": "Gắn kết",
           "date": "2020",
-          "description": "Kho ảnh những phút giây gặp gỡ, sinh hoạt cuối năm.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/001.jpg"
+          "description": "Những phút giây gặp gỡ, sinh hoạt và gắn kết trong dịp tất niên năm 2020.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/001.jpg"
         },
         {
           "id": "2020-migrant",
           "title": "Phục vụ Đại lễ Di dân 2020",
           "type": "Đại lễ",
           "date": "10.2020",
-          "description": "Kho ảnh hoạt động phục vụ trong Đại lễ Di dân năm 2020.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/001.jpg"
+          "description": "Ca đoàn góp tiếng hát phục vụ Đại lễ Di dân và hiệp thông trong đời sống phụng vụ của cộng đoàn.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/001.jpg"
         }
       ]
     },

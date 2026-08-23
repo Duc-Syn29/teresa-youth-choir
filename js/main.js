@@ -331,7 +331,7 @@
 
     const eventMarkup = (item) => `
       <a class="activity-archive-event" href="activity.html?year=${item.year}&id=${encodeURIComponent(item.id)}">
-        <span class="activity-archive-event-media" data-media-src="${escapeHTML(item.cover)}" aria-hidden="true"></span>
+        <span class="activity-archive-event-media${item.cover ? "" : " activity-archive-event-media-empty"}"${item.cover ? ` data-media-src="${escapeHTML(item.cover)}"` : ""} aria-hidden="true"></span>
         <span class="activity-archive-event-shade" aria-hidden="true"></span>
         <span class="activity-archive-event-copy">
           <span class="activity-archive-event-meta"><strong>${item.year}</strong><em>${escapeHTML(item.type)}</em></span>
@@ -356,7 +356,7 @@
         .flatMap((yearData) => (yearData.events || []).map((activity) => ({
           ...activity,
           year: Number(yearData.year),
-          cover: activity.image || yearData.overview?.coverImage || "images/hero.jpg"
+          cover: activity.image || ""
         })))
         .filter((activity) => group.types.includes(normalizeText(activity.type)))
         .sort((a, b) => b.year - a.year);

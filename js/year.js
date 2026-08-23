@@ -68,15 +68,15 @@
       .join("");
   }
 
-  function renderActivities(activities = [], gallery = [], fallbackImage = "images/hero.jpg") {
+  function renderActivities(activities = [], gallery = []) {
     return activities
       .map((activity, index) => {
         const matchingPhoto = gallery.find((photo) => photo.event === activity.title || photo.event === activity.type);
-        const preview = activity.coverImage || activity.images?.[0]?.src || matchingPhoto?.src || fallbackImage;
+        const preview = activity.coverImage || activity.images?.[0]?.src || matchingPhoto?.src || "";
         const photoCount = activity.images?.length || (matchingPhoto ? 1 : 0);
         return `
           <a class="year-activity reveal" href="activity.html?year=${encodeURIComponent(activity.year || "")}&id=${encodeURIComponent(activity.id || "")}" aria-label="Mở hoạt động: ${escapeHTML(activity.title)}">
-            <span class="year-activity-media" data-media-src="${escapeHTML(preview)}" aria-hidden="true"></span>
+            <span class="year-activity-media${preview ? "" : " year-activity-media-empty"}"${preview ? ` data-media-src="${escapeHTML(preview)}"` : ""} aria-hidden="true"></span>
             <span class="year-activity-shade" aria-hidden="true"></span>
             <span class="year-activity-number" aria-hidden="true">${String(index + 1).padStart(2, "0")}</span>
             <span class="year-activity-content">
@@ -161,7 +161,8 @@
   async function render(data) {
     const { year, overview, leadership, members, activities, achievements, challenges, gallery, sharing, yearMark } = data;
     const storedMedia = (await window.TeresaStore?.getMedia({ year })) || [];
-    const yearGallery = [...new Map([...(gallery || []), ...storedMedia.map((media) => ({ src: media.src, alt: media.alt, event: media.topic, caption: media.caption || media.filename }))].filter((image) => image.src).map((image) => [image.src, image])).values()];
+    const activityMedia = (activities || []).flatMap((activity) => (activity.images || []).map((image) => ({ ...image, event: image.event || activity.title, caption: image.caption || activity.title, alt: image.alt || `Ảnh tư liệu: ${activity.title}` })));
+    const yearGallery = [...new Map([...(gallery || []), ...activityMedia, ...storedMedia.map((media) => ({ src: media.src, alt: media.alt, event: media.topic, caption: media.caption || media.filename }))].filter((image) => image.src).map((image) => [image.src, image])).values()];
     document.title = `${year} — Teresa Youth Choir`;
     document.documentElement.style.setProperty("--year-accent", data.theme?.accent || "#f27f6b");
 
@@ -220,7 +221,7 @@
       <section class="year-section" aria-labelledby="year-activities">
         <div class="container">
           ${sectionHeading(4, "Những ngày cùng nhau", "Hoạt động trong năm", "year-activities")}
-          <div class="year-activities">${renderActivities(activities.map((activity) => ({ ...activity, year })), gallery || [], overview.coverImage)}</div>
+          <div class="year-activities">${renderActivities(activities.map((activity) => ({ ...activity, year })), gallery || [])}</div>
         </div>
       </section>
 
