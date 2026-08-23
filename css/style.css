@@ -634,6 +634,8 @@ button, a { -webkit-tap-highlight-color: transparent; }
   .hero { min-height: 100svh; align-items: flex-end; }
   .hero-bg { inset: 0; }
   .hero-bg img { object-position: 62% center; }
+  .hero-bg::after { background: linear-gradient(180deg, rgba(4,43,66,.12) 0%, rgba(4,48,72,.28) 46%, rgba(3,39,61,.76) 100%), linear-gradient(90deg, rgba(4,51,76,.42), rgba(9,102,135,.04) 84%); }
+  .hero-grain { display: none; }
   .hero h1 { max-width: 100%; font-size: clamp(3.65rem, 18vw, 5.2rem); line-height: .86; }
   .hero h1 .script-line { margin: .55rem 0 0 .45rem; white-space: normal; }
   .hero-subtitle { max-width: 22rem; margin: 1.4rem 0 1.8rem; font-size: 1rem; }
