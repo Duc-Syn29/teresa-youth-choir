@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "year": 2019,
+  "activityId": "2019-le-quan-thay",
+  "title": "Lễ Quan Thầy Ca đoàn",
+  "count": 3,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/001.jpg",
+      "caption": "Lễ Quan Thầy Ca đoàn · ảnh 1",
+      "alt": "Ảnh tư liệu: Lễ Quan Thầy Ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/002.jpg",
+      "caption": "Lễ Quan Thầy Ca đoàn · ảnh 2",
+      "alt": "Ảnh tư liệu: Lễ Quan Thầy Ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/003.jpg",
+      "caption": "Lễ Quan Thầy Ca đoàn · ảnh 3",
+      "alt": "Ảnh tư liệu: Lễ Quan Thầy Ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/003.jpg",
+      "variants": {}
+    }
+  ]
+}

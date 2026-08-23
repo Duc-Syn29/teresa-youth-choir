@@ -1,42 +1,360 @@
 {
   "year": 2023,
-  "theme": { "accent": "#f27f6b" },
+  "theme": {
+    "accent": "#f27f6b"
+  },
   "overview": {
-    "eyebrow": "Năm rực rỡ", "title": "Thanh xuân cùng cất tiếng",
+    "eyebrow": "Năm rực rỡ",
+    "title": "Thanh xuân cùng cất tiếng",
     "summary": "Sự đồng hành chuyên môn của ca trưởng Maria Ban Mai mở ra một giai đoạn khởi sắc, với nhiều chuyến đi, phụng vụ và thiện nguyện.",
     "verse": "Hãy phục vụ Chúa với niềm vui, vào trước thánh nhan Người giữa tiếng hò reo.",
     "longDescription": "Từ tháng 3.2023, chị Maria Ban Mai đồng hành chuyên môn và mang đến một làn gió mới cho ca đoàn. Chuyên môn được cải thiện, nhiều ca viên trở lại và thành viên mới gia nhập. Những kỷ niệm nổi bật gồm phục vụ lễ tĩnh tâm của Gia Đình Công Giáo Xa Quê Hà Nội, Đại lễ Di dân, tĩnh tâm tại Cô Tô, thiện nguyện Tây Bắc và các thánh lễ hôn phối của ca viên.",
-    "coverImage": "images/hero.jpg"
+    "coverImage": {
+      "src": "images/hero.jpg",
+      "id": "images/hero.jpg",
+      "alt": "",
+      "caption": "",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/hero-480.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "images/optimized/hero-1280.jpg",
+          "width": 1280,
+          "height": 851
+        },
+        "original": {
+          "src": "images/optimized/hero-2048.jpg",
+          "width": 2048,
+          "height": 1362
+        }
+      }
+    }
   },
   "leadership": {
-    "chaplain": { "name": "Lm. Giuse Phạm Đức Hiệp", "note": "Đồng hành mục vụ" },
-    "leader": { "name": "Têrêsa Nguyễn Khánh Linh", "note": "Nhiệm kỳ 2023–2025" },
-    "conductor": { "name": "Gioan Trần Minh Quân", "note": "Phụ trách chuyên môn" },
-    "treasurer": { "name": "Giuse Đặng Quốc Bảo", "note": "Thủ quỹ" },
-    "serviceTeams": ["Ban Phụng vụ", "Ban Truyền thông", "Ban Đời sống", "Ban Hậu cần"]
+    "chaplain": {
+      "note": "Đồng hành mục vụ",
+      "members": [
+        {
+          "name": "Lm. Giuse Phạm Đức Hiệp",
+          "photo": "",
+          "id": "person-chaplain-1azi635"
+        }
+      ]
+    },
+    "leader": {
+      "note": "Nhiệm kỳ 2023–2025",
+      "members": [
+        {
+          "name": "Têrêsa Nguyễn Khánh Linh",
+          "photo": "",
+          "id": "person-leader-0nrde17"
+        }
+      ]
+    },
+    "deputyLeader": {
+      "members": []
+    },
+    "conductor": {
+      "note": "Phụ trách chuyên môn",
+      "members": [
+        {
+          "name": "Gioan Trần Minh Quân",
+          "photo": "",
+          "id": "person-conductor-05udt27"
+        }
+      ]
+    },
+    "treasurer": {
+      "note": "Thủ quỹ",
+      "members": [
+        {
+          "name": "Giuse Đặng Quốc Bảo",
+          "photo": "",
+          "id": "person-treasurer-1cayaz5"
+        }
+      ]
+    },
+    "teams": [
+      {
+        "name": "Ban Phụng vụ",
+        "members": [],
+        "id": "team-ban-phung-vu-00z4zag"
+      },
+      {
+        "name": "Ban Truyền thông",
+        "members": [],
+        "id": "team-ban-truyen-thong-07i2mcq"
+      },
+      {
+        "name": "Ban Đời sống",
+        "members": [],
+        "id": "team-ban-doi-song-12o6etq"
+      },
+      {
+        "name": "Ban Hậu cần",
+        "members": [],
+        "id": "team-ban-hau-can-1ofs7ay"
+      }
+    ]
   },
-  "members": { "total": 51, "new": 9, "inactive": 4, "notes": "Đội hình lần đầu vượt mốc 50 ca viên và ổn định bốn bè hợp xướng." },
+  "members": {
+    "total": 51,
+    "new": 9,
+    "inactive": 4,
+    "notes": "Đội hình lần đầu vượt mốc 50 ca viên và ổn định bốn bè hợp xướng."
+  },
   "activities": [
-    { "type": "Phục Sinh", "date": "04.2023", "title": "Bình minh hy vọng", "description": "Chương trình hợp xướng bốn bè trong thánh lễ Phục Sinh." },
-    { "type": "Du lịch/Team Building", "date": "07.2023", "title": "Thanh xuân gọi tên", "description": "Chuyến team building ba ngày với nhiều hoạt động kết nối." },
-    { "type": "Hội thao", "date": "08.2023", "title": "Sức trẻ Têrêsa", "description": "Ngày hội thể thao và âm nhạc dành cho ca viên." },
-    { "type": "Lễ Quan thầy", "date": "01.10.2023", "title": "Như một đóa hoa nhỏ", "description": "Đêm diễn nguyện kể chuyện Thánh Têrêsa." },
-    { "type": "Hát lễ cưới", "date": "Trong năm", "title": "Hát cho bạn mình", "description": "Đồng hành trong bốn thánh lễ hôn phối của ca viên." }
+    {
+      "type": "Phục Sinh",
+      "date": "04.2023",
+      "title": "Bình minh hy vọng",
+      "description": "Chương trình hợp xướng bốn bè trong thánh lễ Phục Sinh.",
+      "id": "2023-activity-1",
+      "topic": "Phục Sinh",
+      "body": "Chương trình hợp xướng bốn bè trong thánh lễ Phục Sinh.",
+      "images": []
+    },
+    {
+      "type": "Du lịch/Team Building",
+      "date": "07.2023",
+      "title": "Thanh xuân gọi tên",
+      "description": "Chuyến team building ba ngày với nhiều hoạt động kết nối.",
+      "id": "2023-activity-2",
+      "topic": "Du lịch/Team Building",
+      "body": "Chuyến team building ba ngày với nhiều hoạt động kết nối.",
+      "images": []
+    },
+    {
+      "type": "Hội thao",
+      "date": "08.2023",
+      "title": "Sức trẻ Têrêsa",
+      "description": "Ngày hội thể thao và âm nhạc dành cho ca viên.",
+      "id": "2023-activity-3",
+      "topic": "Hội thao",
+      "body": "Ngày hội thể thao và âm nhạc dành cho ca viên.",
+      "images": []
+    },
+    {
+      "type": "Lễ Quan thầy",
+      "date": "01.10.2023",
+      "title": "Như một đóa hoa nhỏ",
+      "description": "Đêm diễn nguyện kể chuyện Thánh Têrêsa.",
+      "id": "2023-activity-4",
+      "topic": "Lễ Quan thầy",
+      "body": "Đêm diễn nguyện kể chuyện Thánh Têrêsa.",
+      "images": []
+    },
+    {
+      "type": "Hát lễ cưới",
+      "date": "Trong năm",
+      "title": "Hát cho bạn mình",
+      "description": "Đồng hành trong bốn thánh lễ hôn phối của ca viên.",
+      "id": "2023-activity-5",
+      "topic": "Hát lễ cưới",
+      "body": "Đồng hành trong bốn thánh lễ hôn phối của ca viên.",
+      "images": []
+    }
   ],
-  "achievements": ["Ổn định đội hình hợp xướng bốn bè.", "Bắt đầu số hóa kho bản nhạc.", "Xây dựng nhóm đào tạo nhân sự kế thừa."],
-  "challenges": ["Quy mô lớn đòi hỏi quy trình tổ chức rõ ràng hơn.", "Thiếu không gian lưu trữ tư liệu chung.", "Cần cân bằng hoạt động và thời gian nghỉ ngơi."],
+  "achievements": [
+    "Ổn định đội hình hợp xướng bốn bè.",
+    "Bắt đầu số hóa kho bản nhạc.",
+    "Xây dựng nhóm đào tạo nhân sự kế thừa."
+  ],
+  "challenges": [
+    "Quy mô lớn đòi hỏi quy trình tổ chức rõ ràng hơn.",
+    "Thiếu không gian lưu trữ tư liệu chung.",
+    "Cần cân bằng hoạt động và thời gian nghỉ ngơi."
+  ],
   "gallery": [
-    { "src": "images/gallery/team-building-2023.jpg", "alt": "Team building năm 2023", "event": "Team Building", "caption": "Thanh xuân gọi tên" },
-    { "src": "images/gallery/phung-vu-2025.jpg", "alt": "Ca đoàn hợp xướng", "event": "Phục Sinh", "caption": "Bình minh hy vọng" },
-    { "src": "images/gallery/gan-ket-2024.jpg", "alt": "Ngày hội ca viên", "event": "Hội thao", "caption": "Sức trẻ Têrêsa" }
+    {
+      "src": "images/gallery/team-building-2023.jpg",
+      "alt": "Team building năm 2023",
+      "event": "Team Building",
+      "caption": "Thanh xuân gọi tên",
+      "id": "images/gallery/team-building-2023.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/team-building-2023-480.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "images/optimized/gallery/team-building-2023-1280.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "images/optimized/gallery/team-building-2023-2048.jpg",
+          "width": 2048,
+          "height": 1364
+        }
+      }
+    },
+    {
+      "src": "images/gallery/phung-vu-2025.jpg",
+      "alt": "Ca đoàn hợp xướng",
+      "event": "Phục Sinh",
+      "caption": "Bình minh hy vọng",
+      "id": "images/gallery/phung-vu-2025.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
+          "width": 480,
+          "height": 290
+        },
+        "medium": {
+          "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
+          "width": 1280,
+          "height": 773
+        },
+        "original": {
+          "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
+          "width": 2048,
+          "height": 1237
+        }
+      }
+    },
+    {
+      "src": "images/gallery/gan-ket-2024.jpg",
+      "alt": "Ngày hội ca viên",
+      "event": "Hội thao",
+      "caption": "Sức trẻ Têrêsa",
+      "id": "images/gallery/gan-ket-2024.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/gan-ket-2024-480.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "images/optimized/gallery/gan-ket-2024-1280.jpg",
+          "width": 1280,
+          "height": 851
+        },
+        "original": {
+          "src": "images/optimized/gallery/gan-ket-2024-2048.jpg",
+          "width": 2048,
+          "height": 1362
+        }
+      }
+    }
   ],
   "sharing": [
-    { "name": "Khánh Linh", "role": "Trưởng ca đoàn 2023", "quote": "Nhận trách nhiệm trong chính nơi mình đã lớn lên là một món quà, đồng thời là lời mời gọi phải yêu nhiều hơn." },
-    { "name": "Thanh Vy", "role": "Ca viên 2023", "quote": "Chúng mình bắt đầu lưu lại mọi thứ vì hiểu rằng ký ức cũng cần được chăm sóc." }
+    {
+      "name": "Khánh Linh",
+      "role": "Trưởng ca đoàn 2023",
+      "quote": "Nhận trách nhiệm trong chính nơi mình đã lớn lên là một món quà, đồng thời là lời mời gọi phải yêu nhiều hơn."
+    },
+    {
+      "name": "Thanh Vy",
+      "role": "Ca viên 2023",
+      "quote": "Chúng mình bắt đầu lưu lại mọi thứ vì hiểu rằng ký ức cũng cần được chăm sóc."
+    }
   ],
   "emotionJournal": [
-    { "date": "16.07", "title": "Đêm cuối của chuyến đi", "text": "Năm mươi người ngồi thành vòng tròn và kể về lý do mình ở lại.", "mood": "Thân tình" },
-    { "date": "01.10", "title": "Một đóa hoa nhỏ", "text": "Sân khấu tắt đèn, nhưng câu chuyện của Têrêsa vẫn còn sáng trong mỗi người.", "mood": "Tự hào" }
+    {
+      "date": "16.07",
+      "title": "Đêm cuối của chuyến đi",
+      "text": "Năm mươi người ngồi thành vòng tròn và kể về lý do mình ở lại.",
+      "mood": "Thân tình"
+    },
+    {
+      "date": "01.10",
+      "title": "Một đóa hoa nhỏ",
+      "text": "Sân khấu tắt đèn, nhưng câu chuyện của Têrêsa vẫn còn sáng trong mỗi người.",
+      "mood": "Tự hào"
+    }
   ],
-  "yearMark": { "title": "Thanh xuân đã có tên.", "description": "2023 là một năm rực rỡ không chỉ bởi nhiều hoạt động, mà bởi từng ca viên đã dám góp tiếng nói và trách nhiệm vào hành trình chung.", "highlight": "51 ca viên · 4 bè hát" }
+  "yearMark": {
+    "title": "Thanh xuân đã có tên.",
+    "description": "2023 là một năm rực rỡ không chỉ bởi nhiều hoạt động, mà bởi từng ca viên đã dám góp tiếng nói và trách nhiệm vào hành trình chung.",
+    "highlight": "51 ca viên · 4 bè hát"
+  },
+  "schemaVersion": 3,
+  "meta": {
+    "revision": 1,
+    "status": "published",
+    "migratedFrom": 1
+  },
+  "galleryAlbum": {
+    "manifest": "data/albums/2023/_gallery.json",
+    "count": 3,
+    "preview": [
+      {
+        "src": "images/gallery/team-building-2023.jpg",
+        "alt": "Team building năm 2023",
+        "event": "Team Building",
+        "caption": "Thanh xuân gọi tên",
+        "id": "images/gallery/team-building-2023.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "images/optimized/gallery/team-building-2023-480.jpg",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "images/optimized/gallery/team-building-2023-1280.jpg",
+            "width": 1280,
+            "height": 853
+          },
+          "original": {
+            "src": "images/optimized/gallery/team-building-2023-2048.jpg",
+            "width": 2048,
+            "height": 1364
+          }
+        }
+      },
+      {
+        "src": "images/gallery/phung-vu-2025.jpg",
+        "alt": "Ca đoàn hợp xướng",
+        "event": "Phục Sinh",
+        "caption": "Bình minh hy vọng",
+        "id": "images/gallery/phung-vu-2025.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
+            "width": 480,
+            "height": 290
+          },
+          "medium": {
+            "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
+            "width": 1280,
+            "height": 773
+          },
+          "original": {
+            "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
+            "width": 2048,
+            "height": 1237
+          }
+        }
+      },
+      {
+        "src": "images/gallery/gan-ket-2024.jpg",
+        "alt": "Ngày hội ca viên",
+        "event": "Hội thao",
+        "caption": "Sức trẻ Têrêsa",
+        "id": "images/gallery/gan-ket-2024.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "images/optimized/gallery/gan-ket-2024-480.jpg",
+            "width": 480,
+            "height": 319
+          },
+          "medium": {
+            "src": "images/optimized/gallery/gan-ket-2024-1280.jpg",
+            "width": 1280,
+            "height": 851
+          },
+          "original": {
+            "src": "images/optimized/gallery/gan-ket-2024-2048.jpg",
+            "width": 2048,
+            "height": 1362
+          }
+        }
+      }
+    ]
+  }
 }

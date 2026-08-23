@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "activityId": "2026-year-gallery",
+  "title": "Album năm 2026",
+  "count": 1,
+  "images": [
+    {
+      "src": "images/gallery/phung-vu-2025.jpg",
+      "alt": "Ca đoàn trong một thánh lễ",
+      "event": "Phụng vụ",
+      "caption": "Tiếp nối lời ca",
+      "id": "images/gallery/phung-vu-2025.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
+          "width": 480,
+          "height": 290
+        },
+        "medium": {
+          "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
+          "width": 1280,
+          "height": 773
+        },
+        "original": {
+          "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
+          "width": 2048,
+          "height": 1237
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "year": 2019,
+  "activityId": "2019-dai-hoi-gioi-tre",
+  "title": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
+  "count": 7,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/001.jpg",
+      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 1",
+      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/002.jpg",
+      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 2",
+      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/003.jpg",
+      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 3",
+      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/003.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/004.jpg",
+      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 4",
+      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/004.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/005.jpg",
+      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 5",
+      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/005.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/006.jpg",
+      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 6",
+      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/006.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/007.jpg",
+      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 7",
+      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/007.jpg",
+      "variants": {}
+    }
+  ]
+}

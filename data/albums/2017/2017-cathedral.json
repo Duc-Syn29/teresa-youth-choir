@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "year": 2017,
+  "activityId": "2017-cathedral",
+  "title": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+  "count": 5,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/001.jpg",
+      "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội · ảnh 1",
+      "alt": "Ảnh tư liệu: Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/002.jpg",
+      "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội · ảnh 2",
+      "alt": "Ảnh tư liệu: Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/003.jpg",
+      "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội · ảnh 3",
+      "alt": "Ảnh tư liệu: Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/003.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/004.jpg",
+      "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội · ảnh 4",
+      "alt": "Ảnh tư liệu: Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/004.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/005.jpg",
+      "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội · ảnh 5",
+      "alt": "Ảnh tư liệu: Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/005.jpg",
+      "variants": {}
+    }
+  ]
+}

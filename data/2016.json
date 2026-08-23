@@ -12,42 +12,93 @@
     "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/001.jpg"
   },
   "leadership": {
+    "chaplain": {
+      "members": []
+    },
     "leader": {
-      "name": "Toma Trần Minh Quân"
+      "members": [
+        {
+          "name": "Toma Trần Minh Quân",
+          "photo": "",
+          "id": "person-leader-1g8fktg"
+        }
+      ]
     },
     "deputyLeader": {
-      "name": "Phêrô Bùi Ngọc Liêm · Giuse Nguyễn Xuân Hoàn"
+      "members": [
+        {
+          "name": "Phêrô Bùi Ngọc Liêm",
+          "photo": "",
+          "id": "person-deputyleader-1cstyko"
+        },
+        {
+          "name": "Giuse Nguyễn Xuân Hoàn",
+          "photo": "",
+          "id": "person-deputyleader-05nguth"
+        }
+      ]
     },
     "conductor": {
-      "name": "Sơ Maria Vũ Vỹ Cầm · Thầy Phạm Công Minh · Anh Hướng Vũ"
+      "members": [
+        {
+          "name": "Sơ Maria Vũ Vỹ Cầm",
+          "photo": "",
+          "id": "person-conductor-0rf2di5"
+        },
+        {
+          "name": "Thầy Phạm Công Minh",
+          "photo": "",
+          "id": "person-conductor-1lbxz2j"
+        },
+        {
+          "name": "Anh Hướng Vũ",
+          "photo": "",
+          "id": "person-conductor-038efm6"
+        }
+      ]
     },
     "treasurer": {
-      "name": "Maria Đỗ Thị Lan"
+      "members": [
+        {
+          "name": "Maria Đỗ Thị Lan",
+          "photo": "",
+          "id": "person-treasurer-0hpsbn1"
+        }
+      ]
     },
     "teams": [
       {
         "name": "Ban Truyền Thông",
         "members": [
           {
-            "name": "Cua Tồ"
+            "name": "Cua Tồ",
+            "id": "team-member-ban-truyen-thong-0yi2z1o",
+            "photo": ""
           }
-        ]
+        ],
+        "id": "team-ban-truyen-thong-09sghel"
       },
       {
         "name": "Ban Tâm Linh",
         "members": [
           {
-            "name": "Maria Nguyễn Thị Uyên"
+            "name": "Maria Nguyễn Thị Uyên",
+            "id": "team-member-ban-tam-linh-096gyz1",
+            "photo": ""
           }
-        ]
+        ],
+        "id": "team-ban-tam-linh-1fg3aec"
       },
       {
         "name": "Ban Liên Kết",
         "members": [
           {
-            "name": "Maria Đỗ Thị Liệu"
+            "name": "Maria Đỗ Thị Liệu",
+            "id": "team-member-ban-lien-ket-1xlh7na",
+            "photo": ""
           }
-        ]
+        ],
+        "id": "team-ban-lien-ket-0lvdsa6"
       }
     ]
   },
@@ -66,39 +117,34 @@
       "title": "Tiệc tất niên ca đoàn",
       "description": "Buổi gặp gỡ thân tình để cùng nhìn lại chặng đường đầu tiên.",
       "body": "Ngay trong những tháng ngày đầu tiên thành lập ca đoàn, ngày 31/01/2016, Ca đoàn đã tổ chức buổi tiệc tất niên trong bầu khí thân tình và vui tươi. Đây không chỉ đơn thuần là một buổi liên hoan cuối năm mà còn là dịp để các ca viên cùng nhìn lại chặng đường đầu tiên đã đi qua. Những con người từ nhiều miền quê khác nhau, với những công việc và hoàn cảnh khác nhau, đã gặp nhau nơi Hà Nội và cùng chung một mái nhà mang tên Ca đoàn Giới Trẻ Têrêsa.\n\nTrong những ngày đầu thành lập, chắc chắn ca đoàn vẫn còn rất nhiều thiếu thốn và những điều chưa hoàn thiện. Tuy nhiên, chính sự đơn sơ ấy lại trở thành một nét đẹp của những ngày đầu. Mọi người cùng nhau tập hát, cùng nhau phục vụ, cùng nhau chia sẻ niềm vui và cả những khó khăn trong đời sống xa quê. Buổi tiệc tất niên vì thế trở thành một dịp để mọi người thêm gắn bó, thêm hiểu nhau và cùng mang theo những kỷ niệm đẹp bước vào một năm mới với nhiều hy vọng.",
-      "images": [
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/001.jpg",
-          "caption": "Tiệc tất niên ca đoàn · ảnh 1",
-          "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/002.jpg",
-          "caption": "Tiệc tất niên ca đoàn · ảnh 2",
-          "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/003.jpg",
-          "caption": "Tiệc tất niên ca đoàn · ảnh 3",
-          "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/004.jpg",
-          "caption": "Tiệc tất niên ca đoàn · ảnh 4",
-          "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/005.jpg",
-          "caption": "Tiệc tất niên ca đoàn · ảnh 5",
-          "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/006.jpg",
-          "caption": "Tiệc tất niên ca đoàn · ảnh 6",
-          "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn"
-        }
-      ],
-      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/001.jpg"
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/001.jpg",
+      "album": {
+        "manifest": "data/albums/2016/2016-year-end.json",
+        "count": 6,
+        "preview": [
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/001.jpg",
+            "caption": "Tiệc tất niên ca đoàn · ảnh 1",
+            "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/001.jpg",
+            "variants": {}
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/002.jpg",
+            "caption": "Tiệc tất niên ca đoàn · ảnh 2",
+            "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/002.jpg",
+            "variants": {}
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/003.jpg",
+            "caption": "Tiệc tất niên ca đoàn · ảnh 3",
+            "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/003.jpg",
+            "variants": {}
+          }
+        ]
+      }
     },
     {
       "id": "2016-phu-da",
@@ -108,59 +154,34 @@
       "title": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
       "description": "Gặp gỡ, cầu nguyện và hiệp thông cùng Giới trẻ Tổng Giáo phận Hà Nội.",
       "body": "Vào đầu tháng 4, Ca đoàn Giới Trẻ Têrêsa có cơ hội được hòa mình vào những hoạt động chung của Giới trẻ Tổng Giáo Phận Hà Nội. Ngày 09/04, Chúa Nhật Lễ Lá, các thành viên ca đoàn được trở về tham dự Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa. Đây là một dịp đặc biệt để các bạn trẻ cùng gặp gỡ, cầu nguyện, chia sẻ và sống bầu khí hiệp thông với hơn 5000 bạn trẻ đến từ nhiều nơi. Trong bài giảng tại đại hội, Đức Hồng Y Phê-rô mời gọi các bạn trẻ hãy biết nói xin vâng với Thánh ý Chúa. Sống theo thánh ý Chúa, các bạn trẻ sẽ tìm thấy sự bình an và niềm vui của chính Chúa.\n\nChuyến tham dự đại hội này không chỉ mang đến những trải nghiệm mới mẻ mà còn giúp các ca viên hiểu rằng sứ mạng của một ca đoàn không chỉ dừng lại ở việc hát trong Thánh lễ, mà anh chị em ca viên còn được mời gọi bước ra khỏi lối sống sinh hoạt quen thuộc của mình để gặp gỡ, kết nối và cùng sống đức tin với cộng đoàn rộng lớn hơn. Những chuyến đi như thế đã góp phần mở rộng đời sống của ca đoàn, để mỗi thành viên không chỉ biết đến nhau qua những buổi tập hát mà còn cùng nhau chia sẻ những khoảnh khắc đáng nhớ trong đời sống đức tin.",
-      "images": [
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/001.jpg",
-          "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 1",
-          "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/002.jpg",
-          "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 2",
-          "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/003.jpg",
-          "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 3",
-          "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/004.jpg",
-          "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 4",
-          "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/005.jpg",
-          "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 5",
-          "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/006.jpg",
-          "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 6",
-          "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/007.jpg",
-          "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 7",
-          "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/008.jpg",
-          "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 8",
-          "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/009.jpg",
-          "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 9",
-          "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/010.jpg",
-          "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 10",
-          "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa"
-        }
-      ],
-      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/001.jpg"
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/001.jpg",
+      "album": {
+        "manifest": "data/albums/2016/2016-phu-da.json",
+        "count": 10,
+        "preview": [
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/001.jpg",
+            "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 1",
+            "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/001.jpg",
+            "variants": {}
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/002.jpg",
+            "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 2",
+            "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/002.jpg",
+            "variants": {}
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/003.jpg",
+            "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 3",
+            "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/003.jpg",
+            "variants": {}
+          }
+        ]
+      }
     },
     {
       "id": "2016-uniform",
@@ -170,14 +191,20 @@
       "title": "May áo choàng đồng phục",
       "description": "Một quyết định xây dựng bản sắc và dấu hiệu hiệp nhất cho ca đoàn còn non trẻ.",
       "body": "Ngày 13/07/2016, Ban Điều hành ca đoàn cùng nhau thống nhất một quyết định quan trọng: tiến hành may đồng phục cho các ca viên. Đây là một ý tưởng mang ý nghĩa rất lớn đối với một ca đoàn còn non trẻ. Việc có một bộ đồng phục chung không chỉ giúp tạo nên hình ảnh đẹp, sự đồng nhất khi phục vụ mà còn góp phần xây dựng bản sắc riêng của Ca đoàn Giới Trẻ Têrêsa.\n\n“Màu cờ sắc áo” từ đó không chỉ được hiểu theo nghĩa bên ngoài. Đó còn là dấu hiệu của sự hiệp nhất. Mỗi ca viên đến từ một hoàn cảnh khác nhau, nhưng khi khoác lên mình chiếc áo của ca đoàn, tất cả cùng trở thành một gia đình, cùng mang một sứ mạng và cùng phục vụ một Thiên Chúa. Quyết định may đồng phục cũng cho thấy ca đoàn bắt đầu có những bước tiến trong việc xây dựng tổ chức và ý thức hơn về hình ảnh của mình trong cộng đoàn, góp phần tạo đà phát triển ca đoàn hơn trong thời gian tới.",
-      "images": [
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/001.jpg",
-          "caption": "May áo choàng đồng phục · ảnh 1",
-          "alt": "Ảnh tư liệu: May áo choàng đồng phục"
-        }
-      ],
-      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/001.jpg"
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/001.jpg",
+      "album": {
+        "manifest": "data/albums/2016/2016-uniform.json",
+        "count": 1,
+        "preview": [
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/001.jpg",
+            "caption": "May áo choàng đồng phục · ảnh 1",
+            "alt": "Ảnh tư liệu: May áo choàng đồng phục",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/001.jpg",
+            "variants": {}
+          }
+        ]
+      }
     },
     {
       "id": "2016-dong-chiem",
@@ -187,89 +214,34 @@
       "title": "Tĩnh tâm tại Giáo xứ Đồng Chiêm",
       "description": "Lần đầu ca đoàn dành trọn hai ngày để cầu nguyện, nhìn lại và làm mới đời sống nội tâm.",
       "body": "Trong hai ngày 13 và 14/08/2016, Ca đoàn Giới Trẻ Têrêsa có chuyến tĩnh tâm tại Giáo xứ Đồng Chiêm. Đây là lần đầu tiên ca đoàn tổ chức một chương trình tĩnh tâm. Sau những ngày học tập, làm việc và phục vụ, đây là khoảng thời gian quý giá để các ca viên tạm gác lại những bộn bề thường nhật, cùng nhau trở về với đời sống nội tâm. Linh mục chính xứ Giuse Tạ Xuân Hòa đã có giờ chia sẻ với anh chị em ca viên, giúp anh chị em nhìn lại cách mình đang sống và phục vụ, đồng thời làm mới lại mối tương quan với Chúa và với anh chị em trong ca đoàn.\n\nMột ca đoàn muốn phục vụ tốt không chỉ cần những giọng hát hay, mà còn cần những tâm hồn biết cầu nguyện và biết sống với Chúa. Sau giờ tĩnh tâm ca đoàn còn được cha giúp giải tội, tham dự thánh lễ thật sốt sắng và đón nhận Mình Máu Thánh Chúa. Chuyến tĩnh tâm tại Đồng Chiêm trở thành một kỷ niệm thật đẹp trong những năm đầu của ca đoàn. Những giờ cầu nguyện, những cuộc trò chuyện, những khoảnh khắc cùng sinh hoạt và chia sẻ đã giúp các thành viên thêm hiểu, thêm thương và thêm gắn kết với nhau.",
-      "images": [
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/001.jpg",
-          "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 1",
-          "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/002.jpg",
-          "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 2",
-          "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/003.jpg",
-          "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 3",
-          "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/004.jpg",
-          "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 4",
-          "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/005.jpg",
-          "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 5",
-          "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/006.jpg",
-          "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 6",
-          "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/007.jpg",
-          "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 7",
-          "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/008.jpg",
-          "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 8",
-          "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/009.jpg",
-          "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 9",
-          "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/010.jpg",
-          "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 10",
-          "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/011.jpg",
-          "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 11",
-          "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/012.jpg",
-          "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 12",
-          "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/013.jpg",
-          "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 13",
-          "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/014.jpg",
-          "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 14",
-          "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/015.jpg",
-          "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 15",
-          "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/016.jpg",
-          "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 16",
-          "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-        }
-      ],
-      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/001.jpg"
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/001.jpg",
+      "album": {
+        "manifest": "data/albums/2016/2016-dong-chiem.json",
+        "count": 16,
+        "preview": [
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/001.jpg",
+            "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 1",
+            "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/001.jpg",
+            "variants": {}
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/002.jpg",
+            "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 2",
+            "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/002.jpg",
+            "variants": {}
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/003.jpg",
+            "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 3",
+            "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/003.jpg",
+            "variants": {}
+          }
+        ]
+      }
     },
     {
       "id": "2016-scripture",
@@ -279,24 +251,34 @@
       "title": "Cuộc thi Giáo lý – Kinh Thánh xa quê",
       "description": "Ca đoàn tham gia cuộc thi của Ban Giới Trẻ – Gia Đình Công Giáo Xa Quê Hà Nội.",
       "body": "Vào lúc 20h00 ngày 28/09/2016, tại Đền Thánh Giêrađô – Giáo xứ Thái Hà, Ban Giới Trẻ – Gia Đình Công Giáo Xa Quê Hà Nội tổ chức vòng loại thứ hai cuộc thi “Giới trẻ cùng tìm hiểu về Kinh Thánh và Gia đình Công giáo Xa quê Hà Nội”. Cuộc thi diễn ra trong bầu khí vô cùng sôi động, kịch tính và hấp dẫn. Các đội thi đã cùng nhau trải qua những câu hỏi liên quan đến Kinh Thánh, đời sống đức tin cũng như những hiểu biết về Gia đình Công giáo Xa quê Hà Nội.\n\nỞ vòng loại 2 này, ca đoàn đối đầu với những đội thi rất mạnh như nhóm giới trẻ Anphongso và nhóm Phanxico assisi. Sự tham gia của Ca đoàn trong những hoạt động chung đã thể hiện tinh thần hiệp thông với Gia đình Công giáo Xa quê Hà Nội, không chỉ bằng lời hát mà còn bằng sự hiện diện và lòng nhiệt thành của những người trẻ.",
-      "images": [
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/001.jpg",
-          "caption": "Cuộc thi Giáo lý – Kinh Thánh xa quê · ảnh 1",
-          "alt": "Ảnh tư liệu: Cuộc thi Giáo lý – Kinh Thánh xa quê"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/002.jpg",
-          "caption": "Cuộc thi Giáo lý – Kinh Thánh xa quê · ảnh 2",
-          "alt": "Ảnh tư liệu: Cuộc thi Giáo lý – Kinh Thánh xa quê"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/003.jpg",
-          "caption": "Cuộc thi Giáo lý – Kinh Thánh xa quê · ảnh 3",
-          "alt": "Ảnh tư liệu: Cuộc thi Giáo lý – Kinh Thánh xa quê"
-        }
-      ],
-      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/001.jpg"
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/001.jpg",
+      "album": {
+        "manifest": "data/albums/2016/2016-scripture.json",
+        "count": 3,
+        "preview": [
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/001.jpg",
+            "caption": "Cuộc thi Giáo lý – Kinh Thánh xa quê · ảnh 1",
+            "alt": "Ảnh tư liệu: Cuộc thi Giáo lý – Kinh Thánh xa quê",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/001.jpg",
+            "variants": {}
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/002.jpg",
+            "caption": "Cuộc thi Giáo lý – Kinh Thánh xa quê · ảnh 2",
+            "alt": "Ảnh tư liệu: Cuộc thi Giáo lý – Kinh Thánh xa quê",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/002.jpg",
+            "variants": {}
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/003.jpg",
+            "caption": "Cuộc thi Giáo lý – Kinh Thánh xa quê · ảnh 3",
+            "alt": "Ảnh tư liệu: Cuộc thi Giáo lý – Kinh Thánh xa quê",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/003.jpg",
+            "variants": {}
+          }
+        ]
+      }
     },
     {
       "id": "2016-patron",
@@ -306,69 +288,34 @@
       "title": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
       "description": "Lễ bổn mạng và kỷ niệm một năm thành lập ca đoàn tại Nguyện đường Giêrađô.",
       "body": "Vào lúc 20h00 ngày 04/10/2016, tại Nguyện đường Giêrađô – Giáo xứ Thái Hà, Ca đoàn Giới Trẻ Xa quê Hà Nội long trọng cử hành Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu, bổn mạng của ca đoàn. Thánh lễ có sự hiện diện của quý Cha đặc trách Xa quê, trong đó có Cha Giuse Trần Hữu Hoan, quý Hội đồng Mục vụ cùng đông đảo các bạn trẻ Công giáo Xa quê đang sinh sống, học tập và làm việc tại Hà Nội.\n\nTrong bài giảng, Cha phó đặc trách đã chia sẻ những hình ảnh rất gần gũi về một ca đoàn còn nhỏ bé nhưng đầy tình hiệp nhất và đơn sơ. Các ca viên phần lớn là những người trẻ xa quê, vừa học tập, vừa làm việc, nhưng vẫn sẵn sàng hy sinh thời gian, tâm hồn và sức lực để phục vụ Chúa. Mỗi buổi tập hát hàng tuần tại Giáo xứ Thái Hà không đơn giản chỉ là những giờ tập hát. Mà đó còn là những giờ phút các bạn trẻ cùng gặp gỡ, cùng cầu nguyện và cùng xây dựng tình huynh đệ.\n\nNgày lễ quan thầy năm ấy vì thế không chỉ là một ngày vui của ca đoàn, mà còn là dịp để mỗi thành viên nhìn lại lý tưởng phục vụ của mình. Ca đoàn được mời gọi tiếp tục bước đi dưới sự đồng hành của Thánh Têrêsa Hài Đồng Giêsu, biết sống đơn sơ, phó thác và không ngừng canh tân đời sống đức tin. Sau thánh lễ vô cùng ý nghĩa này, anh chị em ca viên còn cùng nhau tham dự một bữa tiệc nhỏ trong niềm vui hân hoan mừng ngày lễ quan thầy.",
-      "images": [
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/001.jpg",
-          "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 1",
-          "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/002.jpg",
-          "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 2",
-          "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/003.jpg",
-          "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 3",
-          "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/004.jpg",
-          "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 4",
-          "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/005.jpg",
-          "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 5",
-          "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/006.jpg",
-          "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 6",
-          "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/007.jpg",
-          "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 7",
-          "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/008.jpg",
-          "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 8",
-          "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/009.jpg",
-          "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 9",
-          "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/010.jpg",
-          "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 10",
-          "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/011.jpg",
-          "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 11",
-          "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-        },
-        {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/012.jpg",
-          "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 12",
-          "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-        }
-      ],
-      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/001.jpg"
+      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/001.jpg",
+      "album": {
+        "manifest": "data/albums/2016/2016-patron.json",
+        "count": 12,
+        "preview": [
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/001.jpg",
+            "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 1",
+            "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/001.jpg",
+            "variants": {}
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/002.jpg",
+            "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 2",
+            "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/002.jpg",
+            "variants": {}
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/003.jpg",
+            "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 3",
+            "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/003.jpg",
+            "variants": {}
+          }
+        ]
+      }
     }
   ],
   "achievements": [
@@ -391,289 +338,61 @@
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/001.jpg",
       "caption": "Tiệc tất niên ca đoàn · ảnh 1",
       "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
-      "event": "Tiệc tất niên ca đoàn"
+      "event": "Tiệc tất niên ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/001.jpg",
+      "variants": {}
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/002.jpg",
       "caption": "Tiệc tất niên ca đoàn · ảnh 2",
       "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
-      "event": "Tiệc tất niên ca đoàn"
+      "event": "Tiệc tất niên ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/002.jpg",
+      "variants": {}
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/003.jpg",
       "caption": "Tiệc tất niên ca đoàn · ảnh 3",
       "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
-      "event": "Tiệc tất niên ca đoàn"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/004.jpg",
-      "caption": "Tiệc tất niên ca đoàn · ảnh 4",
-      "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
-      "event": "Tiệc tất niên ca đoàn"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/005.jpg",
-      "caption": "Tiệc tất niên ca đoàn · ảnh 5",
-      "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
-      "event": "Tiệc tất niên ca đoàn"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/006.jpg",
-      "caption": "Tiệc tất niên ca đoàn · ảnh 6",
-      "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
-      "event": "Tiệc tất niên ca đoàn"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/001.jpg",
-      "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 1",
-      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
-      "event": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/002.jpg",
-      "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 2",
-      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
-      "event": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/003.jpg",
-      "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 3",
-      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
-      "event": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/004.jpg",
-      "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 4",
-      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
-      "event": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/005.jpg",
-      "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 5",
-      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
-      "event": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/006.jpg",
-      "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 6",
-      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
-      "event": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/007.jpg",
-      "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 7",
-      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
-      "event": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/008.jpg",
-      "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 8",
-      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
-      "event": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/009.jpg",
-      "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 9",
-      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
-      "event": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/010.jpg",
-      "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 10",
-      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
-      "event": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/001.jpg",
-      "caption": "May áo choàng đồng phục · ảnh 1",
-      "alt": "Ảnh tư liệu: May áo choàng đồng phục",
-      "event": "May áo choàng đồng phục"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/001.jpg",
-      "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 1",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm",
-      "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/002.jpg",
-      "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 2",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm",
-      "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/003.jpg",
-      "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 3",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm",
-      "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/004.jpg",
-      "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 4",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm",
-      "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/005.jpg",
-      "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 5",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm",
-      "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/006.jpg",
-      "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 6",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm",
-      "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/007.jpg",
-      "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 7",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm",
-      "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/008.jpg",
-      "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 8",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm",
-      "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/009.jpg",
-      "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 9",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm",
-      "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/010.jpg",
-      "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 10",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm",
-      "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/011.jpg",
-      "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 11",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm",
-      "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/012.jpg",
-      "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 12",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm",
-      "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/013.jpg",
-      "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 13",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm",
-      "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/014.jpg",
-      "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 14",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm",
-      "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/015.jpg",
-      "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 15",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm",
-      "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/016.jpg",
-      "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 16",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm",
-      "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/001.jpg",
-      "caption": "Cuộc thi Giáo lý – Kinh Thánh xa quê · ảnh 1",
-      "alt": "Ảnh tư liệu: Cuộc thi Giáo lý – Kinh Thánh xa quê",
-      "event": "Cuộc thi Giáo lý – Kinh Thánh xa quê"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/002.jpg",
-      "caption": "Cuộc thi Giáo lý – Kinh Thánh xa quê · ảnh 2",
-      "alt": "Ảnh tư liệu: Cuộc thi Giáo lý – Kinh Thánh xa quê",
-      "event": "Cuộc thi Giáo lý – Kinh Thánh xa quê"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/003.jpg",
-      "caption": "Cuộc thi Giáo lý – Kinh Thánh xa quê · ảnh 3",
-      "alt": "Ảnh tư liệu: Cuộc thi Giáo lý – Kinh Thánh xa quê",
-      "event": "Cuộc thi Giáo lý – Kinh Thánh xa quê"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/001.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 1",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "event": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/002.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 2",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "event": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/003.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 3",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "event": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/004.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 4",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "event": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/005.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 5",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "event": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/006.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 6",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "event": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/007.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 7",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "event": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/008.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 8",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "event": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/009.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 9",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "event": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/010.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 10",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "event": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/011.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 11",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "event": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/012.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 12",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "event": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu"
+      "event": "Tiệc tất niên ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/003.jpg",
+      "variants": {}
     }
-  ]
+  ],
+  "schemaVersion": 3,
+  "meta": {
+    "revision": 1,
+    "status": "published",
+    "migratedFrom": 1
+  },
+  "galleryAlbum": {
+    "manifest": "data/albums/2016/_gallery.json",
+    "count": 48,
+    "preview": [
+      {
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/001.jpg",
+        "caption": "Tiệc tất niên ca đoàn · ảnh 1",
+        "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
+        "event": "Tiệc tất niên ca đoàn",
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/001.jpg",
+        "variants": {}
+      },
+      {
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/002.jpg",
+        "caption": "Tiệc tất niên ca đoàn · ảnh 2",
+        "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
+        "event": "Tiệc tất niên ca đoàn",
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/002.jpg",
+        "variants": {}
+      },
+      {
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/003.jpg",
+        "caption": "Tiệc tất niên ca đoàn · ảnh 3",
+        "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
+        "event": "Tiệc tất niên ca đoàn",
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/003.jpg",
+        "variants": {}
+      }
+    ]
+  }
 }

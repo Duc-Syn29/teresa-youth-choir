@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "year": 2020,
+  "activityId": "2020-song-ca",
+  "title": "Cuộc thi hát song ca hướng về lễ Quan thầy",
+  "count": 4,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-song-ca/001.jpg",
+      "alt": "Ảnh tư liệu: Cuộc thi hát song ca hướng về lễ Quan thầy",
+      "caption": "Cuộc thi hát song ca hướng về lễ Quan thầy",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-song-ca/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-song-ca/002.jpg",
+      "alt": "Ảnh tư liệu: Cuộc thi hát song ca hướng về lễ Quan thầy",
+      "caption": "Cuộc thi hát song ca hướng về lễ Quan thầy",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-song-ca/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-song-ca/003.jpg",
+      "alt": "Ảnh tư liệu: Cuộc thi hát song ca hướng về lễ Quan thầy",
+      "caption": "Cuộc thi hát song ca hướng về lễ Quan thầy",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-song-ca/003.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-song-ca/004.jpg",
+      "alt": "Ảnh tư liệu: Cuộc thi hát song ca hướng về lễ Quan thầy",
+      "caption": "Cuộc thi hát song ca hướng về lễ Quan thầy",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-song-ca/004.jpg",
+      "variants": {}
+    }
+  ]
+}

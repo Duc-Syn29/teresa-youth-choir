@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "year": 2019,
+  "activityId": "2019-hoi-thao-cecilia",
+  "title": "Hội thao chào mừng lễ Thánh Cecilia",
+  "count": 4,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/hoi-thao-cecilia/001.jpg",
+      "caption": "Hội thao chào mừng lễ Thánh Cecilia · ảnh 1",
+      "alt": "Ảnh tư liệu: Hội thao chào mừng lễ Thánh Cecilia",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/hoi-thao-cecilia/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/hoi-thao-cecilia/002.jpg",
+      "caption": "Hội thao chào mừng lễ Thánh Cecilia · ảnh 2",
+      "alt": "Ảnh tư liệu: Hội thao chào mừng lễ Thánh Cecilia",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/hoi-thao-cecilia/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/hoi-thao-cecilia/003.jpg",
+      "caption": "Hội thao chào mừng lễ Thánh Cecilia · ảnh 3",
+      "alt": "Ảnh tư liệu: Hội thao chào mừng lễ Thánh Cecilia",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/hoi-thao-cecilia/003.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/hoi-thao-cecilia/004.jpg",
+      "caption": "Hội thao chào mừng lễ Thánh Cecilia · ảnh 4",
+      "alt": "Ảnh tư liệu: Hội thao chào mừng lễ Thánh Cecilia",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/hoi-thao-cecilia/004.jpg",
+      "variants": {}
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 {
-  "version": 1,
-  "generatedAt": "2026-08-23T02:53:17.767Z",
+  "schemaVersion": 3,
+  "version": 3,
+  "generatedAt": "2026-08-23T16:12:54.245Z",
   "totals": {
     "years": 12,
     "members": 635,
@@ -13,7 +14,7 @@
         "eyebrow": "Hành trình tiếp nối",
         "title": "Cất tiếng giữa mùa hồng ân",
         "summary": "Ca đoàn bước vào năm 2026 với số lượng ca viên đông hơn, thêm nhiều thánh lễ và các chương trình mang đậm dấu ấn đức tin.",
-        "coverImage": "images/hero.jpg"
+        "coverImage": "images/optimized/hero-1280.jpg"
       },
       "members": {
         "total": 109,
@@ -24,23 +25,23 @@
       "leadership": [
         {
           "role": "chaplain",
+          "label": "Cha đặc trách",
           "name": "Đang cập nhật"
         },
         {
           "role": "leader",
+          "label": "Trưởng ca đoàn",
           "name": "Đang cập nhật"
         },
         {
           "role": "conductor",
+          "label": "Ca trưởng",
           "name": "Đang cập nhật"
         },
         {
           "role": "treasurer",
+          "label": "Thủ quỹ",
           "name": "Đang cập nhật"
-        },
-        {
-          "role": "serviceTeams",
-          "name": "Ban Phụng vụ · Ban Truyền thông · Ban Bác ái · Ban Hậu cần"
         }
       ],
       "events": [
@@ -48,33 +49,41 @@
           "id": "2026-activity-1",
           "title": "Exsultet — Đêm Hòa Nhạc Phục Sinh",
           "type": "Hòa nhạc",
+          "topic": "Phục Sinh",
           "date": "Mùa Phục Sinh 2026",
           "description": "Chương trình tôn vinh mầu nhiệm Phục Sinh của Thiên Chúa.",
-          "image": "images/hero.jpg"
+          "image": "images/optimized/hero-1280.jpg",
+          "imageCount": 0
         },
         {
           "id": "2026-activity-2",
           "title": "Mừng 20 năm Gia Đình Công Giáo Xa Quê Hà Nội",
           "type": "Đại lễ",
+          "topic": "Cộng đoàn",
           "date": "2026",
           "description": "Ca đoàn cùng hiệp thông trong hành trình 20 năm của mái nhà Gia Đình Công Giáo Xa Quê Hà Nội.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2026-activity-3",
           "title": "Phục vụ các thánh lễ và giờ chầu",
           "type": "Thánh lễ",
+          "topic": "Phụng vụ",
           "date": "Trong năm",
           "description": "Tiếp tục phụng sự bằng tiếng hát trong các thánh lễ lớn và giờ chầu.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2026-activity-1786561413635-wqq3s5",
-          "title": "hoà nhạc mừng mẹ lên trời ",
+          "title": "hoà nhạc mừng mẹ lên trời",
           "type": "hoà nhạc",
+          "topic": "Hòa nhạc",
           "date": "14.08.2026",
           "description": "hồng ân tuyệt vời",
-          "image": "images/uploads/2026/hoa-nhac/1786561398970-lequanthay202011.jpg"
+          "image": "images/optimized/uploads/2026/hoa-nhac/1786561398970-lequanthay202011-1280.jpg",
+          "imageCount": 0
         }
       ]
     },
@@ -84,7 +93,7 @@
         "eyebrow": "Một chương mới",
         "title": "Đủ lớn để trao lại yêu thương",
         "summary": "Dấu mốc 10 năm là dịp tạ ơn, nhìn lại hành trình và tổ chức đêm hòa nhạc Hồng Ân Tuyệt Vời.",
-        "coverImage": "images/hero.jpg"
+        "coverImage": "images/optimized/hero-1280.jpg"
       },
       "members": {
         "total": 58,
@@ -95,23 +104,23 @@
       "leadership": [
         {
           "role": "chaplain",
+          "label": "Cha đặc trách",
           "name": "Lm. Giuse Phạm Đức Hiệp"
         },
         {
           "role": "leader",
+          "label": "Trưởng ca đoàn",
           "name": "Têrêsa Nguyễn Khánh Linh"
         },
         {
           "role": "conductor",
+          "label": "Ca trưởng",
           "name": "Gioan Trần Minh Quân"
         },
         {
           "role": "treasurer",
+          "label": "Thủ quỹ",
           "name": "Giuse Đặng Quốc Bảo"
-        },
-        {
-          "role": "serviceTeams",
-          "name": "Ban Phụng vụ · Ban Truyền thông · Ban Đời sống · Ban Hậu cần"
         }
       ],
       "events": [
@@ -119,81 +128,101 @@
           "id": "2025-activity-1",
           "title": "Phụng sự bằng sự hiện diện",
           "type": "Thánh lễ",
+          "topic": "Thánh lễ",
           "date": "Hằng tuần",
           "description": "Duy trì bốn thánh lễ mỗi tháng cùng lịch tập chuyên môn đều đặn.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2025-activity-2",
           "title": "Têrêsa — con đường nhỏ",
           "type": "Lễ Quan thầy",
+          "topic": "Lễ Quan thầy",
           "date": "01.10.2025",
           "description": "Đêm thánh nhạc kể lại linh đạo đơn sơ và tin yêu của Thánh bổn mạng.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2025-activity-3",
           "title": "Hồng Ân Tuyệt Vời",
           "type": "Hòa nhạc",
+          "topic": "Hòa nhạc",
           "date": "2025",
           "description": "Đêm hòa nhạc tạ ơn, kỷ niệm 10 năm thành lập và phát triển của Ca đoàn Giới trẻ Teresa.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2025-activity-4",
           "title": "Tiếng hát đến vùng cao",
           "type": "Thiện nguyện",
+          "topic": "Thiện nguyện",
           "date": "07.2025",
           "description": "Chuyến phục vụ mùa hè kết hợp trao học bổng và sinh hoạt âm nhạc.",
-          "image": "images/gallery/thien-nguyen-2019.jpg"
+          "image": "images/optimized/gallery/thien-nguyen-2019-1280.jpg",
+          "imageCount": 0
         },
         {
           "id": "2025-activity-5",
           "title": "Ở lại trong tình yêu",
           "type": "Tĩnh tâm",
+          "topic": "Tĩnh tâm",
           "date": "03.2025",
           "description": "Hai ngày thinh lặng, cầu nguyện và làm mới lời cam kết phục vụ.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2025-activity-6",
           "title": "Về chung một đội",
           "type": "Du lịch/Team Building",
+          "topic": "Du lịch/Team Building",
           "date": "08.2025",
           "description": "Ba ngày kết nối thế hệ mới với những ca viên đã đồng hành lâu năm.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2025-activity-7",
           "title": "Teresa Games",
           "type": "Hội thao",
+          "topic": "Hội thao",
           "date": "05.2025",
           "description": "Ngày hội thể thao nội bộ với tinh thần vui khỏe và hiệp nhất.",
-          "image": "images/gallery/gan-ket-2024.jpg"
+          "image": "images/optimized/gallery/gan-ket-2024-1280.jpg",
+          "imageCount": 0
         },
         {
           "id": "2025-activity-8",
           "title": "Đêm của hy vọng",
           "type": "Giáng Sinh",
+          "topic": "Giáng Sinh",
           "date": "24.12.2025",
           "description": "Hoạt cảnh và liên khúc Giáng Sinh được dàn dựng bởi chính các ca viên.",
-          "image": "images/gallery/giang-sinh-2022.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2025-activity-9",
           "title": "Khúc ca phục sinh",
           "type": "Phục Sinh",
+          "topic": "Phục Sinh",
           "date": "04.2025",
           "description": "Chương trình phụng vụ trọng điểm với dàn hợp xướng bốn bè.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2025-activity-10",
           "title": "Hát cho ngày hạnh phúc",
           "type": "Hát lễ cưới",
+          "topic": "Hát lễ cưới",
           "date": "Trong năm",
           "description": "Đồng hành trong sáu thánh lễ hôn phối của bạn bè và cựu ca viên.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         }
       ]
     },
@@ -203,7 +232,7 @@
         "eyebrow": "Năm lan tỏa",
         "title": "Cùng nhau cất bước",
         "summary": "Một năm của tĩnh tâm, chuyển giao ban điều hành, thiện nguyện Đông Ấm Na Rì và góp tiếng hát trong Hoan ca mừng 100 năm Dòng Chúa Cứu Thế.",
-        "coverImage": "images/hero.jpg"
+        "coverImage": "images/optimized/hero-1280.jpg"
       },
       "members": {
         "total": 55,
@@ -214,27 +243,28 @@
       "leadership": [
         {
           "role": "chaplain",
+          "label": "Cha đặc trách",
           "name": "Đang cập nhật tư liệu"
         },
         {
           "role": "leader",
+          "label": "Trưởng ca đoàn",
           "name": "Phêrô Đỗ Tiến Hạng"
         },
         {
           "role": "deputyLeader",
+          "label": "Phó ca đoàn",
           "name": "Giuse Trần Viết Vĩ · Giuse Nguyễn Phan Hoài Duy"
         },
         {
           "role": "conductor",
+          "label": "Ca trưởng",
           "name": "Maria Ban Mai"
         },
         {
           "role": "treasurer",
+          "label": "Thủ quỹ",
           "name": "Đang cập nhật tư liệu"
-        },
-        {
-          "role": "serviceTeams",
-          "name": "Ban Phụng vụ · Ban Truyền thông · Ban Đời sống · Ban Hậu cần"
         }
       ],
       "events": [
@@ -242,41 +272,51 @@
           "id": "2024-activity-1",
           "title": "Giữ nhịp phục vụ",
           "type": "Thánh lễ",
+          "topic": "Thánh lễ",
           "date": "Hằng tuần",
           "description": "Duy trì lịch hát, lịch tập và đào tạo thanh nhạc theo nhóm bè.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2024-activity-2",
           "title": "Âm nhạc cho em",
           "type": "Thiện nguyện",
+          "topic": "Thiện nguyện",
           "date": "06.2024",
           "description": "Ngày hội âm nhạc gây quỹ học bổng cho trẻ em khó khăn.",
-          "image": "images/gallery/thien-nguyen-2019.jpg"
+          "image": "images/optimized/gallery/thien-nguyen-2019-1280.jpg",
+          "imageCount": 0
         },
         {
           "id": "2024-activity-3",
           "title": "Trở về nguồn",
           "type": "Tĩnh tâm",
+          "topic": "Tĩnh tâm",
           "date": "03.2024",
           "description": "Hai ngày tĩnh tâm nhìn lại căn tính và linh đạo phục vụ.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2024-activity-4",
           "title": "Cùng nhau cất bước",
           "type": "Du lịch/Team Building",
+          "topic": "Du lịch/Team Building",
           "date": "08.2024",
           "description": "Chuyến đi gắn kết kết hợp đào tạo đội ngũ kế thừa.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2024-activity-5",
           "title": "Người trẻ kể chuyện Giáng Sinh",
           "type": "Giáng Sinh",
+          "topic": "Giáng Sinh",
           "date": "12.2024",
           "description": "Hoạt cảnh và đêm nhạc dành cho cộng đồng giáo xứ.",
-          "image": "images/gallery/giang-sinh-2022.jpg"
+          "image": "images/optimized/gallery/giang-sinh-2022-1280.jpg",
+          "imageCount": 0
         }
       ]
     },
@@ -286,7 +326,7 @@
         "eyebrow": "Năm rực rỡ",
         "title": "Thanh xuân cùng cất tiếng",
         "summary": "Sự đồng hành chuyên môn của ca trưởng Maria Ban Mai mở ra một giai đoạn khởi sắc, với nhiều chuyến đi, phụng vụ và thiện nguyện.",
-        "coverImage": "images/hero.jpg"
+        "coverImage": "images/optimized/hero-1280.jpg"
       },
       "members": {
         "total": 51,
@@ -297,23 +337,23 @@
       "leadership": [
         {
           "role": "chaplain",
+          "label": "Cha đặc trách",
           "name": "Lm. Giuse Phạm Đức Hiệp"
         },
         {
           "role": "leader",
+          "label": "Trưởng ca đoàn",
           "name": "Têrêsa Nguyễn Khánh Linh"
         },
         {
           "role": "conductor",
+          "label": "Ca trưởng",
           "name": "Gioan Trần Minh Quân"
         },
         {
           "role": "treasurer",
+          "label": "Thủ quỹ",
           "name": "Giuse Đặng Quốc Bảo"
-        },
-        {
-          "role": "serviceTeams",
-          "name": "Ban Phụng vụ · Ban Truyền thông · Ban Đời sống · Ban Hậu cần"
         }
       ],
       "events": [
@@ -321,41 +361,51 @@
           "id": "2023-activity-1",
           "title": "Bình minh hy vọng",
           "type": "Phục Sinh",
+          "topic": "Phục Sinh",
           "date": "04.2023",
           "description": "Chương trình hợp xướng bốn bè trong thánh lễ Phục Sinh.",
-          "image": "images/gallery/phung-vu-2025.jpg"
+          "image": "images/optimized/gallery/phung-vu-2025-1280.jpg",
+          "imageCount": 0
         },
         {
           "id": "2023-activity-2",
           "title": "Thanh xuân gọi tên",
           "type": "Du lịch/Team Building",
+          "topic": "Du lịch/Team Building",
           "date": "07.2023",
           "description": "Chuyến team building ba ngày với nhiều hoạt động kết nối.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2023-activity-3",
           "title": "Sức trẻ Têrêsa",
           "type": "Hội thao",
+          "topic": "Hội thao",
           "date": "08.2023",
           "description": "Ngày hội thể thao và âm nhạc dành cho ca viên.",
-          "image": "images/gallery/gan-ket-2024.jpg"
+          "image": "images/optimized/gallery/gan-ket-2024-1280.jpg",
+          "imageCount": 0
         },
         {
           "id": "2023-activity-4",
           "title": "Như một đóa hoa nhỏ",
           "type": "Lễ Quan thầy",
+          "topic": "Lễ Quan thầy",
           "date": "01.10.2023",
           "description": "Đêm diễn nguyện kể chuyện Thánh Têrêsa.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2023-activity-5",
           "title": "Hát cho bạn mình",
           "type": "Hát lễ cưới",
+          "topic": "Hát lễ cưới",
           "date": "Trong năm",
           "description": "Đồng hành trong bốn thánh lễ hôn phối của ca viên.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         }
       ]
     },
@@ -365,7 +415,7 @@
         "eyebrow": "Năm trở về",
         "title": "Gặp lại trong tiếng hát",
         "summary": "Khi dịch dần được kiểm soát, ca đoàn từng bước khôi phục tập hát và phục vụ, dù số lượng ca viên và tinh thần chung còn cần thời gian để hồi phục.",
-        "coverImage": "images/hero.jpg"
+        "coverImage": "images/optimized/hero-1280.jpg"
       },
       "members": {
         "total": 46,
@@ -376,23 +426,23 @@
       "leadership": [
         {
           "role": "chaplain",
+          "label": "Cha đặc trách",
           "name": "Lm. Giuse Phạm Đức Hiệp"
         },
         {
           "role": "leader",
+          "label": "Trưởng ca đoàn",
           "name": "Maria Vũ Thu Hà"
         },
         {
           "role": "conductor",
+          "label": "Ca trưởng",
           "name": "Gioan Trần Minh Quân"
         },
         {
           "role": "treasurer",
+          "label": "Thủ quỹ",
           "name": "Giuse Đặng Quốc Bảo"
-        },
-        {
-          "role": "serviceTeams",
-          "name": "Ban Phụng vụ · Ban Truyền thông · Ban Đời sống · Ban Hậu cần"
         }
       ],
       "events": [
@@ -400,41 +450,51 @@
           "id": "2022-activity-1",
           "title": "Thánh lễ ngày trở lại",
           "type": "Thánh lễ",
+          "topic": "Thánh lễ",
           "date": "03.2022",
           "description": "Lần đầu đội hình đầy đủ cùng hát sau thời gian dài xa cách.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2022-activity-2",
           "title": "Tạ ơn ngày gặp lại",
           "type": "Tĩnh tâm",
+          "topic": "Tĩnh tâm",
           "date": "04.2022",
           "description": "Ngày tĩnh tâm và tái cam kết phục vụ của toàn ca đoàn.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2022-activity-3",
           "title": "Kết nối lại",
           "type": "Du lịch/Team Building",
+          "topic": "Du lịch/Team Building",
           "date": "07.2022",
           "description": "Chuyến đi dành cho thành viên cũ và mười bảy ca viên mới.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2022-activity-4",
           "title": "Năm năm một hành trình",
           "type": "Lễ Quan thầy",
+          "topic": "Lễ Quan thầy",
           "date": "01.10.2022",
           "description": "Mừng sinh nhật ca đoàn với sự trở về của các cựu ca viên.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2022-activity-5",
           "title": "Đêm đoàn viên",
           "type": "Giáng Sinh",
+          "topic": "Giáng Sinh",
           "date": "24.12.2022",
           "description": "Đêm thánh nhạc trực tiếp đầu tiên sau thời gian gián đoạn.",
-          "image": "images/gallery/giang-sinh-2022.jpg"
+          "image": "images/optimized/gallery/giang-sinh-2022-1280.jpg",
+          "imageCount": 0
         }
       ]
     },
@@ -444,7 +504,7 @@
         "eyebrow": "Năm kiên tâm",
         "title": "Niềm tin không tắt",
         "summary": "Đại dịch tiếp tục gây nhiều tổn thương, nhưng những cử chỉ quan tâm và niềm thao thức được trở lại phục vụ đã giữ các ca viên gần nhau.",
-        "coverImage": "images/hero.jpg"
+        "coverImage": "images/optimized/hero-1280.jpg"
       },
       "members": {
         "total": 33,
@@ -455,23 +515,23 @@
       "leadership": [
         {
           "role": "chaplain",
+          "label": "Cha đặc trách",
           "name": "Lm. Giuse Phạm Đức Hiệp"
         },
         {
           "role": "leader",
+          "label": "Trưởng ca đoàn",
           "name": "Maria Vũ Thu Hà"
         },
         {
           "role": "conductor",
+          "label": "Ca trưởng",
           "name": "Maria Nguyễn Diễm My"
         },
         {
           "role": "treasurer",
+          "label": "Thủ quỹ",
           "name": "Giuse Đặng Quốc Bảo"
-        },
-        {
-          "role": "serviceTeams",
-          "name": "Ban Phụng vụ · Ban Truyền thông · Ban Đời sống"
         }
       ],
       "events": [
@@ -479,33 +539,41 @@
           "id": "2021-activity-1",
           "title": "Thánh ca từ căn phòng nhỏ",
           "type": "Hòa nhạc",
+          "topic": "Hòa nhạc",
           "date": "04.2021",
           "description": "Chuỗi video thánh ca ngắn do các nhóm bè tự thu tại nhà.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2021-activity-2",
           "title": "Túi quà bình an",
           "type": "Thiện nguyện",
+          "topic": "Thiện nguyện",
           "date": "08.2021",
           "description": "Đóng góp và chuyển nhu yếu phẩm tới các gia đình gặp khó khăn.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2021-activity-3",
           "title": "Hy vọng trong thinh lặng",
           "type": "Tĩnh tâm",
+          "topic": "Tĩnh tâm",
           "date": "10.2021",
           "description": "Ba tối cầu nguyện trực tuyến mừng lễ bổn mạng.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2021-activity-4",
           "title": "Ngôi sao trong nhà",
           "type": "Giáng Sinh",
+          "topic": "Giáng Sinh",
           "date": "24.12.2021",
           "description": "Chương trình Giáng Sinh trực tuyến kết nối ca viên và gia đình.",
-          "image": "images/gallery/giang-sinh-2022.jpg"
+          "image": "images/optimized/gallery/giang-sinh-2022-1280.jpg",
+          "imageCount": 0
         }
       ]
     },
@@ -526,18 +594,22 @@
       "leadership": [
         {
           "role": "leader",
+          "label": "Trưởng ca đoàn",
           "name": "Giuse Phạm Văn Tĩnh"
         },
         {
           "role": "deputyLeader",
+          "label": "Phó ca đoàn",
           "name": "Phêrô Bùi Ngọc Liêm · Giuse Nguyễn Xuân Hoàn"
         },
         {
           "role": "conductor",
+          "label": "Ca trưởng",
           "name": "Vincente Vũ Hải Ngân"
         },
         {
           "role": "treasurer",
+          "label": "Thủ quỹ",
           "name": "Maria Đặng Thị Thuý"
         }
       ],
@@ -546,105 +618,131 @@
           "id": "2020-opening-covid",
           "title": "Khởi đầu năm và khoảng lặng COVID-19",
           "type": "Gắn kết",
+          "topic": "Sinh hoạt",
           "date": "01–03.2020",
           "description": "Ca đoàn khởi đầu năm với tập hát, phục vụ lễ thường niên và đón ca viên mới trước khi các hoạt động phải tạm dừng vì đại dịch.",
-          "image": ""
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2020-prayer-lent",
           "title": "Giờ cầu nguyện và giao hòa Mùa Chay",
           "type": "Tĩnh tâm",
+          "topic": "Tâm linh",
           "date": "28.02.2020",
           "description": "Cha đặc trách và Ban Điều hành tổ chức giờ cầu nguyện, giải tội để ca viên chuẩn bị tâm hồn đón Mùa Chay.",
-          "image": ""
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2020-return-to-service",
           "title": "Trở lại trong tiếng hát",
           "type": "Thánh lễ",
+          "topic": "Phụng vụ",
           "date": "07–21.05.2020",
-          "description": "Ca đoàn tập hát và phục vụ trở lại sau giãn cách; phục vụ lễ vọng Mừng Chúa Lên Trời và cùng mừng sinh nhật ca viên.",
-          "image": ""
+          "description": "Ca đoàn tập hát và phục vụ trở lại sau thời gian tạm nghỉ; phục vụ lễ vọng Mừng Chúa Lên Trời và cùng mừng sinh nhật ca viên.",
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2020-retreat-thien-ha",
           "title": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
           "type": "Tĩnh tâm",
+          "topic": "Tĩnh tâm",
           "date": "20–21.06.2020",
           "description": "Hai ngày lắng đọng, cầu nguyện, chia sẻ và nhìn lại hành trình chung tại Đan viện Thiên Hà, Hòa Bình.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/001.jpg",
+          "imageCount": 10
         },
         {
           "id": "2020-muon-doi-ta-on",
           "title": "MV Muôn Đời Tạ Ơn",
           "type": "Hòa nhạc",
+          "topic": "Hòa nhạc",
           "date": "06.2020",
           "description": "Món quà âm nhạc đánh dấu 5 năm hình thành và phát triển của Ca đoàn Giới trẻ Têrêsa.",
-          "image": ""
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2020-song-ca",
           "title": "Cuộc thi hát song ca hướng về lễ Quan thầy",
           "type": "Hòa nhạc",
+          "topic": "Gắn kết",
           "date": "09.2020",
           "description": "Các cặp đôi tham gia chương trình hát song ca, cùng giao lưu, gắn kết và hướng về ngày mừng kính Thánh Têrêsa.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-song-ca/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-song-ca/001.jpg",
+          "imageCount": 4
         },
         {
           "id": "2020-patron-feast",
           "title": "Mừng lễ Quan thầy — 5 năm một chặng đường",
           "type": "Lễ Quan thầy",
+          "topic": "Lễ Quan thầy",
           "date": "30.09–01.10.2020",
           "description": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu, cùng tạ ơn hành trình 5 năm của các thế hệ ca viên.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-patron-feast/001.jpg"
-        },
-        {
-          "id": "2020-catechism-service",
-          "title": "Học hỏi giáo lý cùng khối Liên Ca đoàn",
-          "type": "Gắn kết",
-          "date": "20.10.2020",
-          "description": "Các thành viên tham gia cuộc thi giáo lý, cùng trau dồi kiến thức đức tin và xây dựng tinh thần hiệp nhất.",
-          "image": ""
-        },
-        {
-          "id": "2020-dem-dong",
-          "title": "Diễn nguyện Giáng Sinh — Đêm Đông",
-          "type": "Giáng Sinh",
-          "date": "18.12.2020",
-          "description": "Ca đoàn Têrêsa kết hợp cùng Ca đoàn Latinh hợp xướng Đêm Đông trong chương trình diễn nguyện tại Nhà thờ Hàng Bột.",
-          "image": ""
-        },
-        {
-          "id": "2020-ha-giang-charity",
-          "title": "Giáng Sinh Yêu Thương — Hà Giang",
-          "type": "Thiện nguyện",
-          "date": "18–20.12.2020",
-          "description": "Mang quà, sự sẻ chia và tiếng hát Giáng Sinh đến bản người Mông tại xã Thuận Hòa, huyện Vị Xuyên, tỉnh Hà Giang.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/001.jpg"
-        },
-        {
-          "id": "2020-wedding",
-          "title": "Lễ cưới anh Phó Liêm – Dáng",
-          "type": "Hôn phối",
-          "date": "2020",
-          "description": "Khoảnh khắc ca đoàn hiệp thông trong ngày hôn phối của anh Phó ca đoàn Liêm và Dáng.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-wedding/001.jpg"
-        },
-        {
-          "id": "2020-year-end",
-          "title": "Tất niên ca đoàn",
-          "type": "Gắn kết",
-          "date": "2020",
-          "description": "Những phút giây gặp gỡ, sinh hoạt và gắn kết trong dịp tất niên năm 2020.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-patron-feast/001.jpg",
+          "imageCount": 34
         },
         {
           "id": "2020-migrant",
           "title": "Phục vụ Đại lễ Di dân 2020",
           "type": "Đại lễ",
+          "topic": "Phụng vụ",
           "date": "10.2020",
           "description": "Ca đoàn góp tiếng hát phục vụ Đại lễ Di dân và hiệp thông trong đời sống phụng vụ của cộng đoàn.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/001.jpg",
+          "imageCount": 23
+        },
+        {
+          "id": "2020-catechism-service",
+          "title": "Học hỏi giáo lý cùng khối Liên Ca đoàn",
+          "type": "Gắn kết",
+          "topic": "Cộng đoàn",
+          "date": "20.10.2020",
+          "description": "Các thành viên tham gia cuộc thi giáo lý, cùng trau dồi kiến thức đức tin và xây dựng tinh thần hiệp nhất.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2020-wedding",
+          "title": "Lễ cưới anh Phó Liêm – Dáng",
+          "type": "Hôn phối",
+          "topic": "Cộng đoàn",
+          "date": "2020",
+          "description": "Khoảnh khắc ca đoàn hiệp thông trong ngày hôn phối của anh Phó ca đoàn Liêm và Dáng.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-wedding/001.jpg",
+          "imageCount": 2
+        },
+        {
+          "id": "2020-year-end",
+          "title": "Tất niên ca đoàn",
+          "type": "Gắn kết",
+          "topic": "Gắn kết",
+          "date": "2020",
+          "description": "Những phút giây gặp gỡ, sinh hoạt và gắn kết trong dịp tất niên năm 2020.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/001.jpg",
+          "imageCount": 15
+        },
+        {
+          "id": "2020-dem-dong",
+          "title": "Diễn nguyện Giáng Sinh — Đêm Đông",
+          "type": "Giáng Sinh",
+          "topic": "Giáng Sinh",
+          "date": "18.12.2020",
+          "description": "Ca đoàn Têrêsa kết hợp cùng Ca đoàn Latinh hợp xướng Đêm Đông trong chương trình diễn nguyện tại Nhà thờ Hàng Bột.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2020-ha-giang-charity",
+          "title": "Giáng Sinh Yêu Thương — Hà Giang",
+          "type": "Thiện nguyện",
+          "topic": "Thiện nguyện",
+          "date": "18–20.12.2020",
+          "description": "Mang quà, sự sẻ chia và tiếng hát Giáng Sinh đến bản người Mông tại xã Thuận Hòa, huyện Vị Xuyên, tỉnh Hà Giang.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/001.jpg",
+          "imageCount": 19
         }
       ]
     },
@@ -665,18 +763,22 @@
       "leadership": [
         {
           "role": "leader",
+          "label": "Trưởng ca đoàn",
           "name": "Giuse Phạm Văn Tĩnh"
         },
         {
           "role": "deputyLeader",
+          "label": "Phó ca đoàn",
           "name": "Phêrô Bùi Ngọc Liêm · Giuse Nguyễn Xuân Hoàn"
         },
         {
           "role": "conductor",
+          "label": "Ca trưởng",
           "name": "Phê-rô Nguyễn Huy Hùng"
         },
         {
           "role": "treasurer",
+          "label": "Thủ quỹ",
           "name": "Maria Đặng Thị Thuý"
         }
       ],
@@ -685,65 +787,81 @@
           "id": "2019-tinh-tam",
           "title": "Tĩnh tâm 2019",
           "type": "Tĩnh tâm",
+          "topic": "Tĩnh tâm",
           "date": "06 – 07/07/2019",
           "description": "Chủ đề “Tín thác và Cầu nguyện” tại Tam Đảo – Vĩnh Phúc.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/001.jpg",
+          "imageCount": 2
         },
         {
           "id": "2019-dai-hoi-gioi-tre",
           "title": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
           "type": "Đại lễ",
+          "topic": "Đại lễ",
           "date": "28 – 29/09/2019",
           "description": "DCCT Huế – ca đoàn phục vụ Thánh lễ khai mạc đại hội.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/001.jpg",
+          "imageCount": 7
         },
         {
           "id": "2019-le-quan-thay",
           "title": "Lễ Quan Thầy Ca đoàn",
           "type": "Lễ Quan thầy",
+          "topic": "Lễ Quan thầy",
           "date": "08/10/2019",
           "description": "Mừng Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 4 năm thành lập Ca đoàn.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/001.jpg",
+          "imageCount": 3
         },
         {
           "id": "2019-dam-cuoi-quang-minh-do-lieu",
           "title": "Đám cưới Quang Minh – Đỗ Liệu",
           "type": "Thánh lễ",
+          "topic": "Thánh lễ",
           "date": "20/10/2019",
           "description": "Ca đoàn phục vụ Thánh lễ Hôn phối của anh Quang Minh và chị Đỗ Liệu.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/001.jpg",
+          "imageCount": 1
         },
         {
           "id": "2019-hoi-thao-cecilia",
           "title": "Hội thao chào mừng lễ Thánh Cecilia",
           "type": "Hội thao",
+          "topic": "Hội thao",
           "date": "17/11/2019",
           "description": "Ngày hội tình huynh đệ của các ca đoàn trong Giáo xứ Thái Hà.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/hoi-thao-cecilia/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/hoi-thao-cecilia/001.jpg",
+          "imageCount": 4
         },
         {
           "id": "2019-dai-le-di-dan",
           "title": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
           "type": "Đại lễ",
+          "topic": "Đại lễ",
           "date": "25 – 27/11/2019",
           "description": "Ca đoàn kết hợp cùng 3 ca đoàn phục vụ Đại lễ Di dân tại Giáo xứ Thái Hà.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/001.jpg",
+          "imageCount": 13
         },
         {
           "id": "2019-giang-sinh-trao-yeu-thuong",
           "title": "Giáng Sinh Trao Yêu Thương 2019",
           "type": "Thiện nguyện",
+          "topic": "Thiện nguyện",
           "date": "14 – 15/12/2019",
           "description": "Bản Lùng Chang, xã Linh Hồ, huyện Vị Xuyên, Hà Giang.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/001.jpg",
+          "imageCount": 15
         },
         {
           "id": "2019-christmas-prep",
           "title": "Tập múa chuẩn bị cho Giáng Sinh",
           "type": "Giáng Sinh",
+          "topic": "Giáng Sinh",
           "date": "2019",
           "description": "Kho ảnh lưu lại những buổi tập múa chuẩn bị cho mùa Giáng Sinh.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/001.jpg",
+          "imageCount": 2
         }
       ]
     },
@@ -764,18 +882,22 @@
       "leadership": [
         {
           "role": "leader",
+          "label": "Trưởng ca đoàn",
           "name": "Giuse Phạm Văn Tĩnh"
         },
         {
           "role": "deputyLeader",
+          "label": "Phó ca đoàn",
           "name": "Phêrô Bùi Ngọc Liêm · Maria Nguyễn Thị Uyên"
         },
         {
           "role": "conductor",
+          "label": "Ca trưởng",
           "name": "Sơ Maria Mai Phạm C.P · Chị Anna Bảo Trang"
         },
         {
           "role": "treasurer",
+          "label": "Thủ quỹ",
           "name": "Maria Đặng Thị Thuý"
         }
       ],
@@ -784,73 +906,91 @@
           "id": "2018-prayer",
           "title": "Cầu nguyện định kỳ",
           "type": "Cầu nguyện",
+          "topic": "Tâm linh",
           "date": "03.03.2018",
           "description": "Những giờ phút lắng đọng trước Chúa, cầu nguyện cho ca đoàn và từng thành viên.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/001.jpg",
+          "imageCount": 4
         },
         {
           "id": "2018-football",
           "title": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
           "type": "Giao lưu",
+          "topic": "Gắn kết",
           "date": "23.06.2018",
           "description": "Cơ hội gặp gỡ, chia sẻ niềm vui và xây dựng tình huynh đệ với các nhóm trẻ.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/001.jpg",
+          "imageCount": 4
         },
         {
           "id": "2018-scripture",
           "title": "Thi Kinh Thánh tại Giáo xứ Thái Hà",
           "type": "Học hỏi",
+          "topic": "Cộng đoàn",
           "date": "24.06.2018",
           "description": "Cùng học hỏi Lời Chúa và xây dựng nền tảng đức tin vững chắc hơn.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/001.jpg",
+          "imageCount": 3
         },
         {
           "id": "2018-retreat",
           "title": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
           "type": "Tĩnh tâm",
+          "topic": "Tĩnh tâm",
           "date": "15.07.2018",
           "description": "Chủ đề “Trở về cội nguồn” tại Mông Sơn, Yên Bình, Yên Bái.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/001.jpg",
+          "imageCount": 11
         },
         {
           "id": "2018-workshop",
           "title": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo",
           "type": "Hội thảo",
+          "topic": "Cộng đoàn",
           "date": "15.09.2018",
           "description": "Gặp gỡ, học hỏi và chia sẻ về đời sống đức tin, vai trò của người trẻ trong Giáo hội.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/001.jpg",
+          "imageCount": 4
         },
         {
           "id": "2018-patron",
           "title": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
           "type": "Lễ Quan thầy",
+          "topic": "Lễ Quan thầy",
           "date": "10.10.2018",
           "description": "Hoan ca kỷ niệm 3 năm với chủ đề “Điều duy nhất con thực sự ước muốn là yêu cho đến chết vì yêu.”",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/001.jpg",
+          "imageCount": 25
         },
         {
           "id": "2018-election",
           "title": "Bầu Ban điều hành mới",
           "type": "Cộng đoàn",
+          "topic": "Gắn kết",
           "date": "10.11.2018",
           "description": "Cột mốc chuyển giao trách nhiệm, tiếp nối sứ mạng xây dựng ca đoàn.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/001.jpg",
+          "imageCount": 5
         },
         {
           "id": "2018-charity",
           "title": "Giáng Sinh Trao Yêu Thương",
           "type": "Thiện nguyện",
+          "topic": "Thiện nguyện",
           "date": "15–16.12.2018",
           "description": "Hành trình thiện nguyện tại xã Nậm Xé, huyện Văn Bàn, tỉnh Lào Cai.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/001.jpg",
+          "imageCount": 9
         },
         {
           "id": "2018-park-life",
           "title": "Những phút giây sinh hoạt ngoài công viên",
           "type": "Gắn kết",
+          "topic": "Gắn kết",
           "date": "2018",
           "description": "Kho ảnh của những buổi giao lưu, trò chuyện sau giờ tập hát ngoài công viên.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/001.jpg",
+          "imageCount": 11
         }
       ]
     },
@@ -871,18 +1011,22 @@
       "leadership": [
         {
           "role": "leader",
+          "label": "Trưởng ca đoàn",
           "name": "Toma Trần Minh Quân"
         },
         {
           "role": "deputyLeader",
+          "label": "Phó ca đoàn",
           "name": "Phêrô Bùi Ngọc Liêm · Giuse Nguyễn Xuân Hoàn"
         },
         {
           "role": "conductor",
+          "label": "Ca trưởng",
           "name": "Sơ Maria Mai Phạm C.P · Chị Anna Bảo Trang"
         },
         {
           "role": "treasurer",
+          "label": "Thủ quỹ",
           "name": "Maria Đỗ Thị Lan"
         }
       ],
@@ -891,57 +1035,71 @@
           "id": "2017-football",
           "title": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục",
           "type": "Giao lưu",
+          "topic": "Gắn kết",
           "date": "09.03.2017",
           "description": "Một buổi giao hữu để các thành viên vận động, vui chơi và vun đắp tình huynh đệ.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/001.jpg",
+          "imageCount": 4
         },
         {
           "id": "2017-retreat",
           "title": "Tĩnh tâm tại Tam Đảo",
           "type": "Tĩnh tâm",
+          "topic": "Tĩnh tâm",
           "date": "05.08.2017",
           "description": "Khoảng dừng để cầu nguyện, nhìn lại và tiếp tục lên đường phục vụ với một tinh thần mới.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/001.jpg",
+          "imageCount": 12
         },
         {
           "id": "2017-cathedral",
           "title": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
           "type": "Thánh lễ",
+          "topic": "Phụng vụ",
           "date": "25.08.2017",
           "description": "Niềm vui và vinh dự lần đầu được phục vụ Thánh lễ do Đức Hồng Y chủ sự.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/001.jpg",
+          "imageCount": 5
         },
         {
           "id": "2017-patron",
           "title": "Mừng lễ Quan thầy lần thứ hai",
           "type": "Lễ Quan thầy",
+          "topic": "Lễ Quan thầy",
           "date": "20.09.2017",
           "description": "Ngày hân hoan mừng kính Thánh Têrêsa tại thánh đường Giáo xứ Thái Hà.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/001.jpg",
+          "imageCount": 20
         },
         {
           "id": "2017-migrant",
           "title": "Phục vụ Đại lễ Di dân 2017",
           "type": "Đại lễ",
+          "topic": "Phụng vụ",
           "date": "09–11.10.2017",
           "description": "Ca đoàn phục vụ Thánh lễ ngày thứ hai của Đại lễ Di dân tại Nhà thờ Thái Hà.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/001.jpg",
+          "imageCount": 6
         },
         {
           "id": "2017-charity",
           "title": "Thiện nguyện tại Giáo xứ Bó Tờ",
           "type": "Thiện nguyện",
+          "topic": "Thiện nguyện",
           "date": "19.12.2017",
           "description": "Chương trình Thiện nguyện Giáng Sinh đầu tiên tại Giáo phận Lạng Sơn.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/001.jpg",
+          "imageCount": 11
         },
         {
           "id": "2017-review",
           "title": "Họp ca đoàn tổng kết năm 2017",
           "type": "Gắn kết",
+          "topic": "Gắn kết",
           "date": "22.12.2017",
           "description": "Cùng nhìn lại một năm và kiện toàn các ban hướng tới năm 2018.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/001.jpg",
+          "imageCount": 2
         }
       ]
     },
@@ -962,18 +1120,22 @@
       "leadership": [
         {
           "role": "leader",
+          "label": "Trưởng ca đoàn",
           "name": "Toma Trần Minh Quân"
         },
         {
           "role": "deputyLeader",
+          "label": "Phó ca đoàn",
           "name": "Phêrô Bùi Ngọc Liêm · Giuse Nguyễn Xuân Hoàn"
         },
         {
           "role": "conductor",
+          "label": "Ca trưởng",
           "name": "Sơ Maria Vũ Vỹ Cầm · Thầy Phạm Công Minh · Anh Hướng Vũ"
         },
         {
           "role": "treasurer",
+          "label": "Thủ quỹ",
           "name": "Maria Đỗ Thị Lan"
         }
       ],
@@ -982,49 +1144,61 @@
           "id": "2016-year-end",
           "title": "Tiệc tất niên ca đoàn",
           "type": "Gắn kết",
+          "topic": "Gắn kết",
           "date": "31.01.2016",
           "description": "Buổi gặp gỡ thân tình để cùng nhìn lại chặng đường đầu tiên.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/001.jpg",
+          "imageCount": 6
         },
         {
           "id": "2016-phu-da",
           "title": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
           "type": "Đại hội",
+          "topic": "Cộng đoàn",
           "date": "09.04.2016",
           "description": "Gặp gỡ, cầu nguyện và hiệp thông cùng Giới trẻ Tổng Giáo phận Hà Nội.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/001.jpg",
+          "imageCount": 10
         },
         {
           "id": "2016-uniform",
           "title": "May áo choàng đồng phục",
           "type": "Cộng đoàn",
+          "topic": "Gắn kết",
           "date": "13.07.2016",
           "description": "Một quyết định xây dựng bản sắc và dấu hiệu hiệp nhất cho ca đoàn còn non trẻ.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/001.jpg",
+          "imageCount": 1
         },
         {
           "id": "2016-dong-chiem",
           "title": "Tĩnh tâm tại Giáo xứ Đồng Chiêm",
           "type": "Tĩnh tâm",
+          "topic": "Tĩnh tâm",
           "date": "13–14.08.2016",
           "description": "Lần đầu ca đoàn dành trọn hai ngày để cầu nguyện, nhìn lại và làm mới đời sống nội tâm.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/001.jpg",
+          "imageCount": 16
         },
         {
           "id": "2016-scripture",
           "title": "Cuộc thi Giáo lý – Kinh Thánh xa quê",
           "type": "Học hỏi",
+          "topic": "Cộng đoàn",
           "date": "28.09.2016",
           "description": "Ca đoàn tham gia cuộc thi của Ban Giới Trẻ – Gia Đình Công Giáo Xa Quê Hà Nội.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/001.jpg",
+          "imageCount": 3
         },
         {
           "id": "2016-patron",
           "title": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
           "type": "Lễ Quan thầy",
+          "topic": "Lễ Quan thầy",
           "date": "04.10.2016",
           "description": "Lễ bổn mạng và kỷ niệm một năm thành lập ca đoàn tại Nguyện đường Giêrađô.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/001.jpg"
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/001.jpg",
+          "imageCount": 12
         }
       ]
     },
@@ -1034,7 +1208,7 @@
         "eyebrow": "Những bước chân đầu tiên",
         "title": "Những bước chân đầu tiên",
         "summary": "Ngày 20/10/2015, Ca đoàn Giới trẻ Teresa chính thức được thành lập để phục vụ Thánh lễ Giới trẻ lúc 20 giờ tối Thứ Bảy tại Giáo xứ Thái Hà.",
-        "coverImage": "images/hero.jpg"
+        "coverImage": "images/optimized/hero-1280.jpg"
       },
       "members": {
         "total": 30,
@@ -1045,27 +1219,28 @@
       "leadership": [
         {
           "role": "chaplain",
+          "label": "Cha đặc trách",
           "name": "Cha Gioan Lưu Ngọc Quỳnh"
         },
         {
           "role": "leader",
+          "label": "Trưởng ca đoàn",
           "name": "Toma Trần Minh Quân"
         },
         {
           "role": "deputyLeader",
+          "label": "Phó ca đoàn",
           "name": "Phêrô Bùi Ngọc Liêm · Giuse Nguyễn Xuân Hoàn"
         },
         {
           "role": "conductor",
+          "label": "Ca trưởng",
           "name": "Sơ Maria Vũ Vỹ Cầm · Thầy Phạm Công Minh · Anh Hướng Vũ"
         },
         {
           "role": "treasurer",
+          "label": "Thủ quỹ",
           "name": "Maria Đỗ Thị Lan"
-        },
-        {
-          "role": "serviceTeams",
-          "name": "Ban Truyền Thông · Ban Tâm Linh · Ban Liên Kết"
         }
       ],
       "events": [
@@ -1073,41 +1248,51 @@
           "id": "2015-ra-mat-va-su-vu",
           "title": "Thánh lễ ra mắt và bắt đầu sứ vụ",
           "type": "Thành lập",
+          "topic": "Thành lập",
           "date": "20/10/2015",
           "description": "Ca đoàn Giới trẻ Têrêsa chính thức được thành lập và nhận lãnh sứ vụ phục vụ Thánh lễ Giới trẻ lúc 20h00 tối Thứ Bảy hàng tuần tại Giáo xứ Thái Hà.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2015-bau-ban-dieu-hanh-va-bon-mang",
           "title": "Họp bầu Ban Điều Hành và chọn Thánh Bổn Mạng",
           "type": "Thành lập",
+          "topic": "Thành lập",
           "date": "2015",
           "description": "Bầu Ban điều hành nhiệm kỳ đầu và chọn Thánh nữ Têrêsa Hài Đồng Giêsu làm vị thánh bảo trợ.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2015-chien-dich-gieo-hat",
           "title": "Chiến dịch “Gieo hạt” – Tuyển mộ ca viên",
           "type": "Cộng đoàn",
+          "topic": "Cộng đoàn",
           "date": "2015",
           "description": "Những nỗ lực mời gọi đã quy tụ được 25–30 ca viên đầu tiên.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2015-tap-hat-khong-mai-che",
           "title": "Những buổi tập hát “không mái che”",
           "type": "Thánh nhạc",
+          "topic": "Thánh nhạc",
           "date": "2015",
           "description": "Ca viên cùng tập hát dưới sân đền Giêrađô và ở công viên khi chưa có phòng sinh hoạt ổn định.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         },
         {
           "id": "2015-gan-ket-huynh-de",
           "title": "Sinh hoạt gắn kết huynh đệ",
           "type": "Gắn kết",
+          "topic": "Gắn kết",
           "date": "2015",
           "description": "Những buổi trò chuyện và chia sẻ giúp ca đoàn trở thành mái nhà chung giữa lòng Hà Nội.",
-          "image": "images/hero.jpg"
+          "image": "",
+          "imageCount": 0
         }
       ]
     }

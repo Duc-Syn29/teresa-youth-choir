@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "year": 2023,
+  "activityId": "2023-year-gallery",
+  "title": "Album năm 2023",
+  "count": 3,
+  "images": [
+    {
+      "src": "images/gallery/team-building-2023.jpg",
+      "alt": "Team building năm 2023",
+      "event": "Team Building",
+      "caption": "Thanh xuân gọi tên",
+      "id": "images/gallery/team-building-2023.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/team-building-2023-480.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "images/optimized/gallery/team-building-2023-1280.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "images/optimized/gallery/team-building-2023-2048.jpg",
+          "width": 2048,
+          "height": 1364
+        }
+      }
+    },
+    {
+      "src": "images/gallery/phung-vu-2025.jpg",
+      "alt": "Ca đoàn hợp xướng",
+      "event": "Phục Sinh",
+      "caption": "Bình minh hy vọng",
+      "id": "images/gallery/phung-vu-2025.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
+          "width": 480,
+          "height": 290
+        },
+        "medium": {
+          "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
+          "width": 1280,
+          "height": 773
+        },
+        "original": {
+          "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
+          "width": 2048,
+          "height": 1237
+        }
+      }
+    },
+    {
+      "src": "images/gallery/gan-ket-2024.jpg",
+      "alt": "Ngày hội ca viên",
+      "event": "Hội thao",
+      "caption": "Sức trẻ Têrêsa",
+      "id": "images/gallery/gan-ket-2024.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/gan-ket-2024-480.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "images/optimized/gallery/gan-ket-2024-1280.jpg",
+          "width": 1280,
+          "height": 851
+        },
+        "original": {
+          "src": "images/optimized/gallery/gan-ket-2024-2048.jpg",
+          "width": 2048,
+          "height": 1362
+        }
+      }
+    }
+  ]
+}

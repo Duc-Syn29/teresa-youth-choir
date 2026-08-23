@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "year": 2019,
+  "activityId": "2019-christmas-prep",
+  "title": "Tập múa chuẩn bị cho Giáng Sinh",
+  "count": 2,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/001.jpg",
+      "caption": "Tập múa chuẩn bị cho Giáng Sinh · ảnh 1",
+      "alt": "Ảnh tư liệu: Tập múa chuẩn bị cho Giáng Sinh",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/002.jpg",
+      "caption": "Tập múa chuẩn bị cho Giáng Sinh · ảnh 2",
+      "alt": "Ảnh tư liệu: Tập múa chuẩn bị cho Giáng Sinh",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/002.jpg",
+      "variants": {}
+    }
+  ]
+}

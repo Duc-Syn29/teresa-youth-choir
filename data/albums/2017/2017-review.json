@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "year": 2017,
+  "activityId": "2017-review",
+  "title": "Họp ca đoàn tổng kết năm 2017",
+  "count": 2,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/001.jpg",
+      "caption": "Họp ca đoàn tổng kết năm 2017 · ảnh 1",
+      "alt": "Ảnh tư liệu: Họp ca đoàn tổng kết năm 2017",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/002.jpg",
+      "caption": "Họp ca đoàn tổng kết năm 2017 · ảnh 2",
+      "alt": "Ảnh tư liệu: Họp ca đoàn tổng kết năm 2017",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/002.jpg",
+      "variants": {}
+    }
+  ]
+}

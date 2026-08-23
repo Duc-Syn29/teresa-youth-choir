@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "year": 2018,
+  "activityId": "2018-retreat",
+  "title": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+  "count": 11,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/001.jpg",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 1",
+      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/002.jpg",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 2",
+      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/003.jpg",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 3",
+      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/003.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/004.jpg",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 4",
+      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/004.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/005.jpg",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 5",
+      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/005.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/006.jpg",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 6",
+      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/006.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/007.jpg",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 7",
+      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/007.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/008.jpg",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 8",
+      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/008.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/009.jpg",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 9",
+      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/009.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/010.jpg",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 10",
+      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/010.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/011.jpg",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 11",
+      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/011.jpg",
+      "variants": {}
+    }
+  ]
+}

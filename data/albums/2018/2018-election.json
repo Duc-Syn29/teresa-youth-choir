@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "year": 2018,
+  "activityId": "2018-election",
+  "title": "Bầu Ban điều hành mới",
+  "count": 5,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/001.jpg",
+      "caption": "Bầu Ban điều hành mới · ảnh 1",
+      "alt": "Ảnh tư liệu: Bầu Ban điều hành mới",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/002.jpg",
+      "caption": "Bầu Ban điều hành mới · ảnh 2",
+      "alt": "Ảnh tư liệu: Bầu Ban điều hành mới",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/003.jpg",
+      "caption": "Bầu Ban điều hành mới · ảnh 3",
+      "alt": "Ảnh tư liệu: Bầu Ban điều hành mới",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/003.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/004.jpg",
+      "caption": "Bầu Ban điều hành mới · ảnh 4",
+      "alt": "Ảnh tư liệu: Bầu Ban điều hành mới",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/004.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/005.jpg",
+      "caption": "Bầu Ban điều hành mới · ảnh 5",
+      "alt": "Ảnh tư liệu: Bầu Ban điều hành mới",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/005.jpg",
+      "variants": {}
+    }
+  ]
+}

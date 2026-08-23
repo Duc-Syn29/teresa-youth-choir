@@ -1,20 +1,104 @@
 {
   "year": 2025,
-  "theme": { "accent": "#e6b85c" },
+  "theme": {
+    "accent": "#e6b85c"
+  },
   "overview": {
     "eyebrow": "Một chương mới",
     "title": "Đủ lớn để trao lại yêu thương",
     "summary": "Dấu mốc 10 năm là dịp tạ ơn, nhìn lại hành trình và tổ chức đêm hòa nhạc Hồng Ân Tuyệt Vời.",
     "verse": "Hãy vui mừng trong hy vọng, kiên nhẫn lúc gian truân và chuyên cần cầu nguyện.",
     "longDescription": "Mười năm tuy chưa phải là nhiều, nhưng đủ để ca đoàn nhìn lại những khó khăn đã vượt qua và muôn vàn hồng ân đã lãnh nhận. Đêm hòa nhạc Hồng Ân Tuyệt Vời được tổ chức như lời tạ ơn dâng lên Thiên Chúa và lời xác tín rằng mỗi bước đi luôn được bàn tay quan phòng âm thầm nâng đỡ: “Tôi có gì, cũng là nhờ Thiên Chúa” (1 Cr 15,10).",
-    "coverImage": "images/hero.jpg"
+    "coverImage": {
+      "src": "images/hero.jpg",
+      "id": "images/hero.jpg",
+      "alt": "",
+      "caption": "",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/hero-480.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "images/optimized/hero-1280.jpg",
+          "width": 1280,
+          "height": 851
+        },
+        "original": {
+          "src": "images/optimized/hero-2048.jpg",
+          "width": 2048,
+          "height": 1362
+        }
+      }
+    }
   },
   "leadership": {
-    "chaplain": { "name": "Lm. Giuse Phạm Đức Hiệp", "note": "Đồng hành mục vụ" },
-    "leader": { "name": "Têrêsa Nguyễn Khánh Linh", "note": "Nhiệm kỳ 2024–2026" },
-    "conductor": { "name": "Gioan Trần Minh Quân", "note": "Phụ trách chuyên môn" },
-    "treasurer": { "name": "Giuse Đặng Quốc Bảo", "note": "Phụ trách tài chính" },
-    "serviceTeams": ["Ban Phụng vụ", "Ban Truyền thông", "Ban Đời sống", "Ban Hậu cần"]
+    "chaplain": {
+      "note": "Đồng hành mục vụ",
+      "members": [
+        {
+          "name": "Lm. Giuse Phạm Đức Hiệp",
+          "photo": "",
+          "id": "person-chaplain-1azi635"
+        }
+      ]
+    },
+    "leader": {
+      "note": "Nhiệm kỳ 2024–2026",
+      "members": [
+        {
+          "name": "Têrêsa Nguyễn Khánh Linh",
+          "photo": "",
+          "id": "person-leader-0nrde17"
+        }
+      ]
+    },
+    "deputyLeader": {
+      "members": []
+    },
+    "conductor": {
+      "note": "Phụ trách chuyên môn",
+      "members": [
+        {
+          "name": "Gioan Trần Minh Quân",
+          "photo": "",
+          "id": "person-conductor-05udt27"
+        }
+      ]
+    },
+    "treasurer": {
+      "note": "Phụ trách tài chính",
+      "members": [
+        {
+          "name": "Giuse Đặng Quốc Bảo",
+          "photo": "",
+          "id": "person-treasurer-1cayaz5"
+        }
+      ]
+    },
+    "teams": [
+      {
+        "name": "Ban Phụng vụ",
+        "members": [],
+        "id": "team-ban-phung-vu-00z4zag"
+      },
+      {
+        "name": "Ban Truyền thông",
+        "members": [],
+        "id": "team-ban-truyen-thong-07i2mcq"
+      },
+      {
+        "name": "Ban Đời sống",
+        "members": [],
+        "id": "team-ban-doi-song-12o6etq"
+      },
+      {
+        "name": "Ban Hậu cần",
+        "members": [],
+        "id": "team-ban-hau-can-1ofs7ay"
+      }
+    ]
   },
   "members": {
     "total": 58,
@@ -23,16 +107,106 @@
     "notes": "Một gia đình nhiều thế hệ, trong đó mỗi người đều có một vai trò và một chỗ để thuộc về."
   },
   "activities": [
-    { "type": "Thánh lễ", "date": "Hằng tuần", "title": "Phụng sự bằng sự hiện diện", "description": "Duy trì bốn thánh lễ mỗi tháng cùng lịch tập chuyên môn đều đặn." },
-    { "type": "Lễ Quan thầy", "date": "01.10.2025", "title": "Têrêsa — con đường nhỏ", "description": "Đêm thánh nhạc kể lại linh đạo đơn sơ và tin yêu của Thánh bổn mạng." },
-    { "type": "Hòa nhạc", "date": "2025", "title": "Hồng Ân Tuyệt Vời", "description": "Đêm hòa nhạc tạ ơn, kỷ niệm 10 năm thành lập và phát triển của Ca đoàn Giới trẻ Teresa.", "body": "Tiếng hát của nhiều thế hệ được dâng lên như lời tri ân Thiên Chúa, quý cha, ân nhân và những người đã đồng hành." },
-    { "type": "Thiện nguyện", "date": "07.2025", "title": "Tiếng hát đến vùng cao", "description": "Chuyến phục vụ mùa hè kết hợp trao học bổng và sinh hoạt âm nhạc." },
-    { "type": "Tĩnh tâm", "date": "03.2025", "title": "Ở lại trong tình yêu", "description": "Hai ngày thinh lặng, cầu nguyện và làm mới lời cam kết phục vụ." },
-    { "type": "Du lịch/Team Building", "date": "08.2025", "title": "Về chung một đội", "description": "Ba ngày kết nối thế hệ mới với những ca viên đã đồng hành lâu năm." },
-    { "type": "Hội thao", "date": "05.2025", "title": "Teresa Games", "description": "Ngày hội thể thao nội bộ với tinh thần vui khỏe và hiệp nhất." },
-    { "type": "Giáng Sinh", "date": "24.12.2025", "title": "Đêm của hy vọng", "description": "Hoạt cảnh và liên khúc Giáng Sinh được dàn dựng bởi chính các ca viên." },
-    { "type": "Phục Sinh", "date": "04.2025", "title": "Khúc ca phục sinh", "description": "Chương trình phụng vụ trọng điểm với dàn hợp xướng bốn bè." },
-    { "type": "Hát lễ cưới", "date": "Trong năm", "title": "Hát cho ngày hạnh phúc", "description": "Đồng hành trong sáu thánh lễ hôn phối của bạn bè và cựu ca viên." }
+    {
+      "type": "Thánh lễ",
+      "date": "Hằng tuần",
+      "title": "Phụng sự bằng sự hiện diện",
+      "description": "Duy trì bốn thánh lễ mỗi tháng cùng lịch tập chuyên môn đều đặn.",
+      "id": "2025-activity-1",
+      "topic": "Thánh lễ",
+      "body": "Duy trì bốn thánh lễ mỗi tháng cùng lịch tập chuyên môn đều đặn.",
+      "images": []
+    },
+    {
+      "type": "Lễ Quan thầy",
+      "date": "01.10.2025",
+      "title": "Têrêsa — con đường nhỏ",
+      "description": "Đêm thánh nhạc kể lại linh đạo đơn sơ và tin yêu của Thánh bổn mạng.",
+      "id": "2025-activity-2",
+      "topic": "Lễ Quan thầy",
+      "body": "Đêm thánh nhạc kể lại linh đạo đơn sơ và tin yêu của Thánh bổn mạng.",
+      "images": []
+    },
+    {
+      "type": "Hòa nhạc",
+      "date": "2025",
+      "title": "Hồng Ân Tuyệt Vời",
+      "description": "Đêm hòa nhạc tạ ơn, kỷ niệm 10 năm thành lập và phát triển của Ca đoàn Giới trẻ Teresa.",
+      "body": "Tiếng hát của nhiều thế hệ được dâng lên như lời tri ân Thiên Chúa, quý cha, ân nhân và những người đã đồng hành.",
+      "id": "2025-activity-3",
+      "topic": "Hòa nhạc",
+      "images": []
+    },
+    {
+      "type": "Thiện nguyện",
+      "date": "07.2025",
+      "title": "Tiếng hát đến vùng cao",
+      "description": "Chuyến phục vụ mùa hè kết hợp trao học bổng và sinh hoạt âm nhạc.",
+      "id": "2025-activity-4",
+      "topic": "Thiện nguyện",
+      "body": "Chuyến phục vụ mùa hè kết hợp trao học bổng và sinh hoạt âm nhạc.",
+      "images": []
+    },
+    {
+      "type": "Tĩnh tâm",
+      "date": "03.2025",
+      "title": "Ở lại trong tình yêu",
+      "description": "Hai ngày thinh lặng, cầu nguyện và làm mới lời cam kết phục vụ.",
+      "id": "2025-activity-5",
+      "topic": "Tĩnh tâm",
+      "body": "Hai ngày thinh lặng, cầu nguyện và làm mới lời cam kết phục vụ.",
+      "images": []
+    },
+    {
+      "type": "Du lịch/Team Building",
+      "date": "08.2025",
+      "title": "Về chung một đội",
+      "description": "Ba ngày kết nối thế hệ mới với những ca viên đã đồng hành lâu năm.",
+      "id": "2025-activity-6",
+      "topic": "Du lịch/Team Building",
+      "body": "Ba ngày kết nối thế hệ mới với những ca viên đã đồng hành lâu năm.",
+      "images": []
+    },
+    {
+      "type": "Hội thao",
+      "date": "05.2025",
+      "title": "Teresa Games",
+      "description": "Ngày hội thể thao nội bộ với tinh thần vui khỏe và hiệp nhất.",
+      "id": "2025-activity-7",
+      "topic": "Hội thao",
+      "body": "Ngày hội thể thao nội bộ với tinh thần vui khỏe và hiệp nhất.",
+      "images": []
+    },
+    {
+      "type": "Giáng Sinh",
+      "date": "24.12.2025",
+      "title": "Đêm của hy vọng",
+      "description": "Hoạt cảnh và liên khúc Giáng Sinh được dàn dựng bởi chính các ca viên.",
+      "id": "2025-activity-8",
+      "topic": "Giáng Sinh",
+      "body": "Hoạt cảnh và liên khúc Giáng Sinh được dàn dựng bởi chính các ca viên.",
+      "images": []
+    },
+    {
+      "type": "Phục Sinh",
+      "date": "04.2025",
+      "title": "Khúc ca phục sinh",
+      "description": "Chương trình phụng vụ trọng điểm với dàn hợp xướng bốn bè.",
+      "id": "2025-activity-9",
+      "topic": "Phục Sinh",
+      "body": "Chương trình phụng vụ trọng điểm với dàn hợp xướng bốn bè.",
+      "images": []
+    },
+    {
+      "type": "Hát lễ cưới",
+      "date": "Trong năm",
+      "title": "Hát cho ngày hạnh phúc",
+      "description": "Đồng hành trong sáu thánh lễ hôn phối của bạn bè và cựu ca viên.",
+      "id": "2025-activity-10",
+      "topic": "Hát lễ cưới",
+      "body": "Đồng hành trong sáu thánh lễ hôn phối của bạn bè và cựu ca viên.",
+      "images": []
+    }
   ],
   "achievements": [
     "Hoàn thiện kho lưu trữ số cho hành trình 2015–2026.",
@@ -48,28 +222,214 @@
     "Duy trì sự tham gia ổn định giữa nhịp sống bận rộn của người trẻ."
   ],
   "gallery": [
-    { "src": "images/gallery/phung-vu-2025.jpg", "alt": "Ca đoàn phục vụ thánh lễ năm 2025", "event": "Phụng vụ", "caption": "Chung một lời ca" },
-    { "src": "images/gallery/gan-ket-2024.jpg", "alt": "Các ca viên trong ngày hội gắn kết", "event": "Teresa Games", "caption": "Một đội, một nhà" },
-    { "src": "images/gallery/thien-nguyen-2019.jpg", "alt": "Chuyến đi thiện nguyện", "event": "Thiện nguyện", "caption": "Tiếng hát lên đường" },
-    { "src": "images/gallery/team-building-2023.jpg", "alt": "Team building của ca đoàn", "event": "Team Building", "caption": "Thanh xuân ở đây" },
-    { "src": "images/gallery/giang-sinh-2022.jpg", "alt": "Ca đoàn trong đêm Giáng Sinh", "event": "Giáng Sinh", "caption": "Đêm của hy vọng" },
-    { "src": "images/gallery/quan-thay-2017.jpg", "alt": "Thánh lễ Quan thầy", "event": "Quan thầy", "caption": "Trở về nguồn cội" }
+    {
+      "src": "images/gallery/phung-vu-2025.jpg",
+      "alt": "Ca đoàn phục vụ thánh lễ năm 2025",
+      "event": "Phụng vụ",
+      "caption": "Chung một lời ca",
+      "id": "images/gallery/phung-vu-2025.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
+          "width": 480,
+          "height": 290
+        },
+        "medium": {
+          "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
+          "width": 1280,
+          "height": 773
+        },
+        "original": {
+          "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
+          "width": 2048,
+          "height": 1237
+        }
+      }
+    },
+    {
+      "src": "images/gallery/gan-ket-2024.jpg",
+      "alt": "Các ca viên trong ngày hội gắn kết",
+      "event": "Teresa Games",
+      "caption": "Một đội, một nhà",
+      "id": "images/gallery/gan-ket-2024.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/gan-ket-2024-480.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "images/optimized/gallery/gan-ket-2024-1280.jpg",
+          "width": 1280,
+          "height": 851
+        },
+        "original": {
+          "src": "images/optimized/gallery/gan-ket-2024-2048.jpg",
+          "width": 2048,
+          "height": 1362
+        }
+      }
+    },
+    {
+      "src": "images/gallery/thien-nguyen-2019.jpg",
+      "alt": "Chuyến đi thiện nguyện",
+      "event": "Thiện nguyện",
+      "caption": "Tiếng hát lên đường",
+      "id": "images/gallery/thien-nguyen-2019.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/thien-nguyen-2019-480.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "images/optimized/gallery/thien-nguyen-2019-1280.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "images/optimized/gallery/thien-nguyen-2019-2048.jpg",
+          "width": 2048,
+          "height": 1364
+        }
+      }
+    }
   ],
   "sharing": [
-    { "name": "Khánh Linh", "role": "Trưởng ca đoàn 2025", "quote": "Trưởng thành không phải là đi thật xa khỏi điểm bắt đầu, mà là biết mang tinh thần ngày đầu tiên vào mỗi việc mình làm hôm nay." },
-    { "name": "Minh Quân", "role": "Ca trưởng 2025", "quote": "Chất lượng của một hợp xướng bắt đầu từ kỹ thuật, nhưng sức chạm của nó luôn bắt đầu từ tình yêu giữa những người đang hát." },
-    { "name": "Thanh Vy", "role": "Ca viên 2025", "quote": "Mỗi bức ảnh, mỗi mẩu ghi chép được lưu lại để mai này chúng mình nhớ rằng đã từng có một tuổi trẻ đẹp đến thế." },
-    { "name": "Bảo An", "role": "Ca viên mới", "quote": "Mình đến vì thích hát, nhưng ở lại vì tìm thấy một gia đình." }
+    {
+      "name": "Khánh Linh",
+      "role": "Trưởng ca đoàn 2025",
+      "quote": "Trưởng thành không phải là đi thật xa khỏi điểm bắt đầu, mà là biết mang tinh thần ngày đầu tiên vào mỗi việc mình làm hôm nay."
+    },
+    {
+      "name": "Minh Quân",
+      "role": "Ca trưởng 2025",
+      "quote": "Chất lượng của một hợp xướng bắt đầu từ kỹ thuật, nhưng sức chạm của nó luôn bắt đầu từ tình yêu giữa những người đang hát."
+    },
+    {
+      "name": "Thanh Vy",
+      "role": "Ca viên 2025",
+      "quote": "Mỗi bức ảnh, mỗi mẩu ghi chép được lưu lại để mai này chúng mình nhớ rằng đã từng có một tuổi trẻ đẹp đến thế."
+    },
+    {
+      "name": "Bảo An",
+      "role": "Ca viên mới",
+      "quote": "Mình đến vì thích hát, nhưng ở lại vì tìm thấy một gia đình."
+    }
   ],
   "emotionJournal": [
-    { "date": "12.01", "title": "Buổi tuyển ca viên mới", "text": "Mười hai gương mặt bỡ ngỡ bước vào phòng tập, giống hệt chúng mình của nhiều năm trước.", "mood": "Háo hức" },
-    { "date": "20.04", "title": "Alleluia", "text": "Sau tuần thánh dài, cả ca đoàn cùng cất tiếng hát mừng Phục Sinh trong ánh sáng đầu ngày.", "mood": "Hân hoan" },
-    { "date": "15.06", "title": "Sau tấm màn sân khấu", "text": "Concert kết thúc. Không ai nói gì, chỉ ôm nhau thật lâu giữa những giá nhạc còn chưa kịp dọn.", "mood": "Vỡ òa" },
-    { "date": "01.10", "title": "Mười ngọn nến", "text": "Mỗi thế hệ thắp một ngọn nến. Têrêsa đã lớn lên bằng những bàn tay trao lại ánh sáng.", "mood": "Biết ơn" }
+    {
+      "date": "12.01",
+      "title": "Buổi tuyển ca viên mới",
+      "text": "Mười hai gương mặt bỡ ngỡ bước vào phòng tập, giống hệt chúng mình của nhiều năm trước.",
+      "mood": "Háo hức"
+    },
+    {
+      "date": "20.04",
+      "title": "Alleluia",
+      "text": "Sau tuần thánh dài, cả ca đoàn cùng cất tiếng hát mừng Phục Sinh trong ánh sáng đầu ngày.",
+      "mood": "Hân hoan"
+    },
+    {
+      "date": "15.06",
+      "title": "Sau tấm màn sân khấu",
+      "text": "Concert kết thúc. Không ai nói gì, chỉ ôm nhau thật lâu giữa những giá nhạc còn chưa kịp dọn.",
+      "mood": "Vỡ òa"
+    },
+    {
+      "date": "01.10",
+      "title": "Mười ngọn nến",
+      "text": "Mỗi thế hệ thắp một ngọn nến. Têrêsa đã lớn lên bằng những bàn tay trao lại ánh sáng.",
+      "mood": "Biết ơn"
+    }
   ],
   "yearMark": {
     "title": "Trao lại ánh sáng.",
     "description": "2025 đánh dấu sự chuyển giao đẹp đẽ giữa các thế hệ: người đi trước trở về đồng hành, người đang phục vụ dám nhận trách nhiệm, còn những gương mặt mới bắt đầu viết chương của riêng mình.",
     "highlight": "58 ca viên · 4 thế hệ · 1 gia đình"
+  },
+  "schemaVersion": 3,
+  "meta": {
+    "revision": 1,
+    "status": "published",
+    "migratedFrom": 1
+  },
+  "galleryAlbum": {
+    "manifest": "data/albums/2025/_gallery.json",
+    "count": 6,
+    "preview": [
+      {
+        "src": "images/gallery/phung-vu-2025.jpg",
+        "alt": "Ca đoàn phục vụ thánh lễ năm 2025",
+        "event": "Phụng vụ",
+        "caption": "Chung một lời ca",
+        "id": "images/gallery/phung-vu-2025.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
+            "width": 480,
+            "height": 290
+          },
+          "medium": {
+            "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
+            "width": 1280,
+            "height": 773
+          },
+          "original": {
+            "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
+            "width": 2048,
+            "height": 1237
+          }
+        }
+      },
+      {
+        "src": "images/gallery/gan-ket-2024.jpg",
+        "alt": "Các ca viên trong ngày hội gắn kết",
+        "event": "Teresa Games",
+        "caption": "Một đội, một nhà",
+        "id": "images/gallery/gan-ket-2024.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "images/optimized/gallery/gan-ket-2024-480.jpg",
+            "width": 480,
+            "height": 319
+          },
+          "medium": {
+            "src": "images/optimized/gallery/gan-ket-2024-1280.jpg",
+            "width": 1280,
+            "height": 851
+          },
+          "original": {
+            "src": "images/optimized/gallery/gan-ket-2024-2048.jpg",
+            "width": 2048,
+            "height": 1362
+          }
+        }
+      },
+      {
+        "src": "images/gallery/thien-nguyen-2019.jpg",
+        "alt": "Chuyến đi thiện nguyện",
+        "event": "Thiện nguyện",
+        "caption": "Tiếng hát lên đường",
+        "id": "images/gallery/thien-nguyen-2019.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "images/optimized/gallery/thien-nguyen-2019-480.jpg",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "images/optimized/gallery/thien-nguyen-2019-1280.jpg",
+            "width": 1280,
+            "height": 853
+          },
+          "original": {
+            "src": "images/optimized/gallery/thien-nguyen-2019-2048.jpg",
+            "width": 2048,
+            "height": 1364
+          }
+        }
+      }
+    ]
   }
 }

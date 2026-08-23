@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "year": 2016,
+  "activityId": "2016-scripture",
+  "title": "Cuộc thi Giáo lý – Kinh Thánh xa quê",
+  "count": 3,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/001.jpg",
+      "caption": "Cuộc thi Giáo lý – Kinh Thánh xa quê · ảnh 1",
+      "alt": "Ảnh tư liệu: Cuộc thi Giáo lý – Kinh Thánh xa quê",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/002.jpg",
+      "caption": "Cuộc thi Giáo lý – Kinh Thánh xa quê · ảnh 2",
+      "alt": "Ảnh tư liệu: Cuộc thi Giáo lý – Kinh Thánh xa quê",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/003.jpg",
+      "caption": "Cuộc thi Giáo lý – Kinh Thánh xa quê · ảnh 3",
+      "alt": "Ảnh tư liệu: Cuộc thi Giáo lý – Kinh Thánh xa quê",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/003.jpg",
+      "variants": {}
+    }
+  ]
+}

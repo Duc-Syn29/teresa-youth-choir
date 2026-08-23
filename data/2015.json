@@ -1,26 +1,134 @@
 {
   "year": 2015,
-  "theme": { "accent": "#7dd3fc" },
+  "theme": {
+    "accent": "#7dd3fc"
+  },
   "overview": {
     "eyebrow": "Những bước chân đầu tiên",
     "title": "Những bước chân đầu tiên",
     "summary": "Ngày 20/10/2015, Ca đoàn Giới trẻ Teresa chính thức được thành lập để phục vụ Thánh lễ Giới trẻ lúc 20 giờ tối Thứ Bảy tại Giáo xứ Thái Hà.",
     "verse": "Hãy hát mừng Đức Chúa một bài ca mới. (TV96,1)",
-    "longDescription": "Năm 2015 đánh dấu sự ra đời của Ca đoàn Giới trẻ Têrêsa, khởi nguồn từ thao thức của Cha Gioan Lưu Ngọc Quỳnh và sự nâng đỡ của quý Cha Dòng Chúa Cứu Thế. Ca đoàn chính thức được thành lập vào ngày 20/10/2015, nhằm chuyên trách phục vụ Thánh lễ Giới trẻ 20h00 tối Thứ Bảy vừa được mở thêm tại Giáo xứ Thái Hà.  Dưới sự dẫn dắt của Ban điều hành tiên khởi cùng Cha Gioan, ca đoàn đã chọn Thánh nữ Têrêsa Hài Đồng Giêsu làm Bổn mạng, hướng tới tinh thần cốt lõi: “Hiệp nhất - Yêu thương - Phục vụ”. Nơi đây không chỉ quy tụ những bạn trẻ yêu Thánh nhạc mà còn trở thành mái nhà chung ấm áp cho những người con xa quê đang học tập và làm việc tại Hà Nội.  Giai đoạn đầu, ca đoàn đối mặt với rất nhiều khó khăn và thiếu thốn: nhân sự còn ít ỏi, không có phòng sinh hoạt cố định, nhiều buổi phải tập hát ngoài sân đền Giêrađô hay công viên. Tuy nhiên, chính trong hoàn cảnh đơn sơ ấy, ngọn lửa đức tin, sự hy sinh và lòng quảng đại của những ca viên đầu tiên đã vượt lên tất cả, đặt những viên gạch nền móng vững chắc cho sự phát triển của ca đoàn sau này. ",
-    "coverImage": "images/hero.jpg"
+    "longDescription": "Năm 2015 đánh dấu sự ra đời của Ca đoàn Giới trẻ Têrêsa, khởi nguồn từ thao thức của Cha Gioan Lưu Ngọc Quỳnh và sự nâng đỡ của quý Cha Dòng Chúa Cứu Thế. Ca đoàn chính thức được thành lập vào ngày 20/10/2015, nhằm chuyên trách phục vụ Thánh lễ Giới trẻ 20h00 tối Thứ Bảy vừa được mở thêm tại Giáo xứ Thái Hà.  Dưới sự dẫn dắt của Ban điều hành tiên khởi cùng Cha Gioan, ca đoàn đã chọn Thánh nữ Têrêsa Hài Đồng Giêsu làm Bổn mạng, hướng tới tinh thần cốt lõi: “Hiệp nhất - Yêu thương - Phục vụ”. Nơi đây không chỉ quy tụ những bạn trẻ yêu Thánh nhạc mà còn trở thành mái nhà chung ấm áp cho những người con xa quê đang học tập và làm việc tại Hà Nội.  Giai đoạn đầu, ca đoàn đối mặt với rất nhiều khó khăn và thiếu thốn: nhân sự còn ít ỏi, không có phòng sinh hoạt cố định, nhiều buổi phải tập hát ngoài sân đền Giêrađô hay công viên. Tuy nhiên, chính trong hoàn cảnh đơn sơ ấy, ngọn lửa đức tin, sự hy sinh và lòng quảng đại của những ca viên đầu tiên đã vượt lên tất cả, đặt những viên gạch nền móng vững chắc cho sự phát triển của ca đoàn sau này.",
+    "coverImage": {
+      "src": "images/hero.jpg",
+      "id": "images/hero.jpg",
+      "alt": "",
+      "caption": "",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/hero-480.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "images/optimized/hero-1280.jpg",
+          "width": 1280,
+          "height": 851
+        },
+        "original": {
+          "src": "images/optimized/hero-2048.jpg",
+          "width": 2048,
+          "height": 1362
+        }
+      }
+    }
   },
   "leadership": {
-    "chaplain": { "name": "Cha Gioan Lưu Ngọc Quỳnh" },
-    "leader": { "name": "Toma Trần Minh Quân" },
-    "deputyLeader": { "name": "Phêrô Bùi Ngọc Liêm · Giuse Nguyễn Xuân Hoàn" },
-    "conductor": { "name": "Sơ Maria Vũ Vỹ Cầm · Thầy Phạm Công Minh · Anh Hướng Vũ" },
-    "treasurer": { "name": "Maria Đỗ Thị Lan" },
+    "chaplain": {
+      "members": [
+        {
+          "name": "Cha Gioan Lưu Ngọc Quỳnh",
+          "photo": "",
+          "id": "person-chaplain-1xxp2y0"
+        }
+      ]
+    },
+    "leader": {
+      "members": [
+        {
+          "name": "Toma Trần Minh Quân",
+          "photo": "",
+          "id": "person-leader-1g8fktg"
+        }
+      ]
+    },
+    "deputyLeader": {
+      "members": [
+        {
+          "name": "Phêrô Bùi Ngọc Liêm",
+          "photo": "",
+          "id": "person-deputyleader-1cstyko"
+        },
+        {
+          "name": "Giuse Nguyễn Xuân Hoàn",
+          "photo": "",
+          "id": "person-deputyleader-05nguth"
+        }
+      ]
+    },
+    "conductor": {
+      "members": [
+        {
+          "name": "Sơ Maria Vũ Vỹ Cầm",
+          "photo": "",
+          "id": "person-conductor-0rf2di5"
+        },
+        {
+          "name": "Thầy Phạm Công Minh",
+          "photo": "",
+          "id": "person-conductor-1lbxz2j"
+        },
+        {
+          "name": "Anh Hướng Vũ",
+          "photo": "",
+          "id": "person-conductor-038efm6"
+        }
+      ]
+    },
+    "treasurer": {
+      "members": [
+        {
+          "name": "Maria Đỗ Thị Lan",
+          "photo": "",
+          "id": "person-treasurer-0hpsbn1"
+        }
+      ]
+    },
     "teams": [
-      { "name": "Ban Truyền Thông", "members": [{ "name": "Cua Tồ" }] },
-      { "name": "Ban Tâm Linh", "members": [{ "name": "Maria Nguyễn Thị Uyên" }] },
-      { "name": "Ban Liên Kết", "members": [{ "name": "Maria Đỗ Thị Liệu" }] }
-    ],
-    "serviceTeams": ["Ban Truyền Thông", "Ban Tâm Linh", "Ban Liên Kết"]
+      {
+        "name": "Ban Truyền Thông",
+        "members": [
+          {
+            "name": "Cua Tồ",
+            "id": "team-member-ban-truyen-thong-0yi2z1o",
+            "photo": ""
+          }
+        ],
+        "id": "team-ban-truyen-thong-09sghel"
+      },
+      {
+        "name": "Ban Tâm Linh",
+        "members": [
+          {
+            "name": "Maria Nguyễn Thị Uyên",
+            "id": "team-member-ban-tam-linh-096gyz1",
+            "photo": ""
+          }
+        ],
+        "id": "team-ban-tam-linh-1fg3aec"
+      },
+      {
+        "name": "Ban Liên Kết",
+        "members": [
+          {
+            "name": "Maria Đỗ Thị Liệu",
+            "id": "team-member-ban-lien-ket-1xlh7na",
+            "photo": ""
+          }
+        ],
+        "id": "team-ban-lien-ket-0lvdsa6"
+      }
+    ]
   },
   "members": {
     "total": 30,
@@ -35,7 +143,9 @@
       "date": "20/10/2015",
       "title": "Thánh lễ ra mắt và bắt đầu sứ vụ",
       "description": "Ca đoàn Giới trẻ Têrêsa chính thức được thành lập và nhận lãnh sứ vụ phục vụ Thánh lễ Giới trẻ lúc 20h00 tối Thứ Bảy hàng tuần tại Giáo xứ Thái Hà.",
-      "body": "Đánh dấu mốc son đầu tiên, Ca đoàn Giới trẻ Têrêsa chính thức được thành lập và nhận lãnh sứ vụ phục vụ Thánh lễ Giới trẻ lúc 20h00 tối Thứ Bảy hàng tuần tại Giáo xứ Thái Hà. Đây là Thánh lễ đầu tiên những tiếng hát của ca đoàn được cất lên một cách chính thức, nhỏ bé nhưng chan chứa niềm tin và sự tự hào."
+      "body": "Đánh dấu mốc son đầu tiên, Ca đoàn Giới trẻ Têrêsa chính thức được thành lập và nhận lãnh sứ vụ phục vụ Thánh lễ Giới trẻ lúc 20h00 tối Thứ Bảy hàng tuần tại Giáo xứ Thái Hà. Đây là Thánh lễ đầu tiên những tiếng hát của ca đoàn được cất lên một cách chính thức, nhỏ bé nhưng chan chứa niềm tin và sự tự hào.",
+      "topic": "Thành lập",
+      "images": []
     },
     {
       "id": "2015-bau-ban-dieu-hanh-va-bon-mang",
@@ -43,7 +153,9 @@
       "date": "2015",
       "title": "Họp bầu Ban Điều Hành và chọn Thánh Bổn Mạng",
       "description": "Bầu Ban điều hành nhiệm kỳ đầu và chọn Thánh nữ Têrêsa Hài Đồng Giêsu làm vị thánh bảo trợ.",
-      "body": "Dưới sự hướng dẫn của Cha Gioan Lưu Ngọc Quỳnh, những anh chị em nòng cốt đã ngồi lại cùng nhau để bầu ra Ban điều hành nhiệm kỳ đầu tiên, đồng thời thống nhất chọn Thánh nữ Têrêsa Hài Đồng Giêsu làm vị thánh bảo trợ. Cùng với đó, tinh thần “Hiệp nhất - Yêu thương - Phục vụ” chính thức được chọn làm kim chỉ nam cho mọi hoạt động."
+      "body": "Dưới sự hướng dẫn của Cha Gioan Lưu Ngọc Quỳnh, những anh chị em nòng cốt đã ngồi lại cùng nhau để bầu ra Ban điều hành nhiệm kỳ đầu tiên, đồng thời thống nhất chọn Thánh nữ Têrêsa Hài Đồng Giêsu làm vị thánh bảo trợ. Cùng với đó, tinh thần “Hiệp nhất - Yêu thương - Phục vụ” chính thức được chọn làm kim chỉ nam cho mọi hoạt động.",
+      "topic": "Thành lập",
+      "images": []
     },
     {
       "id": "2015-chien-dich-gieo-hat",
@@ -51,7 +163,9 @@
       "date": "2015",
       "title": "Chiến dịch “Gieo hạt” – Tuyển mộ ca viên",
       "description": "Những nỗ lực mời gọi đã quy tụ được 25–30 ca viên đầu tiên.",
-      "body": "Trong những ngày tháng thiếu thốn ban đầu, các anh chị em trong Ban điều hành đã tích cực đi lại, gặp gỡ và mời gọi những bạn trẻ hay đi lễ tại Giáo xứ Thái Hà tham gia ca đoàn. Những nỗ lực không mệt mỏi này đã quy tụ được 25 - 30 ca viên đầu tiên."
+      "body": "Trong những ngày tháng thiếu thốn ban đầu, các anh chị em trong Ban điều hành đã tích cực đi lại, gặp gỡ và mời gọi những bạn trẻ hay đi lễ tại Giáo xứ Thái Hà tham gia ca đoàn. Những nỗ lực không mệt mỏi này đã quy tụ được 25 - 30 ca viên đầu tiên.",
+      "topic": "Cộng đoàn",
+      "images": []
     },
     {
       "id": "2015-tap-hat-khong-mai-che",
@@ -59,7 +173,9 @@
       "date": "2015",
       "title": "Những buổi tập hát “không mái che”",
       "description": "Ca viên cùng tập hát dưới sân đền Giêrađô và ở công viên khi chưa có phòng sinh hoạt ổn định.",
-      "body": "Để chuẩn bị cho các Thánh lễ cuối tuần, ca đoàn duy trì lịch tập hát đều đặn. Do chưa có phòng sinh hoạt ổn định, các ca viên đã cùng nhau tập hát dưới sân đền Giêrađô hay thậm chí ở các công viên. Những buổi tập dẫu sương gió, thiếu thốn đàn hát nhưng lại vô cùng ấm áp tình huynh đệ."
+      "body": "Để chuẩn bị cho các Thánh lễ cuối tuần, ca đoàn duy trì lịch tập hát đều đặn. Do chưa có phòng sinh hoạt ổn định, các ca viên đã cùng nhau tập hát dưới sân đền Giêrađô hay thậm chí ở các công viên. Những buổi tập dẫu sương gió, thiếu thốn đàn hát nhưng lại vô cùng ấm áp tình huynh đệ.",
+      "topic": "Thánh nhạc",
+      "images": []
     },
     {
       "id": "2015-gan-ket-huynh-de",
@@ -67,7 +183,9 @@
       "date": "2015",
       "title": "Sinh hoạt gắn kết huynh đệ",
       "description": "Những buổi trò chuyện và chia sẻ giúp ca đoàn trở thành mái nhà chung giữa lòng Hà Nội.",
-      "body": "Sau mỗi Thánh lễ hay giờ tập hát, ca đoàn tổ chức những buổi sinh hoạt, trò chuyện, chia sẻ nhanh để các bạn trẻ xa quê được xích lại gần nhau hơn, biến ca đoàn thực sự trở thành một “mái nhà chung” giữa lòng Hà Nội."
+      "body": "Sau mỗi Thánh lễ hay giờ tập hát, ca đoàn tổ chức những buổi sinh hoạt, trò chuyện, chia sẻ nhanh để các bạn trẻ xa quê được xích lại gần nhau hơn, biến ca đoàn thực sự trở thành một “mái nhà chung” giữa lòng Hà Nội.",
+      "topic": "Gắn kết",
+      "images": []
     }
   ],
   "achievements": [
@@ -87,5 +205,11 @@
     "title": "Những bước chân đầu tiên.",
     "description": "Từ những khó khăn và đơn sơ ban đầu, những trái tim trẻ đã mang ngọn lửa đức tin, tình yêu, sự hy sinh và tinh thần phục vụ; như những hạt mầm bé nhỏ được gieo vào lòng đất và trổ sinh ra nhiều hoa trái.",
     "highlight": "20/10/2015 · Ngày thành lập"
+  },
+  "schemaVersion": 3,
+  "meta": {
+    "revision": 1,
+    "status": "published",
+    "migratedFrom": 1
   }
 }

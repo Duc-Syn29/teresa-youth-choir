@@ -1,0 +1,14 @@
+{
+  "name": "teresa-youth-choir-archive",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Kho nhật ký số của Ca đoàn Giới trẻ Têrêsa",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "validate:data": "node scripts/validate-data.mjs --strict --check-media",
+    "optimize:images": "node scripts/optimize-local-images.mjs --write",
+    "check:js": "node --check js/schema.js && node --check js/store.js && node --check js/main.js && node --check js/year.js && node --check js/activity.js && node --check js/admin.js",
+    "check:worker": "node --input-type=module --check < cloudflare-worker/worker.js",
+    "check": "npm run validate:data && npm test && npm run check:js && npm run check:worker"
+  }
+}

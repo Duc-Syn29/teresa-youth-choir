@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "year": 2019,
+  "activityId": "2019-dam-cuoi-quang-minh-do-lieu",
+  "title": "Đám cưới Quang Minh – Đỗ Liệu",
+  "count": 1,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/001.jpg",
+      "caption": "Đám cưới Quang Minh – Đỗ Liệu · ảnh 1",
+      "alt": "Ảnh tư liệu: Đám cưới Quang Minh – Đỗ Liệu",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/001.jpg",
+      "variants": {}
+    }
+  ]
+}

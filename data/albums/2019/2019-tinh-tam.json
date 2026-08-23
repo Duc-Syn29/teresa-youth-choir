@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "year": 2019,
+  "activityId": "2019-tinh-tam",
+  "title": "Tĩnh tâm 2019",
+  "count": 2,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/001.jpg",
+      "caption": "Tĩnh tâm 2019 · ảnh 1",
+      "alt": "Ảnh tư liệu: Tĩnh tâm 2019",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/002.jpg",
+      "caption": "Tĩnh tâm 2019 · ảnh 2",
+      "alt": "Ảnh tư liệu: Tĩnh tâm 2019",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/002.jpg",
+      "variants": {}
+    }
+  ]
+}

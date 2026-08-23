@@ -9,30 +9,95 @@
     "summary": "Ca đoàn bước vào năm 2026 với số lượng ca viên đông hơn, thêm nhiều thánh lễ và các chương trình mang đậm dấu ấn đức tin.",
     "verse": "Hãy vui mừng luôn mãi, cầu nguyện không ngừng, và tạ ơn trong mọi hoàn cảnh.",
     "longDescription": "Năm 2026, Ca đoàn Giới trẻ Teresa tiếp tục chuyển mình mạnh mẽ: quy tụ thêm đông đảo ca viên, phục vụ nhiều thánh lễ lớn và các giờ chầu. Đêm Hòa Nhạc Phục Sinh Exsultet là một dấu ấn mới, tôn vinh mầu nhiệm Phục Sinh. Niềm vui ấy hòa cùng Đại lễ kỷ niệm 20 năm Gia Đình Công Giáo Xa Quê Hà Nội – mái nhà đã bao bọc và nâng đỡ ca đoàn trên hành trình 11 năm.",
-    "coverImage": "images/hero.jpg"
+    "coverImage": {
+      "src": "images/hero.jpg",
+      "id": "images/hero.jpg",
+      "alt": "",
+      "caption": "",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/hero-480.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "images/optimized/hero-1280.jpg",
+          "width": 1280,
+          "height": 851
+        },
+        "original": {
+          "src": "images/optimized/hero-2048.jpg",
+          "width": 2048,
+          "height": 1362
+        }
+      }
+    }
   },
   "leadership": {
     "chaplain": {
-      "name": "Đang cập nhật",
-      "note": "Đồng hành mục vụ"
+      "note": "Đồng hành mục vụ",
+      "members": [
+        {
+          "name": "Đang cập nhật",
+          "photo": "",
+          "id": "person-chaplain-1fopim4"
+        }
+      ]
     },
     "leader": {
-      "name": "Đang cập nhật",
-      "note": "Ban điều hành năm 2026"
+      "note": "Ban điều hành năm 2026",
+      "members": [
+        {
+          "name": "Đang cập nhật",
+          "photo": "",
+          "id": "person-leader-03dccur"
+        }
+      ]
+    },
+    "deputyLeader": {
+      "members": []
     },
     "conductor": {
-      "name": "Đang cập nhật",
-      "note": "Đồng hành chuyên môn"
+      "note": "Đồng hành chuyên môn",
+      "members": [
+        {
+          "name": "Đang cập nhật",
+          "photo": "",
+          "id": "person-conductor-0cj4cdh"
+        }
+      ]
     },
     "treasurer": {
-      "name": "Đang cập nhật",
-      "note": "Phụ trách tài chính"
+      "note": "Phụ trách tài chính",
+      "members": [
+        {
+          "name": "Đang cập nhật",
+          "photo": "",
+          "id": "person-treasurer-0hd8bf5"
+        }
+      ]
     },
-    "serviceTeams": [
-      "Ban Phụng vụ",
-      "Ban Truyền thông",
-      "Ban Bác ái",
-      "Ban Hậu cần"
+    "teams": [
+      {
+        "name": "Ban Phụng vụ",
+        "members": [],
+        "id": "team-ban-phung-vu-00z4zag"
+      },
+      {
+        "name": "Ban Truyền thông",
+        "members": [],
+        "id": "team-ban-truyen-thong-07i2mcq"
+      },
+      {
+        "name": "Ban Bác ái",
+        "members": [],
+        "id": "team-ban-bac-ai-173ms83"
+      },
+      {
+        "name": "Ban Hậu cần",
+        "members": [],
+        "id": "team-ban-hau-can-1ofs7ay"
+      }
     ]
   },
   "members": {
@@ -44,7 +109,29 @@
   "activities": [
     {
       "id": "2026-activity-1",
-      "coverImage": "images/hero.jpg",
+      "coverImage": {
+        "src": "images/hero.jpg",
+        "id": "images/hero.jpg",
+        "alt": "",
+        "caption": "",
+        "variants": {
+          "thumbnail": {
+            "src": "images/optimized/hero-480.jpg",
+            "width": 480,
+            "height": 319
+          },
+          "medium": {
+            "src": "images/optimized/hero-1280.jpg",
+            "width": 1280,
+            "height": 851
+          },
+          "original": {
+            "src": "images/optimized/hero-2048.jpg",
+            "width": 2048,
+            "height": 1362
+          }
+        }
+      },
       "title": "Exsultet — Đêm Hòa Nhạc Phục Sinh",
       "date": "Mùa Phục Sinh 2026",
       "type": "Hòa nhạc",
@@ -75,8 +162,30 @@
     },
     {
       "id": "2026-activity-1786561413635-wqq3s5",
-      "coverImage": "images/uploads/2026/hoa-nhac/1786561398970-lequanthay202011.jpg",
-      "title": "hoà nhạc mừng mẹ lên trời ",
+      "coverImage": {
+        "src": "images/uploads/2026/hoa-nhac/1786561398970-lequanthay202011.jpg",
+        "id": "images/uploads/2026/hoa-nhac/1786561398970-lequanthay202011.jpg",
+        "alt": "",
+        "caption": "",
+        "variants": {
+          "thumbnail": {
+            "src": "images/optimized/uploads/2026/hoa-nhac/1786561398970-lequanthay202011-480.jpg",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "images/optimized/uploads/2026/hoa-nhac/1786561398970-lequanthay202011-1280.jpg",
+            "width": 1280,
+            "height": 853
+          },
+          "original": {
+            "src": "images/uploads/2026/hoa-nhac/1786561398970-lequanthay202011.jpg",
+            "width": 2048,
+            "height": 1365
+          }
+        }
+      },
+      "title": "hoà nhạc mừng mẹ lên trời",
       "date": "14.08.2026",
       "type": "hoà nhạc",
       "topic": "Hòa nhạc",
@@ -100,7 +209,25 @@
       "src": "images/gallery/phung-vu-2025.jpg",
       "alt": "Ca đoàn trong một thánh lễ",
       "event": "Phụng vụ",
-      "caption": "Tiếp nối lời ca"
+      "caption": "Tiếp nối lời ca",
+      "id": "images/gallery/phung-vu-2025.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
+          "width": 480,
+          "height": 290
+        },
+        "medium": {
+          "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
+          "width": 1280,
+          "height": 773
+        },
+        "original": {
+          "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
+          "width": 2048,
+          "height": 1237
+        }
+      }
     }
   ],
   "sharing": [
@@ -122,5 +249,41 @@
     "title": "Tiếp nối hành trình hồng ân.",
     "description": "Từ mái nhà Gia Đình Công Giáo Xa Quê Hà Nội, Ca đoàn Giới trẻ Teresa tiếp tục lớn lên trong đức tin, phụng vụ và tình hiệp nhất.",
     "highlight": "11 năm Teresa · 20 năm GĐCGXQ Hà Nội"
+  },
+  "schemaVersion": 3,
+  "meta": {
+    "revision": 1,
+    "status": "published",
+    "migratedFrom": 1
+  },
+  "galleryAlbum": {
+    "manifest": "data/albums/2026/_gallery.json",
+    "count": 1,
+    "preview": [
+      {
+        "src": "images/gallery/phung-vu-2025.jpg",
+        "alt": "Ca đoàn trong một thánh lễ",
+        "event": "Phụng vụ",
+        "caption": "Tiếp nối lời ca",
+        "id": "images/gallery/phung-vu-2025.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
+            "width": 480,
+            "height": 290
+          },
+          "medium": {
+            "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
+            "width": 1280,
+            "height": 773
+          },
+          "original": {
+            "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
+            "width": 2048,
+            "height": 1237
+          }
+        }
+      }
+    ]
   }
 }

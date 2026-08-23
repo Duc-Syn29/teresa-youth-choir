@@ -2,10 +2,10 @@
 <html lang="vi">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta
       name="description"
-      content="Digital Memory Archive lưu giữ hành trình của Ca đoàn Giới trẻ Têrêsa từ 2015 đến 2026."
+      content="Ca đoàn Giới trẻ Têrêsa — Hiệp nhất, Yêu thương, Phục vụ. Tập hát lúc 19:30 thứ Năm hằng tuần; phục vụ Thánh lễ lúc 20:00 tối thứ Bảy vào các tuần 1, 3 và 5 hằng tháng."
     />
     <meta name="theme-color" content="#0b6b6c" />
     <title>Teresa Youth Choir — Nhật ký hành trình 2015–2026</title>
@@ -18,13 +18,11 @@
       href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap"
       rel="stylesheet"
     />
-    <link rel="preload" as="image" href="images/hero.jpg" fetchpriority="high" />
-    <link rel="stylesheet" href="css/style.css?v=archive-2026-30" />
-    <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js" defer></script>
-    <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-auth-compat.js" defer></script>
-    <script src="js/firebase-config.js?v=archive-2026-21" defer></script>
-    <script src="js/store.js?v=archive-2026-30" defer></script>
-    <script src="js/main.js?v=archive-2026-30" defer></script>
+    <link rel="preload" as="image" href="images/optimized/hero-1280.jpg" imagesrcset="images/optimized/hero-480.jpg 480w, images/optimized/hero-1280.jpg 1280w, images/optimized/hero-2048.jpg 2048w" imagesizes="100vw" fetchpriority="high" />
+    <link rel="stylesheet" href="css/style.css?v=archive-2026-39" />
+    <script src="js/schema.js?v=archive-2026-37" defer></script>
+    <script src="js/store.js?v=archive-2026-37" defer></script>
+    <script src="js/main.js?v=archive-2026-38" defer></script>
   </head>
 
   <body>
@@ -39,11 +37,11 @@
         </span>
       </a>
 
-      <button class="menu-toggle" type="button" aria-label="Mở menu" aria-expanded="false">
+      <button class="menu-toggle" type="button" aria-label="Mở menu" aria-expanded="false" aria-controls="main-navigation">
         <span></span><span></span><span></span>
       </button>
 
-      <nav class="main-nav" aria-label="Điều hướng chính">
+      <nav class="main-nav" id="main-navigation" aria-label="Điều hướng chính">
         <a class="active" href="#home">Trang chủ</a>
         <a href="#about">Giới thiệu</a>
         <a href="#journey">Hành trình</a>
@@ -56,7 +54,7 @@
 
     <main id="main-content">
       <section class="hero" id="home" aria-labelledby="hero-title">
-        <div class="hero-bg" aria-hidden="true"></div>
+        <div class="hero-bg" aria-hidden="true"><picture><source media="(max-width: 680px)" srcset="images/optimized/hero-1280.jpg" /><source media="(max-width: 1499px)" srcset="images/optimized/hero-2048.jpg" /><img src="images/hero.jpg" alt="" width="2400" height="1596" fetchpriority="high" decoding="async" /></picture></div>
         <div class="hero-grain" aria-hidden="true"></div>
         <div class="hero-content container">
           <p class="eyebrow hero-reveal">Digital Memory Archive · 2015—2026</p>
@@ -72,7 +70,7 @@
         </div>
 
         <div class="hero-foot">
-          <span>Hiệp nhất</span><i></i><span>Phụng sự</span><i></i><span>Yêu thương</span>
+          <span>Hiệp nhất</span><i></i><span>Yêu thương</span><i></i><span>Phục vụ</span>
         </div>
         <a class="scroll-cue" href="#about" aria-label="Cuộn xuống phần giới thiệu">
           <span></span>
@@ -104,13 +102,13 @@
         <div class="container about-grid">
           <div class="about-visual reveal reveal-left">
             <div class="image-frame">
-              <img src="images/gallery/phung-vu-2025.jpg" alt="Ca đoàn Giới trẻ Têrêsa trong trang phục trắng xanh tại thánh đường" loading="lazy" decoding="async" />
+              <img src="images/optimized/gallery/phung-vu-2025-480.jpg" srcset="images/optimized/gallery/phung-vu-2025-480.jpg 480w, images/optimized/gallery/phung-vu-2025-1280.jpg 1280w, images/optimized/gallery/phung-vu-2025-2048.jpg 2048w" sizes="(max-width: 680px) 92vw, 44vw" alt="Ca đoàn Giới trẻ Têrêsa trong trang phục trắng xanh tại thánh đường" loading="lazy" decoding="async" />
             </div>
             <div class="about-year" aria-hidden="true">
               <span>Từ</span>
               <strong>2015</strong>
             </div>
-            <p class="vertical-note">Sing · Serve · Share</p>
+            <p class="vertical-note">Unite · Love · Serve</p>
           </div>
 
           <div class="about-content reveal reveal-right">
@@ -120,14 +118,14 @@
             </div>
             <p class="lead">
               Ca đoàn Giới trẻ Têrêsa là mái nhà của những người trẻ yêu thánh nhạc, cùng nhau
-              phụng sự qua tiếng hát và trưởng thành trong tình hiệp nhất.
+              phục vụ qua tiếng hát và trưởng thành trong tình hiệp nhất.
             </p>
 
             <dl class="info-list">
               <div><dt>Ngày thành lập</dt><dd>20.10.2015</dd></div>
               <div><dt>Thánh bổn mạng</dt><dd>Thánh Têrêsa Hài Đồng Giêsu</dd></div>
-              <div><dt>Tôn chỉ</dt><dd>Hiệp nhất · Phụng sự · Yêu thương</dd></div>
-              <div><dt>Lịch sinh hoạt</dt><dd>19:30 tối thứ Năm hằng tuần</dd></div>
+              <div><dt>Tôn chỉ</dt><dd>Hiệp nhất · Yêu thương · Phục vụ</dd></div>
+              <div><dt>Lịch sinh hoạt</dt><dd class="schedule-lines"><span>Tập hát lúc 19:30 thứ Năm hằng tuần</span><span>Phục vụ Thánh lễ lúc 20:00 tối thứ Bảy, các tuần 1, 3 và 5 hằng tháng</span></dd></div>
               <div><dt>Địa chỉ</dt><dd>Giáo xứ Thái Hà</dd></div>
             </dl>
 
@@ -160,7 +158,7 @@
             <a class="timeline-item" href="year.html?year=2017">
               <span class="timeline-dot"></span>
               <span class="timeline-year">2017</span>
-              <span class="timeline-copy"><strong>Vững vàng trong lời ca</strong><small>Trưởng thành qua phụng sự</small></span>
+              <span class="timeline-copy"><strong>Vững vàng trong lời ca</strong><small>Trưởng thành qua phục vụ</small></span>
             </a>
             <a class="timeline-item" href="year.html?year=2018">
               <span class="timeline-dot"></span>
@@ -170,7 +168,7 @@
             <a class="timeline-item" href="year.html?year=2019">
               <span class="timeline-dot"></span>
               <span class="timeline-year">2019</span>
-              <span class="timeline-copy"><strong>Mở rộng vòng tay</strong><small>Phụng sự và sẻ chia</small></span>
+              <span class="timeline-copy"><strong>Mở rộng vòng tay</strong><small>Phục vụ và sẻ chia</small></span>
             </a>
             <a class="timeline-item" href="year.html?year=2020">
               <span class="timeline-dot"></span>
@@ -216,36 +214,36 @@
           <div class="section-heading heading-row reveal">
             <div>
               <p class="eyebrow">Nhịp sống Têrêsa</p>
-              <h2>Phụng sự bằng<br /><em>niềm vui tuổi trẻ.</em></h2>
+              <h2>Phục vụ bằng<br /><em>niềm vui tuổi trẻ.</em></h2>
             </div>
             <p>Từ cung thánh đến những chuyến đi, mỗi hoạt động là một cách để chúng mình đến gần Chúa và gần nhau hơn.</p>
           </div>
 
           <div class="activity-grid" aria-label="Khám phá hoạt động theo chủ đề">
-            <article class="activity-card activity-large reveal" role="button" tabindex="0" data-activity-group="liturgy" aria-haspopup="dialog" aria-controls="activity-archive-dialog" aria-label="Mở các sự kiện Phụng vụ và Thánh nhạc">
+            <button class="activity-card activity-large reveal" type="button" data-activity-group="liturgy" aria-haspopup="dialog" aria-controls="activity-archive-dialog" aria-label="Mở các sự kiện Phụng vụ và Thánh nhạc">
               <span class="card-number">01</span><span class="card-icon" aria-hidden="true">♪</span>
               <h3>Phụng vụ & Thánh nhạc</h3>
               <p>Hát lễ, lễ Quan thầy, Giáng Sinh, Phục Sinh và những dịp đặc biệt.</p>
               <span class="activity-card-cta">Xem các sự kiện <span>↗</span></span>
-            </article>
-            <article class="activity-card reveal" role="button" tabindex="0" data-activity-group="bonding" aria-haspopup="dialog" aria-controls="activity-archive-dialog" aria-label="Mở các sự kiện Gắn kết">
+            </button>
+            <button class="activity-card reveal" type="button" data-activity-group="bonding" aria-haspopup="dialog" aria-controls="activity-archive-dialog" aria-label="Mở các sự kiện Gắn kết">
               <span class="card-number">02</span><span class="card-icon" aria-hidden="true">☀</span>
               <h3>Gắn kết</h3>
               <p>Team building, du lịch, hội thao và những buổi sinh hoạt chung.</p>
               <span class="activity-card-cta">Xem các sự kiện <span>↗</span></span>
-            </article>
-            <article class="activity-card coral reveal" role="button" tabindex="0" data-activity-group="charity" aria-haspopup="dialog" aria-controls="activity-archive-dialog" aria-label="Mở các sự kiện Thiện nguyện">
+            </button>
+            <button class="activity-card coral reveal" type="button" data-activity-group="charity" aria-haspopup="dialog" aria-controls="activity-archive-dialog" aria-label="Mở các sự kiện Thiện nguyện">
               <span class="card-number">03</span><span class="card-icon" aria-hidden="true">♡</span>
               <h3>Thiện nguyện</h3>
               <p>Trao đi tiếng hát, thời gian và sự hiện diện tới những nơi cần sẻ chia.</p>
               <span class="activity-card-cta">Xem các sự kiện <span>↗</span></span>
-            </article>
-            <article class="activity-card dark reveal" role="button" tabindex="0" data-activity-group="retreat" aria-haspopup="dialog" aria-controls="activity-archive-dialog" aria-label="Mở các sự kiện Tĩnh tâm">
+            </button>
+            <button class="activity-card dark reveal" type="button" data-activity-group="retreat" aria-haspopup="dialog" aria-controls="activity-archive-dialog" aria-label="Mở các sự kiện Tĩnh tâm">
               <span class="card-number">04</span><span class="card-icon" aria-hidden="true">✦</span>
               <h3>Tĩnh tâm</h3>
               <p>Khoảng lặng để lắng nghe, làm mới đời sống đức tin và ơn gọi phục vụ.</p>
               <span class="activity-card-cta">Xem các sự kiện <span>↗</span></span>
-            </article>
+            </button>
           </div>
         </div>
       </section>
@@ -258,40 +256,19 @@
               <h2>Một album,<br /><em>ngàn câu chuyện.</em></h2>
             </div>
             <div class="gallery-filters" role="group" aria-label="Lọc ảnh theo chủ đề">
-              <button class="active" type="button" data-filter="all">Tất cả</button>
-              <button type="button" data-filter="phung-vu">Phụng vụ</button>
-              <button type="button" data-filter="gan-ket">Gắn kết</button>
-              <button type="button" data-filter="thien-nguyen">Hành trình</button>
+              <button class="active" type="button" data-filter="all" aria-pressed="true" aria-controls="home-gallery-grid">Tất cả</button>
+              <button type="button" data-filter="liturgy" aria-pressed="false" aria-controls="home-gallery-grid">Phụng vụ</button>
+              <button type="button" data-filter="bonding" aria-pressed="false" aria-controls="home-gallery-grid">Gắn kết</button>
+              <button type="button" data-filter="charity" aria-pressed="false" aria-controls="home-gallery-grid">Thiện nguyện</button>
+              <button type="button" data-filter="retreat" aria-pressed="false" aria-controls="home-gallery-grid">Tĩnh tâm</button>
             </div>
           </div>
 
-          <div class="gallery-grid">
-            <button class="gallery-item tall reveal" data-category="phung-vu" data-full="images/gallery/phung-vu-2025.jpg" data-caption="Một gia đình trong lời ca">
-              <img src="images/gallery/phung-vu-2025.jpg" alt="Ca đoàn Têrêsa trong trang phục trắng xanh tại thánh đường" loading="lazy" decoding="async" />
-              <span><small>Phụng vụ</small><strong>Một gia đình trong lời ca</strong></span>
-            </button>
-            <button class="gallery-item reveal" data-category="gan-ket" data-full="images/gallery/gan-ket-2024.jpg" data-caption="Cùng nhau viết tiếp">
-              <img src="images/gallery/gan-ket-2024.jpg" alt="Đại gia đình ca đoàn cùng các ca đoàn bạn và ban nhạc" loading="lazy" decoding="async" />
-              <span><small>Hội ngộ</small><strong>Cùng nhau viết tiếp</strong></span>
-            </button>
-            <button class="gallery-item reveal" data-category="thien-nguyen" data-full="images/gallery/thien-nguyen-2019.jpg" data-caption="Dấu chân tuổi trẻ">
-              <img src="images/gallery/thien-nguyen-2019.jpg" alt="Ca đoàn trong chuyến hành trình tại Tu viện Dòng Chúa Cứu Thế Hà Nội" loading="lazy" decoding="async" />
-              <span><small>Hành trình</small><strong>Dấu chân tuổi trẻ</strong></span>
-            </button>
-            <button class="gallery-item wide reveal" data-category="phung-vu" data-full="images/gallery/quan-thay-2017.jpg" data-caption="Tuyệt vời khi có nhau">
-              <img src="images/gallery/quan-thay-2017.jpg" alt="Khoảnh khắc hội ngộ của ca đoàn, ca đoàn bạn và ban nhạc" loading="lazy" decoding="async" />
-              <span><small>Hội ngộ thánh nhạc</small><strong>Tuyệt vời khi có nhau</strong></span>
-            </button>
-            <button class="gallery-item reveal" data-category="gan-ket" data-full="images/gallery/team-building-2023.jpg" data-caption="Một chuyến đi, một gia đình">
-              <img src="images/gallery/team-building-2023.jpg" alt="Các ca viên cùng lưu lại kỷ niệm trong chuyến đi" loading="lazy" decoding="async" />
-              <span><small>Gắn kết</small><strong>Một chuyến đi, một gia đình</strong></span>
-            </button>
-            <button class="gallery-item reveal" data-category="phung-vu" data-full="images/gallery/giang-sinh-2022.jpg" data-caption="Màu áo Têrêsa">
-              <img src="images/gallery/giang-sinh-2022.jpg" alt="Tập thể ca đoàn trong màu áo trắng xanh" loading="lazy" decoding="async" />
-              <span><small>Dấu ấn</small><strong>Màu áo Têrêsa</strong></span>
-            </button>
+          <div class="gallery-grid gallery-grid-dynamic" id="home-gallery-grid" aria-live="polite" aria-busy="true">
+            <div class="gallery-loading"><span aria-hidden="true">♪</span><p>Đang chọn những khoảnh khắc tiêu biểu từ các năm…</p></div>
           </div>
-          <p class="gallery-note">Ảnh minh họa mẫu — hãy thay bằng tư liệu thật của ca đoàn trong thư mục <code>images/gallery</code>.</p>
+          <div class="gallery-more-wrap"><button class="gallery-load-more" type="button" id="home-gallery-more" hidden>Xem thêm ảnh</button></div>
+          <p class="gallery-note" id="home-gallery-note" aria-live="polite">Ảnh hoạt động tiêu biểu được tổng hợp tự động từ kho tư liệu 2015–2026.</p>
         </div>
       </section>
 
@@ -347,7 +324,8 @@
       </div>
       <div class="container footer-bottom">
         <span>© <span data-current-year></span> Teresa Youth Choir</span>
-        <span>Lưu giữ bằng đức tin & tình yêu</span>
+        <span>Hiệp nhất · Yêu thương · Phục vụ</span>
+        <span class="footer-schedule"><span>Tập hát 19:30 thứ Năm hằng tuần</span><span>Thánh lễ 20:00 tối thứ Bảy · tuần 1, 3 và 5</span></span>
       </div>
     </footer>
 
@@ -376,7 +354,7 @@
     <dialog class="lightbox" aria-label="Xem ảnh lớn">
       <button class="lightbox-close" type="button" aria-label="Đóng ảnh">×</button>
       <button class="lightbox-nav lightbox-prev" type="button" aria-label="Ảnh trước">←</button>
-      <figure><img src="" alt="" /><figcaption></figcaption></figure>
+      <figure aria-live="polite"><span class="lightbox-counter" aria-live="polite"></span><img src="" alt="" /><figcaption></figcaption></figure>
       <button class="lightbox-nav lightbox-next" type="button" aria-label="Ảnh tiếp theo">→</button>
     </dialog>
 

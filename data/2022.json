@@ -1,42 +1,360 @@
 {
   "year": 2022,
-  "theme": { "accent": "#f27f6b" },
+  "theme": {
+    "accent": "#f27f6b"
+  },
   "overview": {
-    "eyebrow": "Năm trở về", "title": "Gặp lại trong tiếng hát",
+    "eyebrow": "Năm trở về",
+    "title": "Gặp lại trong tiếng hát",
     "summary": "Khi dịch dần được kiểm soát, ca đoàn từng bước khôi phục tập hát và phục vụ, dù số lượng ca viên và tinh thần chung còn cần thời gian để hồi phục.",
     "verse": "Ngọt ngào tốt đẹp lắm thay, anh em được sống vui vầy bên nhau.",
     "longDescription": "Sau thời gian dài gián đoạn, ca đoàn từng bước khôi phục những sinh hoạt thường niên như tập hát và phục vụ Thánh lễ. Giai đoạn trở lại cũng đặt ra thách thức: số lượng ca viên giảm sút và nhiều anh chị em chưa lấy lại được tinh thần sau đại dịch.",
-    "coverImage": "images/hero.jpg"
+    "coverImage": {
+      "src": "images/hero.jpg",
+      "id": "images/hero.jpg",
+      "alt": "",
+      "caption": "",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/hero-480.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "images/optimized/hero-1280.jpg",
+          "width": 1280,
+          "height": 851
+        },
+        "original": {
+          "src": "images/optimized/hero-2048.jpg",
+          "width": 2048,
+          "height": 1362
+        }
+      }
+    }
   },
   "leadership": {
-    "chaplain": { "name": "Lm. Giuse Phạm Đức Hiệp", "note": "Đồng hành mục vụ" },
-    "leader": { "name": "Maria Vũ Thu Hà", "note": "Nhiệm kỳ 2021–2023" },
-    "conductor": { "name": "Gioan Trần Minh Quân", "note": "Phụ trách chuyên môn" },
-    "treasurer": { "name": "Giuse Đặng Quốc Bảo", "note": "Thủ quỹ" },
-    "serviceTeams": ["Ban Phụng vụ", "Ban Truyền thông", "Ban Đời sống", "Ban Hậu cần"]
+    "chaplain": {
+      "note": "Đồng hành mục vụ",
+      "members": [
+        {
+          "name": "Lm. Giuse Phạm Đức Hiệp",
+          "photo": "",
+          "id": "person-chaplain-1azi635"
+        }
+      ]
+    },
+    "leader": {
+      "note": "Nhiệm kỳ 2021–2023",
+      "members": [
+        {
+          "name": "Maria Vũ Thu Hà",
+          "photo": "",
+          "id": "person-leader-1tgx0vc"
+        }
+      ]
+    },
+    "deputyLeader": {
+      "members": []
+    },
+    "conductor": {
+      "note": "Phụ trách chuyên môn",
+      "members": [
+        {
+          "name": "Gioan Trần Minh Quân",
+          "photo": "",
+          "id": "person-conductor-05udt27"
+        }
+      ]
+    },
+    "treasurer": {
+      "note": "Thủ quỹ",
+      "members": [
+        {
+          "name": "Giuse Đặng Quốc Bảo",
+          "photo": "",
+          "id": "person-treasurer-1cayaz5"
+        }
+      ]
+    },
+    "teams": [
+      {
+        "name": "Ban Phụng vụ",
+        "members": [],
+        "id": "team-ban-phung-vu-00z4zag"
+      },
+      {
+        "name": "Ban Truyền thông",
+        "members": [],
+        "id": "team-ban-truyen-thong-07i2mcq"
+      },
+      {
+        "name": "Ban Đời sống",
+        "members": [],
+        "id": "team-ban-doi-song-12o6etq"
+      },
+      {
+        "name": "Ban Hậu cần",
+        "members": [],
+        "id": "team-ban-hau-can-1ofs7ay"
+      }
+    ]
   },
-  "members": { "total": 46, "new": 17, "inactive": 4, "notes": "Đợt tuyển ca viên mới đông nhất kể từ ngày thành lập mang đến nguồn năng lượng mới." },
+  "members": {
+    "total": 46,
+    "new": 17,
+    "inactive": 4,
+    "notes": "Đợt tuyển ca viên mới đông nhất kể từ ngày thành lập mang đến nguồn năng lượng mới."
+  },
   "activities": [
-    { "type": "Thánh lễ", "date": "03.2022", "title": "Thánh lễ ngày trở lại", "description": "Lần đầu đội hình đầy đủ cùng hát sau thời gian dài xa cách." },
-    { "type": "Tĩnh tâm", "date": "04.2022", "title": "Tạ ơn ngày gặp lại", "description": "Ngày tĩnh tâm và tái cam kết phục vụ của toàn ca đoàn." },
-    { "type": "Du lịch/Team Building", "date": "07.2022", "title": "Kết nối lại", "description": "Chuyến đi dành cho thành viên cũ và mười bảy ca viên mới." },
-    { "type": "Lễ Quan thầy", "date": "01.10.2022", "title": "Năm năm một hành trình", "description": "Mừng sinh nhật ca đoàn với sự trở về của các cựu ca viên." },
-    { "type": "Giáng Sinh", "date": "24.12.2022", "title": "Đêm đoàn viên", "description": "Đêm thánh nhạc trực tiếp đầu tiên sau thời gian gián đoạn." }
+    {
+      "type": "Thánh lễ",
+      "date": "03.2022",
+      "title": "Thánh lễ ngày trở lại",
+      "description": "Lần đầu đội hình đầy đủ cùng hát sau thời gian dài xa cách.",
+      "id": "2022-activity-1",
+      "topic": "Thánh lễ",
+      "body": "Lần đầu đội hình đầy đủ cùng hát sau thời gian dài xa cách.",
+      "images": []
+    },
+    {
+      "type": "Tĩnh tâm",
+      "date": "04.2022",
+      "title": "Tạ ơn ngày gặp lại",
+      "description": "Ngày tĩnh tâm và tái cam kết phục vụ của toàn ca đoàn.",
+      "id": "2022-activity-2",
+      "topic": "Tĩnh tâm",
+      "body": "Ngày tĩnh tâm và tái cam kết phục vụ của toàn ca đoàn.",
+      "images": []
+    },
+    {
+      "type": "Du lịch/Team Building",
+      "date": "07.2022",
+      "title": "Kết nối lại",
+      "description": "Chuyến đi dành cho thành viên cũ và mười bảy ca viên mới.",
+      "id": "2022-activity-3",
+      "topic": "Du lịch/Team Building",
+      "body": "Chuyến đi dành cho thành viên cũ và mười bảy ca viên mới.",
+      "images": []
+    },
+    {
+      "type": "Lễ Quan thầy",
+      "date": "01.10.2022",
+      "title": "Năm năm một hành trình",
+      "description": "Mừng sinh nhật ca đoàn với sự trở về của các cựu ca viên.",
+      "id": "2022-activity-4",
+      "topic": "Lễ Quan thầy",
+      "body": "Mừng sinh nhật ca đoàn với sự trở về của các cựu ca viên.",
+      "images": []
+    },
+    {
+      "type": "Giáng Sinh",
+      "date": "24.12.2022",
+      "title": "Đêm đoàn viên",
+      "description": "Đêm thánh nhạc trực tiếp đầu tiên sau thời gian gián đoạn.",
+      "id": "2022-activity-5",
+      "topic": "Giáng Sinh",
+      "body": "Đêm thánh nhạc trực tiếp đầu tiên sau thời gian gián đoạn.",
+      "images": []
+    }
   ],
-  "achievements": ["Khôi phục lịch tập và phụng vụ đầy đủ.", "Chào đón 17 ca viên mới.", "Tổ chức kỷ niệm 5 năm thành lập."],
-  "challenges": ["Tái xây dựng chất lượng hợp xướng sau thời gian dài.", "Kết nối thành viên cũ và mới.", "Sắp xếp lại nguồn lực cho các ban phục vụ."],
+  "achievements": [
+    "Khôi phục lịch tập và phụng vụ đầy đủ.",
+    "Chào đón 17 ca viên mới.",
+    "Tổ chức kỷ niệm 5 năm thành lập."
+  ],
+  "challenges": [
+    "Tái xây dựng chất lượng hợp xướng sau thời gian dài.",
+    "Kết nối thành viên cũ và mới.",
+    "Sắp xếp lại nguồn lực cho các ban phục vụ."
+  ],
   "gallery": [
-    { "src": "images/gallery/giang-sinh-2022.jpg", "alt": "Đêm Giáng Sinh 2022", "event": "Giáng Sinh", "caption": "Đêm đoàn viên" },
-    { "src": "images/gallery/gan-ket-2024.jpg", "alt": "Ca viên gặp lại", "event": "Gặp lại", "caption": "Ngày trở về" },
-    { "src": "images/gallery/phung-vu-2025.jpg", "alt": "Ca đoàn hát lễ", "event": "Phụng vụ", "caption": "Chung hàng ghế quen" }
+    {
+      "src": "images/gallery/giang-sinh-2022.jpg",
+      "alt": "Đêm Giáng Sinh 2022",
+      "event": "Giáng Sinh",
+      "caption": "Đêm đoàn viên",
+      "id": "images/gallery/giang-sinh-2022.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/giang-sinh-2022-480.jpg",
+          "width": 480,
+          "height": 290
+        },
+        "medium": {
+          "src": "images/optimized/gallery/giang-sinh-2022-1280.jpg",
+          "width": 1280,
+          "height": 773
+        },
+        "original": {
+          "src": "images/optimized/gallery/giang-sinh-2022-2048.jpg",
+          "width": 2048,
+          "height": 1237
+        }
+      }
+    },
+    {
+      "src": "images/gallery/gan-ket-2024.jpg",
+      "alt": "Ca viên gặp lại",
+      "event": "Gặp lại",
+      "caption": "Ngày trở về",
+      "id": "images/gallery/gan-ket-2024.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/gan-ket-2024-480.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "images/optimized/gallery/gan-ket-2024-1280.jpg",
+          "width": 1280,
+          "height": 851
+        },
+        "original": {
+          "src": "images/optimized/gallery/gan-ket-2024-2048.jpg",
+          "width": 2048,
+          "height": 1362
+        }
+      }
+    },
+    {
+      "src": "images/gallery/phung-vu-2025.jpg",
+      "alt": "Ca đoàn hát lễ",
+      "event": "Phụng vụ",
+      "caption": "Chung hàng ghế quen",
+      "id": "images/gallery/phung-vu-2025.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
+          "width": 480,
+          "height": 290
+        },
+        "medium": {
+          "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
+          "width": 1280,
+          "height": 773
+        },
+        "original": {
+          "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
+          "width": 2048,
+          "height": 1237
+        }
+      }
+    }
   ],
   "sharing": [
-    { "name": "Thu Hà", "role": "Trưởng ca đoàn 2022", "quote": "Nghe tiếng mọi người khởi động trong phòng tập, mình mới nhận ra đã nhớ âm thanh ấy đến thế nào." },
-    { "name": "Khánh Linh", "role": "Ca viên 2022", "quote": "Mười bảy người mới đã làm gia đình này trẻ lại một lần nữa." }
+    {
+      "name": "Thu Hà",
+      "role": "Trưởng ca đoàn 2022",
+      "quote": "Nghe tiếng mọi người khởi động trong phòng tập, mình mới nhận ra đã nhớ âm thanh ấy đến thế nào."
+    },
+    {
+      "name": "Khánh Linh",
+      "role": "Ca viên 2022",
+      "quote": "Mười bảy người mới đã làm gia đình này trẻ lại một lần nữa."
+    }
   ],
   "emotionJournal": [
-    { "date": "12.03", "title": "Cánh cửa mở lại", "text": "Cả phòng tập vỗ tay khi người cuối cùng bước vào.", "mood": "Vỡ òa" },
-    { "date": "01.10", "title": "Năm ngọn nến", "text": "Những gương mặt cũ và mới cùng đứng trong một khung hình sinh nhật.", "mood": "Đoàn viên" }
+    {
+      "date": "12.03",
+      "title": "Cánh cửa mở lại",
+      "text": "Cả phòng tập vỗ tay khi người cuối cùng bước vào.",
+      "mood": "Vỡ òa"
+    },
+    {
+      "date": "01.10",
+      "title": "Năm ngọn nến",
+      "text": "Những gương mặt cũ và mới cùng đứng trong một khung hình sinh nhật.",
+      "mood": "Đoàn viên"
+    }
   ],
-  "yearMark": { "title": "Chúng mình đã trở về.", "description": "2022 không chỉ là trở lại một phòng tập, mà là tìm lại nhịp sống cộng đoàn và nhận ra nơi này vẫn luôn là nhà.", "highlight": "5 năm · 46 ca viên" }
+  "yearMark": {
+    "title": "Chúng mình đã trở về.",
+    "description": "2022 không chỉ là trở lại một phòng tập, mà là tìm lại nhịp sống cộng đoàn và nhận ra nơi này vẫn luôn là nhà.",
+    "highlight": "5 năm · 46 ca viên"
+  },
+  "schemaVersion": 3,
+  "meta": {
+    "revision": 1,
+    "status": "published",
+    "migratedFrom": 1
+  },
+  "galleryAlbum": {
+    "manifest": "data/albums/2022/_gallery.json",
+    "count": 3,
+    "preview": [
+      {
+        "src": "images/gallery/giang-sinh-2022.jpg",
+        "alt": "Đêm Giáng Sinh 2022",
+        "event": "Giáng Sinh",
+        "caption": "Đêm đoàn viên",
+        "id": "images/gallery/giang-sinh-2022.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "images/optimized/gallery/giang-sinh-2022-480.jpg",
+            "width": 480,
+            "height": 290
+          },
+          "medium": {
+            "src": "images/optimized/gallery/giang-sinh-2022-1280.jpg",
+            "width": 1280,
+            "height": 773
+          },
+          "original": {
+            "src": "images/optimized/gallery/giang-sinh-2022-2048.jpg",
+            "width": 2048,
+            "height": 1237
+          }
+        }
+      },
+      {
+        "src": "images/gallery/gan-ket-2024.jpg",
+        "alt": "Ca viên gặp lại",
+        "event": "Gặp lại",
+        "caption": "Ngày trở về",
+        "id": "images/gallery/gan-ket-2024.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "images/optimized/gallery/gan-ket-2024-480.jpg",
+            "width": 480,
+            "height": 319
+          },
+          "medium": {
+            "src": "images/optimized/gallery/gan-ket-2024-1280.jpg",
+            "width": 1280,
+            "height": 851
+          },
+          "original": {
+            "src": "images/optimized/gallery/gan-ket-2024-2048.jpg",
+            "width": 2048,
+            "height": 1362
+          }
+        }
+      },
+      {
+        "src": "images/gallery/phung-vu-2025.jpg",
+        "alt": "Ca đoàn hát lễ",
+        "event": "Phụng vụ",
+        "caption": "Chung hàng ghế quen",
+        "id": "images/gallery/phung-vu-2025.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
+            "width": 480,
+            "height": 290
+          },
+          "medium": {
+            "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
+            "width": 1280,
+            "height": 773
+          },
+          "original": {
+            "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
+            "width": 2048,
+            "height": 1237
+          }
+        }
+      }
+    ]
+  }
 }

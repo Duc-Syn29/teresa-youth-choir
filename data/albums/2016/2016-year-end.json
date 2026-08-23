@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "year": 2016,
+  "activityId": "2016-year-end",
+  "title": "Tiệc tất niên ca đoàn",
+  "count": 6,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/001.jpg",
+      "caption": "Tiệc tất niên ca đoàn · ảnh 1",
+      "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/002.jpg",
+      "caption": "Tiệc tất niên ca đoàn · ảnh 2",
+      "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/003.jpg",
+      "caption": "Tiệc tất niên ca đoàn · ảnh 3",
+      "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/003.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/004.jpg",
+      "caption": "Tiệc tất niên ca đoàn · ảnh 4",
+      "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/004.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/005.jpg",
+      "caption": "Tiệc tất niên ca đoàn · ảnh 5",
+      "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/005.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/006.jpg",
+      "caption": "Tiệc tất niên ca đoàn · ảnh 6",
+      "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/006.jpg",
+      "variants": {}
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "year": 2018,
+  "activityId": "2018-park-life",
+  "title": "Những phút giây sinh hoạt ngoài công viên",
+  "count": 11,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/001.jpg",
+      "caption": "Những phút giây sinh hoạt ngoài công viên · ảnh 1",
+      "alt": "Ảnh tư liệu sinh hoạt ngoài công viên của ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/002.jpg",
+      "caption": "Những phút giây sinh hoạt ngoài công viên · ảnh 2",
+      "alt": "Ảnh tư liệu sinh hoạt ngoài công viên của ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/003.jpg",
+      "caption": "Những phút giây sinh hoạt ngoài công viên · ảnh 3",
+      "alt": "Ảnh tư liệu sinh hoạt ngoài công viên của ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/003.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/004.jpg",
+      "caption": "Những phút giây sinh hoạt ngoài công viên · ảnh 4",
+      "alt": "Ảnh tư liệu sinh hoạt ngoài công viên của ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/004.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/005.jpg",
+      "caption": "Những phút giây sinh hoạt ngoài công viên · ảnh 5",
+      "alt": "Ảnh tư liệu sinh hoạt ngoài công viên của ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/005.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/006.jpg",
+      "caption": "Những phút giây sinh hoạt ngoài công viên · ảnh 6",
+      "alt": "Ảnh tư liệu sinh hoạt ngoài công viên của ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/006.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/007.jpg",
+      "caption": "Những phút giây sinh hoạt ngoài công viên · ảnh 7",
+      "alt": "Ảnh tư liệu sinh hoạt ngoài công viên của ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/007.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/008.jpg",
+      "caption": "Những phút giây sinh hoạt ngoài công viên · ảnh 8",
+      "alt": "Ảnh tư liệu sinh hoạt ngoài công viên của ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/008.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/009.jpg",
+      "caption": "Những phút giây sinh hoạt ngoài công viên · ảnh 9",
+      "alt": "Ảnh tư liệu sinh hoạt ngoài công viên của ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/009.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/010.jpg",
+      "caption": "Những phút giây sinh hoạt ngoài công viên · ảnh 10",
+      "alt": "Ảnh tư liệu sinh hoạt ngoài công viên của ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/010.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/011.jpg",
+      "caption": "Những phút giây sinh hoạt ngoài công viên · ảnh 11",
+      "alt": "Ảnh tư liệu sinh hoạt ngoài công viên của ca đoàn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/011.jpg",
+      "variants": {}
+    }
+  ]
+}

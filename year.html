@@ -2,21 +2,19 @@
 <html lang="vi">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta name="theme-color" content="#0b6b6c" />
-    <meta name="description" content="Nhật ký từng năm từ 2015 đến 2026 của Teresa Youth Choir." />
+    <meta name="description" content="Nhật ký Ca đoàn Giới trẻ Têrêsa — Hiệp nhất, Yêu thương, Phục vụ." />
     <title>Nhật ký năm — Teresa Youth Choir</title>
     <link rel="icon" type="image/png" href="images/favicon.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="css/style.css?v=archive-2026-30" />
-    <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js" defer></script>
-    <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-auth-compat.js" defer></script>
-    <script src="js/firebase-config.js?v=archive-2026-21" defer></script>
-    <script src="js/store.js?v=archive-2026-30" defer></script>
-    <script src="js/main.js?v=archive-2026-30" defer></script>
-    <script src="js/year.js?v=archive-2026-30" defer></script>
+    <link rel="stylesheet" href="css/style.css?v=archive-2026-39" />
+    <script src="js/schema.js?v=archive-2026-37" defer></script>
+    <script src="js/store.js?v=archive-2026-37" defer></script>
+    <script src="js/main.js?v=archive-2026-38" defer></script>
+    <script src="js/year.js?v=archive-2026-38" defer></script>
   </head>
 
   <body class="year-page">
@@ -26,8 +24,8 @@
         <span class="brand-logo"><img src="images/logo.jpg" alt="Logo Ca đoàn Giới trẻ Teresa" /></span>
         <span><strong>TERESA</strong><small>YOUTH CHOIR</small></span>
       </a>
-      <button class="menu-toggle" type="button" aria-label="Mở menu" aria-expanded="false"><span></span><span></span><span></span></button>
-      <nav class="main-nav" aria-label="Điều hướng chính">
+      <button class="menu-toggle" type="button" aria-label="Mở menu" aria-expanded="false" aria-controls="main-navigation"><span></span><span></span><span></span></button>
+      <nav class="main-nav" id="main-navigation" aria-label="Điều hướng chính">
         <a href="index.html">Trang chủ</a>
         <a href="index.html#about">Giới thiệu</a>
         <a class="active" href="index.html#journey">Hành trình</a>
@@ -50,14 +48,32 @@
     <footer class="site-footer year-footer">
       <div class="container footer-bottom">
         <a href="index.html#journey">← Trở về hành trình</a>
-        <span>© <span data-current-year></span> Teresa Youth Choir</span>
+        <span>Hiệp nhất · Yêu thương · Phục vụ</span>
+        <span class="footer-schedule"><span>Tập hát 19:30 thứ Năm hằng tuần</span><span>Thánh lễ 20:00 tối thứ Bảy · tuần 1, 3 và 5</span></span>
       </div>
     </footer>
+
+    <dialog class="album-dialog" id="year-album-dialog" aria-labelledby="year-album-dialog-title">
+      <div class="album-dialog-shell">
+        <header class="album-dialog-header">
+          <div>
+            <p class="eyebrow">Khoảnh khắc theo sự kiện</p>
+            <h2 id="year-album-dialog-title" data-album-dialog-title>Album Têrêsa</h2>
+            <p id="year-album-dialog-count" data-album-dialog-count aria-live="polite">Đang mở album…</p>
+          </div>
+          <button class="album-dialog-close" type="button" data-album-dialog-close aria-label="Đóng album">×</button>
+        </header>
+        <div class="album-dialog-body">
+          <div class="album-dialog-grid" id="year-album-dialog-grid" data-album-dialog-grid></div>
+          <div class="gallery-more-wrap"><button class="gallery-load-more" type="button" id="year-album-dialog-more" data-album-dialog-more>Xem thêm ảnh</button></div>
+        </div>
+      </div>
+    </dialog>
 
     <dialog class="lightbox" aria-label="Xem ảnh lớn">
       <button class="lightbox-close" type="button" aria-label="Đóng ảnh">×</button>
       <button class="lightbox-nav lightbox-prev" type="button" aria-label="Ảnh trước">←</button>
-      <figure><img src="" alt="" /><figcaption></figcaption></figure>
+      <figure aria-live="polite"><span class="lightbox-counter" aria-live="polite"></span><img src="" alt="" /><figcaption></figcaption></figure>
       <button class="lightbox-nav lightbox-next" type="button" aria-label="Ảnh tiếp theo">→</button>
     </dialog>
     <button class="back-to-top" type="button" aria-label="Về đầu trang">↑</button>

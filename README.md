@@ -1,70 +1,109 @@
 # Teresa Youth Choir — Digital Memory Archive
 
-Website tĩnh lưu giữ hành trình Ca đoàn Giới trẻ Têrêsa từ 2015 đến 2026. Dự án dùng HTML5, CSS3 và JavaScript thuần; không có backend hoặc bước build. Giao diện sử dụng bảng màu xanh nước biển nhạt và bộ ảnh thật của ca đoàn.
+Kho nhật ký số của Ca đoàn Giới trẻ Têrêsa từ năm 2015. Website công khai là HTML/CSS/JavaScript thuần để tải nhanh và dễ lưu trữ lâu dài; khu quản trị dùng Firebase Auth, Cloudflare Worker và R2 để xuất bản nội dung mà không đưa ảnh mới vào Git.
 
-> Nội dung, tên nhân sự, địa chỉ và liên kết hiện tại là **dữ liệu mẫu**. Hãy thay bằng thông tin đã được ca đoàn xác nhận trước khi xuất bản.
+- **Tôn chỉ:** Hiệp nhất – Yêu thương – Phục vụ.
+- **Lịch sinh hoạt:**
+  - Tập hát lúc 19:30 thứ Năm hằng tuần.
+  - Phục vụ Thánh lễ lúc 20:00 tối thứ Bảy, vào các tuần 1, 3 và 5 hằng tháng.
 
-## Chạy trên VS Code
+## Kiến trúc
 
-1. Mở thư mục `TeresaYouthChoir` bằng VS Code.
-2. Cài extension **Live Server** nếu chưa có.
-3. Nhấp phải `index.html` → **Open with Live Server**.
+- `data/index.json`: chỉ mục nhẹ để trang chủ dựng danh sách năm, thống kê và “Nhịp sống Têrêsa” mà không tải từng file năm.
+- `data/{year}.json`: nội dung đầy đủ của một năm, theo `schemaVersion: 3`.
+- `data/albums/{year}/*.json`: manifest album. File năm chỉ giữ số ảnh và ba ảnh xem trước; 100–200 ảnh chỉ được tải khi người xem mở album.
+- `images/optimized/`: biến thể 480/1280/2048 px cho ảnh cục bộ. Ảnh gốc vẫn được giữ như bản lưu trữ.
+- Cloudflare R2 `teresa-choir-images`: lưu ảnh tải từ trang quản trị. Worker nhận binding `MEDIA_BUCKET`.
+- GitHub: nguồn xuất bản nội dung JSON. Worker cập nhật file năm và `data/index.json` trong cùng một commit để tránh trạng thái nửa chừng.
 
-Không mở `year.html` bằng giao thức `file://` vì trình duyệt sẽ chặn `fetch()` dữ liệu JSON. Live Server giải quyết việc này.
+## Chạy cục bộ
 
-## Cập nhật nội dung
+Không mở trực tiếp bằng `file://`, vì trình duyệt sẽ chặn `fetch()` JSON.
 
-- Thông tin giới thiệu và liên kết mạng xã hội: sửa trong `index.html`.
-- Nội dung khởi tạo mỗi năm: sửa file tương ứng trong `data/`, ví dụ `data/2026.json`.
-- Logo thanh điều hướng: thay `images/logo.jpg` nhưng giữ nguyên tên file.
-- Ảnh hero: thay `images/hero.jpg` nhưng giữ nguyên tên file.
-- Ảnh sự kiện: đặt trong `images/gallery/`, sau đó cập nhật `src` trong JSON và trong gallery trang chủ.
+```bash
+python3 -m http.server 4173
+```
 
-Tất cả file năm dùng cùng một schema. Khi chỉnh JSON, lưu ý giữ dấu phẩy, dấu ngoặc và dấu nháy kép đúng cú pháp.
+Sau đó mở `http://127.0.0.1:4173/`.
 
-## Quản trị nội dung và ảnh
+## Kiểm tra trước khi xuất bản
 
-Mở `admin.html` trên website đã deploy. Đăng nhập bằng **Firebase Email/Password** với email quản trị được cho phép. Mọi thay đổi năm, hoạt động, ban điều hành và số liệu thành viên được Worker xác minh rồi ghi vào file `data/` trên GitHub. Sau mỗi lần lưu năm, Worker đồng thời làm mới `data/index.json` để trang chủ chỉ cần tải một chỉ mục tổng hợp.
+```bash
+npm install
+npm run check
+```
 
-- Ảnh tải lên được lưu trong Cloudflare R2 theo khóa `media/<năm>/<chủ-đề>/…`; Git repository không chứa ảnh mới. Worker cung cấp URL công khai và cache dài hạn cho ảnh.
-- Worker chỉ chấp nhận Firebase token của email quản trị và dùng GitHub token được lưu dưới dạng Cloudflare Secret. Không đưa token hoặc khóa truy cập R2 vào source hay trình duyệt.
-- Dữ liệu nội dung vẫn tạo commit GitHub để Cloudflare Pages triển khai lại; upload ảnh R2 không tạo commit.
-- Nút **Xuất Word năm …** tạo tệp `.docx`; **Sao lưu JSON** xuất dữ liệu năm để lưu dự phòng.
+Lệnh này kiểm tra toàn bộ JSON, album manifest, test schema và cú pháp JavaScript. GitHub Actions cũng tự chạy cùng bộ kiểm tra trên pull request và branch `main`.
 
-## Deploy miễn phí
+Các lệnh bảo trì:
 
-### GitHub Pages
+```bash
+# Xem kế hoạch chuyển dữ liệu, không ghi file
+node scripts/migrate-data.mjs
 
-Đưa toàn bộ nội dung thư mục này lên một repository GitHub, sau đó vào **Settings → Pages → Deploy from a branch**, chọn branch `main` và thư mục `/ (root)`.
+# Chuyển schema và tách album; luôn chỉ định thư mục backup
+node scripts/migrate-data.mjs --write --backup-dir /duong-dan/backup
 
-### Cloudflare Pages
+# Tạo lại biến thể ảnh cục bộ và cập nhật JSON
+npm run optimize:images
+```
 
-Kết nối repository trong Cloudflare Pages. Chọn preset **None**, bỏ trống build command và đặt output directory là `/`.
+## Quy trình quản trị an toàn
 
-## Cấu trúc
+1. Mở `admin.html` và đăng nhập bằng tài khoản Firebase được cho phép.
+2. Chọn năm hoặc tạo năm mới.
+3. Chỉnh từng phần. Mọi thay đổi được lưu vào **bản nháp cục bộ**, chưa ảnh hưởng website.
+4. Bấm **Xem trước** để mở chính bản nháp trên giao diện thật.
+5. Sửa hết lỗi trong khung kiểm tra dữ liệu.
+6. Bấm **Xuất bản** một lần. Worker dùng revision để cảnh báo nếu một tab khác đã thay đổi cùng năm.
+7. Khi cần, mở **Lịch sử** và đưa một revision cũ về bản nháp để xem trước trước khi xuất bản lại.
+
+Mỗi người trong Ban điều hành là một phần tử độc lập có `id`, `name`, `photo`, `note`. Không nối nhiều người bằng dấu chấm, dấu phẩy hay dấu chấm giữa.
+
+## Ảnh và album
+
+- Ảnh mới được trình duyệt tạo tuần tự thành ba kích thước để hạn chế tăng RAM trên iPhone.
+- Worker kiểm tra MIME bằng chữ ký file, lưu metadata vào R2 và trả về URL của từng biến thể.
+- Trang năm chỉ tải ảnh preview. Dialog album hiển thị 8 ảnh mỗi đợt trên điện thoại và 20 ảnh trên laptop.
+- Trang hoạt động cũng chỉ dựng một đợt ảnh; người xem chủ động bấm “Xem thêm”.
+- Hoạt động chưa có ảnh vẫn giữ nguyên toàn bộ bài viết và dùng bìa biên tập theo chủ đề.
+
+## Cấu hình Worker và R2
+
+Các bước triển khai, secrets, binding, môi trường preview/production và cách rollback nằm trong [`cloudflare-worker/README.md`](cloudflare-worker/README.md).
+
+Không đặt `GITHUB_TOKEN`, khóa Firebase hay khóa R2 trong source. Bucket thật của dự án là `teresa-choir-images`, binding trong Worker là `MEDIA_BUCKET`.
+
+## Cấu trúc chính
 
 ```text
-TeresaYouthChoir/
+.
 ├── index.html
 ├── year.html
 ├── activity.html
 ├── admin.html
 ├── css/style.css
-├── js/main.js
-├── js/year.js
-├── js/activity.js
-├── js/admin.js
-├── js/store.js
-├── data/2015.json ... 2026.json
-├── data/index.json          # chỉ mục nhẹ cho trang chủ và Nhịp sống Têrêsa
-└── images/
-    ├── hero.jpg
-    └── gallery/
+├── js/
+│   ├── schema.js
+│   ├── store.js
+│   ├── main.js
+│   ├── year.js
+│   ├── activity.js
+│   └── admin.js
+├── data/
+│   ├── index.json
+│   ├── 2015.json ...
+│   └── albums/{year}/*.json
+├── cloudflare-worker/
+├── scripts/
+├── tests/
+└── .github/workflows/validate.yml
 ```
 
-## Accessibility & hiệu năng
+## Nguyên tắc để dự án dùng lâu dài
 
-- Menu và lightbox hỗ trợ bàn phím.
-- Có skip link, alt text và semantic landmarks.
-- Tôn trọng cài đặt `prefers-reduced-motion`.
-- Ảnh gallery trong trang năm được lazy-load.
+- Chỉ thay đổi dữ liệu qua bản nháp → xem trước → kiểm tra → xuất bản.
+- Không đưa token hoặc ảnh upload mới vào Git.
+- Không xóa ảnh R2 đang được JSON tham chiếu.
+- Không sửa ID hoạt động/thành viên đã có; ID ổn định giúp liên kết cũ tiếp tục hoạt động.
+- Luôn chạy `npm run check` và xem giao diện mobile trước khi deploy production.

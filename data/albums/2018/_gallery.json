@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "year": 2018,
+  "activityId": "2018-year-gallery",
+  "title": "Album năm 2018",
+  "count": 76,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/001.jpg",
+      "caption": "Cầu nguyện định kỳ · ảnh 1",
+      "alt": "Ảnh tư liệu: Cầu nguyện định kỳ",
+      "event": "Cầu nguyện định kỳ",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/002.jpg",
+      "caption": "Cầu nguyện định kỳ · ảnh 2",
+      "alt": "Ảnh tư liệu: Cầu nguyện định kỳ",
+      "event": "Cầu nguyện định kỳ",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/003.jpg",
+      "caption": "Cầu nguyện định kỳ · ảnh 3",
+      "alt": "Ảnh tư liệu: Cầu nguyện định kỳ",
+      "event": "Cầu nguyện định kỳ",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/003.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/004.jpg",
+      "caption": "Cầu nguyện định kỳ · ảnh 4",
+      "alt": "Ảnh tư liệu: Cầu nguyện định kỳ",
+      "event": "Cầu nguyện định kỳ",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/004.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/001.jpg",
+      "caption": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc · ảnh 1",
+      "alt": "Ảnh tư liệu: Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
+      "event": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/002.jpg",
+      "caption": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc · ảnh 2",
+      "alt": "Ảnh tư liệu: Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
+      "event": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/003.jpg",
+      "caption": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc · ảnh 3",
+      "alt": "Ảnh tư liệu: Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
+      "event": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/003.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/004.jpg",
+      "caption": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc · ảnh 4",
+      "alt": "Ảnh tư liệu: Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
+      "event": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/004.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/001.jpg",
+      "caption": "Thi Kinh Thánh tại Giáo xứ Thái Hà · ảnh 1",
+      "alt": "Ảnh tư liệu: Thi Kinh Thánh tại Giáo xứ Thái Hà",
+      "event": "Thi Kinh Thánh tại Giáo xứ Thái Hà",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/002.jpg",
+      "caption": "Thi Kinh Thánh tại Giáo xứ Thái Hà · ảnh 2",
+      "alt": "Ảnh tư liệu: Thi Kinh Thánh tại Giáo xứ Thái Hà",
+      "event": "Thi Kinh Thánh tại Giáo xứ Thái Hà",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/003.jpg",
+      "caption": "Thi Kinh Thánh tại Giáo xứ Thái Hà · ảnh 3",
+      "alt": "Ảnh tư liệu: Thi Kinh Thánh tại Giáo xứ Thái Hà",
+      "event": "Thi Kinh Thánh tại Giáo xứ Thái Hà",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/003.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/001.jpg",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 1",
+      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/002.jpg",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 2",
+      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/003.jpg",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 3",
+      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/003.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/004.jpg",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 4",
+      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/004.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/005.jpg",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 5",
+      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/005.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/006.jpg",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 6",
+      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/006.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/007.jpg",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 7",
+      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/007.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/008.jpg",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 8",
+      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/008.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/009.jpg",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 9",
+      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/009.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/010.jpg",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 10",
+      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/010.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/011.jpg",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 11",
+      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/011.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/001.jpg",
+      "caption": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo · ảnh 1",
+      "alt": "Ảnh tư liệu: Hội thảo Giới trẻ tại Giáo xứ Phú Tảo",
+      "event": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/002.jpg",
+      "caption": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo · ảnh 2",
+      "alt": "Ảnh tư liệu: Hội thảo Giới trẻ tại Giáo xứ Phú Tảo",
+      "event": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/003.jpg",
+      "caption": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo · ảnh 3",
+      "alt": "Ảnh tư liệu: Hội thảo Giới trẻ tại Giáo xứ Phú Tảo",
+      "event": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/003.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/004.jpg",
+      "caption": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo · ảnh 4",
+      "alt": "Ảnh tư liệu: Hội thảo Giới trẻ tại Giáo xứ Phú Tảo",
+      "event": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/004.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/001.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 1",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/002.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 2",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/003.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 3",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/003.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/004.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 4",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/004.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/005.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 5",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/005.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/006.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 6",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/006.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/007.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 7",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/007.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/008.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 8",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/008.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/009.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 9",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/009.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/010.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 10",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/010.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/011.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 11",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/011.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/012.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 12",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/012.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/013.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 13",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/013.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/014.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 14",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/014.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/015.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 15",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/015.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/016.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 16",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/016.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/017.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 17",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/017.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/018.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 18",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/018.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/019.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 19",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/019.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/020.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 20",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/020.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/021.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 21",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/021.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/022.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 22",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/022.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/023.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 23",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/023.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/024.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 24",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/024.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/025.jpg",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 25",
+      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/025.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/001.jpg",
+      "caption": "Bầu Ban điều hành mới · ảnh 1",
+      "alt": "Ảnh tư liệu: Bầu Ban điều hành mới",
+      "event": "Bầu Ban điều hành mới",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/002.jpg",
+      "caption": "Bầu Ban điều hành mới · ảnh 2",
+      "alt": "Ảnh tư liệu: Bầu Ban điều hành mới",
+      "event": "Bầu Ban điều hành mới",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/003.jpg",
+      "caption": "Bầu Ban điều hành mới · ảnh 3",
+      "alt": "Ảnh tư liệu: Bầu Ban điều hành mới",
+      "event": "Bầu Ban điều hành mới",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/003.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/004.jpg",
+      "caption": "Bầu Ban điều hành mới · ảnh 4",
+      "alt": "Ảnh tư liệu: Bầu Ban điều hành mới",
+      "event": "Bầu Ban điều hành mới",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/004.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/005.jpg",
+      "caption": "Bầu Ban điều hành mới · ảnh 5",
+      "alt": "Ảnh tư liệu: Bầu Ban điều hành mới",
+      "event": "Bầu Ban điều hành mới",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/005.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/001.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương · ảnh 1",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương",
+      "event": "Giáng Sinh Trao Yêu Thương",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/002.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương · ảnh 2",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương",
+      "event": "Giáng Sinh Trao Yêu Thương",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/003.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương · ảnh 3",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương",
+      "event": "Giáng Sinh Trao Yêu Thương",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/003.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/004.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương · ảnh 4",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương",
+      "event": "Giáng Sinh Trao Yêu Thương",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/004.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/005.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương · ảnh 5",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương",
+      "event": "Giáng Sinh Trao Yêu Thương",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/005.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/006.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương · ảnh 6",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương",
+      "event": "Giáng Sinh Trao Yêu Thương",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/006.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/007.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương · ảnh 7",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương",
+      "event": "Giáng Sinh Trao Yêu Thương",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/007.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/008.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương · ảnh 8",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương",
+      "event": "Giáng Sinh Trao Yêu Thương",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/008.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/009.jpg",
+      "caption": "Giáng Sinh Trao Yêu Thương · ảnh 9",
+      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương",
+      "event": "Giáng Sinh Trao Yêu Thương",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/009.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/001.jpg",
+      "caption": "Những phút giây sinh hoạt ngoài công viên · ảnh 1",
+      "alt": "Ảnh tư liệu sinh hoạt ngoài công viên của ca đoàn",
+      "event": "Những phút giây sinh hoạt ngoài công viên",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/002.jpg",
+      "caption": "Những phút giây sinh hoạt ngoài công viên · ảnh 2",
+      "alt": "Ảnh tư liệu sinh hoạt ngoài công viên của ca đoàn",
+      "event": "Những phút giây sinh hoạt ngoài công viên",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/003.jpg",
+      "caption": "Những phút giây sinh hoạt ngoài công viên · ảnh 3",
+      "alt": "Ảnh tư liệu sinh hoạt ngoài công viên của ca đoàn",
+      "event": "Những phút giây sinh hoạt ngoài công viên",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/003.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/004.jpg",
+      "caption": "Những phút giây sinh hoạt ngoài công viên · ảnh 4",
+      "alt": "Ảnh tư liệu sinh hoạt ngoài công viên của ca đoàn",
+      "event": "Những phút giây sinh hoạt ngoài công viên",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/004.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/005.jpg",
+      "caption": "Những phút giây sinh hoạt ngoài công viên · ảnh 5",
+      "alt": "Ảnh tư liệu sinh hoạt ngoài công viên của ca đoàn",
+      "event": "Những phút giây sinh hoạt ngoài công viên",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/005.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/006.jpg",
+      "caption": "Những phút giây sinh hoạt ngoài công viên · ảnh 6",
+      "alt": "Ảnh tư liệu sinh hoạt ngoài công viên của ca đoàn",
+      "event": "Những phút giây sinh hoạt ngoài công viên",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/006.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/007.jpg",
+      "caption": "Những phút giây sinh hoạt ngoài công viên · ảnh 7",
+      "alt": "Ảnh tư liệu sinh hoạt ngoài công viên của ca đoàn",
+      "event": "Những phút giây sinh hoạt ngoài công viên",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/007.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/008.jpg",
+      "caption": "Những phút giây sinh hoạt ngoài công viên · ảnh 8",
+      "alt": "Ảnh tư liệu sinh hoạt ngoài công viên của ca đoàn",
+      "event": "Những phút giây sinh hoạt ngoài công viên",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/008.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/009.jpg",
+      "caption": "Những phút giây sinh hoạt ngoài công viên · ảnh 9",
+      "alt": "Ảnh tư liệu sinh hoạt ngoài công viên của ca đoàn",
+      "event": "Những phút giây sinh hoạt ngoài công viên",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/009.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/010.jpg",
+      "caption": "Những phút giây sinh hoạt ngoài công viên · ảnh 10",
+      "alt": "Ảnh tư liệu sinh hoạt ngoài công viên của ca đoàn",
+      "event": "Những phút giây sinh hoạt ngoài công viên",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/010.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/011.jpg",
+      "caption": "Những phút giây sinh hoạt ngoài công viên · ảnh 11",
+      "alt": "Ảnh tư liệu sinh hoạt ngoài công viên của ca đoàn",
+      "event": "Những phút giây sinh hoạt ngoài công viên",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/sinh-hoat-ngoai-cong-vien/011.jpg",
+      "variants": {}
+    }
+  ]
+}

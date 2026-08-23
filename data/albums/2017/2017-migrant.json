@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "year": 2017,
+  "activityId": "2017-migrant",
+  "title": "Phục vụ Đại lễ Di dân 2017",
+  "count": 6,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/001.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 1",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/002.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 2",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/003.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 3",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/003.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/004.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 4",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/004.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/005.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 5",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/005.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/006.jpg",
+      "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 6",
+      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/006.jpg",
+      "variants": {}
+    }
+  ]
+}

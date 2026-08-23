@@ -2,7 +2,7 @@
 <html lang="vi">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta name="theme-color" content="#0b6b6c" />
     <meta name="description" content="Khu quản trị kho lưu trữ Teresa Youth Choir." />
     <title>Quản trị — Teresa Youth Choir</title>
@@ -10,14 +10,15 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="css/style.css?v=archive-2026-30" />
+    <link rel="stylesheet" href="css/style.css?v=archive-2026-39" />
     <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js" defer></script>
     <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-auth-compat.js" defer></script>
     <script src="js/firebase-config.js?v=archive-2026-21" defer></script>
-    <script src="js/store.js?v=archive-2026-30" defer></script>
+    <script src="js/schema.js?v=archive-2026-37" defer></script>
+    <script src="js/store.js?v=archive-2026-37" defer></script>
     <script src="js/word.js?v=archive-2026-16" defer></script>
-    <script src="js/main.js?v=archive-2026-30" defer></script>
-    <script src="js/admin.js?v=archive-2026-24" defer></script>
+    <script src="js/main.js?v=archive-2026-38" defer></script>
+    <script src="js/admin.js?v=archive-admin-drafts-5" defer></script>
   </head>
   <body class="admin-page">
     <a class="skip-link" href="#admin-app">Đi đến nội dung chính</a>
@@ -27,6 +28,29 @@
       <nav class="main-nav" aria-label="Điều hướng chính"><a href="index.html">Trang chủ</a><a href="index.html#journey">Hành trình</a><a href="index.html#album">Album</a><a class="active" href="admin.html">Quản trị</a></nav>
     </header>
     <main id="admin-app"></main>
+    <aside class="admin-command-bar" id="admin-command-bar" aria-label="Điều khiển bản nháp" aria-live="polite" hidden>
+      <div class="admin-command-status"><strong id="draft-status-title">Bản nháp</strong><span id="draft-status-detail">Chưa có thay đổi</span></div>
+      <div class="admin-command-actions">
+        <button class="button" id="command-save-draft" type="button">Lưu bản nháp</button>
+        <button class="button" id="command-preview" type="button">Xem trước</button>
+        <button class="button button-primary" id="command-publish" type="button">Xuất bản</button>
+        <button class="text-button" id="command-discard" type="button">Bỏ thay đổi · tải lại</button>
+      </div>
+    </aside>
+    <dialog class="admin-preview-dialog" id="admin-preview-dialog" aria-labelledby="admin-preview-title">
+      <div class="admin-preview-shell">
+        <header class="admin-preview-toolbar">
+          <div><small>Bản nháp chưa xuất bản</small><strong id="admin-preview-title">Xem trước năm</strong></div>
+          <div class="admin-preview-devices" role="group" aria-label="Kích thước xem trước">
+            <button type="button" data-preview-device="desktop" aria-pressed="true">Máy tính</button>
+            <button type="button" data-preview-device="mobile" aria-pressed="false">Điện thoại</button>
+          </div>
+          <button type="button" class="admin-preview-new-tab">Mở tab mới ↗</button>
+          <button type="button" class="admin-preview-close" aria-label="Đóng xem trước">×</button>
+        </header>
+        <div class="admin-preview-stage" data-device="desktop"><iframe title="Xem trước bản nháp Teresa" loading="eager"></iframe></div>
+      </div>
+    </dialog>
     <footer class="site-footer year-footer"><div class="container footer-bottom"><a href="index.html">← Xem website</a><span>Dữ liệu công khai được triển khai từ GitHub</span></div></footer>
   </body>
 </html>

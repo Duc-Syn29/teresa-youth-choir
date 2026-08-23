@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "year": 2017,
+  "activityId": "2017-football",
+  "title": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục",
+  "count": 4,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/001.jpg",
+      "caption": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục · ảnh 1",
+      "alt": "Ảnh tư liệu: Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/002.jpg",
+      "caption": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục · ảnh 2",
+      "alt": "Ảnh tư liệu: Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/003.jpg",
+      "caption": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục · ảnh 3",
+      "alt": "Ảnh tư liệu: Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/003.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/004.jpg",
+      "caption": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục · ảnh 4",
+      "alt": "Ảnh tư liệu: Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/004.jpg",
+      "variants": {}
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "activityId": "2025-year-gallery",
+  "title": "Album năm 2025",
+  "count": 6,
+  "images": [
+    {
+      "src": "images/gallery/phung-vu-2025.jpg",
+      "alt": "Ca đoàn phục vụ thánh lễ năm 2025",
+      "event": "Phụng vụ",
+      "caption": "Chung một lời ca",
+      "id": "images/gallery/phung-vu-2025.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
+          "width": 480,
+          "height": 290
+        },
+        "medium": {
+          "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
+          "width": 1280,
+          "height": 773
+        },
+        "original": {
+          "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
+          "width": 2048,
+          "height": 1237
+        }
+      }
+    },
+    {
+      "src": "images/gallery/gan-ket-2024.jpg",
+      "alt": "Các ca viên trong ngày hội gắn kết",
+      "event": "Teresa Games",
+      "caption": "Một đội, một nhà",
+      "id": "images/gallery/gan-ket-2024.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/gan-ket-2024-480.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "images/optimized/gallery/gan-ket-2024-1280.jpg",
+          "width": 1280,
+          "height": 851
+        },
+        "original": {
+          "src": "images/optimized/gallery/gan-ket-2024-2048.jpg",
+          "width": 2048,
+          "height": 1362
+        }
+      }
+    },
+    {
+      "src": "images/gallery/thien-nguyen-2019.jpg",
+      "alt": "Chuyến đi thiện nguyện",
+      "event": "Thiện nguyện",
+      "caption": "Tiếng hát lên đường",
+      "id": "images/gallery/thien-nguyen-2019.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/thien-nguyen-2019-480.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "images/optimized/gallery/thien-nguyen-2019-1280.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "images/optimized/gallery/thien-nguyen-2019-2048.jpg",
+          "width": 2048,
+          "height": 1364
+        }
+      }
+    },
+    {
+      "src": "images/gallery/team-building-2023.jpg",
+      "alt": "Team building của ca đoàn",
+      "event": "Team Building",
+      "caption": "Thanh xuân ở đây",
+      "id": "images/gallery/team-building-2023.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/team-building-2023-480.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "images/optimized/gallery/team-building-2023-1280.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "images/optimized/gallery/team-building-2023-2048.jpg",
+          "width": 2048,
+          "height": 1364
+        }
+      }
+    },
+    {
+      "src": "images/gallery/giang-sinh-2022.jpg",
+      "alt": "Ca đoàn trong đêm Giáng Sinh",
+      "event": "Giáng Sinh",
+      "caption": "Đêm của hy vọng",
+      "id": "images/gallery/giang-sinh-2022.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/giang-sinh-2022-480.jpg",
+          "width": 480,
+          "height": 290
+        },
+        "medium": {
+          "src": "images/optimized/gallery/giang-sinh-2022-1280.jpg",
+          "width": 1280,
+          "height": 773
+        },
+        "original": {
+          "src": "images/optimized/gallery/giang-sinh-2022-2048.jpg",
+          "width": 2048,
+          "height": 1237
+        }
+      }
+    },
+    {
+      "src": "images/gallery/quan-thay-2017.jpg",
+      "alt": "Thánh lễ Quan thầy",
+      "event": "Quan thầy",
+      "caption": "Trở về nguồn cội",
+      "id": "images/gallery/quan-thay-2017.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/quan-thay-2017-480.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "images/optimized/gallery/quan-thay-2017-1280.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "images/optimized/gallery/quan-thay-2017-2048.jpg",
+          "width": 2048,
+          "height": 1363
+        }
+      }
+    }
+  ]
+}

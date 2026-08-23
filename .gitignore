@@ -1,4 +1,6 @@
 .DS_Store
-*.zip
-cloudflare-worker/.wrangler/
+node_modules/
 .wrangler/
+.dev.vars
+.migration-backups/
+npm-debug.log*

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "year": 2016,
+  "activityId": "2016-uniform",
+  "title": "May áo choàng đồng phục",
+  "count": 1,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/001.jpg",
+      "caption": "May áo choàng đồng phục · ảnh 1",
+      "alt": "Ảnh tư liệu: May áo choàng đồng phục",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/001.jpg",
+      "variants": {}
+    }
+  ]
+}

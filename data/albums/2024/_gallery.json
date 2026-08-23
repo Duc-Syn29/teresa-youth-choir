@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "activityId": "2024-year-gallery",
+  "title": "Album năm 2024",
+  "count": 4,
+  "images": [
+    {
+      "src": "images/gallery/gan-ket-2024.jpg",
+      "alt": "Ca đoàn gắn kết năm 2024",
+      "event": "Gắn kết",
+      "caption": "Cùng nhau cất bước",
+      "id": "images/gallery/gan-ket-2024.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/gan-ket-2024-480.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "images/optimized/gallery/gan-ket-2024-1280.jpg",
+          "width": 1280,
+          "height": 851
+        },
+        "original": {
+          "src": "images/optimized/gallery/gan-ket-2024-2048.jpg",
+          "width": 2048,
+          "height": 1362
+        }
+      }
+    },
+    {
+      "src": "images/gallery/thien-nguyen-2019.jpg",
+      "alt": "Hoạt động thiện nguyện",
+      "event": "Thiện nguyện",
+      "caption": "Âm nhạc cho em",
+      "id": "images/gallery/thien-nguyen-2019.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/thien-nguyen-2019-480.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "images/optimized/gallery/thien-nguyen-2019-1280.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "images/optimized/gallery/thien-nguyen-2019-2048.jpg",
+          "width": 2048,
+          "height": 1364
+        }
+      }
+    },
+    {
+      "src": "images/gallery/giang-sinh-2022.jpg",
+      "alt": "Chương trình Giáng Sinh",
+      "event": "Giáng Sinh",
+      "caption": "Kể chuyện bình an",
+      "id": "images/gallery/giang-sinh-2022.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/giang-sinh-2022-480.jpg",
+          "width": 480,
+          "height": 290
+        },
+        "medium": {
+          "src": "images/optimized/gallery/giang-sinh-2022-1280.jpg",
+          "width": 1280,
+          "height": 773
+        },
+        "original": {
+          "src": "images/optimized/gallery/giang-sinh-2022-2048.jpg",
+          "width": 2048,
+          "height": 1237
+        }
+      }
+    },
+    {
+      "src": "images/gallery/phung-vu-2025.jpg",
+      "alt": "Phụng vụ của ca đoàn",
+      "event": "Phụng vụ",
+      "caption": "Giữ nhịp phục vụ",
+      "id": "images/gallery/phung-vu-2025.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
+          "width": 480,
+          "height": 290
+        },
+        "medium": {
+          "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
+          "width": 1280,
+          "height": 773
+        },
+        "original": {
+          "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
+          "width": 2048,
+          "height": 1237
+        }
+      }
+    }
+  ]
+}

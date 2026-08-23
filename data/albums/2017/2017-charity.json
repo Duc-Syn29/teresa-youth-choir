@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "year": 2017,
+  "activityId": "2017-charity",
+  "title": "Thiện nguyện tại Giáo xứ Bó Tờ",
+  "count": 11,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/001.jpg",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 1",
+      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/002.jpg",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 2",
+      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/003.jpg",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 3",
+      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/003.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/004.jpg",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 4",
+      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/004.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/005.jpg",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 5",
+      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/005.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/006.jpg",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 6",
+      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/006.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/007.jpg",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 7",
+      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/007.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/008.jpg",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 8",
+      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/008.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/009.jpg",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 9",
+      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/009.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/010.jpg",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 10",
+      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/010.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/011.jpg",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 11",
+      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/011.jpg",
+      "variants": {}
+    }
+  ]
+}

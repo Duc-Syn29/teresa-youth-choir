@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "year": 2017,
+  "activityId": "2017-retreat",
+  "title": "Tĩnh tâm tại Tam Đảo",
+  "count": 12,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/001.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 1",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/002.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 2",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/003.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 3",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/003.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/004.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 4",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/004.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/005.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 5",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/005.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/006.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 6",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/006.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/007.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 7",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/007.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/008.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 8",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/008.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/009.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 9",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/009.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/010.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 10",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/010.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/011.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 11",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/011.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/012.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 12",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/012.jpg",
+      "variants": {}
+    }
+  ]
+}

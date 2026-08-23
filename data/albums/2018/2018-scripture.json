@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "year": 2018,
+  "activityId": "2018-scripture",
+  "title": "Thi Kinh Thánh tại Giáo xứ Thái Hà",
+  "count": 3,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/001.jpg",
+      "caption": "Thi Kinh Thánh tại Giáo xứ Thái Hà · ảnh 1",
+      "alt": "Ảnh tư liệu: Thi Kinh Thánh tại Giáo xứ Thái Hà",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/002.jpg",
+      "caption": "Thi Kinh Thánh tại Giáo xứ Thái Hà · ảnh 2",
+      "alt": "Ảnh tư liệu: Thi Kinh Thánh tại Giáo xứ Thái Hà",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/003.jpg",
+      "caption": "Thi Kinh Thánh tại Giáo xứ Thái Hà · ảnh 3",
+      "alt": "Ảnh tư liệu: Thi Kinh Thánh tại Giáo xứ Thái Hà",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/003.jpg",
+      "variants": {}
+    }
+  ]
+}

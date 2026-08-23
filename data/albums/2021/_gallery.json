@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "year": 2021,
+  "activityId": "2021-year-gallery",
+  "title": "Album năm 2021",
+  "count": 3,
+  "images": [
+    {
+      "src": "images/gallery/giang-sinh-2022.jpg",
+      "alt": "Kỷ niệm Giáng Sinh",
+      "event": "Giáng Sinh",
+      "caption": "Ngôi sao trong nhà",
+      "id": "images/gallery/giang-sinh-2022.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/giang-sinh-2022-480.jpg",
+          "width": 480,
+          "height": 290
+        },
+        "medium": {
+          "src": "images/optimized/gallery/giang-sinh-2022-1280.jpg",
+          "width": 1280,
+          "height": 773
+        },
+        "original": {
+          "src": "images/optimized/gallery/giang-sinh-2022-2048.jpg",
+          "width": 2048,
+          "height": 1237
+        }
+      }
+    },
+    {
+      "src": "images/gallery/phung-vu-2025.jpg",
+      "alt": "Niềm tin qua âm nhạc",
+      "event": "Thánh ca",
+      "caption": "Ánh sáng không tắt",
+      "id": "images/gallery/phung-vu-2025.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
+          "width": 480,
+          "height": 290
+        },
+        "medium": {
+          "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
+          "width": 1280,
+          "height": 773
+        },
+        "original": {
+          "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
+          "width": 2048,
+          "height": 1237
+        }
+      }
+    },
+    {
+      "src": "images/gallery/gan-ket-2024.jpg",
+      "alt": "Các ca viên gắn kết",
+      "event": "Đồng hành",
+      "caption": "Chờ ngày gặp lại",
+      "id": "images/gallery/gan-ket-2024.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/gan-ket-2024-480.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "images/optimized/gallery/gan-ket-2024-1280.jpg",
+          "width": 1280,
+          "height": 851
+        },
+        "original": {
+          "src": "images/optimized/gallery/gan-ket-2024-2048.jpg",
+          "width": 2048,
+          "height": 1362
+        }
+      }
+    }
+  ]
+}

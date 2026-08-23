@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "year": 2022,
+  "activityId": "2022-year-gallery",
+  "title": "Album năm 2022",
+  "count": 3,
+  "images": [
+    {
+      "src": "images/gallery/giang-sinh-2022.jpg",
+      "alt": "Đêm Giáng Sinh 2022",
+      "event": "Giáng Sinh",
+      "caption": "Đêm đoàn viên",
+      "id": "images/gallery/giang-sinh-2022.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/giang-sinh-2022-480.jpg",
+          "width": 480,
+          "height": 290
+        },
+        "medium": {
+          "src": "images/optimized/gallery/giang-sinh-2022-1280.jpg",
+          "width": 1280,
+          "height": 773
+        },
+        "original": {
+          "src": "images/optimized/gallery/giang-sinh-2022-2048.jpg",
+          "width": 2048,
+          "height": 1237
+        }
+      }
+    },
+    {
+      "src": "images/gallery/gan-ket-2024.jpg",
+      "alt": "Ca viên gặp lại",
+      "event": "Gặp lại",
+      "caption": "Ngày trở về",
+      "id": "images/gallery/gan-ket-2024.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/gan-ket-2024-480.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "images/optimized/gallery/gan-ket-2024-1280.jpg",
+          "width": 1280,
+          "height": 851
+        },
+        "original": {
+          "src": "images/optimized/gallery/gan-ket-2024-2048.jpg",
+          "width": 2048,
+          "height": 1362
+        }
+      }
+    },
+    {
+      "src": "images/gallery/phung-vu-2025.jpg",
+      "alt": "Ca đoàn hát lễ",
+      "event": "Phụng vụ",
+      "caption": "Chung hàng ghế quen",
+      "id": "images/gallery/phung-vu-2025.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
+          "width": 480,
+          "height": 290
+        },
+        "medium": {
+          "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
+          "width": 1280,
+          "height": 773
+        },
+        "original": {
+          "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
+          "width": 2048,
+          "height": 1237
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "year": 2018,
+  "activityId": "2018-workshop",
+  "title": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo",
+  "count": 4,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/001.jpg",
+      "caption": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo · ảnh 1",
+      "alt": "Ảnh tư liệu: Hội thảo Giới trẻ tại Giáo xứ Phú Tảo",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/001.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/002.jpg",
+      "caption": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo · ảnh 2",
+      "alt": "Ảnh tư liệu: Hội thảo Giới trẻ tại Giáo xứ Phú Tảo",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/002.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/003.jpg",
+      "caption": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo · ảnh 3",
+      "alt": "Ảnh tư liệu: Hội thảo Giới trẻ tại Giáo xứ Phú Tảo",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/003.jpg",
+      "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/004.jpg",
+      "caption": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo · ảnh 4",
+      "alt": "Ảnh tư liệu: Hội thảo Giới trẻ tại Giáo xứ Phú Tảo",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/004.jpg",
+      "variants": {}
+    }
+  ]
+}
