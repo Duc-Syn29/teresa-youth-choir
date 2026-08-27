@@ -281,6 +281,7 @@
       type: string(source.type, "Khác"),
       topic: string(source.topic, string(source.type, "Khác")),
       date: string(source.date),
+      location: string(source.location),
       title: string(source.title),
       description: string(source.description),
       body: string(source.body, string(source.description)),

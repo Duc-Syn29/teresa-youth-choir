@@ -124,6 +124,8 @@
   function initPageReturn() {
     const stateKey = `teresa:view:${window.location.pathname}${window.location.search}`;
     const isYearPage = document.body.classList.contains("year-page") && document.querySelector("#year-app");
+    const isActivityPage = document.body.classList.contains("year-page") && document.querySelector("#activity-app");
+    const isManagedPage = isYearPage || isActivityPage;
     let restored = false;
     const readState = () => {
       try { return history.state?.teresaView || JSON.parse(sessionStorage.getItem(stateKey) || "null"); }
@@ -147,20 +149,20 @@
       savedAt: Date.now(),
     });
     const saveState = (pending) => {
-      if (isYearPage) writeState(collectState(pending));
+      if (isManagedPage) writeState(collectState(pending));
     };
 
     // Chỉ khôi phục vị trí sau khi rời trang năm để mở một hoạt động. Một lần
     // truy cập mới vào trang năm vẫn bắt đầu từ đầu như bình thường.
     document.addEventListener("click", (event) => {
-      if (!isYearPage || !event.target.closest('a[href*="activity.html?"]')) return;
+      if (!isManagedPage || !event.target.closest('a[href*="activity.html?"], a[href*="year.html?"]')) return;
       saveState(true);
     }, { capture: true });
     window.addEventListener("pagehide", () => {
-      if (isYearPage) saveState(Boolean(readState()?.pending));
+      if (isManagedPage) saveState(Boolean(readState()?.pending));
     });
     document.addEventListener("teresa:view-state", (event) => {
-      if (!isYearPage) return;
+      if (!isManagedPage) return;
       writeState({ ...collectState(Boolean(readState()?.pending)), ...(event.detail || {}) });
     });
 
@@ -171,10 +173,10 @@
     });
 
     const restoreViewState = () => {
-      if (!isYearPage || restored) return false;
+      if (!isManagedPage || restored) return false;
       const state = readState();
       if (!state?.pending || Date.now() - Number(state.savedAt || 0) > 30 * 60 * 1000) return false;
-      const app = document.querySelector("#year-app");
+      const app = document.querySelector("#year-app, #activity-app");
       if (!app || app.hidden || !app.children.length) return false;
       restored = true;
       document.documentElement.classList.add("page-restoring");
@@ -208,7 +210,7 @@
 
     document.addEventListener("teresa:page-rendered", restoreViewState);
     document.addEventListener("teresa:content-ready", restoreViewState);
-    const app = document.querySelector("#year-app");
+    const app = document.querySelector("#year-app, #activity-app");
     if (app) {
       const observer = new MutationObserver(() => {
         if (restoreViewState()) observer.disconnect();
@@ -236,6 +238,53 @@
     return { saveState, restoreViewState };
   }
 
+  function initPageTransitions() {
+    const storageKey = "teresa:route-transition";
+    const samePage = (url) => url.origin === location.origin && url.pathname === location.pathname && url.search === location.search;
+    const imageFrom = (link) => {
+      const visual = link.querySelector("img, [data-media-src]");
+      if (visual?.currentSrc || visual?.src) return visual.currentSrc || visual.src;
+      if (visual?.dataset.mediaSrc) return visual.dataset.mediaSrc;
+      return link.dataset.transitionImage || "";
+    };
+    const visualFrom = (link) => link.querySelector(".year-activity-media, .activity-nav-image, .activity-archive-event-media, img") || link;
+    document.addEventListener("click", (event) => {
+      const link = event.target.closest('a[href*="year.html?"], a[href*="activity.html?"]');
+      if (!link || event.defaultPrevented || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey || link.target || link.hasAttribute("download")) return;
+      const url = new URL(link.href, location.href);
+      if (samePage(url)) return;
+      const visual = visualFrom(link);
+      const rect = visual.getBoundingClientRect();
+      try {
+        sessionStorage.setItem(storageKey, JSON.stringify({ href: `${url.pathname}${url.search}`, image: imageFrom(link), rect: { x: rect.x, y: rect.y, width: rect.width, height: rect.height }, savedAt: Date.now() }));
+      } catch (_error) { /* Chuyển trang vẫn hoạt động nếu Safari chặn storage. */ }
+      visual.style.viewTransitionName = "teresa-cover";
+      document.documentElement.classList.add("page-leaving");
+    }, { capture: true });
+
+    const complete = (target) => {
+      if (!target) return;
+      target.style.viewTransitionName = "teresa-cover";
+      let saved;
+      try { saved = JSON.parse(sessionStorage.getItem(storageKey) || "null"); } catch (_error) { saved = null; }
+      const currentHref = `${location.pathname}${location.search}`;
+      if (!saved || saved.href !== currentHref || Date.now() - saved.savedAt > 12000 || !saved.image) return;
+      try { sessionStorage.removeItem(storageKey); } catch (_error) { /* Không bắt buộc. */ }
+      if (reduceMotion) return;
+      const end = target.getBoundingClientRect();
+      const start = saved.rect;
+      const overlay = document.createElement("div");
+      overlay.className = "route-cover-transition";
+      overlay.style.cssText = `left:${start.x}px;top:${start.y}px;width:${start.width}px;height:${start.height}px;background-image:url(${JSON.stringify(saved.image)})`;
+      document.body.append(overlay);
+      overlay.animate([
+        { left: `${start.x}px`, top: `${start.y}px`, width: `${start.width}px`, height: `${start.height}px`, borderRadius: "1.5rem", opacity: 1 },
+        { left: `${end.x}px`, top: `${end.y}px`, width: `${end.width}px`, height: `${end.height}px`, borderRadius: getComputedStyle(target).borderRadius || "0", opacity: 1 },
+      ], { duration: 520, easing: "cubic-bezier(.2,.75,.2,1)", fill: "forwards" }).finished.finally(() => overlay.remove());
+    };
+    window.TeresaUI = { ...(window.TeresaUI || {}), completeCoverTransition: complete };
+  }
+
   async function initArchiveOverview() {
     const timeline = document.querySelector(".timeline");
     if (!timeline || !window.TeresaStore?.loadIndex) return false;
@@ -247,7 +296,7 @@
       const newest = Number(years.at(-1).year);
       timeline.setAttribute("aria-label", `Hành trình từ ${oldest} đến ${newest}`);
       timeline.innerHTML = `<div class="timeline-line" aria-hidden="true"><span></span></div>${years.map((item) => `
-        <a class="timeline-item${Number(item.year) === newest ? " featured" : ""}" href="year.html?year=${encodeURIComponent(item.year)}">
+        <a class="timeline-item${Number(item.year) === newest ? " featured" : ""}" href="year.html?year=${encodeURIComponent(item.year)}" data-transition-image="${escapeHTML(window.TeresaStore.mediaSource(item.overview?.coverImage, "medium") || "")}">
           <span class="timeline-dot" aria-hidden="true"></span>
           <span class="timeline-year">${escapeHTML(item.year)}</span>
           <span class="timeline-copy"><strong>${escapeHTML(item.overview?.title || `Năm ${item.year}`)}</strong><small>${escapeHTML(item.overview?.eyebrow || item.overview?.summary || "Mở trang nhật ký")}</small></span>
@@ -327,6 +376,7 @@
     const rail = document.querySelector(".year-nav");
     if (!rail || rail.dataset.spyBound) return;
     const links = [...rail.querySelectorAll('a[href^="#"]')];
+    const label = rail.querySelector("[data-year-nav-label]");
     const targets = links.map((link) => document.querySelector(link.getAttribute("href"))).filter(Boolean);
     if (!links.length || !targets.length || !("IntersectionObserver" in window)) return;
     rail.dataset.spyBound = "true";
@@ -341,11 +391,16 @@
         else link.removeAttribute("aria-current");
       });
       if (active) {
+        if (label) label.textContent = active.textContent.trim();
         const left = Math.max(0, active.offsetLeft - (rail.clientWidth - active.offsetWidth) / 2);
         rail.scrollTo({ left, behavior: reduceMotion ? "auto" : "smooth" });
       }
     }, { rootMargin: "-32% 0px -58% 0px", threshold: [0, .25, .75] });
     targets.forEach((target) => observer.observe(target));
+    const compactAt = Math.max(260, document.querySelector(".year-hero")?.offsetHeight * .62 || 260);
+    const updateCompact = () => rail.classList.toggle("compact", window.scrollY > compactAt);
+    updateCompact();
+    window.addEventListener("scroll", updateCompact, { passive: true });
   }
 
   function initCounters() {
@@ -661,7 +716,7 @@
       counter.className = "lightbox-counter";
       figure.prepend(counter);
     }
-    const state = dialog._teresaState || { activeIndex: 0, customItems: null, albumTitle: "", touchStartX: 0, touchStartY: 0, requestId: 0, opener: null };
+    const state = dialog._teresaState || { activeIndex: 0, customItems: null, albumTitle: "", touchStartX: 0, touchStartY: 0, requestId: 0, opener: null, lastTap: 0, zoomed: false };
     dialog._teresaState = state;
 
     const domItems = () => [...document.querySelectorAll(".gallery-item[data-full]:not(.hidden)")].map((item) => ({
@@ -670,12 +725,13 @@
       caption: item.dataset.caption || "Kỷ niệm Teresa Youth Choir",
     }));
     const items = () => state.customItems || domItems();
-    const resolveItem = async (item) => window.TeresaStore?.resolveSource(item?.src) || item?.src || "";
-    const preloadNeighbors = (currentItems) => {
+    const resolveItem = async (item) => {
+      const candidate = window.TeresaStore?.mediaSource(item, "original") || item?.src || "";
+      return window.TeresaStore?.resolveSource(candidate, "original") || candidate;
+    };
+    const preloadNext = (currentItems) => {
       if (currentItems.length < 2) return;
-      const neighbors = [state.activeIndex - 1, state.activeIndex + 1]
-        .map((index) => currentItems[(index + currentItems.length) % currentItems.length]);
-      neighbors.forEach(async (item) => {
+      [currentItems[(state.activeIndex + 1) % currentItems.length]].forEach(async (item) => {
         const src = await resolveItem(item);
         if (!src) return;
         const preload = new Image();
@@ -688,6 +744,10 @@
       const currentItems = items();
       if (!currentItems.length) return;
       state.activeIndex = (index + currentItems.length) % currentItems.length;
+      state.zoomed = false;
+      image.classList.remove("is-zoomed");
+      image.style.transform = "";
+      figure.style.transform = "";
       const current = currentItems[state.activeIndex];
       const requestId = ++state.requestId;
       image.classList.add("is-changing");
@@ -701,7 +761,7 @@
       const finish = () => {
         if (requestId !== state.requestId) return;
         image.classList.remove("is-changing");
-        preloadNeighbors(currentItems);
+        preloadNext(currentItems);
       };
       image.addEventListener("load", finish, { once: true });
       image.addEventListener("error", finish, { once: true });
@@ -762,12 +822,35 @@
       state.touchStartX = event.changedTouches[0]?.clientX || 0;
       state.touchStartY = event.changedTouches[0]?.clientY || 0;
     }, { passive: true });
+    figure.addEventListener("touchmove", (event) => {
+      if (state.zoomed) return;
+      const distanceX = (event.changedTouches[0]?.clientX || 0) - state.touchStartX;
+      const distanceY = (event.changedTouches[0]?.clientY || 0) - state.touchStartY;
+      if (distanceY > 0 && Math.abs(distanceY) > Math.abs(distanceX)) {
+        dialog.classList.add("is-dragging");
+        figure.style.transform = `translate3d(0,${Math.min(distanceY, 240)}px,0) scale(${Math.max(.88, 1 - distanceY / 1100)})`;
+        event.preventDefault();
+      } else if (Math.abs(distanceX) > 8) {
+        figure.style.transform = `translate3d(${Math.max(-90, Math.min(90, distanceX * .3))}px,0,0)`;
+      }
+    }, { passive: false });
     figure.addEventListener("touchend", (event) => {
       const distanceX = (event.changedTouches[0]?.clientX || 0) - state.touchStartX;
       const distanceY = (event.changedTouches[0]?.clientY || 0) - state.touchStartY;
-      if (Math.abs(distanceX) < 48 || Math.abs(distanceX) <= Math.abs(distanceY)) return;
-      show(state.activeIndex + (distanceX < 0 ? 1 : -1));
-    }, { passive: true });
+      dialog.classList.remove("is-dragging");
+      figure.style.transform = "";
+      const now = Date.now();
+      if (Math.abs(distanceX) < 12 && Math.abs(distanceY) < 12 && now - state.lastTap < 320) {
+        state.zoomed = !state.zoomed;
+        image.classList.toggle("is-zoomed", state.zoomed);
+        state.lastTap = 0;
+        event.preventDefault();
+        return;
+      }
+      state.lastTap = now;
+      if (!state.zoomed && distanceY > 110 && Math.abs(distanceY) > Math.abs(distanceX)) return closeDialog();
+      if (!state.zoomed && Math.abs(distanceX) >= 48 && Math.abs(distanceX) > Math.abs(distanceY)) show(state.activeIndex + (distanceX < 0 ? 1 : -1));
+    }, { passive: false });
   }
 
   function initBackToTop() {
@@ -797,6 +880,7 @@
   function init() {
     initHeader();
     pageReturnController = initPageReturn();
+    initPageTransitions();
     initYearNavigation();
     document.addEventListener("teresa:page-rendered", initYearNavigation);
     document.addEventListener("teresa:content-ready", initYearNavigation);

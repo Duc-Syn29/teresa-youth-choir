@@ -81,11 +81,13 @@ test("an existing activity ID is preserved", () => {
     date: "01.01.2020",
     type: "Gắn kết",
     topic: "Gắn kết",
+    location: "Giáo xứ Thái Hà",
     description: "Tóm tắt",
     body: "Nội dung",
     images: [],
   }] }));
   assert.equal(normalized.activities[0].id, "2020-existing-id");
+  assert.equal(normalized.activities[0].location, "Giáo xứ Thái Hà");
 });
 
 test("album-backed activities do not retain inline images", () => {

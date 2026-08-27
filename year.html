@@ -10,11 +10,11 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="css/style.css?v=archive-2026-39" />
-    <script src="js/schema.js?v=archive-2026-37" defer></script>
-    <script src="js/store.js?v=archive-2026-37" defer></script>
-    <script src="js/main.js?v=archive-2026-38" defer></script>
-    <script src="js/year.js?v=archive-2026-38" defer></script>
+    <link rel="stylesheet" href="css/style.css?v=archive-2026-41" />
+    <script src="js/schema.js?v=archive-2026-41" defer></script>
+    <script src="js/store.js?v=archive-2026-41" defer></script>
+    <script src="js/main.js?v=archive-2026-41" defer></script>
+    <script src="js/year.js?v=archive-2026-41" defer></script>
   </head>
 
   <body class="year-page">
@@ -38,10 +38,7 @@
 
     <main id="year-content">
       <!-- JavaScript thay toàn bộ vùng loading bằng dữ liệu của /data/{year}.json. -->
-      <div class="year-loading" id="year-loading" role="status" aria-live="polite">
-        <span class="loading-note" aria-hidden="true">♪</span>
-        <p>Đang mở trang nhật ký…</p>
-      </div>
+      <div class="page-skeleton year-page-skeleton" id="year-loading" role="status" aria-live="polite"><div class="skeleton-hero"><span></span><i></i><b></b><em></em></div><div class="skeleton-nav"></div><div class="container skeleton-cards"><article></article><article></article><article></article><article></article></div><span class="sr-only">Đang mở trang nhật ký…</span></div>
       <div id="year-app" hidden></div>
     </main>
 

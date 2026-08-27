@@ -100,7 +100,7 @@
       const editorial = editorialVisual(activity.type);
       const number = String(index + 1).padStart(2, "0");
       return `
-        <a class="year-activity reveal${previewSrc ? "" : ` year-activity-editorial editorial-theme-${editorial.theme}`}" href="activity.html?year=${encodeURIComponent(activity.year || "")}&id=${encodeURIComponent(activity.id || "")}" aria-label="Mở hoạt động: ${escapeHTML(activity.title)}">
+        <a class="year-activity reveal${previewSrc ? "" : ` year-activity-editorial editorial-theme-${editorial.theme}`}" href="activity.html?year=${encodeURIComponent(activity.year || "")}&id=${encodeURIComponent(activity.id || "")}" data-transition-image="${escapeHTML(previewSrc)}" aria-label="Mở hoạt động: ${escapeHTML(activity.title)}">
           <span class="year-activity-media${previewSrc ? "" : " year-activity-media-empty"}"${previewSrc ? ` data-media-src="${escapeHTML(previewSrc)}" data-media-variant="medium"` : ` data-editorial-number="${number}"`} aria-hidden="true">${previewSrc ? "" : `<i class="editorial-icon">${editorial.icon}</i><small>Tư liệu ${escapeHTML(activity.year || "")}</small>`}</span>
           <span class="year-activity-shade" aria-hidden="true"></span><span class="year-activity-number" aria-hidden="true">${number}</span>
           <span class="year-activity-content"><span class="year-activity-meta"><span>${escapeHTML(activity.type)}</span><time>${escapeHTML(activity.date)}</time></span><strong>${escapeHTML(activity.title)}</strong><span class="year-activity-description">${escapeHTML(activity.description)}</span><span class="year-activity-footer"><span>${photoCount ? `${photoCount} ảnh tư liệu` : "Tư liệu hình ảnh đang được bổ sung"}</span><b aria-hidden="true">↗</b></span></span>
@@ -174,7 +174,7 @@
     const more = dialog.querySelector("[data-album-dialog-more]");
     title.textContent = album.title;
     count.textContent = `Đang mở ${album.count} ảnh…`;
-    grid.innerHTML = '<div class="activity-archive-loading"><span aria-hidden="true">♪</span><p>Đang tải chỉ mục album…</p></div>';
+    grid.innerHTML = '<div class="album-skeleton" role="status"><i></i><i></i><i></i><i></i><span class="sr-only">Đang tải chỉ mục album…</span></div>';
     more.hidden = true;
     dialog.dataset.albumKey = album.key || "";
     if (!dialog.open) dialog.showModal();
@@ -316,7 +316,7 @@
 
     app.innerHTML = `
       <section class="year-hero"><div class="year-hero-bg">${hero ? `<img ${mediaAttributes(overview.coverImage, "original", "100vw")} data-media-priority="high" alt="" loading="eager" decoding="async" />` : ""}</div><div class="container year-hero-content"><div class="year-number">${year}</div><div class="year-intro"><p class="eyebrow">${escapeHTML(overview.eyebrow)}</p><h1>${escapeHTML(overview.title)}</h1><p>${escapeHTML(overview.summary)}</p><p class="year-verse">${escapeHTML(overview.verse)}</p></div></div></section>
-      <nav class="year-nav" aria-label="Mục lục năm ${year}"><div class="container year-nav-inner"><a href="#overview">Tổng quan</a><a href="#leadership">Ban điều hành</a><a href="#members">Thành viên</a><a href="#year-activities">Hoạt động</a><a href="#reflection">Nhìn lại</a><a href="#year-album">Album</a><a href="#sharing">Lời chia sẻ</a></div></nav>
+      <nav class="year-nav" aria-label="Mục lục năm ${year}"><div class="container year-nav-inner"><span class="year-nav-current" aria-live="polite"><small>Đang xem</small><strong data-year-nav-label>Tổng quan</strong></span><a href="#overview">Tổng quan</a><a href="#leadership">Ban điều hành</a><a href="#members">Thành viên</a><a href="#year-activities">Hoạt động</a><a href="#reflection">Nhìn lại</a><a href="#year-album">Album</a><a href="#sharing">Lời chia sẻ</a></div></nav>
       <section class="year-section" aria-labelledby="overview"><div class="container">${sectionHeading(1, "Tổng quan năm", overview.title, "overview")}<div class="overview-grid"><article class="overview-story reveal">${prose(overview.longDescription)}</article><article class="year-mark-card reveal"><small>Dấu ấn ${year}</small><strong>${escapeHTML(yearMark.title)}</strong><span>${escapeHTML(yearMark.highlight)}</span></article></div></div></section>
       <section class="year-section" aria-labelledby="leadership"><div class="container">${sectionHeading(2, "Những người phục vụ", "Ban điều hành", "leadership")}<div class="leadership-grid">${renderLeadership(leadership)}</div></div></section>
       <section class="year-section" aria-labelledby="members"><div class="container">${sectionHeading(3, "Gia đình Têrêsa", "Thành viên", "members")}<div class="member-stats"><article class="member-stat reveal"><strong>${members.total}</strong><span>Tổng số ca viên</span></article><article class="member-stat reveal"><strong>+${members.new}</strong><span>Ca viên mới</span></article><article class="member-stat reveal"><strong>${members.inactive}</strong><span>Thành viên nghỉ</span></article></div><p class="member-note reveal">${escapeHTML(members.notes)}</p></div></section>
@@ -326,14 +326,14 @@
       <section class="year-section" aria-labelledby="sharing"><div class="container">${sectionHeading(7, "Thanh âm ở lại", "Lời chia sẻ", "sharing")}<div class="quote-grid">${renderQuotes(sharing)}</div></div></section>
       <section class="year-signature"><div class="container reveal"><p class="eyebrow">Dấu ấn của năm</p><h2>${escapeHTML(yearMark.title)}</h2><p>${escapeHTML(yearMark.description)}</p>${yearSwitcher(year, available)}</div></section>`;
 
+    await window.TeresaStore.hydrateMedia(app);
     loading.hidden = true;
     app.hidden = false;
-    await window.TeresaStore.hydrateMedia(app);
     window.TeresaUI?.initReveal(app);
     window.TeresaUI?.initLightbox();
     window.TeresaUI?.initLiquidGlass(app);
     initYearAlbums(albums, available);
-    initYearSectionSpy();
+    window.TeresaUI?.completeCoverTransition?.(app.querySelector(".year-hero-bg"));
     document.dispatchEvent(new CustomEvent("teresa:content-ready", { detail: { page: "year", year } }));
   }
 

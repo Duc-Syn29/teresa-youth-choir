@@ -6,6 +6,7 @@
   const year = Number(params.get("year"));
   const activityId = params.get("id");
   const app = document.querySelector("#activity-app");
+  const loading = document.querySelector("#activity-loading");
   const Schema = window.TeresaSchema || {};
   const compactViewport = window.matchMedia("(max-width: 680px)");
   const galleryBatchSize = compactViewport.matches ? 20 : 24;
@@ -87,6 +88,36 @@
     return paragraphs.map((paragraph, index) => `<p${index === 0 ? ' class="activity-lead"' : ""}>${escapeHTML(paragraph)}</p>`).join("");
   }
 
+  function storyParts(value = "") {
+    const sourceText = String(value).trim();
+    if (!sourceText) return [];
+    const original = sourceText.split(/\n\s*\n|\n/).map((part) => part.trim()).filter(Boolean);
+    return original.flatMap((paragraph) => {
+      if (paragraph.length <= 520) return [paragraph];
+      const sentences = paragraph.match(/[^.!?…]+[.!?…]+|[^.!?…]+$/gu) || [paragraph];
+      const chunks = [];
+      let chunk = "";
+      sentences.forEach((sentence) => {
+        const next = `${chunk} ${sentence.trim()}`.trim();
+        if (chunk && next.length > 460) { chunks.push(chunk); chunk = sentence.trim(); }
+        else chunk = next;
+      });
+      if (chunk) chunks.push(chunk);
+      return chunks;
+    });
+  }
+
+  function storyMarkup(activity, photos) {
+    const parts = storyParts(activity.body || activity.description);
+    const photoIndexes = photos.length ? [...new Set([0, Math.floor(photos.length / 2), photos.length - 1])].slice(0, Math.min(3, parts.length || 1)) : [];
+    return parts.map((paragraph, index) => {
+      const photoIndex = photoIndexes[index];
+      const photo = photoIndex !== undefined ? photos[photoIndex] : null;
+      const caption = photo ? displayCaption(photo.caption, activity.title) : "";
+      return `<section class="activity-story-chapter"><p${index === 0 ? ' class="activity-lead"' : ""}>${escapeHTML(paragraph)}</p>${photo ? `<button class="activity-story-photo" type="button" data-story-photo="${photoIndex}" aria-label="Mở ảnh: ${escapeHTML(caption)}"><img ${mediaAttributes(photo, "medium", "(max-width:680px) 92vw, 62vw")} alt="${escapeHTML(photo.alt || caption)}" loading="lazy" decoding="async" /><span>${String(photoIndex + 1).padStart(2, "0")} / ${photos.length}</span></button>` : ""}</section>`;
+    }).join("");
+  }
+
   function activityPreview(activity, data) {
     const matchingPhoto = (data.gallery || []).find((photo) => photo.event === activity.title || photo.event === activity.type);
     return activity.coverImage || activity.album?.preview?.[0] || activity.images?.[0] || matchingPhoto || "";
@@ -122,6 +153,8 @@
 
   async function render() {
     if (!window.TeresaStore || !Number.isInteger(year) || !activityId) {
+      loading.hidden = true;
+      app.hidden = false;
       app.innerHTML = errorMarkup("Liên kết hoạt động chưa hợp lệ.");
       return;
     }
@@ -151,7 +184,7 @@
             <div class="activity-hero-meta"><span>${escapeHTML(activity.type)}</span><time>${escapeHTML(activity.date)}</time></div>
             <h1>${escapeHTML(activity.title)}</h1>
             <p class="activity-hero-summary">${escapeHTML(activity.description)}</p>
-            <div class="activity-actions"><a class="button button-primary" href="${yearUrl}">← Nhật ký ${year}</a>${adminLink}</div>
+            <div class="activity-actions"><a class="button button-primary" href="#activity-story">Xem hành trình ↓</a><a class="button button-light" href="${yearUrl}">← Nhật ký ${year}</a>${adminLink}</div>
           </div>
           <a class="activity-scroll-cue" href="#activity-story"><span>Đọc câu chuyện</span><i aria-hidden="true">↓</i></a>
         </section>
@@ -161,13 +194,14 @@
               <p class="eyebrow">Tư liệu hoạt động</p>
               <div class="activity-fact"><span>Năm</span><strong>${year}</strong></div>
               <div class="activity-fact"><span>Thời gian</span><strong>${escapeHTML(activity.date)}</strong></div>
+              ${activity.location ? `<div class="activity-fact"><span>Địa điểm</span><strong>${escapeHTML(activity.location)}</strong></div>` : ""}
               <div class="activity-fact"><span>Chủ đề</span><strong>${escapeHTML(activity.topic || activity.type)}</strong></div>
               <div class="activity-fact"><span>Kho ảnh</span><strong>${photos.length ? `${photos.length} khoảnh khắc` : "Đang cập nhật"}</strong></div>
             </aside>
             <article class="activity-story reveal">
               <p class="activity-story-kicker">Câu chuyện được lưu lại</p>
               <h2>${escapeHTML(activity.title)}</h2>
-              <div class="activity-prose">${proseMarkup(activity.body || activity.description)}</div>
+              <div class="activity-prose activity-story-flow">${storyMarkup(activity, photos)}</div>
             </article>
           </div>
         </section>
@@ -180,13 +214,19 @@
         <section class="activity-navigation"><div class="container"><p class="eyebrow">Tiếp tục hành trình ${year}</p><div class="activity-nav-grid">${navigationCard(previous, data, "previous")}${navigationCard(next, data, "next")}</div></div></section>`;
 
       await window.TeresaStore.hydrateMedia(app);
+      loading.hidden = true;
+      app.hidden = false;
       window.TeresaUI?.initReveal(app);
       window.TeresaUI?.initLightbox();
       initProgressiveGallery(photos, activity);
+      app.querySelectorAll("[data-story-photo]").forEach((button) => button.addEventListener("click", () => window.TeresaUI?.openLightbox(photos, Number(button.dataset.storyPhoto), activity.title)));
+      window.TeresaUI?.completeCoverTransition?.(app.querySelector(".activity-hero-bg"));
       document.dispatchEvent(new CustomEvent("teresa:content-ready", { detail: { page: "activity", year, activityId } }));
       window.TeresaUI?.notifyPageRendered?.();
     } catch (error) {
       console.error("Không thể mở hoạt động:", error);
+      loading.hidden = true;
+      app.hidden = false;
       app.innerHTML = errorMarkup(error.message || "Không thể mở hoạt động.");
     }
   }

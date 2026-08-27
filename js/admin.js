@@ -243,7 +243,7 @@
     return `<form class="admin-form" id="activity-form"><input type="hidden" name="id" value="${escapeHTML(activity.id || "")}" /><input type="hidden" name="coverImage" value="${escapeHTML(cover)}" />
       <div class="admin-form-title"><div><p class="eyebrow">Hoạt động</p><h2>${activity.id ? "Chỉnh sửa hoạt động" : "Thêm hoạt động"}</h2></div><button class="text-button" type="button" id="clear-activity">Tạo mục mới</button></div>
       <div class="activity-context"><span>Năm cố định: <strong>${currentYear}</strong></span><span>Mọi thay đổi chỉ nằm trong bản nháp cho đến khi bấm Xuất bản.</span></div>
-      <div class="form-grid two"><label>Tên hoạt động<input name="title" required value="${escapeHTML(activity.title || "")}" /></label><label>Ngày / thời gian<input name="date" required value="${escapeHTML(activity.date || "")}" placeholder="Ví dụ: 01.10.${currentYear}" /></label><label>Loại hoạt động<input name="type" required value="${escapeHTML(activity.type || "Thánh lễ")}" /></label><label>Chủ đề ảnh${topicSelect("topic", topic)}</label></div>
+      <div class="form-grid two"><label>Tên hoạt động<input name="title" required value="${escapeHTML(activity.title || "")}" /></label><label>Ngày / thời gian<input name="date" required value="${escapeHTML(activity.date || "")}" placeholder="Ví dụ: 01.10.${currentYear}" /></label><label>Địa điểm<input name="location" value="${escapeHTML(activity.location || "")}" placeholder="Có thể để trống và bổ sung sau" /></label><label>Loại hoạt động<input name="type" required value="${escapeHTML(activity.type || "Thánh lễ")}" /></label><label>Chủ đề ảnh${topicSelect("topic", topic)}</label></div>
       <label>Tóm tắt<input name="description" required value="${escapeHTML(activity.description || "")}" /></label>
       <label>Bài viết chi tiết<textarea name="body" rows="7" required>${escapeHTML(activity.body || activity.description || "")}</textarea></label>
       <div class="word-import"><strong>Nhập bài viết Word</strong><input id="word-import" type="file" accept=".docx,application/vnd.openxmlformats-officedocument.wordprocessingml.document" /><small id="word-import-note">Chỉ nhập nội dung bài viết; năm và chủ đề không thay đổi.</small></div>
@@ -443,6 +443,7 @@
       coverImage: preserveMedia(existing.coverImage, values.coverImage, pendingCoverMedia),
       title: values.title || "",
       date: values.date || "",
+      location: values.location || "",
       type: values.type || "Khác",
       topic: values.topic || values.type || "Khác",
       description: values.description || "",

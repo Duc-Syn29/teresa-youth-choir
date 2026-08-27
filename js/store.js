@@ -419,7 +419,17 @@
     const src = await resolveSource(element.dataset.mediaSrc, variant);
     if (!src) { element.classList.add("media-ready", "media-missing"); return; }
     if (element.tagName === "IMG") {
-      const markReady = () => element.classList.add("media-ready");
+      let finish;
+      const ready = new Promise((resolve) => { finish = resolve; });
+      let settled = false;
+      const markReady = async () => {
+        if (settled) return;
+        settled = true;
+        try { if (element.decode) await element.decode(); }
+        catch (_error) { /* Ảnh vẫn được hiện nếu trình duyệt không hỗ trợ decode. */ }
+        element.classList.add("media-ready");
+        finish();
+      };
       element.decoding = "async";
       element.fetchPriority = element.dataset.mediaPriority === "high" ? "high" : "low";
       if (element.dataset.mediaSrcset) element.srcset = element.dataset.mediaSrcset;
@@ -428,7 +438,7 @@
       element.addEventListener("error", markReady, { once: true });
       element.src = src;
       if (element.complete) markReady();
-      return;
+      return ready;
     }
     const image = new Image();
     image.decoding = "async";
@@ -443,11 +453,13 @@
   async function hydrateMedia(root = document) {
     const elements = [...root.querySelectorAll("[data-media-src]:not([data-media-hydrated])")];
     const observer = ensureMediaObserver();
+    const priorityLoads = [];
     elements.forEach((element) => {
       element.dataset.mediaHydrated = "true";
-      if (element.dataset.mediaPriority === "high" || !observer) loadMediaElement(element);
+      if (element.dataset.mediaPriority === "high" || !observer) priorityLoads.push(loadMediaElement(element));
       else observer.observe(element);
     });
+    await Promise.all(priorityLoads);
   }
 
   function getAuthErrorMessage(code) {
