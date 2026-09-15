@@ -66,18 +66,37 @@
 
   function renderLeadership(leadership = {}) {
     const labels = { chaplain: "Cha đặc trách", leader: "Trưởng ca đoàn", deputyLeader: "Phó ca đoàn", conductor: "Ca trưởng", treasurer: "Thủ quỹ" };
-    const people = Object.entries(labels).map(([key, role]) => ({ role, members: legacyMembers(leadership[key] || {}) })).filter((entry) => entry.members.length);
+    const people = Object.entries(labels).flatMap(([key, role]) => legacyMembers(leadership[key] || {}).map((member) => ({
+      ...member,
+      note: member.note || role,
+    })));
     const teams = (leadership.teams || leadership.serviceTeams || []).map((team) => {
       const normalized = typeof team === "string" ? { name: team, members: [] } : team;
       return { role: normalized.name || "Ban phục vụ", members: (normalized.members || []).map((member) => typeof member === "string" ? { name: member, photo: "" } : member).filter((member) => member?.name) };
     });
+    const isMusicTeam = (team) => /chuyên môn|bè trưởng|đàn sĩ|nhạc cụ/i.test(team.role);
+    const serviceTeams = teams.filter((team) => !isMusicTeam(team));
+    const musicTeams = teams.filter(isMusicTeam);
     const photo = (member) => member.photo
       ? `<img class="team-member-photo" ${mediaAttributes(member.photo, "thumbnail", "48px")} alt="${escapeHTML(member.name)}" loading="lazy" decoding="async" />`
       : `<span class="team-member-initial" aria-hidden="true">${escapeHTML(member.name.trim().charAt(0) || "T")}</span>`;
-    return [...people, ...teams].map((entry) => `
-      <article class="person-card person-card-team reveal">
-        <span>${escapeHTML(entry.role)}</span>
-        ${entry.members.length ? `<ul class="team-member-list">${entry.members.map((member) => `<li>${photo(member)}<b>${escapeHTML(member.name)}</b></li>`).join("")}</ul>` : '<p class="empty-note">Đang cập nhật</p>'}
+    const memberDetails = (member) => `<div class="team-member-copy"><b>${escapeHTML(member.name)}</b>${member.note ? `<small>${escapeHTML(member.note)}</small>` : ""}</div>`;
+    const memberList = (members) => members.length
+      ? `<ul class="team-member-list">${members.map((member) => `<li>${photo(member)}${memberDetails(member)}</li>`).join("")}</ul>`
+      : '<p class="empty-note">Đang cập nhật</p>';
+    const teamSections = (entries) => `<div class="leadership-subgroups">${entries.map((entry) => `
+      <section class="leadership-subgroup">
+        <h3>${escapeHTML(entry.role)}</h3>
+        ${memberList(entry.members)}
+      </section>`).join("")}</div>`;
+    const groups = [];
+    if (people.length) groups.push({ title: "Ban điều hành chính", content: memberList(people) });
+    if (serviceTeams.length) groups.push({ title: "Các ban phục vụ", content: teamSections(serviceTeams) });
+    if (musicTeams.length) groups.push({ title: "Chuyên môn & bè hát", content: teamSections(musicTeams) });
+    return groups.map((group) => `
+      <article class="person-card person-card-team leadership-group-card reveal">
+        <span>${escapeHTML(group.title)}</span>
+        ${group.content}
       </article>`).join("");
   }
 
@@ -311,7 +330,7 @@
     const albumTypes = [...new Set(albums.map((album) => album.type).filter(Boolean))];
     const imageTotal = albums.reduce((total, album) => total + Number(album.count || 0), 0);
     document.title = `${year} — Teresa Youth Choir`;
-    document.documentElement.style.setProperty("--year-accent", data.theme?.accent || "#f27f6b");
+    document.documentElement.style.setProperty("--year-accent", data.theme?.accent || "#58bfd5");
     const hero = source(overview.coverImage, "original");
 
     app.innerHTML = `
@@ -326,7 +345,9 @@
       <section class="year-section" aria-labelledby="sharing"><div class="container">${sectionHeading(7, "Thanh âm ở lại", "Lời chia sẻ", "sharing")}<div class="quote-grid">${renderQuotes(sharing)}</div></div></section>
       <section class="year-signature"><div class="container reveal"><p class="eyebrow">Dấu ấn của năm</p><h2>${escapeHTML(yearMark.title)}</h2><p>${escapeHTML(yearMark.description)}</p>${yearSwitcher(year, available)}</div></section>`;
 
-    await window.TeresaStore.hydrateMedia(app);
+    // Bắt đầu tải ảnh ngay, nhưng không giữ toàn bộ nội dung ở skeleton trong lúc
+    // ảnh bìa từ R2 đang tải và giải mã. Phần chữ đã sẵn sàng có thể hiện ngay.
+    window.TeresaStore.hydrateMedia(app).catch((error) => console.warn("Không thể tải một số ảnh của năm:", error));
     loading.hidden = true;
     app.hidden = false;
     window.TeresaUI?.initReveal(app);
@@ -346,9 +367,12 @@
   async function loadSelectedYear() {
     try {
       if (!window.TeresaStore || !Number.isInteger(selectedYear)) throw new Error("Liên kết năm chưa hợp lệ.");
-      const years = await window.TeresaStore.availableYears();
+      const [years, data] = await Promise.all([
+        window.TeresaStore.availableYears(),
+        window.TeresaStore.loadYear(selectedYear),
+      ]);
       if (!years.includes(selectedYear) && new URLSearchParams(location.search).get("preview") !== "1") throw new Error(`Năm ${selectedYear} chưa có trong kho lưu trữ.`);
-      await render(await window.TeresaStore.loadYear(selectedYear), years);
+      await render(data, years);
     } catch (error) {
       console.error("Không thể đọc dữ liệu năm:", error);
       renderError(error.message || "Không thể mở dữ liệu. Hãy chạy website bằng máy chủ local.");

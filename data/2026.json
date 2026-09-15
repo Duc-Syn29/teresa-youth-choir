@@ -1,7 +1,7 @@
 {
   "year": 2026,
   "theme": {
-    "accent": "#f0b45f"
+    "accent": "#58bfd5"
   },
   "overview": {
     "eyebrow": "Hành trình tiếp nối",
@@ -191,7 +191,81 @@
       "topic": "Hòa nhạc",
       "description": "hồng ân tuyệt vời",
       "body": "yeu ca doan",
-      "images": []
+      "album": {
+        "manifest": "data/albums/2026/2026-hoa-nhac-mung-me-len-troi.json",
+        "count": 9,
+        "preview": [
+          {
+            "src": "images/uploads/2026/hoa-nhac/1786561398970-lequanthay202011.jpg",
+            "alt": "Ảnh tư liệu Hòa nhạc mừng Mẹ lên trời",
+            "caption": "Hòa nhạc mừng Mẹ lên trời",
+            "id": "images/uploads/2026/hoa-nhac/1786561398970-lequanthay202011.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "images/optimized/uploads/2026/hoa-nhac/1786561398970-lequanthay202011-480.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "images/optimized/uploads/2026/hoa-nhac/1786561398970-lequanthay202011-1280.jpg",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "images/uploads/2026/hoa-nhac/1786561398970-lequanthay202011.jpg",
+                "width": 2048,
+                "height": 1365
+              }
+            }
+          },
+          {
+            "src": "images/uploads/2026/hoa-nhac/1786561231910-CPS-Media-589.jpg",
+            "alt": "Ảnh tư liệu Hòa nhạc mừng Mẹ lên trời",
+            "caption": "Hòa nhạc mừng Mẹ lên trời",
+            "id": "images/uploads/2026/hoa-nhac/1786561231910-CPS-Media-589.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "images/optimized/uploads/2026/hoa-nhac/1786561231910-CPS-Media-589-480.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "images/optimized/uploads/2026/hoa-nhac/1786561231910-CPS-Media-589-1280.jpg",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "images/optimized/uploads/2026/hoa-nhac/1786561231910-CPS-Media-589-2048.jpg",
+                "width": 2048,
+                "height": 1365
+              }
+            }
+          },
+          {
+            "src": "images/uploads/2026/hoa-nhac/1786561256652-CPS-Media-619.jpg",
+            "alt": "Ảnh tư liệu Hòa nhạc mừng Mẹ lên trời",
+            "caption": "Hòa nhạc mừng Mẹ lên trời",
+            "id": "images/uploads/2026/hoa-nhac/1786561256652-CPS-Media-619.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "images/optimized/uploads/2026/hoa-nhac/1786561256652-CPS-Media-619-480.jpg",
+                "width": 480,
+                "height": 319
+              },
+              "medium": {
+                "src": "images/optimized/uploads/2026/hoa-nhac/1786561256652-CPS-Media-619-1280.jpg",
+                "width": 1280,
+                "height": 852
+              },
+              "original": {
+                "src": "images/optimized/uploads/2026/hoa-nhac/1786561256652-CPS-Media-619-2048.jpg",
+                "width": 2048,
+                "height": 1363
+              }
+            }
+          }
+        ]
+      }
     }
   ],
   "achievements": [

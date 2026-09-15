@@ -18,6 +18,50 @@
     const cleaned = String(value || fallback).replace(/\s*(?:[·•.\-–—]\s*)?ảnh\s*\d+\s*$/iu, "").trim();
     return cleaned || fallback;
   };
+  const normalizeText = (value = "") => String(value)
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/đ/g, "d")
+    .toLocaleLowerCase("vi")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+  const stopWords = new Set("anh anh em bai ban bang bo buc ca cac cho cua cung da day de den doan duoc giua hai hat hay hon ket la lai lam len loi minh mot nam ngay nguoi nguyen nhu nhung noi phuc qua ra sau su tai thanh theo thi thien tieng trong tu va vao ve vien voi".split(" "));
+  const contextTokens = (value) => new Set(normalizeText(value).split(/\s+/).filter((word) => word.length > 2 && !stopWords.has(word)));
+  const contextThemes = [
+    ["phung-vu", ["thanh le", "phung vu", "hat le", "cung thanh", "hop xuong", "gio chau"]],
+    ["thanh-nhac", ["hoa nhac", "thanh nhac", "thanh ca", "am nhac", "tap hat", "song ca", "tieng hat"]],
+    ["phuc-sinh", ["phuc sinh"]],
+    ["giang-sinh", ["giang sinh", "dem dong", "hang da", "ngoi sao", "noel"]],
+    ["tinh-tam", ["tinh tam", "cau nguyen", "thinh lang", "giao hoa", "mua chay", "hanh huong"]],
+    ["bac-ai", ["thien nguyen", "bac ai", "yeu thuong", "vung cao", "hoc bong", "nhu yeu pham", "phan qua"]],
+    ["gan-ket", ["gan ket", "team building", "dong hanh", "gap lai", "doan vien", "cong vien", "mai nha"]],
+    ["the-thao", ["hoi thao", "bong da", "the thao", "teresa games", "thi dau"]],
+    ["quan-thay", ["quan thay", "bon mang", "thanh teresa"]],
+    ["hon-phoi", ["hon phoi", "dam cuoi", "le cuoi", "ngay hanh phuc"]],
+  ];
+  const themesFor = (value) => {
+    const text = ` ${normalizeText(value)} `;
+    return new Set(contextThemes.filter(([, phrases]) => phrases.some((phrase) => text.includes(` ${phrase} `))).map(([theme]) => theme));
+  };
+
+  function contextualScore(text, photo) {
+    const photoText = [photo?.event, photo?.caption, photo?.alt, source(photo, "original")].filter(Boolean).join(" ");
+    const wantedTokens = contextTokens(text);
+    const photoTokens = contextTokens(photoText);
+    let score = 0;
+    wantedTokens.forEach((token) => { if (photoTokens.has(token)) score += token.length > 6 ? 3 : 2; });
+    const wantedThemes = themesFor(text);
+    const photoThemes = themesFor(photoText);
+    const specificThemes = new Set(["phuc-sinh", "giang-sinh", "tinh-tam", "bac-ai", "gan-ket", "the-thao", "quan-thay", "hon-phoi"]);
+    photoThemes.forEach((theme) => {
+      if (wantedThemes.has(theme)) score += 8;
+      else if (specificThemes.has(theme)) score -= 8;
+    });
+    wantedThemes.forEach((theme) => {
+      if (specificThemes.has(theme) && !photoThemes.has(theme)) score -= 4;
+    });
+    return score;
+  }
 
   function mediaAttributes(media, variant = "thumbnail", sizes = "(max-width: 680px) 92vw, 42vw") {
     const src = source(media, variant);
@@ -93,13 +137,13 @@
     if (!sourceText) return [];
     const original = sourceText.split(/\n\s*\n|\n/).map((part) => part.trim()).filter(Boolean);
     return original.flatMap((paragraph) => {
-      if (paragraph.length <= 520) return [paragraph];
       const sentences = paragraph.match(/[^.!?…]+[.!?…]+|[^.!?…]+$/gu) || [paragraph];
+      if (paragraph.length <= 280 || sentences.length < 2) return [paragraph];
       const chunks = [];
       let chunk = "";
       sentences.forEach((sentence) => {
         const next = `${chunk} ${sentence.trim()}`.trim();
-        if (chunk && next.length > 460) { chunks.push(chunk); chunk = sentence.trim(); }
+        if (chunk && next.length > 280) { chunks.push(chunk); chunk = sentence.trim(); }
         else chunk = next;
       });
       if (chunk) chunks.push(chunk);
@@ -107,14 +151,45 @@
     });
   }
 
+  function storyPhotoPlan(activity, parts, photos) {
+    if (!parts.length || !photos.length) return new Map();
+    const count = Math.min(4, photos.length, parts.length > 1 ? parts.length - 1 : 1);
+    const slots = [];
+    for (let index = 0; index < count; index += 1) {
+      const slot = parts.length === 1 ? 0 : Math.min(parts.length - 2, Math.round(((index + 1) * parts.length) / (count + 1)) - 1);
+      if (!slots.includes(slot)) slots.push(slot);
+    }
+    for (let slot = 0; slots.length < count && slot < Math.max(1, parts.length - 1); slot += 1) {
+      if (!slots.includes(slot)) slots.push(slot);
+    }
+    slots.sort((a, b) => a - b);
+
+    const unused = new Set(photos.map((_photo, index) => index));
+    const plan = new Map();
+    slots.forEach((slot, order) => {
+      const target = Math.round(((order + 1) * (photos.length - 1)) / (slots.length + 1));
+      const paragraphContext = `${activity.title} ${activity.type || ""} ${activity.topic || ""} ${parts[slot]}`;
+      const candidates = [...unused].map((photoIndex) => ({
+        photoIndex,
+        score: contextualScore(paragraphContext, photos[photoIndex]),
+        distance: Math.abs(photoIndex - target),
+      })).sort((left, right) => right.score - left.score || left.distance - right.distance || left.photoIndex - right.photoIndex);
+      const selected = candidates[0]?.photoIndex;
+      if (selected === undefined) return;
+      unused.delete(selected);
+      plan.set(slot, selected);
+    });
+    return plan;
+  }
+
   function storyMarkup(activity, photos) {
     const parts = storyParts(activity.body || activity.description);
-    const photoIndexes = photos.length ? [...new Set([0, Math.floor(photos.length / 2), photos.length - 1])].slice(0, Math.min(3, parts.length || 1)) : [];
+    const photoPlan = storyPhotoPlan(activity, parts, photos);
     return parts.map((paragraph, index) => {
-      const photoIndex = photoIndexes[index];
+      const photoIndex = photoPlan.get(index);
       const photo = photoIndex !== undefined ? photos[photoIndex] : null;
       const caption = photo ? displayCaption(photo.caption, activity.title) : "";
-      return `<section class="activity-story-chapter"><p${index === 0 ? ' class="activity-lead"' : ""}>${escapeHTML(paragraph)}</p>${photo ? `<button class="activity-story-photo" type="button" data-story-photo="${photoIndex}" aria-label="Mở ảnh: ${escapeHTML(caption)}"><img ${mediaAttributes(photo, "medium", "(max-width:680px) 92vw, 62vw")} alt="${escapeHTML(photo.alt || caption)}" loading="lazy" decoding="async" /><span>${String(photoIndex + 1).padStart(2, "0")} / ${photos.length}</span></button>` : ""}</section>`;
+      return `<section class="activity-story-chapter"><p${index === 0 ? ' class="activity-lead"' : ""}>${escapeHTML(paragraph)}</p>${photo ? `<figure class="activity-story-figure"><button class="activity-story-photo" type="button" data-story-photo="${photoIndex}" aria-label="Mở ảnh: ${escapeHTML(caption)}"><img ${mediaAttributes(photo, "medium", "(max-width:680px) 92vw, 62vw")} alt="${escapeHTML(photo.alt || caption)}" loading="lazy" decoding="async" /><span>${String(photoIndex + 1).padStart(2, "0")} / ${photos.length}</span></button><figcaption>${escapeHTML(caption)}</figcaption></figure>` : ""}</section>`;
     }).join("");
   }
 
@@ -144,7 +219,14 @@
 
   async function activityPhotos(activity, data) {
     if (activity.album?.manifest || activity.images?.length) return window.TeresaStore.loadAlbum(year, activity);
-    return (data.gallery || []).filter((photo) => photo.event === activity.title || photo.event === activity.type);
+    const gallery = data.gallery || [];
+    const exact = gallery.filter((photo) => photo.event === activity.title || photo.event === activity.type || photo.event === activity.topic);
+    if (exact.length) return exact;
+    const activityContext = [activity.title, activity.type, activity.topic, activity.description, activity.body].filter(Boolean).join(" ");
+    const ranked = gallery.map((photo) => ({ photo, score: contextualScore(activityContext, photo) })).sort((left, right) => right.score - left.score);
+    const best = ranked[0]?.score || 0;
+    if (best < 8) return [];
+    return ranked.filter((item) => item.score >= Math.max(8, best - 3)).map((item) => item.photo);
   }
 
   function errorMarkup(message) {
@@ -213,7 +295,9 @@
         </section>
         <section class="activity-navigation"><div class="container"><p class="eyebrow">Tiếp tục hành trình ${year}</p><div class="activity-nav-grid">${navigationCard(previous, data, "previous")}${navigationCard(next, data, "next")}</div></div></section>`;
 
-      await window.TeresaStore.hydrateMedia(app);
+      // Nội dung hoạt động không cần chờ ảnh bìa tải và giải mã xong mới xuất
+      // hiện. hydrateMedia vẫn ưu tiên ảnh bìa và tải các ảnh còn lại khi cần.
+      window.TeresaStore.hydrateMedia(app).catch((error) => console.warn("Không thể tải một số ảnh của hoạt động:", error));
       loading.hidden = true;
       app.hidden = false;
       window.TeresaUI?.initReveal(app);

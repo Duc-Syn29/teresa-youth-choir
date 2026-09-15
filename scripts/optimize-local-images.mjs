@@ -60,7 +60,9 @@ async function variant(relativePath, width, height, maxEdge, label, quality) {
 
 async function optimizedMedia(value) {
   const normalized = Schema.normalizeMedia(value);
-  const originalSource = Schema.mediaSource(normalized, "original") || normalized.src;
+  // Luôn bắt đầu từ src lưu trữ. Nếu lấy variants.original trước, một lần chạy
+  // sau có thể tối ưu lại ảnh trong images/optimized và tạo thư mục lồng nhau.
+  const originalSource = normalized.src || Schema.mediaSource(normalized, "original");
   if (!localImage.test(originalSource)) return value;
   if (cache.has(originalSource)) {
     const variants = await cache.get(originalSource);

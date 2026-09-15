@@ -168,9 +168,31 @@
 
     window.addEventListener("pageshow", (event) => {
       if (!event.persisted) return;
-      document.documentElement.classList.add("page-restored");
+      document.documentElement.classList.remove("page-leaving", "route-arriving");
+      document.querySelectorAll(".route-pressed").forEach((element) => element.classList.remove("route-pressed"));
+      document.documentElement.classList.add("page-restored", "page-returning");
       requestAnimationFrame(() => requestAnimationFrame(() => document.documentElement.classList.remove("page-restored")));
+      window.setTimeout(() => document.documentElement.classList.remove("page-returning"), 320);
     });
+
+    // Khi hoạt động được mở trực tiếp từ trang năm, quay lại bằng history để
+    // trình duyệt khôi phục nguyên DOM, ảnh đã tải và vị trí cuộn từ bfcache.
+    if (isActivityPage && document.referrer) {
+      let referringYear = 0;
+      try {
+        const referrer = new URL(document.referrer);
+        if (referrer.origin === location.origin && referrer.pathname.endsWith("/year.html")) referringYear = Number(referrer.searchParams.get("year"));
+      } catch (_error) { /* Liên kết quay lại thông thường vẫn hoạt động. */ }
+      document.addEventListener("click", (event) => {
+        const link = event.target.closest('a[href*="year.html?year="]');
+        if (!link || event.defaultPrevented || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey || link.target || link.hasAttribute("download")) return;
+        const destination = new URL(link.href, location.href);
+        if (!referringYear || Number(destination.searchParams.get("year")) !== referringYear) return;
+        event.preventDefault();
+        document.documentElement.classList.add("page-leaving");
+        requestAnimationFrame(() => history.back());
+      }, { capture: true });
+    }
 
     const restoreViewState = () => {
       if (!isManagedPage || restored) return false;
@@ -248,6 +270,26 @@
       return link.dataset.transitionImage || "";
     };
     const visualFrom = (link) => link.querySelector(".year-activity-media, .activity-nav-image, .activity-archive-event-media, img") || link;
+    let pressedLink = null;
+    let releaseTimer = 0;
+    const releasePressed = (immediate = false) => {
+      window.clearTimeout(releaseTimer);
+      if (!pressedLink) return;
+      const current = pressedLink;
+      pressedLink = null;
+      if (immediate) current.classList.remove("route-pressed");
+      else releaseTimer = window.setTimeout(() => current.classList.remove("route-pressed"), 150);
+    };
+    document.addEventListener("pointerdown", (event) => {
+      if (event.button !== 0) return;
+      const link = event.target.closest('a[href*="year.html?"], a[href*="activity.html?"]');
+      if (!link) return;
+      releasePressed(true);
+      pressedLink = link;
+      link.classList.add("route-pressed");
+    }, { passive: true });
+    document.addEventListener("pointerup", () => releasePressed());
+    document.addEventListener("pointercancel", () => releasePressed(true));
     document.addEventListener("click", (event) => {
       const link = event.target.closest('a[href*="year.html?"], a[href*="activity.html?"]');
       if (!link || event.defaultPrevented || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey || link.target || link.hasAttribute("download")) return;
@@ -268,21 +310,73 @@
       let saved;
       try { saved = JSON.parse(sessionStorage.getItem(storageKey) || "null"); } catch (_error) { saved = null; }
       const currentHref = `${location.pathname}${location.search}`;
-      if (!saved || saved.href !== currentHref || Date.now() - saved.savedAt > 12000 || !saved.image) return;
+      if (!saved || saved.href !== currentHref || Date.now() - saved.savedAt > 12000) return;
       try { sessionStorage.removeItem(storageKey); } catch (_error) { /* Không bắt buộc. */ }
       if (reduceMotion) return;
+      const duration = coarsePointer ? 360 : 480;
+      document.documentElement.classList.add("route-arriving");
+      window.setTimeout(() => document.documentElement.classList.remove("route-arriving"), duration + 80);
+      if (!saved.image) return;
       const end = target.getBoundingClientRect();
       const start = saved.rect;
+      if (!start || end.width < 1 || end.height < 1 || start.width < 1 || start.height < 1) return;
       const overlay = document.createElement("div");
       overlay.className = "route-cover-transition";
-      overlay.style.cssText = `left:${start.x}px;top:${start.y}px;width:${start.width}px;height:${start.height}px;background-image:url(${JSON.stringify(saved.image)})`;
+      overlay.style.cssText = `left:${end.x}px;top:${end.y}px;width:${end.width}px;height:${end.height}px;background-image:url(${JSON.stringify(saved.image)})`;
       document.body.append(overlay);
+      const startTransform = `translate3d(${start.x - end.x}px,${start.y - end.y}px,0) scale(${start.width / end.width},${start.height / end.height})`;
       overlay.animate([
-        { left: `${start.x}px`, top: `${start.y}px`, width: `${start.width}px`, height: `${start.height}px`, borderRadius: "1.5rem", opacity: 1 },
-        { left: `${end.x}px`, top: `${end.y}px`, width: `${end.width}px`, height: `${end.height}px`, borderRadius: getComputedStyle(target).borderRadius || "0", opacity: 1 },
-      ], { duration: 520, easing: "cubic-bezier(.2,.75,.2,1)", fill: "forwards" }).finished.finally(() => overlay.remove());
+        { transform: startTransform, borderRadius: "1.5rem", opacity: 1 },
+        { offset: .76, transform: "translate3d(0,0,0) scale(1)", borderRadius: getComputedStyle(target).borderRadius || "0", opacity: 1 },
+        { transform: "translate3d(0,0,0) scale(1)", borderRadius: getComputedStyle(target).borderRadius || "0", opacity: 0 },
+      ], { duration, easing: "cubic-bezier(.2,.75,.2,1)", fill: "forwards" }).finished.finally(() => overlay.remove());
     };
     window.TeresaUI = { ...(window.TeresaUI || {}), completeCoverTransition: complete };
+  }
+
+  function initRoutePrefetch() {
+    if (!window.TeresaStore?.loadYear) return;
+    const warmed = new Set();
+    const selector = 'a[href*="year.html?"], a[href*="activity.html?"]';
+    const warm = async (link) => {
+      if (!link?.matches?.(selector)) return;
+      const url = new URL(link.href, location.href);
+      if (url.origin !== location.origin) return;
+      const year = Number(url.searchParams.get("year"));
+      if (!Number.isInteger(year)) return;
+      const activityId = url.pathname.endsWith("/activity.html") ? url.searchParams.get("id") : "";
+      const key = `${year}:${activityId || "year"}`;
+      if (warmed.has(key)) return;
+      warmed.add(key);
+      try {
+        const data = await window.TeresaStore.loadYear(year);
+        if (!activityId) return;
+        const activity = (data.activities || []).find((item) => item.id === activityId);
+        if (activity?.album?.manifest) await window.TeresaStore.loadAlbum(year, activity);
+      } catch (_error) {
+        // Cho phép lần mở trang thật thử tải lại nếu kết nối làm nóng bị gián đoạn.
+        warmed.delete(key);
+      }
+    };
+    const observer = "IntersectionObserver" in window
+      ? new IntersectionObserver((entries) => entries.forEach((entry) => {
+        if (!entry.isIntersecting) return;
+        observer.unobserve(entry.target);
+        warm(entry.target);
+      }), { rootMargin: "500px 0px" })
+      : null;
+    const observe = (root = document) => root.querySelectorAll(selector).forEach((link) => {
+      if (link.dataset.routePrefetchBound) return;
+      link.dataset.routePrefetchBound = "true";
+      observer?.observe(link);
+    });
+    const warmFromEvent = (event) => warm(event.target.closest?.(selector));
+    document.addEventListener("pointerover", warmFromEvent, { passive: true });
+    document.addEventListener("focusin", warmFromEvent);
+    document.addEventListener("touchstart", warmFromEvent, { passive: true });
+    document.addEventListener("teresa:content-ready", (event) => observe(event.target));
+    document.addEventListener("teresa:index-ready", () => observe());
+    observe();
   }
 
   async function initArchiveOverview() {
@@ -881,6 +975,7 @@
     initHeader();
     pageReturnController = initPageReturn();
     initPageTransitions();
+    initRoutePrefetch();
     initYearNavigation();
     document.addEventListener("teresa:page-rendered", initYearNavigation);
     document.addEventListener("teresa:content-ready", initYearNavigation);

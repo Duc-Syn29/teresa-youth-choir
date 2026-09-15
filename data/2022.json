@@ -1,14 +1,25 @@
 {
+  "schemaVersion": 3,
   "year": 2022,
   "theme": {
-    "accent": "#f27f6b"
+    "primary": "#2b7897",
+    "secondary": "#bfe7ee"
+  },
+  "meta": {
+    "revision": 5,
+    "status": "published",
+    "migratedFrom": 1,
+    "journalCredit": "Petrus Đỗ Tiến Hạng",
+    "journalWrittenAt": "2026-09-13",
+    "sourceDocument": "Nhật ký 2022 TYC.docx",
+    "sourceDocumentSha256": "eb7323f359e46999ab058237e2892071304250a1e5833fbecda2e890e2681070"
   },
   "overview": {
-    "eyebrow": "Năm trở về",
-    "title": "Gặp lại trong tiếng hát",
-    "summary": "Khi dịch dần được kiểm soát, ca đoàn từng bước khôi phục tập hát và phục vụ, dù số lượng ca viên và tinh thần chung còn cần thời gian để hồi phục.",
-    "verse": "Ngọt ngào tốt đẹp lắm thay, anh em được sống vui vầy bên nhau.",
-    "longDescription": "Sau thời gian dài gián đoạn, ca đoàn từng bước khôi phục những sinh hoạt thường niên như tập hát và phục vụ Thánh lễ. Giai đoạn trở lại cũng đặt ra thách thức: số lượng ca viên giảm sút và nhiều anh chị em chưa lấy lại được tinh thần sau đại dịch.",
+    "eyebrow": "Trở lại · Gặp gỡ · Phục vụ",
+    "title": "Bước tiếp hành trình sứ vụ sau đại dịch COVID",
+    "summary": "Từ giữa năm 2022, ca đoàn từng bước tái khởi động tập hát, phục vụ Thánh lễ, tĩnh tâm, dã ngoại và thiện nguyện sau gần hai năm bị gián đoạn.",
+    "verse": "Hãy vui mừng trong niềm hy vọng, kiên nhẫn lúc gian truân và chuyên cần cầu nguyện. (Rm 12,12)",
+    "longDescription": "Sau gần hai năm chịu ảnh hưởng nặng nề bởi đại dịch COVID-19, năm 2022 đánh dấu bước chuyển mình quan trọng của Ca đoàn Giới Trẻ Têrêsa. Khi cuộc sống dần trở lại bình thường, tiếng hát lại vang lên trong phòng tập, các thành viên có cơ hội gặp gỡ và những hoạt động còn dang dở được nối lại. Quân số giảm do một số anh chị em trở về quê, thay đổi công việc hoặc chuyển nơi sinh sống, nhưng những người ở lại càng ý thức hơn về tình hiệp nhất và trách nhiệm với cộng đoàn. Đây là một năm của sự trở lại, gặp gỡ và niềm vui tiếp tục cất tiếng hát phụng sự Chúa.",
     "coverImage": {
       "src": "images/hero.jpg",
       "id": "images/hero.jpg",
@@ -35,35 +46,36 @@
   },
   "leadership": {
     "chaplain": {
-      "note": "Đồng hành mục vụ",
-      "members": [
-        {
-          "name": "Lm. Giuse Phạm Đức Hiệp",
-          "photo": "",
-          "id": "person-chaplain-1azi635"
-        }
-      ]
+      "note": "Tư liệu năm 2022 không ghi tên cha đồng hành.",
+      "members": []
     },
     "leader": {
-      "note": "Nhiệm kỳ 2021–2023",
+      "note": "Trưởng ca đoàn",
       "members": [
         {
-          "name": "Maria Vũ Thu Hà",
+          "name": "Giuse Phạm Văn Tĩnh",
           "photo": "",
-          "id": "person-leader-1tgx0vc"
+          "id": "person-leader-1r0dkj5"
         }
       ]
     },
     "deputyLeader": {
-      "members": []
-    },
-    "conductor": {
-      "note": "Phụ trách chuyên môn",
+      "note": "Phó ca đoàn",
       "members": [
         {
-          "name": "Gioan Trần Minh Quân",
+          "name": "Phêrô Bùi Ngọc Liêm",
           "photo": "",
-          "id": "person-conductor-05udt27"
+          "id": "person-deputyleader-1cstyko"
+        }
+      ]
+    },
+    "conductor": {
+      "note": "Ca trưởng",
+      "members": [
+        {
+          "name": "Vincente Vũ Hải Ngân",
+          "photo": "",
+          "id": "person-conductor-13bnam6"
         }
       ]
     },
@@ -71,290 +83,158 @@
       "note": "Thủ quỹ",
       "members": [
         {
-          "name": "Giuse Đặng Quốc Bảo",
+          "name": "Maria Đặng Thị Thuý",
           "photo": "",
-          "id": "person-treasurer-1cayaz5"
+          "id": "person-treasurer-1kjfic3"
         }
       ]
     },
     "teams": [
       {
-        "name": "Ban Phụng vụ",
-        "members": [],
-        "id": "team-ban-phung-vu-00z4zag"
-      },
-      {
         "name": "Ban Truyền thông",
-        "members": [],
-        "id": "team-ban-truyen-thong-07i2mcq"
+        "note": "",
+        "members": [
+          {
+            "name": "Toma Vũ Duy Tâm",
+            "photo": "",
+            "id": "team-member-ban-truyen-thong-1wlm54t"
+          },
+          {
+            "name": "Giuse Nguyễn Văn Thượng",
+            "photo": "",
+            "id": "team-member-ban-truyen-thong-18wwdpz"
+          }
+        ],
+        "id": "team-ban-truyen-thong-07s281p"
       },
       {
-        "name": "Ban Đời sống",
-        "members": [],
-        "id": "team-ban-doi-song-12o6etq"
+        "name": "Ban Liên Kết",
+        "note": "",
+        "members": [
+          {
+            "name": "Maria Đỗ Thị Thanh Hoa",
+            "photo": "",
+            "id": "team-member-ban-lien-ket-07l0nik"
+          }
+        ],
+        "id": "team-ban-lien-ket-0lle6l7"
       },
       {
-        "name": "Ban Hậu cần",
-        "members": [],
-        "id": "team-ban-hau-can-1ofs7ay"
+        "name": "Ban Tâm linh",
+        "note": "",
+        "members": [
+          {
+            "name": "Maria Nguyễn Thị Uyên",
+            "photo": "",
+            "id": "team-member-ban-tam-linh-0auz1kd"
+          }
+        ],
+        "id": "team-ban-tam-linh-1ue7uv1"
+      },
+      {
+        "name": "Ban Sinh hoạt",
+        "note": "",
+        "members": [
+          {
+            "name": "Antôn Nguyễn Thành Dương",
+            "photo": "",
+            "id": "team-member-ban-sinh-hoat-1tjoi9f"
+          }
+        ],
+        "id": "team-ban-sinh-hoat-1bl8eai"
       }
     ]
   },
   "members": {
-    "total": 46,
-    "new": 17,
-    "inactive": 4,
-    "notes": "Đợt tuyển ca viên mới đông nhất kể từ ngày thành lập mang đến nguồn năng lượng mới."
+    "total": 45,
+    "new": 18,
+    "inactive": 5,
+    "notes": "Ca đoàn đón 18 thành viên mới; khoảng 5 thành viên tạm ngưng sinh hoạt."
   },
   "activities": [
     {
-      "type": "Thánh lễ",
-      "date": "03.2022",
-      "title": "Thánh lễ ngày trở lại",
-      "description": "Lần đầu đội hình đầy đủ cùng hát sau thời gian dài xa cách.",
-      "id": "2022-activity-1",
-      "topic": "Thánh lễ",
-      "body": "Lần đầu đội hình đầy đủ cùng hát sau thời gian dài xa cách.",
+      "id": "2022-dai-le-thanh-giuse-tho",
+      "type": "Đại lễ",
+      "topic": "Đại lễ",
+      "date": "10.05.2022",
+      "location": "",
+      "title": "Khai mạc Đại lễ kính Thánh Giuse Thợ",
+      "description": "Ca đoàn phục vụ Thánh lễ khai mạc Đại lễ kính Thánh Giuse Thợ, bổn mạng Gia đình Công giáo Xa quê Hà Nội.",
+      "body": "Ngày 10 tháng 5, sau thời gian dài các hoạt động cộng đoàn bị gián đoạn, ca đoàn nhận phân công từ quý cha đặc trách và Ban Thường vụ Gia đình Công giáo Xa quê Hà Nội để phục vụ Thánh lễ khai mạc Đại lễ kính Thánh Giuse Thợ. Ban điều hành đã gấp rút kêu gọi, quy tụ các ca viên trở lại tập hát và chuẩn bị phụng vụ.\n\nViệc được cùng nhau cất tiếng hát trong một đại lễ lớn đem lại cảm xúc đặc biệt. Thánh lễ diễn ra sốt sắng, và tiếng hát hôm ấy trở thành dấu hiệu cho thấy đời sống cộng đoàn đang từng bước hồi sinh. Đây cũng là dịp để các thành viên gặp lại nhau và chia sẻ niềm vui được trở về với sứ mạng quen thuộc.",
       "images": []
     },
     {
-      "type": "Tĩnh tâm",
-      "date": "04.2022",
-      "title": "Tạ ơn ngày gặp lại",
-      "description": "Ngày tĩnh tâm và tái cam kết phục vụ của toàn ca đoàn.",
-      "id": "2022-activity-2",
-      "topic": "Tĩnh tâm",
-      "body": "Ngày tĩnh tâm và tái cam kết phục vụ của toàn ca đoàn.",
-      "images": []
-    },
-    {
+      "id": "2022-da-ngoai-ba-vi",
       "type": "Du lịch/Team Building",
-      "date": "07.2022",
-      "title": "Kết nối lại",
-      "description": "Chuyến đi dành cho thành viên cũ và mười bảy ca viên mới.",
-      "id": "2022-activity-3",
       "topic": "Du lịch/Team Building",
-      "body": "Chuyến đi dành cho thành viên cũ và mười bảy ca viên mới.",
+      "date": "11–12.06.2022",
+      "location": "Vườn Quốc gia Ba Vì, Hà Nội",
+      "title": "Chuyến dã ngoại tại Vườn Quốc gia Ba Vì",
+      "description": "Chuyến dã ngoại tại Vườn Quốc gia Ba Vì giúp các ca viên gặp gỡ, nghỉ ngơi và gắn kết lại sau thời gian xa cách vì dịch bệnh.",
+      "body": "Trong hai ngày 11–12 tháng 6, ca đoàn tổ chức chuyến dã ngoại tại Vườn Quốc gia Ba Vì. Các thành viên có thời gian gặp gỡ, nghỉ ngơi và sẻ chia những khó khăn mà mỗi người đã trải qua trong giai đoạn chống chọi với dịch bệnh.\n\nBên cạnh những giờ vui chơi, mọi người cùng cắm trại, đốt lửa và dùng bữa trong không khí thanh bình của núi rừng Ba Vì. Những câu chuyện, tiếng cười và khoảnh khắc bên nhau trở thành một phần ký ức đẹp của năm 2022.",
       "images": []
     },
     {
+      "id": "2022-tinh-tam-tam-dao",
+      "type": "Tĩnh tâm",
+      "topic": "Tĩnh tâm",
+      "date": "17.09.2022",
+      "location": "Giáo xứ Tam Đảo",
+      "title": "Tĩnh tâm “Lên Núi Với Đức Kitô”",
+      "description": "Ca đoàn tĩnh tâm tại Tam Đảo với chủ đề “Lên Núi Với Đức Kitô”, hướng đến lễ Quan thầy kỷ niệm 7 năm thành lập.",
+      "body": "Ngày 17 tháng 9, các ca viên tạm gác lại bộn bề để trở về với đời sống cầu nguyện, nhìn lại hành trình phục vụ và chuẩn bị tâm hồn cho lễ Quan thầy. Cha phó đặc trách Giuse Trần Hữu Hoan đồng hành, chia sẻ tĩnh tâm và dâng Thánh lễ tại Giáo xứ Tam Đảo. Giữa không gian núi rừng, mọi người cùng cầu nguyện, suy niệm, chia sẻ và làm mới đời sống đức tin.\n\nTrong chuyến đi này, ca đoàn thực hiện MV “Nụ Hoa Têrêsa”. Những giai điệu và hình ảnh được ghi lại giữa thiên nhiên trở thành kỷ niệm về sự trở lại, đồng thời thể hiện mong muốn lan tỏa hình ảnh và tinh thần của Thánh Têrêsa Hài Đồng Giêsu.",
+      "images": []
+    },
+    {
+      "id": "2022-khai-mac-dai-le-di-dan",
+      "type": "Đại lễ",
+      "topic": "Đại lễ",
+      "date": "05.10.2022",
+      "location": "Giáo xứ Thái Hà, Hà Nội",
+      "title": "Phục vụ khai mạc Đại lễ Di Dân",
+      "description": "Ca đoàn cùng Ca đoàn Monica và Ca đoàn Latin phục vụ Thánh lễ khai mạc Đại lễ Di Dân.",
+      "body": "Ngày 5 tháng 10, ca đoàn cộng tác cùng Ca đoàn Monica, Ca đoàn Latin và nhiều cộng đoàn, ban ngành trong chương trình đại lễ của Gia đình Công giáo Xa quê Hà Nội. Đây là một trong những hoạt động phục vụ nổi bật của năm.\n\nMở đầu đêm hoan ca, ca đoàn phối hợp với Ban Kèn và Ban Trống Xa quê trình bày tiết mục hòa phối “Tiếng Nhạc Oai Hùng”. Sự kết hợp giữa tiếng hát và nhạc cụ tạo nên một tiết mục sôi động, trang trọng cho đêm khai mạc.",
+      "images": []
+    },
+    {
+      "id": "2022-quan-thay-lan-thu-7",
       "type": "Lễ Quan thầy",
-      "date": "01.10.2022",
-      "title": "Năm năm một hành trình",
-      "description": "Mừng sinh nhật ca đoàn với sự trở về của các cựu ca viên.",
-      "id": "2022-activity-4",
       "topic": "Lễ Quan thầy",
-      "body": "Mừng sinh nhật ca đoàn với sự trở về của các cựu ca viên.",
+      "date": "10.10.2022",
+      "location": "Đền Giêrađô",
+      "title": "Mừng lễ Quan thầy sau đại dịch",
+      "description": "Ca đoàn mừng lễ Quan thầy trở lại sau hai năm đại dịch trong bầu khí ấm cúng tại Đền Giêrađô.",
+      "body": "Ngày 10 tháng 10, ca đoàn hân hoan mừng kính Thánh Têrêsa Hài Đồng Giêsu. Đây không chỉ là dịp mừng lễ bổn mạng, mà còn là lúc các thành viên nhìn lại hành trình đã qua và tạ ơn Chúa vì ca đoàn vẫn được gìn giữ giữa những biến động.\n\nSau thời gian thiếu vắng sinh hoạt chung, niềm vui được quây quần trở nên giản dị nhưng sâu sắc. Sau Thánh lễ, đông đảo ca viên cùng quý cha và quý khách tham dự bữa tiệc thân mật, ấm cúng, tràn đầy tình huynh đệ.",
       "images": []
     },
     {
-      "type": "Giáng Sinh",
-      "date": "24.12.2022",
-      "title": "Đêm đoàn viên",
-      "description": "Đêm thánh nhạc trực tiếp đầu tiên sau thời gian gián đoạn.",
-      "id": "2022-activity-5",
-      "topic": "Giáng Sinh",
-      "body": "Đêm thánh nhạc trực tiếp đầu tiên sau thời gian gián đoạn.",
+      "id": "2022-giang-sinh-trao-yeu-thuong",
+      "type": "Thiện nguyện",
+      "topic": "Thiện nguyện",
+      "date": "16–18.12.2022",
+      "location": "Xã Yên Định, huyện Bắc Mê, Hà Giang",
+      "title": "Giáng Sinh trao yêu thương",
+      "description": "Chương trình thiện nguyện Giáng Sinh mang quà và sự sẻ chia đến xã Yên Định, huyện Bắc Mê, tỉnh Hà Giang.",
+      "body": "Từ ngày 16 đến 18 tháng 12, các thành viên rời Hà Nội để tiếp nối truyền thống thiện nguyện hằng năm. Hình ảnh những em nhỏ người Mông mặc áo mỏng giữa cái rét vùng cao, những bản làng đơn sơ và mái nhà còn nhiều thiếu thốn để lại trong mỗi ca viên nhiều trăn trở.\n\nNhững phần quà, lời hỏi thăm và nụ cười được trao đi trở thành kỷ niệm khó quên. Giáng Sinh năm ấy không chỉ được đón mừng bằng thánh ca, mà còn được sống bằng những hành động yêu thương và sẻ chia cụ thể.",
       "images": []
     }
   ],
   "achievements": [
-    "Khôi phục lịch tập và phụng vụ đầy đủ.",
-    "Chào đón 17 ca viên mới.",
-    "Tổ chức kỷ niệm 5 năm thành lập."
+    "Tái khởi động tập hát và phục vụ Thánh lễ sau thời gian dài gián đoạn.",
+    "Đón 18 ca viên mới và tổ chức dã ngoại gắn kết tại Ba Vì.",
+    "Tổ chức tĩnh tâm, lễ Quan thầy lần thứ 7 và chương trình thiện nguyện tại Hà Giang."
   ],
   "challenges": [
-    "Tái xây dựng chất lượng hợp xướng sau thời gian dài.",
-    "Kết nối thành viên cũ và mới.",
-    "Sắp xếp lại nguồn lực cho các ban phục vụ."
+    "Quân số giảm do một số thành viên trở về quê, thay đổi công việc hoặc nơi sinh sống.",
+    "Ban điều hành phải gấp rút quy tụ ca viên và khôi phục nhịp tập luyện, phục vụ.",
+    "Năm thành viên tạm ngưng sinh hoạt."
   ],
-  "gallery": [
-    {
-      "src": "images/gallery/giang-sinh-2022.jpg",
-      "alt": "Đêm Giáng Sinh 2022",
-      "event": "Giáng Sinh",
-      "caption": "Đêm đoàn viên",
-      "id": "images/gallery/giang-sinh-2022.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "images/optimized/gallery/giang-sinh-2022-480.jpg",
-          "width": 480,
-          "height": 290
-        },
-        "medium": {
-          "src": "images/optimized/gallery/giang-sinh-2022-1280.jpg",
-          "width": 1280,
-          "height": 773
-        },
-        "original": {
-          "src": "images/optimized/gallery/giang-sinh-2022-2048.jpg",
-          "width": 2048,
-          "height": 1237
-        }
-      }
-    },
-    {
-      "src": "images/gallery/gan-ket-2024.jpg",
-      "alt": "Ca viên gặp lại",
-      "event": "Gặp lại",
-      "caption": "Ngày trở về",
-      "id": "images/gallery/gan-ket-2024.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "images/optimized/gallery/gan-ket-2024-480.jpg",
-          "width": 480,
-          "height": 319
-        },
-        "medium": {
-          "src": "images/optimized/gallery/gan-ket-2024-1280.jpg",
-          "width": 1280,
-          "height": 851
-        },
-        "original": {
-          "src": "images/optimized/gallery/gan-ket-2024-2048.jpg",
-          "width": 2048,
-          "height": 1362
-        }
-      }
-    },
-    {
-      "src": "images/gallery/phung-vu-2025.jpg",
-      "alt": "Ca đoàn hát lễ",
-      "event": "Phụng vụ",
-      "caption": "Chung hàng ghế quen",
-      "id": "images/gallery/phung-vu-2025.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
-          "width": 480,
-          "height": 290
-        },
-        "medium": {
-          "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
-          "width": 1280,
-          "height": 773
-        },
-        "original": {
-          "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
-          "width": 2048,
-          "height": 1237
-        }
-      }
-    }
-  ],
-  "sharing": [
-    {
-      "name": "Thu Hà",
-      "role": "Trưởng ca đoàn 2022",
-      "quote": "Nghe tiếng mọi người khởi động trong phòng tập, mình mới nhận ra đã nhớ âm thanh ấy đến thế nào."
-    },
-    {
-      "name": "Khánh Linh",
-      "role": "Ca viên 2022",
-      "quote": "Mười bảy người mới đã làm gia đình này trẻ lại một lần nữa."
-    }
-  ],
-  "emotionJournal": [
-    {
-      "date": "12.03",
-      "title": "Cánh cửa mở lại",
-      "text": "Cả phòng tập vỗ tay khi người cuối cùng bước vào.",
-      "mood": "Vỡ òa"
-    },
-    {
-      "date": "01.10",
-      "title": "Năm ngọn nến",
-      "text": "Những gương mặt cũ và mới cùng đứng trong một khung hình sinh nhật.",
-      "mood": "Đoàn viên"
-    }
-  ],
+  "sharing": [],
+  "emotionJournal": [],
   "yearMark": {
-    "title": "Chúng mình đã trở về.",
-    "description": "2022 không chỉ là trở lại một phòng tập, mà là tìm lại nhịp sống cộng đoàn và nhận ra nơi này vẫn luôn là nhà.",
-    "highlight": "5 năm · 46 ca viên"
+    "title": "Chúng con hát, là để sống niềm tin",
+    "description": "Năm 2022 là thời gian ca đoàn sống chậm lại, gắn bó hơn trong tình huynh đệ và lớn lên trong sự bình an Chúa ban. Điều còn đọng lại không chỉ là những chương trình hay chuyến đi, mà còn là tình yêu dành cho ca đoàn và lòng nhiệt thành phục vụ. Ca đoàn tiếp tục được mời gọi trở nên những “Nụ hoa Têrêsa”, âm thầm dùng lời ca và đời sống để làm chứng cho tình yêu giữa đời.",
+    "highlight": "45 ca viên · 18 ca viên mới · 6 hoạt động"
   },
-  "schemaVersion": 3,
-  "meta": {
-    "revision": 1,
-    "status": "published",
-    "migratedFrom": 1
-  },
-  "galleryAlbum": {
-    "manifest": "data/albums/2022/_gallery.json",
-    "count": 3,
-    "preview": [
-      {
-        "src": "images/gallery/giang-sinh-2022.jpg",
-        "alt": "Đêm Giáng Sinh 2022",
-        "event": "Giáng Sinh",
-        "caption": "Đêm đoàn viên",
-        "id": "images/gallery/giang-sinh-2022.jpg",
-        "variants": {
-          "thumbnail": {
-            "src": "images/optimized/gallery/giang-sinh-2022-480.jpg",
-            "width": 480,
-            "height": 290
-          },
-          "medium": {
-            "src": "images/optimized/gallery/giang-sinh-2022-1280.jpg",
-            "width": 1280,
-            "height": 773
-          },
-          "original": {
-            "src": "images/optimized/gallery/giang-sinh-2022-2048.jpg",
-            "width": 2048,
-            "height": 1237
-          }
-        }
-      },
-      {
-        "src": "images/gallery/gan-ket-2024.jpg",
-        "alt": "Ca viên gặp lại",
-        "event": "Gặp lại",
-        "caption": "Ngày trở về",
-        "id": "images/gallery/gan-ket-2024.jpg",
-        "variants": {
-          "thumbnail": {
-            "src": "images/optimized/gallery/gan-ket-2024-480.jpg",
-            "width": 480,
-            "height": 319
-          },
-          "medium": {
-            "src": "images/optimized/gallery/gan-ket-2024-1280.jpg",
-            "width": 1280,
-            "height": 851
-          },
-          "original": {
-            "src": "images/optimized/gallery/gan-ket-2024-2048.jpg",
-            "width": 2048,
-            "height": 1362
-          }
-        }
-      },
-      {
-        "src": "images/gallery/phung-vu-2025.jpg",
-        "alt": "Ca đoàn hát lễ",
-        "event": "Phụng vụ",
-        "caption": "Chung hàng ghế quen",
-        "id": "images/gallery/phung-vu-2025.jpg",
-        "variants": {
-          "thumbnail": {
-            "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
-            "width": 480,
-            "height": 290
-          },
-          "medium": {
-            "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
-            "width": 1280,
-            "height": 773
-          },
-          "original": {
-            "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
-            "width": 2048,
-            "height": 1237
-          }
-        }
-      }
-    ]
-  }
+  "gallery": []
 }

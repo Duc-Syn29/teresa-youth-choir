@@ -1,11 +1,11 @@
 {
   "schemaVersion": 3,
   "version": 3,
-  "generatedAt": "2026-08-23T16:12:54.245Z",
+  "generatedAt": "2026-09-15T03:41:18.885Z",
   "totals": {
     "years": 12,
-    "members": 635,
-    "activities": 81
+    "members": 655,
+    "activities": 98
   },
   "years": [
     {
@@ -83,7 +83,7 @@
           "date": "14.08.2026",
           "description": "hồng ân tuyệt vời",
           "image": "images/optimized/uploads/2026/hoa-nhac/1786561398970-lequanthay202011-1280.jpg",
-          "imageCount": 0
+          "imageCount": 9
         }
       ]
     },
@@ -229,23 +229,18 @@
     {
       "year": 2024,
       "overview": {
-        "eyebrow": "Năm lan tỏa",
-        "title": "Cùng nhau cất bước",
-        "summary": "Một năm của tĩnh tâm, chuyển giao ban điều hành, thiện nguyện Đông Ấm Na Rì và góp tiếng hát trong Hoan ca mừng 100 năm Dòng Chúa Cứu Thế.",
+        "eyebrow": "Đức tin · Tình huynh đệ · Phục vụ",
+        "title": "Nối dài sứ mạng, khắc ghi dấu ấn",
+        "summary": "Năm 2024 ghi dấu đời sống học hỏi, cầu nguyện, tĩnh tâm, sáu lễ hôn phối, chuyển giao ban điều hành, lễ Quan thầy lần thứ 9, Đại lễ Di Dân và chương trình Đông Ấm Na Rì.",
         "coverImage": "images/optimized/hero-1280.jpg"
       },
       "members": {
-        "total": 55,
-        "new": 8,
-        "inactive": 4,
-        "notes": "Ca đoàn đón thêm tám thành viên và kết nối thường xuyên hơn với cựu ca viên."
+        "total": 75,
+        "new": 35,
+        "inactive": 20,
+        "notes": "Ca đoàn đón 35 thành viên mới; khoảng 20 thành viên tạm ngưng sinh hoạt."
       },
       "leadership": [
-        {
-          "role": "chaplain",
-          "label": "Cha đặc trách",
-          "name": "Đang cập nhật tư liệu"
-        },
         {
           "role": "leader",
           "label": "Trưởng ca đoàn",
@@ -259,63 +254,183 @@
         {
           "role": "conductor",
           "label": "Ca trưởng",
-          "name": "Maria Ban Mai"
+          "name": "Maria Vũ Thị Mai"
         },
         {
           "role": "treasurer",
           "label": "Thủ quỹ",
-          "name": "Đang cập nhật tư liệu"
+          "name": "Maria Nguyễn Thị Hà Trang"
         }
       ],
       "events": [
         {
-          "id": "2024-activity-1",
-          "title": "Giữ nhịp phục vụ",
-          "type": "Thánh lễ",
-          "topic": "Thánh lễ",
-          "date": "Hằng tuần",
-          "description": "Duy trì lịch hát, lịch tập và đào tạo thanh nhạc theo nhóm bè.",
+          "id": "2024-hon-phoi-hai-duong-phuong-dung",
+          "title": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung",
+          "type": "Hát lễ cưới",
+          "topic": "Hát lễ cưới",
+          "date": "30.01.2024",
+          "description": "Gần 45 ca viên phục vụ Thánh lễ hôn phối của anh Phêrô Phạm Hải Dương và chị Cecilia Hoàng Phương Dung.",
           "image": "",
           "imageCount": 0
         },
         {
-          "id": "2024-activity-2",
-          "title": "Âm nhạc cho em",
-          "type": "Thiện nguyện",
-          "topic": "Thiện nguyện",
-          "date": "06.2024",
-          "description": "Ngày hội âm nhạc gây quỹ học bổng cho trẻ em khó khăn.",
-          "image": "images/optimized/gallery/thien-nguyen-2019-1280.jpg",
+          "id": "2024-hon-phoi-minh-hieu-huong-giang",
+          "title": "Lễ hôn phối Minh Hiếu và Hương Giang",
+          "type": "Hát lễ cưới",
+          "topic": "Hát lễ cưới",
+          "date": "27.02.2024",
+          "description": "Theo lời mời của anh Hạng, ca đoàn phục vụ Thánh lễ hôn phối của anh Minh Hiếu và chị Hương Giang.",
+          "image": "",
           "imageCount": 0
         },
         {
-          "id": "2024-activity-3",
-          "title": "Trở về nguồn",
+          "id": "2024-ruoc-kieng-phuc-sinh",
+          "title": "Rước kiệu mừng Chúa Phục Sinh",
+          "type": "Phục Sinh",
+          "topic": "Phục Sinh",
+          "date": "31.03.2024",
+          "description": "Ca đoàn tham dự đoàn rước kiệu mừng Chúa Phục Sinh và góp tiếng hát cùng cộng đoàn Giáo xứ Thái Hà.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2024-hon-phoi-nguyen-huong-anh-van",
+          "title": "Lễ hôn phối Nguyễn Hương và Anh Văn",
+          "type": "Hát lễ cưới",
+          "topic": "Hát lễ cưới",
+          "date": "13.04.2024",
+          "description": "Ca đoàn phục vụ Thánh lễ hôn phối của chị Nguyễn Hương và anh Anh Văn tại Giáo xứ Trung Châu, Hưng Yên.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2024-cau-nguyen-chuan-bi-tinh-tam",
+          "title": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+          "type": "Cầu nguyện",
+          "topic": "Cầu nguyện",
+          "date": "07.06.2024",
+          "description": "Sau giờ tập hát, ca đoàn dành thời gian cầu nguyện để hướng tới kỳ tĩnh tâm tại Đan viện Thiên Hà.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2024-thi-giao-ly",
+          "title": "Hội thi Giáo lý",
+          "type": "Học hỏi",
+          "topic": "Học hỏi",
+          "date": "22.06.2024",
+          "description": "Ca đoàn tham dự Cuộc thi Tìm hiểu Giáo lý 2024 do Giáo xứ Thái Hà tổ chức và đạt giải Nhì chung cuộc.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2024-tinh-tam-thien-ha",
+          "title": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
           "type": "Tĩnh tâm",
           "topic": "Tĩnh tâm",
-          "date": "03.2024",
-          "description": "Hai ngày tĩnh tâm nhìn lại căn tính và linh đạo phục vụ.",
+          "date": "27–28.07.2024",
+          "description": "Kỳ tĩnh tâm “Ở lại và được Ngài sai đi” diễn ra tại Đan viện Biển Đức Thiên Hà, Hòa Bình.",
           "image": "",
           "imageCount": 0
         },
         {
-          "id": "2024-activity-4",
-          "title": "Cùng nhau cất bước",
-          "type": "Du lịch/Team Building",
-          "topic": "Du lịch/Team Building",
-          "date": "08.2024",
-          "description": "Chuyến đi gắn kết kết hợp đào tạo đội ngũ kế thừa.",
+          "id": "2024-bau-ban-dieu-hanh",
+          "title": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+          "type": "Cộng đoàn",
+          "topic": "Cộng đoàn",
+          "date": "15.08.2024 · 21:00",
+          "description": "Ca đoàn bầu Ban Điều Hành nhiệm kỳ 2024–2026 sau Thánh lễ Đức Mẹ Hồn Xác Lên Trời.",
           "image": "",
           "imageCount": 0
         },
         {
-          "id": "2024-activity-5",
-          "title": "Người trẻ kể chuyện Giáng Sinh",
-          "type": "Giáng Sinh",
-          "topic": "Giáng Sinh",
+          "id": "2024-cau-nguyen-sau-bao-yagi",
+          "title": "Cầu nguyện cho đồng bào miền Bắc sau bão Yagi",
+          "type": "Cầu nguyện",
+          "topic": "Cầu nguyện",
+          "date": "09.2024",
+          "description": "Các ca viên quy tụ cầu nguyện cho đồng bào miền Bắc chịu thiệt hại sau bão Yagi.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2024-tinh-tam-cua-bac",
+          "title": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+          "type": "Tĩnh tâm",
+          "topic": "Tĩnh tâm",
+          "date": "09.2024",
+          "description": "Ca đoàn tĩnh tâm và cầu nguyện tại Nhà thờ Giáo xứ Cửa Bắc để chuẩn bị lễ Quan thầy.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2024-hon-phoi-viet-vi-va-huong",
+          "title": "Lễ hôn phối Giuse Trần Viết Vĩ và Hương",
+          "type": "Hát lễ cưới",
+          "topic": "Hát lễ cưới",
+          "date": "22.09.2024",
+          "description": "Ca đoàn về Giáo xứ Trung Linh, Giáo phận Bùi Chu để chúc mừng lễ hôn phối của anh phó Giuse Trần Viết Vĩ và chị Hương.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2024-quan-thay-lan-thu-9",
+          "title": "Mừng lễ Quan thầy và kỷ niệm 9 năm",
+          "type": "Lễ Quan thầy",
+          "topic": "Lễ Quan thầy",
+          "date": "03.10.2024",
+          "description": "Khoảng 80 ca viên cùng nhiều cựu ca viên mừng lễ Quan thầy lần thứ 9 với chủ đề “Giữa lòng Hội Thánh, con sẽ là tình yêu”.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2024-hon-phoi-duc-binh-phuong-quynh",
+          "title": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+          "type": "Hát lễ cưới",
+          "topic": "Hát lễ cưới",
+          "date": "18.10.2024",
+          "description": "Ca đoàn phục vụ Thánh lễ hôn phối của anh Đức Bình và chị Phương Quỳnh tại Giáo xứ Phong Ý, Giáo phận Thanh Hóa.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2024-dai-le-di-dan",
+          "title": "Đại lễ Di Dân 2024",
+          "type": "Đại lễ",
+          "topic": "Đại lễ",
+          "date": "22.10.2024",
+          "description": "Ca đoàn tham gia Đại lễ Di Dân 2024 và đạt giải Nhất cuộc thi tìm hiểu đường hướng mục vụ.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2024-hon-phoi-phat-ha-trang",
+          "title": "Lễ hôn phối Phêrô Nguyễn Văn Phát và Maria Nguyễn Thị Hà Trang",
+          "type": "Hát lễ cưới",
+          "topic": "Hát lễ cưới",
+          "date": "11.11.2024",
+          "description": "Ca đoàn phục vụ Thánh lễ hôn phối của anh Phát và chị Hà Trang tại Giáo xứ Mỹ Đình, Giáo phận Thái Bình.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2024-hoan-ca-tri-an",
+          "title": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+          "type": "Hòa nhạc",
+          "topic": "Hòa nhạc",
+          "date": "11.2024",
+          "description": "Ca đoàn góp tiếng hát trong chương trình “Hoan ca Tạ ơn” nhân kỷ niệm 100 năm Dòng Chúa Cứu Thế hiện diện tại Việt Nam.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2024-dong-am-na-ri",
+          "title": "Đông Ấm Na Rì",
+          "type": "Thiện nguyện",
+          "topic": "Thiện nguyện",
           "date": "12.2024",
-          "description": "Hoạt cảnh và đêm nhạc dành cho cộng đồng giáo xứ.",
-          "image": "images/optimized/gallery/giang-sinh-2022-1280.jpg",
+          "description": "Ca viên và cựu ca viên thực hiện chương trình thiện nguyện “Đông Ấm Na Rì” tại huyện Na Rì, tỉnh Bắc Kạn.",
+          "image": "",
           "imageCount": 0
         }
       ]
@@ -323,87 +438,127 @@
     {
       "year": 2023,
       "overview": {
-        "eyebrow": "Năm rực rỡ",
-        "title": "Thanh xuân cùng cất tiếng",
-        "summary": "Sự đồng hành chuyên môn của ca trưởng Maria Ban Mai mở ra một giai đoạn khởi sắc, với nhiều chuyến đi, phụng vụ và thiện nguyện.",
+        "eyebrow": "Tin yêu · Dấn thân · Phục vụ",
+        "title": "Một chặng đường đong đầy ân sủng",
+        "summary": "Năm 2023 ghi dấu sự chuyển mình về chuyên môn, hai kỳ tĩnh tâm, lễ Quan thầy lần thứ 8, Đại lễ Di Dân, hai lễ hôn phối và chuyến thiện nguyện tại Cao Bằng.",
         "coverImage": "images/optimized/hero-1280.jpg"
       },
       "members": {
-        "total": 51,
-        "new": 9,
-        "inactive": 4,
-        "notes": "Đội hình lần đầu vượt mốc 50 ca viên và ổn định bốn bè hợp xướng."
+        "total": 45,
+        "new": 10,
+        "inactive": 5,
+        "notes": "Ca đoàn đón 10 thành viên mới; khoảng 5 thành viên tạm ngưng sinh hoạt."
       },
       "leadership": [
         {
-          "role": "chaplain",
-          "label": "Cha đặc trách",
-          "name": "Lm. Giuse Phạm Đức Hiệp"
-        },
-        {
           "role": "leader",
           "label": "Trưởng ca đoàn",
-          "name": "Têrêsa Nguyễn Khánh Linh"
+          "name": "Giuse Phạm Văn Tĩnh"
+        },
+        {
+          "role": "deputyLeader",
+          "label": "Phó ca đoàn",
+          "name": "Phêrô Bùi Ngọc Liêm"
         },
         {
           "role": "conductor",
           "label": "Ca trưởng",
-          "name": "Gioan Trần Minh Quân"
+          "name": "Maria Vũ Thị Mai"
         },
         {
           "role": "treasurer",
           "label": "Thủ quỹ",
-          "name": "Giuse Đặng Quốc Bảo"
+          "name": "Maria Nguyễn Thị Hà Trang"
         }
       ],
       "events": [
         {
-          "id": "2023-activity-1",
-          "title": "Bình minh hy vọng",
-          "type": "Phục Sinh",
-          "topic": "Phục Sinh",
-          "date": "04.2023",
-          "description": "Chương trình hợp xướng bốn bè trong thánh lễ Phục Sinh.",
-          "image": "images/optimized/gallery/phung-vu-2025-1280.jpg",
-          "imageCount": 0
-        },
-        {
-          "id": "2023-activity-2",
-          "title": "Thanh xuân gọi tên",
-          "type": "Du lịch/Team Building",
-          "topic": "Du lịch/Team Building",
-          "date": "07.2023",
-          "description": "Chuyến team building ba ngày với nhiều hoạt động kết nối.",
+          "id": "2023-khai-xuan-gioi-tre-thua-sai",
+          "title": "Phục vụ Thánh lễ Khai Xuân Giới Trẻ Thừa Sai",
+          "type": "Thánh lễ",
+          "topic": "Thánh lễ",
+          "date": "02.02.2023",
+          "description": "Ca đoàn phục vụ Thánh lễ Khai Xuân Giới Trẻ Thừa Sai trong những ngày đầu xuân Quý Mão.",
           "image": "",
           "imageCount": 0
         },
         {
-          "id": "2023-activity-3",
-          "title": "Sức trẻ Têrêsa",
-          "type": "Hội thao",
-          "topic": "Hội thao",
-          "date": "08.2023",
-          "description": "Ngày hội thể thao và âm nhạc dành cho ca viên.",
-          "image": "images/optimized/gallery/gan-ket-2024-1280.jpg",
-          "imageCount": 0
-        },
-        {
-          "id": "2023-activity-4",
-          "title": "Như một đóa hoa nhỏ",
-          "type": "Lễ Quan thầy",
-          "topic": "Lễ Quan thầy",
-          "date": "01.10.2023",
-          "description": "Đêm diễn nguyện kể chuyện Thánh Têrêsa.",
-          "image": "",
-          "imageCount": 0
-        },
-        {
-          "id": "2023-activity-5",
-          "title": "Hát cho bạn mình",
+          "id": "2023-hon-phoi-van-tinh-nguyen-thi-mo",
+          "title": "Lễ hôn phối Giuse Phạm Văn Tĩnh và Maria Nguyễn Thị Mơ",
           "type": "Hát lễ cưới",
           "topic": "Hát lễ cưới",
-          "date": "Trong năm",
-          "description": "Đồng hành trong bốn thánh lễ hôn phối của ca viên.",
+          "date": "08.02.2023 · 18:30",
+          "description": "Ca đoàn phục vụ Thánh lễ hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ, Trưởng ban Liên Kết.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2023-don-ca-truong-ban-mai",
+          "title": "Chào đón ca trưởng Maria Ban Mai",
+          "type": "Thánh nhạc",
+          "topic": "Thánh nhạc",
+          "date": "03.2023",
+          "description": "Đầu tháng 3, chị Maria Ban Mai bắt đầu đảm nhận vai trò ca trưởng phụ trách chuyên môn.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2023-tinh-tam-co-to",
+          "title": "Tĩnh tâm “Dấn Thân Trong Niềm Tin”",
+          "type": "Tĩnh tâm",
+          "topic": "Tĩnh tâm",
+          "date": "23–25.06.2023",
+          "description": "Ca đoàn tĩnh tâm tại Giáo xứ Cô Tô với chủ đề “Dấn Thân Trong Niềm Tin”.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2023-tinh-tam-thanh-minh",
+          "title": "Tĩnh tâm “Người xa quê gặp gỡ chính Chúa Giêsu”",
+          "type": "Tĩnh tâm",
+          "topic": "Tĩnh tâm",
+          "date": "16.09.2023",
+          "description": "Ca đoàn tham dự ngày tĩnh tâm hướng tới Đại lễ Di Dân và phục vụ Thánh lễ tại Giáo xứ Thanh Minh.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2023-quan-thay-lan-thu-8",
+          "title": "Mừng lễ Quan thầy và kỷ niệm 8 năm",
+          "type": "Lễ Quan thầy",
+          "topic": "Lễ Quan thầy",
+          "date": "03.10.2023 · 18:30",
+          "description": "Ca đoàn mừng kính Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 8 năm thành lập tại Giáo xứ Thái Hà.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2023-dai-le-di-dan",
+          "title": "Phục vụ Đại lễ Di Dân 2023",
+          "type": "Đại lễ",
+          "topic": "Đại lễ",
+          "date": "24.10.2023 · 19:00",
+          "description": "Ca đoàn phục vụ Thánh lễ chính trong ngày thứ hai của ba ngày Đại lễ Di Dân 2023.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2023-hon-phoi-van-anh-an-sung",
+          "title": "Lễ hôn phối Maria Vân Anh và Giuse Ân Sủng",
+          "type": "Hát lễ cưới",
+          "topic": "Hát lễ cưới",
+          "date": "17.11.2023",
+          "description": "Ca đoàn phục vụ Thánh lễ hôn phối của chị Maria Vân Anh và anh Giuse Ân Sủng tại Giáo xứ Cẩm Sơn.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2023-hoi-am-noi-reo-cao",
+          "title": "Hơi ấm nơi rẻo cao",
+          "type": "Thiện nguyện",
+          "topic": "Thiện nguyện",
+          "date": "16–17.12.2023",
+          "description": "Ca đoàn trao 115 phần quà tại hai bản Lũng Lừa và Lũng Khỉnh, huyện Hà Quảng, tỉnh Cao Bằng.",
           "image": "",
           "imageCount": 0
         }
@@ -412,88 +567,98 @@
     {
       "year": 2022,
       "overview": {
-        "eyebrow": "Năm trở về",
-        "title": "Gặp lại trong tiếng hát",
-        "summary": "Khi dịch dần được kiểm soát, ca đoàn từng bước khôi phục tập hát và phục vụ, dù số lượng ca viên và tinh thần chung còn cần thời gian để hồi phục.",
+        "eyebrow": "Trở lại · Gặp gỡ · Phục vụ",
+        "title": "Bước tiếp hành trình sứ vụ sau đại dịch COVID",
+        "summary": "Từ giữa năm 2022, ca đoàn từng bước tái khởi động tập hát, phục vụ Thánh lễ, tĩnh tâm, dã ngoại và thiện nguyện sau gần hai năm bị gián đoạn.",
         "coverImage": "images/optimized/hero-1280.jpg"
       },
       "members": {
-        "total": 46,
-        "new": 17,
-        "inactive": 4,
-        "notes": "Đợt tuyển ca viên mới đông nhất kể từ ngày thành lập mang đến nguồn năng lượng mới."
+        "total": 45,
+        "new": 18,
+        "inactive": 5,
+        "notes": "Ca đoàn đón 18 thành viên mới; khoảng 5 thành viên tạm ngưng sinh hoạt."
       },
       "leadership": [
         {
-          "role": "chaplain",
-          "label": "Cha đặc trách",
-          "name": "Lm. Giuse Phạm Đức Hiệp"
-        },
-        {
           "role": "leader",
           "label": "Trưởng ca đoàn",
-          "name": "Maria Vũ Thu Hà"
+          "name": "Giuse Phạm Văn Tĩnh"
+        },
+        {
+          "role": "deputyLeader",
+          "label": "Phó ca đoàn",
+          "name": "Phêrô Bùi Ngọc Liêm"
         },
         {
           "role": "conductor",
           "label": "Ca trưởng",
-          "name": "Gioan Trần Minh Quân"
+          "name": "Vincente Vũ Hải Ngân"
         },
         {
           "role": "treasurer",
           "label": "Thủ quỹ",
-          "name": "Giuse Đặng Quốc Bảo"
+          "name": "Maria Đặng Thị Thuý"
         }
       ],
       "events": [
         {
-          "id": "2022-activity-1",
-          "title": "Thánh lễ ngày trở lại",
-          "type": "Thánh lễ",
-          "topic": "Thánh lễ",
-          "date": "03.2022",
-          "description": "Lần đầu đội hình đầy đủ cùng hát sau thời gian dài xa cách.",
+          "id": "2022-dai-le-thanh-giuse-tho",
+          "title": "Khai mạc Đại lễ kính Thánh Giuse Thợ",
+          "type": "Đại lễ",
+          "topic": "Đại lễ",
+          "date": "10.05.2022",
+          "description": "Ca đoàn phục vụ Thánh lễ khai mạc Đại lễ kính Thánh Giuse Thợ, bổn mạng Gia đình Công giáo Xa quê Hà Nội.",
           "image": "",
           "imageCount": 0
         },
         {
-          "id": "2022-activity-2",
-          "title": "Tạ ơn ngày gặp lại",
-          "type": "Tĩnh tâm",
-          "topic": "Tĩnh tâm",
-          "date": "04.2022",
-          "description": "Ngày tĩnh tâm và tái cam kết phục vụ của toàn ca đoàn.",
-          "image": "",
-          "imageCount": 0
-        },
-        {
-          "id": "2022-activity-3",
-          "title": "Kết nối lại",
+          "id": "2022-da-ngoai-ba-vi",
+          "title": "Chuyến dã ngoại tại Vườn Quốc gia Ba Vì",
           "type": "Du lịch/Team Building",
           "topic": "Du lịch/Team Building",
-          "date": "07.2022",
-          "description": "Chuyến đi dành cho thành viên cũ và mười bảy ca viên mới.",
+          "date": "11–12.06.2022",
+          "description": "Chuyến dã ngoại tại Vườn Quốc gia Ba Vì giúp các ca viên gặp gỡ, nghỉ ngơi và gắn kết lại sau thời gian xa cách vì dịch bệnh.",
           "image": "",
           "imageCount": 0
         },
         {
-          "id": "2022-activity-4",
-          "title": "Năm năm một hành trình",
+          "id": "2022-tinh-tam-tam-dao",
+          "title": "Tĩnh tâm “Lên Núi Với Đức Kitô”",
+          "type": "Tĩnh tâm",
+          "topic": "Tĩnh tâm",
+          "date": "17.09.2022",
+          "description": "Ca đoàn tĩnh tâm tại Tam Đảo với chủ đề “Lên Núi Với Đức Kitô”, hướng đến lễ Quan thầy kỷ niệm 7 năm thành lập.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2022-khai-mac-dai-le-di-dan",
+          "title": "Phục vụ khai mạc Đại lễ Di Dân",
+          "type": "Đại lễ",
+          "topic": "Đại lễ",
+          "date": "05.10.2022",
+          "description": "Ca đoàn cùng Ca đoàn Monica và Ca đoàn Latin phục vụ Thánh lễ khai mạc Đại lễ Di Dân.",
+          "image": "",
+          "imageCount": 0
+        },
+        {
+          "id": "2022-quan-thay-lan-thu-7",
+          "title": "Mừng lễ Quan thầy sau đại dịch",
           "type": "Lễ Quan thầy",
           "topic": "Lễ Quan thầy",
-          "date": "01.10.2022",
-          "description": "Mừng sinh nhật ca đoàn với sự trở về của các cựu ca viên.",
+          "date": "10.10.2022",
+          "description": "Ca đoàn mừng lễ Quan thầy trở lại sau hai năm đại dịch trong bầu khí ấm cúng tại Đền Giêrađô.",
           "image": "",
           "imageCount": 0
         },
         {
-          "id": "2022-activity-5",
-          "title": "Đêm đoàn viên",
-          "type": "Giáng Sinh",
-          "topic": "Giáng Sinh",
-          "date": "24.12.2022",
-          "description": "Đêm thánh nhạc trực tiếp đầu tiên sau thời gian gián đoạn.",
-          "image": "images/optimized/gallery/giang-sinh-2022-1280.jpg",
+          "id": "2022-giang-sinh-trao-yeu-thuong",
+          "title": "Giáng Sinh trao yêu thương",
+          "type": "Thiện nguyện",
+          "topic": "Thiện nguyện",
+          "date": "16–18.12.2022",
+          "description": "Chương trình thiện nguyện Giáng Sinh mang quà và sự sẻ chia đến xã Yên Định, huyện Bắc Mê, tỉnh Hà Giang.",
+          "image": "",
           "imageCount": 0
         }
       ]
@@ -501,78 +666,78 @@
     {
       "year": 2021,
       "overview": {
-        "eyebrow": "Năm kiên tâm",
-        "title": "Niềm tin không tắt",
-        "summary": "Đại dịch tiếp tục gây nhiều tổn thương, nhưng những cử chỉ quan tâm và niềm thao thức được trở lại phục vụ đã giữ các ca viên gần nhau.",
+        "eyebrow": "Nhật ký giữa đại dịch",
+        "title": "Một khoảng lặng của hành trình yêu thương",
+        "summary": "Đại dịch COVID-19 khiến việc tập hát, phục vụ Thánh lễ, mừng bổn mạng, tĩnh tâm và thiện nguyện phải tạm dừng, nhưng tình thân và đời sống đức tin của các ca viên vẫn được gìn giữ.",
         "coverImage": "images/optimized/hero-1280.jpg"
       },
       "members": {
-        "total": 33,
-        "new": 4,
-        "inactive": 6,
-        "notes": "Các nhóm bè nhỏ trở thành nơi nâng đỡ đời sống tinh thần trong thời gian giãn cách."
+        "total": 40,
+        "new": 0,
+        "inactive": 15,
+        "notes": "Khoảng 15 thành viên tạm ngưng sinh hoạt; năm 2021 không ghi nhận thành viên mới."
       },
       "leadership": [
         {
-          "role": "chaplain",
-          "label": "Cha đặc trách",
-          "name": "Lm. Giuse Phạm Đức Hiệp"
-        },
-        {
           "role": "leader",
           "label": "Trưởng ca đoàn",
-          "name": "Maria Vũ Thu Hà"
+          "name": "Giuse Phạm Văn Tĩnh"
+        },
+        {
+          "role": "deputyLeader",
+          "label": "Phó ca đoàn",
+          "name": "Phêrô Bùi Ngọc Liêm"
         },
         {
           "role": "conductor",
           "label": "Ca trưởng",
-          "name": "Maria Nguyễn Diễm My"
+          "name": "Vincente Vũ Hải Ngân"
         },
         {
           "role": "treasurer",
           "label": "Thủ quỹ",
-          "name": "Giuse Đặng Quốc Bảo"
+          "name": "Maria Đặng Thị Thuý"
         }
       ],
       "events": [
         {
-          "id": "2021-activity-1",
-          "title": "Thánh ca từ căn phòng nhỏ",
-          "type": "Hòa nhạc",
-          "topic": "Hòa nhạc",
-          "date": "04.2021",
-          "description": "Chuỗi video thánh ca ngắn do các nhóm bè tự thu tại nhà.",
+          "id": "2021-hon-phoi-duc-chinh-anh-nguyet",
+          "title": "Mừng lễ cưới Đức Chính và Ánh Nguyệt",
+          "type": "Hôn phối",
+          "topic": "Hôn phối",
+          "date": "17.01.2021",
+          "description": "Ca đoàn tham dự và chung vui trong ngày thành hôn của anh Đức Chính và chị Ánh Nguyệt.",
           "image": "",
           "imageCount": 0
         },
         {
-          "id": "2021-activity-2",
-          "title": "Túi quà bình an",
-          "type": "Thiện nguyện",
-          "topic": "Thiện nguyện",
-          "date": "08.2021",
-          "description": "Đóng góp và chuyển nhu yếu phẩm tới các gia đình gặp khó khăn.",
+          "id": "2021-hon-phoi-thu-trang-thanh-hoa",
+          "title": "Lễ cưới Thu Trang – Thanh Nguyễn và Thanh Hoa – Trung Buti",
+          "type": "Hôn phối",
+          "topic": "Hôn phối",
+          "date": "23–24.01.2021",
+          "description": "Ca đoàn tham dự hai lễ cưới của Thu Trang – Thanh Nguyễn và Thanh Hoa – Trung Buti trong hai ngày 23–24 tháng 1.",
           "image": "",
           "imageCount": 0
         },
         {
-          "id": "2021-activity-3",
-          "title": "Hy vọng trong thinh lặng",
-          "type": "Tĩnh tâm",
-          "topic": "Tĩnh tâm",
-          "date": "10.2021",
-          "description": "Ba tối cầu nguyện trực tuyến mừng lễ bổn mạng.",
+          "id": "2021-mot-nam-tam-lang",
+          "title": "Một năm tạm lắng nhưng không đứng lại",
+          "type": "Cộng đoàn",
+          "topic": "Cộng đoàn",
+          "date": "Trong năm",
+          "description": "Dịch bệnh khiến ca đoàn gần như không thể duy trì các hoạt động theo nhịp sinh hoạt quen thuộc trong suốt năm 2021.",
           "image": "",
           "imageCount": 0
         },
         {
-          "id": "2021-activity-4",
-          "title": "Ngôi sao trong nhà",
-          "type": "Giáng Sinh",
-          "topic": "Giáng Sinh",
-          "date": "24.12.2021",
-          "description": "Chương trình Giáng Sinh trực tuyến kết nối ca viên và gia đình.",
-          "image": "images/optimized/gallery/giang-sinh-2022-1280.jpg",
+          "id": "2021-hon-phoi-hung-uyen",
+          "title": "Phục vụ lễ cưới Hùng và Uyên",
+          "type": "Hát lễ cưới",
+          "topic": "Hát lễ cưới",
+          "date": "29.12.2021",
+          "description": "Ca đoàn phục vụ Thánh lễ hôn phối của anh Hùng và chị Uyên tại Giáo xứ Thái Hà.",
+          "image": "",
           "imageCount": 0
         }
       ]

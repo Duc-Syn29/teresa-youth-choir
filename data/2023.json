@@ -1,14 +1,25 @@
 {
+  "schemaVersion": 3,
   "year": 2023,
   "theme": {
-    "accent": "#f27f6b"
+    "primary": "#2f6670",
+    "secondary": "#b9d9d5"
+  },
+  "meta": {
+    "revision": 5,
+    "status": "published",
+    "migratedFrom": 1,
+    "journalCredit": "Anna Nguyễn Thị Quyên",
+    "journalWrittenAt": "2026-09-09",
+    "sourceDocument": "Nhật Ký Tyc  - 2023.docx",
+    "sourceDocumentSha256": "8dd9084d830277d39b4d249775ef5c17da94539e6681bda8f7d45bbda524dade"
   },
   "overview": {
-    "eyebrow": "Năm rực rỡ",
-    "title": "Thanh xuân cùng cất tiếng",
-    "summary": "Sự đồng hành chuyên môn của ca trưởng Maria Ban Mai mở ra một giai đoạn khởi sắc, với nhiều chuyến đi, phụng vụ và thiện nguyện.",
-    "verse": "Hãy phục vụ Chúa với niềm vui, vào trước thánh nhan Người giữa tiếng hò reo.",
-    "longDescription": "Từ tháng 3.2023, chị Maria Ban Mai đồng hành chuyên môn và mang đến một làn gió mới cho ca đoàn. Chuyên môn được cải thiện, nhiều ca viên trở lại và thành viên mới gia nhập. Những kỷ niệm nổi bật gồm phục vụ lễ tĩnh tâm của Gia Đình Công Giáo Xa Quê Hà Nội, Đại lễ Di dân, tĩnh tâm tại Cô Tô, thiện nguyện Tây Bắc và các thánh lễ hôn phối của ca viên.",
+    "eyebrow": "Tin yêu · Dấn thân · Phục vụ",
+    "title": "Một chặng đường đong đầy ân sủng",
+    "summary": "Năm 2023 ghi dấu sự chuyển mình về chuyên môn, hai kỳ tĩnh tâm, lễ Quan thầy lần thứ 8, Đại lễ Di Dân, hai lễ hôn phối và chuyến thiện nguyện tại Cao Bằng.",
+    "verse": "Hãy hát mừng Chúa một bài ca mới, vì Người đã thực hiện bao kỳ công. (Tv 98,1)",
+    "longDescription": "Những ngày đầu năm mở ra với Thánh lễ Khai Xuân Giới Trẻ Thừa Sai và lễ hôn phối của anh trưởng Giuse Phạm Văn Tĩnh cùng chị Maria Nguyễn Thị Mơ. Đầu tháng 3, ca trưởng Maria Vũ Thị Mai, thường gọi Ban Mai, mang đến luồng sinh khí mới cho đời sống chuyên môn, thu hút ca viên cũ trở lại và chào đón nhiều gương mặt mới. Sức sống ấy được nối dài qua chuyến tĩnh tâm “Dấn Thân Trong Niềm Tin” tại Cô Tô, Thánh lễ tĩnh tâm ở Thanh Minh, lễ Quan thầy lần thứ 8, Đại lễ Di Dân 2023 và lễ hôn phối của Maria Vân Anh. Năm khép lại bằng chương trình “Hơi ấm nơi rẻo cao”, mang 115 phần quà tới hai bản vùng cao của tỉnh Cao Bằng.",
     "coverImage": {
       "src": "images/hero.jpg",
       "id": "images/hero.jpg",
@@ -35,35 +46,36 @@
   },
   "leadership": {
     "chaplain": {
-      "note": "Đồng hành mục vụ",
-      "members": [
-        {
-          "name": "Lm. Giuse Phạm Đức Hiệp",
-          "photo": "",
-          "id": "person-chaplain-1azi635"
-        }
-      ]
+      "note": "Được đồng hành bởi cha đặc trách khối liên ca đoàn và cha đặc trách xa quê; tư liệu không ghi tên.",
+      "members": []
     },
     "leader": {
-      "note": "Nhiệm kỳ 2023–2025",
+      "note": "Trưởng ca đoàn",
       "members": [
         {
-          "name": "Têrêsa Nguyễn Khánh Linh",
+          "name": "Giuse Phạm Văn Tĩnh",
           "photo": "",
-          "id": "person-leader-0nrde17"
+          "id": "person-leader-1r0dkj5"
         }
       ]
     },
     "deputyLeader": {
-      "members": []
-    },
-    "conductor": {
-      "note": "Phụ trách chuyên môn",
+      "note": "Phó ca đoàn",
       "members": [
         {
-          "name": "Gioan Trần Minh Quân",
+          "name": "Phêrô Bùi Ngọc Liêm",
           "photo": "",
-          "id": "person-conductor-05udt27"
+          "id": "person-deputyleader-1cstyko"
+        }
+      ]
+    },
+    "conductor": {
+      "note": "Ca trưởng, thường gọi Ban Mai",
+      "members": [
+        {
+          "name": "Maria Vũ Thị Mai",
+          "photo": "",
+          "id": "person-conductor-1h2pjov"
         }
       ]
     },
@@ -71,290 +83,193 @@
       "note": "Thủ quỹ",
       "members": [
         {
-          "name": "Giuse Đặng Quốc Bảo",
+          "name": "Maria Nguyễn Thị Hà Trang",
           "photo": "",
-          "id": "person-treasurer-1cayaz5"
+          "id": "person-treasurer-11k9jv7"
         }
       ]
     },
     "teams": [
       {
-        "name": "Ban Phụng vụ",
-        "members": [],
-        "id": "team-ban-phung-vu-00z4zag"
-      },
-      {
         "name": "Ban Truyền thông",
-        "members": [],
-        "id": "team-ban-truyen-thong-07i2mcq"
+        "note": "",
+        "members": [
+          {
+            "name": "Phêrô Phạm Hải Dương",
+            "photo": "",
+            "id": "team-member-ban-truyen-thong-0yw44ea"
+          }
+        ],
+        "id": "team-ban-truyen-thong-07s281p"
       },
       {
-        "name": "Ban Đời sống",
-        "members": [],
-        "id": "team-ban-doi-song-12o6etq"
+        "name": "Ban Liên Kết",
+        "note": "",
+        "members": [
+          {
+            "name": "Maria Nguyễn Thị Mơ",
+            "photo": "",
+            "id": "team-member-ban-lien-ket-0h4crw2"
+          }
+        ],
+        "id": "team-ban-lien-ket-0lle6l7"
       },
       {
-        "name": "Ban Hậu cần",
-        "members": [],
-        "id": "team-ban-hau-can-1ofs7ay"
+        "name": "Ban Tâm linh",
+        "note": "",
+        "members": [
+          {
+            "name": "Maria Nguyễn Thị Uyên",
+            "photo": "",
+            "id": "team-member-ban-tam-linh-0auz1kd"
+          }
+        ],
+        "id": "team-ban-tam-linh-1ue7uv1"
       }
     ]
   },
   "members": {
-    "total": 51,
-    "new": 9,
-    "inactive": 4,
-    "notes": "Đội hình lần đầu vượt mốc 50 ca viên và ổn định bốn bè hợp xướng."
+    "total": 45,
+    "new": 10,
+    "inactive": 5,
+    "notes": "Ca đoàn đón 10 thành viên mới; khoảng 5 thành viên tạm ngưng sinh hoạt."
   },
   "activities": [
     {
-      "type": "Phục Sinh",
-      "date": "04.2023",
-      "title": "Bình minh hy vọng",
-      "description": "Chương trình hợp xướng bốn bè trong thánh lễ Phục Sinh.",
-      "id": "2023-activity-1",
-      "topic": "Phục Sinh",
-      "body": "Chương trình hợp xướng bốn bè trong thánh lễ Phục Sinh.",
+      "id": "2023-khai-xuan-gioi-tre-thua-sai",
+      "type": "Thánh lễ",
+      "topic": "Thánh lễ",
+      "date": "02.02.2023",
+      "location": "",
+      "title": "Phục vụ Thánh lễ Khai Xuân Giới Trẻ Thừa Sai",
+      "description": "Ca đoàn phục vụ Thánh lễ Khai Xuân Giới Trẻ Thừa Sai trong những ngày đầu xuân Quý Mão.",
+      "body": "Thứ Năm ngày 2 tháng 2, các ca viên gác lại những ưu tư cá nhân để quy tụ trong Thánh lễ Khai Xuân của Giới Trẻ Thừa Sai. Tiếng hát rộn rã, tươi mới được dâng lên như lời nguyện ước cho một năm trọn niềm phó thác.\n\nĐây cũng là dịp anh chị em trao nhau lời chúc lành, gặp gỡ sau Tết và làm mới tinh thần hăng hái cho hành trình phục vụ phía trước.",
       "images": []
     },
     {
-      "type": "Du lịch/Team Building",
-      "date": "07.2023",
-      "title": "Thanh xuân gọi tên",
-      "description": "Chuyến team building ba ngày với nhiều hoạt động kết nối.",
-      "id": "2023-activity-2",
-      "topic": "Du lịch/Team Building",
-      "body": "Chuyến team building ba ngày với nhiều hoạt động kết nối.",
-      "images": []
-    },
-    {
-      "type": "Hội thao",
-      "date": "08.2023",
-      "title": "Sức trẻ Têrêsa",
-      "description": "Ngày hội thể thao và âm nhạc dành cho ca viên.",
-      "id": "2023-activity-3",
-      "topic": "Hội thao",
-      "body": "Ngày hội thể thao và âm nhạc dành cho ca viên.",
-      "images": []
-    },
-    {
-      "type": "Lễ Quan thầy",
-      "date": "01.10.2023",
-      "title": "Như một đóa hoa nhỏ",
-      "description": "Đêm diễn nguyện kể chuyện Thánh Têrêsa.",
-      "id": "2023-activity-4",
-      "topic": "Lễ Quan thầy",
-      "body": "Đêm diễn nguyện kể chuyện Thánh Têrêsa.",
-      "images": []
-    },
-    {
+      "id": "2023-hon-phoi-van-tinh-nguyen-thi-mo",
       "type": "Hát lễ cưới",
-      "date": "Trong năm",
-      "title": "Hát cho bạn mình",
-      "description": "Đồng hành trong bốn thánh lễ hôn phối của ca viên.",
-      "id": "2023-activity-5",
       "topic": "Hát lễ cưới",
-      "body": "Đồng hành trong bốn thánh lễ hôn phối của ca viên.",
+      "date": "08.02.2023 · 18:30",
+      "location": "Giáo xứ Liên Thượng, Giáo phận Bùi Chu",
+      "title": "Lễ hôn phối Giuse Phạm Văn Tĩnh và Maria Nguyễn Thị Mơ",
+      "description": "Ca đoàn phục vụ Thánh lễ hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ, Trưởng ban Liên Kết.",
+      "body": "Thứ Tư ngày 8 tháng 2, lúc 18 giờ 30, ca đoàn về Giáo xứ Liên Thượng, Giáo phận Bùi Chu để chung vui cùng anh Tĩnh và chị Mơ. Hai anh chị đã dành nhiều nhiệt huyết, thời gian và sức trẻ xây dựng ca đoàn, rồi tìm thấy nhau từ chính mái nhà chung Têrêsa.\n\nDù lễ cưới diễn ra giữa tuần và phải di chuyển xa, các thành viên vẫn quy tụ trong bầu khí hân hoan. Tiếng hát trong Thánh lễ là lời nguyện chúc cho mái ấm mới luôn đầy hồng ân, đồng thời là lời tạ ơn cho tình yêu, sự hy sinh và tình huynh đệ được vun đắp trong ca đoàn.",
+      "images": []
+    },
+    {
+      "id": "2023-don-ca-truong-ban-mai",
+      "type": "Thánh nhạc",
+      "topic": "Thánh nhạc",
+      "date": "03.2023",
+      "location": "Phòng tập Ca đoàn Têrêsa",
+      "title": "Chào đón ca trưởng Maria Ban Mai",
+      "description": "Đầu tháng 3, chị Maria Ban Mai bắt đầu đảm nhận vai trò ca trưởng phụ trách chuyên môn.",
+      "body": "Với sự nhiệt thành, kiên nhẫn và lòng mến Chúa, chị Mai tỉ mỉ chỉnh từng nốt nhạc, kỹ thuật lấy hơi, nhịp điệu và cách phối bè. Phương pháp tập hát cuốn hút giúp những buổi tối thứ Năm trở thành thời gian đầy tiếng cười, hứng khởi và năng lượng tích cực.\n\nSự khởi sắc về chuyên môn khích lệ nhiều cựu ca viên trở lại, đồng thời thu hút thêm các ca viên mới, giúp sĩ số các bè thêm đông đủ và vững vàng. Việc chuyển giao chuyên môn diễn ra êm đẹp, trong bình an.",
+      "images": []
+    },
+    {
+      "id": "2023-tinh-tam-co-to",
+      "type": "Tĩnh tâm",
+      "topic": "Tĩnh tâm",
+      "date": "23–25.06.2023",
+      "location": "Giáo xứ Cô Tô",
+      "title": "Tĩnh tâm “Dấn Thân Trong Niềm Tin”",
+      "description": "Ca đoàn tĩnh tâm tại Giáo xứ Cô Tô với chủ đề “Dấn Thân Trong Niềm Tin”.",
+      "body": "Từ ngày 23 đến 25 tháng 6, ca đoàn lên đường ra đảo Cô Tô. Chuyến đi bằng thuyền gỗ giữa sóng lớn khiến gần như cả đoàn say sóng, nhưng cũng nhắc mỗi người biết cậy trông vào Chúa khi đối diện gian nan.\n\nGiữa biển trời, các ca viên dành thời gian lắng đọng, nhìn lại hành trình dấn thân, lãnh nhận bí tích Hòa giải và tham dự Thánh lễ. Bóng đá trên bãi biển, đạp xe, ca hát và đêm giao lưu đã xóa dần khoảng cách giữa thành viên mới và cũ, vun đắp tinh thần hiệp nhất trong tình yêu Đức Kitô.",
+      "images": []
+    },
+    {
+      "id": "2023-tinh-tam-thanh-minh",
+      "type": "Tĩnh tâm",
+      "topic": "Tĩnh tâm",
+      "date": "16.09.2023",
+      "location": "Giáo xứ Thanh Minh, Giáo phận Thái Bình",
+      "title": "Tĩnh tâm “Người xa quê gặp gỡ chính Chúa Giêsu”",
+      "description": "Ca đoàn tham dự ngày tĩnh tâm hướng tới Đại lễ Di Dân và phục vụ Thánh lễ tại Giáo xứ Thanh Minh.",
+      "body": "Thứ Bảy ngày 16 tháng 9, ca đoàn cùng các hội đoàn thuộc Gia đình Công giáo Xa quê Hà Nội khởi hành lúc 5 giờ 30 đến Giáo xứ Thanh Minh, Giáo phận Thái Bình. Với chủ đề “Người xa quê gặp gỡ chính Chúa Giêsu”, các ca viên tham dự giờ tĩnh tâm, chầu Thánh Thể và lãnh nhận bí tích Hòa giải. Lúc 14 giờ, ca đoàn đảm nhận phần hát lễ.\n\nSau chương trình, đoàn ghé thăm Tòa Giám mục Thái Bình, dạo bên bãi biển và thăm gia đình ca trưởng Ban Mai. Chuyến đi khép lại trong bình an lúc 19 giờ 30.",
+      "images": []
+    },
+    {
+      "id": "2023-quan-thay-lan-thu-8",
+      "type": "Lễ Quan thầy",
+      "topic": "Lễ Quan thầy",
+      "date": "03.10.2023 · 18:30",
+      "location": "Giáo xứ Thái Hà, Hà Nội",
+      "title": "Mừng lễ Quan thầy và kỷ niệm 8 năm",
+      "description": "Ca đoàn mừng kính Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 8 năm thành lập tại Giáo xứ Thái Hà.",
+      "body": "Lúc 18 giờ 30 ngày 3 tháng 10, Thánh lễ được cử hành trang trọng do cha phó đặc trách Giuse Lương Thanh Tùng chủ tế, với sự hiện diện của quý cha đặc trách, quý sơ, quý khách và cộng đoàn. Lời chia sẻ của thầy phó tế Giuse nhắc mỗi ca viên phục vụ trong khiêm nhường và phó thác.\n\nSau Thánh lễ, đại gia đình Têrêsa quây quần trong bữa cơm thân mật, cùng hát, nhảy cử điệu và trao nhau những nụ cười. Ngày lễ khép lại trong niềm hân hoan và tiếp thêm ngọn lửa nhiệt thành cho hành trình phía trước.",
+      "images": []
+    },
+    {
+      "id": "2023-dai-le-di-dan",
+      "type": "Đại lễ",
+      "topic": "Đại lễ",
+      "date": "24.10.2023 · 19:00",
+      "location": "Giáo xứ Thái Hà, Hà Nội",
+      "title": "Phục vụ Đại lễ Di Dân 2023",
+      "description": "Ca đoàn phục vụ Thánh lễ chính trong ngày thứ hai của ba ngày Đại lễ Di Dân 2023.",
+      "body": "Lúc 19 giờ ngày 24 tháng 10, ca đoàn đảm nhận phần hát lễ tại Nhà thờ Giáo xứ Thái Hà. Hoạt động nối dài hoa trái từ ngày tĩnh tâm tại Thanh Minh và là một dấu mốc phụng sự quan trọng trong năm.\n\nSự hòa hợp trong từng lời ca thể hiện tinh thần hiệp nhất và quyết tâm dấn thân của các thành viên trong sứ mạng phục vụ cộng đồng người xa quê.",
+      "images": []
+    },
+    {
+      "id": "2023-hon-phoi-van-anh-an-sung",
+      "type": "Hát lễ cưới",
+      "topic": "Hát lễ cưới",
+      "date": "17.11.2023",
+      "location": "Giáo xứ Cẩm Sơn, Tổng Giáo phận Hà Nội",
+      "title": "Lễ hôn phối Maria Vân Anh và Giuse Ân Sủng",
+      "description": "Ca đoàn phục vụ Thánh lễ hôn phối của chị Maria Vân Anh và anh Giuse Ân Sủng tại Giáo xứ Cẩm Sơn.",
+      "body": "Thứ Sáu ngày 17 tháng 11, đáp lại lời mời của chị Vân Anh, một ca viên nhiệt thành, ca đoàn quy tụ về Giáo xứ Cẩm Sơn thuộc Tổng Giáo phận Hà Nội. Đây là Thánh lễ hôn phối thứ hai của ca viên mà đại gia đình Têrêsa phục vụ trong năm 2023.\n\nTiếng hát trở thành món quà và lời cầu nguyện, xin Thiên Chúa chúc phúc để đôi tân hôn luôn trung thành, yêu thương và cùng xây dựng mái ấm đầy ân sủng.",
+      "images": []
+    },
+    {
+      "id": "2023-hoi-am-noi-reo-cao",
+      "type": "Thiện nguyện",
+      "topic": "Thiện nguyện",
+      "date": "16–17.12.2023",
+      "location": "Lũng Lừa và Lũng Khỉnh, Hà Quảng, Cao Bằng",
+      "title": "Hơi ấm nơi rẻo cao",
+      "description": "Ca đoàn trao 115 phần quà tại hai bản Lũng Lừa và Lũng Khỉnh, huyện Hà Quảng, tỉnh Cao Bằng.",
+      "body": "Chuyến xe khởi hành trong đêm 15 tháng 12 với sự nâng đỡ của quý cha đặc trách và quý ân nhân. Đường vào hai bản gập ghềnh, đất đá lổm chổm, khiến đoàn phải chia đồ và trung chuyển bằng xe nhỏ qua các khúc cua. Những khó khăn ấy giúp các ca viên thấu cảm hơn cuộc sống thiếu thốn của bà con và trẻ nhỏ vùng cao.\n\nMột trăm mười lăm phần quà gồm chăn ấm, gạo, nhu yếu phẩm, quần áo và bánh kẹo được trao tận tay từng gia đình. Tối 16 tháng 12, ca đoàn phục vụ Thánh lễ tại Giáo xứ Cao Bình. Ngày hôm sau, đoàn ghé Thác Bản Giốc rồi trở về Hà Nội trong bình an, mang theo bài học về sự trao ban và tinh thần chứng nhân.",
       "images": []
     }
   ],
   "achievements": [
-    "Ổn định đội hình hợp xướng bốn bè.",
-    "Bắt đầu số hóa kho bản nhạc.",
-    "Xây dựng nhóm đào tạo nhân sự kế thừa."
+    "Tạo bước chuyển tích cực về kỹ thuật thanh nhạc, nhịp điệu và phối bè dưới sự đồng hành của ca trưởng Maria Vũ Thị Mai.",
+    "Tổ chức tĩnh tâm tại Cô Tô, phục vụ ngày tĩnh tâm tại Thanh Minh, lễ Quan thầy lần thứ 8 và Đại lễ Di Dân.",
+    "Trao 115 phần quà cho người dân và trẻ em tại Lũng Lừa, Lũng Khỉnh."
   ],
   "challenges": [
-    "Quy mô lớn đòi hỏi quy trình tổ chức rõ ràng hơn.",
-    "Thiếu không gian lưu trữ tư liệu chung.",
-    "Cần cân bằng hoạt động và thời gian nghỉ ngơi."
+    "Gần như cả đoàn bị say sóng trên chuyến thuyền gỗ ra Cô Tô.",
+    "Đường vào các bản tại Cao Bằng gập ghềnh, đoàn phải trung chuyển người và quà bằng xe nhỏ.",
+    "Năm thành viên tạm ngưng sinh hoạt."
   ],
-  "gallery": [
-    {
-      "src": "images/gallery/team-building-2023.jpg",
-      "alt": "Team building năm 2023",
-      "event": "Team Building",
-      "caption": "Thanh xuân gọi tên",
-      "id": "images/gallery/team-building-2023.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "images/optimized/gallery/team-building-2023-480.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "images/optimized/gallery/team-building-2023-1280.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "images/optimized/gallery/team-building-2023-2048.jpg",
-          "width": 2048,
-          "height": 1364
-        }
-      }
-    },
-    {
-      "src": "images/gallery/phung-vu-2025.jpg",
-      "alt": "Ca đoàn hợp xướng",
-      "event": "Phục Sinh",
-      "caption": "Bình minh hy vọng",
-      "id": "images/gallery/phung-vu-2025.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
-          "width": 480,
-          "height": 290
-        },
-        "medium": {
-          "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
-          "width": 1280,
-          "height": 773
-        },
-        "original": {
-          "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
-          "width": 2048,
-          "height": 1237
-        }
-      }
-    },
-    {
-      "src": "images/gallery/gan-ket-2024.jpg",
-      "alt": "Ngày hội ca viên",
-      "event": "Hội thao",
-      "caption": "Sức trẻ Têrêsa",
-      "id": "images/gallery/gan-ket-2024.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "images/optimized/gallery/gan-ket-2024-480.jpg",
-          "width": 480,
-          "height": 319
-        },
-        "medium": {
-          "src": "images/optimized/gallery/gan-ket-2024-1280.jpg",
-          "width": 1280,
-          "height": 851
-        },
-        "original": {
-          "src": "images/optimized/gallery/gan-ket-2024-2048.jpg",
-          "width": 2048,
-          "height": 1362
-        }
-      }
-    }
-  ],
-  "sharing": [
-    {
-      "name": "Khánh Linh",
-      "role": "Trưởng ca đoàn 2023",
-      "quote": "Nhận trách nhiệm trong chính nơi mình đã lớn lên là một món quà, đồng thời là lời mời gọi phải yêu nhiều hơn."
-    },
-    {
-      "name": "Thanh Vy",
-      "role": "Ca viên 2023",
-      "quote": "Chúng mình bắt đầu lưu lại mọi thứ vì hiểu rằng ký ức cũng cần được chăm sóc."
-    }
-  ],
+  "sharing": [],
   "emotionJournal": [
     {
-      "date": "16.07",
-      "title": "Đêm cuối của chuyến đi",
-      "text": "Năm mươi người ngồi thành vòng tròn và kể về lý do mình ở lại.",
-      "mood": "Thân tình"
+      "date": "23–25.06",
+      "title": "Chuyến thuyền ra Cô Tô",
+      "text": "Sóng lớn khiến gần như cả đoàn say sóng, nhưng cũng làm những e dè ban đầu tan biến. Khi thuyền cập bến, các thành viên mở lòng, nắm tay nhau dấn thân và trở về trong tình huynh đệ sâu sắc.",
+      "mood": "Gắn kết"
     },
     {
-      "date": "01.10",
-      "title": "Một đóa hoa nhỏ",
-      "text": "Sân khấu tắt đèn, nhưng câu chuyện của Têrêsa vẫn còn sáng trong mỗi người.",
-      "mood": "Tự hào"
+      "date": "03.2023",
+      "title": "Làn gió mới trong phòng tập",
+      "text": "Sự kiên nhẫn và phương pháp truyền cảm hứng của ca trưởng Ban Mai khiến những tối thứ Năm không còn là sự mệt mỏi sau ngày làm việc, mà trở thành những giờ tập tràn tiếng cười.",
+      "mood": "Hứng khởi"
+    },
+    {
+      "date": "16–17.12",
+      "title": "Hơi ấm nơi rẻo cao",
+      "text": "Những điệu cử điệu đơn sơ, tiếng vỗ tay của bà con và nụ cười của trẻ nhỏ giữa lưng đồi đã sưởi ấm cái lạnh mùa đông Cao Bằng.",
+      "mood": "Ấm áp"
     }
   ],
   "yearMark": {
-    "title": "Thanh xuân đã có tên.",
-    "description": "2023 là một năm rực rỡ không chỉ bởi nhiều hoạt động, mà bởi từng ca viên đã dám góp tiếng nói và trách nhiệm vào hành trình chung.",
-    "highlight": "51 ca viên · 4 bè hát"
+    "title": "Tin yêu · Dấn thân · Phục vụ",
+    "description": "Năm 2023 khép lại với ngọn lửa Tin yêu – Dấn thân – Phục vụ cháy sáng trong từng lời ca và hành trình. Từ buổi tập, Thánh lễ đến những chuyến đi chan chứa tình thương, tất cả kết thành dấu ấn dưới mái nhà chung Têrêsa. Mỗi ca viên tiếp tục được mời gọi trở thành khí cụ bình an, mang lời ca và tình yêu đến với mọi người.",
+    "highlight": "45 ca viên · 9 hoạt động · 115 phần quà"
   },
-  "schemaVersion": 3,
-  "meta": {
-    "revision": 1,
-    "status": "published",
-    "migratedFrom": 1
-  },
-  "galleryAlbum": {
-    "manifest": "data/albums/2023/_gallery.json",
-    "count": 3,
-    "preview": [
-      {
-        "src": "images/gallery/team-building-2023.jpg",
-        "alt": "Team building năm 2023",
-        "event": "Team Building",
-        "caption": "Thanh xuân gọi tên",
-        "id": "images/gallery/team-building-2023.jpg",
-        "variants": {
-          "thumbnail": {
-            "src": "images/optimized/gallery/team-building-2023-480.jpg",
-            "width": 480,
-            "height": 320
-          },
-          "medium": {
-            "src": "images/optimized/gallery/team-building-2023-1280.jpg",
-            "width": 1280,
-            "height": 853
-          },
-          "original": {
-            "src": "images/optimized/gallery/team-building-2023-2048.jpg",
-            "width": 2048,
-            "height": 1364
-          }
-        }
-      },
-      {
-        "src": "images/gallery/phung-vu-2025.jpg",
-        "alt": "Ca đoàn hợp xướng",
-        "event": "Phục Sinh",
-        "caption": "Bình minh hy vọng",
-        "id": "images/gallery/phung-vu-2025.jpg",
-        "variants": {
-          "thumbnail": {
-            "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
-            "width": 480,
-            "height": 290
-          },
-          "medium": {
-            "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
-            "width": 1280,
-            "height": 773
-          },
-          "original": {
-            "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
-            "width": 2048,
-            "height": 1237
-          }
-        }
-      },
-      {
-        "src": "images/gallery/gan-ket-2024.jpg",
-        "alt": "Ngày hội ca viên",
-        "event": "Hội thao",
-        "caption": "Sức trẻ Têrêsa",
-        "id": "images/gallery/gan-ket-2024.jpg",
-        "variants": {
-          "thumbnail": {
-            "src": "images/optimized/gallery/gan-ket-2024-480.jpg",
-            "width": 480,
-            "height": 319
-          },
-          "medium": {
-            "src": "images/optimized/gallery/gan-ket-2024-1280.jpg",
-            "width": 1280,
-            "height": 851
-          },
-          "original": {
-            "src": "images/optimized/gallery/gan-ket-2024-2048.jpg",
-            "width": 2048,
-            "height": 1362
-          }
-        }
-      }
-    ]
-  }
+  "gallery": []
 }

@@ -1,14 +1,25 @@
 {
+  "schemaVersion": 3,
   "year": 2021,
   "theme": {
-    "accent": "#e6b85c"
+    "primary": "#6f4258",
+    "secondary": "#d7b7c5"
+  },
+  "meta": {
+    "revision": 5,
+    "status": "published",
+    "migratedFrom": 1,
+    "journalCredit": "Petrus Đỗ Tiến Hạng",
+    "journalWrittenAt": "2026-09-03",
+    "sourceDocument": "Nhật ký 2021 TYC.docx",
+    "sourceDocumentSha256": "8e508af3356b454d7be4dec298766250327e2254523106dd735f9ece874e8131"
   },
   "overview": {
-    "eyebrow": "Năm kiên tâm",
-    "title": "Niềm tin không tắt",
-    "summary": "Đại dịch tiếp tục gây nhiều tổn thương, nhưng những cử chỉ quan tâm và niềm thao thức được trở lại phục vụ đã giữ các ca viên gần nhau.",
-    "verse": "Ánh sáng chiếu soi trong bóng tối, và bóng tối đã không diệt được ánh sáng.",
-    "longDescription": "Năm 2021, COVID-19 tiếp tục ảnh hưởng tới sức khỏe, tinh thần và kinh tế của nhiều ca viên. Không thể tập hát hoặc phục vụ trực tiếp, nhưng trong khoảng lặng ấy, ca đoàn học cách trân trọng sự sống, quan tâm nhau và sống Tin Mừng ngay trong những biến cố thường ngày.",
+    "eyebrow": "Nhật ký giữa đại dịch",
+    "title": "Một khoảng lặng của hành trình yêu thương",
+    "summary": "Đại dịch COVID-19 khiến việc tập hát, phục vụ Thánh lễ, mừng bổn mạng, tĩnh tâm và thiện nguyện phải tạm dừng, nhưng tình thân và đời sống đức tin của các ca viên vẫn được gìn giữ.",
+    "verse": "Dù bước đi trong thung lũng tối, con không sợ tai họa nào, vì có Chúa ở cùng. (Tv 23,4)",
+    "longDescription": "Năm 2021 tiếp tục là một năm đầy khó khăn khi đại dịch COVID-19 bùng phát, ảnh hưởng đến sức khỏe, tinh thần và kinh tế của nhiều ca viên. Khoảng cách và các quy định phòng dịch khiến ca đoàn không thể tổ chức tập hát, phục vụ Thánh lễ hay duy trì những chương trình thường niên. Trong chính khoảng lặng ấy, mỗi ca viên trưởng thành hơn trong đức tin, biết quý trọng cuộc sống và nhận ra rằng điều quý giá không chỉ là được đứng trên gác đàn, mà còn là biết sống Tin Mừng trong những biến cố của cuộc đời. Ca đoàn vẫn cố gắng hiện diện bên nhau trong những dấu mốc quan trọng và gìn giữ tình thân của đại gia đình Têrêsa.",
     "coverImage": {
       "src": "images/hero.jpg",
       "id": "images/hero.jpg",
@@ -35,35 +46,36 @@
   },
   "leadership": {
     "chaplain": {
-      "note": "Đồng hành mục vụ",
-      "members": [
-        {
-          "name": "Lm. Giuse Phạm Đức Hiệp",
-          "photo": "",
-          "id": "person-chaplain-1azi635"
-        }
-      ]
+      "note": "Tư liệu năm 2021 không ghi tên cha đồng hành.",
+      "members": []
     },
     "leader": {
-      "note": "Nhiệm kỳ 2021–2023",
+      "note": "Trưởng ca đoàn",
       "members": [
         {
-          "name": "Maria Vũ Thu Hà",
+          "name": "Giuse Phạm Văn Tĩnh",
           "photo": "",
-          "id": "person-leader-1tgx0vc"
+          "id": "person-leader-1r0dkj5"
         }
       ]
     },
     "deputyLeader": {
-      "members": []
-    },
-    "conductor": {
-      "note": "Phụ trách chuyên môn",
+      "note": "Phó ca đoàn",
       "members": [
         {
-          "name": "Maria Nguyễn Diễm My",
+          "name": "Phêrô Bùi Ngọc Liêm",
           "photo": "",
-          "id": "person-conductor-026bpid"
+          "id": "person-deputyleader-1cstyko"
+        }
+      ]
+    },
+    "conductor": {
+      "note": "Ca trưởng",
+      "members": [
+        {
+          "name": "Vincente Vũ Hải Ngân",
+          "photo": "",
+          "id": "person-conductor-13bnam6"
         }
       ]
     },
@@ -71,275 +83,141 @@
       "note": "Thủ quỹ",
       "members": [
         {
-          "name": "Giuse Đặng Quốc Bảo",
+          "name": "Maria Đặng Thị Thuý",
           "photo": "",
-          "id": "person-treasurer-1cayaz5"
+          "id": "person-treasurer-1kjfic3"
         }
       ]
     },
     "teams": [
       {
-        "name": "Ban Phụng vụ",
-        "members": [],
-        "id": "team-ban-phung-vu-00z4zag"
-      },
-      {
         "name": "Ban Truyền thông",
-        "members": [],
-        "id": "team-ban-truyen-thong-07i2mcq"
+        "note": "",
+        "members": [
+          {
+            "name": "Toma Vũ Duy Tâm",
+            "photo": "",
+            "id": "team-member-ban-truyen-thong-1wlm54t"
+          },
+          {
+            "name": "Giuse Nguyễn Văn Thượng",
+            "photo": "",
+            "id": "team-member-ban-truyen-thong-18wwdpz"
+          }
+        ],
+        "id": "team-ban-truyen-thong-07s281p"
       },
       {
-        "name": "Ban Đời sống",
-        "members": [],
-        "id": "team-ban-doi-song-12o6etq"
+        "name": "Ban Liên Kết",
+        "note": "",
+        "members": [
+          {
+            "name": "Maria Đỗ Thị Thanh Hoa",
+            "photo": "",
+            "id": "team-member-ban-lien-ket-07l0nik"
+          }
+        ],
+        "id": "team-ban-lien-ket-0lle6l7"
+      },
+      {
+        "name": "Ban Tâm linh",
+        "note": "",
+        "members": [
+          {
+            "name": "Maria Nguyễn Thị Uyên",
+            "photo": "",
+            "id": "team-member-ban-tam-linh-0auz1kd"
+          },
+          {
+            "name": "Maria Nguyễn Thị Oanh",
+            "photo": "",
+            "id": "team-member-ban-tam-linh-09e7qy2"
+          }
+        ],
+        "id": "team-ban-tam-linh-1ue7uv1"
+      },
+      {
+        "name": "Ban Sinh hoạt",
+        "note": "",
+        "members": [
+          {
+            "name": "Antôn Nguyễn Thành Dương",
+            "photo": "",
+            "id": "team-member-ban-sinh-hoat-1tjoi9f"
+          }
+        ],
+        "id": "team-ban-sinh-hoat-1bl8eai"
       }
     ]
   },
   "members": {
-    "total": 33,
-    "new": 4,
-    "inactive": 6,
-    "notes": "Các nhóm bè nhỏ trở thành nơi nâng đỡ đời sống tinh thần trong thời gian giãn cách."
+    "total": 40,
+    "new": 0,
+    "inactive": 15,
+    "notes": "Khoảng 15 thành viên tạm ngưng sinh hoạt; năm 2021 không ghi nhận thành viên mới."
   },
   "activities": [
     {
-      "type": "Hòa nhạc",
-      "date": "04.2021",
-      "title": "Thánh ca từ căn phòng nhỏ",
-      "description": "Chuỗi video thánh ca ngắn do các nhóm bè tự thu tại nhà.",
-      "id": "2021-activity-1",
-      "topic": "Hòa nhạc",
-      "body": "Chuỗi video thánh ca ngắn do các nhóm bè tự thu tại nhà.",
+      "id": "2021-hon-phoi-duc-chinh-anh-nguyet",
+      "type": "Hôn phối",
+      "topic": "Hôn phối",
+      "date": "17.01.2021",
+      "location": "",
+      "title": "Mừng lễ cưới Đức Chính và Ánh Nguyệt",
+      "description": "Ca đoàn tham dự và chung vui trong ngày thành hôn của anh Đức Chính và chị Ánh Nguyệt.",
+      "body": "Ngày 17 tháng 1 mở đầu những dấu ấn của năm 2021 bằng niềm vui ngày cưới của anh Đức Chính và chị Ánh Nguyệt. Các thành viên cùng về tham dự, cầu nguyện và chúc mừng gia đình mới.\n\nTrong hoàn cảnh sinh hoạt chung còn nhiều khó khăn, việc có thể hiện diện bên nhau càng trở nên ý nghĩa. Đây không chỉ là một cuộc gặp gỡ trong ngày vui, mà còn là cách những người anh em trong ca đoàn tiếp tục trao cho nhau sự quan tâm và tình thân.",
       "images": []
     },
     {
-      "type": "Thiện nguyện",
-      "date": "08.2021",
-      "title": "Túi quà bình an",
-      "description": "Đóng góp và chuyển nhu yếu phẩm tới các gia đình gặp khó khăn.",
-      "id": "2021-activity-2",
-      "topic": "Thiện nguyện",
-      "body": "Đóng góp và chuyển nhu yếu phẩm tới các gia đình gặp khó khăn.",
+      "id": "2021-hon-phoi-thu-trang-thanh-hoa",
+      "type": "Hôn phối",
+      "topic": "Hôn phối",
+      "date": "23–24.01.2021",
+      "location": "",
+      "title": "Lễ cưới Thu Trang – Thanh Nguyễn và Thanh Hoa – Trung Buti",
+      "description": "Ca đoàn tham dự hai lễ cưới của Thu Trang – Thanh Nguyễn và Thanh Hoa – Trung Buti trong hai ngày 23–24 tháng 1.",
+      "body": "Chỉ ít ngày sau lễ cưới của Đức Chính và Ánh Nguyệt, ca đoàn tiếp tục chung vui trong ngày trọng đại của hai đôi bạn Thu Trang – Thanh Nguyễn và Thanh Hoa – Trung Buti. Những cuộc gặp gỡ tuy không nhiều nhưng trở thành các khoảnh khắc đáng nhớ giữa một năm đầy biến động.\n\nNiềm vui của mỗi thành viên cũng là niềm vui chung của đại gia đình Ca đoàn Giới Trẻ Têrêsa. Các ca viên còn nhiệt tình trình bày những bài cử điệu sinh hoạt, góp phần tạo nên kỷ niệm vui tươi trong ngày cưới của anh chị em mình.",
       "images": []
     },
     {
-      "type": "Tĩnh tâm",
-      "date": "10.2021",
-      "title": "Hy vọng trong thinh lặng",
-      "description": "Ba tối cầu nguyện trực tuyến mừng lễ bổn mạng.",
-      "id": "2021-activity-3",
-      "topic": "Tĩnh tâm",
-      "body": "Ba tối cầu nguyện trực tuyến mừng lễ bổn mạng.",
+      "id": "2021-mot-nam-tam-lang",
+      "type": "Cộng đoàn",
+      "topic": "Cộng đoàn",
+      "date": "Trong năm",
+      "location": "",
+      "title": "Một năm tạm lắng nhưng không đứng lại",
+      "description": "Dịch bệnh khiến ca đoàn gần như không thể duy trì các hoạt động theo nhịp sinh hoạt quen thuộc trong suốt năm 2021.",
+      "body": "Lễ Quan thầy, tĩnh tâm, thiện nguyện, tập hát và phục vụ Thánh lễ nhiều lần phải tạm dừng. Phòng tập thiếu vắng tiếng hát, áo phục vụ được cất đi, các buổi gặp mặt bị hoãn và nhiều kế hoạch phải chờ một thời điểm thích hợp hơn.\n\nKhoảng lặng ấy giúp các thành viên cảm nhận rõ hơn giá trị của tình thân. Ca đoàn không chỉ được tạo nên bởi những buổi tập hay chương trình lớn, mà còn bởi sự hiện diện, sẻ chia và đồng hành giữa mỗi người với nhau.",
       "images": []
     },
     {
-      "type": "Giáng Sinh",
-      "date": "24.12.2021",
-      "title": "Ngôi sao trong nhà",
-      "description": "Chương trình Giáng Sinh trực tuyến kết nối ca viên và gia đình.",
-      "id": "2021-activity-4",
-      "topic": "Giáng Sinh",
-      "body": "Chương trình Giáng Sinh trực tuyến kết nối ca viên và gia đình.",
+      "id": "2021-hon-phoi-hung-uyen",
+      "type": "Hát lễ cưới",
+      "topic": "Hát lễ cưới",
+      "date": "29.12.2021",
+      "location": "Giáo xứ Thái Hà",
+      "title": "Phục vụ lễ cưới Hùng và Uyên",
+      "description": "Ca đoàn phục vụ Thánh lễ hôn phối của anh Hùng và chị Uyên tại Giáo xứ Thái Hà.",
+      "body": "Ngày 29 tháng 12, ca đoàn được hiện diện và phục vụ Thánh lễ hôn phối của anh Hùng và chị Uyên tại Giáo xứ Thái Hà. Đây là một dấu ấn đẹp khép lại năm 2021.\n\nDù không có nhiều chương trình rộn ràng như những năm trước, ca đoàn vẫn tìm được cách ở bên nhau, cùng chia sẻ niềm vui trong cuộc sống của các thành viên và kết thúc một năm nhiều thử thách bằng tiếng hát chúc phúc.",
       "images": []
     }
   ],
   "achievements": [
-    "Thực hiện chuỗi sáu video thánh ca trực tuyến.",
-    "Tổ chức chương trình Giáng Sinh tại nhà.",
-    "Duy trì nhóm đồng hành tinh thần cho ca viên."
+    "Gìn giữ tình thân và sự đồng hành giữa các ca viên trong thời gian giãn cách.",
+    "Hiện diện trong bốn dấu mốc hôn phối của thành viên và người thân trong ca đoàn.",
+    "Duy trì niềm tín thác, lòng trung kiên và mong ước được trở lại phục vụ."
   ],
   "challenges": [
-    "Mệt mỏi vì sinh hoạt trực tuyến kéo dài.",
-    "Nhiều thành viên phải thay đổi nơi ở và công việc.",
-    "Khó tiếp nhận và đào tạo ca viên mới."
+    "Nhiều ca viên bị nhiễm COVID-19 và chịu ảnh hưởng về sức khỏe, tinh thần, kinh tế.",
+    "Tập hát, phụng vụ, lễ Quan thầy, tĩnh tâm và thiện nguyện phải tạm dừng.",
+    "Khoảng 15 thành viên tạm ngưng sinh hoạt."
   ],
-  "gallery": [
-    {
-      "src": "images/gallery/giang-sinh-2022.jpg",
-      "alt": "Kỷ niệm Giáng Sinh",
-      "event": "Giáng Sinh",
-      "caption": "Ngôi sao trong nhà",
-      "id": "images/gallery/giang-sinh-2022.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "images/optimized/gallery/giang-sinh-2022-480.jpg",
-          "width": 480,
-          "height": 290
-        },
-        "medium": {
-          "src": "images/optimized/gallery/giang-sinh-2022-1280.jpg",
-          "width": 1280,
-          "height": 773
-        },
-        "original": {
-          "src": "images/optimized/gallery/giang-sinh-2022-2048.jpg",
-          "width": 2048,
-          "height": 1237
-        }
-      }
-    },
-    {
-      "src": "images/gallery/phung-vu-2025.jpg",
-      "alt": "Niềm tin qua âm nhạc",
-      "event": "Thánh ca",
-      "caption": "Ánh sáng không tắt",
-      "id": "images/gallery/phung-vu-2025.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
-          "width": 480,
-          "height": 290
-        },
-        "medium": {
-          "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
-          "width": 1280,
-          "height": 773
-        },
-        "original": {
-          "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
-          "width": 2048,
-          "height": 1237
-        }
-      }
-    },
-    {
-      "src": "images/gallery/gan-ket-2024.jpg",
-      "alt": "Các ca viên gắn kết",
-      "event": "Đồng hành",
-      "caption": "Chờ ngày gặp lại",
-      "id": "images/gallery/gan-ket-2024.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "images/optimized/gallery/gan-ket-2024-480.jpg",
-          "width": 480,
-          "height": 319
-        },
-        "medium": {
-          "src": "images/optimized/gallery/gan-ket-2024-1280.jpg",
-          "width": 1280,
-          "height": 851
-        },
-        "original": {
-          "src": "images/optimized/gallery/gan-ket-2024-2048.jpg",
-          "width": 2048,
-          "height": 1362
-        }
-      }
-    }
-  ],
-  "sharing": [
-    {
-      "name": "Thu Hà",
-      "role": "Trưởng ca đoàn 2021",
-      "quote": "Năm ấy, điều quan trọng nhất không phải là thu được một bài thật hoàn hảo, mà là không để ai cảm thấy mình bị bỏ lại."
-    },
-    {
-      "name": "Minh Quân",
-      "role": "Ca viên 2021",
-      "quote": "Mỗi file thu âm gửi về là một lời nhắn: mình vẫn ở đây."
-    }
-  ],
-  "emotionJournal": [
-    {
-      "date": "14.08",
-      "title": "Những túi quà được gửi đi",
-      "text": "Không thể cùng nhau đóng gói, nhưng mỗi người góp một phần từ nơi mình ở.",
-      "mood": "Sẻ chia"
-    },
-    {
-      "date": "24.12",
-      "title": "Giáng Sinh qua màn hình",
-      "text": "Khi bài hát kết thúc, mọi người vẫn chưa ai muốn rời cuộc gọi.",
-      "mood": "Ấm lòng"
-    }
-  ],
+  "sharing": [],
+  "emotionJournal": [],
   "yearMark": {
-    "title": "Ánh sáng vẫn ở đây.",
-    "description": "2021 dạy chúng mình sự kiên tâm: cứ làm điều tốt có thể làm hôm nay, dù nhỏ bé, để cùng giữ hy vọng cho ngày mai.",
-    "highlight": "6 video · 33 trái tim"
+    "title": "Niềm tín thác trong khoảng lặng",
+    "description": "Năm 2021 khép lại trong một khoảng lặng, nhưng niềm tín thác và lòng trung kiên chưa bao giờ ngơi nghỉ. Dù không thể gặp gỡ trực tiếp, sự gắn bó trong Đức Kitô và ánh sáng đức tin vẫn cháy trong mỗi người trẻ xa quê. Từ khoảng lặng ấy, ca đoàn tiếp tục chờ ngày trở lại với phòng tập, Thánh lễ, những chuyến đi và những cuộc gặp gỡ đầy yêu thương.",
+    "highlight": "40 ca viên · khoảng 15 thành viên tạm nghỉ"
   },
-  "schemaVersion": 3,
-  "meta": {
-    "revision": 1,
-    "status": "published",
-    "migratedFrom": 1
-  },
-  "galleryAlbum": {
-    "manifest": "data/albums/2021/_gallery.json",
-    "count": 3,
-    "preview": [
-      {
-        "src": "images/gallery/giang-sinh-2022.jpg",
-        "alt": "Kỷ niệm Giáng Sinh",
-        "event": "Giáng Sinh",
-        "caption": "Ngôi sao trong nhà",
-        "id": "images/gallery/giang-sinh-2022.jpg",
-        "variants": {
-          "thumbnail": {
-            "src": "images/optimized/gallery/giang-sinh-2022-480.jpg",
-            "width": 480,
-            "height": 290
-          },
-          "medium": {
-            "src": "images/optimized/gallery/giang-sinh-2022-1280.jpg",
-            "width": 1280,
-            "height": 773
-          },
-          "original": {
-            "src": "images/optimized/gallery/giang-sinh-2022-2048.jpg",
-            "width": 2048,
-            "height": 1237
-          }
-        }
-      },
-      {
-        "src": "images/gallery/phung-vu-2025.jpg",
-        "alt": "Niềm tin qua âm nhạc",
-        "event": "Thánh ca",
-        "caption": "Ánh sáng không tắt",
-        "id": "images/gallery/phung-vu-2025.jpg",
-        "variants": {
-          "thumbnail": {
-            "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
-            "width": 480,
-            "height": 290
-          },
-          "medium": {
-            "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
-            "width": 1280,
-            "height": 773
-          },
-          "original": {
-            "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
-            "width": 2048,
-            "height": 1237
-          }
-        }
-      },
-      {
-        "src": "images/gallery/gan-ket-2024.jpg",
-        "alt": "Các ca viên gắn kết",
-        "event": "Đồng hành",
-        "caption": "Chờ ngày gặp lại",
-        "id": "images/gallery/gan-ket-2024.jpg",
-        "variants": {
-          "thumbnail": {
-            "src": "images/optimized/gallery/gan-ket-2024-480.jpg",
-            "width": 480,
-            "height": 319
-          },
-          "medium": {
-            "src": "images/optimized/gallery/gan-ket-2024-1280.jpg",
-            "width": 1280,
-            "height": 851
-          },
-          "original": {
-            "src": "images/optimized/gallery/gan-ket-2024-2048.jpg",
-            "width": 2048,
-            "height": 1362
-          }
-        }
-      }
-    ]
-  }
+  "gallery": []
 }
