@@ -11,6 +11,6 @@ window.FIREBASE_CONFIG = {
 
 /* Sau khi triển khai Worker, đặt endpoint này là địa chỉ Worker hoặc api.cadoangioitreteresa.org. */
 window.TERESA_API_CONFIG = {
-  endpoint: "https://teresa-youth-choir.chanvcl10.workers.dev",
+  endpoint: "https://teresa-admin-api.chanvcl10.workers.dev",
   adminEmail: "chanvcl10@gmail.com"
 };
