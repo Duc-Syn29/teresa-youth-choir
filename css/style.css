@@ -1226,14 +1226,20 @@ img[data-media-src] { transition: opacity .35s ease; }
   .year-activity.route-pressed .year-activity-media, .activity-nav-card.route-pressed .activity-nav-image { transform: scale(1.035); }
 }
 
-/* Giữ trọn khung hình trên điện thoại. Ảnh dùng tỷ lệ gốc sau khi tải;
-   3:2 chỉ là tỷ lệ giữ chỗ để trang không nhảy trong lúc chờ ảnh. */
+/* Trên điện thoại, ảnh bìa luôn phủ toàn bộ khung và nằm dưới phần chữ. */
 @media (max-width: 680px) {
+  .hero-bg picture {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+  }
   .hero-bg img, .year-hero-bg img, .activity-hero-bg img {
-    height: auto;
-    aspect-ratio: auto 3 / 2;
-    object-fit: contain;
-    object-position: center top;
+    width: 100%;
+    height: 100%;
+    min-height: 100%;
+    aspect-ratio: auto;
+    object-fit: cover;
   }
 
   .image-frame {
@@ -1329,11 +1335,11 @@ img[data-media-src] { transition: opacity .35s ease; }
   .year-activity-media[data-media-src],
   .activity-nav-image[data-media-src],
   .activity-archive-event-media[data-media-src] {
-    inset: 0 0 auto;
-    aspect-ratio: 3 / 2;
+    inset: 0;
+    aspect-ratio: auto;
     background-color: #0a7195;
-    background-position: center top;
-    background-size: contain;
+    background-position: center;
+    background-size: cover;
     background-repeat: no-repeat;
     transform: none !important;
   }
