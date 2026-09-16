@@ -144,6 +144,7 @@
       yearNavLeft: Math.max(0, Math.round(document.querySelector(".year-nav")?.scrollLeft || 0)),
       albumFilter: document.querySelector("[data-album-filter].active")?.dataset.albumFilter || "all",
       albumSearch: document.querySelector("[data-album-search]")?.value || "",
+      activityRendered: document.querySelectorAll(".activity-gallery .gallery-item").length,
       activeSection: document.querySelector(".year-nav a[aria-current]")?.getAttribute("href") || "",
       pending,
       savedAt: Date.now(),
@@ -163,7 +164,11 @@
     });
     document.addEventListener("teresa:view-state", (event) => {
       if (!isManagedPage) return;
-      writeState({ ...collectState(Boolean(readState()?.pending)), ...(event.detail || {}) });
+      const saved = readState();
+      // Initial album filters emit state while the new document is still at
+      // scrollY=0. Keep the previous position until restoration has finished.
+      const base = saved?.pending && !restored ? saved : collectState(Boolean(saved?.pending));
+      writeState({ ...base, ...(event.detail || {}) });
     });
 
     window.addEventListener("pageshow", (event) => {
@@ -200,6 +205,7 @@
       if (!state?.pending || Date.now() - Number(state.savedAt || 0) > 30 * 60 * 1000) return false;
       const app = document.querySelector("#year-app, #activity-app");
       if (!app || app.hidden || !app.children.length) return false;
+      if (isActivityPage && app.querySelector("[data-activity-gallery]")?.dataset.loading === "true") return false;
       restored = true;
       document.documentElement.classList.add("page-restoring");
       const filter = state.albumFilter || "all";
@@ -232,6 +238,18 @@
 
     document.addEventListener("teresa:page-rendered", restoreViewState);
     document.addEventListener("teresa:content-ready", restoreViewState);
+    // Hash targets do not exist until the year/article JSON has rendered.
+    // A saved return position takes precedence over the initial deep link.
+    let followedInitialHash = false;
+    document.addEventListener("teresa:content-ready", () => {
+      if (!isManagedPage || restored || followedInitialHash || !location.hash || readState()?.pending) return;
+      let id;
+      try { id = decodeURIComponent(location.hash.slice(1)); } catch (_error) { return; }
+      const target = document.getElementById(id);
+      if (!target) return;
+      followedInitialHash = true;
+      requestAnimationFrame(() => target.scrollIntoView({ block: "start", behavior: "instant" }));
+    });
     const app = document.querySelector("#year-app, #activity-app");
     if (app) {
       const observer = new MutationObserver(() => {
@@ -358,25 +376,16 @@
         warmed.delete(key);
       }
     };
-    const observer = "IntersectionObserver" in window
-      ? new IntersectionObserver((entries) => entries.forEach((entry) => {
-        if (!entry.isIntersecting) return;
-        observer.unobserve(entry.target);
-        warm(entry.target);
-      }), { rootMargin: "500px 0px" })
-      : null;
-    const observe = (root = document) => root.querySelectorAll(selector).forEach((link) => {
-      if (link.dataset.routePrefetchBound) return;
-      link.dataset.routePrefetchBound = "true";
-      observer?.observe(link);
-    });
-    const warmFromEvent = (event) => warm(event.target.closest?.(selector));
+    // Warm only links the visitor intends to open. Scrolling past a long list
+    // must not compete with the visible cover and photos for mobile bandwidth.
+    const warmFromEvent = (event) => {
+      const connection = navigator.connection;
+      if (connection?.saveData || /(^|-)2g$/.test(connection?.effectiveType || "")) return;
+      warm(event.target.closest?.(selector));
+    };
     document.addEventListener("pointerover", warmFromEvent, { passive: true });
     document.addEventListener("focusin", warmFromEvent);
     document.addEventListener("touchstart", warmFromEvent, { passive: true });
-    document.addEventListener("teresa:content-ready", (event) => observe(event.target));
-    document.addEventListener("teresa:index-ready", () => observe());
-    observe();
   }
 
   async function initArchiveOverview() {
@@ -437,13 +446,13 @@
           currentObserver.unobserve(entry.target);
         });
       },
-      { threshold: 0.12, rootMargin: "0px 0px -7% 0px" },
+      { threshold: 0.01, rootMargin: "0px 0px -7% 0px" },
     );
 
     elements.forEach((element, index) => {
       element.dataset.observed = "true";
       // Nhịp xuất hiện nhẹ cho nhóm card, giới hạn để không gây chậm.
-      element.style.transitionDelay = `${Math.min(index % 4, 3) * 70}ms`;
+      element.style.transitionDelay = `${coarsePointer ? 0 : Math.min(index % 4, 3) * 70}ms`;
       observer.observe(element);
     });
   }
@@ -824,7 +833,7 @@
       return window.TeresaStore?.resolveSource(candidate, "original") || candidate;
     };
     const preloadNext = (currentItems) => {
-      if (currentItems.length < 2) return;
+      if (currentItems.length < 2 || navigator.connection?.saveData || /(^|-)2g$/.test(navigator.connection?.effectiveType || "")) return;
       [currentItems[(state.activeIndex + 1) % currentItems.length]].forEach(async (item) => {
         const src = await resolveItem(item);
         if (!src) return;

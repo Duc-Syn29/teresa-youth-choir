@@ -8,7 +8,7 @@
   const loading = document.querySelector("#year-loading");
   const Schema = window.TeresaSchema || {};
   const compactViewport = window.matchMedia("(max-width: 680px)");
-  const albumBatchSize = compactViewport.matches ? 20 : 24;
+  const albumBatchSize = compactViewport.matches ? 8 : 16;
 
   const escapeHTML = (value = "") => String(value).replace(/[&<>'"]/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[character]);
   const list = (items = []) => items.map((item) => `<li>${escapeHTML(item)}</li>`).join("");
@@ -39,7 +39,11 @@
       const candidateWidth = Number(candidate?.width || width);
       return `${candidateSrc} ${candidateWidth > 0 ? candidateWidth : width}w`;
     }).filter(Boolean).join(", ");
-    return `data-media-src="${escapeHTML(src)}" data-media-variant="${variant}"${srcset ? ` data-media-srcset="${escapeHTML(srcset)}" data-media-sizes="${escapeHTML(sizes)}"` : ""}`;
+    const dimensions = variants.original || variants.medium || media || {};
+    const width = Number(dimensions.width || 0);
+    const height = Number(dimensions.height || 0);
+    const sizeAttributes = width > 0 && height > 0 ? ` width="${width}" height="${height}" style="aspect-ratio:auto ${width} / ${height}"` : "";
+    return `${sizeAttributes} data-media-src="${escapeHTML(src)}" data-media-variant="${variant}"${srcset ? ` data-media-srcset="${escapeHTML(srcset)}" data-media-sizes="${escapeHTML(sizes)}"` : ""}`;
   }
 
   function editorialVisual(type = "") {
@@ -120,7 +124,7 @@
       const number = String(index + 1).padStart(2, "0");
       return `
         <a class="year-activity reveal${previewSrc ? "" : ` year-activity-editorial editorial-theme-${editorial.theme}`}" href="activity.html?year=${encodeURIComponent(activity.year || "")}&id=${encodeURIComponent(activity.id || "")}" data-transition-image="${escapeHTML(previewSrc)}" aria-label="Mở hoạt động: ${escapeHTML(activity.title)}">
-          <span class="year-activity-media${previewSrc ? "" : " year-activity-media-empty"}"${previewSrc ? ` data-media-src="${escapeHTML(previewSrc)}" data-media-variant="medium"` : ` data-editorial-number="${number}"`} aria-hidden="true">${previewSrc ? "" : `<i class="editorial-icon">${editorial.icon}</i><small>Tư liệu ${escapeHTML(activity.year || "")}</small>`}</span>
+          <span class="year-activity-media${previewSrc ? "" : " year-activity-media-empty"}" data-editorial-number="${number}" aria-hidden="true">${previewSrc ? `<img ${mediaAttributes(preview, "medium", "(max-width:680px) 140vw, (max-width:1024px) 65vw, 50vw")} alt="" loading="lazy" decoding="async" />` : `<i class="editorial-icon">${editorial.icon}</i><small>Tư liệu ${escapeHTML(activity.year || "")}</small>`}</span>
           <span class="year-activity-shade" aria-hidden="true"></span><span class="year-activity-number" aria-hidden="true">${number}</span>
           <span class="year-activity-content"><span class="year-activity-meta"><span>${escapeHTML(activity.type)}</span><time>${escapeHTML(activity.date)}</time></span><strong>${escapeHTML(activity.title)}</strong><span class="year-activity-description">${escapeHTML(activity.description)}</span><span class="year-activity-footer"><span>${photoCount ? `${photoCount} ảnh tư liệu` : "Tư liệu hình ảnh đang được bổ sung"}</span><b aria-hidden="true">↗</b></span></span>
         </a>`;
@@ -169,7 +173,7 @@
     if (!albums.length) return '<div class="activity-empty"><span aria-hidden="true">◇</span><h3>Album đang được bổ sung</h3><p>Nội dung của năm vẫn được giữ nguyên. Ảnh bìa và ảnh hoạt động có thể thêm sau trong khu quản trị.</p></div>';
     return albums.map((album, index) => `
       <button class="year-album-card reveal" type="button" data-album-index="${index}" data-album-key="${escapeHTML(album.key)}" data-album-type="${escapeHTML(album.type)}" data-album-title="${escapeHTML(album.title.toLocaleLowerCase("vi"))}" aria-label="Mở album ${escapeHTML(album.title)}, ${album.count} ảnh">
-        <span class="year-album-preview" aria-hidden="true">${album.previews.slice(0, 3).map((photo, photoIndex) => `<span class="year-album-thumb year-album-thumb-${photoIndex + 1}"><img ${mediaAttributes(photo, "thumbnail", "(max-width:680px) 40vw, 24vw")} alt="" loading="lazy" decoding="async" /></span>`).join("")}</span>
+        <span class="year-album-preview" aria-hidden="true">${album.previews.slice(0, 3).map((photo, photoIndex) => `<span class="year-album-thumb year-album-thumb-${photoIndex + 1}"><img ${mediaAttributes(photo, "thumbnail", "(max-width:680px) 92vw, 24vw")} alt="" loading="lazy" decoding="async" /></span>`).join("")}</span>
         <span class="year-album-copy"><span class="year-album-meta"><b>${escapeHTML(album.type)}</b>${album.date ? `<time>${escapeHTML(album.date)}</time>` : ""}</span><strong>${escapeHTML(album.title)}</strong><span class="year-album-foot"><span>${album.count} ảnh</span><b>Xem album <i aria-hidden="true">→</i></b></span></span>
       </button>`).join("");
   }
@@ -177,7 +181,7 @@
   function albumPhotoMarkup(photo, album, index) {
     const original = source(photo, "original");
     const caption = displayCaption(photo?.caption, album.title);
-    return `<button class="gallery-item album-dialog-photo reveal" type="button" data-album-photo="${index}" aria-label="Mở ảnh ${index + 1} trong album ${escapeHTML(album.title)}"><img ${mediaAttributes(photo, "thumbnail", "(max-width:680px) 46vw, 22vw")} alt="${escapeHTML(photo?.alt || caption)}" loading="lazy" decoding="async" /><span class="activity-photo-index">${String(index + 1).padStart(2, "0")}</span><span class="album-dialog-photo-copy"><small>${escapeHTML(album.type)}</small><strong>${escapeHTML(caption)}</strong></span><i data-full="${escapeHTML(original)}" hidden></i></button>`;
+    return `<button class="gallery-item album-dialog-photo reveal" type="button" data-album-photo="${index}" aria-label="Mở ảnh ${index + 1} trong album ${escapeHTML(album.title)}"><img ${mediaAttributes(photo, "thumbnail", "(max-width:680px) 92vw, 22vw")} alt="${escapeHTML(photo?.alt || caption)}" loading="lazy" decoding="async" /><span class="activity-photo-index">${String(index + 1).padStart(2, "0")}</span><span class="album-dialog-photo-copy"><small>${escapeHTML(album.type)}</small><strong>${escapeHTML(caption)}</strong></span><i data-full="${escapeHTML(original)}" hidden></i></button>`;
   }
 
   async function openAlbumDialog(album, options = {}) {
@@ -201,6 +205,7 @@
     document.dispatchEvent(new CustomEvent("teresa:view-state", { detail: { lastAlbumKey: album.key || "", albumOpen: true, albumPhotoIndex: Number(options.photoIndex || 0) } }));
     try {
       const photos = (await window.TeresaStore.loadAlbum(selectedYear, album.activity)).map((photo) => withDisplayCaption(photo, album.title));
+      if (!dialog.open || dialog.dataset.albumKey !== (album.key || "")) return;
       let rendered = 0;
       let loadingBatch = false;
       const renderBatch = async () => {
@@ -224,7 +229,7 @@
       dialog._albumObserver?.disconnect();
       dialog._albumObserver = new IntersectionObserver((entries) => {
         if (entries.some((entry) => entry.isIntersecting)) renderBatch();
-      }, { root: dialog.querySelector(".album-dialog-body"), rootMargin: "700px 0px" });
+      }, { root: dialog.querySelector(".album-dialog-body"), rootMargin: "240px 0px" });
       dialog._albumObserver.observe(more);
       if (options.photoIndex !== undefined && Number.isInteger(Number(options.photoIndex))) {
         const previousPhoto = grid.querySelector(`[data-album-photo="${Number(options.photoIndex)}"]`);
@@ -239,6 +244,7 @@
         window.TeresaUI?.openLightbox(photos, photoIndex, album.title);
       };
     } catch (error) {
+      if (!dialog.open || dialog.dataset.albumKey !== (album.key || "")) return;
       count.textContent = "Không thể mở album";
       grid.innerHTML = `<div class="activity-archive-empty"><strong>Album chưa tải được</strong><p>${escapeHTML(error.message)}</p><button class="button" type="button" data-album-retry>Thử lại</button></div>`;
       grid.querySelector("[data-album-retry]")?.addEventListener("click", () => openAlbumDialog(album));

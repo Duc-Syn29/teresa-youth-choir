@@ -9,7 +9,7 @@
   const loading = document.querySelector("#activity-loading");
   const Schema = window.TeresaSchema || {};
   const compactViewport = window.matchMedia("(max-width: 680px)");
-  const galleryBatchSize = compactViewport.matches ? 20 : 24;
+  const galleryBatchSize = compactViewport.matches ? 8 : 16;
   const escapeHTML = (value = "") => String(value).replace(/[&<>'"]/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[character]);
   const source = (media, variant = "medium") => window.TeresaStore?.mediaSource(media, variant)
     || Schema.mediaSource?.(media, variant)
@@ -78,7 +78,11 @@
       seen.add(candidateSrc);
       return `${candidateSrc} ${Number(candidate?.width || fallbackWidth)}w`;
     }).filter(Boolean).join(", ");
-    return `data-media-src="${escapeHTML(src)}" data-media-variant="${variant}"${srcset ? ` data-media-srcset="${escapeHTML(srcset)}" data-media-sizes="${escapeHTML(sizes)}"` : ""}`;
+    const dimensions = variants.original || variants.medium || media || {};
+    const width = Number(dimensions.width || 0);
+    const height = Number(dimensions.height || 0);
+    const sizeAttributes = width > 0 && height > 0 ? ` width="${width}" height="${height}" style="aspect-ratio:auto ${width} / ${height}"` : "";
+    return `${sizeAttributes} data-media-src="${escapeHTML(src)}" data-media-variant="${variant}"${srcset ? ` data-media-srcset="${escapeHTML(srcset)}" data-media-sizes="${escapeHTML(sizes)}"` : ""}`;
   }
 
   function photoMarkup(photo, activity, index) {
@@ -101,13 +105,13 @@
         : "Đã mở toàn bộ ảnh";
       button.setAttribute("aria-label", remaining ? `Hiển thị thêm ảnh, còn ${remaining} ảnh` : "Đã hiển thị toàn bộ ảnh");
     };
-    const loadMore = async () => {
+    const loadMore = async (targetCount = rendered + galleryBatchSize) => {
       if (loadingBatch || rendered >= photos.length) return;
       loadingBatch = true;
       button.disabled = true;
       button.textContent = "Đang mở ảnh…";
       try {
-        const batch = photos.slice(rendered, rendered + galleryBatchSize);
+        const batch = photos.slice(rendered, Math.max(rendered, Math.min(photos.length, targetCount)));
         grid.insertAdjacentHTML("beforeend", batch.map((photo, index) => photoMarkup(photo, activity, rendered + index)).join(""));
         rendered += batch.length;
         await window.TeresaStore?.hydrateMedia(grid);
@@ -119,11 +123,17 @@
         updateButton();
       }
     };
-    button.addEventListener("click", loadMore);
-    const observer = new IntersectionObserver((entries) => {
-      if (entries.some((entry) => entry.isIntersecting)) loadMore();
-    }, { rootMargin: "700px 0px" });
-    observer.observe(button);
+    button.addEventListener("click", () => loadMore());
+    document.addEventListener("teresa:restore-view-state", (event) => {
+      if (Number(event.detail?.activityRendered) > rendered) loadMore(Number(event.detail.activityRendered));
+    });
+    if ("IntersectionObserver" in window) {
+      const observer = new IntersectionObserver((entries) => {
+        if (entries.some((entry) => entry.isIntersecting)) loadMore();
+        if (rendered >= photos.length) observer.disconnect();
+      }, { rootMargin: "240px 0px" });
+      observer.observe(button);
+    }
     updateButton();
   }
 
@@ -214,7 +224,7 @@
     const preview = activityPreview(activity, data);
     const previewSrc = source(preview, "thumbnail");
     const editorial = editorialVisual(activity.type);
-    return `<a class="activity-nav-card reveal ${direction}${previewSrc ? "" : ` activity-nav-card-editorial editorial-theme-${editorial.theme}`}" href="activity.html?year=${data.year}&id=${encodeURIComponent(activity.id)}"><span class="activity-nav-image${previewSrc ? "" : " activity-nav-image-empty"}"${previewSrc ? ` data-media-src="${escapeHTML(previewSrc)}" data-media-variant="thumbnail"` : ""} aria-hidden="true">${previewSrc ? "" : `<i class="editorial-icon">${editorial.icon}</i>`}</span><span class="activity-nav-overlay" aria-hidden="true"></span><span class="activity-nav-copy"><small>${direction === "previous" ? "← Hoạt động trước" : "Hoạt động tiếp →"}</small><strong>${escapeHTML(activity.title)}</strong><span>${escapeHTML(activity.date)}</span></span></a>`;
+    return `<a class="activity-nav-card reveal ${direction}${previewSrc ? "" : ` activity-nav-card-editorial editorial-theme-${editorial.theme}`}" href="activity.html?year=${data.year}&id=${encodeURIComponent(activity.id)}"><span class="activity-nav-image${previewSrc ? "" : " activity-nav-image-empty"}" aria-hidden="true">${previewSrc ? `<img ${mediaAttributes(preview, "medium", "(max-width:680px) 100vw, 50vw")} alt="" loading="lazy" decoding="async" />` : `<i class="editorial-icon">${editorial.icon}</i>`}</span><span class="activity-nav-overlay" aria-hidden="true"></span><span class="activity-nav-copy"><small>${direction === "previous" ? "← Hoạt động trước" : "Hoạt động tiếp →"}</small><strong>${escapeHTML(activity.title)}</strong><span>${escapeHTML(activity.date)}</span></span></a>`;
   }
 
   async function activityPhotos(activity, data) {
@@ -233,6 +243,38 @@
     return `<section class="year-error"><h1>Ôi!</h1><p>${escapeHTML(message)}</p><a class="button" href="index.html#journey">Trở về hành trình</a></section>`;
   }
 
+  function galleryMarkup(photos, activity) {
+    return photos.length
+      ? `<div class="activity-gallery">${photos.slice(0, galleryBatchSize).map((photo, index) => photoMarkup(photo, activity, index)).join("")}</div><div class="gallery-more-wrap"><button class="gallery-load-more" type="button" data-gallery-more>Xem thêm ảnh</button></div>`
+      : '<div class="activity-empty"><span aria-hidden="true">◇</span><h3>Kho ảnh đang được hoàn thiện</h3><p>Nội dung hoạt động vẫn được lưu trọn vẹn. Ảnh tư liệu sẽ được bổ sung sau.</p></div>';
+  }
+
+  async function loadGallery(activity) {
+    const mount = app.querySelector("[data-activity-gallery]");
+    if (!mount || mount.dataset.loading === "true") return;
+    mount.dataset.loading = "true";
+    mount.setAttribute("aria-busy", "true");
+    mount.innerHTML = '<p class="album-load-status" role="status">Đang tải danh sách ảnh… Bạn có thể đọc câu chuyện trong lúc chờ.</p>';
+    try {
+      const photos = await window.TeresaStore.loadAlbum(year, activity);
+      mount.innerHTML = galleryMarkup(photos, activity);
+      app.querySelector("[data-gallery-count]").textContent = String(photos.length).padStart(2, "0");
+      app.querySelector("[data-photo-count]").textContent = photos.length ? `${photos.length} khoảnh khắc` : "Đang cập nhật";
+      window.TeresaStore.hydrateMedia(mount).catch((error) => console.warn("Không thể tải ảnh:", error));
+      window.TeresaUI?.initReveal(mount);
+      window.TeresaUI?.initLightbox();
+      initProgressiveGallery(photos, activity);
+    } catch (_error) {
+      // Only the album needs retrying; keep the hero and article usable.
+      mount.innerHTML = '<div class="album-load-status" role="status"><p>Chưa tải được danh sách ảnh. Nội dung bài viết vẫn hiển thị đầy đủ.</p><button class="gallery-load-more" type="button" data-album-retry>Thử tải lại ảnh</button></div>';
+      mount.querySelector("[data-album-retry]").addEventListener("click", () => loadGallery(activity));
+    } finally {
+      mount.dataset.loading = "false";
+      mount.setAttribute("aria-busy", "false");
+      window.TeresaUI?.notifyPageRendered?.();
+    }
+  }
+
   async function render() {
     if (!window.TeresaStore || !Number.isInteger(year) || !activityId) {
       loading.hidden = true;
@@ -245,14 +287,17 @@
       const activityIndex = data.activities.findIndex((item) => item.id === activityId);
       const activity = data.activities[activityIndex];
       if (!activity) throw new Error("Không tìm thấy hoạt động này.");
-      const photos = await activityPhotos(activity, data);
+      const deferredAlbum = Boolean(activity.album?.manifest);
+      // Use the embedded previews for the story. Loading the full album later
+      // never replaces paragraphs or shifts the reader's position in the story.
+      const photos = deferredAlbum ? (activity.album.preview || []) : await activityPhotos(activity, data);
+      const photoCount = deferredAlbum ? Number(activity.album.count || photos.length) : photos.length;
       const cover = activity.coverImage || activity.album?.preview?.[0] || photos[0] || "";
       const coverImage = source(cover, "original");
       const editorial = editorialVisual(activity.type);
       const previous = activityIndex > 0 ? data.activities[activityIndex - 1] : null;
       const next = activityIndex < data.activities.length - 1 ? data.activities[activityIndex + 1] : null;
       const yearUrl = `year.html?year=${year}#year-activities`;
-      const initialPhotos = photos.slice(0, galleryBatchSize);
 
       document.title = `${activity.title} — Teresa Youth Choir`;
       document.querySelector("#back-to-year").href = yearUrl;
@@ -278,7 +323,7 @@
               <div class="activity-fact"><span>Thời gian</span><strong>${escapeHTML(activity.date)}</strong></div>
               ${activity.location ? `<div class="activity-fact"><span>Địa điểm</span><strong>${escapeHTML(activity.location)}</strong></div>` : ""}
               <div class="activity-fact"><span>Chủ đề</span><strong>${escapeHTML(activity.topic || activity.type)}</strong></div>
-              <div class="activity-fact"><span>Kho ảnh</span><strong>${photos.length ? `${photos.length} khoảnh khắc` : "Đang cập nhật"}</strong></div>
+              <div class="activity-fact"><span>Kho ảnh</span><strong data-photo-count>${photoCount ? `${photoCount} khoảnh khắc` : "Đang cập nhật"}</strong></div>
             </aside>
             <article class="activity-story reveal">
               <p class="activity-story-kicker">Câu chuyện được lưu lại</p>
@@ -289,8 +334,8 @@
         </section>
         <section class="activity-gallery-section" aria-labelledby="activity-gallery-title">
           <div class="container">
-            <div class="activity-section-heading reveal"><div><span>Ảnh — tư liệu</span><strong>${String(photos.length).padStart(2, "0")}</strong></div><h2 id="activity-gallery-title">Những khoảnh khắc<br /><em>còn ở lại.</em></h2></div>
-            ${photos.length ? `<div class="activity-gallery">${initialPhotos.map((photo, index) => photoMarkup(photo, activity, index)).join("")}</div><div class="gallery-more-wrap"><button class="gallery-load-more" type="button" data-gallery-more>Xem thêm ảnh</button></div>` : '<div class="activity-empty reveal"><span aria-hidden="true">◇</span><h3>Kho ảnh đang được hoàn thiện</h3><p>Nội dung hoạt động vẫn được lưu trọn vẹn. Ảnh bìa và ảnh tư liệu có thể bổ sung sau trong khu quản trị.</p></div>'}
+            <div class="activity-section-heading reveal"><div><span>Ảnh — tư liệu</span><strong data-gallery-count>${String(photoCount).padStart(2, "0")}</strong></div><h2 id="activity-gallery-title">Những khoảnh khắc<br /><em>còn ở lại.</em></h2></div>
+            <div data-activity-gallery>${deferredAlbum ? '<p class="album-load-status" role="status">Đang tải danh sách ảnh…</p>' : galleryMarkup(photos, activity)}</div>
           </div>
         </section>
         <section class="activity-navigation"><div class="container"><p class="eyebrow">Tiếp tục hành trình ${year}</p><div class="activity-nav-grid">${navigationCard(previous, data, "previous")}${navigationCard(next, data, "next")}</div></div></section>`;
@@ -302,7 +347,8 @@
       app.hidden = false;
       window.TeresaUI?.initReveal(app);
       window.TeresaUI?.initLightbox();
-      initProgressiveGallery(photos, activity);
+      if (deferredAlbum) loadGallery(activity);
+      else initProgressiveGallery(photos, activity);
       app.querySelectorAll("[data-story-photo]").forEach((button) => button.addEventListener("click", () => window.TeresaUI?.openLightbox(photos, Number(button.dataset.storyPhoto), activity.title)));
       window.TeresaUI?.completeCoverTransition?.(app.querySelector(".activity-hero-bg"));
       document.dispatchEvent(new CustomEvent("teresa:content-ready", { detail: { page: "activity", year, activityId } }));

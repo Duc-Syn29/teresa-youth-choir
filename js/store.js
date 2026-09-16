@@ -10,11 +10,12 @@
   const YEAR_MAX = Number(Schema.maxYear?.() || Math.max(2027, new Date().getFullYear() + 1));
   const DB_NAME = "teresa-youth-choir-cache";
   const DB_VERSION = 4;
-  const CACHE_FRESH_MS = 30 * 60 * 1000;
+  const CACHE_FRESH_MS = 5 * 60 * 1000;
   const CACHE_STALE_MS = 30 * 24 * 60 * 60 * 1000;
   const MAX_UPLOAD_BYTES = 25 * 1024 * 1024;
   const PREVIEW_PREFIX = "teresa-preview-year:";
   const memoryCache = new Map();
+  const pendingJson = new Map();
   let firebaseApp = null;
   let firebaseAuth = null;
   let mediaObserver = null;
@@ -101,9 +102,27 @@
   const isUsable = (record) => Boolean(record?.data && age(record) < CACHE_STALE_MS);
 
   async function fetchJson(path) {
-    const response = await fetch(path, { cache: "default", headers: { Accept: "application/json" } });
-    if (!response.ok) throw new Error(`Không thể tải ${path} (${response.status}).`);
-    return response.json();
+    // Several widgets request the same index/year at startup. Share the request,
+    // including its failure, and allow a fresh attempt once it has settled.
+    if (pendingJson.has(path)) return pendingJson.get(path);
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 12000);
+    const request = (async () => {
+      await Promise.resolve();
+      try {
+        const response = await fetch(path, { cache: "no-cache", signal: controller.signal, headers: { Accept: "application/json" } });
+        if (!response.ok) throw new Error(`Không thể tải ${path} (${response.status}).`);
+        return await response.json();
+      } catch (error) {
+        if (controller.signal.aborted) throw new Error("Kết nối đang chậm. Vui lòng thử lại.");
+        throw error;
+      } finally {
+        clearTimeout(timeout);
+        pendingJson.delete(path);
+      }
+    })();
+    pendingJson.set(path, request);
+    return request;
   }
 
   function previewYear(year) {
@@ -260,9 +279,13 @@
     const record = { year: saved.year, data: saved, updatedAt: new Date().toISOString() };
     memoryCache.set(`year:${saved.year}`, record);
     memoryCache.delete("archive-index");
+    for (const key of memoryCache.keys()) {
+      if (key.startsWith(`album:${saved.year}:`)) memoryCache.delete(key);
+    }
     await Promise.all([
       safeStore("years", "readwrite", (store) => store.put(record)),
       safeStore("index", "readwrite", (store) => store.delete("archive-index")),
+      safeStore("albums", "readwrite", (store) => store.clear()),
       clearDraft(saved.year)
     ]);
     return saved;
@@ -407,7 +430,7 @@
         mediaObserver.unobserve(entry.target);
         loadMediaElement(entry.target);
       });
-    }, { rootMargin: "420px 0px" });
+    }, { rootMargin: "240px 0px" });
     return mediaObserver;
   }
 
@@ -432,8 +455,15 @@
       };
       element.decoding = "async";
       element.fetchPriority = element.dataset.mediaPriority === "high" ? "high" : "low";
-      if (element.dataset.mediaSrcset) element.srcset = element.dataset.mediaSrcset;
       if (element.dataset.mediaSizes) element.sizes = element.dataset.mediaSizes;
+      // A landscape cover is painted wider than the viewport in a tall hero.
+      // Account for that crop so high-DPI phones do not get a blurry thumbnail.
+      if (element.dataset.mediaPriority === "high" && element.width && element.height) {
+        const rect = element.getBoundingClientRect();
+        const ratio = Number(element.getAttribute("width")) / Number(element.getAttribute("height"));
+        if (rect.width && rect.height && ratio > 0) element.sizes = `${Math.ceil(Math.max(rect.width, rect.height * ratio))}px`;
+      }
+      if (element.dataset.mediaSrcset) element.srcset = element.dataset.mediaSrcset;
       element.addEventListener("load", markReady, { once: true });
       element.addEventListener("error", markReady, { once: true });
       element.src = src;

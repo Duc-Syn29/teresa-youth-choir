@@ -1388,7 +1388,7 @@ img[data-media-src] { transition: opacity .35s ease; }
   .button { min-height: 3.35rem; padding-inline: 1.25rem; }
   .stats-grid article { min-height: 7rem; padding: 1rem .65rem; border-color: rgba(32,72,91,.12); }
   .stats-grid strong { font-size: 2.3rem; }
-  .stats-grid span { font-size: .58rem; line-height: 1.45; }
+  .stats-grid span { font-size: .75rem; line-height: 1.45; }
   .about-grid { gap: 2.8rem; }
   .about-visual { padding-top: 0; }
   .about-content .lead { margin: 1.25rem 0 1.7rem; font-size: .96rem; }
@@ -1400,13 +1400,13 @@ img[data-media-src] { transition: opacity .35s ease; }
   .year-hero-content { gap: .9rem; padding-top: 7rem; padding-bottom: 2.8rem; }
   .year-number { font-size: clamp(4.5rem, 20vw, 6.25rem); }
   .year-intro h1 { max-width: 22rem; font-size: clamp(2.35rem, 10.8vw, 3.35rem); line-height: .98; }
-  .year-intro > p:last-of-type { margin-top: .85rem; font-size: .84rem; line-height: 1.6; }
+  .year-intro > p:last-of-type { margin-top: .85rem; font-size: 1rem; line-height: 1.65; }
   .year-verse { margin-top: 1.25rem; padding-left: 1rem; font-size: .88rem; }
 
   .year-nav { top: calc(4.9rem + env(safe-area-inset-top)); border-width: 0 0 1px; box-shadow: 0 8px 24px rgba(46,136,163,.1); }
   .year-nav-inner { min-height: 3.55rem; gap: .55rem; padding-inline: .75rem 1.25rem; }
   .year-nav-current { min-width: 5.8rem; padding: .4rem .65rem .4rem 0; }
-  .year-nav a { min-height: 2.6rem; display: inline-flex; align-items: center; padding-inline: .45rem; font-size: .68rem; }
+  .year-nav a { min-height: 2.6rem; display: inline-flex; align-items: center; padding-inline: .55rem; font-size: .82rem; }
 
   .year-section { padding: 3.5rem 0; }
   .year-section-heading { gap: .7rem; margin-bottom: 2rem; }
@@ -1424,15 +1424,15 @@ img[data-media-src] { transition: opacity .35s ease; }
   .team-member-list li { gap: .58rem; padding-bottom: .52rem; }
   .team-member-photo { width: 2.15rem; height: 2.15rem; }
   .team-member-copy b { font-size: 1rem; }
-  .team-member-copy small { font-size: .64rem; }
+  .team-member-copy small { font-size: .8rem; }
   .leadership-subgroups { gap: .9rem; margin-top: 1rem; }
   .leadership-subgroup + .leadership-subgroup { padding-top: .9rem; }
 
   .member-stats { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .5rem; }
   .member-stat { min-width: 0; padding: 1.25rem .35rem; border-radius: .9rem; }
   .member-stat strong { font-size: clamp(2rem, 10vw, 2.7rem); }
-  .member-stat span { display: block; margin-top: .4rem; font-size: .52rem; line-height: 1.35; }
-  .member-note { margin-top: 1rem; font-size: .76rem; line-height: 1.55; }
+  .member-stat span { display: block; margin-top: .4rem; font-size: .75rem; line-height: 1.45; }
+  .member-note { margin-top: 1rem; font-size: .9rem; line-height: 1.55; }
 
   .year-activities { gap: .8rem; }
   .year-activity,
@@ -1443,15 +1443,15 @@ img[data-media-src] { transition: opacity .35s ease; }
   .year-activity-editorial:nth-child(5n+2) { min-height: clamp(21.5rem, 98vw, 24rem); border-radius: 1.15rem; }
   .year-activity-content { gap: .58rem; padding: 1.15rem; }
   .year-activity-content > strong { font-size: clamp(1.5rem, 7vw, 1.95rem); line-height: 1.08; }
-  .year-activity-description { font-size: .71rem; line-height: 1.55; -webkit-line-clamp: 3; }
-  .year-activity-footer { padding-top: .65rem; font-size: .6rem; }
+  .year-activity-description { font-size: .9rem; line-height: 1.55; -webkit-line-clamp: 3; }
+  .year-activity-footer { padding-top: .65rem; font-size: .75rem; }
   .year-activity-footer b { width: 2.2rem; height: 2.2rem; }
   .reflection-card h3 { font-size: 1.65rem; }
-  .reflection-card li { padding-block: .58rem; font-size: .76rem; line-height: 1.55; }
+  .reflection-card li { padding-block: .58rem; font-size: 1rem; line-height: 1.55; }
 
   .year-signature { padding: 4.25rem 0 max(3.25rem, env(safe-area-inset-bottom)); }
   .year-signature h2 { max-width: 100%; margin-bottom: 1.15rem; font-size: clamp(2.65rem, 12vw, 3.8rem); line-height: .98; }
-  .year-signature p { font-size: .86rem; line-height: 1.7; }
+  .year-signature p { font-size: 1rem; line-height: 1.7; }
   .year-switcher { width: 100%; gap: .65rem; margin-top: 2.5rem; }
   .year-switcher > span:empty { display: none; }
   .year-switcher a { width: 100%; min-width: 0; min-height: 3.2rem; display: inline-flex; align-items: center; justify-content: center; padding: .75rem 1rem; background: rgba(255,255,255,.48); font-size: .68rem; }
@@ -1459,17 +1459,17 @@ img[data-media-src] { transition: opacity .35s ease; }
   .activity-hero { min-height: 82svh; padding: 7rem 0 4rem; }
   .activity-breadcrumb { margin-bottom: 1.35rem; font-size: .62rem; }
   .activity-hero h1 { font-size: clamp(2.45rem, 11vw, 3.45rem); line-height: .98; }
-  .activity-hero-summary { font-size: .84rem; line-height: 1.6; }
+  .activity-hero-summary { font-size: 1rem; line-height: 1.65; }
   .activity-story-section, .activity-gallery-section, .activity-navigation { padding: 3.5rem 0; }
   .activity-detail-grid { gap: 2rem; }
   .activity-facts { padding: .85rem 1rem; }
   .activity-story h2, .activity-section-heading h2 { font-size: clamp(2.15rem, 10vw, 3rem); }
   .activity-prose .activity-lead { font-size: 1.08rem; line-height: 1.65; }
-  .activity-prose p { font-size: .9rem; line-height: 1.75; }
+  .activity-prose p { font-size: 1rem; line-height: 1.75; }
   .activity-nav-card { min-height: 13rem; border-radius: 1rem; }
 
   .site-footer { padding-top: 3.5rem; }
-  .footer-bottom { gap: .65rem; font-size: .58rem; line-height: 1.55; }
+  .footer-bottom { gap: .65rem; font-size: .75rem; line-height: 1.55; }
   .back-to-top { right: max(.75rem, env(safe-area-inset-right)); bottom: max(.75rem, env(safe-area-inset-bottom)); width: 2.8rem; }
 }
 
@@ -1477,5 +1477,22 @@ img[data-media-src] { transition: opacity .35s ease; }
   .brand small { display: none; }
   .year-intro h1 { font-size: 2.25rem; }
   .member-stat { padding-inline: .2rem; }
-  .member-stat span { font-size: .48rem; }
+  .member-stat span { font-size: .7rem; }
+}
+
+/* Responsive card images keep full-quality sources available to the lightbox. */
+.year-activity-media > img, .activity-nav-image > img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.album-load-status { padding: 1.5rem; border-radius: 1rem; background: var(--teal-100); color: var(--ink); line-height: 1.65; }
+.album-load-status p { margin-bottom: 1rem; }
+@media (max-width: 680px) {
+  .admin-form input, .admin-form textarea, .admin-form select,
+  .credentials input, .admin-login input, .media-upload-form input, .media-upload-form select,
+  .year-album-controls input, .year-album-controls select { font-size: 1rem; }
+  .gallery-load-more, .year-album-controls select { min-height: 2.75rem; }
+  .reveal { transition-duration: .28s; }
 }
