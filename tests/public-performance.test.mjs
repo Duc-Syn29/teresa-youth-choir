@@ -55,6 +55,31 @@ test("a stalled public request is aborted and reports a retryable error", async 
   await rejected;
 });
 
+test("draft save reports storage failure instead of claiming success", async () => {
+  const store = storeHarness(async () => ({ ok: true, json: async () => ({}) }));
+  await assert.rejects(store.saveDraft(2020, JSON.parse(read("data/2020.json"))), /IndexedDB/);
+});
+
+test("JSON backup includes every external album and its full photo list", async () => {
+  const store = storeHarness(async (path) => ({
+    ok: true,
+    json: async () => JSON.parse(read(String(path))),
+  }));
+  const archive = await store.exportArchive();
+  assert.equal(archive.version, 4);
+  assert.equal(archive.years.length, 12);
+  const expectedManifests = archive.years.flatMap(({ data }) => [
+    ...(data.activities || []).map((activity) => activity.album?.manifest),
+    data.galleryAlbum?.manifest,
+  ]).filter(Boolean);
+  assert.equal(Object.keys(archive.albums).length, new Set(expectedManifests).size);
+  assert.ok(Object.values(archive.albums).reduce((total, album) => total + album.images.length, 0) > 500);
+  assert.ok(archive.assets.length > 300);
+  const analysis = store.analyzeArchive(archive);
+  assert.equal(analysis.valid, true);
+  assert.ok(analysis.years.some((year) => year.activities.some((activity) => (activity.images || []).length > 3)));
+});
+
 test("article renders before its album; an album failure and retry preserve the story", async () => {
   const data = Schema.normalizeYear(JSON.parse(read("data/2020.json")));
   let render;

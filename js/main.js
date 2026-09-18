@@ -718,10 +718,14 @@
     const description = dialog.querySelector("#activity-archive-description");
     const count = dialog.querySelector("#activity-archive-count");
     const eventsRoot = dialog.querySelector("#activity-archive-events");
+    const search = dialog.querySelector("#activity-archive-search");
+    const yearSelect = dialog.querySelector("#activity-archive-year");
     const close = dialog.querySelector(".activity-archive-close");
     let archivePromise;
     let archiveRequest = 0;
     let activeTrigger = null;
+    let activeEvents = [];
+    let availableYearCount = 0;
 
     const loadArchive = () => {
       if (archivePromise) return archivePromise;
@@ -748,6 +752,28 @@
         </span>
       </a>`;
 
+    const renderEvents = async () => {
+      const query = normalizeText(search?.value || "");
+      const selectedYear = Number(yearSelect?.value || 0);
+      const visibleEvents = activeEvents.filter((item) => {
+        if (selectedYear && item.year !== selectedYear) return false;
+        if (!query) return true;
+        return normalizeText([item.title, item.description, item.date, item.type, item.topic, item.year].join(" ")).includes(query);
+      });
+      const filterSuffix = query || selectedYear ? ` · ${activeEvents.length} tổng cộng` : "";
+      count.textContent = `${visibleEvents.length} sự kiện${filterSuffix} · ${availableYearCount} năm tư liệu`;
+      eventsRoot.innerHTML = visibleEvents.length
+        ? visibleEvents.map(eventMarkup).join("")
+        : '<div class="activity-archive-empty"><strong>Không tìm thấy sự kiện</strong><p>Hãy thử tên, chủ đề hoặc một năm khác.</p></div>';
+      await window.TeresaStore?.hydrateMedia(eventsRoot);
+    };
+
+    const updateYearOptions = (events) => {
+      if (!yearSelect) return;
+      const years = [...new Set(events.map((item) => item.year))].sort((a, b) => b - a);
+      yearSelect.innerHTML = '<option value="">Tất cả các năm</option>' + years.map((year) => `<option value="${year}">${year}</option>`).join("");
+    };
+
     const openGroup = async (groupKey) => {
       const group = activityGroups[groupKey];
       if (!group) return;
@@ -755,13 +781,15 @@
       title.textContent = group.title;
       description.textContent = group.description;
       count.textContent = "Đang tổng hợp…";
+      if (search) search.value = "";
+      if (yearSelect) yearSelect.value = "";
       eventsRoot.innerHTML = '<div class="activity-archive-loading"><span aria-hidden="true">♪</span><p>Đang mở chỉ mục tư liệu của toàn bộ các năm…</p></div>';
       if (!dialog.open) dialog.showModal();
       document.body.classList.add("activity-archive-open");
       try {
         const years = await loadArchive();
         if (requestId !== archiveRequest || !dialog.open) return;
-        const events = years
+        activeEvents = years
           .flatMap((yearData) => (yearData.events || []).map((activity) => ({
             ...activity,
             year: Number(yearData.year),
@@ -769,12 +797,9 @@
           })))
           .filter((activity) => group.types.includes(normalizeText(activity.type)) || group.types.includes(normalizeText(activity.topic)))
           .sort((a, b) => b.year - a.year);
-
-        count.textContent = `${events.length} sự kiện · ${years.length} năm tư liệu`;
-        eventsRoot.innerHTML = events.length
-          ? events.map(eventMarkup).join("")
-          : '<div class="activity-archive-empty"><strong>Chưa có sự kiện phù hợp</strong><p>Tư liệu của chủ đề này đang được tiếp tục bổ sung.</p></div>';
-        await window.TeresaStore?.hydrateMedia(eventsRoot);
+        availableYearCount = years.length;
+        updateYearOptions(activeEvents);
+        await renderEvents();
       } catch (error) {
         if (requestId !== archiveRequest) return;
         count.textContent = "Chưa thể tải kho sự kiện";
@@ -796,6 +821,8 @@
       });
     });
     close.addEventListener("click", closeDialog);
+    search?.addEventListener("input", renderEvents);
+    yearSelect?.addEventListener("change", renderEvents);
     dialog.addEventListener("cancel", (event) => {
       event.preventDefault();
       closeDialog();

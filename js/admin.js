@@ -41,6 +41,8 @@
   let revisionRegistry = new Map();
   let mediaState = { items: [], cursor: "", truncated: false, topic: "Tất cả", activityId: "", loading: false };
   let mediaAudit = { status: "idle", errors: [], warnings: [], checkedAt: "" };
+  let draftConflict = "";
+  let openYearRequest = 0;
 
   const clone = (value) => value == null ? value : JSON.parse(JSON.stringify(value));
   const escapeHTML = (value = "") => String(value).replace(/[&<>'"]/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[character]);
@@ -90,6 +92,7 @@
     if (!draft) return { valid: false, errors: [], warnings: [] };
     const result = Schema.validateYear(draft, { normalize: false, maxYear: Store.YEAR_MAX });
     const errors = [...result.errors, ...mediaAudit.errors];
+    if (draftConflict) errors.unshift({ path: "draft.baseRevision", code: "draft_conflict", message: draftConflict });
     const warnings = [...result.warnings, ...mediaAudit.warnings];
     return { ...result, valid: errors.length === 0, errors, warnings };
   }
@@ -122,6 +125,7 @@
     document.querySelector("#command-preview")?.toggleAttribute("disabled", busy || !validation.valid);
     document.querySelector("#command-publish")?.toggleAttribute("disabled", busy || !validation.valid || (!dirty && !pendingNew));
     document.querySelector("#command-discard")?.toggleAttribute("disabled", busy || (!dirty && !pendingLocalSave && !pendingNew));
+    document.querySelectorAll("[data-year], #add-year").forEach((button) => button.toggleAttribute("disabled", busy || savingDraft || uploading));
     document.title = dirty || pendingLocalSave || pendingNew ? `• Quản trị ${currentYear} — Teresa` : `Quản trị ${currentYear} — Teresa`;
   }
 
@@ -262,7 +266,7 @@
     const cards = mediaState.items.map((item) => {
       const id = mediaKey(item);
       const thumbnail = sourceOf(item, "thumbnail") || sourceOf(item, "medium") || sourceOf(item, "original");
-      return `<figure data-media-topic="${escapeHTML(item.topic || "Khác")}"><img src="${escapeHTML(thumbnail || "images/hero.jpg")}" data-media-src="${escapeHTML(thumbnail)}" alt="${escapeHTML(item.alt || item.caption || item.filename || "Ảnh tư liệu")}" loading="lazy" decoding="async" /><figcaption><strong>${escapeHTML(item.topic || "Khác")}</strong><span>${escapeHTML(item.caption || item.filename || "Ảnh tư liệu")}</span><div class="media-card-actions"><button type="button" data-set-cover-id="${escapeHTML(id)}" ${editingId ? "" : "disabled"}>Đặt làm ảnh bìa</button><button type="button" data-delete-media-id="${escapeHTML(id)}" class="danger-link">Xóa ảnh</button></div></figcaption></figure>`;
+      return `<figure data-media-topic="${escapeHTML(item.topic || "Khác")}"><img src="${escapeHTML(thumbnail || "images/hero.jpg")}" data-media-src="${escapeHTML(thumbnail)}" alt="${escapeHTML(item.alt || item.caption || item.filename || "Ảnh tư liệu")}" loading="lazy" decoding="async" /><figcaption><strong>${escapeHTML(item.topic || "Khác")}</strong><span>${escapeHTML(item.caption || item.filename || "Ảnh tư liệu")}</span><div class="media-card-actions"><button type="button" data-set-cover-id="${escapeHTML(id)}" ${editingId ? "" : "disabled"}>Đặt làm ảnh bìa</button><button type="button" data-delete-media-id="${escapeHTML(id)}" class="danger-link">Đưa vào thùng rác</button></div></figcaption></figure>`;
     }).join("");
     return `<section class="admin-panel media-panel"><div class="admin-form-title"><div><p class="eyebrow">Kho ảnh ${currentYear}</p><h2>Ảnh theo năm và chủ đề</h2></div></div>
       <form id="media-form" class="media-upload-form"><input name="media" type="file" accept="image/jpeg,image/png,image/webp,image/avif" multiple required /><label>Chủ đề${topicSelect("topic", mediaState.topic === "Tất cả" ? "Khác" : mediaState.topic)}</label><input name="caption" placeholder="Chú thích ảnh" /><button class="button" type="submit">Thêm vào kho ảnh</button><button class="text-button" type="button" data-cancel-upload hidden>Dừng sau ảnh hiện tại</button><small data-upload-status></small></form>
@@ -466,7 +470,17 @@
     collectOverview();
     collectMembers();
     collectLeadership();
-    collectActivityForm(true);
+    const activity = collectActivityForm(true);
+    if (activity && !activity.id && [activity.title, activity.date, activity.description, activity.body].some((value) => String(value || "").trim())) {
+      activity.id = `${currentYear}-activity-${Date.now().toString(36)}`;
+      draft.activities.push(activity);
+      editingId = activity.id;
+      pendingActivityForm = null;
+      pendingActivityImages = [];
+      pendingCoverMedia = null;
+      const idInput = document.querySelector('#activity-form [name="id"]');
+      if (idInput) idInput.value = activity.id;
+    }
     draft = Schema.normalizeYear(draft);
   }
 
@@ -484,7 +498,7 @@
     savingDraft = true;
     updateCommandBar();
     try {
-      activeDraftSave = Store.saveDraft(currentYear, snapshot);
+      activeDraftSave = Store.saveDraft(currentYear, snapshot, { baseRevision });
       const record = await activeDraftSave;
       if (!pendingLocalSave && fingerprint(draft) === fingerprint(snapshot)) draft = Schema.normalizeYear(record?.data || snapshot);
       draftSavedAt = record?.updatedAt || new Date().toISOString();
@@ -522,7 +536,9 @@
   }
 
   async function openYear(year, options = {}) {
+    if (uploading) return;
     if (draft && pendingLocalSave) await saveDraftNow({ sync: true });
+    const requestId = ++openYearRequest;
     busy = true;
     updateCommandBar();
     currentYear = Number(year);
@@ -532,27 +548,50 @@
     pendingCoverMedia = null;
     mediaState = { items: [], cursor: "", truncated: false, topic: "Tất cả", activityId: "", loading: false };
     mediaAudit = { status: "idle", errors: [], warnings: [], checkedAt: "" };
+    draftConflict = "";
     try {
       if (options.blank) {
         published = null;
         baseRevision = "";
         draft = blankYear(currentYear);
-        const record = await Store.saveDraft(currentYear, draft);
+        const record = await Store.saveDraft(currentYear, draft, { baseRevision: "" });
         draftSavedAt = record?.updatedAt || new Date().toISOString();
         draftEditor = record?.editor || Store.currentUser?.() || null;
         dirty = true;
       } else {
         const remote = await Store.loadYearForAdmin(currentYear);
+        if (requestId !== openYearRequest) return;
         published = Schema.normalizeYear(remote);
-        baseRevision = remote?._revision || remote?.meta?.revision || "";
+        const remoteRevision = remote?._revision || remote?.meta?.revision || "";
         const local = await Store.loadDraft(currentYear);
+        if (requestId !== openYearRequest) return;
         draft = Schema.normalizeYear(local?.data || published);
+        if (local) {
+          draft.activities = draft.activities.map((activity) => {
+            if (!activity.album?.manifest) return activity;
+            const remoteActivity = published.activities.find((item) => item.id === activity.id);
+            if (!Array.isArray(remoteActivity?.images)) return activity;
+            const expanded = { ...activity, images: clone(remoteActivity.images) };
+            delete expanded.album;
+            return expanded;
+          });
+          if (draft.galleryAlbum?.manifest && Array.isArray(published.gallery) && published.gallery.length > (draft.gallery || []).length) {
+            draft.gallery = clone(published.gallery);
+            delete draft.galleryAlbum;
+          }
+        }
+        baseRevision = local ? String(local.baseRevision || "") : remoteRevision;
+        if (local && !local.baseRevision && fingerprint(draft) !== fingerprint(published)) {
+          draftConflict = "Bản nháp này được tạo trước khi có kiểm tra phiên bản. Hãy xuất Word/JSON để đối chiếu, hoặc bỏ bản nháp và tải lại bản công khai trước khi xuất bản.";
+        }
         draftSavedAt = local?.updatedAt || "";
         draftEditor = local?.editor || Store.currentUser?.() || null;
         dirty = Boolean(local) && fingerprint(draft) !== fingerprint(published);
       }
       pendingLocalSave = false;
+      if (requestId !== openYearRequest) return;
       await Promise.all([loadHistory(), loadMediaPage(true, "Tất cả")]);
+      if (requestId !== openYearRequest) return;
       history.replaceState(null, "", `admin.html?year=${currentYear}${editingId ? `&activity=${encodeURIComponent(editingId)}` : ""}`);
       renderDashboard(options.blank ? message(`Đã tạo bản nháp năm ${currentYear}. Chưa có dữ liệu nào được xuất bản.`) : "");
       window.setTimeout(() => auditCoverImages({ render: false }).catch(() => {}), 0);
@@ -583,9 +622,11 @@
     updateCommandBar();
     try {
       const saved = await Store.saveYear(draft, { baseRevision, mode: "publish" });
-      published = Schema.normalizeYear(saved);
-      draft = Schema.normalizeYear(saved);
-      baseRevision = saved?._revision || saved?.meta?.revision || "";
+      const refreshed = await Store.loadYearForAdmin(currentYear);
+      published = Schema.normalizeYear(refreshed);
+      draft = Schema.normalizeYear(refreshed);
+      baseRevision = refreshed?._revision || saved?._revision || saved?.meta?.revision || "";
+      draftConflict = "";
       dirty = false;
       pendingLocalSave = false;
       draftSavedAt = "";
@@ -637,15 +678,16 @@
     if (oversized) throw new Error(`${oversized.name} lớn hơn 25 MB. Hãy nén hoặc chọn ảnh nhỏ hơn.`);
     uploading = true;
     cancelUploads = false;
+    const context = { year: currentYear, draft, editingId, baseRevision, pendingImages: pendingActivityImages };
     if (cancelButton) cancelButton.hidden = false;
     updateCommandBar();
     try {
       for (let index = 0; index < files.length; index += 1) {
         if (cancelUploads) break;
         if (status) status.textContent = `Đang tối ưu và tải ảnh ${index + 1}/${files.length}: ${files[index].name}`;
-        const meta = typeof metadata === "function" ? metadata(files[index], index) : metadata;
-        const saved = await Store.saveMedia(files[index], { ...meta, year: currentYear, draftId: `${currentYear}:${baseRevision || "new"}` });
-        await onSaved(saved, index);
+        const meta = typeof metadata === "function" ? metadata(files[index], index, context) : metadata;
+        const saved = await Store.saveMedia(files[index], { ...meta, year: context.year, draftId: `${context.year}:${context.baseRevision || "new"}` });
+        await onSaved(saved, index, context);
       }
       if (status) status.textContent = cancelUploads ? "Đã dừng hàng đợi sau ảnh hiện tại." : `Đã tải ${files.length} ảnh vào R2 và bản nháp.`;
     } finally {
@@ -719,7 +761,7 @@
       if (!loader) throw new Error("TeresaStore chưa hỗ trợ đọc nội dung một phiên bản.");
       const restored = await loader(currentYear, revision.data ? revision : (revision.sha || revision.id || revision.revision));
       draft = Schema.normalizeYear(restored);
-      await Store.saveDraft(currentYear, draft);
+      await Store.saveDraft(currentYear, draft, { baseRevision });
       dirty = !published || fingerprint(draft) !== fingerprint(published);
       editingId = "";
       renderDashboard(message("Đã khôi phục phiên bản vào bản nháp. Hãy xem trước trước khi xuất bản."));
@@ -786,13 +828,17 @@
     });
     document.querySelector("#leadership-form")?.addEventListener("change", async (event) => {
       const input = event.target.closest(".team-member-upload");
-      if (!input?.files?.[0]) return;
+      if (!input?.files?.[0] || uploading) return;
       if (input.files[0].size > Number(Store.MAX_UPLOAD_BYTES || 25 * 1024 * 1024)) { showError(new Error(`${input.files[0].name} lớn hơn 25 MB.`), "Không thể tải ảnh thành viên"); return; }
       const row = input.closest(".team-member-editor");
       const name = row.querySelector(".team-member-name")?.value.trim() || input.files[0].name;
+      const uploadYear = currentYear;
+      const uploadRevision = baseRevision;
       try {
+        uploading = true;
         input.disabled = true;
-        const saved = await Store.saveMedia(input.files[0], { year: currentYear, topic: "Cộng đoàn", caption: `Ảnh thành viên · ${name}`, alt: name, draftId: `${currentYear}:${baseRevision || "new"}` });
+        updateCommandBar();
+        const saved = await Store.saveMedia(input.files[0], { year: uploadYear, topic: "Cộng đoàn", caption: `Ảnh thành viên · ${name}`, alt: name, draftId: `${uploadYear}:${uploadRevision || "new"}` });
         row._uploadedMedia = saved;
         const src = sourceOf(saved, "original");
         row.querySelector(".team-member-photo").value = src;
@@ -800,7 +846,7 @@
         preview.src = sourceOf(saved, "thumbnail") || src; preview.hidden = false;
         markChanged();
       } catch (error) { showError(error, "Không thể tải ảnh thành viên"); }
-      finally { input.disabled = false; }
+      finally { uploading = false; input.disabled = false; updateCommandBar(); }
     });
 
     document.querySelector("#activity-form")?.addEventListener("submit", async (event) => {
@@ -828,23 +874,31 @@
     });
     document.querySelector("#activity-cover")?.addEventListener("change", async (event) => {
       const file = event.target.files[0];
-      if (!file) return;
+      if (!file || uploading) return;
       if (file.size > Number(Store.MAX_UPLOAD_BYTES || 25 * 1024 * 1024)) { showError(new Error(`${file.name} lớn hơn 25 MB.`), "Không thể tải ảnh bìa"); return; }
+      const uploadYear = currentYear;
+      const uploadRevision = baseRevision;
+      const uploadEditingId = editingId;
+      const uploadDraft = draft;
       try {
+        uploading = true;
+        event.target.disabled = true;
+        updateCommandBar();
         const topic = document.querySelector('#activity-form [name="topic"]')?.value || "Khác";
-        const saved = await Store.saveMedia(file, { year: currentYear, topic, activityId: editingId, caption: `Ảnh mở đầu · ${file.name}`, alt: file.name, draftId: `${currentYear}:${baseRevision || "new"}` });
+        const saved = await Store.saveMedia(file, { year: uploadYear, topic, activityId: uploadEditingId, caption: `Ảnh mở đầu · ${file.name}`, alt: file.name, draftId: `${uploadYear}:${uploadRevision || "new"}` });
         pendingCoverMedia = saved;
         const src = sourceOf(saved, "original");
         document.querySelector('#activity-form [name="coverImage"]').value = src;
         document.querySelector(".cover-picker code").textContent = src;
         document.querySelector(".cover-preview").src = sourceOf(saved, "medium") || src;
-        if (editingId) {
-          const activity = draft.activities.find((item) => item.id === editingId);
+        if (uploadEditingId) {
+          const activity = uploadDraft.activities.find((item) => item.id === uploadEditingId);
           if (activity) activity.coverImage = clone(saved);
           await saveDraftNow({ sync: false });
         } else markChanged();
         dirty = true; updateCommandBar();
       } catch (error) { showError(error, "Không thể tải ảnh bìa"); }
+      finally { uploading = false; event.target.disabled = false; updateCommandBar(); }
     });
     document.querySelector("#activity-images")?.addEventListener("change", async (event) => {
       const files = [...event.target.files];
@@ -852,12 +906,12 @@
       const status = form.querySelector("[data-upload-status]");
       const cancel = form.querySelector("[data-cancel-upload]");
       try {
-        await runUploadQueue(files, () => ({ topic: form.querySelector('[name="topic"]').value || "Khác", activityId: editingId, caption: "Ảnh hoạt động", alt: "Ảnh hoạt động" }), async (saved) => {
-          if (editingId) {
-            const activity = draft.activities.find((item) => item.id === editingId);
+        await runUploadQueue(files, (_file, _index, context) => ({ topic: form.querySelector('[name="topic"]').value || "Khác", activityId: context.editingId, caption: "Ảnh hoạt động", alt: "Ảnh hoạt động" }), async (saved, _index, context) => {
+          if (context.editingId) {
+            const activity = context.draft.activities.find((item) => item.id === context.editingId);
             if (activity?.album?.manifest) throw new Error("Album manifest cần API cập nhật album trước khi thêm ảnh.");
             activity.images = [...(activity.images || []), saved];
-          } else pendingActivityImages.push(saved);
+          } else context.pendingImages.push(saved);
           dirty = true;
         }, status, cancel);
         if (editingId) await saveDraftNow({ sync: false });
@@ -883,8 +937,8 @@
       const status = event.currentTarget.querySelector("[data-upload-status]");
       const cancel = event.currentTarget.querySelector("[data-cancel-upload]");
       try {
-        await runUploadQueue(files, (file) => ({ topic: formData.get("topic"), caption: formData.get("caption") || file.name, alt: formData.get("caption") || file.name }), async (saved) => {
-          draft.gallery = [...(draft.gallery || []), saved];
+        await runUploadQueue(files, (file) => ({ topic: formData.get("topic"), caption: formData.get("caption") || file.name, alt: formData.get("caption") || file.name }), async (saved, _index, context) => {
+          context.draft.gallery = [...(context.draft.gallery || []), saved];
           mediaState.items.unshift(saved);
           dirty = true;
         }, status, cancel);
@@ -924,14 +978,14 @@
         renderPreservingScroll(message(`Chưa thể xóa khỏi R2 vì ảnh vẫn đang được dùng trên bản công khai (${publishedReferences.join(", ")}). Hãy gỡ ảnh khỏi bản nháp, xuất bản thay đổi, rồi quay lại xóa.`, "error"));
         return;
       }
-      if (!confirm("Xóa vĩnh viễn ảnh này và các kích thước liên quan khỏi R2?")) return;
+      if (!confirm("Chuyển ảnh này và các kích thước liên quan vào vùng khôi phục của R2?")) return;
       try {
         const manifestWarning = removeMediaReferences(media);
         await saveDraftNow({ sync: false });
         await Store.deleteMedia(media.id || button.dataset.deleteMediaId);
         mediaState.items = mediaState.items.filter((item) => mediaKey(item) !== mediaKey(media));
         dirty = true;
-        renderPreservingScroll(message(manifestWarning ? "Đã xóa ảnh và tham chiếu preview. Album manifest vẫn cần được cập nhật trước khi xuất bản." : "Đã xóa ảnh theo media ID và loại tham chiếu khỏi bản nháp."));
+        renderPreservingScroll(message(manifestWarning ? "Đã chuyển ảnh vào vùng khôi phục và gỡ tham chiếu preview. Album manifest vẫn cần được cập nhật trước khi xuất bản." : "Đã chuyển ảnh vào vùng khôi phục và loại tham chiếu khỏi bản nháp."));
       } catch (error) { showError(error, "Không thể xóa ảnh"); }
     }));
 
@@ -947,7 +1001,7 @@
         const analysis = Store.analyzeArchive(JSON.parse(await file.text()));
         if (!analysis.valid) throw new Error(analysis.errors[0]);
         if (!confirm(`Nhập ${analysis.summary} vào các bản nháp cục bộ? Không có dữ liệu nào được xuất bản tự động.`)) return;
-        for (const yearData of analysis.years) await Store.saveDraft(yearData.year, yearData);
+        for (const yearData of analysis.years) await Store.saveDraft(yearData.year, yearData, { baseRevision: Number(yearData.year) === currentYear ? baseRevision : "" });
         years = [...new Set([...years, ...analysis.years.map((item) => Number(item.year))])].sort((a, b) => a - b);
         const currentImported = analysis.years.find((item) => Number(item.year) === currentYear);
         if (currentImported) { draft = Schema.normalizeYear(currentImported); dirty = !published || fingerprint(draft) !== fingerprint(published); }

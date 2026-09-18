@@ -645,6 +645,51 @@ async function readGitHubJson(env, path, ref, optional = false) {
   }
 }
 
+function manifestPathsIn(data) {
+  return [...new Set([
+    ...(data?.activities || []).map((activity) => activity?.album?.manifest || activity?.albumManifest),
+    data?.galleryAlbum?.manifest,
+  ].filter(Boolean))];
+}
+
+function jsonContainsMedia(value, candidates) {
+  if (typeof value === "string") {
+    let decoded = value;
+    try { decoded = decodeURIComponent(value); } catch (_error) { /* So sánh chuỗi gốc vẫn an toàn. */ }
+    return candidates.some((candidate) => value.includes(candidate) || decoded.includes(candidate));
+  }
+  if (Array.isArray(value)) return value.some((item) => jsonContainsMedia(item, candidates));
+  if (isObject(value)) return Object.values(value).some((item) => jsonContainsMedia(item, candidates));
+  return false;
+}
+
+async function repositoryMediaReferences(env, candidateValues) {
+  const candidates = [...new Set(candidateValues.filter(Boolean).map(String))];
+  if (!candidates.length) return [];
+  const mediaYears = new Set(candidates.map((candidate) => {
+    const match = /(?:^|\/)(?:media|images\/uploads)\/(\d{4})(?:\/|$)/.exec(candidate);
+    return match ? Number(match[1]) : 0;
+  }).filter(Boolean));
+  const branch = branchName(env);
+  const head = await gitHead(env, branch);
+  const index = await readGitHubJson(env, "data/index.json", head);
+  const references = [];
+  await Promise.all((index.years || []).map(async (entry) => {
+    const year = Number(entry.year);
+    const data = await readGitHubJson(env, `data/${year}.json`, head);
+    if (jsonContainsMedia(data, candidates)) references.push(`data/${year}.json`);
+    // R2 phân vùng ảnh theo năm. Chỉ album của năm sở hữu ảnh cần đọc đầy đủ;
+    // 12 tệp năm vẫn được kiểm tra để phát hiện tham chiếu chéo trong preview
+    // mà không vượt giới hạn subrequest của gói Worker nhỏ.
+    if (mediaYears.size && !mediaYears.has(year)) return;
+    await Promise.all(manifestPathsIn(data).map(async (manifestPath) => {
+      const manifest = await readGitHubJson(env, manifestPath, head);
+      if (jsonContainsMedia(manifest, candidates)) references.push(manifestPath);
+    }));
+  }));
+  return [...new Set(references)].sort();
+}
+
 async function gitHead(env, branch) {
   const ref = await githubRequest(env, `/git/ref/heads/${pathUrl(branch)}`);
   return ref.object?.sha;
@@ -976,6 +1021,24 @@ async function deleteMedia(request, env) {
       const listed = await env.MEDIA_BUCKET.list({ prefix: `${root}/`, limit: 1000 });
       keys = listed.objects.map((item) => item.key);
     }
+    const references = await repositoryMediaReferences(env, [root, ...keys]);
+    if (references.length) {
+      fail(409, "MEDIA_IN_USE", `Ảnh vẫn đang được sử dụng trong ${references.length} tệp dữ liệu. Hãy gỡ ảnh và xuất bản thay đổi trước khi xóa.`, references);
+    }
+    const deletedAt = new Date().toISOString();
+    const trashPrefix = `trash/${deletedAt.replace(/[:.]/g, "-")}`;
+    const trashed = [];
+    for (const sourceKey of keys) {
+      const source = await env.MEDIA_BUCKET.get(sourceKey);
+      if (!source) continue;
+      const trashKey = `${trashPrefix}/${sourceKey}`;
+      await env.MEDIA_BUCKET.put(trashKey, source.body, {
+        httpMetadata: source.httpMetadata,
+        customMetadata: { ...(source.customMetadata || {}), originalKey: sourceKey, deletedAt, trashed: "true" },
+      });
+      trashed.push(trashKey);
+    }
+    if (trashed.length !== keys.length) fail(503, "MEDIA_TRASH_FAILED", "Không thể tạo đủ bản khôi phục nên ảnh chưa bị xóa.");
     await env.MEDIA_BUCKET.delete(keys);
     const workerOrigin = new URL(request.url).origin;
     const publicBase = String(env.R2_PUBLIC_BASE_URL || "").replace(/\/+$/, "");
@@ -985,9 +1048,11 @@ async function deleteMedia(request, env) {
       return [...new Set(paths)].map((url) => new Request(url));
     });
     await Promise.all(cacheRequests.map((cacheRequest) => caches.default.delete(cacheRequest).catch(() => false)));
-    return { ok: true, deleted: keys };
+    return { ok: true, deleted: keys, trashed, deletedAt };
   }
   if (!/^images\/uploads\/\d{4}\//.test(key) || key.split("/").includes("..")) fail(422, "INVALID_MEDIA_PATH", "Đường dẫn ảnh không hợp lệ.");
+  const references = await repositoryMediaReferences(env, [key]);
+  if (references.length) fail(409, "MEDIA_IN_USE", `Ảnh vẫn đang được sử dụng trong ${references.length} tệp dữ liệu.`, references);
   const branch = branchName(env);
   const file = await githubRequest(env, `/contents/${pathUrl(key)}?ref=${encodeURIComponent(branch)}`);
   const result = await githubRequest(env, `/contents/${pathUrl(key)}`, {

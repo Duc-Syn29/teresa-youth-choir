@@ -286,7 +286,7 @@
       safeStore("years", "readwrite", (store) => store.put(record)),
       safeStore("index", "readwrite", (store) => store.delete("archive-index")),
       safeStore("albums", "readwrite", (store) => store.clear()),
-      clearDraft(saved.year)
+      safeStore("drafts", "readwrite", (store) => store.delete(String(saved.year)))
     ]);
     return saved;
   }
@@ -338,10 +338,14 @@
     if (!file?.type?.startsWith("image/") || file.type === "image/svg+xml") throw new Error("Chỉ hỗ trợ ảnh JPEG, PNG, WebP hoặc AVIF.");
     if (file.size > MAX_UPLOAD_BYTES) throw new Error("Ảnh lớn hơn 25 MB. Hãy chọn ảnh nhỏ hơn.");
     try {
+      // Tệp người dùng chọn luôn là bản lưu trữ chất lượng cao. Chỉ các bản
+      // hiển thị được nén để tải nhanh trên điện thoại.
+      const bitmap = await createImageBitmap(file);
+      const original = { file, width: bitmap.width, height: bitmap.height, bytes: file.size };
+      bitmap.close?.();
       // Tạo tuần tự để tránh tăng đột biến bộ nhớ trên iPhone.
       const thumbnail = await imageVariant(file, 480, "thumb", .76);
       const medium = await imageVariant(file, 1280, "medium", .82);
-      const original = await imageVariant(file, 2048, "full", .87);
       return { thumbnail, medium, original, originalBytes: file.size };
     } catch (error) {
       console.warn("Không thể tạo đủ biến thể, tải ảnh gốc:", error);
@@ -372,7 +376,7 @@
     normalized.filename ||= file.name;
     normalized.caption ||= metadata.caption || "";
     normalized.alt ||= metadata.alt || file.name;
-    normalized.compression = { originalBytes: file.size, savedBytes: prepared.original.bytes };
+    normalized.compression = { originalBytes: file.size, displayBytes: prepared.medium?.bytes || file.size, originalPreserved: true };
     await safeStore("media", "readwrite", (store) => store.put(normalized));
     return normalized;
   }
@@ -539,9 +543,17 @@
     await firebaseAuth.currentUser.updatePassword(password);
   }
 
-  async function saveDraft(year, data) {
-    const record = { id: String(Number(year)), year: Number(year), data: normalizeYear(data), updatedAt: new Date().toISOString(), editor: currentUser() };
-    await safeStore("drafts", "readwrite", (store) => store.put(record));
+  async function saveDraft(year, data, options = {}) {
+    const record = {
+      id: String(Number(year)),
+      year: Number(year),
+      data: normalizeYear(data),
+      baseRevision: String(options.baseRevision || ""),
+      updatedAt: new Date().toISOString(),
+      editor: currentUser(),
+    };
+    // Bản nháp là dữ liệu bắt buộc; lỗi IndexedDB phải được báo cho người dùng.
+    await inStore("drafts", "readwrite", (store) => store.put(record));
     return record;
   }
 
@@ -550,7 +562,7 @@
   }
 
   async function clearDraft(year) {
-    return safeStore("drafts", "readwrite", (store) => store.delete(String(Number(year))));
+    return inStore("drafts", "readwrite", (store) => store.delete(String(Number(year))));
   }
 
   async function localRevisions(year) {
@@ -572,13 +584,70 @@
 
   async function exportArchive() {
     const years = [];
-    for (const year of await availableYears()) years.push({ year, data: await loadYear(year) });
-    return { version: 3, exportedAt: new Date().toISOString(), years };
+    const albums = {};
+    const assets = new Map();
+    const rememberMedia = (media) => {
+      if (!media) return;
+      const normalized = Schema.normalizeMedia ? Schema.normalizeMedia(media) : media;
+      const key = mediaSource(normalized, "original") || mediaSource(normalized, "medium");
+      if (key) assets.set(key, normalized);
+    };
+    const rememberMediaTree = (value) => {
+      if (!value || typeof value !== "object") return;
+      if (Array.isArray(value)) { value.forEach(rememberMediaTree); return; }
+      Object.values(value).forEach(rememberMediaTree);
+      if (mediaSource(value, "original") || mediaSource(value, "medium")) rememberMedia(value);
+    };
+    for (const year of await availableYears()) {
+      const data = await loadYear(year);
+      years.push({ year, data });
+      const references = [
+        ...(data.activities || []).map((activity) => ({ owner: activity, album: activity.album })),
+        ...(data.galleryAlbum?.manifest ? [{ owner: data.galleryAlbum, album: data.galleryAlbum }] : []),
+      ].filter((entry) => entry.album?.manifest);
+      for (const entry of references) {
+        const images = await loadAlbum(year, entry.owner);
+        albums[entry.album.manifest] = {
+          schemaVersion: 1,
+          year,
+          activityId: entry.owner.id || `${year}-year-gallery`,
+          title: entry.owner.title || `Album năm ${year}`,
+          count: images.length,
+          images,
+        };
+        rememberMediaTree(images);
+      }
+      rememberMediaTree(data);
+    }
+    return {
+      version: 4,
+      exportedAt: new Date().toISOString(),
+      note: "Bản sao lưu chứa toàn bộ JSON và danh sách tài sản. Tệp ảnh gốc vẫn được lưu riêng trong R2.",
+      years,
+      albums,
+      assets: [...assets.values()],
+    };
   }
 
   function analyzeArchive(archive) {
     if (!archive || !Array.isArray(archive.years)) return { valid: false, errors: ["Tệp sao lưu không đúng định dạng."], years: [] };
-    const years = archive.years.map((item) => normalizeYear(item.data || item));
+    const albumMap = archive.albums && typeof archive.albums === "object" ? archive.albums : {};
+    const years = archive.years.map((item) => {
+      const data = normalizeYear(item.data || item);
+      data.activities = (data.activities || []).map((activity) => {
+        const manifest = activity.album?.manifest;
+        const album = manifest ? albumMap[manifest] : null;
+        if (!Array.isArray(album?.images)) return activity;
+        const expanded = { ...activity, images: album.images };
+        delete expanded.album;
+        return expanded;
+      });
+      if (data.galleryAlbum?.manifest && Array.isArray(albumMap[data.galleryAlbum.manifest]?.images)) {
+        data.gallery = albumMap[data.galleryAlbum.manifest].images;
+        delete data.galleryAlbum;
+      }
+      return data;
+    });
     const errors = [];
     years.forEach((data) => {
       const result = Schema.validateYear ? Schema.validateYear(data) : { valid: true, errors: [] };

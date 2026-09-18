@@ -146,13 +146,18 @@ for (const file of yearFiles) {
       return migrated;
     });
 
-    const galleryImages = uniqueMedia(normalized.gallery || []);
+    const galleryManifestRelative = normalized.galleryAlbum?.manifest || `data/albums/${year}/_gallery.json`;
+    const galleryManifestPath = path.join(projectRoot, galleryManifestRelative);
+    const existingGallery = await exists(galleryManifestPath) ? await readJson(galleryManifestPath) : null;
+    // Sau lần migrate đầu tiên, year.gallery chỉ còn ảnh xem trước. Lần chạy
+    // tiếp theo phải lấy album đầy đủ làm nguồn để không rút album xuống 3 ảnh.
+    const galleryImages = uniqueMedia([...(existingGallery?.images || []), ...(normalized.gallery || [])]);
     if (galleryImages.length) {
       const galleryId = `${year}-year-gallery`;
-      const manifestRelative = `data/albums/${year}/_gallery.json`;
-      plannedWrites.set(path.join(projectRoot, manifestRelative), json(albumManifest(year, galleryId, `Album năm ${year}`, galleryImages)));
+      const nextManifest = albumManifest(year, galleryId, existingGallery?.title || `Album năm ${year}`, galleryImages);
+      if (!existingGallery || json(existingGallery) !== json(nextManifest)) plannedWrites.set(galleryManifestPath, json(nextManifest));
       normalized.galleryAlbum = {
-        manifest: manifestRelative,
+        manifest: galleryManifestRelative,
         count: galleryImages.length,
         preview: galleryImages.slice(0, options.preview),
       };

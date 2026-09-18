@@ -199,6 +199,10 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .activity-archive-summary { display: flex; justify-content: space-between; gap: 2rem; align-items: baseline; margin-bottom: 1.2rem; }
 .activity-archive-summary strong { font-family: var(--serif); font-size: 1.15rem; }
 .activity-archive-summary span { color: var(--muted); font-size: .68rem; text-align: right; }
+.activity-archive-filters { display: grid; grid-template-columns: minmax(0, 1fr) minmax(10rem, .32fr); gap: .7rem; margin: 0 0 1.2rem; }
+.activity-archive-filters label { min-width: 0; }
+.activity-archive-filters input, .activity-archive-filters select { width: 100%; min-height: 3rem; padding: .72rem 1rem; color: var(--ink); background: rgba(255,255,255,.88); border: 1px solid rgba(4,91,126,.2); border-radius: 999px; font: inherit; font-size: .72rem; outline: 0; box-shadow: 0 10px 30px rgba(5,85,119,.08); }
+.activity-archive-filters input:focus, .activity-archive-filters select:focus { border-color: var(--teal-500); box-shadow: 0 0 0 3px rgba(37,183,216,.16); }
 .activity-archive-events { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
 .activity-archive-event { position: relative; isolation: isolate; display: flex; min-height: 20rem; overflow: hidden; align-items: flex-end; color: var(--white); background: var(--teal-950); border: 1px solid rgba(255,255,255,.7); border-radius: 1.35rem; box-shadow: 0 18px 44px rgba(4,65,94,.18); transform: translateZ(0); transition: transform .45s cubic-bezier(.2,.75,.2,1), box-shadow .4s; }
 .activity-archive-event-media { position: absolute; z-index: -3; inset: 0; background: linear-gradient(145deg, var(--teal-800), var(--teal-500)) center / cover no-repeat; transition: transform .7s cubic-bezier(.2,.75,.2,1); }
@@ -672,6 +676,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
   .activity-archive-body { padding: 1rem; }
   .activity-archive-summary { display: grid; gap: .2rem; }
   .activity-archive-summary span { text-align: left; }
+  .activity-archive-filters { grid-template-columns: 1fr; gap: .55rem; }
   .activity-archive-events { grid-template-columns: 1fr; }
   .activity-archive-event { min-height: 20rem; }
   .gallery-filters { justify-content: flex-start; }

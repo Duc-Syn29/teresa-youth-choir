@@ -19,10 +19,10 @@
       rel="stylesheet"
     />
     <link rel="preload" as="image" href="images/optimized/hero-1280.jpg" imagesrcset="images/optimized/hero-480.jpg 480w, images/optimized/hero-1280.jpg 1280w, images/optimized/hero-2048.jpg 2048w, images/hero.jpg 2400w" imagesizes="(max-width: 680px) max(100vw, 150svh), 100vw" fetchpriority="high" />
-    <link rel="stylesheet" href="css/style.css?v=archive-2026-49" />
+    <link rel="stylesheet" href="css/style.css?v=archive-2026-50" />
     <script src="js/schema.js?v=archive-2026-41" defer></script>
-    <script src="js/store.js?v=archive-2026-49" defer></script>
-    <script src="js/main.js?v=archive-2026-49" defer></script>
+    <script src="js/store.js?v=archive-2026-50" defer></script>
+    <script src="js/main.js?v=archive-2026-50" defer></script>
   </head>
 
   <body>
@@ -85,7 +85,7 @@
           </article>
           <article>
             <strong class="counter" data-target="120" data-suffix="+">0</strong>
-            <span>Ca viên đã đồng hành</span>
+            <span>Lượt ca viên đã đồng hành</span>
           </article>
           <article>
             <strong class="counter" data-target="300" data-suffix="+">0</strong>
@@ -339,6 +339,18 @@
           <div class="activity-archive-summary" aria-live="polite">
             <strong id="activity-archive-count">Đang tải…</strong>
             <span>Chọn một sự kiện để mở bài viết và hình ảnh của năm đó.</span>
+          </div>
+          <div class="activity-archive-filters" role="search" aria-label="Tìm trong kho sự kiện">
+            <label>
+              <span class="sr-only">Tìm theo tên hoặc chủ đề</span>
+              <input id="activity-archive-search" type="search" placeholder="Tìm tên, chủ đề…" autocomplete="off" />
+            </label>
+            <label>
+              <span class="sr-only">Lọc theo năm</span>
+              <select id="activity-archive-year" aria-label="Lọc sự kiện theo năm">
+                <option value="">Tất cả các năm</option>
+              </select>
+            </label>
           </div>
           <div class="activity-archive-events" id="activity-archive-events" aria-live="polite">
             <div class="activity-archive-loading"><span aria-hidden="true">♪</span><p>Đang tổng hợp hành trình…</p></div>
