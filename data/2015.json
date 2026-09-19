@@ -10,25 +10,25 @@
     "verse": "Hãy hát mừng Đức Chúa một bài ca mới. (TV96,1)",
     "longDescription": "Năm 2015 đánh dấu sự ra đời của Ca đoàn Giới trẻ Têrêsa, khởi nguồn từ thao thức của Cha Gioan Lưu Ngọc Quỳnh và sự nâng đỡ của quý Cha Dòng Chúa Cứu Thế. Ca đoàn chính thức được thành lập vào ngày 20/10/2015, nhằm chuyên trách phục vụ Thánh lễ Giới trẻ 20h00 tối Thứ Bảy vừa được mở thêm tại Giáo xứ Thái Hà.  Dưới sự dẫn dắt của Ban điều hành tiên khởi cùng Cha Gioan, ca đoàn đã chọn Thánh nữ Têrêsa Hài Đồng Giêsu làm Bổn mạng, hướng tới tinh thần cốt lõi: “Hiệp nhất - Yêu thương - Phục vụ”. Nơi đây không chỉ quy tụ những bạn trẻ yêu Thánh nhạc mà còn trở thành mái nhà chung ấm áp cho những người con xa quê đang học tập và làm việc tại Hà Nội.  Giai đoạn đầu, ca đoàn đối mặt với rất nhiều khó khăn và thiếu thốn: nhân sự còn ít ỏi, không có phòng sinh hoạt cố định, nhiều buổi phải tập hát ngoài sân đền Giêrađô hay công viên. Tuy nhiên, chính trong hoàn cảnh đơn sơ ấy, ngọn lửa đức tin, sự hy sinh và lòng quảng đại của những ca viên đầu tiên đã vượt lên tất cả, đặt những viên gạch nền móng vững chắc cho sự phát triển của ca đoàn sau này.",
     "coverImage": {
-      "src": "images/hero.jpg",
-      "id": "images/hero.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2015/archive/hero/medium.jpg",
+      "id": "media/2015/archive/hero/original.jpg",
       "alt": "",
       "caption": "",
       "variants": {
         "thumbnail": {
-          "src": "images/optimized/hero-480.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2015/archive/hero/thumb.jpg",
           "width": 480,
           "height": 319
         },
         "medium": {
-          "src": "images/optimized/hero-1280.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2015/archive/hero/medium.jpg",
           "width": 1280,
           "height": 851
         },
         "original": {
-          "src": "images/optimized/hero-2048.jpg",
-          "width": 2048,
-          "height": 1362
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2015/archive/hero/original.jpg",
+          "width": 2400,
+          "height": 1596
         }
       }
     }
@@ -208,7 +208,7 @@
   },
   "schemaVersion": 3,
   "meta": {
-    "revision": 1,
+    "revision": 2,
     "status": "published",
     "migratedFrom": 1
   }

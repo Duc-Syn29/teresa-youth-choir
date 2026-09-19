@@ -6,26 +6,26 @@
   "count": 1,
   "images": [
     {
-      "src": "images/gallery/phung-vu-2025.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/gallery/phung-vu-2025/medium.jpg",
       "alt": "Ca đoàn trong một thánh lễ",
       "event": "Phụng vụ",
       "caption": "Tiếp nối lời ca",
-      "id": "images/gallery/phung-vu-2025.jpg",
+      "id": "media/2026/gallery/phung-vu-2025/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/gallery/phung-vu-2025/thumb.jpg",
           "width": 480,
           "height": 290
         },
         "medium": {
-          "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/gallery/phung-vu-2025/medium.jpg",
           "width": 1280,
           "height": 773
         },
         "original": {
-          "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
-          "width": 2048,
-          "height": 1237
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/gallery/phung-vu-2025/original.jpg",
+          "width": 2400,
+          "height": 1450
         }
       }
     }

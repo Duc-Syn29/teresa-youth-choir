@@ -6,7 +6,7 @@
     "secondary": "#d7b7c5"
   },
   "meta": {
-    "revision": 5,
+    "revision": 7,
     "status": "published",
     "migratedFrom": 1,
     "journalCredit": "Petrus Đỗ Tiến Hạng",
@@ -19,27 +19,27 @@
     "title": "Một khoảng lặng của hành trình yêu thương",
     "summary": "Đại dịch COVID-19 khiến việc tập hát, phục vụ Thánh lễ, mừng bổn mạng, tĩnh tâm và thiện nguyện phải tạm dừng, nhưng tình thân và đời sống đức tin của các ca viên vẫn được gìn giữ.",
     "verse": "Dù bước đi trong thung lũng tối, con không sợ tai họa nào, vì có Chúa ở cùng. (Tv 23,4)",
-    "longDescription": "Năm 2021 tiếp tục là một năm đầy khó khăn khi đại dịch COVID-19 bùng phát, ảnh hưởng đến sức khỏe, tinh thần và kinh tế của nhiều ca viên. Khoảng cách và các quy định phòng dịch khiến ca đoàn không thể tổ chức tập hát, phục vụ Thánh lễ hay duy trì những chương trình thường niên. Trong chính khoảng lặng ấy, mỗi ca viên trưởng thành hơn trong đức tin, biết quý trọng cuộc sống và nhận ra rằng điều quý giá không chỉ là được đứng trên gác đàn, mà còn là biết sống Tin Mừng trong những biến cố của cuộc đời. Ca đoàn vẫn cố gắng hiện diện bên nhau trong những dấu mốc quan trọng và gìn giữ tình thân của đại gia đình Têrêsa.",
+    "longDescription": "Năm 2021 tiếp tục là một năm đầy khó khăn khi đại dịch COVID-19 bùng phát, ảnh hưởng nhiều đến đời sống của các ca viên. Nhiều anh chị em bị nhiễm bệnh, chịu tác động về sức khỏe, tinh thần và kinh tế. Ca đoàn không thể tổ chức các buổi tập hát, phục vụ Thánh lễ hay duy trì những chương trình thường niên như mừng bổn mạng, tĩnh tâm và thiện nguyện. Khoảng cách cùng các quy định phòng dịch khiến các thành viên không thể thường xuyên gặp gỡ như trước. Nhưng chính trong khoảng lặng ấy, mỗi ca viên trưởng thành hơn trong đức tin và biết quý trọng cuộc sống hơn. Dù hoạt động bị thu hẹp, tình thân của những người trẻ trong Ca đoàn Giới Trẻ Têrêsa vẫn được gìn giữ. Trong một năm mà những cuộc gặp gỡ trở nên quý giá hơn bao giờ hết, ca đoàn vẫn cố gắng hiện diện bên nhau trong những dấu mốc quan trọng. Mỗi người hiểu rằng điều quý giá không chỉ là được đứng trên gác đàn để hát, mà còn là biết sống Tin Mừng trong những biến cố của cuộc sống.",
     "coverImage": {
-      "src": "images/hero.jpg",
-      "id": "images/hero.jpg",
-      "alt": "",
-      "caption": "",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/08/medium.jpg",
+      "id": "media/2021/hung-uyen/08/original.jpg",
+      "alt": "Ca đoàn trong lễ cưới Hùng và Uyên cuối năm 2021",
+      "caption": "Ca đoàn cùng anh chị Hùng – Uyên và cha chủ tế trong những ngày cuối năm 2021.",
       "variants": {
         "thumbnail": {
-          "src": "images/optimized/hero-480.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/08/thumb.jpg",
           "width": 480,
-          "height": 319
+          "height": 270
         },
         "medium": {
-          "src": "images/optimized/hero-1280.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/08/medium.jpg",
           "width": 1280,
-          "height": 851
+          "height": 719
         },
         "original": {
-          "src": "images/optimized/hero-2048.jpg",
-          "width": 2048,
-          "height": 1362
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/08/original.jpg",
+          "width": 2138,
+          "height": 1201
         }
       }
     }
@@ -165,8 +165,105 @@
       "location": "",
       "title": "Mừng lễ cưới Đức Chính và Ánh Nguyệt",
       "description": "Ca đoàn tham dự và chung vui trong ngày thành hôn của anh Đức Chính và chị Ánh Nguyệt.",
-      "body": "Ngày 17 tháng 1 mở đầu những dấu ấn của năm 2021 bằng niềm vui ngày cưới của anh Đức Chính và chị Ánh Nguyệt. Các thành viên cùng về tham dự, cầu nguyện và chúc mừng gia đình mới.\n\nTrong hoàn cảnh sinh hoạt chung còn nhiều khó khăn, việc có thể hiện diện bên nhau càng trở nên ý nghĩa. Đây không chỉ là một cuộc gặp gỡ trong ngày vui, mà còn là cách những người anh em trong ca đoàn tiếp tục trao cho nhau sự quan tâm và tình thân.",
-      "images": []
+      "body": "Mở đầu cho những dấu ấn của năm 2021 là ngày 17 tháng 1, khi ca đoàn cùng nhau về tham dự và chung vui trong ngày cưới của anh Đức Chính và chị Ánh Nguyệt.\n\nTrong hoàn cảnh các sinh hoạt chung còn gặp nhiều khó khăn, việc có thể cùng hiện diện trong một ngày vui của anh chị lại càng trở nên ý nghĩa. Đó không chỉ là sự hiện diện để chúc mừng một gia đình mới, mà còn là cách những người anh em trong ca đoàn tiếp tục trao cho nhau sự quan tâm và tình thân.",
+      "coverImage": {
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/medium.jpg",
+        "alt": "Lễ cưới Đức Chính và Ánh Nguyệt · ảnh 2",
+        "caption": "Anh chị Đức Chính – Ánh Nguyệt trong ngày hôn phối.",
+        "id": "media/2021/duc-chinh-anh-nguyet/02/original.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/thumb.jpg",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/medium.jpg",
+            "width": 960,
+            "height": 640
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/original.jpg",
+            "width": 960,
+            "height": 640
+          }
+        }
+      },
+      "album": {
+        "manifest": "data/albums/2021/2021-hon-phoi-duc-chinh-anh-nguyet.json",
+        "count": 6,
+        "preview": [
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/01/medium.jpg",
+            "alt": "Lễ cưới Đức Chính và Ánh Nguyệt · ảnh 1",
+            "caption": "Anh chị Đức Chính – Ánh Nguyệt lưu giữ kỷ niệm cùng cha và quý sơ.",
+            "id": "media/2021/duc-chinh-anh-nguyet/01/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/01/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/01/medium.jpg",
+                "width": 960,
+                "height": 640
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/01/original.jpg",
+                "width": 960,
+                "height": 640
+              }
+            }
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/medium.jpg",
+            "alt": "Lễ cưới Đức Chính và Ánh Nguyệt · ảnh 2",
+            "caption": "Anh chị Đức Chính – Ánh Nguyệt trong ngày hôn phối.",
+            "id": "media/2021/duc-chinh-anh-nguyet/02/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/medium.jpg",
+                "width": 960,
+                "height": 640
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/original.jpg",
+                "width": 960,
+                "height": 640
+              }
+            }
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/03/medium.jpg",
+            "alt": "Lễ cưới Đức Chính và Ánh Nguyệt · ảnh 3",
+            "caption": "Khoảnh khắc cầu nguyện trong Thánh lễ hôn phối.",
+            "id": "media/2021/duc-chinh-anh-nguyet/03/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/03/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/03/medium.jpg",
+                "width": 960,
+                "height": 640
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/03/original.jpg",
+                "width": 960,
+                "height": 640
+              }
+            }
+          }
+        ]
+      }
     },
     {
       "id": "2021-hon-phoi-thu-trang-thanh-hoa",
@@ -176,8 +273,105 @@
       "location": "",
       "title": "Lễ cưới Thu Trang – Thanh Nguyễn và Thanh Hoa – Trung Buti",
       "description": "Ca đoàn tham dự hai lễ cưới của Thu Trang – Thanh Nguyễn và Thanh Hoa – Trung Buti trong hai ngày 23–24 tháng 1.",
-      "body": "Chỉ ít ngày sau lễ cưới của Đức Chính và Ánh Nguyệt, ca đoàn tiếp tục chung vui trong ngày trọng đại của hai đôi bạn Thu Trang – Thanh Nguyễn và Thanh Hoa – Trung Buti. Những cuộc gặp gỡ tuy không nhiều nhưng trở thành các khoảnh khắc đáng nhớ giữa một năm đầy biến động.\n\nNiềm vui của mỗi thành viên cũng là niềm vui chung của đại gia đình Ca đoàn Giới Trẻ Têrêsa. Các ca viên còn nhiệt tình trình bày những bài cử điệu sinh hoạt, góp phần tạo nên kỷ niệm vui tươi trong ngày cưới của anh chị em mình.",
-      "images": []
+      "body": "Chỉ ít ngày sau, vào 23 và 24 tháng 1, ca đoàn tiếp tục về tham dự ngày vui trọng đại trong lễ cưới của anh chị Thu Trang – Thanh Nguyễn và anh chị Thanh Hoa – Trung Buti.\n\nNhững cuộc gặp gỡ tuy không nhiều nhưng lại trở thành những khoảnh khắc đáng nhớ của năm. Giữa một năm đầy biến động và hạn chế vì đại dịch, niềm vui của mỗi anh chị vẫn là niềm vui chung của đại gia đình Ca đoàn Giới Trẻ Têrêsa. Trong ngày cưới, các ca viên còn nhiệt tình trình bày những bài cử điệu sinh hoạt, góp phần tạo nên những kỷ niệm rất đáng nhớ của ca đoàn.",
+      "coverImage": {
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/04/medium.jpg",
+        "alt": "Lễ cưới Thanh Hoa và Trung Buti · ảnh 4",
+        "caption": "Niềm vui của anh chị Thanh Hoa – Trung Buti trong ngày cưới.",
+        "id": "media/2021/thanh-hoa-trung-buti/04/original.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/04/thumb.jpg",
+            "width": 360,
+            "height": 480
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/04/medium.jpg",
+            "width": 960,
+            "height": 1280
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/04/original.jpg",
+            "width": 1536,
+            "height": 2048
+          }
+        }
+      },
+      "album": {
+        "manifest": "data/albums/2021/2021-hon-phoi-thu-trang-thanh-hoa.json",
+        "count": 4,
+        "preview": [
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/01/medium.jpg",
+            "alt": "Lễ cưới Thanh Hoa và Trung Buti · ảnh 1",
+            "caption": "Anh chị Thanh Hoa – Trung Buti tiến vào thánh đường trong ngày hôn phối.",
+            "id": "media/2021/thanh-hoa-trung-buti/01/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/01/thumb.jpg",
+                "width": 360,
+                "height": 480
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/01/medium.jpg",
+                "width": 960,
+                "height": 1280
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/01/original.jpg",
+                "width": 1536,
+                "height": 2048
+              }
+            }
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/02/medium.jpg",
+            "alt": "Lễ cưới Thanh Hoa và Trung Buti · ảnh 2",
+            "caption": "Anh chị Thanh Hoa – Trung Buti trước bàn thờ.",
+            "id": "media/2021/thanh-hoa-trung-buti/02/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/02/thumb.jpg",
+                "width": 360,
+                "height": 480
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/02/medium.jpg",
+                "width": 960,
+                "height": 1280
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/02/original.jpg",
+                "width": 1536,
+                "height": 2048
+              }
+            }
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/03/medium.jpg",
+            "alt": "Lễ cưới Thanh Hoa và Trung Buti · ảnh 3",
+            "caption": "Khoảnh khắc cầu nguyện trong lễ cưới Thanh Hoa – Trung Buti.",
+            "id": "media/2021/thanh-hoa-trung-buti/03/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/03/thumb.jpg",
+                "width": 360,
+                "height": 480
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/03/medium.jpg",
+                "width": 960,
+                "height": 1280
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/03/original.jpg",
+                "width": 1536,
+                "height": 2048
+              }
+            }
+          }
+        ]
+      }
     },
     {
       "id": "2021-mot-nam-tam-lang",
@@ -185,10 +379,61 @@
       "topic": "Cộng đoàn",
       "date": "Trong năm",
       "location": "",
-      "title": "Một năm tạm lắng nhưng không đứng lại",
+      "title": "Một năm tạm lắng – nhưng không phải một năm đứng lại",
       "description": "Dịch bệnh khiến ca đoàn gần như không thể duy trì các hoạt động theo nhịp sinh hoạt quen thuộc trong suốt năm 2021.",
-      "body": "Lễ Quan thầy, tĩnh tâm, thiện nguyện, tập hát và phục vụ Thánh lễ nhiều lần phải tạm dừng. Phòng tập thiếu vắng tiếng hát, áo phục vụ được cất đi, các buổi gặp mặt bị hoãn và nhiều kế hoạch phải chờ một thời điểm thích hợp hơn.\n\nKhoảng lặng ấy giúp các thành viên cảm nhận rõ hơn giá trị của tình thân. Ca đoàn không chỉ được tạo nên bởi những buổi tập hay chương trình lớn, mà còn bởi sự hiện diện, sẻ chia và đồng hành giữa mỗi người với nhau.",
-      "images": []
+      "body": "Suốt năm 2021, tình hình dịch bệnh khiến ca đoàn gần như không thể duy trì các hoạt động theo nhịp sinh hoạt quen thuộc. Những chương trình từng được mong chờ hằng năm như lễ Quan thầy, tĩnh tâm, thiện nguyện, tập hát và phục vụ Thánh lễ nhiều lần phải tạm dừng. Có những khoảng thời gian tiếng hát của ca đoàn không vang lên trong những buổi tập quen thuộc. Những chiếc áo phục vụ được cất đi, các buổi gặp mặt phải tạm hoãn và những kế hoạch đang chuẩn bị cũng đành chờ một ngày thích hợp hơn.\n\nNhưng có lẽ chính trong khoảng lặng ấy, các thành viên lại càng cảm nhận rõ hơn giá trị của tình thân. Ca đoàn không chỉ được tạo nên bởi những buổi tập hát hay những chương trình lớn, mà còn bởi sự hiện diện, sẻ chia và đồng hành giữa mỗi người với nhau.",
+      "coverImage": {
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/medium.jpg",
+        "alt": "Ca đoàn phục vụ trong điều kiện phòng dịch năm 2021",
+        "caption": "Khoảnh khắc ca đoàn phục vụ cuối năm với các biện pháp phòng dịch.",
+        "id": "media/2021/hung-uyen/03/original.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/thumb.jpg",
+            "width": 480,
+            "height": 266
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/medium.jpg",
+            "width": 1280,
+            "height": 708
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/original.jpg",
+            "width": 2171,
+            "height": 1201
+          }
+        }
+      },
+      "album": {
+        "manifest": "data/albums/2021/2021-mot-nam-tam-lang.json",
+        "count": 1,
+        "preview": [
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/medium.jpg",
+            "alt": "Ca đoàn phục vụ trong điều kiện phòng dịch năm 2021",
+            "caption": "Khoảnh khắc ca đoàn phục vụ cuối năm với các biện pháp phòng dịch.",
+            "id": "media/2021/hung-uyen/03/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/thumb.jpg",
+                "width": 480,
+                "height": 266
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/medium.jpg",
+                "width": 1280,
+                "height": 708
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/original.jpg",
+                "width": 2171,
+                "height": 1201
+              }
+            }
+          }
+        ]
+      }
     },
     {
       "id": "2021-hon-phoi-hung-uyen",
@@ -198,8 +443,105 @@
       "location": "Giáo xứ Thái Hà",
       "title": "Phục vụ lễ cưới Hùng và Uyên",
       "description": "Ca đoàn phục vụ Thánh lễ hôn phối của anh Hùng và chị Uyên tại Giáo xứ Thái Hà.",
-      "body": "Ngày 29 tháng 12, ca đoàn được hiện diện và phục vụ Thánh lễ hôn phối của anh Hùng và chị Uyên tại Giáo xứ Thái Hà. Đây là một dấu ấn đẹp khép lại năm 2021.\n\nDù không có nhiều chương trình rộn ràng như những năm trước, ca đoàn vẫn tìm được cách ở bên nhau, cùng chia sẻ niềm vui trong cuộc sống của các thành viên và kết thúc một năm nhiều thử thách bằng tiếng hát chúc phúc.",
-      "images": []
+      "body": "Những ngày cuối năm, vào 29 tháng 12 năm 2021, ca đoàn vinh dự được hiện diện và phục vụ Thánh lễ hôn phối của anh chị Hùng – Uyên tại Giáo xứ Thái Hà.\n\nĐây cũng là một trong những dấu ấn đẹp khép lại một năm nhiều thử thách. Không có quá nhiều chương trình, không có những hoạt động rộn ràng như những năm trước, nhưng ca đoàn vẫn tìm được cách để ở bên nhau, cùng chia sẻ những niềm vui trong cuộc sống của mỗi thành viên.",
+      "coverImage": {
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/08/medium.jpg",
+        "alt": "Lễ cưới Hùng và Uyên · ảnh 8",
+        "caption": "Ca đoàn chụp ảnh lưu niệm cùng anh chị Hùng – Uyên và cha chủ tế.",
+        "id": "media/2021/hung-uyen/08/original.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/08/thumb.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/08/medium.jpg",
+            "width": 1280,
+            "height": 719
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/08/original.jpg",
+            "width": 2138,
+            "height": 1201
+          }
+        }
+      },
+      "album": {
+        "manifest": "data/albums/2021/2021-hon-phoi-hung-uyen.json",
+        "count": 8,
+        "preview": [
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/01/medium.jpg",
+            "alt": "Lễ cưới Hùng và Uyên · ảnh 1",
+            "caption": "Anh chị Hùng – Uyên trong ngày hôn phối.",
+            "id": "media/2021/hung-uyen/01/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/01/thumb.jpg",
+                "width": 480,
+                "height": 276
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/01/medium.jpg",
+                "width": 1280,
+                "height": 737
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/01/original.jpg",
+                "width": 2142,
+                "height": 1233
+              }
+            }
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/02/medium.jpg",
+            "alt": "Lễ cưới Hùng và Uyên · ảnh 2",
+            "caption": "Nghi thức hôn phối của anh chị Hùng – Uyên.",
+            "id": "media/2021/hung-uyen/02/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/02/thumb.jpg",
+                "width": 480,
+                "height": 262
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/02/medium.jpg",
+                "width": 1280,
+                "height": 699
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/02/original.jpg",
+                "width": 2176,
+                "height": 1188
+              }
+            }
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/medium.jpg",
+            "alt": "Lễ cưới Hùng và Uyên · ảnh 3",
+            "caption": "Ca đoàn phục vụ Thánh lễ trong điều kiện phòng dịch cuối năm 2021.",
+            "id": "media/2021/hung-uyen/03/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/thumb.jpg",
+                "width": 480,
+                "height": 266
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/medium.jpg",
+                "width": 1280,
+                "height": 708
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/original.jpg",
+                "width": 2171,
+                "height": 1201
+              }
+            }
+          }
+        ]
+      }
     }
   ],
   "achievements": [
@@ -216,7 +558,7 @@
   "emotionJournal": [],
   "yearMark": {
     "title": "Niềm tín thác trong khoảng lặng",
-    "description": "Năm 2021 khép lại trong một khoảng lặng, nhưng niềm tín thác và lòng trung kiên chưa bao giờ ngơi nghỉ. Dù không thể gặp gỡ trực tiếp, sự gắn bó trong Đức Kitô và ánh sáng đức tin vẫn cháy trong mỗi người trẻ xa quê. Từ khoảng lặng ấy, ca đoàn tiếp tục chờ ngày trở lại với phòng tập, Thánh lễ, những chuyến đi và những cuộc gặp gỡ đầy yêu thương.",
+    "description": "Đại dịch COVID-19 bao trùm năm 2021 với nỗi buồn, mất mát và cảm giác bức bối kéo dài. Nhiều chương trình, kế hoạch phải dừng lại; những buổi lễ thiếu vắng tiếng hát và những cuộc gặp gỡ không thể diễn ra. Nhưng giữa “thung lũng tối” ấy, niềm tín thác và lòng trung kiên chưa bao giờ ngơi nghỉ. Khi nhìn lại, các ca viên nhận ra rằng chính trong thử thách, tình yêu càng đậm sâu và những giây phút được tự do cất tiếng hát tôn vinh Chúa nơi cung thánh càng trở nên quý giá. Dù không thể gặp gỡ trực tiếp, lòng gắn bó trong Đức Kitô vẫn không rời xa; dù giãn cách xã hội, ánh sáng đức tin vẫn cháy trong mỗi người trẻ xa quê. Chúa luôn là thành lũy và nơi nương náu vững bền giữa một thế giới chao đảo. Năm 2021 khép lại trong một khoảng lặng, nhưng cũng từ khoảng lặng ấy, Ca đoàn Giới Trẻ Têrêsa tiếp tục chờ đợi ngày trở lại với những buổi tập hát, Thánh lễ, chương trình, chuyến đi và trên hết là những cuộc gặp gỡ đầy yêu thương.",
     "highlight": "40 ca viên · khoảng 15 thành viên tạm nghỉ"
   },
   "gallery": []

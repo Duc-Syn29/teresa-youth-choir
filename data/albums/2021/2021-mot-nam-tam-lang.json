@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "year": 2021,
+  "activityId": "2021-mot-nam-tam-lang",
+  "title": "Một năm tạm lắng nhưng không đứng lại",
+  "count": 1,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/medium.jpg",
+      "alt": "Ca đoàn phục vụ trong điều kiện phòng dịch năm 2021",
+      "caption": "Khoảnh khắc ca đoàn phục vụ cuối năm với các biện pháp phòng dịch.",
+      "id": "media/2021/hung-uyen/03/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/thumb.jpg",
+          "width": 480,
+          "height": 266
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/medium.jpg",
+          "width": 1280,
+          "height": 708
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/original.jpg",
+          "width": 2171,
+          "height": 1201
+        }
+      }
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
 /**
- * Tạo ba biến thể JPEG nhẹ cho ảnh cục bộ đang được dữ liệu JSON tham chiếu.
- * Ảnh gốc vẫn được giữ nguyên như bản lưu trữ; website ưu tiên bản 480/1280/2048.
+ * Tạo hai biến thể JPEG nhẹ cho ảnh cục bộ đang được dữ liệu JSON tham chiếu.
+ * Ảnh gốc được giữ nguyên độ phân giải; website ưu tiên bản 480/1280 khi phù hợp.
  * Mặc định là dry-run. Dùng --write để tạo ảnh và cập nhật JSON.
  */
 import { createRequire } from "node:module";
@@ -71,9 +71,9 @@ async function optimizedMedia(value) {
   const task = (async () => {
     const { width, height } = imageInfo(originalSource);
     return {
-      thumbnail: await variant(originalSource, width, height, 480, "480", 74),
-      medium: await variant(originalSource, width, height, 1280, "1280", 80),
-      original: await variant(originalSource, width, height, 2048, "2048", 84),
+      thumbnail: await variant(originalSource, width, height, 480, "480", 86),
+      medium: await variant(originalSource, width, height, 1280, "1280", 91),
+      original: { src: originalSource, width, height },
     };
   })();
   cache.set(originalSource, task);

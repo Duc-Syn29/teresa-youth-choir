@@ -85,10 +85,21 @@
     return `${sizeAttributes} data-media-src="${escapeHTML(src)}" data-media-variant="${variant}"${srcset ? ` data-media-srcset="${escapeHTML(srcset)}" data-media-sizes="${escapeHTML(sizes)}"` : ""}`;
   }
 
+  function mediaShape(media) {
+    const variants = typeof media === "object" ? media.variants || {} : {};
+    const dimensions = variants.original || variants.medium || media || {};
+    const width = Number(dimensions.width || 0);
+    const height = Number(dimensions.height || 0);
+    if (!width || !height) return "is-landscape";
+    if (height > width * 1.08) return "is-portrait";
+    if (width > height * 1.08) return "is-landscape";
+    return "is-square";
+  }
+
   function photoMarkup(photo, activity, index) {
     const original = source(photo, "original");
     const caption = displayCaption(photo?.caption, activity.title);
-    return `<button class="gallery-item activity-photo reveal" type="button" data-full="${escapeHTML(original)}" data-caption="${escapeHTML(caption)}" aria-label="Mở ảnh ${index + 1}: ${escapeHTML(caption)}"><img ${mediaAttributes(photo)} alt="${escapeHTML(photo?.alt || caption)}" loading="lazy" decoding="async" fetchpriority="low" /><span class="activity-photo-index">${String(index + 1).padStart(2, "0")}</span><span><small>${escapeHTML(activity.topic || activity.type)}</small><strong>${escapeHTML(caption)}</strong></span></button>`;
+    return `<button class="gallery-item activity-photo ${mediaShape(photo)} reveal" type="button" data-full="${escapeHTML(original)}" data-caption="${escapeHTML(caption)}" aria-label="Mở ảnh ${index + 1}: ${escapeHTML(caption)}"><img ${mediaAttributes(photo)} alt="${escapeHTML(photo?.alt || caption)}" loading="lazy" decoding="async" fetchpriority="low" /><span class="activity-photo-index">${String(index + 1).padStart(2, "0")}</span><span><small>${escapeHTML(activity.topic || activity.type)}</small><strong>${escapeHTML(caption)}</strong></span></button>`;
   }
 
   function initProgressiveGallery(photos, activity) {
@@ -199,7 +210,7 @@
       const photoIndex = photoPlan.get(index);
       const photo = photoIndex !== undefined ? photos[photoIndex] : null;
       const caption = photo ? displayCaption(photo.caption, activity.title) : "";
-      return `<section class="activity-story-chapter"><p${index === 0 ? ' class="activity-lead"' : ""}>${escapeHTML(paragraph)}</p>${photo ? `<figure class="activity-story-figure"><button class="activity-story-photo" type="button" data-story-photo="${photoIndex}" aria-label="Mở ảnh: ${escapeHTML(caption)}"><img ${mediaAttributes(photo, "medium", "(max-width:680px) 92vw, 62vw")} alt="${escapeHTML(photo.alt || caption)}" loading="lazy" decoding="async" /><span>${String(photoIndex + 1).padStart(2, "0")} / ${photos.length}</span></button><figcaption>${escapeHTML(caption)}</figcaption></figure>` : ""}</section>`;
+      return `<section class="activity-story-chapter"><p${index === 0 ? ' class="activity-lead"' : ""}>${escapeHTML(paragraph)}</p>${photo ? `<figure class="activity-story-figure"><button class="activity-story-photo ${mediaShape(photo)}" type="button" data-story-photo="${photoIndex}" aria-label="Mở ảnh: ${escapeHTML(caption)}"><img ${mediaAttributes(photo, "medium", "(max-width:680px) 92vw, 62vw")} alt="${escapeHTML(photo.alt || caption)}" loading="lazy" decoding="async" /><span>${String(photoIndex + 1).padStart(2, "0")} / ${photos.length}</span></button><figcaption>${escapeHTML(caption)}</figcaption></figure>` : ""}</section>`;
     }).join("");
   }
 
@@ -292,6 +303,7 @@
       // never replaces paragraphs or shifts the reader's position in the story.
       const photos = deferredAlbum ? (activity.album.preview || []) : await activityPhotos(activity, data);
       const photoCount = deferredAlbum ? Number(activity.album.count || photos.length) : photos.length;
+      const hasPhotos = photoCount > 0;
       const cover = activity.coverImage || activity.album?.preview?.[0] || photos[0] || "";
       const coverImage = source(cover, "original");
       const editorial = editorialVisual(activity.type);
@@ -323,21 +335,21 @@
               <div class="activity-fact"><span>Thời gian</span><strong>${escapeHTML(activity.date)}</strong></div>
               ${activity.location ? `<div class="activity-fact"><span>Địa điểm</span><strong>${escapeHTML(activity.location)}</strong></div>` : ""}
               <div class="activity-fact"><span>Chủ đề</span><strong>${escapeHTML(activity.topic || activity.type)}</strong></div>
-              <div class="activity-fact"><span>Kho ảnh</span><strong data-photo-count>${photoCount ? `${photoCount} khoảnh khắc` : "Đang cập nhật"}</strong></div>
+              ${hasPhotos ? `<div class="activity-fact"><span>Kho ảnh</span><strong data-photo-count>${photoCount} khoảnh khắc</strong></div>` : ""}
             </aside>
             <article class="activity-story reveal">
               <p class="activity-story-kicker">Câu chuyện được lưu lại</p>
               <h2>${escapeHTML(activity.title)}</h2>
-              <div class="activity-prose activity-story-flow">${storyMarkup(activity, photos)}</div>
+              <div class="activity-prose activity-story-flow ${hasPhotos ? "has-story-media" : "no-story-media"}">${storyMarkup(activity, photos)}</div>
             </article>
           </div>
         </section>
-        <section class="activity-gallery-section" aria-labelledby="activity-gallery-title">
+        ${hasPhotos ? `<section class="activity-gallery-section" aria-labelledby="activity-gallery-title">
           <div class="container">
             <div class="activity-section-heading reveal"><div><span>Ảnh — tư liệu</span><strong data-gallery-count>${String(photoCount).padStart(2, "0")}</strong></div><h2 id="activity-gallery-title">Những khoảnh khắc<br /><em>còn ở lại.</em></h2></div>
             <div data-activity-gallery>${deferredAlbum ? '<p class="album-load-status" role="status">Đang tải danh sách ảnh…</p>' : galleryMarkup(photos, activity)}</div>
           </div>
-        </section>
+        </section>` : ""}
         <section class="activity-navigation"><div class="container"><p class="eyebrow">Tiếp tục hành trình ${year}</p><div class="activity-nav-grid">${navigationCard(previous, data, "previous")}${navigationCard(next, data, "next")}</div></div></section>`;
 
       // Nội dung hoạt động không cần chờ ảnh bìa tải và giải mã xong mới xuất

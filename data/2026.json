@@ -10,25 +10,25 @@
     "verse": "Hãy vui mừng luôn mãi, cầu nguyện không ngừng, và tạ ơn trong mọi hoàn cảnh.",
     "longDescription": "Năm 2026, Ca đoàn Giới trẻ Teresa tiếp tục chuyển mình mạnh mẽ: quy tụ thêm đông đảo ca viên, phục vụ nhiều thánh lễ lớn và các giờ chầu. Đêm Hòa Nhạc Phục Sinh Exsultet là một dấu ấn mới, tôn vinh mầu nhiệm Phục Sinh. Niềm vui ấy hòa cùng Đại lễ kỷ niệm 20 năm Gia Đình Công Giáo Xa Quê Hà Nội – mái nhà đã bao bọc và nâng đỡ ca đoàn trên hành trình 11 năm.",
     "coverImage": {
-      "src": "images/hero.jpg",
-      "id": "images/hero.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/archive/hero/medium.jpg",
+      "id": "media/2026/archive/hero/original.jpg",
       "alt": "",
       "caption": "",
       "variants": {
         "thumbnail": {
-          "src": "images/optimized/hero-480.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/archive/hero/thumb.jpg",
           "width": 480,
           "height": 319
         },
         "medium": {
-          "src": "images/optimized/hero-1280.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/archive/hero/medium.jpg",
           "width": 1280,
           "height": 851
         },
         "original": {
-          "src": "images/optimized/hero-2048.jpg",
-          "width": 2048,
-          "height": 1362
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/archive/hero/original.jpg",
+          "width": 2400,
+          "height": 1596
         }
       }
     }
@@ -110,25 +110,25 @@
     {
       "id": "2026-activity-1",
       "coverImage": {
-        "src": "images/hero.jpg",
-        "id": "images/hero.jpg",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/archive/hero/medium.jpg",
+        "id": "media/2026/archive/hero/original.jpg",
         "alt": "",
         "caption": "",
         "variants": {
           "thumbnail": {
-            "src": "images/optimized/hero-480.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/archive/hero/thumb.jpg",
             "width": 480,
             "height": 319
           },
           "medium": {
-            "src": "images/optimized/hero-1280.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/archive/hero/medium.jpg",
             "width": 1280,
             "height": 851
           },
           "original": {
-            "src": "images/optimized/hero-2048.jpg",
-            "width": 2048,
-            "height": 1362
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/archive/hero/original.jpg",
+            "width": 2400,
+            "height": 1596
           }
         }
       },
@@ -163,23 +163,23 @@
     {
       "id": "2026-activity-1786561413635-wqq3s5",
       "coverImage": {
-        "src": "images/uploads/2026/hoa-nhac/1786561398970-lequanthay202011.jpg",
-        "id": "images/uploads/2026/hoa-nhac/1786561398970-lequanthay202011.jpg",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561398970-lequanthay202011/medium.jpg",
+        "id": "media/2026/hoa-nhac/1786561398970-lequanthay202011/original.jpg",
         "alt": "",
         "caption": "",
         "variants": {
           "thumbnail": {
-            "src": "images/optimized/uploads/2026/hoa-nhac/1786561398970-lequanthay202011-480.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561398970-lequanthay202011/thumb.jpg",
             "width": 480,
             "height": 320
           },
           "medium": {
-            "src": "images/optimized/uploads/2026/hoa-nhac/1786561398970-lequanthay202011-1280.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561398970-lequanthay202011/medium.jpg",
             "width": 1280,
             "height": 853
           },
           "original": {
-            "src": "images/uploads/2026/hoa-nhac/1786561398970-lequanthay202011.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561398970-lequanthay202011/original.jpg",
             "width": 2048,
             "height": 1365
           }
@@ -196,71 +196,71 @@
         "count": 9,
         "preview": [
           {
-            "src": "images/uploads/2026/hoa-nhac/1786561398970-lequanthay202011.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561398970-lequanthay202011/medium.jpg",
             "alt": "Ảnh tư liệu Hòa nhạc mừng Mẹ lên trời",
             "caption": "Hòa nhạc mừng Mẹ lên trời",
-            "id": "images/uploads/2026/hoa-nhac/1786561398970-lequanthay202011.jpg",
+            "id": "media/2026/hoa-nhac/1786561398970-lequanthay202011/original.jpg",
             "variants": {
               "thumbnail": {
-                "src": "images/optimized/uploads/2026/hoa-nhac/1786561398970-lequanthay202011-480.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561398970-lequanthay202011/thumb.jpg",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "images/optimized/uploads/2026/hoa-nhac/1786561398970-lequanthay202011-1280.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561398970-lequanthay202011/medium.jpg",
                 "width": 1280,
                 "height": 853
               },
               "original": {
-                "src": "images/uploads/2026/hoa-nhac/1786561398970-lequanthay202011.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561398970-lequanthay202011/original.jpg",
                 "width": 2048,
                 "height": 1365
               }
             }
           },
           {
-            "src": "images/uploads/2026/hoa-nhac/1786561231910-CPS-Media-589.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561231910-cps-media-589/medium.jpg",
             "alt": "Ảnh tư liệu Hòa nhạc mừng Mẹ lên trời",
             "caption": "Hòa nhạc mừng Mẹ lên trời",
-            "id": "images/uploads/2026/hoa-nhac/1786561231910-CPS-Media-589.jpg",
+            "id": "media/2026/hoa-nhac/1786561231910-cps-media-589/original.jpg",
             "variants": {
               "thumbnail": {
-                "src": "images/optimized/uploads/2026/hoa-nhac/1786561231910-CPS-Media-589-480.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561231910-cps-media-589/thumb.jpg",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "images/optimized/uploads/2026/hoa-nhac/1786561231910-CPS-Media-589-1280.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561231910-cps-media-589/medium.jpg",
                 "width": 1280,
                 "height": 853
               },
               "original": {
-                "src": "images/optimized/uploads/2026/hoa-nhac/1786561231910-CPS-Media-589-2048.jpg",
-                "width": 2048,
-                "height": 1365
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561231910-cps-media-589/original.jpg",
+                "width": 3936,
+                "height": 2624
               }
             }
           },
           {
-            "src": "images/uploads/2026/hoa-nhac/1786561256652-CPS-Media-619.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561256652-cps-media-619/medium.jpg",
             "alt": "Ảnh tư liệu Hòa nhạc mừng Mẹ lên trời",
             "caption": "Hòa nhạc mừng Mẹ lên trời",
-            "id": "images/uploads/2026/hoa-nhac/1786561256652-CPS-Media-619.jpg",
+            "id": "media/2026/hoa-nhac/1786561256652-cps-media-619/original.jpg",
             "variants": {
               "thumbnail": {
-                "src": "images/optimized/uploads/2026/hoa-nhac/1786561256652-CPS-Media-619-480.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561256652-cps-media-619/thumb.jpg",
                 "width": 480,
                 "height": 319
               },
               "medium": {
-                "src": "images/optimized/uploads/2026/hoa-nhac/1786561256652-CPS-Media-619-1280.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561256652-cps-media-619/medium.jpg",
                 "width": 1280,
                 "height": 852
               },
               "original": {
-                "src": "images/optimized/uploads/2026/hoa-nhac/1786561256652-CPS-Media-619-2048.jpg",
-                "width": 2048,
-                "height": 1363
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561256652-cps-media-619/original.jpg",
+                "width": 6048,
+                "height": 4024
               }
             }
           }
@@ -280,26 +280,26 @@
   ],
   "gallery": [
     {
-      "src": "images/gallery/phung-vu-2025.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/gallery/phung-vu-2025/medium.jpg",
       "alt": "Ca đoàn trong một thánh lễ",
       "event": "Phụng vụ",
       "caption": "Tiếp nối lời ca",
-      "id": "images/gallery/phung-vu-2025.jpg",
+      "id": "media/2026/gallery/phung-vu-2025/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/gallery/phung-vu-2025/thumb.jpg",
           "width": 480,
           "height": 290
         },
         "medium": {
-          "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/gallery/phung-vu-2025/medium.jpg",
           "width": 1280,
           "height": 773
         },
         "original": {
-          "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
-          "width": 2048,
-          "height": 1237
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/gallery/phung-vu-2025/original.jpg",
+          "width": 2400,
+          "height": 1450
         }
       }
     }
@@ -326,7 +326,7 @@
   },
   "schemaVersion": 3,
   "meta": {
-    "revision": 1,
+    "revision": 2,
     "status": "published",
     "migratedFrom": 1
   },
@@ -335,26 +335,26 @@
     "count": 1,
     "preview": [
       {
-        "src": "images/gallery/phung-vu-2025.jpg",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/gallery/phung-vu-2025/medium.jpg",
         "alt": "Ca đoàn trong một thánh lễ",
         "event": "Phụng vụ",
         "caption": "Tiếp nối lời ca",
-        "id": "images/gallery/phung-vu-2025.jpg",
+        "id": "media/2026/gallery/phung-vu-2025/original.jpg",
         "variants": {
           "thumbnail": {
-            "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/gallery/phung-vu-2025/thumb.jpg",
             "width": 480,
             "height": 290
           },
           "medium": {
-            "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/gallery/phung-vu-2025/medium.jpg",
             "width": 1280,
             "height": 773
           },
           "original": {
-            "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
-            "width": 2048,
-            "height": 1237
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/gallery/phung-vu-2025/original.jpg",
+            "width": 2400,
+            "height": 1450
           }
         }
       }

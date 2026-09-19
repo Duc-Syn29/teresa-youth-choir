@@ -12,7 +12,7 @@ Kho nhật ký số của Ca đoàn Giới trẻ Têrêsa từ năm 2015. Websit
 - `data/index.json`: chỉ mục nhẹ để trang chủ dựng danh sách năm, thống kê và “Nhịp sống Têrêsa” mà không tải từng file năm.
 - `data/{year}.json`: nội dung đầy đủ của một năm, theo `schemaVersion: 3`.
 - `data/albums/{year}/*.json`: manifest album. File năm chỉ giữ số ảnh và ba ảnh xem trước; 100–200 ảnh chỉ được tải khi người xem mở album.
-- `images/optimized/`: biến thể 480/1280/2048 px cho ảnh cục bộ. Ảnh gốc vẫn được giữ như bản lưu trữ.
+- `images/optimized/`: biến thể 480/1280 px cho ảnh cục bộ. Ảnh gốc vẫn được giữ nguyên như bản lưu trữ.
 - Cloudflare R2 `teresa-choir-images`: lưu ảnh tải từ trang quản trị. Worker nhận binding `MEDIA_BUCKET`.
 - GitHub: nguồn xuất bản nội dung JSON. Worker cập nhật file năm và `data/index.json` trong cùng một commit để tránh trạng thái nửa chừng.
 
@@ -46,6 +46,12 @@ node scripts/migrate-data.mjs --write --backup-dir /duong-dan/backup
 
 # Tạo lại biến thể ảnh cục bộ và cập nhật JSON
 npm run optimize:images
+
+# Kiểm tra ảnh cục bộ nào chưa được chuyển sang R2
+npm run sync:r2
+
+# Upload đủ bản gốc/1280/480, kiểm tra URL rồi mới đổi JSON sang R2
+npm run sync:r2:write
 ```
 
 ## Quy trình quản trị an toàn
@@ -64,6 +70,8 @@ Mỗi người trong Ban điều hành là một phần tử độc lập có `i
 
 - Ảnh mới được trình duyệt tạo tuần tự thành ba kích thước để hạn chế tăng RAM trên iPhone.
 - Worker kiểm tra MIME bằng chữ ký file, lưu metadata vào R2 và trả về URL của từng biến thể.
+- Khi thêm ảnh trong trang quản trị, ảnh được upload lên R2 ngay lúc chọn tệp; nếu upload thất bại, ảnh không được thêm vào bản nháp.
+- Nếu chép ảnh trực tiếp vào thư mục dự án, chạy `npm run sync:r2:write` trước khi commit dữ liệu. Lệnh chỉ sửa JSON sau khi mọi object R2 và URL công khai đều được kiểm tra thành công.
 - Trang năm chỉ tải ảnh preview. Dialog album hiển thị 8 ảnh mỗi đợt trên điện thoại và 20 ảnh trên laptop.
 - Trang hoạt động cũng chỉ dựng một đợt ảnh; người xem chủ động bấm “Xem thêm”.
 - Hoạt động chưa có ảnh vẫn giữ nguyên toàn bộ bài viết và dùng bìa biên tập theo chủ đề.

@@ -6,209 +6,209 @@
   "count": 9,
   "images": [
     {
-      "src": "images/uploads/2026/hoa-nhac/1786561231910-CPS-Media-589.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561231910-cps-media-589/medium.jpg",
       "alt": "Ảnh tư liệu Hòa nhạc mừng Mẹ lên trời",
       "caption": "Hòa nhạc mừng Mẹ lên trời · ảnh 1",
-      "id": "images/uploads/2026/hoa-nhac/1786561231910-CPS-Media-589.jpg",
+      "id": "media/2026/hoa-nhac/1786561231910-cps-media-589/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "images/optimized/uploads/2026/hoa-nhac/1786561231910-CPS-Media-589-480.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561231910-cps-media-589/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "images/optimized/uploads/2026/hoa-nhac/1786561231910-CPS-Media-589-1280.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561231910-cps-media-589/medium.jpg",
           "width": 1280,
           "height": 853
         },
         "original": {
-          "src": "images/optimized/uploads/2026/hoa-nhac/1786561231910-CPS-Media-589-2048.jpg",
-          "width": 2048,
-          "height": 1365
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561231910-cps-media-589/original.jpg",
+          "width": 3936,
+          "height": 2624
         }
       }
     },
     {
-      "src": "images/uploads/2026/hoa-nhac/1786561256652-CPS-Media-619.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561256652-cps-media-619/medium.jpg",
       "alt": "Ảnh tư liệu Hòa nhạc mừng Mẹ lên trời",
       "caption": "Hòa nhạc mừng Mẹ lên trời · ảnh 2",
-      "id": "images/uploads/2026/hoa-nhac/1786561256652-CPS-Media-619.jpg",
+      "id": "media/2026/hoa-nhac/1786561256652-cps-media-619/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "images/optimized/uploads/2026/hoa-nhac/1786561256652-CPS-Media-619-480.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561256652-cps-media-619/thumb.jpg",
           "width": 480,
           "height": 319
         },
         "medium": {
-          "src": "images/optimized/uploads/2026/hoa-nhac/1786561256652-CPS-Media-619-1280.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561256652-cps-media-619/medium.jpg",
           "width": 1280,
           "height": 852
         },
         "original": {
-          "src": "images/optimized/uploads/2026/hoa-nhac/1786561256652-CPS-Media-619-2048.jpg",
-          "width": 2048,
-          "height": 1363
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561256652-cps-media-619/original.jpg",
+          "width": 6048,
+          "height": 4024
         }
       }
     },
     {
-      "src": "images/uploads/2026/hoa-nhac/1786561282720-lequanthay202021.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561282720-lequanthay202021/medium.jpg",
       "alt": "Ảnh tư liệu Hòa nhạc mừng Mẹ lên trời",
       "caption": "Hòa nhạc mừng Mẹ lên trời · ảnh 3",
-      "id": "images/uploads/2026/hoa-nhac/1786561282720-lequanthay202021.jpg",
+      "id": "media/2026/hoa-nhac/1786561282720-lequanthay202021/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "images/optimized/uploads/2026/hoa-nhac/1786561282720-lequanthay202021-480.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561282720-lequanthay202021/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "images/uploads/2026/hoa-nhac/1786561282720-lequanthay202021.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561282720-lequanthay202021/medium.jpg",
           "width": 1024,
           "height": 683
         },
         "original": {
-          "src": "images/uploads/2026/hoa-nhac/1786561282720-lequanthay202021.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561282720-lequanthay202021/original.jpg",
           "width": 1024,
           "height": 683
         }
       }
     },
     {
-      "src": "images/uploads/2026/hoa-nhac/1786561311059-lequanthay20203.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561311059-lequanthay20203/medium.jpg",
       "alt": "Ảnh tư liệu Hòa nhạc mừng Mẹ lên trời",
       "caption": "Hòa nhạc mừng Mẹ lên trời · ảnh 4",
-      "id": "images/uploads/2026/hoa-nhac/1786561311059-lequanthay20203.jpg",
+      "id": "media/2026/hoa-nhac/1786561311059-lequanthay20203/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "images/optimized/uploads/2026/hoa-nhac/1786561311059-lequanthay20203-480.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561311059-lequanthay20203/thumb.jpg",
           "width": 480,
           "height": 233
         },
         "medium": {
-          "src": "images/optimized/uploads/2026/hoa-nhac/1786561311059-lequanthay20203-1280.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561311059-lequanthay20203/medium.jpg",
           "width": 1280,
           "height": 623
         },
         "original": {
-          "src": "images/uploads/2026/hoa-nhac/1786561311059-lequanthay20203.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561311059-lequanthay20203/original.jpg",
           "width": 2048,
           "height": 996
         }
       }
     },
     {
-      "src": "images/uploads/2026/hoa-nhac/1786561311327-lequanthay20207.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561311327-lequanthay20207/medium.jpg",
       "alt": "Ảnh tư liệu Hòa nhạc mừng Mẹ lên trời",
       "caption": "Hòa nhạc mừng Mẹ lên trời · ảnh 5",
-      "id": "images/uploads/2026/hoa-nhac/1786561311327-lequanthay20207.jpg",
+      "id": "media/2026/hoa-nhac/1786561311327-lequanthay20207/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "images/optimized/uploads/2026/hoa-nhac/1786561311327-lequanthay20207-480.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561311327-lequanthay20207/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "images/optimized/uploads/2026/hoa-nhac/1786561311327-lequanthay20207-1280.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561311327-lequanthay20207/medium.jpg",
           "width": 1280,
           "height": 853
         },
         "original": {
-          "src": "images/uploads/2026/hoa-nhac/1786561311327-lequanthay20207.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561311327-lequanthay20207/original.jpg",
           "width": 2048,
           "height": 1365
         }
       }
     },
     {
-      "src": "images/uploads/2026/hoa-nhac/1786561398970-lequanthay202011.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561398970-lequanthay202011/medium.jpg",
       "alt": "Ảnh tư liệu Hòa nhạc mừng Mẹ lên trời",
       "caption": "Hòa nhạc mừng Mẹ lên trời · ảnh 6",
-      "id": "images/uploads/2026/hoa-nhac/1786561398970-lequanthay202011.jpg",
+      "id": "media/2026/hoa-nhac/1786561398970-lequanthay202011/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "images/optimized/uploads/2026/hoa-nhac/1786561398970-lequanthay202011-480.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561398970-lequanthay202011/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "images/optimized/uploads/2026/hoa-nhac/1786561398970-lequanthay202011-1280.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561398970-lequanthay202011/medium.jpg",
           "width": 1280,
           "height": 853
         },
         "original": {
-          "src": "images/uploads/2026/hoa-nhac/1786561398970-lequanthay202011.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561398970-lequanthay202011/original.jpg",
           "width": 2048,
           "height": 1365
         }
       }
     },
     {
-      "src": "images/uploads/2026/hoa-nhac/1786562610768-CPS-Media-90.jpg.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786562610768-cps-media-90-jpg/medium.jpg",
       "alt": "Ảnh tư liệu Hòa nhạc mừng Mẹ lên trời",
       "caption": "Hòa nhạc mừng Mẹ lên trời · ảnh 7",
-      "id": "images/uploads/2026/hoa-nhac/1786562610768-CPS-Media-90.jpg.jpg",
+      "id": "media/2026/hoa-nhac/1786562610768-cps-media-90-jpg/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "images/optimized/uploads/2026/hoa-nhac/1786562610768-CPS-Media-90.jpg-480.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786562610768-cps-media-90-jpg/thumb.jpg",
           "width": 480,
           "height": 319
         },
         "medium": {
-          "src": "images/optimized/uploads/2026/hoa-nhac/1786562610768-CPS-Media-90.jpg-1280.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786562610768-cps-media-90-jpg/medium.jpg",
           "width": 1280,
           "height": 852
         },
         "original": {
-          "src": "images/optimized/uploads/2026/hoa-nhac/1786562610768-CPS-Media-90.jpg-2048.jpg",
-          "width": 2048,
-          "height": 1362
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786562610768-cps-media-90-jpg/original.jpg",
+          "width": 2560,
+          "height": 1703
         }
       }
     },
     {
-      "src": "images/uploads/2026/hoa-nhac/1786562613171-CPS-Media-91.jpg.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786562613171-cps-media-91-jpg/medium.jpg",
       "alt": "Ảnh tư liệu Hòa nhạc mừng Mẹ lên trời",
       "caption": "Hòa nhạc mừng Mẹ lên trời · ảnh 8",
-      "id": "images/uploads/2026/hoa-nhac/1786562613171-CPS-Media-91.jpg.jpg",
+      "id": "media/2026/hoa-nhac/1786562613171-cps-media-91-jpg/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "images/optimized/uploads/2026/hoa-nhac/1786562613171-CPS-Media-91.jpg-480.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786562613171-cps-media-91-jpg/thumb.jpg",
           "width": 480,
           "height": 319
         },
         "medium": {
-          "src": "images/optimized/uploads/2026/hoa-nhac/1786562613171-CPS-Media-91.jpg-1280.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786562613171-cps-media-91-jpg/medium.jpg",
           "width": 1280,
           "height": 852
         },
         "original": {
-          "src": "images/optimized/uploads/2026/hoa-nhac/1786562613171-CPS-Media-91.jpg-2048.jpg",
-          "width": 2048,
-          "height": 1362
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786562613171-cps-media-91-jpg/original.jpg",
+          "width": 2560,
+          "height": 1703
         }
       }
     },
     {
-      "src": "images/uploads/2026/hoa-nhac/1786562614647-CPS-Media-89.jpg.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786562614647-cps-media-89-jpg/medium.jpg",
       "alt": "Ảnh tư liệu Hòa nhạc mừng Mẹ lên trời",
       "caption": "Hòa nhạc mừng Mẹ lên trời · ảnh 9",
-      "id": "images/uploads/2026/hoa-nhac/1786562614647-CPS-Media-89.jpg.jpg",
+      "id": "media/2026/hoa-nhac/1786562614647-cps-media-89-jpg/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "images/optimized/uploads/2026/hoa-nhac/1786562614647-CPS-Media-89.jpg-480.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786562614647-cps-media-89-jpg/thumb.jpg",
           "width": 480,
           "height": 319
         },
         "medium": {
-          "src": "images/optimized/uploads/2026/hoa-nhac/1786562614647-CPS-Media-89.jpg-1280.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786562614647-cps-media-89-jpg/medium.jpg",
           "width": 1280,
           "height": 852
         },
         "original": {
-          "src": "images/optimized/uploads/2026/hoa-nhac/1786562614647-CPS-Media-89.jpg-2048.jpg",
-          "width": 2048,
-          "height": 1362
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786562614647-cps-media-89-jpg/original.jpg",
+          "width": 2560,
+          "height": 1703
         }
       }
     }

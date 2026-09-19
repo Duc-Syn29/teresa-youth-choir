@@ -4,3 +4,7 @@ node_modules/
 .dev.vars
 .migration-backups/
 npm-debug.log*
+
+# Ảnh nhật ký được lưu trên Cloudflare R2; giữ bản cục bộ ngoài Git.
+images/journal/
+images/optimized/journal/

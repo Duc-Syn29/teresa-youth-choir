@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "year": 2021,
+  "activityId": "2021-hon-phoi-thu-trang-thanh-hoa",
+  "title": "Lễ cưới Thu Trang – Thanh Nguyễn và Thanh Hoa – Trung Buti",
+  "count": 4,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/01/medium.jpg",
+      "alt": "Lễ cưới Thanh Hoa và Trung Buti · ảnh 1",
+      "caption": "Anh chị Thanh Hoa – Trung Buti tiến vào thánh đường trong ngày hôn phối.",
+      "id": "media/2021/thanh-hoa-trung-buti/01/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/01/thumb.jpg",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/01/medium.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/01/original.jpg",
+          "width": 1536,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/02/medium.jpg",
+      "alt": "Lễ cưới Thanh Hoa và Trung Buti · ảnh 2",
+      "caption": "Anh chị Thanh Hoa – Trung Buti trước bàn thờ.",
+      "id": "media/2021/thanh-hoa-trung-buti/02/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/02/thumb.jpg",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/02/medium.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/02/original.jpg",
+          "width": 1536,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/03/medium.jpg",
+      "alt": "Lễ cưới Thanh Hoa và Trung Buti · ảnh 3",
+      "caption": "Khoảnh khắc cầu nguyện trong lễ cưới Thanh Hoa – Trung Buti.",
+      "id": "media/2021/thanh-hoa-trung-buti/03/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/03/thumb.jpg",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/03/medium.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/03/original.jpg",
+          "width": 1536,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/04/medium.jpg",
+      "alt": "Lễ cưới Thanh Hoa và Trung Buti · ảnh 4",
+      "caption": "Niềm vui của anh chị Thanh Hoa – Trung Buti trong ngày cưới.",
+      "id": "media/2021/thanh-hoa-trung-buti/04/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/04/thumb.jpg",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/04/medium.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/04/original.jpg",
+          "width": 1536,
+          "height": 2048
+        }
+      }
+    }
+  ]
+}

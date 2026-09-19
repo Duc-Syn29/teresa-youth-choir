@@ -1,0 +1,630 @@
+{
+  "schemaVersion": 1,
+  "year": 2022,
+  "activityId": "2022-quan-thay-lan-thu-7",
+  "title": "Mừng lễ Quan thầy sau đại dịch",
+  "count": 27,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/01/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 1",
+      "caption": "Ca viên tiến lên cung thánh trong lễ Quan thầy tại Đền Giêrađô.",
+      "id": "media/2022/quan-thay/01/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/01/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/01/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/01/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/02/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 2",
+      "caption": "Nghi thức phụng vụ trong Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu.",
+      "id": "media/2022/quan-thay/02/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/02/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/02/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/02/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/03/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 3",
+      "caption": "Ca đoàn sốt sắng tham dự Thánh lễ Quan thầy.",
+      "id": "media/2022/quan-thay/03/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/03/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/03/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/03/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/04/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 4",
+      "caption": "Khoảnh khắc cầu nguyện trong ngày lễ bổn mạng.",
+      "id": "media/2022/quan-thay/04/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/04/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/04/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/04/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/05/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 5",
+      "caption": "Ca viên phục vụ phụng vụ trong Thánh lễ Quan thầy.",
+      "id": "media/2022/quan-thay/05/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/05/thumb.jpg",
+          "width": 319,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/05/medium.jpg",
+          "width": 852,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/05/original.jpg",
+          "width": 4024,
+          "height": 6048
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/06/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 6",
+      "caption": "Ca đoàn cùng quý cha hiệp dâng Thánh lễ tạ ơn.",
+      "id": "media/2022/quan-thay/06/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/06/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/06/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/06/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/07/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 7",
+      "caption": "Lời ca dâng lên trong ngày mừng kính Thánh Têrêsa.",
+      "id": "media/2022/quan-thay/07/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/07/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/07/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/07/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/08/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 8",
+      "caption": "Ca viên tham dự Thánh lễ Quan thầy lần thứ 7.",
+      "id": "media/2022/quan-thay/08/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/08/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/08/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/08/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/09/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 9",
+      "caption": "Khoảnh khắc trang nghiêm tại Đền Giêrađô.",
+      "id": "media/2022/quan-thay/09/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/09/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/09/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/09/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/10/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 10",
+      "caption": "Cộng đoàn hiệp thông trong Thánh lễ Quan thầy.",
+      "id": "media/2022/quan-thay/10/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/10/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/10/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/10/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/11/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 11",
+      "caption": "Ca đoàn phục vụ phụng vụ sau thời gian gián đoạn vì đại dịch.",
+      "id": "media/2022/quan-thay/11/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/11/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/11/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/11/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/12/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 12",
+      "caption": "Niềm vui gặp lại trong ngày lễ bổn mạng của ca đoàn.",
+      "id": "media/2022/quan-thay/12/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/12/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/12/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/12/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/13/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 13",
+      "caption": "Một ca viên trong giờ cầu nguyện tại Đền Giêrađô.",
+      "id": "media/2022/quan-thay/13/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/13/thumb.jpg",
+          "width": 319,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/13/medium.jpg",
+          "width": 852,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/13/original.jpg",
+          "width": 4024,
+          "height": 6048
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/14/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 14",
+      "caption": "Ca đoàn cất tiếng hát mừng Thánh Têrêsa Hài Đồng Giêsu.",
+      "id": "media/2022/quan-thay/14/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/14/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/14/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/14/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/15/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 15",
+      "caption": "Thánh lễ tạ ơn được cử hành trong bầu khí trang nghiêm.",
+      "id": "media/2022/quan-thay/15/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/15/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/15/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/15/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/16/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 16",
+      "caption": "Các ca viên hiệp lời cầu nguyện trong ngày Quan thầy.",
+      "id": "media/2022/quan-thay/16/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/16/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/16/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/16/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/17/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 17",
+      "caption": "Ca đoàn cùng quý cha cất lời ca tạ ơn.",
+      "id": "media/2022/quan-thay/17/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/17/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/17/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/17/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/18/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 18",
+      "caption": "Khoảnh khắc phục vụ thánh ca trong Thánh lễ.",
+      "id": "media/2022/quan-thay/18/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/18/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/18/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/18/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/19/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 19",
+      "caption": "Các ca viên gặp gỡ sau Thánh lễ Quan thầy.",
+      "id": "media/2022/quan-thay/19/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/19/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/19/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/19/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/20/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 20",
+      "caption": "Niềm vui đoàn tụ của các thành viên ca đoàn.",
+      "id": "media/2022/quan-thay/20/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/20/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/20/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/20/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/21/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 21",
+      "caption": "Ca đoàn lưu lại những khoảnh khắc thân tình tại Đền Giêrađô.",
+      "id": "media/2022/quan-thay/21/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/21/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/21/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/21/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/22/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 22",
+      "caption": "Các thành viên chung vui trong ngày lễ bổn mạng.",
+      "id": "media/2022/quan-thay/22/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/22/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/22/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/22/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/23/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 23",
+      "caption": "Tình huynh đệ được nối lại sau hai năm đại dịch.",
+      "id": "media/2022/quan-thay/23/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/23/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/23/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/23/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/24/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 24",
+      "caption": "Ca đoàn phục vụ Thánh lễ mừng Quan thầy lần thứ 7.",
+      "id": "media/2022/quan-thay/24/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/24/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/24/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/24/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/25/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 25",
+      "caption": "Quý cha và ca đoàn trong ngày mừng bổn mạng.",
+      "id": "media/2022/quan-thay/25/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/25/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/25/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/25/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/26/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 26",
+      "caption": "Các ca viên cùng nhau cất tiếng hát tạ ơn.",
+      "id": "media/2022/quan-thay/26/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/26/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/26/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/26/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/medium.jpg",
+      "alt": "Mừng lễ Quan thầy sau đại dịch · ảnh 27",
+      "caption": "Ca đoàn chụp ảnh lưu niệm cùng quý cha sau Thánh lễ.",
+      "id": "media/2022/quan-thay/27/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/original.jpg",
+          "width": 6048,
+          "height": 4024
+        }
+      }
+    }
+  ]
+}

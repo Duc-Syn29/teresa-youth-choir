@@ -6,7 +6,7 @@
     "secondary": "#b9d9d5"
   },
   "meta": {
-    "revision": 5,
+    "revision": 6,
     "status": "published",
     "migratedFrom": 1,
     "journalCredit": "Anna Nguyễn Thị Quyên",
@@ -21,25 +21,25 @@
     "verse": "Hãy hát mừng Chúa một bài ca mới, vì Người đã thực hiện bao kỳ công. (Tv 98,1)",
     "longDescription": "Những ngày đầu năm mở ra với Thánh lễ Khai Xuân Giới Trẻ Thừa Sai và lễ hôn phối của anh trưởng Giuse Phạm Văn Tĩnh cùng chị Maria Nguyễn Thị Mơ. Đầu tháng 3, ca trưởng Maria Vũ Thị Mai, thường gọi Ban Mai, mang đến luồng sinh khí mới cho đời sống chuyên môn, thu hút ca viên cũ trở lại và chào đón nhiều gương mặt mới. Sức sống ấy được nối dài qua chuyến tĩnh tâm “Dấn Thân Trong Niềm Tin” tại Cô Tô, Thánh lễ tĩnh tâm ở Thanh Minh, lễ Quan thầy lần thứ 8, Đại lễ Di Dân 2023 và lễ hôn phối của Maria Vân Anh. Năm khép lại bằng chương trình “Hơi ấm nơi rẻo cao”, mang 115 phần quà tới hai bản vùng cao của tỉnh Cao Bằng.",
     "coverImage": {
-      "src": "images/hero.jpg",
-      "id": "images/hero.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/archive/hero/medium.jpg",
+      "id": "media/2023/archive/hero/original.jpg",
       "alt": "",
       "caption": "",
       "variants": {
         "thumbnail": {
-          "src": "images/optimized/hero-480.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/archive/hero/thumb.jpg",
           "width": 480,
           "height": 319
         },
         "medium": {
-          "src": "images/optimized/hero-1280.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/archive/hero/medium.jpg",
           "width": 1280,
           "height": 851
         },
         "original": {
-          "src": "images/optimized/hero-2048.jpg",
-          "width": 2048,
-          "height": 1362
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/archive/hero/original.jpg",
+          "width": 2400,
+          "height": 1596
         }
       }
     }

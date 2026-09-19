@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "year": 2021,
+  "activityId": "2021-hon-phoi-duc-chinh-anh-nguyet",
+  "title": "Mừng lễ cưới Đức Chính và Ánh Nguyệt",
+  "count": 6,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/01/medium.jpg",
+      "alt": "Lễ cưới Đức Chính và Ánh Nguyệt · ảnh 1",
+      "caption": "Anh chị Đức Chính – Ánh Nguyệt lưu giữ kỷ niệm cùng cha và quý sơ.",
+      "id": "media/2021/duc-chinh-anh-nguyet/01/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/01/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/01/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/01/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/medium.jpg",
+      "alt": "Lễ cưới Đức Chính và Ánh Nguyệt · ảnh 2",
+      "caption": "Anh chị Đức Chính – Ánh Nguyệt trong ngày hôn phối.",
+      "id": "media/2021/duc-chinh-anh-nguyet/02/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/03/medium.jpg",
+      "alt": "Lễ cưới Đức Chính và Ánh Nguyệt · ảnh 3",
+      "caption": "Khoảnh khắc cầu nguyện trong Thánh lễ hôn phối.",
+      "id": "media/2021/duc-chinh-anh-nguyet/03/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/03/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/03/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/03/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/04/medium.jpg",
+      "alt": "Lễ cưới Đức Chính và Ánh Nguyệt · ảnh 4",
+      "caption": "Thánh lễ hôn phối của anh chị Đức Chính – Ánh Nguyệt.",
+      "id": "media/2021/duc-chinh-anh-nguyet/04/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/04/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/04/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/04/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/05/medium.jpg",
+      "alt": "Lễ cưới Đức Chính và Ánh Nguyệt · ảnh 5",
+      "caption": "Anh chị Đức Chính – Ánh Nguyệt cùng thắp nến trong Thánh lễ.",
+      "id": "media/2021/duc-chinh-anh-nguyet/05/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/05/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/05/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/05/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/06/medium.jpg",
+      "alt": "Lễ cưới Đức Chính và Ánh Nguyệt · ảnh 6",
+      "caption": "Anh chị Đức Chính – Ánh Nguyệt cầu nguyện trước bàn thờ.",
+      "id": "media/2021/duc-chinh-anh-nguyet/06/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/06/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/06/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/06/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
+    }
+  ]
+}

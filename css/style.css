@@ -1194,6 +1194,9 @@ img[data-media-src] { transition: opacity .35s ease; }
 .activity-photo:nth-child(5n+2), .activity-photo:nth-child(5n+4) { aspect-ratio: 4 / 5; }
 .activity-photo:first-child { display: block; column-span: all; width: 100%; aspect-ratio: 16 / 7; }
 .activity-story-flow { display: grid; gap: clamp(2rem,5vw,4rem); }
+.activity-story-flow.no-story-media { gap: .4rem; }
+.activity-story-flow.no-story-media .activity-story-chapter { gap: 0; }
+.activity-story-flow.no-story-media p { margin-bottom: 1.25rem; }
 .activity-story-chapter { display: grid; gap: 1.4rem; }
 .activity-story-figure { display: grid; gap: .7rem; margin: .5rem 0 0; }
 .activity-story-photo { position: relative; width: 100%; padding: 0; overflow: hidden; border: 0; border-radius: 1.4rem; background: var(--teal-100); cursor: zoom-in; aspect-ratio: 16 / 10; }
@@ -1500,4 +1503,59 @@ img[data-media-src] { transition: opacity .35s ease; }
   .year-album-controls input, .year-album-controls select { font-size: 1rem; }
   .gallery-load-more, .year-album-controls select { min-height: 2.75rem; }
   .reveal { transition-duration: .28s; }
+}
+
+/* Ảnh tư liệu giữ nguyên tỷ lệ để không cắt khuôn mặt hay nội dung ở mép ảnh. */
+.activity-story-photo {
+  display: block;
+  height: auto;
+  aspect-ratio: auto;
+  background: #e6f7fb;
+}
+.activity-story-photo.is-portrait {
+  width: min(100%, 40rem);
+  margin-inline: auto;
+}
+.activity-story-photo img,
+.activity-gallery .activity-photo img,
+.album-dialog-grid .gallery-item img {
+  width: 100%;
+  height: auto;
+  max-height: none;
+  object-fit: contain;
+  object-position: center;
+  transform: none;
+}
+.activity-story-photo:hover img,
+.activity-gallery .activity-photo:hover img,
+.album-dialog-grid .gallery-item:hover img {
+  transform: none;
+}
+.activity-gallery .activity-photo,
+.activity-gallery .activity-photo:nth-child(n),
+.album-dialog-grid .gallery-item,
+.album-dialog-grid .gallery-item:nth-child(n) {
+  width: 100%;
+  height: auto;
+  min-height: 0;
+  max-height: none;
+  aspect-ratio: auto;
+  background: #e6f7fb;
+}
+.activity-gallery .activity-photo:first-child,
+.album-dialog-grid .gallery-item:first-child {
+  column-span: none;
+  grid-column: auto;
+  aspect-ratio: auto;
+}
+
+@media (max-width: 680px) {
+  .activity-story-photo.is-portrait { width: 100%; }
+  .activity-gallery,
+  .album-dialog-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    columns: auto;
+    gap: .8rem;
+  }
 }

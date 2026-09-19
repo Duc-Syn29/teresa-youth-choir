@@ -6,13 +6,13 @@
     "secondary": "#bfe7ee"
   },
   "meta": {
-    "revision": 5,
+    "revision": 7,
     "status": "published",
     "migratedFrom": 1,
     "journalCredit": "Petrus Đỗ Tiến Hạng",
     "journalWrittenAt": "2026-09-13",
     "sourceDocument": "Nhật ký 2022 TYC.docx",
-    "sourceDocumentSha256": "eb7323f359e46999ab058237e2892071304250a1e5833fbecda2e890e2681070"
+    "sourceDocumentSha256": "7c50f3abe3a45cc018bfdadeac772c3f89bb80216bd312152a654f94c57670a0"
   },
   "overview": {
     "eyebrow": "Trở lại · Gặp gỡ · Phục vụ",
@@ -21,25 +21,25 @@
     "verse": "Hãy vui mừng trong niềm hy vọng, kiên nhẫn lúc gian truân và chuyên cần cầu nguyện. (Rm 12,12)",
     "longDescription": "Sau gần hai năm chịu ảnh hưởng nặng nề bởi đại dịch COVID-19, năm 2022 đánh dấu bước chuyển mình quan trọng của Ca đoàn Giới Trẻ Têrêsa. Khi cuộc sống dần trở lại bình thường, tiếng hát lại vang lên trong phòng tập, các thành viên có cơ hội gặp gỡ và những hoạt động còn dang dở được nối lại. Quân số giảm do một số anh chị em trở về quê, thay đổi công việc hoặc chuyển nơi sinh sống, nhưng những người ở lại càng ý thức hơn về tình hiệp nhất và trách nhiệm với cộng đoàn. Đây là một năm của sự trở lại, gặp gỡ và niềm vui tiếp tục cất tiếng hát phụng sự Chúa.",
     "coverImage": {
-      "src": "images/hero.jpg",
-      "id": "images/hero.jpg",
-      "alt": "",
-      "caption": "",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/medium.jpg",
+      "id": "media/2022/quan-thay/27/original.jpg",
+      "alt": "Ca đoàn chụp ảnh lưu niệm cùng quý cha sau lễ Quan thầy năm 2022",
+      "caption": "Ca đoàn chụp ảnh lưu niệm cùng quý cha sau Thánh lễ Quan thầy.",
       "variants": {
         "thumbnail": {
-          "src": "images/optimized/hero-480.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/thumb.jpg",
           "width": 480,
           "height": 319
         },
         "medium": {
-          "src": "images/optimized/hero-1280.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/medium.jpg",
           "width": 1280,
-          "height": 851
+          "height": 852
         },
         "original": {
-          "src": "images/optimized/hero-2048.jpg",
-          "width": 2048,
-          "height": 1362
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/original.jpg",
+          "width": 6048,
+          "height": 4024
         }
       }
     }
@@ -183,7 +183,104 @@
       "title": "Tĩnh tâm “Lên Núi Với Đức Kitô”",
       "description": "Ca đoàn tĩnh tâm tại Tam Đảo với chủ đề “Lên Núi Với Đức Kitô”, hướng đến lễ Quan thầy kỷ niệm 7 năm thành lập.",
       "body": "Ngày 17 tháng 9, các ca viên tạm gác lại bộn bề để trở về với đời sống cầu nguyện, nhìn lại hành trình phục vụ và chuẩn bị tâm hồn cho lễ Quan thầy. Cha phó đặc trách Giuse Trần Hữu Hoan đồng hành, chia sẻ tĩnh tâm và dâng Thánh lễ tại Giáo xứ Tam Đảo. Giữa không gian núi rừng, mọi người cùng cầu nguyện, suy niệm, chia sẻ và làm mới đời sống đức tin.\n\nTrong chuyến đi này, ca đoàn thực hiện MV “Nụ Hoa Têrêsa”. Những giai điệu và hình ảnh được ghi lại giữa thiên nhiên trở thành kỷ niệm về sự trở lại, đồng thời thể hiện mong muốn lan tỏa hình ảnh và tinh thần của Thánh Têrêsa Hài Đồng Giêsu.",
-      "images": []
+      "coverImage": {
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/09/medium.jpg",
+        "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Tam Đảo",
+        "caption": "Ca đoàn lưu ảnh chung trong ngày tĩnh tâm “Lên Núi Với Đức Kitô”.",
+        "id": "media/2022/tinh-tam-tam-dao/09/original.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/09/thumb.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/09/medium.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/09/original.jpg",
+            "width": 2568,
+            "height": 1444
+          }
+        }
+      },
+      "album": {
+        "manifest": "data/albums/2022/2022-tinh-tam-tam-dao.json",
+        "count": 10,
+        "preview": [
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/09/medium.jpg",
+            "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Tam Đảo",
+            "caption": "Ca đoàn lưu ảnh chung trong ngày tĩnh tâm “Lên Núi Với Đức Kitô”.",
+            "id": "media/2022/tinh-tam-tam-dao/09/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/09/thumb.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/09/medium.jpg",
+                "width": 1280,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/09/original.jpg",
+                "width": 2568,
+                "height": 1444
+              }
+            }
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/05/medium.jpg",
+            "alt": "Ca đoàn hiệp dâng Thánh lễ tại Giáo xứ Tam Đảo",
+            "caption": "Ca đoàn hiệp dâng Thánh lễ trong ngày tĩnh tâm.",
+            "id": "media/2022/tinh-tam-tam-dao/05/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/05/thumb.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/05/medium.jpg",
+                "width": 1280,
+                "height": 719
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/05/original.jpg",
+                "width": 2562,
+                "height": 1440
+              }
+            }
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/10/medium.jpg",
+            "alt": "Ca đoàn quay MV Nụ Hoa Têrêsa",
+            "caption": "Một cảnh quay MV “Nụ Hoa Têrêsa” trong nhà thờ.",
+            "id": "media/2022/tinh-tam-tam-dao/10/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/10/thumb.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/10/medium.jpg",
+                "width": 1280,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/10/original.jpg",
+                "width": 2568,
+                "height": 1444
+              }
+            }
+          }
+        ]
+      }
     },
     {
       "id": "2022-khai-mac-dai-le-di-dan",
@@ -194,7 +291,104 @@
       "title": "Phục vụ khai mạc Đại lễ Di Dân",
       "description": "Ca đoàn cùng Ca đoàn Monica và Ca đoàn Latin phục vụ Thánh lễ khai mạc Đại lễ Di Dân.",
       "body": "Ngày 5 tháng 10, ca đoàn cộng tác cùng Ca đoàn Monica, Ca đoàn Latin và nhiều cộng đoàn, ban ngành trong chương trình đại lễ của Gia đình Công giáo Xa quê Hà Nội. Đây là một trong những hoạt động phục vụ nổi bật của năm.\n\nMở đầu đêm hoan ca, ca đoàn phối hợp với Ban Kèn và Ban Trống Xa quê trình bày tiết mục hòa phối “Tiếng Nhạc Oai Hùng”. Sự kết hợp giữa tiếng hát và nhạc cụ tạo nên một tiết mục sôi động, trang trọng cho đêm khai mạc.",
-      "images": []
+      "coverImage": {
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/13/medium.jpg",
+        "alt": "Ca đoàn cùng các ban phục vụ trong Đại lễ Di Dân 2022",
+        "caption": "Ca đoàn cùng các ban phục vụ khép lại tiết mục khai mạc.",
+        "id": "media/2022/dai-le-di-dan/13/original.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/13/thumb.jpg",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/13/medium.jpg",
+            "width": 1280,
+            "height": 854
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/13/original.jpg",
+            "width": 2048,
+            "height": 1366
+          }
+        }
+      },
+      "album": {
+        "manifest": "data/albums/2022/2022-khai-mac-dai-le-di-dan.json",
+        "count": 13,
+        "preview": [
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/13/medium.jpg",
+            "alt": "Ca đoàn cùng các ban phục vụ trong Đại lễ Di Dân 2022",
+            "caption": "Ca đoàn cùng các ban phục vụ khép lại tiết mục khai mạc.",
+            "id": "media/2022/dai-le-di-dan/13/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/13/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/13/medium.jpg",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/13/original.jpg",
+                "width": 2048,
+                "height": 1366
+              }
+            }
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/01/medium.jpg",
+            "alt": "Cộng đoàn tham dự Thánh lễ khai mạc Đại lễ Di Dân",
+            "caption": "Cộng đoàn tham dự Thánh lễ khai mạc Đại lễ Di Dân tại Giáo xứ Thái Hà.",
+            "id": "media/2022/dai-le-di-dan/01/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/01/thumb.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/01/medium.jpg",
+                "width": 1280,
+                "height": 960
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/01/original.jpg",
+                "width": 2048,
+                "height": 1536
+              }
+            }
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/10/medium.jpg",
+            "alt": "Tiết mục Tiếng Nhạc Oai Hùng tại Đại lễ Di Dân",
+            "caption": "Tiết mục “Tiếng Nhạc Oai Hùng” kết hợp tiếng hát với ban kèn.",
+            "id": "media/2022/dai-le-di-dan/10/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/10/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/10/medium.jpg",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/10/original.jpg",
+                "width": 2048,
+                "height": 1366
+              }
+            }
+          }
+        ]
+      }
     },
     {
       "id": "2022-quan-thay-lan-thu-7",
@@ -205,7 +399,212 @@
       "title": "Mừng lễ Quan thầy sau đại dịch",
       "description": "Ca đoàn mừng lễ Quan thầy trở lại sau hai năm đại dịch trong bầu khí ấm cúng tại Đền Giêrađô.",
       "body": "Ngày 10 tháng 10, ca đoàn hân hoan mừng kính Thánh Têrêsa Hài Đồng Giêsu. Đây không chỉ là dịp mừng lễ bổn mạng, mà còn là lúc các thành viên nhìn lại hành trình đã qua và tạ ơn Chúa vì ca đoàn vẫn được gìn giữ giữa những biến động.\n\nSau thời gian thiếu vắng sinh hoạt chung, niềm vui được quây quần trở nên giản dị nhưng sâu sắc. Sau Thánh lễ, đông đảo ca viên cùng quý cha và quý khách tham dự bữa tiệc thân mật, ấm cúng, tràn đầy tình huynh đệ.",
-      "images": []
+      "coverImage": {
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/medium.jpg",
+        "alt": "Ca đoàn chụp ảnh cùng quý cha sau lễ Quan thầy",
+        "caption": "Ca đoàn chụp ảnh lưu niệm cùng quý cha sau Thánh lễ.",
+        "id": "media/2022/quan-thay/27/original.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/thumb.jpg",
+            "width": 480,
+            "height": 319
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/medium.jpg",
+            "width": 1280,
+            "height": 852
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/original.jpg",
+            "width": 6048,
+            "height": 4024
+          }
+        }
+      },
+      "album": {
+        "manifest": "data/albums/2022/2022-quan-thay-lan-thu-7.json",
+        "count": 27,
+        "preview": [
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/medium.jpg",
+            "alt": "Ca đoàn chụp ảnh cùng quý cha sau lễ Quan thầy",
+            "caption": "Ca đoàn chụp ảnh lưu niệm cùng quý cha sau Thánh lễ.",
+            "id": "media/2022/quan-thay/27/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/thumb.jpg",
+                "width": 480,
+                "height": 319
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/medium.jpg",
+                "width": 1280,
+                "height": 852
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/original.jpg",
+                "width": 6048,
+                "height": 4024
+              }
+            }
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/01/medium.jpg",
+            "alt": "Ca viên tiến lên cung thánh trong lễ Quan thầy",
+            "caption": "Ca viên tiến lên cung thánh trong lễ Quan thầy tại Đền Giêrađô.",
+            "id": "media/2022/quan-thay/01/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/01/thumb.jpg",
+                "width": 480,
+                "height": 319
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/01/medium.jpg",
+                "width": 1280,
+                "height": 852
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/01/original.jpg",
+                "width": 6048,
+                "height": 4024
+              }
+            }
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/24/medium.jpg",
+            "alt": "Ca đoàn phục vụ lễ Quan thầy lần thứ 7",
+            "caption": "Ca đoàn phục vụ Thánh lễ mừng Quan thầy lần thứ 7.",
+            "id": "media/2022/quan-thay/24/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/24/thumb.jpg",
+                "width": 480,
+                "height": 319
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/24/medium.jpg",
+                "width": 1280,
+                "height": 852
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/24/original.jpg",
+                "width": 6048,
+                "height": 4024
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "2022-hon-phoi-truong-na",
+      "type": "Hôn phối",
+      "topic": "Hôn phối",
+      "date": "30.10.2022",
+      "location": "",
+      "title": "Chung vui lễ cưới Trường – Na",
+      "description": "Ca đoàn hiện diện, chung vui và gửi lời chúc phúc đến anh chị Trường – Na trong ngày hôn phối.",
+      "body": "Ngày 30 tháng 10, ca đoàn cùng hiện diện và tham dự lễ cưới của anh Trường và chị Na.\n\nAnh chị em trong ca đoàn đã cùng về chung vui, gửi lời chúc phúc và trao tặng món quà nhỏ đến anh chị như lời cầu chúc tốt đẹp dành cho gia đình mới. Đây cũng là dịp để các thành viên thêm gắn kết và cùng chia sẻ niềm vui trong những dấu mốc quan trọng của nhau.",
+      "coverImage": {
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/03/medium.jpg",
+        "alt": "Ca đoàn chung vui cùng anh chị Trường – Na trong ngày cưới",
+        "caption": "Ca đoàn và bạn hữu chung vui cùng anh chị Trường – Na trong ngày cưới.",
+        "id": "media/2022/truong-na/03/original.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/03/thumb.jpg",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/03/medium.jpg",
+            "width": 1080,
+            "height": 720
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/03/original.jpg",
+            "width": 1080,
+            "height": 720
+          }
+        }
+      },
+      "album": {
+        "manifest": "data/albums/2022/2022-hon-phoi-truong-na.json",
+        "count": 9,
+        "preview": [
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/03/medium.jpg",
+            "alt": "Ca đoàn chung vui cùng anh chị Trường – Na trong ngày cưới",
+            "caption": "Ca đoàn và bạn hữu chung vui cùng anh chị Trường – Na trong ngày cưới.",
+            "id": "media/2022/truong-na/03/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/03/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/03/medium.jpg",
+                "width": 1080,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/03/original.jpg",
+                "width": 1080,
+                "height": 720
+              }
+            }
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/02/medium.jpg",
+            "alt": "Anh chị Trường – Na chụp ảnh cùng cha chủ sự",
+            "caption": "Anh chị Trường – Na chụp ảnh cùng cha chủ sự trước bàn thờ.",
+            "id": "media/2022/truong-na/02/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/02/thumb.jpg",
+                "width": 298,
+                "height": 480
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/02/medium.jpg",
+                "width": 794,
+                "height": 1280
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/02/original.jpg",
+                "width": 794,
+                "height": 1280
+              }
+            }
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/09/medium.jpg",
+            "alt": "Ca đoàn trao quà chúc mừng anh chị Trường – Na",
+            "caption": "Ca đoàn trao quà và gửi lời chúc phúc đến gia đình mới.",
+            "id": "media/2022/truong-na/09/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/09/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/09/medium.jpg",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/09/original.jpg",
+                "width": 1280,
+                "height": 854
+              }
+            }
+          }
+        ]
+      }
     },
     {
       "id": "2022-giang-sinh-trao-yeu-thuong",
@@ -216,7 +615,104 @@
       "title": "Giáng Sinh trao yêu thương",
       "description": "Chương trình thiện nguyện Giáng Sinh mang quà và sự sẻ chia đến xã Yên Định, huyện Bắc Mê, tỉnh Hà Giang.",
       "body": "Từ ngày 16 đến 18 tháng 12, các thành viên rời Hà Nội để tiếp nối truyền thống thiện nguyện hằng năm. Hình ảnh những em nhỏ người Mông mặc áo mỏng giữa cái rét vùng cao, những bản làng đơn sơ và mái nhà còn nhiều thiếu thốn để lại trong mỗi ca viên nhiều trăn trở.\n\nNhững phần quà, lời hỏi thăm và nụ cười được trao đi trở thành kỷ niệm khó quên. Giáng Sinh năm ấy không chỉ được đón mừng bằng thánh ca, mà còn được sống bằng những hành động yêu thương và sẻ chia cụ thể.",
-      "images": []
+      "coverImage": {
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/12/medium.jpg",
+        "alt": "Đoàn thiện nguyện lưu ảnh cùng bà con tại Bắc Mê",
+        "caption": "Đoàn thiện nguyện lưu ảnh cùng bà con sau khi trao quà.",
+        "id": "media/2022/giang-sinh-trao-yeu-thuong/12/original.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/12/thumb.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/12/medium.jpg",
+            "width": 1280,
+            "height": 960
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/12/original.jpg",
+            "width": 1280,
+            "height": 960
+          }
+        }
+      },
+      "album": {
+        "manifest": "data/albums/2022/2022-giang-sinh-trao-yeu-thuong.json",
+        "count": 17,
+        "preview": [
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/12/medium.jpg",
+            "alt": "Đoàn thiện nguyện lưu ảnh cùng bà con tại Bắc Mê",
+            "caption": "Đoàn thiện nguyện lưu ảnh cùng bà con sau khi trao quà.",
+            "id": "media/2022/giang-sinh-trao-yeu-thuong/12/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/12/thumb.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/12/medium.jpg",
+                "width": 1280,
+                "height": 960
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/12/original.jpg",
+                "width": 1280,
+                "height": 960
+              }
+            }
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/01/medium.jpg",
+            "alt": "Đoàn thiện nguyện đến Điểm trường Tiểu học thôn Nà Tràng",
+            "caption": "Đoàn thiện nguyện đến Điểm trường Tiểu học thôn Nà Tràng, xã Yên Định.",
+            "id": "media/2022/giang-sinh-trao-yeu-thuong/01/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/01/thumb.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/01/medium.jpg",
+                "width": 1280,
+                "height": 960
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/01/original.jpg",
+                "width": 1280,
+                "height": 960
+              }
+            }
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/08/medium.jpg",
+            "alt": "Ca đoàn trao quà đến bà con vùng cao",
+            "caption": "Những phần quà thiết thực được trao đến bà con vùng cao.",
+            "id": "media/2022/giang-sinh-trao-yeu-thuong/08/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/08/thumb.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/08/medium.jpg",
+                "width": 1280,
+                "height": 960
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/08/original.jpg",
+                "width": 1280,
+                "height": 960
+              }
+            }
+          }
+        ]
+      }
     }
   ],
   "achievements": [
@@ -233,8 +729,8 @@
   "emotionJournal": [],
   "yearMark": {
     "title": "Chúng con hát, là để sống niềm tin",
-    "description": "Năm 2022 là thời gian ca đoàn sống chậm lại, gắn bó hơn trong tình huynh đệ và lớn lên trong sự bình an Chúa ban. Điều còn đọng lại không chỉ là những chương trình hay chuyến đi, mà còn là tình yêu dành cho ca đoàn và lòng nhiệt thành phục vụ. Ca đoàn tiếp tục được mời gọi trở nên những “Nụ hoa Têrêsa”, âm thầm dùng lời ca và đời sống để làm chứng cho tình yêu giữa đời.",
-    "highlight": "45 ca viên · 18 ca viên mới · 6 hoạt động"
+    "description": "Năm 2022 là khoảng thời gian để Ca đoàn Giới trẻ Têrêsa sống chậm lại, gắn bó hơn trong tình huynh đệ và lớn lên trong sự bình an Chúa ban. Không phải lúc nào đời sống cũng trọn vẹn êm đềm, nhưng giữa những thử thách và mệt nhoài, lời ca vẫn vang lên như lời nguyện chân thành để an ủi, nâng đỡ và nhắc nhớ rằng: “Chúng con hát, là để sống niềm tin.” Nhìn lại hành trình ấy, điều còn đọng lại không chỉ là những chương trình hay chuyến đi, mà còn là tình yêu dành cho ca đoàn và lòng nhiệt thành phục vụ. Năm 2022 khép lại như lời nhắc rằng tiếng hát vẫn có thể được cất lên khi những người cùng chung một niềm tin biết nắm tay nhau bước tiếp. Mỗi thành viên tiếp tục được mời gọi trở nên những “Nụ hoa Têrêsa”, âm thầm nở giữa đời bằng lời ca và chính đời sống của mình.",
+    "highlight": "45 ca viên · 18 ca viên mới · 7 hoạt động"
   },
   "gallery": []
 }

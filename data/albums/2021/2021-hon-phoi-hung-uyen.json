@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "year": 2021,
+  "activityId": "2021-hon-phoi-hung-uyen",
+  "title": "Phục vụ lễ cưới Hùng và Uyên",
+  "count": 8,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/01/medium.jpg",
+      "alt": "Lễ cưới Hùng và Uyên · ảnh 1",
+      "caption": "Anh chị Hùng – Uyên trong ngày hôn phối.",
+      "id": "media/2021/hung-uyen/01/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/01/thumb.jpg",
+          "width": 480,
+          "height": 276
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/01/medium.jpg",
+          "width": 1280,
+          "height": 737
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/01/original.jpg",
+          "width": 2142,
+          "height": 1233
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/02/medium.jpg",
+      "alt": "Lễ cưới Hùng và Uyên · ảnh 2",
+      "caption": "Nghi thức hôn phối của anh chị Hùng – Uyên.",
+      "id": "media/2021/hung-uyen/02/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/02/thumb.jpg",
+          "width": 480,
+          "height": 262
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/02/medium.jpg",
+          "width": 1280,
+          "height": 699
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/02/original.jpg",
+          "width": 2176,
+          "height": 1188
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/medium.jpg",
+      "alt": "Lễ cưới Hùng và Uyên · ảnh 3",
+      "caption": "Ca đoàn phục vụ Thánh lễ trong điều kiện phòng dịch cuối năm 2021.",
+      "id": "media/2021/hung-uyen/03/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/thumb.jpg",
+          "width": 480,
+          "height": 266
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/medium.jpg",
+          "width": 1280,
+          "height": 708
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/original.jpg",
+          "width": 2171,
+          "height": 1201
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/04/medium.jpg",
+      "alt": "Lễ cưới Hùng và Uyên · ảnh 4",
+      "caption": "Phụng vụ Lời Chúa trong Thánh lễ hôn phối.",
+      "id": "media/2021/hung-uyen/04/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/04/thumb.jpg",
+          "width": 480,
+          "height": 267
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/04/medium.jpg",
+          "width": 1280,
+          "height": 711
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/04/original.jpg",
+          "width": 2165,
+          "height": 1203
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/05/medium.jpg",
+      "alt": "Lễ cưới Hùng và Uyên · ảnh 5",
+      "caption": "Ca đoàn hiện diện trong Thánh lễ hôn phối của anh chị Hùng – Uyên.",
+      "id": "media/2021/hung-uyen/05/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/05/thumb.jpg",
+          "width": 480,
+          "height": 265
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/05/medium.jpg",
+          "width": 1280,
+          "height": 707
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/05/original.jpg",
+          "width": 2174,
+          "height": 1201
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/06/medium.jpg",
+      "alt": "Lễ cưới Hùng và Uyên · ảnh 6",
+      "caption": "Các ca viên cùng cất tiếng hát phục vụ Thánh lễ.",
+      "id": "media/2021/hung-uyen/06/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/06/thumb.jpg",
+          "width": 480,
+          "height": 274
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/06/medium.jpg",
+          "width": 1280,
+          "height": 731
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/06/original.jpg",
+          "width": 2151,
+          "height": 1228
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/07/medium.jpg",
+      "alt": "Lễ cưới Hùng và Uyên · ảnh 7",
+      "caption": "Anh chị Hùng – Uyên cầu nguyện trong Thánh lễ hôn phối.",
+      "id": "media/2021/hung-uyen/07/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/07/thumb.jpg",
+          "width": 480,
+          "height": 267
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/07/medium.jpg",
+          "width": 1280,
+          "height": 713
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/07/original.jpg",
+          "width": 2144,
+          "height": 1194
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/08/medium.jpg",
+      "alt": "Lễ cưới Hùng và Uyên · ảnh 8",
+      "caption": "Ca đoàn chụp ảnh lưu niệm cùng anh chị Hùng – Uyên và cha chủ tế.",
+      "id": "media/2021/hung-uyen/08/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/08/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/08/medium.jpg",
+          "width": 1280,
+          "height": 719
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/08/original.jpg",
+          "width": 2138,
+          "height": 1201
+        }
+      }
+    }
+  ]
+}

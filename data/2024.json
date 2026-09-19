@@ -6,7 +6,7 @@
     "secondary": "#b7e7ef"
   },
   "meta": {
-    "revision": 6,
+    "revision": 7,
     "status": "published",
     "migratedFrom": 1,
     "journalCredit": "Teresa Vũ Thị Nhẫn",
@@ -25,25 +25,25 @@
     "verse": "Giữa lòng Hội Thánh, con sẽ là tình yêu.",
     "longDescription": "Tiếp nối năm 2023, Ca đoàn Giới Trẻ Têrêsa thể hiện tình yêu Chúa và tinh thần đơn sơ, khiêm nhường của Thánh Quan thầy qua tiếng hát, cầu nguyện và phục vụ. Đời sống đức tin được vun đắp qua học hỏi Giáo lý, tĩnh tâm tại Đan viện Biển Đức Thiên Hà và các Thánh lễ. Ban Điều Hành nhiệm kỳ 2024–2026 được kiện toàn với anh trưởng Phêrô Đỗ Tiến Hạng, hai anh phó Giuse Trần Viết Vĩ và Giuse Nguyễn Phan Hoài Duy, cùng ca trưởng Maria Vũ Thị Mai. Tình huynh đệ được nối dài trong sáu lễ hôn phối, chương trình Hoan ca Tạ ơn và chuyến thiện nguyện “Đông Ấm Na Rì” tại Bắc Kạn.",
     "coverImage": {
-      "src": "images/hero.jpg",
-      "id": "images/hero.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/archive/hero/medium.jpg",
+      "id": "media/2024/archive/hero/original.jpg",
       "alt": "",
       "caption": "",
       "variants": {
         "thumbnail": {
-          "src": "images/optimized/hero-480.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/archive/hero/thumb.jpg",
           "width": 480,
           "height": 319
         },
         "medium": {
-          "src": "images/optimized/hero-1280.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/archive/hero/medium.jpg",
           "width": 1280,
           "height": 851
         },
         "original": {
-          "src": "images/optimized/hero-2048.jpg",
-          "width": 2048,
-          "height": 1362
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/archive/hero/original.jpg",
+          "width": 2400,
+          "height": 1596
         }
       }
     }

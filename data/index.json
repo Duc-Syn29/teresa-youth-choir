@@ -1,11 +1,11 @@
 {
   "schemaVersion": 3,
   "version": 3,
-  "generatedAt": "2026-09-15T03:41:18.885Z",
+  "generatedAt": "2026-09-19T06:02:24.455Z",
   "totals": {
     "years": 12,
     "members": 655,
-    "activities": 98
+    "activities": 99
   },
   "years": [
     {
@@ -14,7 +14,7 @@
         "eyebrow": "Hành trình tiếp nối",
         "title": "Cất tiếng giữa mùa hồng ân",
         "summary": "Ca đoàn bước vào năm 2026 với số lượng ca viên đông hơn, thêm nhiều thánh lễ và các chương trình mang đậm dấu ấn đức tin.",
-        "coverImage": "images/optimized/hero-1280.jpg"
+        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/archive/hero/medium.jpg"
       },
       "members": {
         "total": 109,
@@ -52,7 +52,7 @@
           "topic": "Phục Sinh",
           "date": "Mùa Phục Sinh 2026",
           "description": "Chương trình tôn vinh mầu nhiệm Phục Sinh của Thiên Chúa.",
-          "image": "images/optimized/hero-1280.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/archive/hero/medium.jpg",
           "imageCount": 0
         },
         {
@@ -82,7 +82,7 @@
           "topic": "Hòa nhạc",
           "date": "14.08.2026",
           "description": "hồng ân tuyệt vời",
-          "image": "images/optimized/uploads/2026/hoa-nhac/1786561398970-lequanthay202011-1280.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561398970-lequanthay202011/medium.jpg",
           "imageCount": 9
         }
       ]
@@ -93,7 +93,7 @@
         "eyebrow": "Một chương mới",
         "title": "Đủ lớn để trao lại yêu thương",
         "summary": "Dấu mốc 10 năm là dịp tạ ơn, nhìn lại hành trình và tổ chức đêm hòa nhạc Hồng Ân Tuyệt Vời.",
-        "coverImage": "images/optimized/hero-1280.jpg"
+        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/archive/hero/medium.jpg"
       },
       "members": {
         "total": 58,
@@ -161,7 +161,7 @@
           "topic": "Thiện nguyện",
           "date": "07.2025",
           "description": "Chuyến phục vụ mùa hè kết hợp trao học bổng và sinh hoạt âm nhạc.",
-          "image": "images/optimized/gallery/thien-nguyen-2019-1280.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/thien-nguyen-2019/medium.jpg",
           "imageCount": 0
         },
         {
@@ -191,7 +191,7 @@
           "topic": "Hội thao",
           "date": "05.2025",
           "description": "Ngày hội thể thao nội bộ với tinh thần vui khỏe và hiệp nhất.",
-          "image": "images/optimized/gallery/gan-ket-2024-1280.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/gan-ket-2024/medium.jpg",
           "imageCount": 0
         },
         {
@@ -232,7 +232,7 @@
         "eyebrow": "Đức tin · Tình huynh đệ · Phục vụ",
         "title": "Nối dài sứ mạng, khắc ghi dấu ấn",
         "summary": "Năm 2024 ghi dấu đời sống học hỏi, cầu nguyện, tĩnh tâm, sáu lễ hôn phối, chuyển giao ban điều hành, lễ Quan thầy lần thứ 9, Đại lễ Di Dân và chương trình Đông Ấm Na Rì.",
-        "coverImage": "images/optimized/hero-1280.jpg"
+        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/archive/hero/medium.jpg"
       },
       "members": {
         "total": 75,
@@ -441,7 +441,7 @@
         "eyebrow": "Tin yêu · Dấn thân · Phục vụ",
         "title": "Một chặng đường đong đầy ân sủng",
         "summary": "Năm 2023 ghi dấu sự chuyển mình về chuyên môn, hai kỳ tĩnh tâm, lễ Quan thầy lần thứ 8, Đại lễ Di Dân, hai lễ hôn phối và chuyến thiện nguyện tại Cao Bằng.",
-        "coverImage": "images/optimized/hero-1280.jpg"
+        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/archive/hero/medium.jpg"
       },
       "members": {
         "total": 45,
@@ -570,7 +570,7 @@
         "eyebrow": "Trở lại · Gặp gỡ · Phục vụ",
         "title": "Bước tiếp hành trình sứ vụ sau đại dịch COVID",
         "summary": "Từ giữa năm 2022, ca đoàn từng bước tái khởi động tập hát, phục vụ Thánh lễ, tĩnh tâm, dã ngoại và thiện nguyện sau gần hai năm bị gián đoạn.",
-        "coverImage": "images/optimized/hero-1280.jpg"
+        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/medium.jpg"
       },
       "members": {
         "total": 45,
@@ -628,8 +628,8 @@
           "topic": "Tĩnh tâm",
           "date": "17.09.2022",
           "description": "Ca đoàn tĩnh tâm tại Tam Đảo với chủ đề “Lên Núi Với Đức Kitô”, hướng đến lễ Quan thầy kỷ niệm 7 năm thành lập.",
-          "image": "",
-          "imageCount": 0
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/09/medium.jpg",
+          "imageCount": 10
         },
         {
           "id": "2022-khai-mac-dai-le-di-dan",
@@ -638,8 +638,8 @@
           "topic": "Đại lễ",
           "date": "05.10.2022",
           "description": "Ca đoàn cùng Ca đoàn Monica và Ca đoàn Latin phục vụ Thánh lễ khai mạc Đại lễ Di Dân.",
-          "image": "",
-          "imageCount": 0
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/13/medium.jpg",
+          "imageCount": 13
         },
         {
           "id": "2022-quan-thay-lan-thu-7",
@@ -648,8 +648,18 @@
           "topic": "Lễ Quan thầy",
           "date": "10.10.2022",
           "description": "Ca đoàn mừng lễ Quan thầy trở lại sau hai năm đại dịch trong bầu khí ấm cúng tại Đền Giêrađô.",
-          "image": "",
-          "imageCount": 0
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/medium.jpg",
+          "imageCount": 27
+        },
+        {
+          "id": "2022-hon-phoi-truong-na",
+          "title": "Chung vui lễ cưới Trường – Na",
+          "type": "Hôn phối",
+          "topic": "Hôn phối",
+          "date": "30.10.2022",
+          "description": "Ca đoàn hiện diện, chung vui và gửi lời chúc phúc đến anh chị Trường – Na trong ngày hôn phối.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/03/medium.jpg",
+          "imageCount": 9
         },
         {
           "id": "2022-giang-sinh-trao-yeu-thuong",
@@ -658,8 +668,8 @@
           "topic": "Thiện nguyện",
           "date": "16–18.12.2022",
           "description": "Chương trình thiện nguyện Giáng Sinh mang quà và sự sẻ chia đến xã Yên Định, huyện Bắc Mê, tỉnh Hà Giang.",
-          "image": "",
-          "imageCount": 0
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/12/medium.jpg",
+          "imageCount": 17
         }
       ]
     },
@@ -669,7 +679,7 @@
         "eyebrow": "Nhật ký giữa đại dịch",
         "title": "Một khoảng lặng của hành trình yêu thương",
         "summary": "Đại dịch COVID-19 khiến việc tập hát, phục vụ Thánh lễ, mừng bổn mạng, tĩnh tâm và thiện nguyện phải tạm dừng, nhưng tình thân và đời sống đức tin của các ca viên vẫn được gìn giữ.",
-        "coverImage": "images/optimized/hero-1280.jpg"
+        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/08/medium.jpg"
       },
       "members": {
         "total": 40,
@@ -707,8 +717,8 @@
           "topic": "Hôn phối",
           "date": "17.01.2021",
           "description": "Ca đoàn tham dự và chung vui trong ngày thành hôn của anh Đức Chính và chị Ánh Nguyệt.",
-          "image": "",
-          "imageCount": 0
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/medium.jpg",
+          "imageCount": 6
         },
         {
           "id": "2021-hon-phoi-thu-trang-thanh-hoa",
@@ -717,18 +727,18 @@
           "topic": "Hôn phối",
           "date": "23–24.01.2021",
           "description": "Ca đoàn tham dự hai lễ cưới của Thu Trang – Thanh Nguyễn và Thanh Hoa – Trung Buti trong hai ngày 23–24 tháng 1.",
-          "image": "",
-          "imageCount": 0
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/04/medium.jpg",
+          "imageCount": 4
         },
         {
           "id": "2021-mot-nam-tam-lang",
-          "title": "Một năm tạm lắng nhưng không đứng lại",
+          "title": "Một năm tạm lắng – nhưng không phải một năm đứng lại",
           "type": "Cộng đoàn",
           "topic": "Cộng đoàn",
           "date": "Trong năm",
           "description": "Dịch bệnh khiến ca đoàn gần như không thể duy trì các hoạt động theo nhịp sinh hoạt quen thuộc trong suốt năm 2021.",
-          "image": "",
-          "imageCount": 0
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/medium.jpg",
+          "imageCount": 1
         },
         {
           "id": "2021-hon-phoi-hung-uyen",
@@ -737,8 +747,8 @@
           "topic": "Hát lễ cưới",
           "date": "29.12.2021",
           "description": "Ca đoàn phục vụ Thánh lễ hôn phối của anh Hùng và chị Uyên tại Giáo xứ Thái Hà.",
-          "image": "",
-          "imageCount": 0
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/08/medium.jpg",
+          "imageCount": 8
         }
       ]
     },
@@ -1373,7 +1383,7 @@
         "eyebrow": "Những bước chân đầu tiên",
         "title": "Những bước chân đầu tiên",
         "summary": "Ngày 20/10/2015, Ca đoàn Giới trẻ Teresa chính thức được thành lập để phục vụ Thánh lễ Giới trẻ lúc 20 giờ tối Thứ Bảy tại Giáo xứ Thái Hà.",
-        "coverImage": "images/optimized/hero-1280.jpg"
+        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2015/archive/hero/medium.jpg"
       },
       "members": {
         "total": 30,

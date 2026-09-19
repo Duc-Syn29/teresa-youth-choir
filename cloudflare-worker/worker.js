@@ -902,11 +902,21 @@ async function uploadMedia(request, env) {
   };
 }
 
+function importedVariantFromKey(key) {
+  const match = /^(.*)\/(original|medium|thumb)\.([a-z0-9]+)$/i.exec(String(key || ""));
+  if (!match) return null;
+  return { root: match[1], variant: match[2].toLowerCase(), extension: match[3].toLowerCase() };
+}
+
 function mediaDescriptorFromObject(request, env, item) {
   const metadata = item.customMetadata || {};
-  const originalKey = metadata.originalKey || item.key;
-  const mediumKey = metadata.mediumKey || originalKey;
-  const thumbnailKey = metadata.thumbnailKey || mediumKey;
+  // Ảnh nhập hàng loạt bằng Wrangler không có customMetadata. Quy ước thư mục
+  // original/medium/thumb giúp Worker vẫn gom đúng ba object thành một tài sản.
+  const imported = importedVariantFromKey(item.key);
+  const inferredKey = (variant) => imported ? `${imported.root}/${variant}.${imported.extension}` : "";
+  const originalKey = metadata.originalKey || inferredKey("original") || item.key;
+  const mediumKey = metadata.mediumKey || inferredKey("medium") || originalKey;
+  const thumbnailKey = metadata.thumbnailKey || inferredKey("thumb") || mediumKey;
   const variant = (key, width = 0, height = 0) => ({ id: key, src: mediaUrl(request, env, key), width, height });
   const original = variant(originalKey, positiveDimension(metadata.originalWidth || metadata.width), positiveDimension(metadata.originalHeight || metadata.height));
   const medium = variant(mediumKey, positiveDimension(metadata.mediumWidth), positiveDimension(metadata.mediumHeight));
@@ -918,9 +928,9 @@ function mediaDescriptorFromObject(request, env, item) {
     topic: metadata.topic || item.key.split("/")[2] || "Khác",
     activityId: metadata.activityId || "",
     draftId: metadata.draftId || "",
-    filename: metadata.filename || item.key.split("/").at(-1),
+    filename: metadata.filename || (imported ? `${imported.root.split("/").at(-1)}.${imported.extension}` : item.key.split("/").at(-1)),
     caption: metadata.caption || "",
-    alt: metadata.alt || metadata.filename || item.key.split("/").at(-1),
+    alt: metadata.alt || metadata.filename || (imported ? imported.root.split("/").at(-1) : item.key.split("/").at(-1)),
     createdAt: metadata.createdAt || item.uploaded?.toISOString?.() || "",
     original,
     medium,
@@ -939,7 +949,12 @@ async function listMedia(request, env, url) {
   const prefix = topic && topic !== "Tất cả" ? `media/${year}/${slug(topic)}/` : `media/${year}/`;
   const page = await env.MEDIA_BUCKET.list({ prefix, cursor, limit, include: ["customMetadata", "httpMetadata"] });
   const items = page.objects
-    .filter((item) => !item.customMetadata?.variant || item.customMetadata.variant === "original")
+    .filter((item) => {
+      const explicitVariant = item.customMetadata?.variant;
+      if (explicitVariant) return explicitVariant === "original";
+      const imported = importedVariantFromKey(item.key);
+      return !imported || imported.variant === "original";
+    })
     .map((item) => mediaDescriptorFromObject(request, env, item))
     .filter((item) => (!topic || topic === "Tất cả" || item.topic === topic || slug(item.topic) === slug(topic)) && (!activityId || item.activityId === activityId))
     .sort((a, b) => String(b.createdAt).localeCompare(String(a.createdAt)));
@@ -1015,7 +1030,8 @@ async function deleteMedia(request, env) {
     if (!env.MEDIA_BUCKET) fail(503, "R2_NOT_CONFIGURED", "Worker chưa được gắn R2 binding MEDIA_BUCKET.");
     const object = await env.MEDIA_BUCKET.head(key);
     if (!object) fail(404, "MEDIA_NOT_FOUND", "Không tìm thấy ảnh trong R2.");
-    const root = object.customMetadata?.assetRoot;
+    const imported = importedVariantFromKey(key);
+    const root = object.customMetadata?.assetRoot || imported?.root;
     let keys = [key];
     if (root && key.startsWith(`${root}/`)) {
       const listed = await env.MEDIA_BUCKET.list({ prefix: `${root}/`, limit: 1000 });

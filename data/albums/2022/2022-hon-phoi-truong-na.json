@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "year": 2022,
+  "activityId": "2022-hon-phoi-truong-na",
+  "title": "Chung vui lễ cưới Trường – Na",
+  "count": 9,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/01/medium.jpg",
+      "alt": "Chung vui lễ cưới Trường – Na · ảnh 1",
+      "caption": "Anh chị Trường – Na đón niềm vui cùng các thành viên ca đoàn.",
+      "id": "media/2022/truong-na/01/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/01/thumb.jpg",
+          "width": 480,
+          "height": 350
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/01/medium.jpg",
+          "width": 1080,
+          "height": 787
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/01/original.jpg",
+          "width": 1080,
+          "height": 787
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/02/medium.jpg",
+      "alt": "Chung vui lễ cưới Trường – Na · ảnh 2",
+      "caption": "Anh chị Trường – Na chụp ảnh cùng cha chủ sự trước bàn thờ.",
+      "id": "media/2022/truong-na/02/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/02/thumb.jpg",
+          "width": 298,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/02/medium.jpg",
+          "width": 794,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/02/original.jpg",
+          "width": 794,
+          "height": 1280
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/03/medium.jpg",
+      "alt": "Chung vui lễ cưới Trường – Na · ảnh 3",
+      "caption": "Ca đoàn và bạn hữu chung vui cùng anh chị Trường – Na trong ngày cưới.",
+      "id": "media/2022/truong-na/03/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/03/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/03/medium.jpg",
+          "width": 1080,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/03/original.jpg",
+          "width": 1080,
+          "height": 720
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/04/medium.jpg",
+      "alt": "Chung vui lễ cưới Trường – Na · ảnh 4",
+      "caption": "Các thành viên ca đoàn lưu lại kỷ niệm cùng đôi tân hôn.",
+      "id": "media/2022/truong-na/04/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/04/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/04/medium.jpg",
+          "width": 1080,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/04/original.jpg",
+          "width": 1080,
+          "height": 720
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/05/medium.jpg",
+      "alt": "Chung vui lễ cưới Trường – Na · ảnh 5",
+      "caption": "Anh chị Trường – Na chụp ảnh cùng gia đình trong ngày cưới.",
+      "id": "media/2022/truong-na/05/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/05/thumb.jpg",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/05/medium.jpg",
+          "width": 854,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/05/original.jpg",
+          "width": 854,
+          "height": 1280
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/06/medium.jpg",
+      "alt": "Chung vui lễ cưới Trường – Na · ảnh 6",
+      "caption": "Đôi tân hôn hiện diện trước bàn thờ trong Thánh lễ hôn phối.",
+      "id": "media/2022/truong-na/06/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/06/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/06/medium.jpg",
+          "width": 1080,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/06/original.jpg",
+          "width": 1080,
+          "height": 720
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/07/medium.jpg",
+      "alt": "Chung vui lễ cưới Trường – Na · ảnh 7",
+      "caption": "Nghi thức dâng lễ trong ngày hôn phối của anh chị Trường – Na.",
+      "id": "media/2022/truong-na/07/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/07/thumb.jpg",
+          "width": 480,
+          "height": 331
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/07/medium.jpg",
+          "width": 1080,
+          "height": 744
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/07/original.jpg",
+          "width": 1080,
+          "height": 744
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/08/medium.jpg",
+      "alt": "Chung vui lễ cưới Trường – Na · ảnh 8",
+      "caption": "Khoảnh khắc trao nhẫn trong Thánh lễ hôn phối.",
+      "id": "media/2022/truong-na/08/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/08/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/08/medium.jpg",
+          "width": 1080,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/08/original.jpg",
+          "width": 1080,
+          "height": 720
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/09/medium.jpg",
+      "alt": "Chung vui lễ cưới Trường – Na · ảnh 9",
+      "caption": "Ca đoàn trao quà và gửi lời chúc phúc đến gia đình mới.",
+      "id": "media/2022/truong-na/09/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/09/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/09/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/09/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "schemaVersion": 1,
+  "year": 2022,
+  "activityId": "2022-khai-mac-dai-le-di-dan",
+  "title": "Phục vụ khai mạc Đại lễ Di Dân",
+  "count": 13,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/01/medium.jpg",
+      "alt": "Phục vụ khai mạc Đại lễ Di Dân · ảnh 1",
+      "caption": "Cộng đoàn tham dự Thánh lễ khai mạc Đại lễ Di Dân tại Giáo xứ Thái Hà.",
+      "id": "media/2022/dai-le-di-dan/01/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/01/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/01/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/01/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/02/medium.jpg",
+      "alt": "Phục vụ khai mạc Đại lễ Di Dân · ảnh 2",
+      "caption": "Ca đoàn phục vụ trong Thánh lễ khai mạc Đại lễ Di Dân.",
+      "id": "media/2022/dai-le-di-dan/02/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/02/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/02/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/02/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/03/medium.jpg",
+      "alt": "Phục vụ khai mạc Đại lễ Di Dân · ảnh 3",
+      "caption": "Các ca viên hiệp lời ca trong ngày khai mạc đại lễ.",
+      "id": "media/2022/dai-le-di-dan/03/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/03/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/03/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/03/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/04/medium.jpg",
+      "alt": "Phục vụ khai mạc Đại lễ Di Dân · ảnh 4",
+      "caption": "Khoảnh khắc phục vụ phụng vụ tại Giáo xứ Thái Hà.",
+      "id": "media/2022/dai-le-di-dan/04/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/04/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/04/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/04/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/05/medium.jpg",
+      "alt": "Phục vụ khai mạc Đại lễ Di Dân · ảnh 5",
+      "caption": "Buổi tập hát chuẩn bị cho chương trình Đại lễ Di Dân.",
+      "id": "media/2022/dai-le-di-dan/05/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/05/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/05/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/05/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/06/medium.jpg",
+      "alt": "Phục vụ khai mạc Đại lễ Di Dân · ảnh 6",
+      "caption": "Ca đoàn cùng nhau hoàn thiện phần thánh ca trước giờ phục vụ.",
+      "id": "media/2022/dai-le-di-dan/06/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/06/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/06/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/06/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/07/medium.jpg",
+      "alt": "Phục vụ khai mạc Đại lễ Di Dân · ảnh 7",
+      "caption": "Ca viên Têrêsa trong tiết mục khai mạc Đại lễ Di Dân.",
+      "id": "media/2022/dai-le-di-dan/07/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/07/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/07/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/07/original.jpg",
+          "width": 2048,
+          "height": 1365
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/08/medium.jpg",
+      "alt": "Phục vụ khai mạc Đại lễ Di Dân · ảnh 8",
+      "caption": "Tiếng hát Têrêsa hòa cùng không khí của đêm khai mạc.",
+      "id": "media/2022/dai-le-di-dan/08/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/08/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/08/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/08/original.jpg",
+          "width": 2048,
+          "height": 1366
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/09/medium.jpg",
+      "alt": "Phục vụ khai mạc Đại lễ Di Dân · ảnh 9",
+      "caption": "Ca đoàn phục vụ trên sân khấu Đại lễ Di Dân 2022.",
+      "id": "media/2022/dai-le-di-dan/09/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/09/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/09/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/09/original.jpg",
+          "width": 2048,
+          "height": 1366
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/10/medium.jpg",
+      "alt": "Phục vụ khai mạc Đại lễ Di Dân · ảnh 10",
+      "caption": "Tiết mục “Tiếng Nhạc Oai Hùng” kết hợp tiếng hát với ban kèn.",
+      "id": "media/2022/dai-le-di-dan/10/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/10/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/10/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/10/original.jpg",
+          "width": 2048,
+          "height": 1366
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/11/medium.jpg",
+      "alt": "Phục vụ khai mạc Đại lễ Di Dân · ảnh 11",
+      "caption": "Các ca viên trình bày tiết mục trong đêm hoan ca.",
+      "id": "media/2022/dai-le-di-dan/11/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/11/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/11/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/11/original.jpg",
+          "width": 2048,
+          "height": 1366
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/12/medium.jpg",
+      "alt": "Phục vụ khai mạc Đại lễ Di Dân · ảnh 12",
+      "caption": "Khoảnh khắc phối hợp giữa ca đoàn, ban kèn và ban trống.",
+      "id": "media/2022/dai-le-di-dan/12/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/12/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/12/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/12/original.jpg",
+          "width": 2048,
+          "height": 1365
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/13/medium.jpg",
+      "alt": "Phục vụ khai mạc Đại lễ Di Dân · ảnh 13",
+      "caption": "Ca đoàn cùng các ban phục vụ khép lại tiết mục khai mạc.",
+      "id": "media/2022/dai-le-di-dan/13/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/13/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/13/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/13/original.jpg",
+          "width": 2048,
+          "height": 1366
+        }
+      }
+    }
+  ]
+}

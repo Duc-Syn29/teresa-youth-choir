@@ -10,25 +10,25 @@
     "verse": "Hãy vui mừng trong hy vọng, kiên nhẫn lúc gian truân và chuyên cần cầu nguyện.",
     "longDescription": "Mười năm tuy chưa phải là nhiều, nhưng đủ để ca đoàn nhìn lại những khó khăn đã vượt qua và muôn vàn hồng ân đã lãnh nhận. Đêm hòa nhạc Hồng Ân Tuyệt Vời được tổ chức như lời tạ ơn dâng lên Thiên Chúa và lời xác tín rằng mỗi bước đi luôn được bàn tay quan phòng âm thầm nâng đỡ: “Tôi có gì, cũng là nhờ Thiên Chúa” (1 Cr 15,10).",
     "coverImage": {
-      "src": "images/hero.jpg",
-      "id": "images/hero.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/archive/hero/medium.jpg",
+      "id": "media/2025/archive/hero/original.jpg",
       "alt": "",
       "caption": "",
       "variants": {
         "thumbnail": {
-          "src": "images/optimized/hero-480.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/archive/hero/thumb.jpg",
           "width": 480,
           "height": 319
         },
         "medium": {
-          "src": "images/optimized/hero-1280.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/archive/hero/medium.jpg",
           "width": 1280,
           "height": 851
         },
         "original": {
-          "src": "images/optimized/hero-2048.jpg",
-          "width": 2048,
-          "height": 1362
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/archive/hero/original.jpg",
+          "width": 2400,
+          "height": 1596
         }
       }
     }
@@ -223,74 +223,74 @@
   ],
   "gallery": [
     {
-      "src": "images/gallery/phung-vu-2025.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/phung-vu-2025/medium.jpg",
       "alt": "Ca đoàn phục vụ thánh lễ năm 2025",
       "event": "Phụng vụ",
       "caption": "Chung một lời ca",
-      "id": "images/gallery/phung-vu-2025.jpg",
+      "id": "media/2025/gallery/phung-vu-2025/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/phung-vu-2025/thumb.jpg",
           "width": 480,
           "height": 290
         },
         "medium": {
-          "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/phung-vu-2025/medium.jpg",
           "width": 1280,
           "height": 773
         },
         "original": {
-          "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
-          "width": 2048,
-          "height": 1237
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/phung-vu-2025/original.jpg",
+          "width": 2400,
+          "height": 1450
         }
       }
     },
     {
-      "src": "images/gallery/gan-ket-2024.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/gan-ket-2024/medium.jpg",
       "alt": "Các ca viên trong ngày hội gắn kết",
       "event": "Teresa Games",
       "caption": "Một đội, một nhà",
-      "id": "images/gallery/gan-ket-2024.jpg",
+      "id": "media/2025/gallery/gan-ket-2024/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "images/optimized/gallery/gan-ket-2024-480.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/gan-ket-2024/thumb.jpg",
           "width": 480,
           "height": 319
         },
         "medium": {
-          "src": "images/optimized/gallery/gan-ket-2024-1280.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/gan-ket-2024/medium.jpg",
           "width": 1280,
           "height": 851
         },
         "original": {
-          "src": "images/optimized/gallery/gan-ket-2024-2048.jpg",
-          "width": 2048,
-          "height": 1362
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/gan-ket-2024/original.jpg",
+          "width": 2400,
+          "height": 1596
         }
       }
     },
     {
-      "src": "images/gallery/thien-nguyen-2019.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/thien-nguyen-2019/medium.jpg",
       "alt": "Chuyến đi thiện nguyện",
       "event": "Thiện nguyện",
       "caption": "Tiếng hát lên đường",
-      "id": "images/gallery/thien-nguyen-2019.jpg",
+      "id": "media/2025/gallery/thien-nguyen-2019/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "images/optimized/gallery/thien-nguyen-2019-480.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/thien-nguyen-2019/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "images/optimized/gallery/thien-nguyen-2019-1280.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/thien-nguyen-2019/medium.jpg",
           "width": 1280,
           "height": 853
         },
         "original": {
-          "src": "images/optimized/gallery/thien-nguyen-2019-2048.jpg",
-          "width": 2048,
-          "height": 1364
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/thien-nguyen-2019/original.jpg",
+          "width": 2400,
+          "height": 1599
         }
       }
     }
@@ -350,7 +350,7 @@
   },
   "schemaVersion": 3,
   "meta": {
-    "revision": 1,
+    "revision": 2,
     "status": "published",
     "migratedFrom": 1
   },
@@ -359,74 +359,74 @@
     "count": 6,
     "preview": [
       {
-        "src": "images/gallery/phung-vu-2025.jpg",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/phung-vu-2025/medium.jpg",
         "alt": "Ca đoàn phục vụ thánh lễ năm 2025",
         "event": "Phụng vụ",
         "caption": "Chung một lời ca",
-        "id": "images/gallery/phung-vu-2025.jpg",
+        "id": "media/2025/gallery/phung-vu-2025/original.jpg",
         "variants": {
           "thumbnail": {
-            "src": "images/optimized/gallery/phung-vu-2025-480.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/phung-vu-2025/thumb.jpg",
             "width": 480,
             "height": 290
           },
           "medium": {
-            "src": "images/optimized/gallery/phung-vu-2025-1280.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/phung-vu-2025/medium.jpg",
             "width": 1280,
             "height": 773
           },
           "original": {
-            "src": "images/optimized/gallery/phung-vu-2025-2048.jpg",
-            "width": 2048,
-            "height": 1237
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/phung-vu-2025/original.jpg",
+            "width": 2400,
+            "height": 1450
           }
         }
       },
       {
-        "src": "images/gallery/gan-ket-2024.jpg",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/gan-ket-2024/medium.jpg",
         "alt": "Các ca viên trong ngày hội gắn kết",
         "event": "Teresa Games",
         "caption": "Một đội, một nhà",
-        "id": "images/gallery/gan-ket-2024.jpg",
+        "id": "media/2025/gallery/gan-ket-2024/original.jpg",
         "variants": {
           "thumbnail": {
-            "src": "images/optimized/gallery/gan-ket-2024-480.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/gan-ket-2024/thumb.jpg",
             "width": 480,
             "height": 319
           },
           "medium": {
-            "src": "images/optimized/gallery/gan-ket-2024-1280.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/gan-ket-2024/medium.jpg",
             "width": 1280,
             "height": 851
           },
           "original": {
-            "src": "images/optimized/gallery/gan-ket-2024-2048.jpg",
-            "width": 2048,
-            "height": 1362
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/gan-ket-2024/original.jpg",
+            "width": 2400,
+            "height": 1596
           }
         }
       },
       {
-        "src": "images/gallery/thien-nguyen-2019.jpg",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/thien-nguyen-2019/medium.jpg",
         "alt": "Chuyến đi thiện nguyện",
         "event": "Thiện nguyện",
         "caption": "Tiếng hát lên đường",
-        "id": "images/gallery/thien-nguyen-2019.jpg",
+        "id": "media/2025/gallery/thien-nguyen-2019/original.jpg",
         "variants": {
           "thumbnail": {
-            "src": "images/optimized/gallery/thien-nguyen-2019-480.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/thien-nguyen-2019/thumb.jpg",
             "width": 480,
             "height": 320
           },
           "medium": {
-            "src": "images/optimized/gallery/thien-nguyen-2019-1280.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/thien-nguyen-2019/medium.jpg",
             "width": 1280,
             "height": 853
           },
           "original": {
-            "src": "images/optimized/gallery/thien-nguyen-2019-2048.jpg",
-            "width": 2048,
-            "height": 1364
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/thien-nguyen-2019/original.jpg",
+            "width": 2400,
+            "height": 1599
           }
         }
       }

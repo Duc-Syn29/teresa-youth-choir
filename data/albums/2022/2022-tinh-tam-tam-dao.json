@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "year": 2022,
+  "activityId": "2022-tinh-tam-tam-dao",
+  "title": "Tĩnh tâm “Lên Núi Với Đức Kitô”",
+  "count": 10,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/01/medium.jpg",
+      "alt": "Tĩnh tâm “Lên Núi Với Đức Kitô” · ảnh 1",
+      "caption": "Các ca viên gặp gỡ giữa không gian núi rừng Tam Đảo.",
+      "id": "media/2022/tinh-tam-tam-dao/01/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/01/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/01/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/01/original.jpg",
+          "width": 2568,
+          "height": 1444
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/02/medium.jpg",
+      "alt": "Tĩnh tâm “Lên Núi Với Đức Kitô” · ảnh 2",
+      "caption": "Ca đoàn bắt đầu hành trình tĩnh tâm tại Tam Đảo.",
+      "id": "media/2022/tinh-tam-tam-dao/02/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/02/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/02/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/02/original.jpg",
+          "width": 2568,
+          "height": 1444
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/03/medium.jpg",
+      "alt": "Tĩnh tâm “Lên Núi Với Đức Kitô” · ảnh 3",
+      "caption": "Ca đoàn lưu lại kỷ niệm trong nhà thờ Giáo xứ Tam Đảo.",
+      "id": "media/2022/tinh-tam-tam-dao/03/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/03/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/03/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/03/original.jpg",
+          "width": 2568,
+          "height": 1444
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/04/medium.jpg",
+      "alt": "Tĩnh tâm “Lên Núi Với Đức Kitô” · ảnh 4",
+      "caption": "Các ca viên nam tham gia ghi hình MV “Nụ Hoa Têrêsa” bên nhà thờ đá.",
+      "id": "media/2022/tinh-tam-tam-dao/04/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/04/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/04/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/04/original.jpg",
+          "width": 2568,
+          "height": 1926
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/05/medium.jpg",
+      "alt": "Tĩnh tâm “Lên Núi Với Đức Kitô” · ảnh 5",
+      "caption": "Ca đoàn hiệp dâng Thánh lễ trong ngày tĩnh tâm.",
+      "id": "media/2022/tinh-tam-tam-dao/05/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/05/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/05/medium.jpg",
+          "width": 1280,
+          "height": 719
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/05/original.jpg",
+          "width": 2562,
+          "height": 1440
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/06/medium.jpg",
+      "alt": "Tĩnh tâm “Lên Núi Với Đức Kitô” · ảnh 6",
+      "caption": "Các ca viên nữ trong buổi ghi hình MV “Nụ Hoa Têrêsa”.",
+      "id": "media/2022/tinh-tam-tam-dao/06/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/06/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/06/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/06/original.jpg",
+          "width": 2556,
+          "height": 1438
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/07/medium.jpg",
+      "alt": "Tĩnh tâm “Lên Núi Với Đức Kitô” · ảnh 7",
+      "caption": "Khoảnh khắc của các ca viên nữ tại Tam Đảo.",
+      "id": "media/2022/tinh-tam-tam-dao/07/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/07/thumb.jpg",
+          "width": 270,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/07/medium.jpg",
+          "width": 720,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/07/original.jpg",
+          "width": 1444,
+          "height": 2568
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/08/medium.jpg",
+      "alt": "Tĩnh tâm “Lên Núi Với Đức Kitô” · ảnh 8",
+      "caption": "Giờ cầu nguyện và Thánh lễ tại Giáo xứ Tam Đảo.",
+      "id": "media/2022/tinh-tam-tam-dao/08/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/08/thumb.jpg",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/08/medium.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/08/original.jpg",
+          "width": 1926,
+          "height": 2568
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/09/medium.jpg",
+      "alt": "Tĩnh tâm “Lên Núi Với Đức Kitô” · ảnh 9",
+      "caption": "Ca đoàn lưu ảnh chung trong ngày tĩnh tâm “Lên Núi Với Đức Kitô”.",
+      "id": "media/2022/tinh-tam-tam-dao/09/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/09/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/09/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/09/original.jpg",
+          "width": 2568,
+          "height": 1444
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/10/medium.jpg",
+      "alt": "Tĩnh tâm “Lên Núi Với Đức Kitô” · ảnh 10",
+      "caption": "Một cảnh quay MV “Nụ Hoa Têrêsa” trong nhà thờ.",
+      "id": "media/2022/tinh-tam-tam-dao/10/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/10/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/10/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/10/original.jpg",
+          "width": 2568,
+          "height": 1444
+        }
+      }
+    }
+  ]
+}
