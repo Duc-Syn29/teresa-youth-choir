@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "year": 2023,
+  "activityId": "2023-don-ca-truong-ban-mai",
+  "title": "Chào đón Ca trưởng mới – Chị Maria Ban Mai",
+  "count": 1,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/ca-truong-ban-mai/001/medium.jpg",
+      "alt": "Ca trưởng Maria Ban Mai cùng Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Chào đón Ca trưởng mới – Chị Maria Ban Mai · ảnh 1",
+      "id": "media/2023/ca-truong-ban-mai/001/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/ca-truong-ban-mai/001/thumb.jpg",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/ca-truong-ban-mai/001/medium.jpg",
+          "width": 854,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/ca-truong-ban-mai/001/original.jpg",
+          "width": 854,
+          "height": 1280
+        }
+      }
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "version": 3,
-  "generatedAt": "2026-09-19T06:02:24.455Z",
+  "generatedAt": "2026-09-19T11:09:27.260Z",
   "totals": {
     "years": 12,
     "members": 655,
@@ -440,14 +440,14 @@
       "overview": {
         "eyebrow": "Tin yêu · Dấn thân · Phục vụ",
         "title": "Một chặng đường đong đầy ân sủng",
-        "summary": "Năm 2023 ghi dấu sự chuyển mình về chuyên môn, hai kỳ tĩnh tâm, lễ Quan thầy lần thứ 8, Đại lễ Di Dân, hai lễ hôn phối và chuyến thiện nguyện tại Cao Bằng.",
-        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/archive/hero/medium.jpg"
+        "summary": "Năm 2023 đánh dấu một chặng đường đong đầy kỷ niệm và bừng sáng những hoa trái ân sủng đối với Ca đoàn Giới trẻ Têrêsa.",
+        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/069/medium.jpg"
       },
       "members": {
         "total": 45,
         "new": 10,
         "inactive": 5,
-        "notes": "Ca đoàn đón 10 thành viên mới; khoảng 5 thành viên tạm ngưng sinh hoạt."
+        "notes": "Tổng số ca viên: 45 · Ca viên mới trong năm: 10 · Thành viên nghỉ: 5"
       },
       "leadership": [
         {
@@ -474,91 +474,91 @@
       "events": [
         {
           "id": "2023-khai-xuan-gioi-tre-thua-sai",
-          "title": "Phục vụ Thánh lễ Khai Xuân Giới Trẻ Thừa Sai",
+          "title": "Phục vụ Thánh Lễ Khai Xuân Giới Trẻ Thừa Sai",
           "type": "Thánh lễ",
           "topic": "Thánh lễ",
           "date": "02.02.2023",
-          "description": "Ca đoàn phục vụ Thánh lễ Khai Xuân Giới Trẻ Thừa Sai trong những ngày đầu xuân Quý Mão.",
+          "description": "Những ngày đầu xuân Quý Mão, các ca viên đã gác lại những ưu tư cá nhân để quy tụ đông đủ trong Thánh lễ Khai xuân của Giới Trẻ Thừa Sai. Tiếng hát rộn rã, tươi mới như lời nguyện ước dâng lên Thiên Chúa một năm mới trọn niềm phó thác. Đây cũng là dịp để anh chị em trao cho nhau những lời chúc lành và xốc lại tinh thần hăng hái cho một hành trình phục vụ phía trước",
           "image": "",
           "imageCount": 0
         },
         {
           "id": "2023-hon-phoi-van-tinh-nguyen-thi-mo",
-          "title": "Lễ hôn phối Giuse Phạm Văn Tĩnh và Maria Nguyễn Thị Mơ",
+          "title": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ",
           "type": "Hát lễ cưới",
           "topic": "Hát lễ cưới",
           "date": "08.02.2023 · 18:30",
-          "description": "Ca đoàn phục vụ Thánh lễ hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ, Trưởng ban Liên Kết.",
-          "image": "",
-          "imageCount": 0
+          "description": "Đây là một cột mốc tràn ngập niềm vui và xúc động của toàn thể gia đình Ca đoàn Giới trẻ Têrêsa. Anh Giuse Phạm Văn Tĩnh (Trưởng ca đoàn) và chị Maria Nguyễn Thị Mơ (Trưởng ban Liên kết) – hai con người đã dành trọn nhiệt huyết, thời gian và sức trẻ để góp phần xây dựng ca đoàn, đã tìm thấy nhau và nên duyên vợ chồng từ chính mái nhà chung này",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/medium.jpg",
+          "imageCount": 4
         },
         {
           "id": "2023-don-ca-truong-ban-mai",
-          "title": "Chào đón ca trưởng Maria Ban Mai",
+          "title": "Chào đón Ca trưởng mới – Chị Maria Ban Mai",
           "type": "Thánh nhạc",
           "topic": "Thánh nhạc",
           "date": "03.2023",
-          "description": "Đầu tháng 3, chị Maria Ban Mai bắt đầu đảm nhận vai trò ca trưởng phụ trách chuyên môn.",
-          "image": "",
-          "imageCount": 0
+          "description": "Tháng Ba gõ cửa, đánh dấu một cột mốc chuyển mình đầy ý nghĩa trong đời sống phục vụ của Ca đoàn Giới trẻ Têrêsa khi chào đón chị Ban Mai trong vai trò Ca trưởng phụ trách chuyên môn",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/ca-truong-ban-mai/001/medium.jpg",
+          "imageCount": 1
         },
         {
           "id": "2023-tinh-tam-co-to",
-          "title": "Tĩnh tâm “Dấn Thân Trong Niềm Tin”",
+          "title": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
           "type": "Tĩnh tâm",
           "topic": "Tĩnh tâm",
           "date": "23–25.06.2023",
-          "description": "Ca đoàn tĩnh tâm tại Giáo xứ Cô Tô với chủ đề “Dấn Thân Trong Niềm Tin”.",
-          "image": "",
-          "imageCount": 0
+          "description": "Tạm gác lại những âu lo và bộn bề nơi phố thị, Ca đoàn Giới trẻ Têrêsa lên đường tiến về hòn đảo Cô Tô xinh đẹp. Chuyến di chuyển ra đảo bằng chiếc thuyền gỗ giữa những trận sóng dồn dập, chênh vênh chao đảo như chính hình ảnh đời sống phục vụ đôi lúc gặp nhiều giông bão. Thế nhưng, chính trong khoảnh khắc ấy, lời cầu nguyện “Thầy ơi, cứu con!” lại cất lên đầy tha thiết, nhắc nhớ mỗi ca viên biết trông cậy hoàn toàn vào ơn Chúa mỗi khi đối diện với gian truân, lầm lỗi hay thử thách",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/069/medium.jpg",
+          "imageCount": 81
         },
         {
           "id": "2023-tinh-tam-thanh-minh",
-          "title": "Tĩnh tâm “Người xa quê gặp gỡ chính Chúa Giêsu”",
+          "title": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
           "type": "Tĩnh tâm",
           "topic": "Tĩnh tâm",
           "date": "16.09.2023",
-          "description": "Ca đoàn tham dự ngày tĩnh tâm hướng tới Đại lễ Di Dân và phục vụ Thánh lễ tại Giáo xứ Thanh Minh.",
-          "image": "",
-          "imageCount": 0
+          "description": "Ca đoàn Giới trẻ Têrêsa cùng các hội đoàn trong GĐCGXQ Hà Nội đã gác lại công việc, khởi hành từ 05h30 sáng tiến về Giáo xứ Thanh Minh. Với chủ đề “Người xa quê gặp gỡ chính Chúa Giêsu”, đây là dịp thuận tiện để mỗi ca viên lắng đọng tâm hồn qua các giờ tĩnh tâm, Chầu Thánh Thể linh thiêng và lãnh nhận Bí tích Hòa giải",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/001/medium.jpg",
+          "imageCount": 15
         },
         {
           "id": "2023-quan-thay-lan-thu-8",
-          "title": "Mừng lễ Quan thầy và kỷ niệm 8 năm",
+          "title": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
           "type": "Lễ Quan thầy",
           "topic": "Lễ Quan thầy",
           "date": "03.10.2023 · 18:30",
-          "description": "Ca đoàn mừng kính Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 8 năm thành lập tại Giáo xứ Thái Hà.",
-          "image": "",
-          "imageCount": 0
+          "description": "Cuối tháng 9, bầu khí hướng về Nhà thờ Giáo xứ Thái Hà trở nên rộn rã hơn bao giờ hết. Anh chị em ca viên hăng say dâng những buổi tối hy sinh tập hát và say sưa tập cử điệu. Tất cả cùng hòa quyện khả năng Chúa ban để dệt nên một bản nhạc tạ ơn, noi gương con đường thơ ấu của Thánh Quan thầy: làm việc nhỏ với tình yêu lớn",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/069/medium.jpg",
+          "imageCount": 150
         },
         {
           "id": "2023-dai-le-di-dan",
-          "title": "Phục vụ Đại lễ Di Dân 2023",
+          "title": "Phục vụ Thánh Lễ – Đại Lễ Di Dân 2023",
           "type": "Đại lễ",
           "topic": "Đại lễ",
           "date": "24.10.2023 · 19:00",
-          "description": "Ca đoàn phục vụ Thánh lễ chính trong ngày thứ hai của ba ngày Đại lễ Di Dân 2023.",
+          "description": "Nối dài những hoa trái ân sủng từ ngày tĩnh tâm tại Giáo xứ Thanh Minh, ca đoàn vinh dự đảm nhận hát Thánh lễ chính vào ngày thứ hai trong 3 ngày của Đại Lễ Di Dân lúc 19h00 tại nhà thờ Giáo xứ Thái Hà. Sự hiệp nhất trọn vẹn trong từng lời ca chính là minh chứng rõ nét cho tinh thần dấn thân, khép lại một mốc son phụng sự rực rỡ và đong đầy ân sủng của ca đoàn",
           "image": "",
           "imageCount": 0
         },
         {
           "id": "2023-hon-phoi-van-anh-an-sung",
-          "title": "Lễ hôn phối Maria Vân Anh và Giuse Ân Sủng",
+          "title": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
           "type": "Hát lễ cưới",
           "topic": "Hát lễ cưới",
           "date": "17.11.2023",
-          "description": "Ca đoàn phục vụ Thánh lễ hôn phối của chị Maria Vân Anh và anh Giuse Ân Sủng tại Giáo xứ Cẩm Sơn.",
-          "image": "",
-          "imageCount": 0
+          "description": "Đáp lại lời ngỏ chân thành của chị Vân Anh — người ca viên luôn nhiệt thành, Ca đoàn Giới trẻ Têrêsa đã hân hoan quy tụ về Giáo xứ Cẩm Sơn để phục vụ Thánh lễ Hôn phối cho chị Maria Vân Anh và anh Giuse Ân Sủng. Đây là Thánh lễ Hôn phối thứ hai của ca viên mà đại gia đình Têrêsa vinh dự được đồng hành phục vụ trong năm 2023. Được phục vụ thánh lễ, được chứng kiến khoảnh khắc thiêng khi hai tâm hồn trao lời thề hứa trước bàn thờ Chúa là niềm hạnh phúc của cả ca đoàn. Những lời ca cất lên không chỉ là món quà vô giá gửi trao, mà còn là lời nguyện cầu tha thiết dâng lên Thiên Chúa, chúc phúc cho đôi tân hôn luôn trung thành, yêu thương và cùng nhau xây đắp một mái ấm ngập tràn ân sủng",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/011/medium.jpg",
+          "imageCount": 11
         },
         {
           "id": "2023-hoi-am-noi-reo-cao",
-          "title": "Hơi ấm nơi rẻo cao",
+          "title": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
           "type": "Thiện nguyện",
           "topic": "Thiện nguyện",
           "date": "16–17.12.2023",
-          "description": "Ca đoàn trao 115 phần quà tại hai bản Lũng Lừa và Lũng Khỉnh, huyện Hà Quảng, tỉnh Cao Bằng.",
+          "description": "Nhờ sự nâng đỡ của quý Cha Đặc trách cùng sự rộng lượng của quý ân nhân, chuyến thiện nguyện \"Hơi ấm nơi rẻo cao\" đã lăn bánh trong đêm đông 15/12/2023.",
           "image": "",
           "imageCount": 0
         }

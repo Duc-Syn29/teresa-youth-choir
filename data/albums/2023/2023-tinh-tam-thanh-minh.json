@@ -1,0 +1,354 @@
+{
+  "schemaVersion": 1,
+  "year": 2023,
+  "activityId": "2023-tinh-tam-thanh-minh",
+  "title": "Tĩnh tâm tại Giáo xứ Thanh Minh",
+  "count": 15,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/001/medium.jpg",
+      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
+      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 1",
+      "id": "media/2023/tinh-tam-thanh-minh/001/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/001/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/001/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/001/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/002/medium.jpg",
+      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
+      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 2",
+      "id": "media/2023/tinh-tam-thanh-minh/002/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/002/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/002/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/002/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/003/medium.jpg",
+      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
+      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 3",
+      "id": "media/2023/tinh-tam-thanh-minh/003/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/003/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/003/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/003/original.jpg",
+          "width": 2560,
+          "height": 1920
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/004/medium.jpg",
+      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
+      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 4",
+      "id": "media/2023/tinh-tam-thanh-minh/004/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/004/thumb.jpg",
+          "width": 480,
+          "height": 368
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/004/medium.jpg",
+          "width": 1280,
+          "height": 981
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/004/original.jpg",
+          "width": 2560,
+          "height": 1962
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/005/medium.jpg",
+      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
+      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 5",
+      "id": "media/2023/tinh-tam-thanh-minh/005/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/005/thumb.jpg",
+          "width": 480,
+          "height": 325
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/005/medium.jpg",
+          "width": 1280,
+          "height": 867
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/005/original.jpg",
+          "width": 2560,
+          "height": 1734
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/006/medium.jpg",
+      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
+      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 6",
+      "id": "media/2023/tinh-tam-thanh-minh/006/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/006/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/006/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/006/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/007/medium.jpg",
+      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
+      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 7",
+      "id": "media/2023/tinh-tam-thanh-minh/007/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/007/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/007/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/007/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/008/medium.jpg",
+      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
+      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 8",
+      "id": "media/2023/tinh-tam-thanh-minh/008/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/008/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/008/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/008/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/009/medium.jpg",
+      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
+      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 9",
+      "id": "media/2023/tinh-tam-thanh-minh/009/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/009/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/009/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/009/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/010/medium.jpg",
+      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
+      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 10",
+      "id": "media/2023/tinh-tam-thanh-minh/010/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/010/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/010/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/010/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/011/medium.jpg",
+      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
+      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 11",
+      "id": "media/2023/tinh-tam-thanh-minh/011/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/011/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/011/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/011/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/012/medium.jpg",
+      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
+      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 12",
+      "id": "media/2023/tinh-tam-thanh-minh/012/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/012/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/012/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/012/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/013/medium.jpg",
+      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
+      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 13",
+      "id": "media/2023/tinh-tam-thanh-minh/013/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/013/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/013/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/013/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/014/medium.jpg",
+      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
+      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 14",
+      "id": "media/2023/tinh-tam-thanh-minh/014/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/014/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/014/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/014/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/015/medium.jpg",
+      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
+      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 15",
+      "id": "media/2023/tinh-tam-thanh-minh/015/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/015/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/015/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/015/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "year": 2023,
+  "activityId": "2023-hon-phoi-van-tinh-nguyen-thi-mo",
+  "title": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ",
+  "count": 4,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/001/medium.jpg",
+      "alt": "Thánh lễ Hôn phối của anh Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ",
+      "caption": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ · ảnh 1",
+      "id": "media/2023/hon-phoi-tinh-mo/001/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/001/thumb.jpg",
+          "width": 480,
+          "height": 393
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/001/medium.jpg",
+          "width": 1280,
+          "height": 1048
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/001/original.jpg",
+          "width": 1280,
+          "height": 1048
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/002/medium.jpg",
+      "alt": "Thánh lễ Hôn phối của anh Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ",
+      "caption": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ · ảnh 2",
+      "id": "media/2023/hon-phoi-tinh-mo/002/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/002/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/002/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/002/original.jpg",
+          "width": 1280,
+          "height": 960
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/003/medium.jpg",
+      "alt": "Thánh lễ Hôn phối của anh Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ",
+      "caption": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ · ảnh 3",
+      "id": "media/2023/hon-phoi-tinh-mo/003/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/003/thumb.jpg",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/003/medium.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/003/original.jpg",
+          "width": 960,
+          "height": 1280
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/medium.jpg",
+      "alt": "Thánh lễ Hôn phối của anh Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ",
+      "caption": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ · ảnh 4",
+      "id": "media/2023/hon-phoi-tinh-mo/004/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/thumb.jpg",
+          "width": 480,
+          "height": 210
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/medium.jpg",
+          "width": 1280,
+          "height": 560
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/original.jpg",
+          "width": 2936,
+          "height": 1284
+        }
+      }
+    }
+  ]
+}

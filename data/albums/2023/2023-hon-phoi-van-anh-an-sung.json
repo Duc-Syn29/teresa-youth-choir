@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 1,
+  "year": 2023,
+  "activityId": "2023-hon-phoi-van-anh-an-sung",
+  "title": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
+  "count": 11,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/001/medium.jpg",
+      "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
+      "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 1",
+      "id": "media/2023/hon-phoi-van-anh-an-sung/001/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/001/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/001/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/001/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/002/medium.jpg",
+      "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
+      "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 2",
+      "id": "media/2023/hon-phoi-van-anh-an-sung/002/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/002/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/002/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/002/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/003/medium.jpg",
+      "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
+      "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 3",
+      "id": "media/2023/hon-phoi-van-anh-an-sung/003/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/003/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/003/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/003/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/004/medium.jpg",
+      "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
+      "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 4",
+      "id": "media/2023/hon-phoi-van-anh-an-sung/004/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/004/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/004/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/004/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/005/medium.jpg",
+      "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
+      "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 5",
+      "id": "media/2023/hon-phoi-van-anh-an-sung/005/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/005/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/005/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/005/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/006/medium.jpg",
+      "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
+      "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 6",
+      "id": "media/2023/hon-phoi-van-anh-an-sung/006/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/006/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/006/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/006/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/007/medium.jpg",
+      "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
+      "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 7",
+      "id": "media/2023/hon-phoi-van-anh-an-sung/007/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/007/thumb.jpg",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/007/medium.jpg",
+          "width": 854,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/007/original.jpg",
+          "width": 854,
+          "height": 1280
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/008/medium.jpg",
+      "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
+      "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 8",
+      "id": "media/2023/hon-phoi-van-anh-an-sung/008/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/008/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/008/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/008/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/009/medium.jpg",
+      "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
+      "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 9",
+      "id": "media/2023/hon-phoi-van-anh-an-sung/009/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/009/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/009/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/009/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/010/medium.jpg",
+      "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
+      "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 10",
+      "id": "media/2023/hon-phoi-van-anh-an-sung/010/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/010/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/010/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/010/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/011/medium.jpg",
+      "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
+      "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 11",
+      "id": "media/2023/hon-phoi-van-anh-an-sung/011/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/011/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/011/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/011/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    }
+  ]
+}
