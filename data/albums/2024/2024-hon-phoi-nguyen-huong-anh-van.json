@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "activityId": "2024-hon-phoi-nguyen-huong-anh-van",
+  "title": "Lễ hôn phối Nguyễn Hương và Anh Văn",
+  "count": 1,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-nguyen-huong-anh-van/001-22002281aa/medium.jpg",
+      "alt": "Ca đoàn trong lễ hôn phối nguyễn hương và anh văn.",
+      "caption": "Ca đoàn trong lễ hôn phối nguyễn hương và anh văn.",
+      "id": "media/2024/2024-hon-phoi-nguyen-huong-anh-van/001-22002281aa/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-nguyen-huong-anh-van/001-22002281aa/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-nguyen-huong-anh-van/001-22002281aa/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-nguyen-huong-anh-van/001-22002281aa/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
+    }
+  ]
+}

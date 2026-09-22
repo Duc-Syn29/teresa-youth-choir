@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "activityId": "2024-hoan-ca-tri-an",
+  "title": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+  "count": 10,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/001-af61c7b4d9/medium.jpg",
+      "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
+      "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
+      "id": "media/2024/2024-hoan-ca-tri-an/001-af61c7b4d9/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/001-af61c7b4d9/thumb.jpg",
+          "width": 480,
+          "height": 269
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/001-af61c7b4d9/medium.jpg",
+          "width": 1280,
+          "height": 716
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/001-af61c7b4d9/original.jpg",
+          "width": 1280,
+          "height": 716
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/002-fb8e6afe92/medium.jpg",
+      "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
+      "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
+      "id": "media/2024/2024-hoan-ca-tri-an/002-fb8e6afe92/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/002-fb8e6afe92/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/002-fb8e6afe92/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/002-fb8e6afe92/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/003-30c82cc1f4/medium.jpg",
+      "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
+      "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
+      "id": "media/2024/2024-hoan-ca-tri-an/003-30c82cc1f4/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/003-30c82cc1f4/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/003-30c82cc1f4/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/003-30c82cc1f4/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/004-f2c7c20d0a/medium.jpg",
+      "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
+      "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
+      "id": "media/2024/2024-hoan-ca-tri-an/004-f2c7c20d0a/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/004-f2c7c20d0a/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/004-f2c7c20d0a/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/004-f2c7c20d0a/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/005-cd6bcfe8ce/medium.jpg",
+      "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
+      "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
+      "id": "media/2024/2024-hoan-ca-tri-an/005-cd6bcfe8ce/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/005-cd6bcfe8ce/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/005-cd6bcfe8ce/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/005-cd6bcfe8ce/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/006-1880e15887/medium.jpg",
+      "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
+      "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
+      "id": "media/2024/2024-hoan-ca-tri-an/006-1880e15887/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/006-1880e15887/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/006-1880e15887/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/006-1880e15887/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/007-c2dfa299b8/medium.jpg",
+      "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
+      "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
+      "id": "media/2024/2024-hoan-ca-tri-an/007-c2dfa299b8/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/007-c2dfa299b8/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/007-c2dfa299b8/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/007-c2dfa299b8/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/008-361eb17ec9/medium.jpg",
+      "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
+      "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
+      "id": "media/2024/2024-hoan-ca-tri-an/008-361eb17ec9/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/008-361eb17ec9/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/008-361eb17ec9/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/008-361eb17ec9/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/009-a719951de1/medium.jpg",
+      "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
+      "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
+      "id": "media/2024/2024-hoan-ca-tri-an/009-a719951de1/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/009-a719951de1/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/009-a719951de1/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/009-a719951de1/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/010-8fe4a9f8fc/medium.jpg",
+      "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
+      "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
+      "id": "media/2024/2024-hoan-ca-tri-an/010-8fe4a9f8fc/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/010-8fe4a9f8fc/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/010-8fe4a9f8fc/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/010-8fe4a9f8fc/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    }
+  ]
+}

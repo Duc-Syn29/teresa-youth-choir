@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "activityId": "2024-cau-nguyen-sau-bao-yagi",
+  "title": "Cầu nguyện cho đồng bào miền Bắc sau bão Yagi",
+  "count": 1,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-sau-bao-yagi/001-8951171879/medium.jpg",
+      "alt": "Giờ cầu nguyện hướng về đồng bào miền Bắc sau bão Yagi.",
+      "caption": "Giờ cầu nguyện hướng về đồng bào miền Bắc sau bão Yagi.",
+      "id": "media/2024/2024-cau-nguyen-sau-bao-yagi/001-8951171879/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-sau-bao-yagi/001-8951171879/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-sau-bao-yagi/001-8951171879/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-sau-bao-yagi/001-8951171879/original.jpg",
+          "width": 1280,
+          "height": 960
+        }
+      }
+    }
+  ]
+}

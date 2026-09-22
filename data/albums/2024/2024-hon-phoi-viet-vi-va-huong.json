@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "activityId": "2024-hon-phoi-viet-vi-va-huong",
+  "title": "Lễ hôn phối Giuse Trần Viết Vĩ và Hương",
+  "count": 1,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-viet-vi-va-huong/001-dafe194306/medium.jpg",
+      "alt": "Ca đoàn trong lễ hôn phối giuse trần viết vĩ và hương.",
+      "caption": "Ca đoàn trong lễ hôn phối giuse trần viết vĩ và hương.",
+      "id": "media/2024/2024-hon-phoi-viet-vi-va-huong/001-dafe194306/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-viet-vi-va-huong/001-dafe194306/thumb.jpg",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-viet-vi-va-huong/001-dafe194306/medium.jpg",
+          "width": 854,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-viet-vi-va-huong/001-dafe194306/original.jpg",
+          "width": 854,
+          "height": 1280
+        }
+      }
+    }
+  ]
+}

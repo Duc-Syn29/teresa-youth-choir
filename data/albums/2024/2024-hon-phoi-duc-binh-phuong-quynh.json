@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "activityId": "2024-hon-phoi-duc-binh-phuong-quynh",
+  "title": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+  "count": 3,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/001-200ffc102d/medium.jpg",
+      "alt": "Ca đoàn trong lễ hôn phối đức bình và phương quỳnh.",
+      "caption": "Ca đoàn trong lễ hôn phối đức bình và phương quỳnh.",
+      "id": "media/2024/2024-hon-phoi-duc-binh-phuong-quynh/001-200ffc102d/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/001-200ffc102d/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/001-200ffc102d/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/001-200ffc102d/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/002-abd0ae9d33/medium.jpg",
+      "alt": "Ca đoàn trong lễ hôn phối đức bình và phương quỳnh.",
+      "caption": "Ca đoàn trong lễ hôn phối đức bình và phương quỳnh.",
+      "id": "media/2024/2024-hon-phoi-duc-binh-phuong-quynh/002-abd0ae9d33/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/002-abd0ae9d33/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/002-abd0ae9d33/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/002-abd0ae9d33/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/003-2a7903ca58/medium.jpg",
+      "alt": "Ca đoàn trong lễ hôn phối đức bình và phương quỳnh.",
+      "caption": "Ca đoàn trong lễ hôn phối đức bình và phương quỳnh.",
+      "id": "media/2024/2024-hon-phoi-duc-binh-phuong-quynh/003-2a7903ca58/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/003-2a7903ca58/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/003-2a7903ca58/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/003-2a7903ca58/original.jpg",
+          "width": 1280,
+          "height": 854
+        }
+      }
+    }
+  ]
+}

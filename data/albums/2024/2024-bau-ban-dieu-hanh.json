@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "activityId": "2024-bau-ban-dieu-hanh",
+  "title": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+  "count": 4,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/001-0fac636af3/medium.jpg",
+      "alt": "Ban Điều Hành nhiệm kỳ 2024–2026.",
+      "caption": "Ban Điều Hành nhiệm kỳ 2024–2026.",
+      "id": "media/2024/2024-bau-ban-dieu-hanh/001-0fac636af3/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/001-0fac636af3/thumb.jpg",
+          "width": 480,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/001-0fac636af3/medium.jpg",
+          "width": 1280,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/001-0fac636af3/original.jpg",
+          "width": 1280,
+          "height": 1280
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/002-e671f8fd06/medium.jpg",
+      "alt": "Ban Điều Hành nhiệm kỳ 2024–2026.",
+      "caption": "Ban Điều Hành nhiệm kỳ 2024–2026.",
+      "id": "media/2024/2024-bau-ban-dieu-hanh/002-e671f8fd06/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/002-e671f8fd06/thumb.jpg",
+          "width": 341,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/002-e671f8fd06/medium.jpg",
+          "width": 908,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/002-e671f8fd06/original.jpg",
+          "width": 908,
+          "height": 1280
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/003-caeb01db74/medium.jpg",
+      "alt": "Ban Điều Hành nhiệm kỳ 2024–2026.",
+      "caption": "Ban Điều Hành nhiệm kỳ 2024–2026.",
+      "id": "media/2024/2024-bau-ban-dieu-hanh/003-caeb01db74/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/003-caeb01db74/thumb.jpg",
+          "width": 341,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/003-caeb01db74/medium.jpg",
+          "width": 908,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/003-caeb01db74/original.jpg",
+          "width": 908,
+          "height": 1280
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/004-ec5ff66e1d/medium.jpg",
+      "alt": "Ban Điều Hành nhiệm kỳ 2024–2026.",
+      "caption": "Ban Điều Hành nhiệm kỳ 2024–2026.",
+      "id": "media/2024/2024-bau-ban-dieu-hanh/004-ec5ff66e1d/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/004-ec5ff66e1d/thumb.jpg",
+          "width": 341,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/004-ec5ff66e1d/medium.jpg",
+          "width": 908,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/004-ec5ff66e1d/original.jpg",
+          "width": 908,
+          "height": 1280
+        }
+      }
+    }
+  ]
+}

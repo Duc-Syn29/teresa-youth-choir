@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "activityId": "2024-tinh-tam-cua-bac",
+  "title": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+  "count": 7,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/001-63916e852a/medium.jpg",
+      "alt": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
+      "caption": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
+      "id": "media/2024/2024-tinh-tam-cua-bac/001-63916e852a/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/001-63916e852a/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/001-63916e852a/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/001-63916e852a/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/002-a77225d72c/medium.jpg",
+      "alt": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
+      "caption": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
+      "id": "media/2024/2024-tinh-tam-cua-bac/002-a77225d72c/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/002-a77225d72c/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/002-a77225d72c/medium.jpg",
+          "width": 1280,
+          "height": 961
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/002-a77225d72c/original.jpg",
+          "width": 2048,
+          "height": 1537
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/003-a709439004/medium.jpg",
+      "alt": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
+      "caption": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
+      "id": "media/2024/2024-tinh-tam-cua-bac/003-a709439004/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/003-a709439004/thumb.jpg",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/003-a709439004/medium.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/003-a709439004/original.jpg",
+          "width": 1536,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/004-560afe06a8/medium.jpg",
+      "alt": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
+      "caption": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
+      "id": "media/2024/2024-tinh-tam-cua-bac/004-560afe06a8/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/004-560afe06a8/thumb.jpg",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/004-560afe06a8/medium.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/004-560afe06a8/original.jpg",
+          "width": 1536,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/005-01e138cf51/medium.jpg",
+      "alt": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
+      "caption": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
+      "id": "media/2024/2024-tinh-tam-cua-bac/005-01e138cf51/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/005-01e138cf51/thumb.jpg",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/005-01e138cf51/medium.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/005-01e138cf51/original.jpg",
+          "width": 1536,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/006-1ed6ef5ffa/medium.jpg",
+      "alt": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
+      "caption": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
+      "id": "media/2024/2024-tinh-tam-cua-bac/006-1ed6ef5ffa/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/006-1ed6ef5ffa/thumb.jpg",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/006-1ed6ef5ffa/medium.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/006-1ed6ef5ffa/original.jpg",
+          "width": 1536,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/007-1dfb083618/medium.jpg",
+      "alt": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
+      "caption": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
+      "id": "media/2024/2024-tinh-tam-cua-bac/007-1dfb083618/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/007-1dfb083618/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/007-1dfb083618/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/007-1dfb083618/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
+    }
+  ]
+}

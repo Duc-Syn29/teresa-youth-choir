@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "activityId": "2024-hon-phoi-hai-duong-phuong-dung",
+  "title": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung",
+  "count": 2,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/001-aaa7b3d7cf/medium.jpg",
+      "alt": "Ca đoàn trong lễ hôn phối phêrô phạm hải dương và cecilia hoàng phương dung.",
+      "caption": "Ca đoàn trong lễ hôn phối phêrô phạm hải dương và cecilia hoàng phương dung.",
+      "id": "media/2024/2024-hon-phoi-hai-duong-phuong-dung/001-aaa7b3d7cf/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/001-aaa7b3d7cf/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/001-aaa7b3d7cf/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/001-aaa7b3d7cf/original.jpg",
+          "width": 1280,
+          "height": 852
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/002-5c95e3ded1/medium.jpg",
+      "alt": "Ca đoàn trong lễ hôn phối phêrô phạm hải dương và cecilia hoàng phương dung.",
+      "caption": "Ca đoàn trong lễ hôn phối phêrô phạm hải dương và cecilia hoàng phương dung.",
+      "id": "media/2024/2024-hon-phoi-hai-duong-phuong-dung/002-5c95e3ded1/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/002-5c95e3ded1/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/002-5c95e3ded1/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/002-5c95e3ded1/original.jpg",
+          "width": 1280,
+          "height": 852
+        }
+      }
+    }
+  ]
+}

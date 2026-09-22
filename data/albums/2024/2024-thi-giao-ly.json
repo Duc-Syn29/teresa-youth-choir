@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "activityId": "2024-thi-giao-ly",
+  "title": "Hội thi Giáo lý",
+  "count": 11,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/001-a31412cd99/medium.jpg",
+      "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
+      "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
+      "id": "media/2024/2024-thi-giao-ly/001-a31412cd99/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/001-a31412cd99/thumb.jpg",
+          "width": 480,
+          "height": 333
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/001-a31412cd99/medium.jpg",
+          "width": 1280,
+          "height": 888
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/001-a31412cd99/original.jpg",
+          "width": 2048,
+          "height": 1421
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/002-ed9491d86d/medium.jpg",
+      "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
+      "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
+      "id": "media/2024/2024-thi-giao-ly/002-ed9491d86d/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/002-ed9491d86d/thumb.jpg",
+          "width": 480,
+          "height": 326
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/002-ed9491d86d/medium.jpg",
+          "width": 1280,
+          "height": 870
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/002-ed9491d86d/original.jpg",
+          "width": 2048,
+          "height": 1392
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/003-e8708b78b0/medium.jpg",
+      "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
+      "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
+      "id": "media/2024/2024-thi-giao-ly/003-e8708b78b0/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/003-e8708b78b0/thumb.jpg",
+          "width": 480,
+          "height": 328
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/003-e8708b78b0/medium.jpg",
+          "width": 1280,
+          "height": 874
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/003-e8708b78b0/original.jpg",
+          "width": 2048,
+          "height": 1398
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/004-6c0681ba9f/medium.jpg",
+      "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
+      "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
+      "id": "media/2024/2024-thi-giao-ly/004-6c0681ba9f/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/004-6c0681ba9f/thumb.jpg",
+          "width": 480,
+          "height": 305
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/004-6c0681ba9f/medium.jpg",
+          "width": 1280,
+          "height": 813
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/004-6c0681ba9f/original.jpg",
+          "width": 2048,
+          "height": 1300
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/005-383bfcf670/medium.jpg",
+      "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
+      "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
+      "id": "media/2024/2024-thi-giao-ly/005-383bfcf670/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/005-383bfcf670/thumb.jpg",
+          "width": 480,
+          "height": 354
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/005-383bfcf670/medium.jpg",
+          "width": 1280,
+          "height": 944
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/005-383bfcf670/original.jpg",
+          "width": 2048,
+          "height": 1510
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/006-588928f99b/medium.jpg",
+      "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
+      "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
+      "id": "media/2024/2024-thi-giao-ly/006-588928f99b/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/006-588928f99b/thumb.jpg",
+          "width": 480,
+          "height": 339
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/006-588928f99b/medium.jpg",
+          "width": 1280,
+          "height": 905
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/006-588928f99b/original.jpg",
+          "width": 2048,
+          "height": 1448
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/007-d067bd5f10/medium.jpg",
+      "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
+      "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
+      "id": "media/2024/2024-thi-giao-ly/007-d067bd5f10/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/007-d067bd5f10/thumb.jpg",
+          "width": 480,
+          "height": 316
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/007-d067bd5f10/medium.jpg",
+          "width": 1280,
+          "height": 843
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/007-d067bd5f10/original.jpg",
+          "width": 2048,
+          "height": 1348
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/008-18c73939b0/medium.jpg",
+      "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
+      "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
+      "id": "media/2024/2024-thi-giao-ly/008-18c73939b0/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/008-18c73939b0/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/008-18c73939b0/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/008-18c73939b0/original.jpg",
+          "width": 2048,
+          "height": 1366
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/009-a4b8e0ff72/medium.jpg",
+      "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
+      "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
+      "id": "media/2024/2024-thi-giao-ly/009-a4b8e0ff72/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/009-a4b8e0ff72/thumb.jpg",
+          "width": 480,
+          "height": 354
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/009-a4b8e0ff72/medium.jpg",
+          "width": 1280,
+          "height": 945
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/009-a4b8e0ff72/original.jpg",
+          "width": 2048,
+          "height": 1512
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/010-21a25f2b2d/medium.jpg",
+      "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
+      "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
+      "id": "media/2024/2024-thi-giao-ly/010-21a25f2b2d/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/010-21a25f2b2d/thumb.jpg",
+          "width": 480,
+          "height": 334
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/010-21a25f2b2d/medium.jpg",
+          "width": 1280,
+          "height": 890
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/010-21a25f2b2d/original.jpg",
+          "width": 2048,
+          "height": 1424
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/011-715697a6d0/medium.jpg",
+      "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
+      "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
+      "id": "media/2024/2024-thi-giao-ly/011-715697a6d0/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/011-715697a6d0/thumb.jpg",
+          "width": 480,
+          "height": 361
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/011-715697a6d0/medium.jpg",
+          "width": 1280,
+          "height": 964
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/011-715697a6d0/original.jpg",
+          "width": 2048,
+          "height": 1542
+        }
+      }
+    }
+  ]
+}

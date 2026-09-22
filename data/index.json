@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "version": 3,
-  "generatedAt": "2026-09-19T11:09:27.260Z",
+  "generatedAt": "2026-09-22T13:05:22.439Z",
   "totals": {
     "years": 12,
     "members": 655,
@@ -231,8 +231,8 @@
       "overview": {
         "eyebrow": "Đức tin · Tình huynh đệ · Phục vụ",
         "title": "Nối dài sứ mạng, khắc ghi dấu ấn",
-        "summary": "Năm 2024 ghi dấu đời sống học hỏi, cầu nguyện, tĩnh tâm, sáu lễ hôn phối, chuyển giao ban điều hành, lễ Quan thầy lần thứ 9, Đại lễ Di Dân và chương trình Đông Ấm Na Rì.",
-        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/archive/hero/medium.jpg"
+        "summary": "Năm 2024 là một dấu mốc đáng nhớ của Ca đoàn Giới trẻ Teresa. Tiếp nối những dấu ấn từ năm 2023, năm qua đã trở thành một hành trình đáng nhớ, nơi tình yêu Chúa và tinh thần đơn sơ, khiêm nhường của Thánh Quan thầy Têrêsa Hài Đồng Giêsu được thể hiện qua từng tiếng hát, từng lời cầu nguyện và sự dấn thân phục vụ của mỗi thành viên.",
+        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-quan-thay-lan-thu-9/069-4238f6095a/medium.jpg"
       },
       "members": {
         "total": 75,
@@ -269,9 +269,9 @@
           "type": "Hát lễ cưới",
           "topic": "Hát lễ cưới",
           "date": "30.01.2024",
-          "description": "Gần 45 ca viên phục vụ Thánh lễ hôn phối của anh Phêrô Phạm Hải Dương và chị Cecilia Hoàng Phương Dung.",
-          "image": "",
-          "imageCount": 0
+          "description": "Ngày 30/1/2024, gần 45 anh chị em ca viên cùng nhau hiện diện tại ngôi Nhà thờ Chính Tòa Phát Diệm.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/001-aaa7b3d7cf/medium.jpg",
+          "imageCount": 2
         },
         {
           "id": "2024-hon-phoi-minh-hieu-huong-giang",
@@ -279,9 +279,9 @@
           "type": "Hát lễ cưới",
           "topic": "Hát lễ cưới",
           "date": "27.02.2024",
-          "description": "Theo lời mời của anh Hạng, ca đoàn phục vụ Thánh lễ hôn phối của anh Minh Hiếu và chị Hương Giang.",
-          "image": "",
-          "imageCount": 0
+          "description": "Ngày 27/2/2024, Nhận lời mời của a Hạng một ca viên của ca đoàn.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-minh-hieu-huong-giang/004-cd2c48a31c/medium.jpg",
+          "imageCount": 4
         },
         {
           "id": "2024-ruoc-kieng-phuc-sinh",
@@ -289,7 +289,7 @@
           "type": "Phục Sinh",
           "topic": "Phục Sinh",
           "date": "31.03.2024",
-          "description": "Ca đoàn tham dự đoàn rước kiệu mừng Chúa Phục Sinh và góp tiếng hát cùng cộng đoàn Giáo xứ Thái Hà.",
+          "description": "Ngày 31/3/2024, trong niềm vui hân hoan của Đại lễ Phục Sinh năm 2024, Giáo xứ Thái Hà long trọng tổ chức chương trình Rước kiệu mừng Chúa Phục Sinh với sự tham dự đông đảo của cộng đoàn.",
           "image": "",
           "imageCount": 0
         },
@@ -299,9 +299,9 @@
           "type": "Hát lễ cưới",
           "topic": "Hát lễ cưới",
           "date": "13.04.2024",
-          "description": "Ca đoàn phục vụ Thánh lễ hôn phối của chị Nguyễn Hương và anh Anh Văn tại Giáo xứ Trung Châu, Hưng Yên.",
-          "image": "",
-          "imageCount": 0
+          "description": "Ngày 13/4/2024, Thánh Lễ Hôn Phối chị Nguyễn Hương và anh Anh Văn tại Gx.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-nguyen-huong-anh-van/001-22002281aa/medium.jpg",
+          "imageCount": 1
         },
         {
           "id": "2024-cau-nguyen-chuan-bi-tinh-tam",
@@ -309,9 +309,9 @@
           "type": "Cầu nguyện",
           "topic": "Cầu nguyện",
           "date": "07.06.2024",
-          "description": "Sau giờ tập hát, ca đoàn dành thời gian cầu nguyện để hướng tới kỳ tĩnh tâm tại Đan viện Thiên Hà.",
-          "image": "",
-          "imageCount": 0
+          "description": "Ngày 7/6/2024, sau giờ tập hát, Ca đoàn Giới Trẻ Têrêsa đã cùng nhau dành những giây phút lắng đọng để cầu nguyện và chuẩn bị tâm hồn hướng đến ngày tĩnh tâm của ca đoàn tại An viện Thiên Hà, Hòa Bình.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/004-4e2802f70e/medium.jpg",
+          "imageCount": 4
         },
         {
           "id": "2024-thi-giao-ly",
@@ -319,9 +319,9 @@
           "type": "Học hỏi",
           "topic": "Học hỏi",
           "date": "22.06.2024",
-          "description": "Ca đoàn tham dự Cuộc thi Tìm hiểu Giáo lý 2024 do Giáo xứ Thái Hà tổ chức và đạt giải Nhì chung cuộc.",
-          "image": "",
-          "imageCount": 0
+          "description": "Ngày 22 tháng 06 năm 2024, Ca đoàn chúng ta đã ghi dấu những khoảnh khắc thật đẹp tại Cuộc thi Tìm hiểu Giáo lý 2024 do Giáo xứ Thái Hà tổ chức.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/003-e8708b78b0/medium.jpg",
+          "imageCount": 11
         },
         {
           "id": "2024-tinh-tam-thien-ha",
@@ -329,9 +329,9 @@
           "type": "Tĩnh tâm",
           "topic": "Tĩnh tâm",
           "date": "27–28.07.2024",
-          "description": "Kỳ tĩnh tâm “Ở lại và được Ngài sai đi” diễn ra tại Đan viện Biển Đức Thiên Hà, Hòa Bình.",
-          "image": "",
-          "imageCount": 0
+          "description": "Chủ đề: “Ở lại và được ngài sai đi”",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/035-9bde27fe85/medium.jpg",
+          "imageCount": 39
         },
         {
           "id": "2024-bau-ban-dieu-hanh",
@@ -339,9 +339,9 @@
           "type": "Cộng đoàn",
           "topic": "Cộng đoàn",
           "date": "15.08.2024 · 21:00",
-          "description": "Ca đoàn bầu Ban Điều Hành nhiệm kỳ 2024–2026 sau Thánh lễ Đức Mẹ Hồn Xác Lên Trời.",
-          "image": "",
-          "imageCount": 0
+          "description": "Vào lúc 21h thứ 5 ngày 15/8/2024, sau khi phục vụ Thánh Lễ Đức Mẹ Hồn Xác Lên Trờilucs 20h00 tại Giáo xứ Thái Hà.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/001-0fac636af3/medium.jpg",
+          "imageCount": 4
         },
         {
           "id": "2024-cau-nguyen-sau-bao-yagi",
@@ -349,9 +349,9 @@
           "type": "Cầu nguyện",
           "topic": "Cầu nguyện",
           "date": "09.2024",
-          "description": "Các ca viên quy tụ cầu nguyện cho đồng bào miền Bắc chịu thiệt hại sau bão Yagi.",
-          "image": "",
-          "imageCount": 0
+          "description": "Bên cạnh những buổi tập hát hàng tuần và những lần cùng nhau phục vụ Thánh lễ, Ca đoàn cũng luôn dành thời gian cho những hoạt động cầu nguyện và sẻ chia.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-sau-bao-yagi/001-8951171879/medium.jpg",
+          "imageCount": 1
         },
         {
           "id": "2024-tinh-tam-cua-bac",
@@ -359,9 +359,9 @@
           "type": "Tĩnh tâm",
           "topic": "Tĩnh tâm",
           "date": "09.2024",
-          "description": "Ca đoàn tĩnh tâm và cầu nguyện tại Nhà thờ Giáo xứ Cửa Bắc để chuẩn bị lễ Quan thầy.",
-          "image": "",
-          "imageCount": 0
+          "description": "Để chuẩn bị tâm hồn sốt sắng cho Thánh lễ Quan thầy diễn ra vào tháng 10, các anh chị em trong Ca đoàn tiếp tục tham dự buổi tĩnh tâm và cầu nguyện tại Nhà thờ Giáo xứ Cửa Bắc.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/007-1dfb083618/medium.jpg",
+          "imageCount": 7
         },
         {
           "id": "2024-hon-phoi-viet-vi-va-huong",
@@ -369,9 +369,9 @@
           "type": "Hát lễ cưới",
           "topic": "Hát lễ cưới",
           "date": "22.09.2024",
-          "description": "Ca đoàn về Giáo xứ Trung Linh, Giáo phận Bùi Chu để chúc mừng lễ hôn phối của anh phó Giuse Trần Viết Vĩ và chị Hương.",
-          "image": "",
-          "imageCount": 0
+          "description": "Ngày 22/9/2024, Ca đoàn hân hoan chúc mừng anh Phó Vĩ, là người anh vô cùng đáng yêu, nhiệt thành đã và đang hoạt động nhiệt huyết trong ca đoàn, cảm tạ và ngợi khen Chúa vì đã luôn soi sáng, dẫn đường cho tình yêu của anh Phó Từ Từ Vĩ và chị Hương Hương “nên một” với nhau.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-viet-vi-va-huong/001-dafe194306/medium.jpg",
+          "imageCount": 1
         },
         {
           "id": "2024-quan-thay-lan-thu-9",
@@ -379,9 +379,9 @@
           "type": "Lễ Quan thầy",
           "topic": "Lễ Quan thầy",
           "date": "03.10.2024",
-          "description": "Khoảng 80 ca viên cùng nhiều cựu ca viên mừng lễ Quan thầy lần thứ 9 với chủ đề “Giữa lòng Hội Thánh, con sẽ là tình yêu”.",
-          "image": "",
-          "imageCount": 0
+          "description": "Sau những ngày miệt mài tập luyện và chuẩn bị, ngày 03/10/2024 đã trở thành một dấu mốc đặc biệt khi Ca đoàn long trọng cử hành Thánh lễ Quan thầy lần thứ 9, mừng kính Thánh nữ Têrêsa Hài Đồng Giêsu, với chủ đề “Giữa lòng Hội Thánh, con sẽ là tình yêu”.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-quan-thay-lan-thu-9/069-4238f6095a/medium.jpg",
+          "imageCount": 72
         },
         {
           "id": "2024-hon-phoi-duc-binh-phuong-quynh",
@@ -389,9 +389,9 @@
           "type": "Hát lễ cưới",
           "topic": "Hát lễ cưới",
           "date": "18.10.2024",
-          "description": "Ca đoàn phục vụ Thánh lễ hôn phối của anh Đức Bình và chị Phương Quỳnh tại Giáo xứ Phong Ý, Giáo phận Thanh Hóa.",
-          "image": "",
-          "imageCount": 0
+          "description": "Ngày 18/10/2024, Ca đoàn lại tiếp tục có dịp về Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Phong Ý – GP Thanh Hóa.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/003-2a7903ca58/medium.jpg",
+          "imageCount": 3
         },
         {
           "id": "2024-dai-le-di-dan",
@@ -399,9 +399,9 @@
           "type": "Đại lễ",
           "topic": "Đại lễ",
           "date": "22.10.2024",
-          "description": "Ca đoàn tham gia Đại lễ Di Dân 2024 và đạt giải Nhất cuộc thi tìm hiểu đường hướng mục vụ.",
-          "image": "",
-          "imageCount": 0
+          "description": "Ngày 22/10/2024, hòa chung không khí của Đại lễ Di dân 2024, các anh chị em trong Ca đoàn đã tích cực tham gia các hoạt động chung của cộng đoàn.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/002-f03bf629a9/medium.jpg",
+          "imageCount": 16
         },
         {
           "id": "2024-hon-phoi-phat-ha-trang",
@@ -409,9 +409,9 @@
           "type": "Hát lễ cưới",
           "topic": "Hát lễ cưới",
           "date": "11.11.2024",
-          "description": "Ca đoàn phục vụ Thánh lễ hôn phối của anh Phát và chị Hà Trang tại Giáo xứ Mỹ Đình, Giáo phận Thái Bình.",
-          "image": "",
-          "imageCount": 0
+          "description": "Ngày 11/11/2024, Ca đoàn cùng nhau hiện diện tại Giáo xứ Mỹ Đình, Giáo phận Thái Bình, trong Thánh lễ Hôn phối của anh Phát và chị Hà Trang.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-phat-ha-trang/004-8b06f8bb0d/medium.jpg",
+          "imageCount": 4
         },
         {
           "id": "2024-hoan-ca-tri-an",
@@ -419,9 +419,9 @@
           "type": "Hòa nhạc",
           "topic": "Hòa nhạc",
           "date": "11.2024",
-          "description": "Ca đoàn góp tiếng hát trong chương trình “Hoan ca Tạ ơn” nhân kỷ niệm 100 năm Dòng Chúa Cứu Thế hiện diện tại Việt Nam.",
-          "image": "",
-          "imageCount": 0
+          "description": "Tiếp nối những hoạt động trong hành trình năm 2024, Ca đoàn tiếp tục có thêm một dấu ấn đặc biệt trong những tháng cuối năm: “Hát mừng Tri ân” nhân dịp kỷ niệm 100 năm Dòng Chúa Cứu Thế hiện diện tại Việt Nam (1925–2025).",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/010-8fe4a9f8fc/medium.jpg",
+          "imageCount": 10
         },
         {
           "id": "2024-dong-am-na-ri",
@@ -429,9 +429,9 @@
           "type": "Thiện nguyện",
           "topic": "Thiện nguyện",
           "date": "12.2024",
-          "description": "Ca viên và cựu ca viên thực hiện chương trình thiện nguyện “Đông Ấm Na Rì” tại huyện Na Rì, tỉnh Bắc Kạn.",
-          "image": "",
-          "imageCount": 0
+          "description": "Khép lại một năm 2024 với biết bao trải nghiệm, Ca đoàn đã cùng nhau thực hiện chương trình thiện nguyện “Đông ấm Na Rì” tại Na Rì, Bắc Kạn trước thềm Giáng sinh.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dong-am-na-ri/019-020892219c/medium.jpg",
+          "imageCount": 135
         }
       ]
     },

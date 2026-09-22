@@ -1,0 +1,906 @@
+{
+  "schemaVersion": 1,
+  "year": 2024,
+  "activityId": "2024-tinh-tam-thien-ha",
+  "title": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+  "count": 39,
+  "images": [
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/001-812b916bf4/medium.jpg",
+      "alt": "Các ca viên đến Đan viện Biển Đức Thiên Hà, Hòa Bình.",
+      "caption": "Các ca viên đến Đan viện Biển Đức Thiên Hà, Hòa Bình.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/001-812b916bf4/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/001-812b916bf4/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/001-812b916bf4/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/001-812b916bf4/original.jpg",
+          "width": 3840,
+          "height": 2561
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/002-aeddc1c47d/medium.jpg",
+      "alt": "Ca đoàn lắng nghe chia sẻ trong kỳ tĩnh tâm “Ở lại và được Ngài sai đi”.",
+      "caption": "Ca đoàn lắng nghe chia sẻ trong kỳ tĩnh tâm “Ở lại và được Ngài sai đi”.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/002-aeddc1c47d/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/002-aeddc1c47d/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/002-aeddc1c47d/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/002-aeddc1c47d/original.jpg",
+          "width": 3840,
+          "height": 2561
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/003-9d8c969f2a/medium.jpg",
+      "alt": "Ca đoàn lắng nghe chia sẻ trong kỳ tĩnh tâm “Ở lại và được Ngài sai đi”.",
+      "caption": "Ca đoàn lắng nghe chia sẻ trong kỳ tĩnh tâm “Ở lại và được Ngài sai đi”.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/003-9d8c969f2a/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/003-9d8c969f2a/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/003-9d8c969f2a/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/003-9d8c969f2a/original.jpg",
+          "width": 3840,
+          "height": 2562
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/004-82d87c6c5f/medium.jpg",
+      "alt": "Ca đoàn lắng nghe chia sẻ trong kỳ tĩnh tâm “Ở lại và được Ngài sai đi”.",
+      "caption": "Ca đoàn lắng nghe chia sẻ trong kỳ tĩnh tâm “Ở lại và được Ngài sai đi”.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/004-82d87c6c5f/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/004-82d87c6c5f/thumb.jpg",
+          "width": 480,
+          "height": 295
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/004-82d87c6c5f/medium.jpg",
+          "width": 1280,
+          "height": 786
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/004-82d87c6c5f/original.jpg",
+          "width": 3840,
+          "height": 2358
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/005-71e9367580/medium.jpg",
+      "alt": "Ca đoàn lắng nghe chia sẻ trong kỳ tĩnh tâm “Ở lại và được Ngài sai đi”.",
+      "caption": "Ca đoàn lắng nghe chia sẻ trong kỳ tĩnh tâm “Ở lại và được Ngài sai đi”.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/005-71e9367580/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/005-71e9367580/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/005-71e9367580/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/005-71e9367580/original.jpg",
+          "width": 3840,
+          "height": 2561
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/006-b30bb91d41/medium.jpg",
+      "alt": "Hoạt động “đi trong bóng tối” trong giờ cầu nguyện tối.",
+      "caption": "Hoạt động “đi trong bóng tối” trong giờ cầu nguyện tối.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/006-b30bb91d41/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/006-b30bb91d41/thumb.jpg",
+          "width": 480,
+          "height": 317
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/006-b30bb91d41/medium.jpg",
+          "width": 1280,
+          "height": 845
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/006-b30bb91d41/original.jpg",
+          "width": 3840,
+          "height": 2534
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/007-12884f49cb/medium.jpg",
+      "alt": "Hoạt động “đi trong bóng tối” trong giờ cầu nguyện tối.",
+      "caption": "Hoạt động “đi trong bóng tối” trong giờ cầu nguyện tối.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/007-12884f49cb/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/007-12884f49cb/thumb.jpg",
+          "width": 480,
+          "height": 307
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/007-12884f49cb/medium.jpg",
+          "width": 1280,
+          "height": 818
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/007-12884f49cb/original.jpg",
+          "width": 3840,
+          "height": 2455
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/008-482ae5e427/medium.jpg",
+      "alt": "Hoạt động “đi trong bóng tối” trong giờ cầu nguyện tối.",
+      "caption": "Hoạt động “đi trong bóng tối” trong giờ cầu nguyện tối.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/008-482ae5e427/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/008-482ae5e427/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/008-482ae5e427/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/008-482ae5e427/original.jpg",
+          "width": 3840,
+          "height": 2561
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/009-36ce9bc050/medium.jpg",
+      "alt": "Hoạt động “đi trong bóng tối” trong giờ cầu nguyện tối.",
+      "caption": "Hoạt động “đi trong bóng tối” trong giờ cầu nguyện tối.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/009-36ce9bc050/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/009-36ce9bc050/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/009-36ce9bc050/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/009-36ce9bc050/original.jpg",
+          "width": 3840,
+          "height": 2561
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/010-8d77e7a0b1/medium.jpg",
+      "alt": "Hoạt động “đi trong bóng tối” trong giờ cầu nguyện tối.",
+      "caption": "Hoạt động “đi trong bóng tối” trong giờ cầu nguyện tối.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/010-8d77e7a0b1/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/010-8d77e7a0b1/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/010-8d77e7a0b1/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/010-8d77e7a0b1/original.jpg",
+          "width": 3840,
+          "height": 2562
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/011-8afb775d32/medium.jpg",
+      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/011-8afb775d32/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/011-8afb775d32/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/011-8afb775d32/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/011-8afb775d32/original.jpg",
+          "width": 3840,
+          "height": 2561
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/012-0d2e985e33/medium.jpg",
+      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/012-0d2e985e33/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/012-0d2e985e33/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/012-0d2e985e33/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/012-0d2e985e33/original.jpg",
+          "width": 3840,
+          "height": 2561
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/013-52d3b13ee5/medium.jpg",
+      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/013-52d3b13ee5/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/013-52d3b13ee5/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/013-52d3b13ee5/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/013-52d3b13ee5/original.jpg",
+          "width": 3840,
+          "height": 2561
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/014-1a4b3d861b/medium.jpg",
+      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/014-1a4b3d861b/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/014-1a4b3d861b/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/014-1a4b3d861b/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/014-1a4b3d861b/original.jpg",
+          "width": 3840,
+          "height": 2561
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/015-0a7683be11/medium.jpg",
+      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/015-0a7683be11/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/015-0a7683be11/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/015-0a7683be11/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/015-0a7683be11/original.jpg",
+          "width": 3840,
+          "height": 2561
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/016-5a18d0265c/medium.jpg",
+      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/016-5a18d0265c/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/016-5a18d0265c/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/016-5a18d0265c/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/016-5a18d0265c/original.jpg",
+          "width": 3840,
+          "height": 2561
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/017-07be12c4f9/medium.jpg",
+      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/017-07be12c4f9/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/017-07be12c4f9/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/017-07be12c4f9/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/017-07be12c4f9/original.jpg",
+          "width": 3840,
+          "height": 2561
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/018-35f5df8c13/medium.jpg",
+      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/018-35f5df8c13/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/018-35f5df8c13/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/018-35f5df8c13/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/018-35f5df8c13/original.jpg",
+          "width": 3840,
+          "height": 2562
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/019-e25cdea82e/medium.jpg",
+      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/019-e25cdea82e/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/019-e25cdea82e/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/019-e25cdea82e/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/019-e25cdea82e/original.jpg",
+          "width": 3840,
+          "height": 2562
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/020-df021375f0/medium.jpg",
+      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/020-df021375f0/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/020-df021375f0/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/020-df021375f0/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/020-df021375f0/original.jpg",
+          "width": 3840,
+          "height": 2562
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/021-30dc463f3a/medium.jpg",
+      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/021-30dc463f3a/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/021-30dc463f3a/thumb.jpg",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/021-30dc463f3a/medium.jpg",
+          "width": 854,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/021-30dc463f3a/original.jpg",
+          "width": 2562,
+          "height": 3840
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/022-b5dc18fe30/medium.jpg",
+      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/022-b5dc18fe30/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/022-b5dc18fe30/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/022-b5dc18fe30/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/022-b5dc18fe30/original.jpg",
+          "width": 3840,
+          "height": 2561
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/023-ba9c895e62/medium.jpg",
+      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/023-ba9c895e62/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/023-ba9c895e62/thumb.jpg",
+          "width": 480,
+          "height": 293
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/023-ba9c895e62/medium.jpg",
+          "width": 1280,
+          "height": 780
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/023-ba9c895e62/original.jpg",
+          "width": 3840,
+          "height": 2341
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/024-7373ba37e9/medium.jpg",
+      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/024-7373ba37e9/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/024-7373ba37e9/thumb.jpg",
+          "width": 333,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/024-7373ba37e9/medium.jpg",
+          "width": 888,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/024-7373ba37e9/original.jpg",
+          "width": 2665,
+          "height": 3840
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/025-f39de7aa78/medium.jpg",
+      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/025-f39de7aa78/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/025-f39de7aa78/thumb.jpg",
+          "width": 480,
+          "height": 279
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/025-f39de7aa78/medium.jpg",
+          "width": 1280,
+          "height": 745
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/025-f39de7aa78/original.jpg",
+          "width": 3840,
+          "height": 2234
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/026-9a5dd34297/medium.jpg",
+      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/026-9a5dd34297/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/026-9a5dd34297/thumb.jpg",
+          "width": 480,
+          "height": 288
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/026-9a5dd34297/medium.jpg",
+          "width": 1280,
+          "height": 769
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/026-9a5dd34297/original.jpg",
+          "width": 3840,
+          "height": 2306
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/027-8c78e3a971/medium.jpg",
+      "alt": "Các ca viên lãnh nhận Bí tích Hòa Giải trong kỳ tĩnh tâm.",
+      "caption": "Các ca viên lãnh nhận Bí tích Hòa Giải trong kỳ tĩnh tâm.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/027-8c78e3a971/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/027-8c78e3a971/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/027-8c78e3a971/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/027-8c78e3a971/original.jpg",
+          "width": 3840,
+          "height": 2561
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/028-7a4736de01/medium.jpg",
+      "alt": "Các ca viên lãnh nhận Bí tích Hòa Giải trong kỳ tĩnh tâm.",
+      "caption": "Các ca viên lãnh nhận Bí tích Hòa Giải trong kỳ tĩnh tâm.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/028-7a4736de01/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/028-7a4736de01/thumb.jpg",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/028-7a4736de01/medium.jpg",
+          "width": 854,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/028-7a4736de01/original.jpg",
+          "width": 2562,
+          "height": 3840
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/029-507bb51353/medium.jpg",
+      "alt": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
+      "caption": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/029-507bb51353/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/029-507bb51353/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/029-507bb51353/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/029-507bb51353/original.jpg",
+          "width": 3840,
+          "height": 2561
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/030-873e9fb953/medium.jpg",
+      "alt": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
+      "caption": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/030-873e9fb953/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/030-873e9fb953/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/030-873e9fb953/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/030-873e9fb953/original.jpg",
+          "width": 3840,
+          "height": 2561
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/031-c91fb807ee/medium.jpg",
+      "alt": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
+      "caption": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/031-c91fb807ee/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/031-c91fb807ee/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/031-c91fb807ee/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/031-c91fb807ee/original.jpg",
+          "width": 3840,
+          "height": 2561
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/032-372b2b4e25/medium.jpg",
+      "alt": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
+      "caption": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/032-372b2b4e25/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/032-372b2b4e25/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/032-372b2b4e25/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/032-372b2b4e25/original.jpg",
+          "width": 3840,
+          "height": 2561
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/033-91328f0b1e/medium.jpg",
+      "alt": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
+      "caption": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/033-91328f0b1e/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/033-91328f0b1e/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/033-91328f0b1e/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/033-91328f0b1e/original.jpg",
+          "width": 3840,
+          "height": 2561
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/034-e4f918ba3d/medium.jpg",
+      "alt": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
+      "caption": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/034-e4f918ba3d/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/034-e4f918ba3d/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/034-e4f918ba3d/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/034-e4f918ba3d/original.jpg",
+          "width": 3840,
+          "height": 2561
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/035-9bde27fe85/medium.jpg",
+      "alt": "Ca đoàn lưu lại kỷ niệm sau kỳ tĩnh tâm tại Đan viện Thiên Hà.",
+      "caption": "Ca đoàn lưu lại kỷ niệm sau kỳ tĩnh tâm tại Đan viện Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/035-9bde27fe85/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/035-9bde27fe85/thumb.jpg",
+          "width": 480,
+          "height": 299
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/035-9bde27fe85/medium.jpg",
+          "width": 1280,
+          "height": 797
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/035-9bde27fe85/original.jpg",
+          "width": 3840,
+          "height": 2392
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/036-8bf6b0cac0/medium.jpg",
+      "alt": "Ca đoàn lưu lại kỷ niệm sau kỳ tĩnh tâm tại Đan viện Thiên Hà.",
+      "caption": "Ca đoàn lưu lại kỷ niệm sau kỳ tĩnh tâm tại Đan viện Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/036-8bf6b0cac0/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/036-8bf6b0cac0/thumb.jpg",
+          "width": 480,
+          "height": 327
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/036-8bf6b0cac0/medium.jpg",
+          "width": 1280,
+          "height": 872
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/036-8bf6b0cac0/original.jpg",
+          "width": 3840,
+          "height": 2615
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/037-02d919d00a/medium.jpg",
+      "alt": "Ca đoàn lưu lại kỷ niệm sau kỳ tĩnh tâm tại Đan viện Thiên Hà.",
+      "caption": "Ca đoàn lưu lại kỷ niệm sau kỳ tĩnh tâm tại Đan viện Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/037-02d919d00a/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/037-02d919d00a/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/037-02d919d00a/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/037-02d919d00a/original.jpg",
+          "width": 3840,
+          "height": 2562
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/038-3aec173e90/medium.jpg",
+      "alt": "Ca đoàn lưu lại kỷ niệm sau kỳ tĩnh tâm tại Đan viện Thiên Hà.",
+      "caption": "Ca đoàn lưu lại kỷ niệm sau kỳ tĩnh tâm tại Đan viện Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/038-3aec173e90/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/038-3aec173e90/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/038-3aec173e90/medium.jpg",
+          "width": 1280,
+          "height": 850
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/038-3aec173e90/original.jpg",
+          "width": 3840,
+          "height": 2549
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/039-26af1b2a26/medium.jpg",
+      "alt": "Ca đoàn lưu lại kỷ niệm sau kỳ tĩnh tâm tại Đan viện Thiên Hà.",
+      "caption": "Ca đoàn lưu lại kỷ niệm sau kỳ tĩnh tâm tại Đan viện Thiên Hà.",
+      "id": "media/2024/2024-tinh-tam-thien-ha/039-26af1b2a26/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/039-26af1b2a26/thumb.jpg",
+          "width": 480,
+          "height": 327
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/039-26af1b2a26/medium.jpg",
+          "width": 1280,
+          "height": 872
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/039-26af1b2a26/original.jpg",
+          "width": 3840,
+          "height": 2616
+        }
+      }
+    }
+  ]
+}
