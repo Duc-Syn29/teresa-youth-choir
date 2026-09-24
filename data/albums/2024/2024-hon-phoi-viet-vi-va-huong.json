@@ -3,6 +3,8 @@
   "year": 2024,
   "activityId": "2024-hon-phoi-viet-vi-va-huong",
   "title": "Lễ hôn phối Giuse Trần Viết Vĩ và Hương",
+  "topic": "Hát lễ cưới",
+  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-viet-vi-va-huong/001-dafe194306/medium.jpg",
   "count": 1,
   "images": [
     {
@@ -26,7 +28,8 @@
           "width": 854,
           "height": 1280
         }
-      }
+      },
+      "event": "Lễ hôn phối Giuse Trần Viết Vĩ và Hương"
     }
   ]
 }

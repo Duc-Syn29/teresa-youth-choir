@@ -3,6 +3,8 @@
   "year": 2024,
   "activityId": "2024-thi-giao-ly",
   "title": "Hội thi Giáo lý",
+  "topic": "Học hỏi",
+  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/001-a31412cd99/medium.jpg",
   "count": 11,
   "images": [
     {
@@ -26,7 +28,8 @@
           "width": 2048,
           "height": 1421
         }
-      }
+      },
+      "event": "Hội thi Giáo lý"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/002-ed9491d86d/medium.jpg",
@@ -49,7 +52,8 @@
           "width": 2048,
           "height": 1392
         }
-      }
+      },
+      "event": "Hội thi Giáo lý"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/003-e8708b78b0/medium.jpg",
@@ -72,7 +76,8 @@
           "width": 2048,
           "height": 1398
         }
-      }
+      },
+      "event": "Hội thi Giáo lý"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/004-6c0681ba9f/medium.jpg",
@@ -95,7 +100,8 @@
           "width": 2048,
           "height": 1300
         }
-      }
+      },
+      "event": "Hội thi Giáo lý"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/005-383bfcf670/medium.jpg",
@@ -118,7 +124,8 @@
           "width": 2048,
           "height": 1510
         }
-      }
+      },
+      "event": "Hội thi Giáo lý"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/006-588928f99b/medium.jpg",
@@ -141,7 +148,8 @@
           "width": 2048,
           "height": 1448
         }
-      }
+      },
+      "event": "Hội thi Giáo lý"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/007-d067bd5f10/medium.jpg",
@@ -164,7 +172,8 @@
           "width": 2048,
           "height": 1348
         }
-      }
+      },
+      "event": "Hội thi Giáo lý"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/008-18c73939b0/medium.jpg",
@@ -187,7 +196,8 @@
           "width": 2048,
           "height": 1366
         }
-      }
+      },
+      "event": "Hội thi Giáo lý"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/009-a4b8e0ff72/medium.jpg",
@@ -210,7 +220,8 @@
           "width": 2048,
           "height": 1512
         }
-      }
+      },
+      "event": "Hội thi Giáo lý"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/010-21a25f2b2d/medium.jpg",
@@ -233,7 +244,8 @@
           "width": 2048,
           "height": 1424
         }
-      }
+      },
+      "event": "Hội thi Giáo lý"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/011-715697a6d0/medium.jpg",
@@ -256,7 +268,8 @@
           "width": 2048,
           "height": 1542
         }
-      }
+      },
+      "event": "Hội thi Giáo lý"
     }
   ]
 }

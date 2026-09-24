@@ -3,6 +3,8 @@
   "year": 2024,
   "activityId": "2024-tinh-tam-cua-bac",
   "title": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+  "topic": "Tĩnh tâm",
+  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/001-63916e852a/medium.jpg",
   "count": 7,
   "images": [
     {
@@ -26,7 +28,8 @@
           "width": 2048,
           "height": 1536
         }
-      }
+      },
+      "event": "Tĩnh tâm chuẩn bị lễ Quan thầy"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/002-a77225d72c/medium.jpg",
@@ -49,7 +52,8 @@
           "width": 2048,
           "height": 1537
         }
-      }
+      },
+      "event": "Tĩnh tâm chuẩn bị lễ Quan thầy"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/003-a709439004/medium.jpg",
@@ -72,7 +76,8 @@
           "width": 1536,
           "height": 2048
         }
-      }
+      },
+      "event": "Tĩnh tâm chuẩn bị lễ Quan thầy"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/004-560afe06a8/medium.jpg",
@@ -95,7 +100,8 @@
           "width": 1536,
           "height": 2048
         }
-      }
+      },
+      "event": "Tĩnh tâm chuẩn bị lễ Quan thầy"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/005-01e138cf51/medium.jpg",
@@ -118,7 +124,8 @@
           "width": 1536,
           "height": 2048
         }
-      }
+      },
+      "event": "Tĩnh tâm chuẩn bị lễ Quan thầy"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/006-1ed6ef5ffa/medium.jpg",
@@ -141,7 +148,8 @@
           "width": 1536,
           "height": 2048
         }
-      }
+      },
+      "event": "Tĩnh tâm chuẩn bị lễ Quan thầy"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/007-1dfb083618/medium.jpg",
@@ -164,7 +172,8 @@
           "width": 2048,
           "height": 1536
         }
-      }
+      },
+      "event": "Tĩnh tâm chuẩn bị lễ Quan thầy"
     }
   ]
 }

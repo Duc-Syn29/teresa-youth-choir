@@ -3,6 +3,8 @@
   "year": 2024,
   "activityId": "2024-hon-phoi-phat-ha-trang",
   "title": "Lễ hôn phối Phêrô Nguyễn Văn Phát và Maria Nguyễn Thị Hà Trang",
+  "topic": "Hát lễ cưới",
+  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-phat-ha-trang/001-25f1d76896/medium.jpg",
   "count": 4,
   "images": [
     {
@@ -26,7 +28,8 @@
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "event": "Lễ hôn phối Phêrô Nguyễn Văn Phát và Maria Nguyễn Thị Hà Trang"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-phat-ha-trang/002-d4747130d9/medium.jpg",
@@ -49,7 +52,8 @@
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "event": "Lễ hôn phối Phêrô Nguyễn Văn Phát và Maria Nguyễn Thị Hà Trang"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-phat-ha-trang/003-ffa6ff1b78/medium.jpg",
@@ -72,7 +76,8 @@
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "event": "Lễ hôn phối Phêrô Nguyễn Văn Phát và Maria Nguyễn Thị Hà Trang"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-phat-ha-trang/004-8b06f8bb0d/medium.jpg",
@@ -95,7 +100,8 @@
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "event": "Lễ hôn phối Phêrô Nguyễn Văn Phát và Maria Nguyễn Thị Hà Trang"
     }
   ]
 }

@@ -3,6 +3,8 @@
   "year": 2024,
   "activityId": "2024-hon-phoi-duc-binh-phuong-quynh",
   "title": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+  "topic": "Hát lễ cưới",
+  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/001-200ffc102d/medium.jpg",
   "count": 3,
   "images": [
     {
@@ -26,7 +28,8 @@
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "event": "Lễ hôn phối Đức Bình và Phương Quỳnh"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/002-abd0ae9d33/medium.jpg",
@@ -49,7 +52,8 @@
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "event": "Lễ hôn phối Đức Bình và Phương Quỳnh"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/003-2a7903ca58/medium.jpg",
@@ -72,7 +76,8 @@
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "event": "Lễ hôn phối Đức Bình và Phương Quỳnh"
     }
   ]
 }

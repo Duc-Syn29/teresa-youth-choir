@@ -3,6 +3,8 @@
   "year": 2024,
   "activityId": "2024-hon-phoi-nguyen-huong-anh-van",
   "title": "Lễ hôn phối Nguyễn Hương và Anh Văn",
+  "topic": "Hát lễ cưới",
+  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-nguyen-huong-anh-van/001-22002281aa/medium.jpg",
   "count": 1,
   "images": [
     {
@@ -26,7 +28,8 @@
           "width": 960,
           "height": 640
         }
-      }
+      },
+      "event": "Lễ hôn phối Nguyễn Hương và Anh Văn"
     }
   ]
 }

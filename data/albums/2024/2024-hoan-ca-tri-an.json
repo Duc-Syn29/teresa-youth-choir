@@ -3,6 +3,8 @@
   "year": 2024,
   "activityId": "2024-hoan-ca-tri-an",
   "title": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+  "topic": "Hòa nhạc",
+  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/001-af61c7b4d9/medium.jpg",
   "count": 10,
   "images": [
     {
@@ -26,7 +28,8 @@
           "width": 1280,
           "height": 716
         }
-      }
+      },
+      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/002-fb8e6afe92/medium.jpg",
@@ -49,7 +52,8 @@
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/003-30c82cc1f4/medium.jpg",
@@ -72,7 +76,8 @@
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/004-f2c7c20d0a/medium.jpg",
@@ -95,7 +100,8 @@
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/005-cd6bcfe8ce/medium.jpg",
@@ -118,7 +124,8 @@
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/006-1880e15887/medium.jpg",
@@ -141,7 +148,8 @@
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/007-c2dfa299b8/medium.jpg",
@@ -164,7 +172,8 @@
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/008-361eb17ec9/medium.jpg",
@@ -187,7 +196,8 @@
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/009-a719951de1/medium.jpg",
@@ -210,7 +220,8 @@
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/010-8fe4a9f8fc/medium.jpg",
@@ -233,7 +244,8 @@
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
     }
   ]
 }

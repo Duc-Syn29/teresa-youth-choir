@@ -3,6 +3,8 @@
   "year": 2024,
   "activityId": "2024-hon-phoi-hai-duong-phuong-dung",
   "title": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung",
+  "topic": "Hát lễ cưới",
+  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/001-aaa7b3d7cf/medium.jpg",
   "count": 2,
   "images": [
     {
@@ -26,7 +28,8 @@
           "width": 1280,
           "height": 852
         }
-      }
+      },
+      "event": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/002-5c95e3ded1/medium.jpg",
@@ -49,7 +52,8 @@
           "width": 1280,
           "height": 852
         }
-      }
+      },
+      "event": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung"
     }
   ]
 }

@@ -3,6 +3,8 @@
   "year": 2024,
   "activityId": "2024-cau-nguyen-sau-bao-yagi",
   "title": "Cầu nguyện cho đồng bào miền Bắc sau bão Yagi",
+  "topic": "Cầu nguyện",
+  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-sau-bao-yagi/001-8951171879/medium.jpg",
   "count": 1,
   "images": [
     {
@@ -26,7 +28,8 @@
           "width": 1280,
           "height": 960
         }
-      }
+      },
+      "event": "Cầu nguyện cho đồng bào miền Bắc sau bão Yagi"
     }
   ]
 }

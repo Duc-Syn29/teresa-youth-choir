@@ -3,6 +3,8 @@
   "year": 2024,
   "activityId": "2024-cau-nguyen-chuan-bi-tinh-tam",
   "title": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+  "topic": "Cầu nguyện",
+  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/001-ce86f89652/medium.jpg",
   "count": 4,
   "images": [
     {
@@ -26,7 +28,8 @@
           "width": 2048,
           "height": 2048
         }
-      }
+      },
+      "event": "Cầu nguyện chuẩn bị kỳ tĩnh tâm"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/002-48e45e413b/medium.jpg",
@@ -49,7 +52,8 @@
           "width": 2048,
           "height": 2048
         }
-      }
+      },
+      "event": "Cầu nguyện chuẩn bị kỳ tĩnh tâm"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/003-ba2a3982de/medium.jpg",
@@ -72,7 +76,8 @@
           "width": 2048,
           "height": 2048
         }
-      }
+      },
+      "event": "Cầu nguyện chuẩn bị kỳ tĩnh tâm"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/004-4e2802f70e/medium.jpg",
@@ -95,7 +100,8 @@
           "width": 590,
           "height": 443
         }
-      }
+      },
+      "event": "Cầu nguyện chuẩn bị kỳ tĩnh tâm"
     }
   ]
 }

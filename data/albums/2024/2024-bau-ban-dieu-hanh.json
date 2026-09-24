@@ -3,6 +3,8 @@
   "year": 2024,
   "activityId": "2024-bau-ban-dieu-hanh",
   "title": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+  "topic": "Cộng đoàn",
+  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/001-0fac636af3/medium.jpg",
   "count": 4,
   "images": [
     {
@@ -26,7 +28,8 @@
           "width": 1280,
           "height": 1280
         }
-      }
+      },
+      "event": "Bầu ban điều hành nhiệm kỳ 2024–2026"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/002-e671f8fd06/medium.jpg",
@@ -49,7 +52,8 @@
           "width": 908,
           "height": 1280
         }
-      }
+      },
+      "event": "Bầu ban điều hành nhiệm kỳ 2024–2026"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/003-caeb01db74/medium.jpg",
@@ -72,7 +76,8 @@
           "width": 908,
           "height": 1280
         }
-      }
+      },
+      "event": "Bầu ban điều hành nhiệm kỳ 2024–2026"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/004-ec5ff66e1d/medium.jpg",
@@ -95,7 +100,8 @@
           "width": 908,
           "height": 1280
         }
-      }
+      },
+      "event": "Bầu ban điều hành nhiệm kỳ 2024–2026"
     }
   ]
 }

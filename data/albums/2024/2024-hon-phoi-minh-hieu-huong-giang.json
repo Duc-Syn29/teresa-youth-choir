@@ -3,6 +3,8 @@
   "year": 2024,
   "activityId": "2024-hon-phoi-minh-hieu-huong-giang",
   "title": "Lễ hôn phối Minh Hiếu và Hương Giang",
+  "topic": "Hát lễ cưới",
+  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-minh-hieu-huong-giang/001-1d1a2da503/medium.jpg",
   "count": 4,
   "images": [
     {
@@ -26,7 +28,8 @@
           "width": 2560,
           "height": 1707
         }
-      }
+      },
+      "event": "Lễ hôn phối Minh Hiếu và Hương Giang"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-minh-hieu-huong-giang/002-bbd31c37ab/medium.jpg",
@@ -49,7 +52,8 @@
           "width": 2560,
           "height": 1707
         }
-      }
+      },
+      "event": "Lễ hôn phối Minh Hiếu và Hương Giang"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-minh-hieu-huong-giang/003-1c4b247b98/medium.jpg",
@@ -72,7 +76,8 @@
           "width": 2560,
           "height": 1707
         }
-      }
+      },
+      "event": "Lễ hôn phối Minh Hiếu và Hương Giang"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-minh-hieu-huong-giang/004-cd2c48a31c/medium.jpg",
@@ -95,7 +100,8 @@
           "width": 2560,
           "height": 1707
         }
-      }
+      },
+      "event": "Lễ hôn phối Minh Hiếu và Hương Giang"
     }
   ]
 }
