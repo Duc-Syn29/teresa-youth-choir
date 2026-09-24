@@ -6,7 +6,7 @@
     "secondary": "#d7b7c5"
   },
   "meta": {
-    "revision": 7,
+    "revision": 8,
     "status": "published",
     "migratedFrom": 1,
     "journalCredit": "Petrus Đỗ Tiến Hạng",
@@ -16,10 +16,10 @@
   },
   "overview": {
     "eyebrow": "Nhật ký giữa đại dịch",
-    "title": "Một khoảng lặng của hành trình yêu thương",
-    "summary": "Đại dịch COVID-19 khiến việc tập hát, phục vụ Thánh lễ, mừng bổn mạng, tĩnh tâm và thiện nguyện phải tạm dừng, nhưng tình thân và đời sống đức tin của các ca viên vẫn được gìn giữ.",
-    "verse": "Dù bước đi trong thung lũng tối, con không sợ tai họa nào, vì có Chúa ở cùng. (Tv 23,4)",
-    "longDescription": "Năm 2021 tiếp tục là một năm đầy khó khăn khi đại dịch COVID-19 bùng phát, ảnh hưởng nhiều đến đời sống của các ca viên. Nhiều anh chị em bị nhiễm bệnh, chịu tác động về sức khỏe, tinh thần và kinh tế. Ca đoàn không thể tổ chức các buổi tập hát, phục vụ Thánh lễ hay duy trì những chương trình thường niên như mừng bổn mạng, tĩnh tâm và thiện nguyện. Khoảng cách cùng các quy định phòng dịch khiến các thành viên không thể thường xuyên gặp gỡ như trước. Nhưng chính trong khoảng lặng ấy, mỗi ca viên trưởng thành hơn trong đức tin và biết quý trọng cuộc sống hơn. Dù hoạt động bị thu hẹp, tình thân của những người trẻ trong Ca đoàn Giới Trẻ Têrêsa vẫn được gìn giữ. Trong một năm mà những cuộc gặp gỡ trở nên quý giá hơn bao giờ hết, ca đoàn vẫn cố gắng hiện diện bên nhau trong những dấu mốc quan trọng. Mỗi người hiểu rằng điều quý giá không chỉ là được đứng trên gác đàn để hát, mà còn là biết sống Tin Mừng trong những biến cố của cuộc sống.",
+    "title": "Một khoảng lặng của hành trình yêu thương ",
+    "summary": "Năm 2021 tiếp tục là một năm đầy khó khăn khi đại dịch covid tiếp tục bùng phát và làm ảnh hưởng rất nhiều đến đời sống ace ca viên các hoạt động của ca đoàn. Nhiều ace bị nhiễm covid ảnh hưởng đến sức khỏe, tinh thần và kinh tế. Ca đoàn tiếp tục không được tổ chức các buổi tập hát hay phụng vụ Thánh lễ. Những buổi tập hát, những lần cùng nhau phục vụ Thánh lễ, chương trình mừng bổn mạng, tĩnh tâm hay thiện nguyện… đã phải gác lại. Khoảng cách và những quy định phòng dịch khiến các thành viên không thể thường xuyên gặp gỡ như trước.",
+    "verse": "“Dù bước đi trong thung lũng tối, con không sợ tai họa nào, vì có Chúa ở cùng.” (Tv 23,4)",
+    "longDescription": "Năm 2021 tiếp tục là một năm đầy khó khăn khi đại dịch covid tiếp tục bùng phát và làm ảnh hưởng rất nhiều đến đời sống ace ca viên các hoạt động của ca đoàn. Nhiều ace bị nhiễm covid ảnh hưởng đến sức khỏe, tinh thần và kinh tế. Ca đoàn tiếp tục không được tổ chức các buổi tập hát hay phụng vụ Thánh lễ. Những buổi tập hát, những lần cùng nhau phục vụ Thánh lễ, chương trình mừng bổn mạng, tĩnh tâm hay thiện nguyện… đã phải gác lại. Khoảng cách và những quy định phòng dịch khiến các thành viên không thể thường xuyên gặp gỡ như trước.\n\nNhưng chính trong những khoảng lặng ấy, mỗi ca viên chúng con được trưởng thành hơn trong đức tin, và biết quý trọng cuộc sống hơn. Dù hoạt động bị thu hẹp, tình thân của những người trẻ trong Ca đoàn Giới Trẻ Têrêsa vẫn được gìn giữ. Trong một năm mà những cuộc gặp gỡ trở nên quý giá hơn bao giờ hết, ca đoàn vẫn cố gắng hiện diện bên nhau trong những dấu mốc quan trọng của đời sống mỗi thành viên.  Chúng con hiều rằng điều quý giá nhất không chỉ được đứng trên gác đàn để hát, mà còn là biết sống tin Mừng trong những biến cố của cuộc sống.",
     "coverImage": {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/08/medium.jpg",
       "id": "media/2021/hung-uyen/08/original.jpg",
@@ -154,7 +154,7 @@
     "total": 40,
     "new": 0,
     "inactive": 15,
-    "notes": "Khoảng 15 thành viên tạm ngưng sinh hoạt; năm 2021 không ghi nhận thành viên mới."
+    "notes": "Tổng số ca viên: 40 ca viên; Ca viên mới trong năm: 0; Thành viên nghỉ: ~15 người"
   },
   "activities": [
     {
@@ -163,9 +163,9 @@
       "topic": "Hôn phối",
       "date": "17.01.2021",
       "location": "",
-      "title": "Mừng lễ cưới Đức Chính và Ánh Nguyệt",
-      "description": "Ca đoàn tham dự và chung vui trong ngày thành hôn của anh Đức Chính và chị Ánh Nguyệt.",
-      "body": "Mở đầu cho những dấu ấn của năm 2021 là ngày 17 tháng 1, khi ca đoàn cùng nhau về tham dự và chung vui trong ngày cưới của anh Đức Chính và chị Ánh Nguyệt.\n\nTrong hoàn cảnh các sinh hoạt chung còn gặp nhiều khó khăn, việc có thể cùng hiện diện trong một ngày vui của anh chị lại càng trở nên ý nghĩa. Đó không chỉ là sự hiện diện để chúc mừng một gia đình mới, mà còn là cách những người anh em trong ca đoàn tiếp tục trao cho nhau sự quan tâm và tình thân.",
+      "title": "Niềm vui ngày thành hôn của anh Đức Chính và chị Ánh Nguyệt",
+      "description": "Mở đầu cho những dấu ấn của năm 2021 là ngày 17/01, khi ca đoàn cùng nhau về tham dự và chung vui trong ngày cưới của anh Đức Chính và chị Ánh Nguyệt.",
+      "body": "Mở đầu cho những dấu ấn của năm 2021 là ngày 17/01, khi ca đoàn cùng nhau về tham dự và chung vui trong ngày cưới của anh Đức Chính và chị Ánh Nguyệt.\n\nTrong hoàn cảnh các sinh hoạt chung còn gặp nhiều khó khăn, việc có thể cùng hiện diện trong một ngày vui của anh chị lại càng trở nên ý nghĩa. Đó không chỉ là sự hiện diện để chúc mừng một gia đình mới, mà còn là cách những người anh em trong ca đoàn tiếp tục trao cho nhau sự quan tâm và tình thân.",
       "coverImage": {
         "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/medium.jpg",
         "alt": "Lễ cưới Đức Chính và Ánh Nguyệt · ảnh 2",
@@ -271,9 +271,9 @@
       "topic": "Hôn phối",
       "date": "23–24.01.2021",
       "location": "",
-      "title": "Lễ cưới Thu Trang – Thanh Nguyễn và Thanh Hoa – Trung Buti",
-      "description": "Ca đoàn tham dự hai lễ cưới của Thu Trang – Thanh Nguyễn và Thanh Hoa – Trung Buti trong hai ngày 23–24 tháng 1.",
-      "body": "Chỉ ít ngày sau, vào 23 và 24 tháng 1, ca đoàn tiếp tục về tham dự ngày vui trọng đại trong lễ cưới của anh chị Thu Trang – Thanh Nguyễn và anh chị Thanh Hoa – Trung Buti.\n\nNhững cuộc gặp gỡ tuy không nhiều nhưng lại trở thành những khoảnh khắc đáng nhớ của năm. Giữa một năm đầy biến động và hạn chế vì đại dịch, niềm vui của mỗi anh chị vẫn là niềm vui chung của đại gia đình Ca đoàn Giới Trẻ Têrêsa. Trong ngày cưới, các ca viên còn nhiệt tình trình bày những bài cử điệu sinh hoạt, góp phần tạo nên những kỷ niệm rất đáng nhớ của ca đoàn.",
+      "title": "Những ngày vui của các thành viên ca đoàn",
+      "description": "Chỉ ít ngày sau, vào 23 và 24/01, ca đoàn tiếp tục về tham dự ngày vui trọng đại trong ngày cưới của anh chị Thu Trang – Thanh Nguyễn và anh chị Thanh Hoa – Trung Buti.",
+      "body": "Chỉ ít ngày sau, vào 23 và 24/01, ca đoàn tiếp tục về tham dự ngày vui trọng đại trong ngày cưới của anh chị Thu Trang – Thanh Nguyễn và anh chị Thanh Hoa – Trung Buti.\n\nNhững cuộc gặp gỡ tuy không nhiều, nhưng lại trở thành những khoảnh khắc đáng nhớ của năm. Giữa một năm đầy những biến động và hạn chế vì đại dịch, niềm vui của mỗi anh chị vẫn là niềm vui chung của đại gia đình Ca đoàn Giới Trẻ Têrêsa. Trong ngày cưới của các anh chị, anh chị em ca viên còn rất nhiệt tình lên tặng các bài cử điệu sinh hoạt góp phần tạo nên những kỷ niệm rất đáng nhớ của ca đoàn.",
       "coverImage": {
         "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/04/medium.jpg",
         "alt": "Lễ cưới Thanh Hoa và Trung Buti · ảnh 4",
@@ -380,8 +380,8 @@
       "date": "Trong năm",
       "location": "",
       "title": "Một năm tạm lắng – nhưng không phải một năm đứng lại",
-      "description": "Dịch bệnh khiến ca đoàn gần như không thể duy trì các hoạt động theo nhịp sinh hoạt quen thuộc trong suốt năm 2021.",
-      "body": "Suốt năm 2021, tình hình dịch bệnh khiến ca đoàn gần như không thể duy trì các hoạt động theo nhịp sinh hoạt quen thuộc. Những chương trình từng được mong chờ hằng năm như lễ Quan thầy, tĩnh tâm, thiện nguyện, tập hát và phục vụ Thánh lễ nhiều lần phải tạm dừng. Có những khoảng thời gian tiếng hát của ca đoàn không vang lên trong những buổi tập quen thuộc. Những chiếc áo phục vụ được cất đi, các buổi gặp mặt phải tạm hoãn và những kế hoạch đang chuẩn bị cũng đành chờ một ngày thích hợp hơn.\n\nNhưng có lẽ chính trong khoảng lặng ấy, các thành viên lại càng cảm nhận rõ hơn giá trị của tình thân. Ca đoàn không chỉ được tạo nên bởi những buổi tập hát hay những chương trình lớn, mà còn bởi sự hiện diện, sẻ chia và đồng hành giữa mỗi người với nhau.",
+      "description": "Suốt năm 2021, tình hình dịch bệnh khiến ca đoàn gần như không thể duy trì các hoạt động theo nhịp sinh hoạt quen thuộc.",
+      "body": "Suốt năm 2021, tình hình dịch bệnh khiến ca đoàn gần như không thể duy trì các hoạt động theo nhịp sinh hoạt quen thuộc. Những chương trình từng được mong chờ hằng năm như lễ quan thầy, tĩnh tâm, thiện nguyện, tập hát và phục vụ Thánh lễ nhiều lần phải tạm dừng. Có những khoảng thời gian tiếng hát của ca đoàn không vang lên trong những buổi tập quen thuộc. Những chiếc áo phục vụ được cất đi, những buổi gặp mặt phải tạm hoãn, những kế hoạch đang chuẩn bị cũng đành chờ một ngày thích hợp hơn.\n\nNhưng có lẽ chính trong khoảng lặng ấy, các thành viên lại càng cảm nhận rõ hơn giá trị của tình thân. Ca đoàn không chỉ được tạo nên bởi những buổi tập hát hay những chương trình lớn, mà còn bởi sự hiện diện, sẻ chia và đồng hành giữa mỗi người với nhau.",
       "coverImage": {
         "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/medium.jpg",
         "alt": "Ca đoàn phục vụ trong điều kiện phòng dịch năm 2021",
@@ -441,9 +441,9 @@
       "topic": "Hát lễ cưới",
       "date": "29.12.2021",
       "location": "Giáo xứ Thái Hà",
-      "title": "Phục vụ lễ cưới Hùng và Uyên",
-      "description": "Ca đoàn phục vụ Thánh lễ hôn phối của anh Hùng và chị Uyên tại Giáo xứ Thái Hà.",
-      "body": "Những ngày cuối năm, vào 29 tháng 12 năm 2021, ca đoàn vinh dự được hiện diện và phục vụ Thánh lễ hôn phối của anh chị Hùng – Uyên tại Giáo xứ Thái Hà.\n\nĐây cũng là một trong những dấu ấn đẹp khép lại một năm nhiều thử thách. Không có quá nhiều chương trình, không có những hoạt động rộn ràng như những năm trước, nhưng ca đoàn vẫn tìm được cách để ở bên nhau, cùng chia sẻ những niềm vui trong cuộc sống của mỗi thành viên.",
+      "title": "Khép lại năm bằng một niềm vui phục vụ lễ cưới anh chị Hùng – Uyên",
+      "description": "Những ngày cuối năm, vào 29/12/2021, ca đoàn vinh dự được hiện diện và phục vụ Thánh Lễ hôn phối của anh chị Hùng – Uyên, được tổ chức tại Giáo xứ Thái Hà.",
+      "body": "Những ngày cuối năm, vào 29/12/2021, ca đoàn vinh dự được hiện diện và phục vụ Thánh Lễ hôn phối của anh chị Hùng – Uyên, được tổ chức tại Giáo xứ Thái Hà.\n\nĐây cũng là một trong những dấu ấn đẹp khép lại một năm nhiều thử thách. Không có quá nhiều chương trình, không có những hoạt động rộn ràng như những năm trước, nhưng ca đoàn vẫn tìm được cách để ở bên nhau, cùng chia sẻ những niềm vui trong cuộc sống của mỗi thành viên ca đoàn.",
       "coverImage": {
         "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/08/medium.jpg",
         "alt": "Lễ cưới Hùng và Uyên · ảnh 8",
@@ -558,7 +558,7 @@
   "emotionJournal": [],
   "yearMark": {
     "title": "Niềm tín thác trong khoảng lặng",
-    "description": "Đại dịch COVID-19 bao trùm năm 2021 với nỗi buồn, mất mát và cảm giác bức bối kéo dài. Nhiều chương trình, kế hoạch phải dừng lại; những buổi lễ thiếu vắng tiếng hát và những cuộc gặp gỡ không thể diễn ra. Nhưng giữa “thung lũng tối” ấy, niềm tín thác và lòng trung kiên chưa bao giờ ngơi nghỉ. Khi nhìn lại, các ca viên nhận ra rằng chính trong thử thách, tình yêu càng đậm sâu và những giây phút được tự do cất tiếng hát tôn vinh Chúa nơi cung thánh càng trở nên quý giá. Dù không thể gặp gỡ trực tiếp, lòng gắn bó trong Đức Kitô vẫn không rời xa; dù giãn cách xã hội, ánh sáng đức tin vẫn cháy trong mỗi người trẻ xa quê. Chúa luôn là thành lũy và nơi nương náu vững bền giữa một thế giới chao đảo. Năm 2021 khép lại trong một khoảng lặng, nhưng cũng từ khoảng lặng ấy, Ca đoàn Giới Trẻ Têrêsa tiếp tục chờ đợi ngày trở lại với những buổi tập hát, Thánh lễ, chương trình, chuyến đi và trên hết là những cuộc gặp gỡ đầy yêu thương.",
+    "description": "Năm 2021 – đại dịch COVID-19 đã bao trùm thế giới mang theo một nỗi buồn xót xa, sự mất mát và cảm giác bức bối đến vô tận. Vì không thể ra ngoài nên nhiều chương trình, kế hoạch đã phải dừng lại, những buổi lễ thiếu vắng tiếng hát, những cuộc gặp gỡ không thể diễn ra. Nhưng giữa “thung lũng tối” ấy, có một điều vẫn chưa bao giờ ngơi nghỉ: niềm tín thác và lòng trung kiên.\n\nKhi nhìn lại, chúng con nhận ra rằng: chính trong thử thách, tình yêu càng đậm sâu. Những giây phút được phục vụ, được tự do cất lên tiếng hát tôn vinh Chúa nơi cung thánh trở nên quý giá biết bao. Dù không thể gặp gỡ trực tiếp, nhưng lòng gắn bó trong Đức Kitô vẫn không hề rời xa. Dù giãn cách xã hội nhưng ánh sáng đức tin luôn cháy bỏng trong mỗi người trẻ xa quê chúng con. Chúa luôn là thành luỹ, nơi nương náu vững bền cho đoàn con giữa thế giới chao đảo.\n\nNăm 2021 khép lại trong một khoảng lặng. Nhưng chính từ khoảng lặng ấy, Ca đoàn Giới Trẻ Têrêsa lại tiếp tục chờ đợi một ngày được trở lại – trở lại với những buổi tập hát, những Thánh lễ, những chương trình, những chuyến đi và trên hết là trở lại với những cuộc gặp gỡ đầy yêu thương.",
     "highlight": "40 ca viên · khoảng 15 thành viên tạm nghỉ"
   },
   "gallery": []

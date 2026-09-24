@@ -3,7 +3,7 @@
   "year": 2017,
   "activityId": "2017-retreat",
   "title": "Tĩnh tâm tại Tam Đảo",
-  "count": 12,
+  "count": 13,
   "images": [
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/001.jpg",
@@ -88,6 +88,29 @@
       "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
       "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/retreat/012.jpg",
       "variants": {}
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/tinh-tam-tam-dao/013/medium.jpg",
+      "caption": "Tĩnh tâm tại Tam Đảo · ảnh 13",
+      "alt": "Ảnh tư liệu: Tĩnh tâm tại Tam Đảo",
+      "id": "media/2017/tinh-tam-tam-dao/013/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/tinh-tam-tam-dao/013/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/tinh-tam-tam-dao/013/medium.jpg",
+          "width": 720,
+          "height": 540
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/tinh-tam-tam-dao/013/original.jpg",
+          "width": 720,
+          "height": 540
+        }
+      }
     }
   ]
 }

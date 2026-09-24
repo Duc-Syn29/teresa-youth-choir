@@ -1,8 +1,9 @@
 #!/usr/bin/env node
 
 /**
- * Tạo hai biến thể JPEG nhẹ cho ảnh cục bộ đang được dữ liệu JSON tham chiếu.
- * Ảnh gốc được giữ nguyên độ phân giải; website ưu tiên bản 480/1280 khi phù hợp.
+ * Tạo ba biến thể JPEG cho ảnh cục bộ đang được dữ liệu JSON tham chiếu.
+ * Bản xem lớn giới hạn 3200 px để vẫn rõ khi phóng to nhưng không đưa tệp 6K–8K
+ * nguyên bản lên R2; website ưu tiên bản 480/1280 khi chưa mở lightbox.
  * Mặc định là dry-run. Dùng --write để tạo ảnh và cập nhật JSON.
  */
 import { createRequire } from "node:module";
@@ -73,7 +74,7 @@ async function optimizedMedia(value) {
     return {
       thumbnail: await variant(originalSource, width, height, 480, "480", 86),
       medium: await variant(originalSource, width, height, 1280, "1280", 91),
-      original: { src: originalSource, width, height },
+      original: await variant(originalSource, width, height, 3200, "3200", 90),
     };
   })();
   cache.set(originalSource, task);

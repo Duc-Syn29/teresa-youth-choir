@@ -210,7 +210,7 @@
       const photoIndex = photoPlan.get(index);
       const photo = photoIndex !== undefined ? photos[photoIndex] : null;
       const caption = photo ? displayCaption(photo.caption, activity.title) : "";
-      return `<section class="activity-story-chapter"><p${index === 0 ? ' class="activity-lead"' : ""}>${escapeHTML(paragraph)}</p>${photo ? `<figure class="activity-story-figure"><button class="activity-story-photo ${mediaShape(photo)}" type="button" data-story-photo="${photoIndex}" aria-label="Mở ảnh: ${escapeHTML(caption)}"><img ${mediaAttributes(photo, "medium", "(max-width:680px) 92vw, 62vw")} alt="${escapeHTML(photo.alt || caption)}" loading="lazy" decoding="async" /><span>${String(photoIndex + 1).padStart(2, "0")} / ${photos.length}</span></button><figcaption>${escapeHTML(caption)}</figcaption></figure>` : ""}</section>`;
+      return `<section class="activity-story-chapter ${photo ? "has-inline-media" : "text-only"}"><p${index === 0 ? ' class="activity-lead"' : ""}>${escapeHTML(paragraph)}</p>${photo ? `<figure class="activity-story-figure"><button class="activity-story-photo ${mediaShape(photo)}" type="button" data-story-photo="${photoIndex}" aria-label="Mở ảnh: ${escapeHTML(caption)}"><img ${mediaAttributes(photo, "medium", "(max-width:680px) 92vw, 62vw")} alt="${escapeHTML(photo.alt || caption)}" loading="lazy" decoding="async" /><span>${String(photoIndex + 1).padStart(2, "0")} / ${photos.length}</span></button><figcaption>${escapeHTML(caption)}</figcaption></figure>` : ""}</section>`;
     }).join("");
   }
 

@@ -6,7 +6,7 @@
     "secondary": "#bfe7ee"
   },
   "meta": {
-    "revision": 7,
+    "revision": 8,
     "status": "published",
     "migratedFrom": 1,
     "journalCredit": "Petrus Đỗ Tiến Hạng",
@@ -16,10 +16,10 @@
   },
   "overview": {
     "eyebrow": "Trở lại · Gặp gỡ · Phục vụ",
-    "title": "Bước tiếp hành trình sứ vụ sau đại dịch COVID",
-    "summary": "Từ giữa năm 2022, ca đoàn từng bước tái khởi động tập hát, phục vụ Thánh lễ, tĩnh tâm, dã ngoại và thiện nguyện sau gần hai năm bị gián đoạn.",
-    "verse": "Hãy vui mừng trong niềm hy vọng, kiên nhẫn lúc gian truân và chuyên cần cầu nguyện. (Rm 12,12)",
-    "longDescription": "Sau gần hai năm chịu ảnh hưởng nặng nề bởi đại dịch COVID-19, năm 2022 đánh dấu bước chuyển mình quan trọng của Ca đoàn Giới Trẻ Têrêsa. Khi cuộc sống dần trở lại bình thường, tiếng hát lại vang lên trong phòng tập, các thành viên có cơ hội gặp gỡ và những hoạt động còn dang dở được nối lại. Quân số giảm do một số anh chị em trở về quê, thay đổi công việc hoặc chuyển nơi sinh sống, nhưng những người ở lại càng ý thức hơn về tình hiệp nhất và trách nhiệm với cộng đoàn. Đây là một năm của sự trở lại, gặp gỡ và niềm vui tiếp tục cất tiếng hát phụng sự Chúa.",
+    "title": "Bước tiếp hành trình sứ vụ sau đại dịch covid",
+    "summary": "Sau gần hai năm chịu ảnh hưởng nặng nề bởi đại dịch COVID-19, năm 2022 đánh dấu một bước chuyển mình quan trọng trong hành trình của Ca đoàn Giới Trẻ Têrêsa. Những buổi tập hát, những Thánh lễ, những chuyến đi và những chương trình sinh hoạt tưởng chừng rất đỗi quen thuộc lại trở nên đáng quý hơn bao giờ hết. Từ khoảng giữa năm 2022, khi cuộc sống dần trở lại bình thường, ca đoàn cũng từng bước tái khởi động lại các sinh hoạt thường niên. Những buổi tập hát lại vang lên, anh chị em có cơ hội gặp gỡ, cùng nhau phục vụ Thánh lễ và nối lại những hoạt động đã dang dở, dù quân số có phần giảm sút khi một số anh chị em trở về quê, thay đổi công việc hoặc chuyển nơi sinh sống. Nhưng chính trong hoàn cảnh ấy, những người còn lại càng ý thức hơn về tình hiệp nhất và trách nhiệm với cộng đoàn.",
+    "verse": "“Hãy vui mừng trong niềm hy vọng, kiên nhẫn lúc gian truân và chuyên cần cầu nguyện.” (Rm 12,12)",
+    "longDescription": "Sau gần hai năm chịu ảnh hưởng nặng nề bởi đại dịch COVID-19, năm 2022 đánh dấu một bước chuyển mình quan trọng trong hành trình của Ca đoàn Giới Trẻ Têrêsa. Những buổi tập hát, những Thánh lễ, những chuyến đi và những chương trình sinh hoạt tưởng chừng rất đỗi quen thuộc lại trở nên đáng quý hơn bao giờ hết. Từ khoảng giữa năm 2022, khi cuộc sống dần trở lại bình thường, ca đoàn cũng từng bước tái khởi động lại các sinh hoạt thường niên. Những buổi tập hát lại vang lên, anh chị em có cơ hội gặp gỡ, cùng nhau phục vụ Thánh lễ và nối lại những hoạt động đã dang dở, dù quân số có phần giảm sút khi một số anh chị em trở về quê, thay đổi công việc hoặc chuyển nơi sinh sống. Nhưng chính trong hoàn cảnh ấy, những người còn lại càng ý thức hơn về tình hiệp nhất và trách nhiệm với cộng đoàn.\n\nSau một thời gian dài chờ đợi, năm 2022 trở thành một dấu mốc đặc biệt – một năm của sự trở lại, của gặp gỡ và của niềm vui được tiếp tục cùng nhau cất tiếng hát để phụng sự Chúa.",
     "coverImage": {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/medium.jpg",
       "id": "media/2022/quan-thay/27/original.jpg",
@@ -37,9 +37,9 @@
           "height": 852
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/original.jpg",
-          "width": 6048,
-          "height": 4024
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/original.jpg?v=1652534",
+          "width": 3200,
+          "height": 2129
         }
       }
     }
@@ -149,7 +149,7 @@
     "total": 45,
     "new": 18,
     "inactive": 5,
-    "notes": "Ca đoàn đón 18 thành viên mới; khoảng 5 thành viên tạm ngưng sinh hoạt."
+    "notes": "Tổng số ca viên: 45 ca viên; Ca viên mới trong năm: 18; Thành viên nghỉ: 5 người"
   },
   "activities": [
     {
@@ -158,9 +158,9 @@
       "topic": "Đại lễ",
       "date": "10.05.2022",
       "location": "",
-      "title": "Khai mạc Đại lễ kính Thánh Giuse Thợ",
-      "description": "Ca đoàn phục vụ Thánh lễ khai mạc Đại lễ kính Thánh Giuse Thợ, bổn mạng Gia đình Công giáo Xa quê Hà Nội.",
-      "body": "Ngày 10 tháng 5, sau thời gian dài các hoạt động cộng đoàn bị gián đoạn, ca đoàn nhận phân công từ quý cha đặc trách và Ban Thường vụ Gia đình Công giáo Xa quê Hà Nội để phục vụ Thánh lễ khai mạc Đại lễ kính Thánh Giuse Thợ. Ban điều hành đã gấp rút kêu gọi, quy tụ các ca viên trở lại tập hát và chuẩn bị phụng vụ.\n\nViệc được cùng nhau cất tiếng hát trong một đại lễ lớn đem lại cảm xúc đặc biệt. Thánh lễ diễn ra sốt sắng, và tiếng hát hôm ấy trở thành dấu hiệu cho thấy đời sống cộng đoàn đang từng bước hồi sinh. Đây cũng là dịp để các thành viên gặp lại nhau và chia sẻ niềm vui được trở về với sứ mạng quen thuộc.",
+      "title": "Trở lại với những sứ vụ phục vụ",
+      "description": "Ngày 10/5/2022, Ca đoàn Giới Trẻ Têrêsa được phân công phục vụ Đại lễ kính Thánh Giuse Thợ – Bổn mạng Gia đình Công giáo Xa quê Hà Nội.",
+      "body": "Ngày 10/5/2022, Ca đoàn Giới Trẻ Têrêsa được phân công phục vụ Đại lễ kính Thánh Giuse Thợ – Bổn mạng Gia đình Công giáo Xa quê Hà Nội. Sau một thời gian dài các hoạt động cộng đoàn bị gián đoạn, ca đoàn nhận được sự phân công từ quý cha đặc trách và ban thường vụ Gia đình Công giáo xa quê Hà Nội phục vụ Thánh lễ khai mạc Đại lễ Thánh Giuse Thợ. Sau khi nhận được thông báo, ban điều hành ca đoàn đã gấp rút kêu gọi và quy tụ anh chị em ca viên trở lại tập hát và phục vụ thánh lễ. Việc được cùng nhau cất lên lời ca trong một đại lễ lớn mang lại một cảm xúc đặc biệt và thánh lễ đã diễn ra thật sốt sắng. Tiếng hát ngày đại lễ này không chỉ phục vụ Phụng vụ, nhưng còn như một dấu hiệu cho thấy đời sống cộng đoàn đang từng bước được hồi sinh.\n\nĐây cũng là dịp để các thành viên gặp lại nhau, cùng chia sẻ niềm vui được trở về với những hoạt động quen thuộc và tiếp tục sứ mạng phục vụ bằng lời ca tiếng hát.",
       "images": []
     },
     {
@@ -169,9 +169,9 @@
       "topic": "Du lịch/Team Building",
       "date": "11–12.06.2022",
       "location": "Vườn Quốc gia Ba Vì, Hà Nội",
-      "title": "Chuyến dã ngoại tại Vườn Quốc gia Ba Vì",
-      "description": "Chuyến dã ngoại tại Vườn Quốc gia Ba Vì giúp các ca viên gặp gỡ, nghỉ ngơi và gắn kết lại sau thời gian xa cách vì dịch bệnh.",
-      "body": "Trong hai ngày 11–12 tháng 6, ca đoàn tổ chức chuyến dã ngoại tại Vườn Quốc gia Ba Vì. Các thành viên có thời gian gặp gỡ, nghỉ ngơi và sẻ chia những khó khăn mà mỗi người đã trải qua trong giai đoạn chống chọi với dịch bệnh.\n\nBên cạnh những giờ vui chơi, mọi người cùng cắm trại, đốt lửa và dùng bữa trong không khí thanh bình của núi rừng Ba Vì. Những câu chuyện, tiếng cười và khoảnh khắc bên nhau trở thành một phần ký ức đẹp của năm 2022.",
+      "title": "Dã ngoại Vườn Quốc gia Ba Vì",
+      "description": "Ngày 11–12/6/2022, Ban điều hành ca đoàn đã lên ý tưởng tổ chức chuyến dã ngoại tại Vườn Quốc gia Ba Vì để gắn kết anh chị em ca viên sau một thời gian xa cách vì dịch bệnh.",
+      "body": "Ngày 11–12/6/2022, Ban điều hành ca đoàn đã lên ý tưởng tổ chức chuyến dã ngoại tại Vườn Quốc gia Ba Vì để gắn kết anh chị em ca viên sau một thời gian xa cách vì dịch bệnh. Chuyến đi trở nên thật ý nghĩa vì các thành viên được gặp gỡ, nghỉ ngơi và cùng tâm sự sẻ chia với những khó khăn của mỗi người trong giai đoạn chống chọi với dịch bệnh.\n\nKhông chỉ có những giờ phút vui chơi, anh chị em còn cắm trại, đốt lửa và cùng ăn uống với nhau trong không khí thật thanh bình của vùng núi ba vì. Những câu chuyện, tiếng cười và những khoảnh khắc bên nhau trở thành một phần ký ức đẹp của năm 2022.",
       "images": []
     },
     {
@@ -180,9 +180,9 @@
       "topic": "Tĩnh tâm",
       "date": "17.09.2022",
       "location": "Giáo xứ Tam Đảo",
-      "title": "Tĩnh tâm “Lên Núi Với Đức Kitô”",
-      "description": "Ca đoàn tĩnh tâm tại Tam Đảo với chủ đề “Lên Núi Với Đức Kitô”, hướng đến lễ Quan thầy kỷ niệm 7 năm thành lập.",
-      "body": "Ngày 17 tháng 9, các ca viên tạm gác lại bộn bề để trở về với đời sống cầu nguyện, nhìn lại hành trình phục vụ và chuẩn bị tâm hồn cho lễ Quan thầy. Cha phó đặc trách Giuse Trần Hữu Hoan đồng hành, chia sẻ tĩnh tâm và dâng Thánh lễ tại Giáo xứ Tam Đảo. Giữa không gian núi rừng, mọi người cùng cầu nguyện, suy niệm, chia sẻ và làm mới đời sống đức tin.\n\nTrong chuyến đi này, ca đoàn thực hiện MV “Nụ Hoa Têrêsa”. Những giai điệu và hình ảnh được ghi lại giữa thiên nhiên trở thành kỷ niệm về sự trở lại, đồng thời thể hiện mong muốn lan tỏa hình ảnh và tinh thần của Thánh Têrêsa Hài Đồng Giêsu.",
+      "title": "Tĩnh Tâm Tam Đảo “Lên Núi Với Đức Kitô”",
+      "description": "Ngày 17/9/2022, Ca đoàn có chuyến tĩnh tâm tại Tam Đảo với chủ đề “Lên Núi Với Đức Kitô” để cùng nhau hướng đến ngày lễ quan thầy kỷ niệm 7 năm thành lập.",
+      "body": "Ngày 17/9/2022, Ca đoàn có chuyến tĩnh tâm tại Tam Đảo với chủ đề “Lên Núi Với Đức Kitô” để cùng nhau hướng đến ngày lễ quan thầy kỷ niệm 7 năm thành lập. Đây là khoảng thời gian để mỗi thành viên tạm gác lại những bộn bề của cuộc sống, trở về với đời sống cầu nguyện và nhìn lại hành trình phục vụ của chính mình. Bên cạnh đó, tĩnh tâm cũng là để những anh chị em ca viên có cơ hội được giao hòa với Thiên Chúa trong bí tích Thánh Thể, lắng đọng tâm hồn chuẩn bị tinh thần sốt mến cho ngày lễ quan thầy sắp tới. Đặc biệt, trong chương trình thiện nguyện này, ca đoàn rất vinh dự có sự đồng hành của cha phó đặc trách Giu-se Trần Hữu Hoan, cha đa chia sẻ tĩnh tâm va dâng thánh lễ cho anh chị em ca viên tại ngôi thánh đường Gx. Tam Đảo. Trong bầu không khí của núi rừng Tam Đảo, các thành viên có cơ hội cùng nhau cầu nguyện, suy niệm và chia sẻ, tham dự thánh lễ. Chuyến tĩnh tâm không chỉ là một hoạt động sinh hoạt, mà còn là dịp để mỗi người làm mới lại đời sống đức tin và tìm lại động lực để tiếp tục phục vụ Chúa qua sứ vụ ca đoàn.\n\nĐặc biệt, trong chuyến đi này, Ca đoàn thực hiện MV “Nụ Hoa Têrêsa”. Những giai điệu và hình ảnh được ghi lại giữa không gian thiên nhiên trở thành một kỷ niệm đáng nhớ, một dấu mốc của sự trở lại, đồng thời thể hiện mong muốn của Ca đoàn trong việc lan tỏa hình ảnh và tinh thần của Thánh nữ Têrêsa Hài Đồng Giêsu.",
       "coverImage": {
         "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/09/medium.jpg",
         "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Tam Đảo",
@@ -289,8 +289,8 @@
       "date": "05.10.2022",
       "location": "Giáo xứ Thái Hà, Hà Nội",
       "title": "Phục vụ khai mạc Đại lễ Di Dân",
-      "description": "Ca đoàn cùng Ca đoàn Monica và Ca đoàn Latin phục vụ Thánh lễ khai mạc Đại lễ Di Dân.",
-      "body": "Ngày 5 tháng 10, ca đoàn cộng tác cùng Ca đoàn Monica, Ca đoàn Latin và nhiều cộng đoàn, ban ngành trong chương trình đại lễ của Gia đình Công giáo Xa quê Hà Nội. Đây là một trong những hoạt động phục vụ nổi bật của năm.\n\nMở đầu đêm hoan ca, ca đoàn phối hợp với Ban Kèn và Ban Trống Xa quê trình bày tiết mục hòa phối “Tiếng Nhạc Oai Hùng”. Sự kết hợp giữa tiếng hát và nhạc cụ tạo nên một tiết mục sôi động, trang trọng cho đêm khai mạc.",
+      "description": "Ngày 5/10/2022, Ca đoàn phục vụ Thánh lễ Khai mạc Đại lễ Di dân, kết hợp cùng Ca đoàn Monica và Ca đoàn Latin.",
+      "body": "Ngày 5/10/2022, Ca đoàn phục vụ Thánh lễ Khai mạc Đại lễ Di dân, kết hợp cùng Ca đoàn Monica và Ca đoàn Latin. Đây là một trong những hoạt động phục vụ nổi bật của Ca đoàn trong năm, khi các thành viên được cộng tác cùng rất nhiều các cộng đoàn, ban ngành khác trong một chương trình đại lễ của Gia đình Công giáo xa quê Hà Nội.\n\nMở đầu cho chương trình đêm hoan ca mừng Đại lễ Di dân, Ca đoàn còn phối hợp cùng Ban Kèn, Trống Xa quê để thực hiện tiết mục hòa phối “Tiếng Nhạc Oai Hùng”. Sự kết hợp giữa tiếng hát và nhạc cụ tạo nên một tiết mục sôi động, trang trọng, góp phần làm nên không khí đặc biệt của đêm khai mạc.",
       "coverImage": {
         "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/13/medium.jpg",
         "alt": "Ca đoàn cùng các ban phục vụ trong Đại lễ Di Dân 2022",
@@ -397,8 +397,8 @@
       "date": "10.10.2022",
       "location": "Đền Giêrađô",
       "title": "Mừng lễ Quan thầy sau đại dịch",
-      "description": "Ca đoàn mừng lễ Quan thầy trở lại sau hai năm đại dịch trong bầu khí ấm cúng tại Đền Giêrađô.",
-      "body": "Ngày 10 tháng 10, ca đoàn hân hoan mừng kính Thánh Têrêsa Hài Đồng Giêsu. Đây không chỉ là dịp mừng lễ bổn mạng, mà còn là lúc các thành viên nhìn lại hành trình đã qua và tạ ơn Chúa vì ca đoàn vẫn được gìn giữ giữa những biến động.\n\nSau thời gian thiếu vắng sinh hoạt chung, niềm vui được quây quần trở nên giản dị nhưng sâu sắc. Sau Thánh lễ, đông đảo ca viên cùng quý cha và quý khách tham dự bữa tiệc thân mật, ấm cúng, tràn đầy tình huynh đệ.",
+      "description": "Chỉ ít ngày sau, ngày 10/10/2022, Ca đoàn hân hoan mừng Thánh lễ Quan Thầy.",
+      "body": "Chỉ ít ngày sau, ngày 10/10/2022, Ca đoàn hân hoan mừng Thánh lễ Quan Thầy. Sau hai năm đại dịch, Thánh lễ Quan Thầy được tổ chức trở lại trong bầu khí ấm cúng tại Đền Gierado. Đây không chỉ là dịp để cộng đoàn mừng kính Thánh Têrêsa Hài Đồng Giêsu, mà còn là khoảnh khắc để các thành viên nhìn lại hành trình đã qua và tạ ơn Chúa vì Ca đoàn vẫn được gìn giữ giữa những biến động của thời gian.\n\nSau những năm tháng thiếu vắng các hoạt động chung, được một lần nữa quây quần bên nhau trong ngày lễ Quan Thầy mang đến một niềm vui rất riêng – giản dị nhưng sâu sắc. Tiếng hát của Ca đoàn hôm ấy như lời cầu nguyện và cũng là lời tạ ơn cho một chặng đường đã được Chúa đồng hành.\n\nSau Thánh lễ, đông đảo anh chị em ca viên cùng quý cha, quý khách được cùng nhau quy tụ lại tham dự bữa tiệc thân mật, ấm cúng và tràn đầy tình huynh đệ.",
       "coverImage": {
         "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/medium.jpg",
         "alt": "Ca đoàn chụp ảnh cùng quý cha sau lễ Quan thầy",
@@ -416,9 +416,9 @@
             "height": 852
           },
           "original": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/original.jpg",
-            "width": 6048,
-            "height": 4024
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/original.jpg?v=1652534",
+            "width": 3200,
+            "height": 2129
           }
         }
       },
@@ -443,9 +443,9 @@
                 "height": 852
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/original.jpg",
-                "width": 6048,
-                "height": 4024
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/original.jpg?v=1652534",
+                "width": 3200,
+                "height": 2129
               }
             }
           },
@@ -466,9 +466,9 @@
                 "height": 852
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/01/original.jpg",
-                "width": 6048,
-                "height": 4024
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/01/original.jpg?v=1691093",
+                "width": 3200,
+                "height": 2129
               }
             }
           },
@@ -489,9 +489,9 @@
                 "height": 852
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/24/original.jpg",
-                "width": 6048,
-                "height": 4024
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/24/original.jpg?v=1566482",
+                "width": 3200,
+                "height": 2129
               }
             }
           }
@@ -505,8 +505,8 @@
       "date": "30.10.2022",
       "location": "",
       "title": "Chung vui lễ cưới Trường – Na",
-      "description": "Ca đoàn hiện diện, chung vui và gửi lời chúc phúc đến anh chị Trường – Na trong ngày hôn phối.",
-      "body": "Ngày 30 tháng 10, ca đoàn cùng hiện diện và tham dự lễ cưới của anh Trường và chị Na.\n\nAnh chị em trong ca đoàn đã cùng về chung vui, gửi lời chúc phúc và trao tặng món quà nhỏ đến anh chị như lời cầu chúc tốt đẹp dành cho gia đình mới. Đây cũng là dịp để các thành viên thêm gắn kết và cùng chia sẻ niềm vui trong những dấu mốc quan trọng của nhau.",
+      "description": "Ngày 30/10/2022, ca đoàn cùng hiện diện và tham dự lễ cưới của anh Trường và chị Na.",
+      "body": "Ngày 30/10/2022, ca đoàn cùng hiện diện và tham dự lễ cưới của anh Trường và chị Na.\n\nAnh chị em trong ca đoàn đã cùng về chung vui, gửi lời chúc phúc và trao tặng món quà nhỏ đến anh chị, như một lời chúc tốt đẹp của ca đoàn dành cho gia đình mới của anh chị. Đây cũng là dịp để các thành viên thêm gắn kết và cùng chia sẻ niềm vui trong những dấu mốc quan trọng của nhau.",
       "coverImage": {
         "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/03/medium.jpg",
         "alt": "Ca đoàn chung vui cùng anh chị Trường – Na trong ngày cưới",
@@ -613,8 +613,8 @@
       "date": "16–18.12.2022",
       "location": "Xã Yên Định, huyện Bắc Mê, Hà Giang",
       "title": "Giáng Sinh trao yêu thương",
-      "description": "Chương trình thiện nguyện Giáng Sinh mang quà và sự sẻ chia đến xã Yên Định, huyện Bắc Mê, tỉnh Hà Giang.",
-      "body": "Từ ngày 16 đến 18 tháng 12, các thành viên rời Hà Nội để tiếp nối truyền thống thiện nguyện hằng năm. Hình ảnh những em nhỏ người Mông mặc áo mỏng giữa cái rét vùng cao, những bản làng đơn sơ và mái nhà còn nhiều thiếu thốn để lại trong mỗi ca viên nhiều trăn trở.\n\nNhững phần quà, lời hỏi thăm và nụ cười được trao đi trở thành kỷ niệm khó quên. Giáng Sinh năm ấy không chỉ được đón mừng bằng thánh ca, mà còn được sống bằng những hành động yêu thương và sẻ chia cụ thể.",
+      "description": "Khép lại một năm nhiều dấu ấn, từ ngày 16–18/12/2022, Ca đoàn thực hiện chương trình Thiện nguyện Giáng Sinh tại xã Yên Định, huyện Bắc Mê, tỉnh Hà Giang.",
+      "body": "Khép lại một năm nhiều dấu ấn, từ ngày 16–18/12/2022, Ca đoàn thực hiện chương trình Thiện nguyện Giáng Sinh tại xã Yên Định, huyện Bắc Mê, tỉnh Hà Giang. Rời xa Hà Nội, như một truyền thống hằng năm của ca đoàn, các thành viên mang theo không chỉ những phần quà vật chất mà còn cả sự sẻ chia và niềm vui Giáng Sinh đến với những người còn gặp nhiều khó khăn. Nhìn thấy những em nhỏ bản người Mông mang trên mình những mảnh áo mỏng manh dưới cái rét buốt của vùng núi Hà Giang khiến tất cả mọi người không khỏi chạnh lòng. Những bản làng đơn sơ, những mái nhà sập xệ là những hình ảnh thật khó quên của mỗi anh chị em ca viên. Hành trình lên vùng cao là một trải nghiệm đặc biệt, khi mỗi thành viên có cơ hội được gặp gỡ, trao gửi yêu thương và cảm nhận rõ hơn ý nghĩa của việc phục vụ.\n\nGiữa tiết trời miền núi những ngày cuối năm, những món quà nhỏ, những lời hỏi thăm và những nụ cười trao nhau trở thành những kỷ niệm khó quên. Giáng Sinh năm ấy vì thế không chỉ được đón mừng bằng những bài thánh ca, mà còn được sống bằng chính những hành động yêu thương và sẻ chia.",
       "coverImage": {
         "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/12/medium.jpg",
         "alt": "Đoàn thiện nguyện lưu ảnh cùng bà con tại Bắc Mê",
@@ -729,7 +729,7 @@
   "emotionJournal": [],
   "yearMark": {
     "title": "Chúng con hát, là để sống niềm tin",
-    "description": "Năm 2022 là khoảng thời gian để Ca đoàn Giới trẻ Têrêsa sống chậm lại, gắn bó hơn trong tình huynh đệ và lớn lên trong sự bình an Chúa ban. Không phải lúc nào đời sống cũng trọn vẹn êm đềm, nhưng giữa những thử thách và mệt nhoài, lời ca vẫn vang lên như lời nguyện chân thành để an ủi, nâng đỡ và nhắc nhớ rằng: “Chúng con hát, là để sống niềm tin.” Nhìn lại hành trình ấy, điều còn đọng lại không chỉ là những chương trình hay chuyến đi, mà còn là tình yêu dành cho ca đoàn và lòng nhiệt thành phục vụ. Năm 2022 khép lại như lời nhắc rằng tiếng hát vẫn có thể được cất lên khi những người cùng chung một niềm tin biết nắm tay nhau bước tiếp. Mỗi thành viên tiếp tục được mời gọi trở nên những “Nụ hoa Têrêsa”, âm thầm nở giữa đời bằng lời ca và chính đời sống của mình.",
+    "description": "Năm 2022 – khoảng thời gian để Ca đoàn Giới trẻ Teresa sống chậm lại, gắn bó hơn trong tình huynh đệ và lớn lên trong sự bình an Chúa ban. Không phải lúc nào đời sống cũng trọn vẹn êm đềm, nhưng giữa những thử thách, mệt nhoài, những lời ca vẫn vang lên như lời nguyện chân thành, để an ủi – để nâng đỡ – để nhắc nhở rằng: “Chúng con hát, là để sống niềm tin.”\n\nNhìn lại hành trình ấy, điều còn đọng lại không chỉ là những ngày tháng, những chương trình hay những chuyến đi, mà còn là tình yêu dành cho Ca đoàn và lòng nhiệt thành phục vụ. Năm 2022 khép lại như một lời nhắc nhở rằng: dù hành trình có lúc khó khăn, tiếng hát vẫn có thể được cất lên khi những con người cùng chung một niềm tin biết nắm tay nhau bước tiếp.\n\nVà trên hành trình ấy, Ca đoàn Giới Trẻ Têrêsa tiếp tục được mời gọi trở nên những “Nụ hoa Tê-rê-sa”, âm thầm nở giữa đời, dùng lời ca tiếng hát và chính đời sống của mình để làm cho Thiên Chúa được yêu mến hơn.",
     "highlight": "45 ca viên · 18 ca viên mới · 7 hoạt động"
   },
   "gallery": []

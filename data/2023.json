@@ -6,7 +6,7 @@
     "secondary": "#b9d9d5"
   },
   "meta": {
-    "revision": 8,
+    "revision": 10,
     "status": "published",
     "migratedFrom": 1,
     "journalCredit": "Anna Nguyễn Thị Quyên",
@@ -132,7 +132,7 @@
     "total": 45,
     "new": 10,
     "inactive": 5,
-    "notes": "Tổng số ca viên: 45 · Ca viên mới trong năm: 10 · Thành viên nghỉ: 5"
+    "notes": "Tổng số ca viên: 45; Ca viên mới trong năm: 10; Thành viên nghỉ: 5"
   },
   "activities": [
     {
@@ -142,7 +142,7 @@
       "date": "02.02.2023",
       "location": "",
       "title": "Phục vụ Thánh Lễ Khai Xuân Giới Trẻ Thừa Sai",
-      "description": "Những ngày đầu xuân Quý Mão, các ca viên đã gác lại những ưu tư cá nhân để quy tụ đông đủ trong Thánh lễ Khai xuân của Giới Trẻ Thừa Sai. Tiếng hát rộn rã, tươi mới như lời nguyện ước dâng lên Thiên Chúa một năm mới trọn niềm phó thác. Đây cũng là dịp để anh chị em trao cho nhau những lời chúc lành và xốc lại tinh thần hăng hái cho một hành trình phục vụ phía trước",
+      "description": "Những ngày đầu xuân Quý Mão, các ca viên đã gác lại những ưu tư cá nhân để quy tụ đông đủ trong Thánh lễ Khai xuân của Giới Trẻ Thừa Sai.",
       "body": "Những ngày đầu xuân Quý Mão, các ca viên đã gác lại những ưu tư cá nhân để quy tụ đông đủ trong Thánh lễ Khai xuân của Giới Trẻ Thừa Sai. Tiếng hát rộn rã, tươi mới như lời nguyện ước dâng lên Thiên Chúa một năm mới trọn niềm phó thác. Đây cũng là dịp để anh chị em trao cho nhau những lời chúc lành và xốc lại tinh thần hăng hái cho một hành trình phục vụ phía trước",
       "images": []
     },
@@ -152,9 +152,9 @@
       "topic": "Hát lễ cưới",
       "date": "08.02.2023 · 18:30",
       "location": "Giáo xứ Liên Thượng, Giáo phận Bùi Chu",
-      "title": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ",
-      "description": "Đây là một cột mốc tràn ngập niềm vui và xúc động của toàn thể gia đình Ca đoàn Giới trẻ Têrêsa. Anh Giuse Phạm Văn Tĩnh (Trưởng ca đoàn) và chị Maria Nguyễn Thị Mơ (Trưởng ban Liên kết) – hai con người đã dành trọn nhiệt huyết, thời gian và sức trẻ để góp phần xây dựng ca đoàn, đã tìm thấy nhau và nên duyên vợ chồng từ chính mái nhà chung này",
-      "body": "Đây là một cột mốc tràn ngập niềm vui và xúc động của toàn thể gia đình Ca đoàn Giới trẻ Têrêsa. Anh Giuse Phạm Văn Tĩnh (Trưởng ca đoàn) và chị Maria Nguyễn Thị Mơ (Trưởng ban Liên kết) – hai con người đã dành trọn nhiệt huyết, thời gian và sức trẻ để góp phần xây dựng ca đoàn, đã tìm thấy nhau và nên duyên vợ chồng từ chính mái nhà chung này\nNhận lời mời thân thương, dù là ngày giữa tuần bận rộn và phải di chuyển quãng đường xa về tới Giáo phận Bùi Chu, đoàn xe của ca đoàn vẫn cất cánh trong bầu khí rộn rã và hân hoan. Tại ngôi thánh đường Liên Thượng cổ kính, tiếng hát sốt sắng, tươi vui của anh chị em ca viên dâng lên trong Thánh lễ Hôn phối không chỉ là lời nguyện chúc cho mái ấm mới của anh Tĩnh – chị Mơ luôn tràn đầy Hồng ân Thiên Chúa, mà còn là lời tạ ơn sâu sắc. Tình yêu của anh chị chính là minh chứng đẹp đẽ cho sự gắn kết, tinh thần hy sinh và tình huynh đệ chân thành mà Ca đoàn Giới trẻ Têrêsa luôn nâng niu, gìn giữ",
+      "title": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+      "description": "Đây là một cột mốc tràn ngập niềm vui và xúc động của toàn thể gia đình Ca đoàn Giới trẻ Têrêsa.",
+      "body": "Đây là một cột mốc tràn ngập niềm vui và xúc động của toàn thể gia đình Ca đoàn Giới trẻ Têrêsa. Anh Giuse Phạm Văn Tĩnh (Trưởng ca đoàn) và chị Maria Nguyễn Thị Mơ (Trưởng ban Liên kết) – hai con người đã dành trọn nhiệt huyết, thời gian và sức trẻ để góp phần xây dựng ca đoàn, đã tìm thấy nhau và nên duyên vợ chồng từ chính mái nhà chung này\n\nNhận lời mời thân thương, dù là ngày giữa tuần bận rộn và phải di chuyển quãng đường xa về tới Giáo phận Bùi Chu, đoàn xe của ca đoàn vẫn cất cánh trong bầu khí rộn rã và hân hoan. Tại ngôi thánh đường Liên Thượng cổ kính, tiếng hát sốt sắng, tươi vui của anh chị em ca viên dâng lên trong Thánh lễ Hôn phối không chỉ là lời nguyện chúc cho mái ấm mới của anh Tĩnh – chị Mơ luôn tràn đầy Hồng ân Thiên Chúa, mà còn là lời tạ ơn sâu sắc. Tình yêu của anh chị chính là minh chứng đẹp đẽ cho sự gắn kết, tinh thần hy sinh và tình huynh đệ chân thành mà Ca đoàn Giới trẻ Têrêsa luôn nâng niu, gìn giữ",
       "coverImage": {
         "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/medium.jpg",
         "alt": "Thánh lễ Hôn phối của anh Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ",
@@ -172,9 +172,9 @@
             "height": 560
           },
           "original": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/original.jpg",
-            "width": 2936,
-            "height": 1284
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/original.jpg?v=1006113",
+            "width": 3200,
+            "height": 1399
           }
         }
       },
@@ -199,9 +199,9 @@
                 "height": 560
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/original.jpg",
-                "width": 2936,
-                "height": 1284
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/original.jpg?v=1006113",
+                "width": 3200,
+                "height": 1399
               }
             }
           },
@@ -262,7 +262,7 @@
       "location": "Phòng tập Ca đoàn Têrêsa",
       "title": "Chào đón Ca trưởng mới – Chị Maria Ban Mai",
       "description": "Tháng Ba gõ cửa, đánh dấu một cột mốc chuyển mình đầy ý nghĩa trong đời sống phục vụ của Ca đoàn Giới trẻ Têrêsa khi chào đón chị Ban Mai trong vai trò Ca trưởng phụ trách chuyên môn",
-      "body": "Tháng Ba gõ cửa, đánh dấu một cột mốc chuyển mình đầy ý nghĩa trong đời sống phục vụ của Ca đoàn Giới trẻ Têrêsa khi chào đón chị Ban Mai trong vai trò Ca trưởng phụ trách chuyên môn\nSự xuất hiện của chị Mai như một \"làn gió mới\" thổi vào không gian sinh hoạt của ca đoàn. Với ngọn lửa nhiệt thành, sự kiên nhẫn và lòng mến Chúa sâu sắc, chị không chỉ tỉ mỉ uốn nắn từng nốt nhạc, chỉnh sửa kỹ thuật lấy hơi, nhịp điệu và phối bè chuyên nghiệp hơn, mà còn mang đến một phương pháp tập hát vô cùng cuốn hút. Các buổi tối thứ 5 hàng tuần tập hát không còn là áp lực hay sự mệt mỏi sau ngày dài làm việc, mà trở thành những giờ phút đầy ắp tiếng cười, sự hứng khởi và năng lượng tích cực\nSự khởi sắc rõ rệt về chất lượng chuyên môn đã lan tỏa nguồn cảm hứng mãnh liệt. Nhiều cựu ca viên vốn bận rộn nay hào hứng quay trở lại sinh hoạt; đồng thời, ca đoàn cũng hân hoan đón nhận thêm nhiều gương mặt ca viên mới xin gia nhập, giúp sĩ số các bè thêm đông đủ và vững vàng\nSự thay đổi diện mạo về chuyên môn cùng sự chuyển giao nhân sự trôi chảy, êm đẹp trong bình an chính là món quà kỳ diệu, là dấu chỉ Thiên Chúa luôn an bài và chuẩn bị những điều tốt đẹp nhất cho Ca đoàn Têrêsa trên hành trình dâng tiếng hát phụng sự Ngài",
+      "body": "Tháng Ba gõ cửa, đánh dấu một cột mốc chuyển mình đầy ý nghĩa trong đời sống phục vụ của Ca đoàn Giới trẻ Têrêsa khi chào đón chị Ban Mai trong vai trò Ca trưởng phụ trách chuyên môn\n\nSự xuất hiện của chị Mai như một \"làn gió mới\" thổi vào không gian sinh hoạt của ca đoàn. Với ngọn lửa nhiệt thành, sự kiên nhẫn và lòng mến Chúa sâu sắc, chị không chỉ tỉ mỉ uốn nắn từng nốt nhạc, chỉnh sửa kỹ thuật lấy hơi, nhịp điệu và phối bè chuyên nghiệp hơn, mà còn mang đến một phương pháp tập hát vô cùng cuốn hút. Các buổi tối thứ 5 hàng tuần tập hát không còn là áp lực hay sự mệt mỏi sau ngày dài làm việc, mà trở thành những giờ phút đầy ắp tiếng cười, sự hứng khởi và năng lượng tích cực\n\nSự khởi sắc rõ rệt về chất lượng chuyên môn đã lan tỏa nguồn cảm hứng mãnh liệt. Nhiều cựu ca viên vốn bận rộn nay hào hứng quay trở lại sinh hoạt; đồng thời, ca đoàn cũng hân hoan đón nhận thêm nhiều gương mặt ca viên mới xin gia nhập, giúp sĩ số các bè thêm đông đủ và vững vàng\n\nSự thay đổi diện mạo về chuyên môn cùng sự chuyển giao nhân sự trôi chảy, êm đẹp trong bình an chính là món quà kỳ diệu, là dấu chỉ Thiên Chúa luôn an bài và chuẩn bị những điều tốt đẹp nhất cho Ca đoàn Têrêsa trên hành trình dâng tiếng hát phụng sự Ngài",
       "coverImage": {
         "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/ca-truong-ban-mai/001/medium.jpg",
         "alt": "Ca trưởng Maria Ban Mai cùng Ca đoàn Giới trẻ Têrêsa",
@@ -323,8 +323,8 @@
       "date": "23–25.06.2023",
       "location": "Giáo xứ Cô Tô",
       "title": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
-      "description": "Tạm gác lại những âu lo và bộn bề nơi phố thị, Ca đoàn Giới trẻ Têrêsa lên đường tiến về hòn đảo Cô Tô xinh đẹp. Chuyến di chuyển ra đảo bằng chiếc thuyền gỗ giữa những trận sóng dồn dập, chênh vênh chao đảo như chính hình ảnh đời sống phục vụ đôi lúc gặp nhiều giông bão. Thế nhưng, chính trong khoảnh khắc ấy, lời cầu nguyện “Thầy ơi, cứu con!” lại cất lên đầy tha thiết, nhắc nhớ mỗi ca viên biết trông cậy hoàn toàn vào ơn Chúa mỗi khi đối diện với gian truân, lầm lỗi hay thử thách",
-      "body": "Tạm gác lại những âu lo và bộn bề nơi phố thị, Ca đoàn Giới trẻ Têrêsa lên đường tiến về hòn đảo Cô Tô xinh đẹp. Chuyến di chuyển ra đảo bằng chiếc thuyền gỗ giữa những trận sóng dồn dập, chênh vênh chao đảo như chính hình ảnh đời sống phục vụ đôi lúc gặp nhiều giông bão. Thế nhưng, chính trong khoảnh khắc ấy, lời cầu nguyện “Thầy ơi, cứu con!” lại cất lên đầy tha thiết, nhắc nhớ mỗi ca viên biết trông cậy hoàn toàn vào ơn Chúa mỗi khi đối diện với gian truân, lầm lỗi hay thử thách\nVới chủ đề “Dấn Thân Trong Niềm Tin”, chuyến tĩnh tâm là tiếng gọi thân thương mời gọi mỗi thành viên vững tin dấn thân hơn nữa trong “ơn gọi” dâng tiếng hát phụng sự. Giữa không gian mênh mông của biển trời, anh chị em đã có những giờ phút lắng đọng tâm hồn, nhìn lại chặng đường dấn thân, lãnh nhận Bí tích Hòa giải và cùng nhau tham dự Thánh lễ sốt sắng. Không chỉ vậy, ở mỗi người cảm nghiệm được sâu sắc hơn tình thương bao la của Chúa và mở lòng ra để yêu thương nhau nhiều hơn\nBên cạnh những khoảng lặng thiêng liêng, các hoạt động đá bóng trên bãi biển, cùng nhau đạp xe dạo phố nghêu ngao hát ca, cùng đêm giao lưu ấm cúng trên bãi biển đã xóa tan mọi khoảng cách. Những nụ cười rạng rỡ, những câu chuyện sẻ chia chân thành đã gắn kết các thành viên mới - cũ thành một gia đình trọn vẹn niềm vui. Chuyến đi khép lại nhưng đã để lại những kỷ niệm vô giá, vun đắp cho ca đoàn một tinh thần hiệp nhất vững chắc trong tình yêu Đức Kitô, để mọi người cùng nắm tay nhau tiếp tục dấn thân trên con đường dâng tiếng hát phụng sự Chúa và phục vụ tha nhân",
+      "description": "Tạm gác lại những âu lo và bộn bề nơi phố thị, Ca đoàn Giới trẻ Têrêsa lên đường tiến về hòn đảo Cô Tô xinh đẹp.",
+      "body": "Tạm gác lại những âu lo và bộn bề nơi phố thị, Ca đoàn Giới trẻ Têrêsa lên đường tiến về hòn đảo Cô Tô xinh đẹp. Chuyến di chuyển ra đảo bằng chiếc thuyền gỗ giữa những trận sóng dồn dập, chênh vênh chao đảo như chính hình ảnh đời sống phục vụ đôi lúc gặp nhiều giông bão. Thế nhưng, chính trong khoảnh khắc ấy, lời cầu nguyện “Thầy ơi, cứu con!” lại cất lên đầy tha thiết, nhắc nhớ mỗi ca viên biết trông cậy hoàn toàn vào ơn Chúa mỗi khi đối diện với gian truân, lầm lỗi hay thử thách\n\nVới chủ đề “Dấn Thân Trong Niềm Tin”, chuyến tĩnh tâm là tiếng gọi thân thương mời gọi mỗi thành viên vững tin dấn thân hơn nữa trong “ơn gọi” dâng tiếng hát phụng sự. Giữa không gian mênh mông của biển trời, anh chị em đã có những giờ phút lắng đọng tâm hồn, nhìn lại chặng đường dấn thân, lãnh nhận Bí tích Hòa giải và cùng nhau tham dự Thánh lễ sốt sắng. Không chỉ vậy, ở mỗi người cảm nghiệm được sâu sắc hơn tình thương bao la của Chúa và mở lòng ra để yêu thương nhau nhiều hơn\n\nBên cạnh những khoảng lặng thiêng liêng, các hoạt động đá bóng trên bãi biển, cùng nhau đạp xe dạo phố nghêu ngao hát ca, cùng đêm giao lưu ấm cúng trên bãi biển đã xóa tan mọi khoảng cách. Những nụ cười rạng rỡ, những câu chuyện sẻ chia chân thành đã gắn kết các thành viên mới - cũ thành một gia đình trọn vẹn niềm vui. Chuyến đi khép lại nhưng đã để lại những kỷ niệm vô giá, vun đắp cho ca đoàn một tinh thần hiệp nhất vững chắc trong tình yêu Đức Kitô, để mọi người cùng nắm tay nhau tiếp tục dấn thân trên con đường dâng tiếng hát phụng sự Chúa và phục vụ tha nhân",
       "coverImage": {
         "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/069/medium.jpg",
         "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
@@ -431,8 +431,8 @@
       "date": "16.09.2023",
       "location": "Giáo xứ Thanh Minh, Giáo phận Thái Bình",
       "title": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
-      "description": "Ca đoàn Giới trẻ Têrêsa cùng các hội đoàn trong GĐCGXQ Hà Nội đã gác lại công việc, khởi hành từ 05h30 sáng tiến về Giáo xứ Thanh Minh. Với chủ đề “Người xa quê gặp gỡ chính Chúa Giêsu”, đây là dịp thuận tiện để mỗi ca viên lắng đọng tâm hồn qua các giờ tĩnh tâm, Chầu Thánh Thể linh thiêng và lãnh nhận Bí tích Hòa giải",
-      "body": "Ca đoàn Giới trẻ Têrêsa cùng các hội đoàn trong GĐCGXQ Hà Nội đã gác lại công việc, khởi hành từ 05h30 sáng tiến về Giáo xứ Thanh Minh. Với chủ đề “Người xa quê gặp gỡ chính Chúa Giêsu”, đây là dịp thuận tiện để mỗi ca viên lắng đọng tâm hồn qua các giờ tĩnh tâm, Chầu Thánh Thể linh thiêng và lãnh nhận Bí tích Hòa giải\nLúc 14h00, ca đoàn được đảm nhận phục vụ hát lễ, đã nâng tâm hồn cộng đoàn hướng về Thiên Chúa trong niềm tạ ơn sâu sắc\n\nNiềm vui ngày tĩnh tâm càng trọn vẹn hơn khi đoàn ghé thăm Tòa Giám Mục Thái Bình, dạo bước bên bãi biển và quây quần ghé thăm nhà chị Ca trưởng Ban Mai. Những tiếng cười giòn giã, những khoảnh khắc gắn kết chân thành đã thắt chặt thêm tình huynh đệ. Chuyến đi khép lại trong bình an lúc 19h30, đọng lại tinh thần hiệp nhất dưới mái nhà chung GĐCGXQ Hà Nội.",
+      "description": "Ca đoàn Giới trẻ Têrêsa cùng các hội đoàn trong GĐCGXQ Hà Nội đã gác lại công việc, khởi hành từ 05h30 sáng tiến về Giáo xứ Thanh Minh.",
+      "body": "Ca đoàn Giới trẻ Têrêsa cùng các hội đoàn trong GĐCGXQ Hà Nội đã gác lại công việc, khởi hành từ 05h30 sáng tiến về Giáo xứ Thanh Minh. Với chủ đề “Người xa quê gặp gỡ chính Chúa Giêsu”, đây là dịp thuận tiện để mỗi ca viên lắng đọng tâm hồn qua các giờ tĩnh tâm, Chầu Thánh Thể linh thiêng và lãnh nhận Bí tích Hòa giải\n\nLúc 14h00, ca đoàn được đảm nhận phục vụ hát lễ, đã nâng tâm hồn cộng đoàn hướng về Thiên Chúa trong niềm tạ ơn sâu sắc\n\nNiềm vui ngày tĩnh tâm càng trọn vẹn hơn khi đoàn ghé thăm Tòa Giám Mục Thái Bình, dạo bước bên bãi biển và quây quần ghé thăm nhà chị Ca trưởng Ban Mai. Những tiếng cười giòn giã, những khoảnh khắc gắn kết chân thành đã thắt chặt thêm tình huynh đệ. Chuyến đi khép lại trong bình an lúc 19h30, đọng lại tinh thần hiệp nhất dưới mái nhà chung GĐCGXQ Hà Nội.",
       "coverImage": {
         "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/001/medium.jpg",
         "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
@@ -539,7 +539,7 @@
       "date": "03.10.2023 · 18:30",
       "location": "Giáo xứ Thái Hà, Hà Nội",
       "title": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
-      "description": "Cuối tháng 9, bầu khí hướng về Nhà thờ Giáo xứ Thái Hà trở nên rộn rã hơn bao giờ hết. Anh chị em ca viên hăng say dâng những buổi tối hy sinh tập hát và say sưa tập cử điệu. Tất cả cùng hòa quyện khả năng Chúa ban để dệt nên một bản nhạc tạ ơn, noi gương con đường thơ ấu của Thánh Quan thầy: làm việc nhỏ với tình yêu lớn",
+      "description": "Cuối tháng 9, bầu khí hướng về Nhà thờ Giáo xứ Thái Hà trở nên rộn rã hơn bao giờ hết.",
       "body": "Cuối tháng 9, bầu khí hướng về Nhà thờ Giáo xứ Thái Hà trở nên rộn rã hơn bao giờ hết. Anh chị em ca viên hăng say dâng những buổi tối hy sinh tập hát và say sưa tập cử điệu. Tất cả cùng hòa quyện khả năng Chúa ban để dệt nên một bản nhạc tạ ơn, noi gương con đường thơ ấu của Thánh Quan thầy: làm việc nhỏ với tình yêu lớn\n\nLúc 18h30, Thánh lễ Mừng Kỷ niệm 8 năm thành lập (2015 – 2023) và Mừng kính Thánh Têrêsa Hài Đồng Giêsu diễn ra trang trọng do Cha Phó Đặc trách Giuse Lương Thanh Tùng chủ tế, cùng sự hiện diện của quý Cha Đặc trách, quý Sơ, quý khách và cộng đoàn. Lời Chúa qua phần chia sẻ của Thầy Phó tế Giuse đã nhắc nhớ mỗi ca viên biết phục vụ trong khiêm nhường và phó thác. Ý thức \"hát là cầu nguyện hai lần\", những giai điệu hòa bè cất lên đã nâng tâm hồn cộng đoàn tham dự hướng về Thiên Chúa\n\nSau Thánh lễ, đại gia đình Têrêsa quây quần ăn bữa cơm thân mật, cùng nhau hát, nhảy cử điệu và trao nhau những nụ cười ấm áp. Ngày Lễ Bổn Mạng khép lại trong niềm hân hoan, đong đầy ân sủng và thắt chặt ngọn lửa nhiệt thành cho hành trình dấn thân phía trước",
       "coverImage": {
         "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/069/medium.jpg",
@@ -608,9 +608,9 @@
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/001/original.jpg",
-                "width": 2048,
-                "height": 1366
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/001/original.jpg?v=2022508",
+                "width": 3200,
+                "height": 2134
               }
             }
           },
@@ -631,9 +631,9 @@
                 "height": 824
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/076/original.jpg",
-                "width": 2048,
-                "height": 1318
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/076/original.jpg?v=1691008",
+                "width": 3200,
+                "height": 2059
               }
             }
           }
@@ -647,7 +647,7 @@
       "date": "24.10.2023 · 19:00",
       "location": "Giáo xứ Thái Hà, Hà Nội",
       "title": "Phục vụ Thánh Lễ – Đại Lễ Di Dân 2023",
-      "description": "Nối dài những hoa trái ân sủng từ ngày tĩnh tâm tại Giáo xứ Thanh Minh, ca đoàn vinh dự đảm nhận hát Thánh lễ chính vào ngày thứ hai trong 3 ngày của Đại Lễ Di Dân lúc 19h00 tại nhà thờ Giáo xứ Thái Hà. Sự hiệp nhất trọn vẹn trong từng lời ca chính là minh chứng rõ nét cho tinh thần dấn thân, khép lại một mốc son phụng sự rực rỡ và đong đầy ân sủng của ca đoàn",
+      "description": "Nối dài những hoa trái ân sủng từ ngày tĩnh tâm tại Giáo xứ Thanh Minh, ca đoàn vinh dự đảm nhận hát Thánh lễ chính vào ngày thứ hai trong 3 ngày của Đại Lễ Di Dân lúc 19h00 tại nhà thờ Giáo xứ Thái Hà.",
       "body": "Nối dài những hoa trái ân sủng từ ngày tĩnh tâm tại Giáo xứ Thanh Minh, ca đoàn vinh dự đảm nhận hát Thánh lễ chính vào ngày thứ hai trong 3 ngày của Đại Lễ Di Dân lúc 19h00 tại nhà thờ Giáo xứ Thái Hà. Sự hiệp nhất trọn vẹn trong từng lời ca chính là minh chứng rõ nét cho tinh thần dấn thân, khép lại một mốc son phụng sự rực rỡ và đong đầy ân sủng của ca đoàn",
       "images": []
     },
@@ -658,7 +658,7 @@
       "date": "17.11.2023",
       "location": "Giáo xứ Cẩm Sơn, Tổng Giáo phận Hà Nội",
       "title": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
-      "description": "Đáp lại lời ngỏ chân thành của chị Vân Anh — người ca viên luôn nhiệt thành, Ca đoàn Giới trẻ Têrêsa đã hân hoan quy tụ về Giáo xứ Cẩm Sơn để phục vụ Thánh lễ Hôn phối cho chị Maria Vân Anh và anh Giuse Ân Sủng. Đây là Thánh lễ Hôn phối thứ hai của ca viên mà đại gia đình Têrêsa vinh dự được đồng hành phục vụ trong năm 2023. Được phục vụ thánh lễ, được chứng kiến khoảnh khắc thiêng khi hai tâm hồn trao lời thề hứa trước bàn thờ Chúa là niềm hạnh phúc của cả ca đoàn. Những lời ca cất lên không chỉ là món quà vô giá gửi trao, mà còn là lời nguyện cầu tha thiết dâng lên Thiên Chúa, chúc phúc cho đôi tân hôn luôn trung thành, yêu thương và cùng nhau xây đắp một mái ấm ngập tràn ân sủng",
+      "description": "Đáp lại lời ngỏ chân thành của chị Vân Anh — người ca viên luôn nhiệt thành, Ca đoàn Giới trẻ Têrêsa đã hân hoan quy tụ về Giáo xứ Cẩm Sơn để phục vụ Thánh lễ Hôn phối cho chị Maria Vân Anh và anh Giuse Ân Sủng.",
       "body": "Đáp lại lời ngỏ chân thành của chị Vân Anh — người ca viên luôn nhiệt thành, Ca đoàn Giới trẻ Têrêsa đã hân hoan quy tụ về Giáo xứ Cẩm Sơn để phục vụ Thánh lễ Hôn phối cho chị Maria Vân Anh và anh Giuse Ân Sủng. Đây là Thánh lễ Hôn phối thứ hai của ca viên mà đại gia đình Têrêsa vinh dự được đồng hành phục vụ trong năm 2023. Được phục vụ thánh lễ, được chứng kiến khoảnh khắc thiêng khi hai tâm hồn trao lời thề hứa trước bàn thờ Chúa là niềm hạnh phúc của cả ca đoàn. Những lời ca cất lên không chỉ là món quà vô giá gửi trao, mà còn là lời nguyện cầu tha thiết dâng lên Thiên Chúa, chúc phúc cho đôi tân hôn luôn trung thành, yêu thương và cùng nhau xây đắp một mái ấm ngập tràn ân sủng",
       "coverImage": {
         "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/011/medium.jpg",
@@ -767,8 +767,105 @@
       "location": "Lũng Lừa và Lũng Khỉnh, Hà Quảng, Cao Bằng",
       "title": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
       "description": "Nhờ sự nâng đỡ của quý Cha Đặc trách cùng sự rộng lượng của quý ân nhân, chuyến thiện nguyện \"Hơi ấm nơi rẻo cao\" đã lăn bánh trong đêm đông 15/12/2023.",
-      "body": "Nhờ sự nâng đỡ của quý Cha Đặc trách cùng sự rộng lượng của quý ân nhân, chuyến thiện nguyện \"Hơi ấm nơi rẻo cao\" đã lăn bánh trong đêm đông 15/12/2023. \nĐến với hai bản xa Lũng Lừa và Lũng Khỉnh (huyện Hà Quảng, tỉnh Cao Bằng), các ca viên mới cảm nhận trọn vẹn cái lạnh cắt da cắt thịt của vùng núi phía Bắc. Những đoạn đường gập ghềnh, đất đá lổm chổm buộc cả đoàn phải san sẻ đồ đạc, trung chuyển qua từng chiếc xe nhỏ để lách qua từng khúc ôm cua hiểm trở. Thách thức ấy giúp mỗi người trẻ thấu cảm sâu sắc nỗi vất vả, thiếu thốn mà bà con nghèo và các em nhỏ nơi đây phải đối diện mỗi ngày\n115 suất quà gồm chăn ấm, gạo, nhu yếu phẩm cùng quần áo, bánh kẹo đã được trao tận tay từng gia đình. Khoảnh khắc nhìn thấy những ánh mắt rạng rỡ, những nụ cười ngây thơ tươi vui của các em nhỏ khi nhận món quà mừng Chúa Giáng Sinh, mọi mệt mỏi đường xa trong lòng các ca viên dường như tan biến. Chiêm ngắm những nét mặt rạng rỡ ấy, mỗi thành viên như tự hứa với lòng phải cố gắng hơn nữa, dấn thân nhiều hơn nữa để tiếp tục trở thành cánh tay nối dài mang tình thương của Chúa đến những vùng đất cằn cỗi.\n\nTối 16/12, giữa không gian yên bình của giáo xứ Cao Bình, ca đoàn đã sốt sắng dâng lời ca tiếng hát phục vụ Thánh lễ, dâng lên Chúa mọi nhọc nhằn, niềm vui và sự hy sinh của chuyến đi. Ngày 17/12, sau những phút giây chiêm ngắm tuyệt tác thiên nhiên tại Thác Bản Giốc, đoàn lên xe trở về Hà Nội trong bình an. \nHành trình thiện nguyện khép lại năm 2023 không chỉ dâng trao hơi ấm cho bản làng xa xôi, mà còn đọng lại trong tim mỗi ca viên bài học sâu sắc về sự trao ban, giúp ngọn lửa yêu thương và tinh thần chứng nhân tiếp tục cháy sáng trên từng chặng đường phía trước",
-      "images": []
+      "body": "Nhờ sự nâng đỡ của quý Cha Đặc trách cùng sự rộng lượng của quý ân nhân, chuyến thiện nguyện \"Hơi ấm nơi rẻo cao\" đã lăn bánh trong đêm đông 15/12/2023.\n\nĐến với hai bản xa Lũng Lừa và Lũng Khỉnh (huyện Hà Quảng, tỉnh Cao Bằng), các ca viên mới cảm nhận trọn vẹn cái lạnh cắt da cắt thịt của vùng núi phía Bắc. Những đoạn đường gập ghềnh, đất đá lổm chổm buộc cả đoàn phải san sẻ đồ đạc, trung chuyển qua từng chiếc xe nhỏ để lách qua từng khúc ôm cua hiểm trở. Thách thức ấy giúp mỗi người trẻ thấu cảm sâu sắc nỗi vất vả, thiếu thốn mà bà con nghèo và các em nhỏ nơi đây phải đối diện mỗi ngày\n\n115 suất quà gồm chăn ấm, gạo, nhu yếu phẩm cùng quần áo, bánh kẹo đã được trao tận tay từng gia đình. Khoảnh khắc nhìn thấy những ánh mắt rạng rỡ, những nụ cười ngây thơ tươi vui của các em nhỏ khi nhận món quà mừng Chúa Giáng Sinh, mọi mệt mỏi đường xa trong lòng các ca viên dường như tan biến. Chiêm ngắm những nét mặt rạng rỡ ấy, mỗi thành viên như tự hứa với lòng phải cố gắng hơn nữa, dấn thân nhiều hơn nữa để tiếp tục trở thành cánh tay nối dài mang tình thương của Chúa đến những vùng đất cằn cỗi.\n\nTối 16/12, giữa không gian yên bình của giáo xứ Cao Bình, ca đoàn đã sốt sắng dâng lời ca tiếng hát phục vụ Thánh lễ, dâng lên Chúa mọi nhọc nhằn, niềm vui và sự hy sinh của chuyến đi. Ngày 17/12, sau những phút giây chiêm ngắm tuyệt tác thiên nhiên tại Thác Bản Giốc, đoàn lên xe trở về Hà Nội trong bình an.\n\nHành trình thiện nguyện khép lại năm 2023 không chỉ dâng trao hơi ấm cho bản làng xa xôi, mà còn đọng lại trong tim mỗi ca viên bài học sâu sắc về sự trao ban, giúp ngọn lửa yêu thương và tinh thần chứng nhân tiếp tục cháy sáng trên từng chặng đường phía trước",
+      "coverImage": {
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/001/medium.jpg",
+        "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 1",
+        "caption": "Khoảnh khắc trong chương trình thiện nguyện “Hơi ấm nơi rẻo cao” tại Cao Bằng.",
+        "id": "media/2023/hoi-am-noi-reo-cao/001/original.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/001/thumb.jpg",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/001/medium.jpg",
+            "width": 1280,
+            "height": 853
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/001/original.jpg",
+            "width": 4898,
+            "height": 3265
+          }
+        }
+      },
+      "album": {
+        "manifest": "data/albums/2023/2023-hoi-am-noi-reo-cao.json",
+        "count": 78,
+        "preview": [
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/001/medium.jpg",
+            "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 1",
+            "caption": "Khoảnh khắc trong chương trình thiện nguyện “Hơi ấm nơi rẻo cao” tại Cao Bằng.",
+            "id": "media/2023/hoi-am-noi-reo-cao/001/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/001/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/001/medium.jpg",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/001/original.jpg",
+                "width": 4898,
+                "height": 3265
+              }
+            }
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/002/medium.jpg",
+            "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 2",
+            "caption": "Khoảnh khắc trong chương trình thiện nguyện “Hơi ấm nơi rẻo cao” tại Cao Bằng.",
+            "id": "media/2023/hoi-am-noi-reo-cao/002/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/002/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/002/medium.jpg",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/002/original.jpg",
+                "width": 4898,
+                "height": 3265
+              }
+            }
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/003/medium.jpg",
+            "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 3",
+            "caption": "Khoảnh khắc trong chương trình thiện nguyện “Hơi ấm nơi rẻo cao” tại Cao Bằng.",
+            "id": "media/2023/hoi-am-noi-reo-cao/003/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/003/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/003/medium.jpg",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/003/original.jpg",
+                "width": 4898,
+                "height": 3265
+              }
+            }
+          }
+        ]
+      }
     }
   ],
   "achievements": [],
@@ -796,7 +893,7 @@
   ],
   "yearMark": {
     "title": "Dấu ấn của năm",
-    "description": "Khép lại năm 2023, Ca đoàn Giới trẻ Têrêsa nhìn lại một chặng đường đong đầy ân sủng, nơi ngọn lửa Tin yêu - Dấn thân - Phục vụ luôn cháy sáng trong từng lời ca, tiếng hát và mọi hành trình. \nTừ những buổi tập hát hăng say, những Thánh lễ phục vụ sốt sắng đến các chuyến đi chan chứa tình thương, tất cả đã kết tinh thành một dấu ấn rực rỡ dưới mái nhà chung Têrêsa.\nXin tạ ơn Thiên Chúa vì một năm đã qua và xin tiếp tục giữ vững ngọn lửa nhiệt thành ấy để mỗi ca viên luôn là một khí cụ bình an, mang lời ca và tình yêu lan tỏa đến mọi người trên những bước đường phía trước",
+    "description": "Khép lại năm 2023, Ca đoàn Giới trẻ Têrêsa nhìn lại một chặng đường đong đầy ân sủng, nơi ngọn lửa Tin yêu - Dấn thân - Phục vụ luôn cháy sáng trong từng lời ca, tiếng hát và mọi hành trình.\n\nTừ những buổi tập hát hăng say, những Thánh lễ phục vụ sốt sắng đến các chuyến đi chan chứa tình thương, tất cả đã kết tinh thành một dấu ấn rực rỡ dưới mái nhà chung Têrêsa.\n\nXin tạ ơn Thiên Chúa vì một năm đã qua và xin tiếp tục giữ vững ngọn lửa nhiệt thành ấy để mỗi ca viên luôn là một khí cụ bình an, mang lời ca và tình yêu lan tỏa đến mọi người trên những bước đường phía trước",
     "highlight": "Tin yêu - Dấn thân - Phục vụ"
   },
   "gallery": []

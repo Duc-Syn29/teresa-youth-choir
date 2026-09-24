@@ -128,7 +128,7 @@ test("article renders before its album; an album failure and retry preserve the 
   assert.equal(app.hidden, false);
   assert.equal(loading.hidden, true);
   assert.match(app.innerHTML, /activity-story-section/);
-  assert.match(app.innerHTML, /Ngày 20–21\/6/);
+  assert.match(app.innerHTML, /Ngày 20-21\/6/);
   assert.equal(album.dataset.loading, "true", "album is still pending while story is visible");
   const storyBefore = app.innerHTML;
   rejectAlbum(new Error("offline"));

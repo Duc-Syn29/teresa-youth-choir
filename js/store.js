@@ -338,14 +338,12 @@
     if (!file?.type?.startsWith("image/") || file.type === "image/svg+xml") throw new Error("Chỉ hỗ trợ ảnh JPEG, PNG, WebP hoặc AVIF.");
     if (file.size > MAX_UPLOAD_BYTES) throw new Error("Ảnh lớn hơn 25 MB. Hãy chọn ảnh nhỏ hơn.");
     try {
-      // Tệp người dùng chọn luôn là bản lưu trữ chất lượng cao. Chỉ các bản
-      // hiển thị được nén để tải nhanh trên điện thoại.
-      const bitmap = await createImageBitmap(file);
-      const original = { file, width: bitmap.width, height: bitmap.height, bytes: file.size };
-      bitmap.close?.();
-      // Tạo tuần tự để tránh tăng đột biến bộ nhớ trên iPhone.
+      // Tạo tuần tự để tránh tăng đột biến bộ nhớ trên iPhone. Bản "original"
+      // là ảnh xem lớn 3200 px chất lượng cao; kích thước này vẫn sắc nét khi
+      // lightbox phóng 2× nhưng tránh lưu ảnh máy ảnh 6K–8K quá nặng trên R2.
       const thumbnail = await imageVariant(file, 480, "thumb", .76);
       const medium = await imageVariant(file, 1280, "medium", .82);
+      const original = await imageVariant(file, 3200, "large", .90);
       return { thumbnail, medium, original, originalBytes: file.size };
     } catch (error) {
       console.warn("Không thể tạo đủ biến thể, tải ảnh gốc:", error);
@@ -376,7 +374,13 @@
     normalized.filename ||= file.name;
     normalized.caption ||= metadata.caption || "";
     normalized.alt ||= metadata.alt || file.name;
-    normalized.compression = { originalBytes: file.size, displayBytes: prepared.medium?.bytes || file.size, originalPreserved: true };
+    normalized.compression = {
+      originalBytes: file.size,
+      displayBytes: prepared.medium?.bytes || file.size,
+      lightboxBytes: prepared.original?.bytes || file.size,
+      originalPreserved: false,
+      maxLightboxEdge: 3200,
+    };
     await safeStore("media", "readwrite", (store) => store.put(normalized));
     return normalized;
   }

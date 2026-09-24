@@ -105,16 +105,17 @@ function targetRoot(source, year) {
 
 function registerMedia(value, year) {
   const media = typeof value === "string" ? { src: value, id: value, alt: "", caption: "" } : value;
+  const canonicalSource = localImage.test(media.src) ? media.src : "";
   const originalCandidate = variantSource(media, "original", null);
-  const originalSource = originalCandidate?.src && localImage.test(originalCandidate.src) ? originalCandidate.src : media.src;
-  if (!localImage.test(originalSource)) return value;
-  const assetKey = `${year}\0${originalSource}`;
+  const uploadSource = originalCandidate?.src && localImage.test(originalCandidate.src) ? originalCandidate.src : canonicalSource;
+  if (!localImage.test(canonicalSource) || !localImage.test(uploadSource)) return value;
+  const assetKey = `${year}\0${canonicalSource}`;
   let asset = assets.get(assetKey);
   if (!asset) {
-    const original = originalCandidate?.src ? originalCandidate : { src: originalSource, ...dimensions(originalSource) };
+    const original = originalCandidate?.src ? originalCandidate : { src: uploadSource, ...dimensions(uploadSource) };
     const medium = variantSource(media, "medium", original);
     const thumbnail = variantSource(media, "thumbnail", medium);
-    const root = targetRoot(originalSource, year);
+    const root = targetRoot(canonicalSource, year);
     const build = (name, descriptor) => ({
       name,
       source: descriptor.src,
@@ -123,7 +124,7 @@ function registerMedia(value, year) {
       width: Number(descriptor.width || dimensions(descriptor.src).width),
       height: Number(descriptor.height || dimensions(descriptor.src).height),
     });
-    asset = { year, source: originalSource, root, variants: {
+    asset = { year, source: canonicalSource, root, variants: {
       original: build("original", original),
       medium: build("medium", medium),
       thumbnail: build("thumbnail", thumbnail),

@@ -50,8 +50,14 @@ npm run optimize:images
 # Kiểm tra ảnh cục bộ nào chưa được chuyển sang R2
 npm run sync:r2
 
-# Upload đủ bản gốc/1280/480, kiểm tra URL rồi mới đổi JSON sang R2
+# Upload đủ bản xem lớn 3200/1280/480, kiểm tra URL rồi mới đổi JSON sang R2
 npm run sync:r2:write
+
+# Đo ảnh xem lớn trên R2 có thể thu gọn, không thay object
+npm run optimize:r2
+
+# Giới hạn ảnh R2 cần xử lý ở 3200 px, JPEG 90%; chỉ thay nếu nhẹ hơn >= 5%
+npm run optimize:r2:write
 ```
 
 ## Quy trình quản trị an toàn
@@ -68,7 +74,8 @@ Mỗi người trong Ban điều hành là một phần tử độc lập có `i
 
 ## Ảnh và album
 
-- Ảnh mới được trình duyệt tạo tuần tự thành ba kích thước để hạn chế tăng RAM trên iPhone.
+- Ảnh mới được trình duyệt tạo tuần tự thành ba kích thước 480, 1280 và tối đa 3200 px để hạn chế tăng RAM trên iPhone.
+- Bản 3200 px chất lượng cao chỉ tải khi mở lightbox; ảnh gốc 6K–8K không được lưu dư trên R2.
 - Worker kiểm tra MIME bằng chữ ký file, lưu metadata vào R2 và trả về URL của từng biến thể.
 - Khi thêm ảnh trong trang quản trị, ảnh được upload lên R2 ngay lúc chọn tệp; nếu upload thất bại, ảnh không được thêm vào bản nháp.
 - Nếu chép ảnh trực tiếp vào thư mục dự án, chạy `npm run sync:r2:write` trước khi commit dữ liệu. Lệnh chỉ sửa JSON sau khi mọi object R2 và URL công khai đều được kiểm tra thành công.
