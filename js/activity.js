@@ -321,7 +321,7 @@
       const adminLink = window.TeresaStore.isAdmin() ? `<a class="button button-light" href="admin.html?year=${year}&activity=${encodeURIComponent(activity.id)}">Chỉnh sửa hoạt động ↗</a>` : "";
       app.innerHTML = `
         <section class="activity-hero${coverImage ? "" : ` activity-hero-editorial editorial-theme-${editorial.theme}`}">
-          <div class="activity-hero-bg${coverImage ? "" : " activity-hero-bg-empty"}">${coverImage ? `<img ${mediaAttributes(cover, "original", "100vw")} data-media-priority="high" alt="" loading="eager" decoding="async" />` : `<span class="activity-editorial-year" aria-hidden="true">${year}</span><i class="activity-editorial-icon" aria-hidden="true">${editorial.icon}</i><small>Tư liệu hình ảnh đang được bổ sung</small>`}</div>
+          <div class="activity-hero-bg${coverImage ? "" : " activity-hero-bg-empty"}">${coverImage ? `<img ${mediaAttributes(cover, "medium", "100vw")} data-media-priority="high" alt="" loading="eager" decoding="async" fetchpriority="high" />` : `<span class="activity-editorial-year" aria-hidden="true">${year}</span><i class="activity-editorial-icon" aria-hidden="true">${editorial.icon}</i><small>Tư liệu hình ảnh đang được bổ sung</small>`}</div>
           <div class="activity-hero-grain" aria-hidden="true"></div>
           <div class="container activity-hero-content">
             <nav class="activity-breadcrumb" aria-label="Đường dẫn"><a href="index.html">Trang chủ</a><span>/</span><a href="${yearUrl}">Nhật ký ${year}</a><span>/</span><span>${escapeHTML(activity.type)}</span></nav>
