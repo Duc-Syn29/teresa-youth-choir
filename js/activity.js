@@ -156,20 +156,9 @@
   function storyParts(value = "") {
     const sourceText = String(value).trim();
     if (!sourceText) return [];
-    const original = sourceText.split(/\n\s*\n|\n/).map((part) => part.trim()).filter(Boolean);
-    return original.flatMap((paragraph) => {
-      const sentences = paragraph.match(/[^.!?…]+[.!?…]+|[^.!?…]+$/gu) || [paragraph];
-      if (paragraph.length <= 280 || sentences.length < 2) return [paragraph];
-      const chunks = [];
-      let chunk = "";
-      sentences.forEach((sentence) => {
-        const next = `${chunk} ${sentence.trim()}`.trim();
-        if (chunk && next.length > 280) { chunks.push(chunk); chunk = sentence.trim(); }
-        else chunk = next;
-      });
-      if (chunk) chunks.push(chunk);
-      return chunks;
-    });
+    // Giữ nguyên ranh giới đoạn văn từ nội dung gốc. Việc tự cắt theo số ký tự
+    // khiến một đoạn văn bị biến thành nhiều khối và tạo khoảng trắng giả.
+    return sourceText.split(/\n\s*\n|\n/).map((part) => part.trim()).filter(Boolean);
   }
 
   function storyPhotoPlan(activity, parts, photos) {
@@ -206,12 +195,28 @@
   function storyMarkup(activity, photos) {
     const parts = storyParts(activity.body || activity.description);
     const photoPlan = storyPhotoPlan(activity, parts, photos);
-    return parts.map((paragraph, index) => {
+    const chapters = [];
+    let textRun = [];
+    const paragraphMarkup = (paragraph, index) => `<p${index === 0 ? ' class="activity-lead"' : ""}>${escapeHTML(paragraph)}</p>`;
+    const flushTextRun = () => {
+      if (!textRun.length) return;
+      chapters.push(`<section class="activity-story-chapter text-only">${textRun.map(({ paragraph, index }) => paragraphMarkup(paragraph, index)).join("")}</section>`);
+      textRun = [];
+    };
+
+    parts.forEach((paragraph, index) => {
       const photoIndex = photoPlan.get(index);
       const photo = photoIndex !== undefined ? photos[photoIndex] : null;
+      if (!photo) {
+        textRun.push({ paragraph, index });
+        return;
+      }
+      flushTextRun();
       const caption = photo ? displayCaption(photo.caption, activity.title) : "";
-      return `<section class="activity-story-chapter ${photo ? "has-inline-media" : "text-only"}"><p${index === 0 ? ' class="activity-lead"' : ""}>${escapeHTML(paragraph)}</p>${photo ? `<figure class="activity-story-figure"><button class="activity-story-photo ${mediaShape(photo)}" type="button" data-story-photo="${photoIndex}" aria-label="Mở ảnh: ${escapeHTML(caption)}"><img ${mediaAttributes(photo, "medium", "(max-width:680px) 92vw, 62vw")} alt="${escapeHTML(photo.alt || caption)}" loading="lazy" decoding="async" /><span>${String(photoIndex + 1).padStart(2, "0")} / ${photos.length}</span></button><figcaption>${escapeHTML(caption)}</figcaption></figure>` : ""}</section>`;
-    }).join("");
+      chapters.push(`<section class="activity-story-chapter has-inline-media">${paragraphMarkup(paragraph, index)}<figure class="activity-story-figure"><button class="activity-story-photo ${mediaShape(photo)}" type="button" data-story-photo="${photoIndex}" aria-label="Mở ảnh: ${escapeHTML(caption)}"><img ${mediaAttributes(photo, "medium", "(max-width:680px) 92vw, 62vw")} alt="${escapeHTML(photo.alt || caption)}" loading="lazy" decoding="async" /><span>${String(photoIndex + 1).padStart(2, "0")} / ${photos.length}</span></button><figcaption>${escapeHTML(caption)}</figcaption></figure></section>`);
+    });
+    flushTextRun();
+    return chapters.join("");
   }
 
   function activityPreview(activity, data) {

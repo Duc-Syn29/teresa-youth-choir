@@ -883,9 +883,12 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .admin-row-actions .danger-link { color: #a53c32; }
 .media-picker { padding: 1rem; margin: .4rem 0 1.2rem; background: rgba(223,246,251,.48); border-radius: 1rem; }
 .media-picker p { margin: .1rem 0 .8rem; color: var(--muted); font-size: .72rem; }
-.selected-media { display: flex; flex-wrap: wrap; gap: .45rem; margin-top: .7rem; }
-.selected-media span { padding: .35rem .5rem; color: var(--teal-950); background: rgba(255,255,255,.7); border-radius: .5rem; font-size: .62rem; }
-.selected-media button { margin-left: .25rem; border: 0; color: #a53c32; background: transparent; cursor: pointer; }
+.selected-media { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .65rem; margin-top: .85rem; }
+.selected-media > .empty-note { grid-column: 1 / -1; }
+.selected-media-card { position: relative; min-width: 0; margin: 0; overflow: hidden; background: rgba(255,255,255,.78); border: 1px solid rgba(8,124,165,.14); border-radius: .8rem; box-shadow: 0 7px 18px rgba(5,76,103,.08); }
+.selected-media-card img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; background: var(--teal-100); }
+.selected-media-card figcaption { min-height: 2.7rem; padding: .5rem .58rem; overflow: hidden; color: var(--teal-950); font-size: .58rem; line-height: 1.45; text-overflow: ellipsis; white-space: nowrap; }
+.selected-media-card button { position: absolute; top: .4rem; right: .4rem; min-height: 2rem; padding: .35rem .58rem; color: #8f3029; background: rgba(255,248,246,.94); border: 1px solid rgba(165,60,50,.2); border-radius: 999px; box-shadow: 0 4px 14px rgba(44,20,15,.16); cursor: pointer; font-size: .56rem; font-weight: 800; }
 .media-upload-form { display: grid; grid-template-columns: 1.1fr 1fr 1fr auto; gap: .7rem; align-items: center; }
 .media-upload-form .button { min-height: 2.7rem; padding: 0 1rem; }
 .media-upload-form label { display: grid; gap: .25rem; color: var(--muted); font-size: .62rem; font-weight: 700; }
@@ -981,6 +984,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
   .admin-heading { align-items: start; flex-direction: column; }
   .admin-tools { justify-content: start; }
   .media-upload-form { grid-template-columns: 1fr 1fr; }
+  .selected-media { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 @media (max-width: 560px) {
   .activity-hero { min-height: 88svh; padding: 7.5rem 0 5.25rem; }
@@ -1002,6 +1006,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
   .activity-fact:nth-of-type(even) { padding-left: .85rem; border-left: 1px solid rgba(255,255,255,.17); }
   .activity-fact strong { overflow-wrap: anywhere; font-size: .92rem; }
   .activity-story h2 { margin-bottom: 1.5rem; font-size: clamp(2.35rem, 12vw, 3.5rem); }
+  .activity-prose p { font-size: .94rem; line-height: 1.75; }
   .activity-prose .activity-lead { font-size: 1.2rem; line-height: 1.65; }
   .activity-section-heading { margin-bottom: 2.2rem; }
   .activity-section-heading h2 { font-size: clamp(2.45rem, 12vw, 3.7rem); }
@@ -1193,8 +1198,9 @@ img[data-media-src] { transition: opacity .35s ease; }
 .activity-photo, .activity-photo:nth-child(7n+1), .activity-photo:nth-child(7n+2), .activity-photo:nth-child(7n+5), .activity-photo:nth-child(7n+6) { display: inline-block; width: 100%; height: auto; min-height: 19rem; margin: 0 0 1rem; break-inside: avoid; aspect-ratio: 4 / 3; }
 .activity-photo:nth-child(5n+2), .activity-photo:nth-child(5n+4) { aspect-ratio: 4 / 5; }
 .activity-photo:first-child { display: block; column-span: all; width: 100%; aspect-ratio: 16 / 7; }
-.activity-story-flow { --story-space: clamp(1rem,1.4vw,1.25rem); display: flex; flex-direction: column; gap: var(--story-space); }
+.activity-story-flow { --story-space: clamp(.9rem,1.2vw,1.1rem); display: flex; flex-direction: column; gap: var(--story-space); }
 .activity-story-chapter { display: grid; gap: var(--story-space); margin: 0; }
+.activity-story-chapter.text-only { gap: clamp(.65rem, .9vw, .8rem); }
 .activity-story-chapter > p,
 .activity-story-chapter.has-inline-media,
 .activity-story-chapter.has-inline-media > p { margin: 0; }

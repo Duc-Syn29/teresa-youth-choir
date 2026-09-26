@@ -241,7 +241,13 @@
     const cover = sourceOf(pendingCoverMedia || activity.coverImage || images[0], "original");
     const imageRows = images.map((image) => {
       const key = registerActivityMedia(image);
-      return `<span data-media-key="${escapeHTML(key)}" data-source="${escapeHTML(sourceOf(image, "original"))}">${escapeHTML(image.caption || image.alt || "Ảnh đã đính kèm")}${hasManifest ? "" : ` <button type="button" data-remove-activity-media="${escapeHTML(key)}" aria-label="Gỡ ảnh">×</button>`}</span>`;
+      const thumbnail = sourceOf(image, "thumbnail") || sourceOf(image, "medium") || sourceOf(image, "original");
+      const caption = image.caption || image.alt || "Ảnh hoạt động";
+      return `<figure class="selected-media-card" data-media-key="${escapeHTML(key)}" data-source="${escapeHTML(sourceOf(image, "original"))}">
+        <img src="${escapeHTML(thumbnail || "images/hero.jpg")}" data-media-src="${escapeHTML(thumbnail)}" alt="${escapeHTML(caption)}" loading="lazy" decoding="async" />
+        <figcaption title="${escapeHTML(caption)}">${escapeHTML(caption)}</figcaption>
+        ${hasManifest ? "" : `<button type="button" data-remove-activity-media="${escapeHTML(key)}" aria-label="Xóa ảnh ${escapeHTML(caption)}">Xóa</button>`}
+      </figure>`;
     }).join("");
     const topic = activity.topic || activity.type || "Khác";
     return `<form class="admin-form" id="activity-form"><input type="hidden" name="id" value="${escapeHTML(activity.id || "")}" /><input type="hidden" name="coverImage" value="${escapeHTML(cover)}" />
@@ -252,7 +258,7 @@
       <label>Bài viết chi tiết<textarea name="body" rows="7" required>${escapeHTML(activity.body || activity.description || "")}</textarea></label>
       <div class="word-import"><strong>Nhập bài viết Word</strong><input id="word-import" type="file" accept=".docx,application/vnd.openxmlformats-officedocument.wordprocessingml.document" /><small id="word-import-note">Chỉ nhập nội dung bài viết; năm và chủ đề không thay đổi.</small></div>
       <div class="cover-picker"><div class="cover-picker-copy"><strong>Ảnh trang mở đầu hoạt động</strong><small>Ảnh tải lên được lưu ở R2 nhưng chỉ được áp dụng vào bản nháp.</small><code>${escapeHTML(cover || "Chưa chọn")}</code></div><img class="cover-preview" data-media-src="${escapeHTML(cover)}" src="${escapeHTML(cover || "images/hero.jpg")}" alt="Xem trước ảnh trang mở đầu" /><label class="cover-upload">Thay ảnh<input id="activity-cover" type="file" accept="image/jpeg,image/png,image/webp,image/avif" /></label></div>
-      <div class="media-picker"><div><strong>Ảnh của hoạt động</strong><p>${hasManifest ? "Album này dùng manifest riêng. Hãy quản lý album sau khi API cập nhật manifest được bật." : `Ảnh được tải tuần tự để tránh quá tải bộ nhớ trên điện thoại.`}</p></div><input id="activity-images" type="file" accept="image/jpeg,image/png,image/webp,image/avif" multiple ${hasManifest ? "disabled" : ""} /><button class="text-button" type="button" data-cancel-upload hidden>Dừng sau ảnh hiện tại</button><small data-upload-status></small><div id="selected-images" class="selected-media">${imageRows}</div></div>
+      <div class="media-picker"><div><strong>Ảnh của hoạt động</strong><p>${hasManifest ? "Album đang dùng chỉ mục riêng. Ảnh xem trước được hiển thị bên dưới; có thể quản lý toàn bộ tại Kho ảnh theo sự kiện." : `Ảnh được tải tuần tự để tránh quá tải bộ nhớ trên điện thoại. Bấm Xóa trên ảnh nếu không còn cần dùng.`}</p></div><input id="activity-images" type="file" accept="image/jpeg,image/png,image/webp,image/avif" multiple ${hasManifest ? "disabled" : ""} /><button class="text-button" type="button" data-cancel-upload hidden>Dừng sau ảnh hiện tại</button><small data-upload-status></small><div id="selected-images" class="selected-media">${imageRows || '<p class="empty-note">Hoạt động này chưa có ảnh.</p>'}</div></div>
       <button class="button button-primary" type="submit">Lưu hoạt động vào bản nháp</button></form>`;
   }
 
@@ -353,7 +359,7 @@
     const yearButtons = years.map((year) => `<button type="button" class="${year === currentYear ? "active" : ""}" data-year="${year}">${year}</button>`).join("");
     app.innerHTML = `<section class="admin-shell"><div class="container"><div class="admin-heading"><div><p class="eyebrow">Quản trị kho lưu trữ · Bản nháp an toàn</p><h1>Nhật ký, hoạt động<br /><em>và những bức ảnh.</em></h1></div><div class="admin-tools"><button type="button" id="export-word">Xuất Word năm ${currentYear}</button><button type="button" id="export-archive">Sao lưu JSON đã xuất bản</button><label class="import-label">Nhập JSON vào bản nháp<input id="import-archive" type="file" accept="application/json" /></label><button type="button" id="logout">Đăng xuất</button></div></div>
       ${noticeHTML}<nav class="admin-years" aria-label="Chọn năm">${yearButtons}<button type="button" id="add-year">+ Thêm năm</button></nav>
-      ${editorPanel()}${validationPanel()}<div class="admin-grid"><aside>${overviewForm()}${leadershipForm()}${membersForm()}</aside><div><section class="admin-panel"><div class="admin-form-title"><div><p class="eyebrow">Danh sách</p><h2>Hoạt động năm ${currentYear}</h2></div><button type="button" class="button" id="new-activity">+ Thêm hoạt động</button></div><div class="admin-activity-list">${activityRows() || '<p class="empty-note">Chưa có hoạt động.</p>'}</div></section>${activityForm(selected)}${mediaPanel()}${historyPanel()}</div></div></div></section>`;
+      ${editorPanel()}${validationPanel()}<div class="admin-grid"><aside>${overviewForm()}${membersForm()}</aside><div><section class="admin-panel"><div class="admin-form-title"><div><p class="eyebrow">Danh sách</p><h2>Hoạt động năm ${currentYear}</h2></div><button type="button" class="button" id="new-activity">+ Thêm hoạt động</button></div><div class="admin-activity-list">${activityRows() || '<p class="empty-note">Chưa có hoạt động.</p>'}</div></section>${activityForm(selected)}${mediaPanel()}${historyPanel()}</div></div></div></section>`;
     noticeHTML = "";
     Store.hydrateMedia?.(app);
     bindDashboard();
@@ -926,7 +932,7 @@
       const activity = draft.activities.find((item) => item.id === editingId);
       if (activity) activity.images = (activity.images || []).filter((image) => mediaKey(image) !== key);
       pendingActivityImages = pendingActivityImages.filter((image) => mediaKey(image) !== key);
-      button.closest("span").remove();
+      button.closest("[data-media-key]")?.remove();
       markChanged();
     });
 

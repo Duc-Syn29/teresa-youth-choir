@@ -769,98 +769,98 @@
       "description": "Nhờ sự nâng đỡ của quý Cha Đặc trách cùng sự rộng lượng của quý ân nhân, chuyến thiện nguyện \"Hơi ấm nơi rẻo cao\" đã lăn bánh trong đêm đông 15/12/2023.",
       "body": "Nhờ sự nâng đỡ của quý Cha Đặc trách cùng sự rộng lượng của quý ân nhân, chuyến thiện nguyện \"Hơi ấm nơi rẻo cao\" đã lăn bánh trong đêm đông 15/12/2023.\n\nĐến với hai bản xa Lũng Lừa và Lũng Khỉnh (huyện Hà Quảng, tỉnh Cao Bằng), các ca viên mới cảm nhận trọn vẹn cái lạnh cắt da cắt thịt của vùng núi phía Bắc. Những đoạn đường gập ghềnh, đất đá lổm chổm buộc cả đoàn phải san sẻ đồ đạc, trung chuyển qua từng chiếc xe nhỏ để lách qua từng khúc ôm cua hiểm trở. Thách thức ấy giúp mỗi người trẻ thấu cảm sâu sắc nỗi vất vả, thiếu thốn mà bà con nghèo và các em nhỏ nơi đây phải đối diện mỗi ngày\n\n115 suất quà gồm chăn ấm, gạo, nhu yếu phẩm cùng quần áo, bánh kẹo đã được trao tận tay từng gia đình. Khoảnh khắc nhìn thấy những ánh mắt rạng rỡ, những nụ cười ngây thơ tươi vui của các em nhỏ khi nhận món quà mừng Chúa Giáng Sinh, mọi mệt mỏi đường xa trong lòng các ca viên dường như tan biến. Chiêm ngắm những nét mặt rạng rỡ ấy, mỗi thành viên như tự hứa với lòng phải cố gắng hơn nữa, dấn thân nhiều hơn nữa để tiếp tục trở thành cánh tay nối dài mang tình thương của Chúa đến những vùng đất cằn cỗi.\n\nTối 16/12, giữa không gian yên bình của giáo xứ Cao Bình, ca đoàn đã sốt sắng dâng lời ca tiếng hát phục vụ Thánh lễ, dâng lên Chúa mọi nhọc nhằn, niềm vui và sự hy sinh của chuyến đi. Ngày 17/12, sau những phút giây chiêm ngắm tuyệt tác thiên nhiên tại Thác Bản Giốc, đoàn lên xe trở về Hà Nội trong bình an.\n\nHành trình thiện nguyện khép lại năm 2023 không chỉ dâng trao hơi ấm cho bản làng xa xôi, mà còn đọng lại trong tim mỗi ca viên bài học sâu sắc về sự trao ban, giúp ngọn lửa yêu thương và tinh thần chứng nhân tiếp tục cháy sáng trên từng chặng đường phía trước",
       "coverImage": {
-        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/001/medium.jpg",
-        "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 1",
-        "caption": "Khoảnh khắc trong chương trình thiện nguyện “Hơi ấm nơi rẻo cao” tại Cao Bằng.",
-        "id": "media/2023/hoi-am-noi-reo-cao/001/original.jpg",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/006/medium.jpg?v=459405",
+        "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 6",
+        "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
+        "id": "media/2023/hoi-am-noi-reo-cao/006/original.jpg",
         "variants": {
           "thumbnail": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/001/thumb.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/006/thumb.jpg?v=82126",
             "width": 480,
-            "height": 320
+            "height": 318
           },
           "medium": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/001/medium.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/006/medium.jpg?v=459405",
             "width": 1280,
-            "height": 853
+            "height": 847
           },
           "original": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/001/original.jpg",
-            "width": 4898,
-            "height": 3265
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/006/original.jpg?v=2753752",
+            "width": 3200,
+            "height": 2119
           }
         }
       },
       "album": {
         "manifest": "data/albums/2023/2023-hoi-am-noi-reo-cao.json",
-        "count": 78,
+        "count": 54,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/001/medium.jpg",
-            "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 1",
-            "caption": "Khoảnh khắc trong chương trình thiện nguyện “Hơi ấm nơi rẻo cao” tại Cao Bằng.",
-            "id": "media/2023/hoi-am-noi-reo-cao/001/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/006/medium.jpg?v=459405",
+            "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 6",
+            "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
+            "id": "media/2023/hoi-am-noi-reo-cao/006/original.jpg",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/001/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/006/thumb.jpg?v=82126",
                 "width": 480,
-                "height": 320
+                "height": 318
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/001/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/006/medium.jpg?v=459405",
                 "width": 1280,
-                "height": 853
+                "height": 847
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/001/original.jpg",
-                "width": 4898,
-                "height": 3265
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/006/original.jpg?v=2753752",
+                "width": 3200,
+                "height": 2119
               }
             }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/002/medium.jpg",
-            "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 2",
-            "caption": "Khoảnh khắc trong chương trình thiện nguyện “Hơi ấm nơi rẻo cao” tại Cao Bằng.",
-            "id": "media/2023/hoi-am-noi-reo-cao/002/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/020/medium.jpg?v=310595",
+            "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 20",
+            "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
+            "id": "media/2023/hoi-am-noi-reo-cao/020/original.jpg",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/002/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/020/thumb.jpg?v=62328",
                 "width": 480,
-                "height": 320
+                "height": 318
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/002/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/020/medium.jpg?v=310595",
                 "width": 1280,
-                "height": 853
+                "height": 847
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/002/original.jpg",
-                "width": 4898,
-                "height": 3265
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/020/original.jpg?v=1857062",
+                "width": 3200,
+                "height": 2119
               }
             }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/003/medium.jpg",
-            "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 3",
-            "caption": "Khoảnh khắc trong chương trình thiện nguyện “Hơi ấm nơi rẻo cao” tại Cao Bằng.",
-            "id": "media/2023/hoi-am-noi-reo-cao/003/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/046/medium.jpg?v=321299",
+            "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 46",
+            "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
+            "id": "media/2023/hoi-am-noi-reo-cao/046/original.jpg",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/003/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/046/thumb.jpg?v=66594",
                 "width": 480,
-                "height": 320
+                "height": 318
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/003/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/046/medium.jpg?v=321299",
                 "width": 1280,
-                "height": 853
+                "height": 847
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/003/original.jpg",
-                "width": 4898,
-                "height": 3265
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/046/original.jpg?v=1856803",
+                "width": 3200,
+                "height": 2119
               }
             }
           }
