@@ -1628,28 +1628,13 @@ img[data-media-src] { transition: opacity .35s ease; }
   .reveal, .reveal.visible { opacity: 1; transform: none; transition: none; }
   .activity-hero-meta, .activity-hero h1, .activity-hero-summary, .activity-actions { animation: none; opacity: 1; transform: none; }
 
+  /* Keep event titles over their cover with a lightweight shaded backdrop. */
   .year-activity:not(.year-activity-editorial) {
-    display: block;
-    min-height: 0;
-    color: var(--ink);
-    background: var(--paper);
-    box-shadow: 0 6px 20px rgba(32,72,91,.08);
+    color: var(--white);
+    background: var(--teal-950);
+    box-shadow: 0 6px 20px rgba(32,72,91,.12);
   }
-  .year-activity:not(.year-activity-editorial) .year-activity-media {
-    position: relative;
-    z-index: 0;
-    display: block;
-    inset: auto;
-    transform: none;
-  }
-  .year-activity:not(.year-activity-editorial) .year-activity-media img { height: auto; object-fit: contain; }
-  .year-activity:not(.year-activity-editorial) .year-activity-shade { display: none; }
   .year-activity-number { z-index: 1; top: .65rem; left: .65rem; padding: .2rem .5rem; border-radius: .5rem; background: rgba(3,47,69,.8); }
-  .year-activity:not(.year-activity-editorial) .year-activity-meta,
-  .year-activity:not(.year-activity-editorial) .year-activity-description,
-  .year-activity:not(.year-activity-editorial) .year-activity-footer { color: var(--muted); }
-  .year-activity:not(.year-activity-editorial) .year-activity-footer { border-color: var(--line); }
-  .year-activity:not(.year-activity-editorial) .year-activity-footer b { color: var(--white); background: var(--accent); }
   .year-activity-content > strong { font-size: clamp(1.4rem, 6vw, 1.8rem); line-height: 1.2; }
   .activity-story-section, .activity-gallery-section, .activity-navigation { padding: 2.5rem 0; }
   .activity-story h2 { font-size: 1.85rem; line-height: 1.16; }
