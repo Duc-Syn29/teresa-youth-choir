@@ -4,349 +4,2495 @@
     "accent": "#65c8db"
   },
   "overview": {
-    "eyebrow": "Một chương mới",
-    "title": "Đủ lớn để trao lại yêu thương",
-    "summary": "Dấu mốc 10 năm là dịp tạ ơn, nhìn lại hành trình và tổ chức đêm hòa nhạc Hồng Ân Tuyệt Vời.",
-    "verse": "Hãy vui mừng trong hy vọng, kiên nhẫn lúc gian truân và chuyên cần cầu nguyện.",
-    "longDescription": "Mười năm tuy chưa phải là nhiều, nhưng đủ để ca đoàn nhìn lại những khó khăn đã vượt qua và muôn vàn hồng ân đã lãnh nhận. Đêm hòa nhạc Hồng Ân Tuyệt Vời được tổ chức như lời tạ ơn dâng lên Thiên Chúa và lời xác tín rằng mỗi bước đi luôn được bàn tay quan phòng âm thầm nâng đỡ: “Tôi có gì, cũng là nhờ Thiên Chúa” (1 Cr 15,10).",
+    "eyebrow": "Năm 2025",
+    "title": "Một chương mới - Dấu ấn của thế hệ hôm nay",
+    "summary": "Mười năm tuy chưa phải là nhiều, nhưng đủ để chúng con nhìn lại hành trình phục vụ, những khó khăn đã vượt qua và muôn vàn hồng ân đã lãnh nhận.",
+    "verse": "“Tôi có gì, cũng là nhờ Thiên Chúa” (1 Cr 15,10).",
+    "longDescription": "Hạt mầm đức tin ngày nào đã lớn lên trong ân sủng Thiên Chúa, tất cả là minh chứng còn vẹn nguyên cho cho từng bước đi không ngừng nghỉ của Ca đoàn Giới trẻ Teresa, để rồi đến 2025, chúng con được cùng nhau dừng lại nơi dấu mốc 10 năm, một chặng đường tràn đầy hồng ân và tình yêu, được gìn giữ bởi lòng trung tín và được tiếp nối bởi niềm hy vọng.\n\nMười năm tuy chưa phải là nhiều, nhưng đủ để chúng con nhìn lại hành trình phục vụ, những khó khăn đã vượt qua và muôn vàn hồng ân đã lãnh nhận. Và cũng nhân dịp đặc biệt ấy, chúng con đã tổ chức đêm hoà nhạc Hồng Ân Tuyệt Vời, kỷ niệm 10 năm thành lập và phát triển của Ca đoàn Giới trẻ Teresa. Như chính tên gọi của chương trình, ca đoàn chúng con đã mượn lời ca, tiếng hát mà chúng con phục vụ bao năm qua, để thay cho những lời tạ ơn dâng lên Thiên Chúa, thay cho lời xác tín rằng mỗi bước đi của chúng con luôn được bàn tay quan phòng của Thiên Chúa âm thầm nâng đỡ, “Tôi có gì, cũng là nhờ Thiên Chúa” (1 Cr 15,10).\n\nĐặc biệt, năm 2025 cũng là Năm Thánh với chủ đề “Những người hành hương của hy vọng”. Theo lời mời gọi của Giáo hội, chúng con đã cùng nhau canh tân đời sống Đức Tin qua những hành trình hành hương đến nhiều giáo xứ, nhà thờ và những vùng đất khác nhau trên khắp mọi miền Tổ Quốc. Mỗi chuyến đi lại mở ra một cuộc gặp gỡ mới, một khoảng lặng để chúng con trở về với Chúa và cũng là dịp để những người trẻ chúng con được bước đi cùng nhau, trong tình huynh đệ và niềm hy vọng.",
     "coverImage": {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/archive/hero/medium.jpg",
-      "id": "media/2025/archive/hero/original.jpg",
-      "alt": "",
-      "caption": "",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1c1f83ce6a7976937db1bd06/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1c1f83ce6a7976937db1bd06/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/archive/hero/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1c1f83ce6a7976937db1bd06/thumb.webp",
           "width": 480,
-          "height": 319
+          "height": 290
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/archive/hero/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1c1f83ce6a7976937db1bd06/medium.webp",
           "width": 1280,
-          "height": 851
+          "height": 773
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/archive/hero/original.jpg",
-          "width": 2400,
-          "height": 1596
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1c1f83ce6a7976937db1bd06/original.webp",
+          "width": 2560,
+          "height": 1547
         }
-      }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "ảnh bìa ( cả năm ).jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
     }
   },
   "leadership": {
     "chaplain": {
-      "note": "Đồng hành mục vụ",
+      "note": "Cha đặc trách khối liên ca đoàn",
       "members": [
         {
-          "name": "Lm. Giuse Phạm Đức Hiệp",
-          "photo": "",
-          "id": "person-chaplain-1azi635"
+          "name": "Lm. Giuse Lương Thanh Tùng",
+          "note": "T1 - T4/2025"
+        },
+        {
+          "name": "Lm. Vicente Trần Trí Tuệ",
+          "note": "T5/2025 - nay"
         }
       ]
     },
     "leader": {
-      "note": "Nhiệm kỳ 2024–2026",
       "members": [
         {
-          "name": "Têrêsa Nguyễn Khánh Linh",
-          "photo": "",
-          "id": "person-leader-0nrde17"
+          "name": "Phêrô Đỗ Tiến Hạng"
         }
       ]
     },
     "deputyLeader": {
-      "members": []
-    },
-    "conductor": {
-      "note": "Phụ trách chuyên môn",
       "members": [
         {
-          "name": "Gioan Trần Minh Quân",
-          "photo": "",
-          "id": "person-conductor-05udt27"
+          "name": "Maria Vũ Thị Bích Phượng"
+        },
+        {
+          "name": "Vicente Vũ Văn Thành"
+        },
+        {
+          "name": "Giuse Nguyễn Phan Hoài Duy"
+        },
+        {
+          "name": "Giuse Trần Viết Vĩ"
+        }
+      ]
+    },
+    "conductor": {
+      "members": [
+        {
+          "name": "Maria Trần Thị Mai"
         }
       ]
     },
     "treasurer": {
-      "note": "Phụ trách tài chính",
       "members": [
         {
-          "name": "Giuse Đặng Quốc Bảo",
-          "photo": "",
-          "id": "person-treasurer-1cayaz5"
+          "name": "Maria Nguyễn Thị Hà Trang"
         }
       ]
     },
     "teams": [
       {
-        "name": "Ban Phụng vụ",
-        "members": [],
-        "id": "team-ban-phung-vu-00z4zag"
-      },
-      {
         "name": "Ban Truyền thông",
-        "members": [],
-        "id": "team-ban-truyen-thong-07i2mcq"
+        "members": [
+          {
+            "name": "Phêrô Bùi Minh Toàn"
+          },
+          {
+            "name": "Anna Đặng Thị Hồng Hạnh"
+          }
+        ]
       },
       {
-        "name": "Ban Đời sống",
-        "members": [],
-        "id": "team-ban-doi-song-12o6etq"
+        "name": "Ban Liên Kết",
+        "members": [
+          {
+            "name": "Maria Phạm Thị Phương"
+          },
+          {
+            "name": "Maria Vũ Thị Bích Phượng"
+          }
+        ]
       },
       {
-        "name": "Ban Hậu cần",
-        "members": [],
-        "id": "team-ban-hau-can-1ofs7ay"
+        "name": "Ban Tâm Linh",
+        "members": [
+          {
+            "name": "Teresa Ngô Thị Hậu"
+          },
+          {
+            "name": "Maria Nguyễn Thị Hồng Hạnh"
+          }
+        ]
+      },
+      {
+        "name": "Ban Sinh Hoạt",
+        "note": "Cử điệu, clb đá bóng, clb cầu lông.",
+        "members": []
+      },
+      {
+        "name": "Ban Chuyên môn",
+        "members": [
+          {
+            "name": "Giuse Phan Tài Đức"
+          },
+          {
+            "name": "Phêrô Nguyễn Huy Hùng"
+          },
+          {
+            "name": "Maria Trần Thị Bích Ngọc"
+          },
+          {
+            "name": "Maria Nguyễn Thị Trang"
+          },
+          {
+            "name": "Phêrô Nguyễn Đức Mạnh"
+          },
+          {
+            "name": "Giuse Phạm Văn Tình"
+          }
+        ]
+      },
+      {
+        "name": "Ban Cố vấn",
+        "members": [
+          {
+            "name": "Giuse Phạm Văn Tĩnh"
+          }
+        ]
+      },
+      {
+        "name": "Bè Tenor",
+        "members": [
+          {
+            "name": "Vicente Vũ Văn Thành"
+          }
+        ]
+      },
+      {
+        "name": "Bè Bass",
+        "members": [
+          {
+            "name": "Giuse Phạm Văn Tĩnh"
+          }
+        ]
+      },
+      {
+        "name": "Bè Soprano",
+        "members": [
+          {
+            "name": "Maria Đàm Thị Quyên"
+          },
+          {
+            "name": "Maria Mai Thị Nhật Lệ"
+          }
+        ]
+      },
+      {
+        "name": "Bè Alto",
+        "members": [
+          {
+            "name": "Maria Bùi Thị Hòa"
+          },
+          {
+            "name": "Maria Ngô Thị Xuân Thuý"
+          }
+        ]
       }
     ]
   },
   "members": {
-    "total": 58,
-    "new": 12,
-    "inactive": 5,
-    "notes": "Một gia đình nhiều thế hệ, trong đó mỗi người đều có một vai trò và một chỗ để thuộc về."
+    "total": 115,
+    "new": 25,
+    "inactive": 14,
+    "notes": ""
   },
   "activities": [
     {
-      "type": "Thánh lễ",
-      "date": "Hằng tuần",
-      "title": "Phụng sự bằng sự hiện diện",
-      "description": "Duy trì bốn thánh lễ mỗi tháng cùng lịch tập chuyên môn đều đặn.",
-      "id": "2025-activity-1",
-      "topic": "Thánh lễ",
-      "body": "Duy trì bốn thánh lễ mỗi tháng cùng lịch tập chuyên môn đều đặn.",
-      "images": []
+      "id": "2025-hon-phoi-viet-chinh",
+      "title": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+      "type": "Hôn phối",
+      "topic": "Hôn phối",
+      "date": "04/01/2025",
+      "location": "Giáo xứ Vĩnh Phúc, Giáo phận Thái Bình",
+      "description": "Những ngày đầu tiên của năm mới, ca đoàn đã có một niềm vui đặc biệt khi được hiện diện và phục vụ Thánh lễ Hôn phối của ca viên Maria Việt Trinh và anh Phê-rô Bùi Văn Hựu tại Giáo xứ Vĩnh Phúc, Giáo phận Thái Bình. Trong ngày trọng đại của hai anh chị, những lời ca tiếng hát của ca đoàn được dâng lên như lời cầu nguyện, xin Thiên Chúa luôn đồng hành, chúc lành và gìn giữ gia đình mới trên hành trình phía trước.",
+      "body": "Những ngày đầu tiên của năm mới, ca đoàn đã có một niềm vui đặc biệt khi được hiện diện và phục vụ Thánh lễ Hôn phối của ca viên Maria Việt Trinh và anh Phê-rô Bùi Văn Hựu tại Giáo xứ Vĩnh Phúc, Giáo phận Thái Bình. Trong ngày trọng đại của hai anh chị, những lời ca tiếng hát của ca đoàn được dâng lên như lời cầu nguyện, xin Thiên Chúa luôn đồng hành, chúc lành và gìn giữ gia đình mới trên hành trình phía trước.",
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0185dc35288c1ee4859d1b7e/medium.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0185dc35288c1ee4859d1b7e/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0185dc35288c1ee4859d1b7e/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0185dc35288c1ee4859d1b7e/medium.webp",
+            "width": 1280,
+            "height": 854
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0185dc35288c1ee4859d1b7e/medium.webp",
+            "width": 1280,
+            "height": 854
+          }
+        },
+        "alt": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+        "caption": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+        "event": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu"
+      },
+      "album": {
+        "manifest": "data/albums/2025/2025-hon-phoi-viet-chinh.json",
+        "count": 7,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9416b246fc44daf4fbfb4dd1/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9416b246fc44daf4fbfb4dd1/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9416b246fc44daf4fbfb4dd1/thumb.webp",
+                "width": 320,
+                "height": 480
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9416b246fc44daf4fbfb4dd1/medium.webp",
+                "width": 854,
+                "height": 1280
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9416b246fc44daf4fbfb4dd1/medium.webp",
+                "width": 854,
+                "height": 1280
+              }
+            },
+            "alt": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+            "caption": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+            "event": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+            "sourceFilename": "ảnh cứoi1.jpg",
+            "sourceDirectory": "Lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/22c6fafc1a941f7b92b222b8/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/22c6fafc1a941f7b92b222b8/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/22c6fafc1a941f7b92b222b8/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/22c6fafc1a941f7b92b222b8/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/22c6fafc1a941f7b92b222b8/medium.webp",
+                "width": 1280,
+                "height": 854
+              }
+            },
+            "alt": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+            "caption": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+            "event": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+            "sourceFilename": "ảnh cứoi4.jpg",
+            "sourceDirectory": "Lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/751cd6d314bf4bc3bf8814c6/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/751cd6d314bf4bc3bf8814c6/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/751cd6d314bf4bc3bf8814c6/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/751cd6d314bf4bc3bf8814c6/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/751cd6d314bf4bc3bf8814c6/medium.webp",
+                "width": 1280,
+                "height": 854
+              }
+            },
+            "alt": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+            "caption": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+            "event": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+            "sourceFilename": "ảnh cứoi7.jpg",
+            "sourceDirectory": "Lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu"
+          }
+        ]
+      }
     },
     {
-      "type": "Lễ Quan thầy",
-      "date": "01.10.2025",
-      "title": "Têrêsa — con đường nhỏ",
-      "description": "Đêm thánh nhạc kể lại linh đạo đơn sơ và tin yêu của Thánh bổn mạng.",
-      "id": "2025-activity-2",
-      "topic": "Lễ Quan thầy",
-      "body": "Đêm thánh nhạc kể lại linh đạo đơn sơ và tin yêu của Thánh bổn mạng.",
-      "images": []
+      "id": "2025-tat-nien",
+      "title": "Ca đoàn tổ chức chương trình tất niên",
+      "type": "Sinh hoạt",
+      "topic": "Sinh hoạt",
+      "date": "14/01/2025",
+      "location": "Đền Giêrađô",
+      "description": "Vào lúc 18h30 thứ 3 ngày 14/01/2025, anh chị em ca viên đã quy tụ tại Đền Giêrađô để cùng nhau dâng Thánh lễ Tất niên, tạ ơn Thiên Chúa vì một năm đã qua với biết bao hồng ân, niềm vui, thử thách và những kỷ niệm đáng nhớ. Đây cũng là dịp để các thành viên cùng nhìn lại hành trình đã đi qua, tạ ơn vì dù có những thời điểm khó khăn, ca đoàn vẫn luôn được gìn giữ và tiếp tục sứ mạng phục vụ bằng lời ca tiếng hát. Đặc biệt, Thánh lễ tất niêm này cũng trở thành một dấu mốc khi ca đoàn chính thức bắt đầu những bước đầu tiên chuẩn bị cho hành trình Kỷ niệm 10 năm thành lập Ca đoàn Giới trẻ Têrêsa.",
+      "body": "Vào lúc 18h30 thứ 3 ngày 14/01/2025, anh chị em ca viên đã quy tụ tại Đền Giêrađô để cùng nhau dâng Thánh lễ Tất niên, tạ ơn Thiên Chúa vì một năm đã qua với biết bao hồng ân, niềm vui, thử thách và những kỷ niệm đáng nhớ. Đây cũng là dịp để các thành viên cùng nhìn lại hành trình đã đi qua, tạ ơn vì dù có những thời điểm khó khăn, ca đoàn vẫn luôn được gìn giữ và tiếp tục sứ mạng phục vụ bằng lời ca tiếng hát. Đặc biệt, Thánh lễ tất niêm này cũng trở thành một dấu mốc khi ca đoàn chính thức bắt đầu những bước đầu tiên chuẩn bị cho hành trình Kỷ niệm 10 năm thành lập Ca đoàn Giới trẻ Têrêsa.\n\nSau Thánh lễ, anh chị em cùng nhau tham dự bữa tiệc tất niên trong bầu khí vui tươi, thân tình và đầy tình huynh đệ. cùng chia sẻ những kỷ niệm đáng nhớ trong năm qua và cùng hướng về dấu mốc 10 năm sắp tới.",
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/720c0464c3b0fc86caa26dc9/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/720c0464c3b0fc86caa26dc9/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/720c0464c3b0fc86caa26dc9/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/720c0464c3b0fc86caa26dc9/medium.webp",
+            "width": 1280,
+            "height": 854
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/720c0464c3b0fc86caa26dc9/original.webp",
+            "width": 2048,
+            "height": 1366
+          }
+        },
+        "alt": "Ca đoàn tổ chức chương trình tất niên",
+        "caption": "Ca đoàn tổ chức chương trình tất niên",
+        "event": "Ca đoàn tổ chức chương trình tất niên",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+      },
+      "album": {
+        "manifest": "data/albums/2025/2025-tat-nien.json",
+        "count": 28,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/61ed10007da0c22772f7080e/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/61ed10007da0c22772f7080e/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/61ed10007da0c22772f7080e/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/61ed10007da0c22772f7080e/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/61ed10007da0c22772f7080e/original.webp",
+                "width": 2048,
+                "height": 1366
+              }
+            },
+            "alt": "Ca đoàn tổ chức chương trình tất niên",
+            "caption": "Ca đoàn tổ chức chương trình tất niên",
+            "event": "Ca đoàn tổ chức chương trình tất niên",
+            "sourceFilename": "tất niên8.jpg",
+            "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/dfa6d1be6774d6f52bd1b657/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/dfa6d1be6774d6f52bd1b657/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/dfa6d1be6774d6f52bd1b657/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/dfa6d1be6774d6f52bd1b657/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/dfa6d1be6774d6f52bd1b657/original.webp",
+                "width": 2048,
+                "height": 1366
+              }
+            },
+            "alt": "Ca đoàn tổ chức chương trình tất niên",
+            "caption": "Ca đoàn tổ chức chương trình tất niên",
+            "event": "Ca đoàn tổ chức chương trình tất niên",
+            "sourceFilename": "tất niên15.jpg",
+            "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e33e8b20a9386c6762d9a3b1/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e33e8b20a9386c6762d9a3b1/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e33e8b20a9386c6762d9a3b1/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e33e8b20a9386c6762d9a3b1/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e33e8b20a9386c6762d9a3b1/original.webp",
+                "width": 2048,
+                "height": 1366
+              }
+            },
+            "alt": "Ca đoàn tổ chức chương trình tất niên",
+            "caption": "Ca đoàn tổ chức chương trình tất niên",
+            "event": "Ca đoàn tổ chức chương trình tất niên",
+            "sourceFilename": "tất niên29.jpg",
+            "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+          }
+        ]
+      }
     },
     {
-      "type": "Hòa nhạc",
-      "date": "2025",
-      "title": "Hồng Ân Tuyệt Vời",
-      "description": "Đêm hòa nhạc tạ ơn, kỷ niệm 10 năm thành lập và phát triển của Ca đoàn Giới trẻ Teresa.",
-      "body": "Tiếng hát của nhiều thế hệ được dâng lên như lời tri ân Thiên Chúa, quý cha, ân nhân và những người đã đồng hành.",
-      "id": "2025-activity-3",
-      "topic": "Hòa nhạc",
-      "images": []
-    },
-    {
-      "type": "Thiện nguyện",
-      "date": "07.2025",
-      "title": "Tiếng hát đến vùng cao",
-      "description": "Chuyến phục vụ mùa hè kết hợp trao học bổng và sinh hoạt âm nhạc.",
-      "id": "2025-activity-4",
+      "id": "2025-thien-nguyen-bui-chu",
+      "title": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "type": "Thiện nguyện · Hành hương",
       "topic": "Thiện nguyện",
-      "body": "Chuyến phục vụ mùa hè kết hợp trao học bổng và sinh hoạt âm nhạc.",
-      "images": []
+      "date": "23/03/2025",
+      "location": "Bùi Chu",
+      "description": "Trong tâm tình hoán cải và sẻ chia của Mùa Chay Thánh, ngày 23/03/2025, các anh chị em Ca đoàn Giới trẻ Teresa chúng con đã tổ chức chuyến đi thiện nguyện và hành hương đầy ý nghĩa tại mảnh đất Bùi Chu giàu truyền thống đức tin. Chúng con cũng được nghe Cha Giám đốc và các Sơ chia sẻ về những khó khăn, vất vả trong việc chăm sóc, nuôi dưỡng và đồng hành cùng các em. Qua đó, chúng con càng thấu hiểu và bày tỏ niềm tri ân sâu sắc tới những người ngày đêm tận tụy, trở thành những chứng tá sống động cho tình yêu Thiên Chúa.",
+      "body": "Trong tâm tình hoán cải và sẻ chia của Mùa Chay Thánh, ngày 23/03/2025, các anh chị em Ca đoàn Giới trẻ Teresa chúng con đã tổ chức chuyến đi thiện nguyện và hành hương đầy ý nghĩa tại mảnh đất Bùi Chu giàu truyền thống đức tin. Chúng con cũng được nghe Cha Giám đốc và các Sơ chia sẻ về những khó khăn, vất vả trong việc chăm sóc, nuôi dưỡng và đồng hành cùng các em. Qua đó, chúng con càng thấu hiểu và bày tỏ niềm tri ân sâu sắc tới những người ngày đêm tận tụy, trở thành những chứng tá sống động cho tình yêu Thiên Chúa.\n\nRời cô nhi viện, chúng con tiếp tục hành trình thăm viếng và hành hương tại Nhà thờ Chính tòa Bùi Chu, lúc này đang từng bước hoàn thiện trong những công đoạn tái thiết cuối cùng Tại đây, chúng con cùng nhau dâng lời cầu nguyện, lắng đọng tâm hồn và chiêm ngắm ngôi Thánh đường mang đậm dấu ấn lịch sử của Giáo phận.",
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ba5f29f399cf93755b26d585/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ba5f29f399cf93755b26d585/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ba5f29f399cf93755b26d585/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ba5f29f399cf93755b26d585/medium.webp",
+            "width": 1280,
+            "height": 854
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ba5f29f399cf93755b26d585/original.webp",
+            "width": 2048,
+            "height": 1366
+          }
+        },
+        "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+        "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+        "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+      },
+      "album": {
+        "manifest": "data/albums/2025/2025-thien-nguyen-bui-chu.json",
+        "count": 21,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/cad200c02d155eb3e8c57913/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/cad200c02d155eb3e8c57913/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/cad200c02d155eb3e8c57913/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/cad200c02d155eb3e8c57913/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/cad200c02d155eb3e8c57913/original.webp",
+                "width": 2048,
+                "height": 1366
+              }
+            },
+            "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+            "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+            "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+            "sourceFilename": "thiện nguyện5.jpg",
+            "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d575366f1c17c6f91e3d83a8/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d575366f1c17c6f91e3d83a8/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d575366f1c17c6f91e3d83a8/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d575366f1c17c6f91e3d83a8/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d575366f1c17c6f91e3d83a8/original.webp",
+                "width": 2048,
+                "height": 1366
+              }
+            },
+            "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+            "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+            "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+            "sourceFilename": "thiện nguyện11.jpg",
+            "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/477cfedc65db02a06f9e101c/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/477cfedc65db02a06f9e101c/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/477cfedc65db02a06f9e101c/thumb.webp",
+                "width": 320,
+                "height": 480
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/477cfedc65db02a06f9e101c/medium.webp",
+                "width": 854,
+                "height": 1280
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/477cfedc65db02a06f9e101c/original.webp",
+                "width": 1366,
+                "height": 2048
+              }
+            },
+            "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+            "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+            "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+            "sourceFilename": "thiện nguyện16.jpg",
+            "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+          }
+        ]
+      }
     },
     {
-      "type": "Tĩnh tâm",
-      "date": "03.2025",
-      "title": "Ở lại trong tình yêu",
-      "description": "Hai ngày thinh lặng, cầu nguyện và làm mới lời cam kết phục vụ.",
-      "id": "2025-activity-5",
-      "topic": "Tĩnh tâm",
-      "body": "Hai ngày thinh lặng, cầu nguyện và làm mới lời cam kết phục vụ.",
-      "images": []
+      "id": "2025-logo-moi",
+      "title": "Công bố Logo mới",
+      "type": "Dấu mốc ca đoàn",
+      "topic": "Thành lập",
+      "date": "04/04/2025",
+      "description": "Hướng tới cột mốc trọng đại Kỷ niệm 10 năm Thành lập, dưới sự soi dẫn của Chúa Thánh Thần và ước mong khoác lên mình một diện mạo mới thể hiện trọn vẹn hơn tinh thần cùng sứ mạng phụng sự, Ban Điều hành đã quyết định công bố Logo chính thức mới của Ca đoàn kể từ ngày 04/04/2025",
+      "body": "Hướng tới cột mốc trọng đại Kỷ niệm 10 năm Thành lập, dưới sự soi dẫn của Chúa Thánh Thần và ước mong khoác lên mình một diện mạo mới thể hiện trọn vẹn hơn tinh thần cùng sứ mạng phụng sự, Ban Điều hành đã quyết định công bố Logo chính thức mới của Ca đoàn kể từ ngày 04/04/2025\n\nSự thay đổi này không đơn thuần là một bước chuyển mình về hình ảnh, mà còn là cột mốc quan trọng đánh dấu sự trưởng thành, khẳng định nét căn tính của ca đoàn. Mỗi đường nét trong Logo mới đều mang một ý nghĩa biểu tượng sâu sắc:\n\nThánh Giá: Đặt ở vị trí trung tâm, là biểu tượng tuyệt đối cho tình yêu thương, sự hy sinh và lòng thương xót của Đức Kitô, nguồn nâng đỡ cho mọi hoạt động của Ca đoàn.\n\nHình ảnh Con người: Dáng hình người trẻ giơ cao tay diễn tả tinh thần hiệp nhất, đồng lòng và niềm hân hoan khi cất tiếng hát ngợi ca, tôn vinh Thiên Chúa.\n\nKhóa Sol: Biểu tượng của âm nhạc, khắc họa rõ nét sứ mạng cốt lõi của Ca đoàn là phục vụ Thiên Chúa và cộng đoàn bằng lời ca tiếng hát.\n\nBông hoa hồng: Hình ảnh quen thuộc gắn liền với Thánh Têrêsa Hài Đồng Giêsu, Thánh Bổn Mạng của Ca đoàn.\n\nDòng chữ \"Ca đoàn Giới trẻ Têrêsa\": Nơi quy tụ những người trẻ xa quê đang sinh sống, học tập và làm việc tại Hà Nội, trực thuộc Gia đình Công giáo Xa quê Hà Nội, cùng nhau sinh hoạt và phục vụ tại Giáo xứ Thái Hà.\n\nDòng chữ “Hiệp nhất - Yêu thương - Phục vụ: Tôn chỉ của ca đoàn\n\nDiện mạo mới của Logo đã mang đến một làn gió mới, khơi dậy niềm tự hào và tiếp thêm nhiệt huyết cho toàn thể ca viên. Bước sang tuổi thứ 10, khoác lên mình diện mạo mới, Ca đoàn Giới trẻ Teresa chúng con nguyện tiếp tục cùng nhau cất cao lời ca, sống trọn vẹn sứ mạng mà Thiên Chúa và Giáo hội đã trao phó.",
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/47a2734e7871a2f97b5e9e81/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/47a2734e7871a2f97b5e9e81/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/47a2734e7871a2f97b5e9e81/thumb.webp",
+            "width": 480,
+            "height": 480
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/47a2734e7871a2f97b5e9e81/medium.webp",
+            "width": 1280,
+            "height": 1280
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/47a2734e7871a2f97b5e9e81/original.webp",
+            "width": 2048,
+            "height": 2048
+          }
+        },
+        "alt": "Công bố Logo mới",
+        "caption": "Công bố Logo mới",
+        "event": "Công bố Logo mới",
+        "sourceFilename": "488314251_1610857073026786_6907314044736048935_n.jpg",
+        "sourceDirectory": "Công bố logo mới của ca đoàn"
+      },
+      "album": {
+        "manifest": "data/albums/2025/2025-logo-moi.json",
+        "count": 4,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/47a2734e7871a2f97b5e9e81/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/47a2734e7871a2f97b5e9e81/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/47a2734e7871a2f97b5e9e81/thumb.webp",
+                "width": 480,
+                "height": 480
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/47a2734e7871a2f97b5e9e81/medium.webp",
+                "width": 1280,
+                "height": 1280
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/47a2734e7871a2f97b5e9e81/original.webp",
+                "width": 2048,
+                "height": 2048
+              }
+            },
+            "alt": "Công bố Logo mới",
+            "caption": "Công bố Logo mới",
+            "event": "Công bố Logo mới",
+            "sourceFilename": "488314251_1610857073026786_6907314044736048935_n.jpg",
+            "sourceDirectory": "Công bố logo mới của ca đoàn"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6a2ace95fd30b315fec57435/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6a2ace95fd30b315fec57435/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6a2ace95fd30b315fec57435/thumb.webp",
+                "width": 480,
+                "height": 480
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6a2ace95fd30b315fec57435/medium.webp",
+                "width": 1280,
+                "height": 1280
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6a2ace95fd30b315fec57435/original.webp",
+                "width": 2048,
+                "height": 2048
+              }
+            },
+            "alt": "Công bố Logo mới",
+            "caption": "Công bố Logo mới",
+            "event": "Công bố Logo mới",
+            "sourceFilename": "488705237_1610785823033911_1801344162026972614_n.jpg",
+            "sourceDirectory": "Công bố logo mới của ca đoàn"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/67b2bec63e9edb1cd54ce7ad/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/67b2bec63e9edb1cd54ce7ad/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/67b2bec63e9edb1cd54ce7ad/thumb.webp",
+                "width": 480,
+                "height": 480
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/67b2bec63e9edb1cd54ce7ad/medium.webp",
+                "width": 1280,
+                "height": 1280
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/67b2bec63e9edb1cd54ce7ad/original.webp",
+                "width": 2048,
+                "height": 2048
+              }
+            },
+            "alt": "Công bố Logo mới",
+            "caption": "Công bố Logo mới",
+            "event": "Công bố Logo mới",
+            "sourceFilename": "489169003_1610785786367248_3162498418054289657_n.jpg",
+            "sourceDirectory": "Công bố logo mới của ca đoàn"
+          }
+        ]
+      }
     },
     {
-      "type": "Du lịch/Team Building",
-      "date": "08.2025",
-      "title": "Về chung một đội",
-      "description": "Ba ngày kết nối thế hệ mới với những ca viên đã đồng hành lâu năm.",
-      "id": "2025-activity-6",
-      "topic": "Du lịch/Team Building",
-      "body": "Ba ngày kết nối thế hệ mới với những ca viên đã đồng hành lâu năm.",
-      "images": []
-    },
-    {
-      "type": "Hội thao",
-      "date": "05.2025",
-      "title": "Teresa Games",
-      "description": "Ngày hội thể thao nội bộ với tinh thần vui khỏe và hiệp nhất.",
-      "id": "2025-activity-7",
+      "id": "2025-giai-bong-da-gdcg-xa-que",
+      "title": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+      "type": "Thể thao",
       "topic": "Hội thao",
-      "body": "Ngày hội thể thao nội bộ với tinh thần vui khỏe và hiệp nhất.",
-      "images": []
-    },
-    {
-      "type": "Giáng Sinh",
-      "date": "24.12.2025",
-      "title": "Đêm của hy vọng",
-      "description": "Hoạt cảnh và liên khúc Giáng Sinh được dàn dựng bởi chính các ca viên.",
-      "id": "2025-activity-8",
-      "topic": "Giáng Sinh",
-      "body": "Hoạt cảnh và liên khúc Giáng Sinh được dàn dựng bởi chính các ca viên.",
-      "images": []
-    },
-    {
-      "type": "Phục Sinh",
-      "date": "04.2025",
-      "title": "Khúc ca phục sinh",
-      "description": "Chương trình phụng vụ trọng điểm với dàn hợp xướng bốn bè.",
-      "id": "2025-activity-9",
-      "topic": "Phục Sinh",
-      "body": "Chương trình phụng vụ trọng điểm với dàn hợp xướng bốn bè.",
-      "images": []
-    },
-    {
-      "type": "Hát lễ cưới",
-      "date": "Trong năm",
-      "title": "Hát cho ngày hạnh phúc",
-      "description": "Đồng hành trong sáu thánh lễ hôn phối của bạn bè và cựu ca viên.",
-      "id": "2025-activity-10",
-      "topic": "Hát lễ cưới",
-      "body": "Đồng hành trong sáu thánh lễ hôn phối của bạn bè và cựu ca viên.",
-      "images": []
-    }
-  ],
-  "achievements": [
-    "Hoàn thiện kho lưu trữ số cho hành trình 2015–2026.",
-    "Duy trì đội hình hợp xướng bốn bè với 58 ca viên.",
-    "Tổ chức concert cộng đồng đầu tiên do ca đoàn tự sản xuất.",
-    "Xây dựng chương trình đào tạo ca viên mới trong 12 tuần.",
-    "Kết nối lại mạng lưới cựu ca viên qua các hoạt động thường niên."
-  ],
-  "challenges": [
-    "Cân bằng chất lượng chuyên môn và đời sống cộng đoàn.",
-    "Tạo không gian để các thế hệ cùng đóng góp và lắng nghe nhau.",
-    "Chuẩn hóa tư liệu hình ảnh, bản nhạc và thông tin lịch sử.",
-    "Duy trì sự tham gia ổn định giữa nhịp sống bận rộn của người trẻ."
-  ],
-  "gallery": [
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/phung-vu-2025/medium.jpg",
-      "alt": "Ca đoàn phục vụ thánh lễ năm 2025",
-      "event": "Phụng vụ",
-      "caption": "Chung một lời ca",
-      "id": "media/2025/gallery/phung-vu-2025/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/phung-vu-2025/thumb.jpg",
-          "width": 480,
-          "height": 290
+      "date": "Năm 2025",
+      "description": "Hòa chung bầu khí sôi nổi mừng Lễ Thánh Giuse Thợ - Bổn mạng Gia đình Công giáo Xa quê Hà Nội, đội bóng FC Ca đoàn Giới trẻ Têrêsa bước vào Giải bóng đá GĐCGXQ Lần thứ XVI năm 2025. Giải đấu quy tụ 16 đội bóng đại diện cho các cộng đoàn và ban ngành cùng nhau tranh tài nảy lửa qua 4 bảng đấu.",
+      "body": "Hòa chung bầu khí sôi nổi mừng Lễ Thánh Giuse Thợ - Bổn mạng Gia đình Công giáo Xa quê Hà Nội, đội bóng FC Ca đoàn Giới trẻ Têrêsa bước vào Giải bóng đá GĐCGXQ Lần thứ XVI năm 2025. Giải đấu quy tụ 16 đội bóng đại diện cho các cộng đoàn và ban ngành cùng nhau tranh tài nảy lửa qua 4 bảng đấu.\n\nBằng tinh thần nhiệt thành, sự nỗ lực hết mình cùng chiến thuật hợp lý, FC Ca đoàn Giới trẻ Teresa đã có những trận cầu vô cùng thăng hoa. Đội bóng đã cống hiến nhiều bàn thắng đẹp mắt và vượt qua vòng bảng với vị trí Nhất bảng đầy thuyết phục. Dù phải dừng bước tại vòng Tứ kết trong nhiều tiếc nuối, nhưng hành trình tại mùa giải năm 2025 đã để lại dấu ấn về sức trẻ và nhiều kỷ niệm thật đẹp trong lòng toàn thể ca viên.",
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/54187f131070ec019fbd80ed/medium.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/54187f131070ec019fbd80ed/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/54187f131070ec019fbd80ed/thumb.webp",
+            "width": 480,
+            "height": 270
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/54187f131070ec019fbd80ed/medium.webp",
+            "width": 1280,
+            "height": 720
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/54187f131070ec019fbd80ed/medium.webp",
+            "width": 1280,
+            "height": 720
+          }
         },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/phung-vu-2025/medium.jpg",
-          "width": 1280,
-          "height": 773
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/phung-vu-2025/original.jpg",
-          "width": 2400,
-          "height": 1450
-        }
+        "alt": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+        "caption": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+        "event": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "FC Ca đoàn dự Giải bóng đá Gia đình Công giáo Xa quê Hà Nội lần XVI"
+      },
+      "album": {
+        "manifest": "data/albums/2025/2025-giai-bong-da-gdcg-xa-que.json",
+        "count": 5,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddcb079c92b710c9a8fec7b6/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddcb079c92b710c9a8fec7b6/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddcb079c92b710c9a8fec7b6/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddcb079c92b710c9a8fec7b6/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddcb079c92b710c9a8fec7b6/original.webp",
+                "width": 2048,
+                "height": 1365
+              }
+            },
+            "alt": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+            "caption": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+            "event": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+            "sourceFilename": "491928879_1083318387152981_3388251342234602023_n.jpg",
+            "sourceDirectory": "FC Ca đoàn dự Giải bóng đá Gia đình Công giáo Xa quê Hà Nội lần XVI"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b1186d1d35621c55d58283f6/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b1186d1d35621c55d58283f6/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b1186d1d35621c55d58283f6/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b1186d1d35621c55d58283f6/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b1186d1d35621c55d58283f6/original.webp",
+                "width": 2048,
+                "height": 1365
+              }
+            },
+            "alt": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+            "caption": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+            "event": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+            "sourceFilename": "492400488_1083319983819488_3111674976341052193_n.jpg",
+            "sourceDirectory": "FC Ca đoàn dự Giải bóng đá Gia đình Công giáo Xa quê Hà Nội lần XVI"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/54187f131070ec019fbd80ed/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/54187f131070ec019fbd80ed/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/54187f131070ec019fbd80ed/thumb.webp",
+                "width": 480,
+                "height": 270
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/54187f131070ec019fbd80ed/medium.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/54187f131070ec019fbd80ed/medium.webp",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "alt": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+            "caption": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+            "event": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+            "sourceFilename": "ảnh bìa.jpg",
+            "sourceDirectory": "FC Ca đoàn dự Giải bóng đá Gia đình Công giáo Xa quê Hà Nội lần XVI"
+          }
+        ]
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/gan-ket-2024/medium.jpg",
-      "alt": "Các ca viên trong ngày hội gắn kết",
-      "event": "Teresa Games",
-      "caption": "Một đội, một nhà",
-      "id": "media/2025/gallery/gan-ket-2024/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/gan-ket-2024/thumb.jpg",
-          "width": 480,
-          "height": 319
+      "id": "2025-hanh-huong-nha-tho-chinh-toa",
+      "title": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "type": "Phụng vụ · Hành hương Năm Thánh",
+      "topic": "Phụng vụ",
+      "date": "26/04/2025",
+      "location": "Nhà thờ Chính Tòa Hà Nội",
+      "description": "Sáng ngày 26/04/2025, Ca đoàn Giới trẻ Têrêsa cùng cộng đoàn các Giáo xứ Thái Hà, Phùng Khoang và Tân Lạc đã quy tụ về Nhà thờ Chính Tòa Hà Nội hiệp dâng Thánh lễ Hành hương Năm Thánh.",
+      "body": "Sáng ngày 26/04/2025, Ca đoàn Giới trẻ Têrêsa cùng cộng đoàn các Giáo xứ Thái Hà, Phùng Khoang và Tân Lạc đã quy tụ về Nhà thờ Chính Tòa Hà Nội hiệp dâng Thánh lễ Hành hương Năm Thánh.\n\nVinh dự được đảm nhận phần hát phụng vụ, anh chị em ca viên đã thu xếp công việc để hiện diện đông đủ tham dự Thánh lễ. Tiếng hát hòa quyện của Ca đoàn vang lên giữa ngôi Thánh đường cổ kính đã góp phần nâng tâm hồn cộng đoàn dâng lời ngợi khen Thiên Chúa.\n\nQua bài giảng của Cha Giuse Nguyễn Văn Hội về mẫu gương dấn thân của cố Đức Thánh Cha Phanxicô, mỗi ca viên được thúc bách can đảm bước ra khỏi vùng an toàn để lắng nghe và phục vụ. Chuyến phục vụ không chỉ là mốc son ý nghĩa trong dịp Năm Thánh mà còn tiếp thêm lửa nhiệt huyết để chúng con kiên vững bước đi như \"Những người lữ hành của hy vọng\".",
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9245abd90866db32b3cd01da/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9245abd90866db32b3cd01da/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9245abd90866db32b3cd01da/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9245abd90866db32b3cd01da/medium.webp",
+            "width": 1280,
+            "height": 853
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9245abd90866db32b3cd01da/original.webp",
+            "width": 2048,
+            "height": 1365
+          }
         },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/gan-ket-2024/medium.jpg",
-          "width": 1280,
-          "height": 851
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/gan-ket-2024/original.jpg",
-          "width": 2400,
-          "height": 1596
-        }
+        "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+        "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+        "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+        "sourceFilename": "ảnh bìa.jpeg",
+        "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+      },
+      "album": {
+        "manifest": "data/albums/2025/2025-hanh-huong-nha-tho-chinh-toa.json",
+        "count": 20,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/57bc06070dba58b1e75957c3/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/57bc06070dba58b1e75957c3/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/57bc06070dba58b1e75957c3/thumb.webp",
+                "width": 320,
+                "height": 480
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/57bc06070dba58b1e75957c3/medium.webp",
+                "width": 853,
+                "height": 1280
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/57bc06070dba58b1e75957c3/original.webp",
+                "width": 1707,
+                "height": 2560
+              }
+            },
+            "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+            "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+            "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+            "sourceFilename": "IMG_4082.CR2",
+            "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/77f307f1d29aed8e06fa363c/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/77f307f1d29aed8e06fa363c/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/77f307f1d29aed8e06fa363c/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/77f307f1d29aed8e06fa363c/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/77f307f1d29aed8e06fa363c/original.webp",
+                "width": 2560,
+                "height": 1707
+              }
+            },
+            "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+            "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+            "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+            "sourceFilename": "IMG_4141.CR2",
+            "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1823a99059dd5127c23f27ed/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1823a99059dd5127c23f27ed/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1823a99059dd5127c23f27ed/thumb.webp",
+                "width": 320,
+                "height": 480
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1823a99059dd5127c23f27ed/medium.webp",
+                "width": 853,
+                "height": 1280
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1823a99059dd5127c23f27ed/original.webp",
+                "width": 1707,
+                "height": 2560
+              }
+            },
+            "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+            "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+            "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+            "sourceFilename": "IMG_4195.CR2",
+            "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+          }
+        ]
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/thien-nguyen-2019/medium.jpg",
-      "alt": "Chuyến đi thiện nguyện",
-      "event": "Thiện nguyện",
-      "caption": "Tiếng hát lên đường",
-      "id": "media/2025/gallery/thien-nguyen-2019/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/thien-nguyen-2019/thumb.jpg",
-          "width": 480,
-          "height": 320
+      "id": "2025-le-thanh-giuse-tho",
+      "title": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "type": "Phụng vụ",
+      "topic": "Phụng vụ",
+      "date": "01/05/2025",
+      "location": "Giáo xứ Thái Hà",
+      "description": "Là một phần của Gia đình Công giáo Xa quê Hà Nội, Ngày 01/05/2025 Ca đoàn Giới trẻ Teresa vô cùng vinh dự khi được Ban Mục vụ giao trọng trách phục vụ hát trong Đại lễ kính Thánh Giuse Thợ – Bổn mạng GĐCGXQHN.",
+      "body": "Là một phần của Gia đình Công giáo Xa quê Hà Nội, Ngày 01/05/2025 Ca đoàn Giới trẻ Teresa vô cùng vinh dự khi được Ban Mục vụ giao trọng trách phục vụ hát trong Đại lễ kính Thánh Giuse Thợ – Bổn mạng GĐCGXQHN.\n\nĐể chuẩn bị chu đáo, chị Ca trưởng Ban Mai cùng BĐH và các ca viên đã nghiêm túc tập luyện, ghép bè sốt sắng qua nhiều buổi tập hát. Đây cũng là lời tri ân chân thành nhất dành cho mái nhà Xa quê.\n\nThánh lễ diễn ra trọng thể lúc 20h00 do Cha đặc trách Giuse Trần Văn Hưng C.Ss.R chủ sự, cùng quý Cha tu viện DCCT Thái Hà đồng tế. Giữa không gian thiêng liêng, tiếng hát hòa quyện của Ca đoàn đã giúp cộng đoàn dâng lời cầu nguyện sốt sắng, xin Thánh Cả Giuse gìn giữ những người con xa quê luôn bình an và kiên trung trong đức tin. Buổi phục vụ không chỉ là niềm tự hào mà còn thắt chặt hơn nữa tình gắn kết bền chặt giữa Ca đoàn và đại gia đình Xa quê Hà Nội.",
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a09b367f1509a1bd87dfd3f4/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a09b367f1509a1bd87dfd3f4/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a09b367f1509a1bd87dfd3f4/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a09b367f1509a1bd87dfd3f4/medium.webp",
+            "width": 1280,
+            "height": 853
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a09b367f1509a1bd87dfd3f4/original.webp",
+            "width": 2048,
+            "height": 1365
+          }
         },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/thien-nguyen-2019/medium.jpg",
-          "width": 1280,
-          "height": 853
+        "alt": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+        "caption": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+        "event": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Phục vụ Đại lễ kính Thánh Giuse Thợ tại Giáo xứ Thái Hà"
+      },
+      "album": {
+        "manifest": "data/albums/2025/2025-le-thanh-giuse-tho.json",
+        "count": 14,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6906b9f0f7bc4b35918a60cf/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6906b9f0f7bc4b35918a60cf/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6906b9f0f7bc4b35918a60cf/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6906b9f0f7bc4b35918a60cf/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6906b9f0f7bc4b35918a60cf/original.webp",
+                "width": 2048,
+                "height": 1365
+              }
+            },
+            "alt": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+            "caption": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+            "event": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+            "sourceFilename": "499822368_1104922881659198_508395148568963119_n.jpg",
+            "sourceDirectory": "Phục vụ Đại lễ kính Thánh Giuse Thợ tại Giáo xứ Thái Hà"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d9d1c9667b9123275c9750b2/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d9d1c9667b9123275c9750b2/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d9d1c9667b9123275c9750b2/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d9d1c9667b9123275c9750b2/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d9d1c9667b9123275c9750b2/original.webp",
+                "width": 2048,
+                "height": 1365
+              }
+            },
+            "alt": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+            "caption": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+            "event": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+            "sourceFilename": "499935102_1104922921659194_3424333784908426398_n.jpg",
+            "sourceDirectory": "Phục vụ Đại lễ kính Thánh Giuse Thợ tại Giáo xứ Thái Hà"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1690cdad6ce04d878e33180b/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1690cdad6ce04d878e33180b/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1690cdad6ce04d878e33180b/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1690cdad6ce04d878e33180b/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1690cdad6ce04d878e33180b/original.webp",
+                "width": 2048,
+                "height": 1365
+              }
+            },
+            "alt": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+            "caption": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+            "event": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+            "sourceFilename": "500225775_1104924794992340_9000371883066408334_n.jpg",
+            "sourceDirectory": "Phục vụ Đại lễ kính Thánh Giuse Thợ tại Giáo xứ Thái Hà"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2025-mv-cu-dieu",
+      "title": "Ra mắt 2 MV cử điệu mẫu “Hành khúc hy vọng” và “Tuổi trẻ dấn thân”",
+      "type": "Truyền thông · Cử điệu",
+      "topic": "Thánh nhạc",
+      "date": "Tháng 6/2025",
+      "description": "Tháng 6 gõ cửa mang theo sức trẻ rực rỡ và những ngọn lửa nhiệt thành của đại gia đình Teresa. Được sự đồng hành và định hướng từ Ban Điều hành, các bạn Linh hoạt viên đã trải qua chuỗi ngày miệt mài tập luyện và chính thức ra mắt 2 MV cử điệu mẫu: “Hành khúc hy vọng”, “Tuổi trẻ dấn thân” trên các kênh truyền thông của Ca đoàn. Đây không chỉ đơn thuần là những sản phẩm truyền thông âm nhạc, mà còn là lời xác tín mạnh mẽ về tinh thần phụng sự, là nhịp cầu lan tỏa sức trẻ, niềm vui đức tin và tinh thần hy vọng đến với mọi người xung quanh.",
+      "body": "Tháng 6 gõ cửa mang theo sức trẻ rực rỡ và những ngọn lửa nhiệt thành của đại gia đình Teresa. Được sự đồng hành và định hướng từ Ban Điều hành, các bạn Linh hoạt viên đã trải qua chuỗi ngày miệt mài tập luyện và chính thức ra mắt 2 MV cử điệu mẫu: “Hành khúc hy vọng”, “Tuổi trẻ dấn thân” trên các kênh truyền thông của Ca đoàn. Đây không chỉ đơn thuần là những sản phẩm truyền thông âm nhạc, mà còn là lời xác tín mạnh mẽ về tinh thần phụng sự, là nhịp cầu lan tỏa sức trẻ, niềm vui đức tin và tinh thần hy vọng đến với mọi người xung quanh.",
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/79243ea0af574d076c51c19d/medium.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/79243ea0af574d076c51c19d/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/79243ea0af574d076c51c19d/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/79243ea0af574d076c51c19d/medium.webp",
+            "width": 1200,
+            "height": 800
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/79243ea0af574d076c51c19d/medium.webp",
+            "width": 1200,
+            "height": 800
+          }
         },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/thien-nguyen-2019/original.jpg",
-          "width": 2400,
-          "height": 1599
-        }
+        "alt": "Ra mắt 2 MV cử điệu mẫu “Hành khúc hy vọng” và “Tuổi trẻ dấn thân”",
+        "caption": "Ra mắt 2 MV cử điệu mẫu “Hành khúc hy vọng” và “Tuổi trẻ dấn thân”",
+        "event": "Ra mắt 2 MV cử điệu mẫu “Hành khúc hy vọng” và “Tuổi trẻ dấn thân”",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Ra mắt hai MV cử điệu “Hành khúc hy vọng” và “Tuổi trẻ dấn thân”"
+      },
+      "album": {
+        "manifest": "data/albums/2025/2025-mv-cu-dieu.json",
+        "count": 14,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/30361842b854a51b0aee62b9/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/30361842b854a51b0aee62b9/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/30361842b854a51b0aee62b9/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/30361842b854a51b0aee62b9/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/30361842b854a51b0aee62b9/medium.webp",
+                "width": 1280,
+                "height": 854
+              }
+            },
+            "alt": "Ra mắt 2 MV cử điệu mẫu “Hành khúc hy vọng” và “Tuổi trẻ dấn thân”",
+            "caption": "Ra mắt 2 MV cử điệu mẫu “Hành khúc hy vọng” và “Tuổi trẻ dấn thân”",
+            "event": "Ra mắt 2 MV cử điệu mẫu “Hành khúc hy vọng” và “Tuổi trẻ dấn thân”",
+            "sourceFilename": "1791264714648_1995884631902468284_7736263391661925970_963cde9470b6d392369d9560c3f0faf7.jpg",
+            "sourceDirectory": "Ra mắt hai MV cử điệu “Hành khúc hy vọng” và “Tuổi trẻ dấn thân”"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9e4347cc711e9070034fb3d9/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9e4347cc711e9070034fb3d9/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9e4347cc711e9070034fb3d9/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9e4347cc711e9070034fb3d9/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9e4347cc711e9070034fb3d9/medium.webp",
+                "width": 1280,
+                "height": 854
+              }
+            },
+            "alt": "Ra mắt 2 MV cử điệu mẫu “Hành khúc hy vọng” và “Tuổi trẻ dấn thân”",
+            "caption": "Ra mắt 2 MV cử điệu mẫu “Hành khúc hy vọng” và “Tuổi trẻ dấn thân”",
+            "event": "Ra mắt 2 MV cử điệu mẫu “Hành khúc hy vọng” và “Tuổi trẻ dấn thân”",
+            "sourceFilename": "1791265606644_1995884631902468284_7736263391661925970_eb4cd59eb97d16209c91b98083ed73f3.jpg",
+            "sourceDirectory": "Ra mắt hai MV cử điệu “Hành khúc hy vọng” và “Tuổi trẻ dấn thân”"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/64755bd6ddda761d6e490952/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/64755bd6ddda761d6e490952/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/64755bd6ddda761d6e490952/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/64755bd6ddda761d6e490952/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/64755bd6ddda761d6e490952/medium.webp",
+                "width": 1280,
+                "height": 854
+              }
+            },
+            "alt": "Ra mắt 2 MV cử điệu mẫu “Hành khúc hy vọng” và “Tuổi trẻ dấn thân”",
+            "caption": "Ra mắt 2 MV cử điệu mẫu “Hành khúc hy vọng” và “Tuổi trẻ dấn thân”",
+            "event": "Ra mắt 2 MV cử điệu mẫu “Hành khúc hy vọng” và “Tuổi trẻ dấn thân”",
+            "sourceFilename": "1791265606728_1995884631902468284_7736263391661925970_148b235f50306a9bcd4fc05b03ae726c.jpg",
+            "sourceDirectory": "Ra mắt hai MV cử điệu “Hành khúc hy vọng” và “Tuổi trẻ dấn thân”"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2025-tinh-tam-tu-chau",
+      "title": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "type": "Tĩnh tâm · Hành hương Năm Thánh",
+      "topic": "Tĩnh tâm",
+      "date": "13/07/2025",
+      "location": "Giáo xứ Từ Châu",
+      "description": "Nằm trong chuỗi hoạt động thuộc hành trình Năm Thánh 2025 và hướng tới mốc son Kỷ niệm 10 năm Thành lập, ngày 13/07/2025, anh chị em ca viên đã cùng nhau tham gia chuyến đi Tĩnh tâm và Hành hương tại Giáo xứ Từ Châu với sự đồng hành của Cha Giuse Nguyễn Quang Hưng.",
+      "body": "Nằm trong chuỗi hoạt động thuộc hành trình Năm Thánh 2025 và hướng tới mốc son Kỷ niệm 10 năm Thành lập, ngày 13/07/2025, anh chị em ca viên đã cùng nhau tham gia chuyến đi Tĩnh tâm và Hành hương tại Giáo xứ Từ Châu với sự đồng hành của Cha Giuse Nguyễn Quang Hưng.\n\nChuyến đi là khoảng lặng thiêng liêng để mỗi ca viên dừng chân và kín múc nguồn ơn gọi. Tại đây, chúng con được thăm quan phòng truyền thống, kính viếng thủ cấp Cha Thánh Ven và hôn kính Thánh tích của Thánh Quan thầy Teresa Hài Đồng Giêsu. Những phút giây thinh lặng trước Thánh Thể cùng bài giảng đầy tâm huyết của Cha Giuse Nguyễn Quang Hưng trong Thánh lễ đã thắp sáng lại ngọn lửa mến yêu, giúp các bạn trẻ hiểu sâu sắc rằng: \"Vì yêu mến Chúa mà chúng con ca hát, vì cảm nghiệm ơn Chúa mà chúng con tiếp tục phục vụ.\"",
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/952e1e4970e7770f8384644e/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/952e1e4970e7770f8384644e/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/952e1e4970e7770f8384644e/thumb.webp",
+            "width": 480,
+            "height": 270
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/952e1e4970e7770f8384644e/medium.webp",
+            "width": 1280,
+            "height": 720
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/952e1e4970e7770f8384644e/original.webp",
+            "width": 2372,
+            "height": 1334
+          }
+        },
+        "alt": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+        "caption": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+        "event": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu"
+      },
+      "album": {
+        "manifest": "data/albums/2025/2025-tinh-tam-tu-chau.json",
+        "count": 14,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/817759d423f752783c7ab555/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/817759d423f752783c7ab555/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/817759d423f752783c7ab555/thumb.webp",
+                "width": 480,
+                "height": 270
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/817759d423f752783c7ab555/medium.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/817759d423f752783c7ab555/medium.webp",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "alt": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+            "caption": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+            "event": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+            "sourceFilename": "hành hương từ châu 4.jpg",
+            "sourceDirectory": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddbfe4a4eb3b2ef0c564cb06/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddbfe4a4eb3b2ef0c564cb06/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddbfe4a4eb3b2ef0c564cb06/thumb.webp",
+                "width": 480,
+                "height": 270
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddbfe4a4eb3b2ef0c564cb06/medium.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddbfe4a4eb3b2ef0c564cb06/original.webp",
+                "width": 2560,
+                "height": 1440
+              }
+            },
+            "alt": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+            "caption": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+            "event": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+            "sourceFilename": "hành hương từ châu 8.jpg",
+            "sourceDirectory": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/41819cb2e9b68f9ef8fb0af4/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/41819cb2e9b68f9ef8fb0af4/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/41819cb2e9b68f9ef8fb0af4/thumb.webp",
+                "width": 480,
+                "height": 270
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/41819cb2e9b68f9ef8fb0af4/medium.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/41819cb2e9b68f9ef8fb0af4/original.webp",
+                "width": 2560,
+                "height": 1440
+              }
+            },
+            "alt": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+            "caption": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+            "event": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+            "sourceFilename": "hành hương từ châu 11.jpg",
+            "sourceDirectory": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2025-hoi-thi-giao-ly",
+      "title": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "type": "Giáo lý",
+      "topic": "Học hỏi",
+      "date": "31/07/2025",
+      "location": "Giáo xứ Thái Hà",
+      "description": "Khép lại tháng 7 chan chứa ân sủng, tối 31/07/2025, đội thi Giáo lý Ca đoàn Giới trẻ Têrêsa đã tham gia Chung kết Hội thi Giáo lý Giáo xứ Thái Hà Năm Thánh 2025 và xuất sắc giành Giải Nhất cả ở hạng mục tập thể và cá nhân. Thành quả ngọt ngào ấy là trái chín từ biết bao nỗ lực âm thầm của các ca viên đại diện. Dù thời gian ôn luyện vô cùng gấp rút, các thành viên trong đội thi vẫn tranh thủ từng giờ miệt mài học hỏi Giáo lý. Sự nghiêm túc và tinh thần hiệp nhất ấy đã giúp Ca đoàn ghi thêm một dấu ấn đẹp đẽ, đầy tự hào vào chặng đường 10 năm phục vụ.",
+      "body": "Khép lại tháng 7 chan chứa ân sủng, tối 31/07/2025, đội thi Giáo lý Ca đoàn Giới trẻ Têrêsa đã tham gia Chung kết Hội thi Giáo lý Giáo xứ Thái Hà Năm Thánh 2025 và xuất sắc giành Giải Nhất cả ở hạng mục tập thể và cá nhân. Thành quả ngọt ngào ấy là trái chín từ biết bao nỗ lực âm thầm của các ca viên đại diện. Dù thời gian ôn luyện vô cùng gấp rút, các thành viên trong đội thi vẫn tranh thủ từng giờ miệt mài học hỏi Giáo lý. Sự nghiêm túc và tinh thần hiệp nhất ấy đã giúp Ca đoàn ghi thêm một dấu ấn đẹp đẽ, đầy tự hào vào chặng đường 10 năm phục vụ.",
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/46d08b6d75bcec8212d9a259/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/46d08b6d75bcec8212d9a259/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/46d08b6d75bcec8212d9a259/thumb.webp",
+            "width": 480,
+            "height": 325
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/46d08b6d75bcec8212d9a259/medium.webp",
+            "width": 1280,
+            "height": 867
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/46d08b6d75bcec8212d9a259/original.webp",
+            "width": 2560,
+            "height": 1735
+          }
+        },
+        "alt": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+        "caption": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+        "event": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+        "sourceFilename": "ảnh bìa.jpeg",
+        "sourceDirectory": "Chung kết Hội thi Giáo lý Năm Thánh 2025 tại Giáo xứ Thái Hà"
+      },
+      "album": {
+        "manifest": "data/albums/2025/2025-hoi-thi-giao-ly.json",
+        "count": 13,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/33a68f934294e3bf996805c6/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/33a68f934294e3bf996805c6/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/33a68f934294e3bf996805c6/thumb.webp",
+                "width": 480,
+                "height": 332
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/33a68f934294e3bf996805c6/medium.webp",
+                "width": 1280,
+                "height": 886
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/33a68f934294e3bf996805c6/original.webp",
+                "width": 2560,
+                "height": 1771
+              }
+            },
+            "alt": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+            "caption": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+            "event": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+            "sourceFilename": "chung kết giáo lý 20253.jpeg",
+            "sourceDirectory": "Chung kết Hội thi Giáo lý Năm Thánh 2025 tại Giáo xứ Thái Hà"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/50ddc52d65b283e934ada3c7/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/50ddc52d65b283e934ada3c7/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/50ddc52d65b283e934ada3c7/thumb.webp",
+                "width": 480,
+                "height": 323
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/50ddc52d65b283e934ada3c7/medium.webp",
+                "width": 1280,
+                "height": 863
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/50ddc52d65b283e934ada3c7/original.webp",
+                "width": 2560,
+                "height": 1725
+              }
+            },
+            "alt": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+            "caption": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+            "event": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+            "sourceFilename": "chung kết giáo lý 20257.jpeg",
+            "sourceDirectory": "Chung kết Hội thi Giáo lý Năm Thánh 2025 tại Giáo xứ Thái Hà"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/129ac274152a9f0038d4602f/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/129ac274152a9f0038d4602f/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/129ac274152a9f0038d4602f/thumb.webp",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/129ac274152a9f0038d4602f/medium.webp",
+                "width": 1280,
+                "height": 960
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/129ac274152a9f0038d4602f/original.webp",
+                "width": 2560,
+                "height": 1920
+              }
+            },
+            "alt": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+            "caption": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+            "event": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+            "sourceFilename": "chung kết giáo lý 202510.JPG",
+            "sourceDirectory": "Chung kết Hội thi Giáo lý Năm Thánh 2025 tại Giáo xứ Thái Hà"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2025-hoa-nhac-hong-an-tuyet-voi",
+      "title": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "type": "Hòa nhạc · Kỷ niệm 10 năm",
+      "topic": "Hòa nhạc",
+      "date": "26/08/2025",
+      "location": "Giáo xứ Thái Hà",
+      "description": "Ngày 26/08/2025 trở thành mốc son đáng nhớ khi Ca đoàn Giới trẻ Têrêsa chúng con chính thức tổ chức Chương trình Hòa nhạc tạ ơn với chủ đề \"Hồng Ân Tuyệt Vời\", mừng kỷ niệm 10 năm thành lập. Một thập kỷ dấn thân trong sứ mạng ca xướng phụng vụ, 10 năm của những hy sinh âm thầm và tình huynh đệ gắn kết nay được đơm hoa kết trái trong một đêm nhạc thiêng liêng, đong đầy ân sủng.",
+      "body": "Ngày 26/08/2025 trở thành mốc son đáng nhớ khi Ca đoàn Giới trẻ Têrêsa chúng con chính thức tổ chức Chương trình Hòa nhạc tạ ơn với chủ đề \"Hồng Ân Tuyệt Vời\", mừng kỷ niệm 10 năm thành lập. Một thập kỷ dấn thân trong sứ mạng ca xướng phụng vụ, 10 năm của những hy sinh âm thầm và tình huynh đệ gắn kết nay được đơm hoa kết trái trong một đêm nhạc thiêng liêng, đong đầy ân sủng.\n\nĐể có được đêm hòa nhạc trang trọng và trọn vẹn, đằng sau sân khấu là sự nỗ lực không mệt mỏi của cả một tập thể. Dưới sự chỉ huy tận tụy của chị ca trưởng Ban Mai, sự sát sao chu đáo của ban điều hành và sự nhiệt thành của từng ca viên, ca đoàn đã bước vào chuỗi những ngày tập luyện tăng cường vô cùng hăng say, miệt mài. Đặc biệt trong giai đoạn nước rút gần kề ngày tổ chức, lịch tập hát được đẩy lên tới 3 buổi một tuần .Sau giờ học, giờ làm, anh chị em chúng con quy tụ bên nhau đến tận đêm muộn, nắn chỉnh từng câu bè, khớp từng giai điệu để dâng lên Chúa và cộng đoàn những phần thể hiện trọn vẹn nhất.\n\nĐêm hòa nhạc gồm 12 tiết mục dàn dựng công phu, dẫn dắt không gian cảm xúc qua hai phần:\n\nPhần I – Nhìn lại hành trình 10 năm: Mở ra không gian của hồi tưởng và tri ân qua những bản thánh ca vang vọng theo năm tháng như Hồng Ân Tuyệt Vời (Amazing Grace), Hallelujah, Lời Nguyện Cầu (The Prayer)... Qua từng giai điệu, cộng đoàn cùng quay ngược thời gian nhìn lại chặng đường 10 năm đã qua – một hành trình được thêu dệt từ biết bao lời ca tạ ơn, nhịp hát dâng hiến và tâm tình phụng sự chân thành trong tình yêu Thiên Chúa.\n\nPhần II – Bước tiếp hành trình: Trong niềm tin và niềm hy vọng rực rỡ, các ca khúc Cùng đi với chúng con, Têrêsa dấu yêu, Bước đường theo Ngài, Kinh cầu Thánh Phanxicô, và Những người hành hương của hy vọng... được cất lên như một lời xác tín đỗi tự hào: con đường phục vụ bằng tiếng ca không dừng lại ở hiện tại, mà sẽ tiếp nối mãi trong tình yêu Chúa, trong sự hiệp nhất của ca viên và tinh thần dấn thân vì cộng đoàn.\n\nĐúng ngày diễn ra hòa nhạc, bầu trời Hà Nội đổ những cơn mưa rất to, gây không ít vất vả và khó khăn cho khâu di chuyển, vận chuyển thiết bị cũng như công tác chuẩn bị của Ca đoàn. Thế nhưng, chính trong gian khó ấy, bàn tay quan phòng của Thiên Chúa lại càng hiện rõ. Mặc cho thời tiết bất lợi, ngôi Thánh đường Gx. Thái Hà vẫn được lấp đầy bởi sự hiện diện đông đủ của quý Cha, quý Sơ, quý ân nhân, quý anh chị cựu ca viên cùng đông đảo cộng đoàn.\n\nĐêm nhạc khép lại trong niềm tự hào và lòng tạ ơn sâu sắc của mỗi ca viên.10 năm một chặng đường, ngọn lửa mến yêu và tinh thần \"làm những việc nhỏ bé với một tình yêu lớn\" của Thánh Quan thầy Têrêsa sẽ tiếp tục là hành trang để Ca đoàn chúng con vững vàng bước tiếp trên con đường dâng lời ca tôn vinh Danh Chúa.",
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1c1f83ce6a7976937db1bd06/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1c1f83ce6a7976937db1bd06/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1c1f83ce6a7976937db1bd06/thumb.webp",
+            "width": 480,
+            "height": 290
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1c1f83ce6a7976937db1bd06/medium.webp",
+            "width": 1280,
+            "height": 773
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1c1f83ce6a7976937db1bd06/original.webp",
+            "width": 2560,
+            "height": 1547
+          }
+        },
+        "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+        "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+        "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+        "sourceFilename": "ảnh bìa ( cả năm ).jpg",
+        "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+      },
+      "album": {
+        "manifest": "data/albums/2025/2025-hoa-nhac-hong-an-tuyet-voi.json",
+        "count": 34,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/385ff8d277a3584660123f69/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/385ff8d277a3584660123f69/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/385ff8d277a3584660123f69/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/385ff8d277a3584660123f69/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/385ff8d277a3584660123f69/original.webp",
+                "width": 2560,
+                "height": 1708
+              }
+            },
+            "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+            "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+            "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+            "sourceFilename": "hoà nhạc8.jpg",
+            "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/839c0d0a08ee533822b30d29/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/839c0d0a08ee533822b30d29/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/839c0d0a08ee533822b30d29/thumb.webp",
+                "width": 480,
+                "height": 319
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/839c0d0a08ee533822b30d29/medium.webp",
+                "width": 1280,
+                "height": 852
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/839c0d0a08ee533822b30d29/original.webp",
+                "width": 2560,
+                "height": 1703
+              }
+            },
+            "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+            "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+            "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+            "sourceFilename": "hoà nhạc18.jpg",
+            "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/039831a25929ba438c27856d/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/039831a25929ba438c27856d/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/039831a25929ba438c27856d/thumb.webp",
+                "width": 480,
+                "height": 319
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/039831a25929ba438c27856d/medium.webp",
+                "width": 1280,
+                "height": 852
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/039831a25929ba438c27856d/original.webp",
+                "width": 2560,
+                "height": 1703
+              }
+            },
+            "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+            "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+            "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+            "sourceFilename": "hoà nhạc26.jpg",
+            "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2025-giai-bong-da-tu-hung",
+      "title": "Tổ chức giải bóng đá tứ hùng mừng kỷ niệm 10 năm thành lập.",
+      "type": "Thể thao · Kỷ niệm 10 năm",
+      "topic": "Hội thao",
+      "date": "21/09/2025",
+      "location": "Sân bóng Hồng Ân",
+      "description": "Nối tiếp bầu khí rộn rã của chuỗi sự kiện mừng Kỷ niệm 10 năm Thành lập, chiều Chủ Nhật ngày 21/09/2025, Ca đoàn Giới trẻ Têrêsa đã đăng cai tổ chức Giải bóng đá Tứ Hùng 2025 tại sân bóng Hồng Ân. Giải đấu quy tụ 4 đội bóng mang nhiều gắn kết thân thương:",
+      "body": "Nối tiếp bầu khí rộn rã của chuỗi sự kiện mừng Kỷ niệm 10 năm Thành lập, chiều Chủ Nhật ngày 21/09/2025, Ca đoàn Giới trẻ Têrêsa đã đăng cai tổ chức Giải bóng đá Tứ Hùng 2025 tại sân bóng Hồng Ân. Giải đấu quy tụ 4 đội bóng mang nhiều gắn kết thân thương:\n\nFC Gia trưởng Giáo xứ Thái Hà\n\nFC Giới trẻ Xa quê Chúa Cứu Thế\n\nFC Cựu ca viên Ca đoàn Giới trẻ Têrêsa\n\nFC Ca đoàn Giới trẻ Têrêsa\n\nNgay sau lễ khai mạc ngập tràn sắc màu và tiếng reo hò, các đội bóng đã bước vào tranh tài với tinh thần thể thao trung thực, cống hiến những pha bóng đẹp mắt và những trận cầu kịch tính. Vượt qua các đối thủ nặng ký với phong độ thăng hoa cùng sự cổ vũ nhiệt thành từ dàn cổ động viên nhà, FC Ca đoàn Giới trẻ Teresa đã xuất sắc đăng quang ngôi Vô địch Giải bóng đá Tứ Hùng 2025 đầy thuyết phục.",
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/20b79b067015b99b9b064d86/medium.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/20b79b067015b99b9b064d86/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/20b79b067015b99b9b064d86/thumb.webp",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/20b79b067015b99b9b064d86/medium.webp",
+            "width": 1142,
+            "height": 856
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/20b79b067015b99b9b064d86/medium.webp",
+            "width": 1142,
+            "height": 856
+          }
+        },
+        "alt": "Tổ chức giải bóng đá tứ hùng mừng kỷ niệm 10 năm thành lập.",
+        "caption": "Tổ chức giải bóng đá tứ hùng mừng kỷ niệm 10 năm thành lập.",
+        "event": "Tổ chức giải bóng đá tứ hùng mừng kỷ niệm 10 năm thành lập.",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Giải bóng đá Tứ Hùng mừng 10 năm tại sân Hồng Ân"
+      },
+      "album": {
+        "manifest": "data/albums/2025/2025-giai-bong-da-tu-hung.json",
+        "count": 5,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7aa713fbff8da2abb34e186c/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7aa713fbff8da2abb34e186c/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7aa713fbff8da2abb34e186c/thumb.webp",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7aa713fbff8da2abb34e186c/medium.webp",
+                "width": 1164,
+                "height": 872
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7aa713fbff8da2abb34e186c/medium.webp",
+                "width": 1164,
+                "height": 872
+              }
+            },
+            "alt": "Tổ chức giải bóng đá tứ hùng mừng kỷ niệm 10 năm thành lập.",
+            "caption": "Tổ chức giải bóng đá tứ hùng mừng kỷ niệm 10 năm thành lập.",
+            "event": "Tổ chức giải bóng đá tứ hùng mừng kỷ niệm 10 năm thành lập.",
+            "sourceFilename": "550360987_1742707143175111_1313305445540596957_n (1).jpg",
+            "sourceDirectory": "Giải bóng đá Tứ Hùng mừng 10 năm tại sân Hồng Ân"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0739b647e4a2d1b1980884ae/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0739b647e4a2d1b1980884ae/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0739b647e4a2d1b1980884ae/thumb.webp",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0739b647e4a2d1b1980884ae/medium.webp",
+                "width": 1158,
+                "height": 868
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0739b647e4a2d1b1980884ae/medium.webp",
+                "width": 1158,
+                "height": 868
+              }
+            },
+            "alt": "Tổ chức giải bóng đá tứ hùng mừng kỷ niệm 10 năm thành lập.",
+            "caption": "Tổ chức giải bóng đá tứ hùng mừng kỷ niệm 10 năm thành lập.",
+            "event": "Tổ chức giải bóng đá tứ hùng mừng kỷ niệm 10 năm thành lập.",
+            "sourceFilename": "550714655_1742707119841780_6341239231017832226_n.jpg",
+            "sourceDirectory": "Giải bóng đá Tứ Hùng mừng 10 năm tại sân Hồng Ân"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/81f732dfd56618ff1127ae9c/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/81f732dfd56618ff1127ae9c/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/81f732dfd56618ff1127ae9c/thumb.webp",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/81f732dfd56618ff1127ae9c/medium.webp",
+                "width": 1105,
+                "height": 828
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/81f732dfd56618ff1127ae9c/medium.webp",
+                "width": 1105,
+                "height": 828
+              }
+            },
+            "alt": "Tổ chức giải bóng đá tứ hùng mừng kỷ niệm 10 năm thành lập.",
+            "caption": "Tổ chức giải bóng đá tứ hùng mừng kỷ niệm 10 năm thành lập.",
+            "event": "Tổ chức giải bóng đá tứ hùng mừng kỷ niệm 10 năm thành lập.",
+            "sourceFilename": "551979765_1742707129841779_8555876763740794966_n (1).jpg",
+            "sourceDirectory": "Giải bóng đá Tứ Hùng mừng 10 năm tại sân Hồng Ân"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2025-dai-hoi-gioi-tre-thua-sai-hue",
+      "title": "Tham dự Đại Hội Giới Trẻ Thừa Sai Chúa Cứu Thế Toàn Quốc tại DCCT Huế và Hành hương năm thánh tại Đan Viện Thiên An Huế.",
+      "type": "Đại hội · Hành hương Năm Thánh",
+      "topic": "Đại hội",
+      "date": "27–28/09/2025",
+      "location": "DCCT Huế và Đan viện Thiên An Huế",
+      "description": "Trong hai ngày 27–28/09/2025, Ca đoàn Giới trẻ Teresa đã bước vào chuyến hành hương Năm Thánh đầy hồng ân tại mảnh đất cố đô Huế, tham dự và phục vụ Đại hội Giới trẻ Thừa sai Chúa Cứu Thế toàn quốc lần thứ II với chủ đề \"100 Năm Sứ Vụ Trong Ân Sủng – RYVM Bước Theo Tiền Nhân\".",
+      "body": "Trong hai ngày 27–28/09/2025, Ca đoàn Giới trẻ Teresa đã bước vào chuyến hành hương Năm Thánh đầy hồng ân tại mảnh đất cố đô Huế, tham dự và phục vụ Đại hội Giới trẻ Thừa sai Chúa Cứu Thế toàn quốc lần thứ II với chủ đề \"100 Năm Sứ Vụ Trong Ân Sủng – RYVM Bước Theo Tiền Nhân\".\n\nĐiểm dừng chân đầu tiên của hành trình là Đan viện Thiên An thanh bình nằm giữa đồi đồi thông xanh mát. Tại đây, giữa không gian lắng đọng và cổ kính, anh chị em ca viên đã có những phút giây chậm lại bên nhau, tìm về sự bình an trong tâm hồn và dâng lên Chúa những lời nguyện ước chân thành trước khi bước vào các hoạt động sôi nổi của Đại hội.\n\nThật vinh dự và xúc động khi những lời ca tiếng hát của Têrêsa được cất lên phục vụ trong Thánh lễ Khai mạc và vang vọng qua tiết mục hợp xướng giữa lòng Đại hội. Dù Huế đón đoàn bằng những cơn mưa bão xối xả, nhưng ngọn lửa nhiệt thành trong tim mỗi ca viên vẫn bừng cháy rực rỡ. Ân sủng Chúa đã phủ che, biến những giọt mưa vất vả thành nụ cười, niềm bình an và sự gắn kết diệu kỳ.\n\nChuyến đi không chỉ dừng lại ở một hành trình địa lý, mà đã trở thành dấu ấn thiêng liêng khắc sâu vào tâm khảm mỗi ca viên trẻ, chúng con trở về mang theo ngọn lửa Thừa sai rực cháy, sẵn sàng tiếp bước hành trình 100 năm sứ vụ của các bậc tiền nhân: \"Sống với Ngài, sống như Ngài và sống cho Ngài.\"",
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0bbb9ee19235c00013377fb7/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0bbb9ee19235c00013377fb7/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0bbb9ee19235c00013377fb7/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0bbb9ee19235c00013377fb7/medium.webp",
+            "width": 1280,
+            "height": 853
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0bbb9ee19235c00013377fb7/original.webp",
+            "width": 2560,
+            "height": 1707
+          }
+        },
+        "alt": "Tham dự Đại Hội Giới Trẻ Thừa Sai Chúa Cứu Thế Toàn Quốc tại DCCT Huế và Hành hương năm thánh tại Đan Viện Thiên An Huế.",
+        "caption": "Tham dự Đại Hội Giới Trẻ Thừa Sai Chúa Cứu Thế Toàn Quốc tại DCCT Huế và Hành hương năm thánh tại Đan Viện Thiên An Huế.",
+        "event": "Tham dự Đại Hội Giới Trẻ Thừa Sai Chúa Cứu Thế Toàn Quốc tại DCCT Huế và Hành hương năm thánh tại Đan Viện Thiên An Huế.",
+        "sourceFilename": "ảnh bìa.jpeg",
+        "sourceDirectory": "Đại hội Giới trẻ Thừa sai Chúa Cứu Thế tại Huế và hành hương Đan viện Thiên An"
+      },
+      "album": {
+        "manifest": "data/albums/2025/2025-dai-hoi-gioi-tre-thua-sai-hue.json",
+        "count": 40,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/427f8452e749330df966c787/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/427f8452e749330df966c787/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/427f8452e749330df966c787/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/427f8452e749330df966c787/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/427f8452e749330df966c787/original.webp",
+                "width": 2560,
+                "height": 1707
+              }
+            },
+            "alt": "Tham dự Đại Hội Giới Trẻ Thừa Sai Chúa Cứu Thế Toàn Quốc tại DCCT Huế và Hành hương năm thánh tại Đan Viện Thiên An Huế.",
+            "caption": "Tham dự Đại Hội Giới Trẻ Thừa Sai Chúa Cứu Thế Toàn Quốc tại DCCT Huế và Hành hương năm thánh tại Đan Viện Thiên An Huế.",
+            "event": "Tham dự Đại Hội Giới Trẻ Thừa Sai Chúa Cứu Thế Toàn Quốc tại DCCT Huế và Hành hương năm thánh tại Đan Viện Thiên An Huế.",
+            "sourceFilename": "DSCF8995.jpeg",
+            "sourceDirectory": "Đại hội Giới trẻ Thừa sai Chúa Cứu Thế tại Huế và hành hương Đan viện Thiên An"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/037bbf6348addc113aa43c7b/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/037bbf6348addc113aa43c7b/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/037bbf6348addc113aa43c7b/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/037bbf6348addc113aa43c7b/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/037bbf6348addc113aa43c7b/original.webp",
+                "width": 2560,
+                "height": 1707
+              }
+            },
+            "alt": "Tham dự Đại Hội Giới Trẻ Thừa Sai Chúa Cứu Thế Toàn Quốc tại DCCT Huế và Hành hương năm thánh tại Đan Viện Thiên An Huế.",
+            "caption": "Tham dự Đại Hội Giới Trẻ Thừa Sai Chúa Cứu Thế Toàn Quốc tại DCCT Huế và Hành hương năm thánh tại Đan Viện Thiên An Huế.",
+            "event": "Tham dự Đại Hội Giới Trẻ Thừa Sai Chúa Cứu Thế Toàn Quốc tại DCCT Huế và Hành hương năm thánh tại Đan Viện Thiên An Huế.",
+            "sourceFilename": "DSCF9136.jpeg",
+            "sourceDirectory": "Đại hội Giới trẻ Thừa sai Chúa Cứu Thế tại Huế và hành hương Đan viện Thiên An"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/390b15a2d1f842c7c2f6dd9e/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/390b15a2d1f842c7c2f6dd9e/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/390b15a2d1f842c7c2f6dd9e/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/390b15a2d1f842c7c2f6dd9e/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/390b15a2d1f842c7c2f6dd9e/original.webp",
+                "width": 2560,
+                "height": 1707
+              }
+            },
+            "alt": "Tham dự Đại Hội Giới Trẻ Thừa Sai Chúa Cứu Thế Toàn Quốc tại DCCT Huế và Hành hương năm thánh tại Đan Viện Thiên An Huế.",
+            "caption": "Tham dự Đại Hội Giới Trẻ Thừa Sai Chúa Cứu Thế Toàn Quốc tại DCCT Huế và Hành hương năm thánh tại Đan Viện Thiên An Huế.",
+            "event": "Tham dự Đại Hội Giới Trẻ Thừa Sai Chúa Cứu Thế Toàn Quốc tại DCCT Huế và Hành hương năm thánh tại Đan Viện Thiên An Huế.",
+            "sourceFilename": "DSCF9425.jpeg",
+            "sourceDirectory": "Đại hội Giới trẻ Thừa sai Chúa Cứu Thế tại Huế và hành hương Đan viện Thiên An"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2025-le-quan-thay-10-nam",
+      "title": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "type": "Lễ Quan thầy · Kỷ niệm 10 năm",
+      "topic": "Lễ Quan thầy",
+      "date": "02/10/2025",
+      "location": "Đền Giêrađô",
+      "description": "Sau bao ngày mong chờ và chuẩn bị, ngày 02/10/2025, Ca đoàn Giới trẻ Teresa long trọng tổ chức Thánh lễ Quan thầy kính Thánh Têrêsa Hài Đồng Giêsu và Kỷ niệm 10 năm Thành lập Ca đoàn.",
+      "body": "Sau bao ngày mong chờ và chuẩn bị, ngày 02/10/2025, Ca đoàn Giới trẻ Teresa long trọng tổ chức Thánh lễ Quan thầy kính Thánh Têrêsa Hài Đồng Giêsu và Kỷ niệm 10 năm Thành lập Ca đoàn.\n\nThánh lễ Tạ ơn được cử hành trong bầu khí vô cùng linh thiêng và ấm áp với sự đồng tế của Cha Bề trên Chánh xứ Giuse Nguyễn Văn Hội, Cha Đặc trách GĐCGXQHN Giuse Trần Văn Hưng, Cha Phó đặc trách Giuse Lương Thanh Tùng, Cha Đặc trách Khối Liên ca đoàn Vicente Trần Trí Tuệ và Cha Giuse Nguyễn Văn Toản. Sự hiện diện thương yêu của Quý Cha cùng Quý Tu sĩ, HĐMV Giáo xứ, HĐMV Xa quê, các ban ngành hội đoàn, quý ân thân nhân và đông đảo cộng đoàn chính là nguồn nâng đỡ thiêng liêng vô giá cho Ca đoàn.\n\nĐặc biệt, ngày vui thêm trọn vẹn khi đánh dấu sự trở về đầy ấm áp của các anh chị cựu ca viên, những người đã gieo những hạt mầm đầu tiên và luôn âm thầm đồng hành qua bao năm tháng. Cùng với sự hy sinh thầm lặng của BĐH, sự hỗ trợ nhiệt thành của từng ca viên, mọi công tác đã diễn ra vô cùng tốt đẹp.\n\nKhép lại phần Phụng vụ, tất cả quý khách mời và anh chị em ca viên cùng quy tụ tại sân đền Giêrađô để tham dự tiệc mừng. Tại đây, không gian chan hòa niềm vui khi mọi người cùng nhìn lại thước phim hành trình 10 năm phục vụ, ôn lại nhiều kỷ niệm vui buồn và thắt chặt hơn nữa sợi dây gắn kết giữa các thế hệ người trẻ Teresa.",
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/807de8044a7a23e3143439ea/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/807de8044a7a23e3143439ea/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/807de8044a7a23e3143439ea/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/807de8044a7a23e3143439ea/medium.webp",
+            "width": 1280,
+            "height": 853
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/807de8044a7a23e3143439ea/original.webp",
+            "width": 2048,
+            "height": 1365
+          }
+        },
+        "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+        "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+        "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+        "sourceFilename": " ảnh bìa ( cả năm ).JPG",
+        "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+      },
+      "album": {
+        "manifest": "data/albums/2025/2025-le-quan-thay-10-nam.json",
+        "count": 30,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/23f680a4810db7b640347a52/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/23f680a4810db7b640347a52/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/23f680a4810db7b640347a52/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/23f680a4810db7b640347a52/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/23f680a4810db7b640347a52/original.webp",
+                "width": 2048,
+                "height": 1366
+              }
+            },
+            "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+            "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+            "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+            "sourceFilename": "lễ quan thầy7.jpg",
+            "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7dbfc7d4bf27e83c63c81d4e/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7dbfc7d4bf27e83c63c81d4e/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7dbfc7d4bf27e83c63c81d4e/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7dbfc7d4bf27e83c63c81d4e/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7dbfc7d4bf27e83c63c81d4e/original.webp",
+                "width": 2048,
+                "height": 1365
+              }
+            },
+            "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+            "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+            "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+            "sourceFilename": "lễ quan thầy15.jpg",
+            "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e47a1669f268227a7eb59fbc/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e47a1669f268227a7eb59fbc/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e47a1669f268227a7eb59fbc/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e47a1669f268227a7eb59fbc/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e47a1669f268227a7eb59fbc/original.webp",
+                "width": 2048,
+                "height": 1366
+              }
+            },
+            "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+            "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+            "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+            "sourceFilename": "lễ quan thầy22.jpg",
+            "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+          }
+        ]
+      }
+    },
+    {
+      "id": "2025-hanh-huong-phu-nhai",
+      "title": "Tham gia phục vụ Thánh lễ tĩnh tâm và Hành hương năm Thánh của GĐCGXQ Hà Nội tại Vương Cung Thánh Đường Phú Nhai – GP Bùi Chu.",
+      "type": "Phụng vụ · Hành hương Năm Thánh",
+      "topic": "Phụng vụ",
+      "date": "18/10/2025",
+      "location": "Vương cung Thánh đường Phú Nhai, Giáo phận Bùi Chu",
+      "description": "Ngày 18/10/2025, Ca đoàn Giới trẻ Têrêsa đã đồng hành cùng Gia đình Công giáo Xa quê Hà Nội bước vào chuyến hành hương tĩnh tâm Năm Thánh tại Vương cung Thánh đường Phú Nhai (Giáo phận Bùi Chu).",
+      "body": "Ngày 18/10/2025, Ca đoàn Giới trẻ Têrêsa đã đồng hành cùng Gia đình Công giáo Xa quê Hà Nội bước vào chuyến hành hương tĩnh tâm Năm Thánh tại Vương cung Thánh đường Phú Nhai (Giáo phận Bùi Chu).\n\nVinh dự tiếp tục được cất tiếng hát phụng vụ trong chuyến hành hương của đại gia đình Xa quê, các ca viên Têrêsa đã hăng hái thu xếp công việc, cùng nhau quy tụ về ngôi Vương cung Thánh đường nguy nga để dâng lời ca tiếng hát. Từng giai điệu hòa quyện vang lên giữa không gian thiêng liêng đã góp phần nâng tâm hồn cộng đoàn tham dự Thánh lễ thêm phần sốt sắng.\n\nTừ Sứ điệp của Đức Thánh Cha nhân Ngày Thế giới Di dân và Tị nạn, bài giảng của Cha Giuse Lương Thanh Tùng đã đọng lại sâu sắc trong tâm khảm mỗi bạn trẻ: mỗi người con xa xứ được mời gọi trở thành \"nhà truyền giáo của hy vọng\", không chỉ biết giữ đạo cho riêng mình mà còn dám đem ánh sáng Tin Mừng soi chiếu nơi mình sống và làm việc.\n\nChuyến phục vụ tại Phú Nhai không chỉ gieo vào lòng mỗi ca viên sự bình an sâu lắng, mà còn tiếp thêm sức mạnh thiêng liêng để những người trẻ Têrêsa ý thức hơn về sứ vụ của mình: vừa dùng tiếng hát làm đẹp Phụng vụ, vừa sống làm \"muối men và ánh sáng\" giữa lòng đời hằng ngày.",
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/04eda6a47d4c066365725fd8/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/04eda6a47d4c066365725fd8/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/04eda6a47d4c066365725fd8/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/04eda6a47d4c066365725fd8/medium.webp",
+            "width": 1280,
+            "height": 853
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/04eda6a47d4c066365725fd8/original.webp",
+            "width": 2048,
+            "height": 1365
+          }
+        },
+        "alt": "Tham gia phục vụ Thánh lễ tĩnh tâm và Hành hương năm Thánh của GĐCGXQ Hà Nội tại Vương Cung Thánh Đường Phú Nhai – GP Bùi Chu.",
+        "caption": "Tham gia phục vụ Thánh lễ tĩnh tâm và Hành hương năm Thánh của GĐCGXQ Hà Nội tại Vương Cung Thánh Đường Phú Nhai – GP Bùi Chu.",
+        "event": "Tham gia phục vụ Thánh lễ tĩnh tâm và Hành hương năm Thánh của GĐCGXQ Hà Nội tại Vương Cung Thánh Đường Phú Nhai – GP Bùi Chu.",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Thánh lễ tĩnh tâm và hành hương Năm Thánh tại Vương cung Thánh đường Phú Nhai"
+      },
+      "album": {
+        "manifest": "data/albums/2025/2025-hanh-huong-phu-nhai.json",
+        "count": 15,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4765914152e2668e275e750e/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4765914152e2668e275e750e/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4765914152e2668e275e750e/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4765914152e2668e275e750e/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4765914152e2668e275e750e/original.webp",
+                "width": 2048,
+                "height": 1365
+              }
+            },
+            "alt": "Tham gia phục vụ Thánh lễ tĩnh tâm và Hành hương năm Thánh của GĐCGXQ Hà Nội tại Vương Cung Thánh Đường Phú Nhai – GP Bùi Chu.",
+            "caption": "Tham gia phục vụ Thánh lễ tĩnh tâm và Hành hương năm Thánh của GĐCGXQ Hà Nội tại Vương Cung Thánh Đường Phú Nhai – GP Bùi Chu.",
+            "event": "Tham gia phục vụ Thánh lễ tĩnh tâm và Hành hương năm Thánh của GĐCGXQ Hà Nội tại Vương Cung Thánh Đường Phú Nhai – GP Bùi Chu.",
+            "sourceFilename": "hành hương phú nhai3.jpg",
+            "sourceDirectory": "Thánh lễ tĩnh tâm và hành hương Năm Thánh tại Vương cung Thánh đường Phú Nhai"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3f06328059e80139ba80884c/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3f06328059e80139ba80884c/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3f06328059e80139ba80884c/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3f06328059e80139ba80884c/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3f06328059e80139ba80884c/original.webp",
+                "width": 2048,
+                "height": 1365
+              }
+            },
+            "alt": "Tham gia phục vụ Thánh lễ tĩnh tâm và Hành hương năm Thánh của GĐCGXQ Hà Nội tại Vương Cung Thánh Đường Phú Nhai – GP Bùi Chu.",
+            "caption": "Tham gia phục vụ Thánh lễ tĩnh tâm và Hành hương năm Thánh của GĐCGXQ Hà Nội tại Vương Cung Thánh Đường Phú Nhai – GP Bùi Chu.",
+            "event": "Tham gia phục vụ Thánh lễ tĩnh tâm và Hành hương năm Thánh của GĐCGXQ Hà Nội tại Vương Cung Thánh Đường Phú Nhai – GP Bùi Chu.",
+            "sourceFilename": "hành hương phú nhai7.jpg",
+            "sourceDirectory": "Thánh lễ tĩnh tâm và hành hương Năm Thánh tại Vương cung Thánh đường Phú Nhai"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8015aa04443c32a548110f6d/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8015aa04443c32a548110f6d/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8015aa04443c32a548110f6d/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8015aa04443c32a548110f6d/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8015aa04443c32a548110f6d/original.webp",
+                "width": 2048,
+                "height": 1365
+              }
+            },
+            "alt": "Tham gia phục vụ Thánh lễ tĩnh tâm và Hành hương năm Thánh của GĐCGXQ Hà Nội tại Vương Cung Thánh Đường Phú Nhai – GP Bùi Chu.",
+            "caption": "Tham gia phục vụ Thánh lễ tĩnh tâm và Hành hương năm Thánh của GĐCGXQ Hà Nội tại Vương Cung Thánh Đường Phú Nhai – GP Bùi Chu.",
+            "event": "Tham gia phục vụ Thánh lễ tĩnh tâm và Hành hương năm Thánh của GĐCGXQ Hà Nội tại Vương Cung Thánh Đường Phú Nhai – GP Bùi Chu.",
+            "sourceFilename": "hành hương phú nhai12.jpg",
+            "sourceDirectory": "Thánh lễ tĩnh tâm và hành hương Năm Thánh tại Vương cung Thánh đường Phú Nhai"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2025-dai-hoi-the-thao-cecilia",
+      "title": "Tham gia Đại hội thể thao Cecilia 2025",
+      "type": "Thể thao",
+      "topic": "Hội thao",
+      "date": "Tháng 11/2025",
+      "location": "Giáo xứ Thái Hà",
+      "description": "Hướng tới ngày Lễ mừng kính Thánh Cecilia, Quan thầy Khối Liên ca đoàn Giáo xứ Thái Hà, Ca đoàn Giới trẻ Têrêsa đã hăng hái tham gia Đại hội Thể thao Cecilia 2025. Đây là sân chơi ý nghĩa nhằm tăng cường tinh thần đoàn kết, giao lưu và thắt chặt tình huynh đệ giữa 12 ca đoàn trong giáo xứ.",
+      "body": "Hướng tới ngày Lễ mừng kính Thánh Cecilia, Quan thầy Khối Liên ca đoàn Giáo xứ Thái Hà, Ca đoàn Giới trẻ Têrêsa đã hăng hái tham gia Đại hội Thể thao Cecilia 2025. Đây là sân chơi ý nghĩa nhằm tăng cường tinh thần đoàn kết, giao lưu và thắt chặt tình huynh đệ giữa 12 ca đoàn trong giáo xứ.\n\nTrải qua những ngày thi đấu kịch tính và nảy lửa ở cả 3 bộ môn bóng đá, cầu lông và kéo co, các vận động viên nhà Têrêsa đã cống hiến hết mình cùng sự cổ vũ nhiệt thành từ dàn cổ động viên. Chung cuộc, Ca đoàn đã xuất sắc gặt hái những thành tích xứng đáng:\n\n🥈 Giải Nhì: Đôi nữ môn Cầu lông\n\n🥉 Giải Ba: Đôi nam nữ môn Cầu lông\n\n🥉 Giải Ba: Môn Kéo co nữ\n\nNhững tấm huy chương đạt được không chỉ là thành quả xứng đáng cho những giờ tập luyện miệt mài, mà còn là minh chứng cho tinh thần hiệp nhất, sức trẻ sôi nổi và tình huynh đệ gắn kết của đại gia đình Teresa dưới mái nhà Liên ca đoàn Cecilia Thái Hà.",
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e72bcc96e89b7f1545f96525/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e72bcc96e89b7f1545f96525/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e72bcc96e89b7f1545f96525/thumb.webp",
+            "width": 480,
+            "height": 270
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e72bcc96e89b7f1545f96525/medium.webp",
+            "width": 1280,
+            "height": 720
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e72bcc96e89b7f1545f96525/original.webp",
+            "width": 2048,
+            "height": 1152
+          }
+        },
+        "alt": "Tham gia Đại hội thể thao Cecilia 2025",
+        "caption": "Tham gia Đại hội thể thao Cecilia 2025",
+        "event": "Tham gia Đại hội thể thao Cecilia 2025",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Đại hội Thể thao Cecilia 2025 tại Giáo xứ Thái Hà"
+      },
+      "album": {
+        "manifest": "data/albums/2025/2025-dai-hoi-the-thao-cecilia.json",
+        "count": 5,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e72bcc96e89b7f1545f96525/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e72bcc96e89b7f1545f96525/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e72bcc96e89b7f1545f96525/thumb.webp",
+                "width": 480,
+                "height": 270
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e72bcc96e89b7f1545f96525/medium.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e72bcc96e89b7f1545f96525/original.webp",
+                "width": 2048,
+                "height": 1152
+              }
+            },
+            "alt": "Tham gia Đại hội thể thao Cecilia 2025",
+            "caption": "Tham gia Đại hội thể thao Cecilia 2025",
+            "event": "Tham gia Đại hội thể thao Cecilia 2025",
+            "sourceFilename": "582853213_1791510944961397_4612779053889745671_n.jpg",
+            "sourceDirectory": "Đại hội Thể thao Cecilia 2025 tại Giáo xứ Thái Hà"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4bf42fea00bbe9a5bed5426f/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4bf42fea00bbe9a5bed5426f/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4bf42fea00bbe9a5bed5426f/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4bf42fea00bbe9a5bed5426f/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4bf42fea00bbe9a5bed5426f/original.webp",
+                "width": 2048,
+                "height": 1365
+              }
+            },
+            "alt": "Tham gia Đại hội thể thao Cecilia 2025",
+            "caption": "Tham gia Đại hội thể thao Cecilia 2025",
+            "event": "Tham gia Đại hội thể thao Cecilia 2025",
+            "sourceFilename": "583812340_1791510998294725_6570149067447708406_n.jpg",
+            "sourceDirectory": "Đại hội Thể thao Cecilia 2025 tại Giáo xứ Thái Hà"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c4eb32688554f6b3ab9a6ad0/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c4eb32688554f6b3ab9a6ad0/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c4eb32688554f6b3ab9a6ad0/thumb.webp",
+                "width": 480,
+                "height": 270
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c4eb32688554f6b3ab9a6ad0/medium.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c4eb32688554f6b3ab9a6ad0/original.webp",
+                "width": 2048,
+                "height": 1152
+              }
+            },
+            "alt": "Tham gia Đại hội thể thao Cecilia 2025",
+            "caption": "Tham gia Đại hội thể thao Cecilia 2025",
+            "event": "Tham gia Đại hội thể thao Cecilia 2025",
+            "sourceFilename": "584284501_1791510918294733_2134115083566191897_n.jpg",
+            "sourceDirectory": "Đại hội Thể thao Cecilia 2025 tại Giáo xứ Thái Hà"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2025-dai-le-di-dan",
+      "title": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "type": "Phụng vụ · Di dân",
+      "topic": "Phụng vụ",
+      "date": "25/11/2025",
+      "description": "Ngày 25/11/2025, Gia đình Công giáo Xa quê Hà Nội đã long trọng cử hành Khai mạc Đại lễ Di dân 2025 với chủ đề \"Hy vọng không làm chúng ta thất vọng\" (x. Rm 5,5). Trong bầu khí linh thiêng và hân hoan ấy, Ca đoàn Giới trẻ Têrêsa vinh dự đảm nhận phần hát phụng vụ Thánh lễ Khai mạc và tham gia chương trình Hoan ca mừng Đại lễ.",
+      "body": "Ngày 25/11/2025, Gia đình Công giáo Xa quê Hà Nội đã long trọng cử hành Khai mạc Đại lễ Di dân 2025 với chủ đề \"Hy vọng không làm chúng ta thất vọng\" (x. Rm 5,5). Trong bầu khí linh thiêng và hân hoan ấy, Ca đoàn Giới trẻ Têrêsa vinh dự đảm nhận phần hát phụng vụ Thánh lễ Khai mạc và tham gia chương trình Hoan ca mừng Đại lễ.\n\nTừng lời ca tiếng hát được cất lên sốt sắng đã nâng tâm hồn cộng đoàn đi vào chiều sâu của Thánh lễ. Ngay sau đó, trong đêm Hoan ca, Ca đoàn đã mang đến tiết mục hợp xướng \"Những Người Hành Hương Của Hy Vọng\" được dàn dựng chỉn chu và giàu cảm xúc. Tiết mục hợp xướng chính là xác tín chân thành của những người con xa quê: dù giữa bao thử thách, bôn ba gập ghềnh của cuộc sống di dân, họ vẫn luôn vững vàng tiến về phía trước vì tin rằng Chúa luôn đồng hành và nâng đỡ.",
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/184e6a7838baf8ab7384ad48/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/184e6a7838baf8ab7384ad48/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/184e6a7838baf8ab7384ad48/thumb.webp",
+            "width": 480,
+            "height": 319
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/184e6a7838baf8ab7384ad48/medium.webp",
+            "width": 1280,
+            "height": 852
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/184e6a7838baf8ab7384ad48/original.webp",
+            "width": 2048,
+            "height": 1363
+          }
+        },
+        "alt": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+        "caption": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+        "event": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Thánh lễ khai mạc Đại lễ Di dân 2025 và tiết mục hợp xướng trong chương trình Hoan ca"
+      },
+      "album": {
+        "manifest": "data/albums/2025/2025-dai-le-di-dan.json",
+        "count": 14,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c5a534150db374d80a260363/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c5a534150db374d80a260363/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c5a534150db374d80a260363/thumb.webp",
+                "width": 480,
+                "height": 319
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c5a534150db374d80a260363/medium.webp",
+                "width": 1280,
+                "height": 852
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c5a534150db374d80a260363/original.webp",
+                "width": 2048,
+                "height": 1363
+              }
+            },
+            "alt": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+            "caption": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+            "event": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+            "sourceFilename": "588481581_1797991400980018_6332068408305832812_n.jpg",
+            "sourceDirectory": "Thánh lễ khai mạc Đại lễ Di dân 2025 và tiết mục hợp xướng trong chương trình Hoan ca"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7dabc424262335381dbbb882/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7dabc424262335381dbbb882/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7dabc424262335381dbbb882/thumb.webp",
+                "width": 480,
+                "height": 319
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7dabc424262335381dbbb882/medium.webp",
+                "width": 1280,
+                "height": 852
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7dabc424262335381dbbb882/original.webp",
+                "width": 2048,
+                "height": 1363
+              }
+            },
+            "alt": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+            "caption": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+            "event": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+            "sourceFilename": "588949989_1797987917647033_6816312669476106493_n.jpg",
+            "sourceDirectory": "Thánh lễ khai mạc Đại lễ Di dân 2025 và tiết mục hợp xướng trong chương trình Hoan ca"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/151c06434675597f587677a6/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/151c06434675597f587677a6/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/151c06434675597f587677a6/thumb.webp",
+                "width": 480,
+                "height": 319
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/151c06434675597f587677a6/medium.webp",
+                "width": 1280,
+                "height": 852
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/151c06434675597f587677a6/original.webp",
+                "width": 2048,
+                "height": 1363
+              }
+            },
+            "alt": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+            "caption": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+            "event": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+            "sourceFilename": "589745885_1797994430979715_8552650580820394491_n.jpg",
+            "sourceDirectory": "Thánh lễ khai mạc Đại lễ Di dân 2025 và tiết mục hợp xướng trong chương trình Hoan ca"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2025-dong-am-na-ri",
+      "title": "Tổ chức chương trình thiện nguyện Giáng sinh và chương trình hoan ca Giáng sinh tại Giáo điểm Thành Công - Giáo xứ Cao Bình, Giáo Phận Lạng Sơn-Cao Bằng.",
+      "type": "Thiện nguyện · Hoan ca Giáng Sinh",
+      "topic": "Thiện nguyện",
+      "date": "20–21/12/2025",
+      "location": "Giáo điểm Thành Công, Nam Tuấn, Hà Quảng, Cao Bằng",
+      "description": "Mùa Giáng Sinh 2025 về mang theo không khí se lạnh quen thuộc, cũng là lúc anh chị em Ca đoàn Giới trẻ Teresa chúng con cùng nhau chuẩn bị cho chuyến đi xa cuối cùng trong năm. Hai ngày 20–21/12/2025, Ca đoàn Giới trẻ Teresa đã vượt quãng đường xa xôi về với Giáo điểm Thành Công (Nam Tuấn, Hà Quảng, Cao Bằng) để thực hiện chương trình Thiện nguyện và Hoan ca Giáng Sinh mang tên \"Đông Ấm Nà Rị\".",
+      "body": "Mùa Giáng Sinh 2025 về mang theo không khí se lạnh quen thuộc, cũng là lúc anh chị em Ca đoàn Giới trẻ Teresa chúng con cùng nhau chuẩn bị cho chuyến đi xa cuối cùng trong năm. Hai ngày 20–21/12/2025, Ca đoàn Giới trẻ Teresa đã vượt quãng đường xa xôi về với Giáo điểm Thành Công (Nam Tuấn, Hà Quảng, Cao Bằng) để thực hiện chương trình Thiện nguyện và Hoan ca Giáng Sinh mang tên \"Đông Ấm Nà Rị\".\n\nChương trình đã nhận được sự thương yêu và chung tay ủng hộ vượt ngoài mong đợi từ quý ân nhân gần xa với tổng số tiền 92.060.000 VNĐ cùng nhiều nhu yếu phẩm giá trị. Nhờ đó, chuyến xe mang tình thương đã trao tận tay bà con và các em nhỏ vùng cao 100 phần quà thiết thực (gạo, muối, nước mắm, tài chính hỗ trợ và quà Giáng Sinh), giúp xua đi cái lạnh cắt da giữa chốn núi rừng đại ngàn. Những ánh mắt rạng rỡ, nụ cười hồn nhiên của trẻ thơ khi nhận quà chính là món quà tinh thần vô giá, sưởi ấm trái tim từng ca viên.\n\nGiữa tiết trời se lạnh của vùng biên giới, Ca đoàn đã cùng cộng đoàn bản xứ sốt sắng dâng Thánh lễ tạ ơn trong sự hiện diện ấm áp của Chúa Hài Đồng. Ngay sau Thánh lễ, đêm Hoan ca Giáng Sinh bừng sáng trong tiếng hát, điệu múa rộn ràng hòa quyện giữa ca viên Teresa và bà con giáo điểm, dệt nên một đêm trọn vẹn tình Chúa, thắm thiết tình người.\n\nĐiểm nhấn của đêm Hoan ca chính là vở Diễn nguyện Giáng Sinh do chính các anh chị em ca viên chúng con tự tay lên kịch bản, chuẩn bị đạo cụ và trực tiếp nhập vai. Bằng tất cả sự mộc mạc và chân thành, hình ảnh Đêm Thánh thiêng liêng đã được tái hiện thật sống động, mang lại nhiều cảm xúc và tiếng cười cho cộng đoàn nơi đây, làm cho mùa Giáng Sinh nơi vùng cao trở nên gần gũi và đáng nhớ hơn bao giờ hết.",
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0d90454ad91c5cf7f8098887/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0d90454ad91c5cf7f8098887/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0d90454ad91c5cf7f8098887/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0d90454ad91c5cf7f8098887/medium.webp",
+            "width": 1280,
+            "height": 854
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0d90454ad91c5cf7f8098887/original.webp",
+            "width": 2048,
+            "height": 1366
+          }
+        },
+        "alt": "Tổ chức chương trình thiện nguyện Giáng sinh và chương trình hoan ca Giáng sinh tại Giáo điểm Thành Công - Giáo xứ Cao Bình, Giáo Phận Lạng Sơn-Cao Bằng.",
+        "caption": "Tổ chức chương trình thiện nguyện Giáng sinh và chương trình hoan ca Giáng sinh tại Giáo điểm Thành Công - Giáo xứ Cao Bình, Giáo Phận Lạng Sơn-Cao Bằng.",
+        "event": "Tổ chức chương trình thiện nguyện Giáng sinh và chương trình hoan ca Giáng sinh tại Giáo điểm Thành Công - Giáo xứ Cao Bình, Giáo Phận Lạng Sơn-Cao Bằng.",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Thiện nguyện và Hoan ca Giáng Sinh “Đông Ấm Nà Rị” tại Giáo điểm Thành Công, Cao Bằng"
+      },
+      "album": {
+        "manifest": "data/albums/2025/2025-dong-am-na-ri.json",
+        "count": 62,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/08272719d6a3478d8b04f929/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/08272719d6a3478d8b04f929/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/08272719d6a3478d8b04f929/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/08272719d6a3478d8b04f929/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/08272719d6a3478d8b04f929/original.webp",
+                "width": 2560,
+                "height": 1707
+              }
+            },
+            "alt": "Tổ chức chương trình thiện nguyện Giáng sinh và chương trình hoan ca Giáng sinh tại Giáo điểm Thành Công - Giáo xứ Cao Bình, Giáo Phận Lạng Sơn-Cao Bằng.",
+            "caption": "Tổ chức chương trình thiện nguyện Giáng sinh và chương trình hoan ca Giáng sinh tại Giáo điểm Thành Công - Giáo xứ Cao Bình, Giáo Phận Lạng Sơn-Cao Bằng.",
+            "event": "Tổ chức chương trình thiện nguyện Giáng sinh và chương trình hoan ca Giáng sinh tại Giáo điểm Thành Công - Giáo xứ Cao Bình, Giáo Phận Lạng Sơn-Cao Bằng.",
+            "sourceFilename": "thiện nguyện15.JPG",
+            "sourceDirectory": "Thiện nguyện và Hoan ca Giáng Sinh “Đông Ấm Nà Rị” tại Giáo điểm Thành Công, Cao Bằng"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/cfe987b719f4b799a8e47160/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/cfe987b719f4b799a8e47160/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/cfe987b719f4b799a8e47160/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/cfe987b719f4b799a8e47160/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/cfe987b719f4b799a8e47160/original.webp",
+                "width": 2048,
+                "height": 1366
+              }
+            },
+            "alt": "Tổ chức chương trình thiện nguyện Giáng sinh và chương trình hoan ca Giáng sinh tại Giáo điểm Thành Công - Giáo xứ Cao Bình, Giáo Phận Lạng Sơn-Cao Bằng.",
+            "caption": "Tổ chức chương trình thiện nguyện Giáng sinh và chương trình hoan ca Giáng sinh tại Giáo điểm Thành Công - Giáo xứ Cao Bình, Giáo Phận Lạng Sơn-Cao Bằng.",
+            "event": "Tổ chức chương trình thiện nguyện Giáng sinh và chương trình hoan ca Giáng sinh tại Giáo điểm Thành Công - Giáo xứ Cao Bình, Giáo Phận Lạng Sơn-Cao Bằng.",
+            "sourceFilename": "thiện nguyện31.jpg",
+            "sourceDirectory": "Thiện nguyện và Hoan ca Giáng Sinh “Đông Ấm Nà Rị” tại Giáo điểm Thành Công, Cao Bằng"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8f92baa152213c5d35d46ec9/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8f92baa152213c5d35d46ec9/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8f92baa152213c5d35d46ec9/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8f92baa152213c5d35d46ec9/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8f92baa152213c5d35d46ec9/original.webp",
+                "width": 2048,
+                "height": 1366
+              }
+            },
+            "alt": "Tổ chức chương trình thiện nguyện Giáng sinh và chương trình hoan ca Giáng sinh tại Giáo điểm Thành Công - Giáo xứ Cao Bình, Giáo Phận Lạng Sơn-Cao Bằng.",
+            "caption": "Tổ chức chương trình thiện nguyện Giáng sinh và chương trình hoan ca Giáng sinh tại Giáo điểm Thành Công - Giáo xứ Cao Bình, Giáo Phận Lạng Sơn-Cao Bằng.",
+            "event": "Tổ chức chương trình thiện nguyện Giáng sinh và chương trình hoan ca Giáng sinh tại Giáo điểm Thành Công - Giáo xứ Cao Bình, Giáo Phận Lạng Sơn-Cao Bằng.",
+            "sourceFilename": "thiện nguyện46.jpg",
+            "sourceDirectory": "Thiện nguyện và Hoan ca Giáng Sinh “Đông Ấm Nà Rị” tại Giáo điểm Thành Công, Cao Bằng"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2025-dai-le-giang-sinh",
+      "title": "Phục vụ Đại Lễ Giáng Sinh lúc 18h00 ngày 25/12/2025, khép lại hành trình 10 năm.",
+      "type": "Phụng vụ · Giáng Sinh",
+      "topic": "Phụng vụ",
+      "date": "25/12/2025",
+      "description": "Trong niềm vui mừng Đại lễ Chúa Giáng Sinh, ngày 25/12/2025, ca đoàn vinh dự được phục vụ Thánh lễ Đại lễ Giáng Sinh lúc 18h00. Đặc biệt, Thánh lễ Giáng Sinh năm nay còn mang một ý nghĩa rất riêng. Đây không chỉ là một Thánh lễ cuối năm, mà còn là một dấu ấn khép lại trọn vẹn hành trình 10 năm của đại gia đình Ca đoàn Giới trẻ Têrêsa. Mười năm trước, ca đoàn bắt đầu hành trình bằng những con người trẻ tuổi, cùng nhau tập hát, phục vụ và xây dựng một ca đoàn nhỏ bé. Mười năm sau, vẫn những lời ca ấy, nhưng phía sau là cả một hành trình dài với biết bao kỷ niệm, những người đã đến, đã đồng hành, đã trưởng thành và để lại dấu ấn trong lịch sử của ca đoàn.",
+      "body": "Trong niềm vui mừng Đại lễ Chúa Giáng Sinh, ngày 25/12/2025, ca đoàn vinh dự được phục vụ Thánh lễ Đại lễ Giáng Sinh lúc 18h00. Đặc biệt, Thánh lễ Giáng Sinh năm nay còn mang một ý nghĩa rất riêng. Đây không chỉ là một Thánh lễ cuối năm, mà còn là một dấu ấn khép lại trọn vẹn hành trình 10 năm của đại gia đình Ca đoàn Giới trẻ Têrêsa. Mười năm trước, ca đoàn bắt đầu hành trình bằng những con người trẻ tuổi, cùng nhau tập hát, phục vụ và xây dựng một ca đoàn nhỏ bé. Mười năm sau, vẫn những lời ca ấy, nhưng phía sau là cả một hành trình dài với biết bao kỷ niệm, những người đã đến, đã đồng hành, đã trưởng thành và để lại dấu ấn trong lịch sử của ca đoàn.\n\nKhép lại một chặng đường 10 năm bằng việc phục vụ Thánh lễ Giáng Sinh cũng là một cách thật đẹp để ca đoàn tạ ơn Thiên Chúa. Từ những ngày đầu tiên cho đến hôm nay, điều còn lại sau tất cả vẫn là lời ca, tình huynh đệ và tâm tình phục vụ. Và khi hành trình 10 năm khép lại, một hành trình mới lại được mở ra – để Ca đoàn Giới trẻ Têrêsa tiếp tục cất lên những lời ca ngợi khen Thiên Chúa, tiếp tục phục vụ Giáo hội và cộng đoàn, và tiếp tục viết nên những trang mới trong câu chuyện của mình.",
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f2ad8f1b960e240d29d76c2e/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f2ad8f1b960e240d29d76c2e/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f2ad8f1b960e240d29d76c2e/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f2ad8f1b960e240d29d76c2e/medium.webp",
+            "width": 1280,
+            "height": 854
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f2ad8f1b960e240d29d76c2e/original.webp",
+            "width": 2048,
+            "height": 1366
+          }
+        },
+        "alt": "Phục vụ Đại Lễ Giáng Sinh lúc 18h00 ngày 25/12/2025, khép lại hành trình 10 năm.",
+        "caption": "Phục vụ Đại Lễ Giáng Sinh lúc 18h00 ngày 25/12/2025, khép lại hành trình 10 năm.",
+        "event": "Phục vụ Đại Lễ Giáng Sinh lúc 18h00 ngày 25/12/2025, khép lại hành trình 10 năm.",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Phục vụ Đại lễ Giáng Sinh"
+      },
+      "album": {
+        "manifest": "data/albums/2025/2025-dai-le-giang-sinh.json",
+        "count": 44,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e2702474fe766d9db5dedb4d/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e2702474fe766d9db5dedb4d/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e2702474fe766d9db5dedb4d/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e2702474fe766d9db5dedb4d/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e2702474fe766d9db5dedb4d/original.webp",
+                "width": 2048,
+                "height": 1366
+              }
+            },
+            "alt": "Phục vụ Đại Lễ Giáng Sinh lúc 18h00 ngày 25/12/2025, khép lại hành trình 10 năm.",
+            "caption": "Phục vụ Đại Lễ Giáng Sinh lúc 18h00 ngày 25/12/2025, khép lại hành trình 10 năm.",
+            "event": "Phục vụ Đại Lễ Giáng Sinh lúc 18h00 ngày 25/12/2025, khép lại hành trình 10 năm.",
+            "sourceFilename": "C.THAO-2438.jpg",
+            "sourceDirectory": "Phục vụ Đại lễ Giáng Sinh"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8c8f66285d926979477e3ce9/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8c8f66285d926979477e3ce9/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8c8f66285d926979477e3ce9/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8c8f66285d926979477e3ce9/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8c8f66285d926979477e3ce9/original.webp",
+                "width": 2048,
+                "height": 1366
+              }
+            },
+            "alt": "Phục vụ Đại Lễ Giáng Sinh lúc 18h00 ngày 25/12/2025, khép lại hành trình 10 năm.",
+            "caption": "Phục vụ Đại Lễ Giáng Sinh lúc 18h00 ngày 25/12/2025, khép lại hành trình 10 năm.",
+            "event": "Phục vụ Đại Lễ Giáng Sinh lúc 18h00 ngày 25/12/2025, khép lại hành trình 10 năm.",
+            "sourceFilename": "C.THAO-2543.jpg",
+            "sourceDirectory": "Phục vụ Đại lễ Giáng Sinh"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/606e6cf050264f26ada790cf/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/606e6cf050264f26ada790cf/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/606e6cf050264f26ada790cf/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/606e6cf050264f26ada790cf/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/606e6cf050264f26ada790cf/original.webp",
+                "width": 2048,
+                "height": 1366
+              }
+            },
+            "alt": "Phục vụ Đại Lễ Giáng Sinh lúc 18h00 ngày 25/12/2025, khép lại hành trình 10 năm.",
+            "caption": "Phục vụ Đại Lễ Giáng Sinh lúc 18h00 ngày 25/12/2025, khép lại hành trình 10 năm.",
+            "event": "Phục vụ Đại Lễ Giáng Sinh lúc 18h00 ngày 25/12/2025, khép lại hành trình 10 năm.",
+            "sourceFilename": "C.THAO-2844.jpg",
+            "sourceDirectory": "Phục vụ Đại lễ Giáng Sinh"
+          }
+        ]
       }
     }
   ],
-  "sharing": [
-    {
-      "name": "Khánh Linh",
-      "role": "Trưởng ca đoàn 2025",
-      "quote": "Trưởng thành không phải là đi thật xa khỏi điểm bắt đầu, mà là biết mang tinh thần ngày đầu tiên vào mỗi việc mình làm hôm nay."
-    },
-    {
-      "name": "Minh Quân",
-      "role": "Ca trưởng 2025",
-      "quote": "Chất lượng của một hợp xướng bắt đầu từ kỹ thuật, nhưng sức chạm của nó luôn bắt đầu từ tình yêu giữa những người đang hát."
-    },
-    {
-      "name": "Thanh Vy",
-      "role": "Ca viên 2025",
-      "quote": "Mỗi bức ảnh, mỗi mẩu ghi chép được lưu lại để mai này chúng mình nhớ rằng đã từng có một tuổi trẻ đẹp đến thế."
-    },
-    {
-      "name": "Bảo An",
-      "role": "Ca viên mới",
-      "quote": "Mình đến vì thích hát, nhưng ở lại vì tìm thấy một gia đình."
-    }
-  ],
-  "emotionJournal": [
-    {
-      "date": "12.01",
-      "title": "Buổi tuyển ca viên mới",
-      "text": "Mười hai gương mặt bỡ ngỡ bước vào phòng tập, giống hệt chúng mình của nhiều năm trước.",
-      "mood": "Háo hức"
-    },
-    {
-      "date": "20.04",
-      "title": "Alleluia",
-      "text": "Sau tuần thánh dài, cả ca đoàn cùng cất tiếng hát mừng Phục Sinh trong ánh sáng đầu ngày.",
-      "mood": "Hân hoan"
-    },
-    {
-      "date": "15.06",
-      "title": "Sau tấm màn sân khấu",
-      "text": "Concert kết thúc. Không ai nói gì, chỉ ôm nhau thật lâu giữa những giá nhạc còn chưa kịp dọn.",
-      "mood": "Vỡ òa"
-    },
-    {
-      "date": "01.10",
-      "title": "Mười ngọn nến",
-      "text": "Mỗi thế hệ thắp một ngọn nến. Têrêsa đã lớn lên bằng những bàn tay trao lại ánh sáng.",
-      "mood": "Biết ơn"
-    }
+  "achievements": [],
+  "challenges": [],
+  "gallery": [],
+  "sharing": [],
+  "sourceInfo": [
+    "NHẬT KÝ CA ĐOÀN GIỚI TRẺ TÊRÊSA",
+    "Ngày viết: 20/8/2026",
+    "Người biên soạn: Anna Đặng Thị Hồng Hạnh"
   ],
   "yearMark": {
-    "title": "Trao lại ánh sáng.",
-    "description": "2025 đánh dấu sự chuyển giao đẹp đẽ giữa các thế hệ: người đi trước trở về đồng hành, người đang phục vụ dám nhận trách nhiệm, còn những gương mặt mới bắt đầu viết chương của riêng mình.",
-    "highlight": "58 ca viên · 4 thế hệ · 1 gia đình"
+    "title": "Dấu ấn của năm",
+    "description": "Từ những Thánh lễ phục vụ, những giờ tập hát, những buổi cầu nguyện, những chuyến thiện nguyện, những hoạt động sinh hoạt và những cuộc gặp gỡ tưởng chừng rất đỗi bình thường, năm 2025 đã trở thành một hành trình có đủ những niềm vui, những vất vả và cả những khoảnh khắc khiến chúng con thêm hiểu nhau. Nhìn lại một năm, chúng con nhận ra rằng điều làm nên dấu ấn của Ca đoàn không chỉ là những gì đã thực hiện, mà còn là những con người đã cùng hiện diện, cùng hy sinh và cùng nhau bước tiếp. Năm 2025 khép lại, những lo toan rồi cũng qua đi, chỉ còn tình anh em và những kỷ niệm đẹp ở lại. Đó sẽ là hành trang thân thương nhất để Ca đoàn Giới trẻ Teresa chúng con tiếp tục đồng hành và gắn kết bên nhau trong những chặng đường sắp tới.",
+    "highlight": "10 năm thành lập · Năm Thánh 2025"
   },
   "schemaVersion": 3,
   "meta": {
@@ -354,82 +2500,5 @@
     "status": "published",
     "migratedFrom": 1
   },
-  "galleryAlbum": {
-    "manifest": "data/albums/2025/_gallery.json",
-    "count": 6,
-    "preview": [
-      {
-        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/phung-vu-2025/medium.jpg",
-        "alt": "Ca đoàn phục vụ thánh lễ năm 2025",
-        "event": "Phụng vụ",
-        "caption": "Chung một lời ca",
-        "id": "media/2025/gallery/phung-vu-2025/original.jpg",
-        "variants": {
-          "thumbnail": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/phung-vu-2025/thumb.jpg",
-            "width": 480,
-            "height": 290
-          },
-          "medium": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/phung-vu-2025/medium.jpg",
-            "width": 1280,
-            "height": 773
-          },
-          "original": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/phung-vu-2025/original.jpg",
-            "width": 2400,
-            "height": 1450
-          }
-        }
-      },
-      {
-        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/gan-ket-2024/medium.jpg",
-        "alt": "Các ca viên trong ngày hội gắn kết",
-        "event": "Teresa Games",
-        "caption": "Một đội, một nhà",
-        "id": "media/2025/gallery/gan-ket-2024/original.jpg",
-        "variants": {
-          "thumbnail": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/gan-ket-2024/thumb.jpg",
-            "width": 480,
-            "height": 319
-          },
-          "medium": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/gan-ket-2024/medium.jpg",
-            "width": 1280,
-            "height": 851
-          },
-          "original": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/gan-ket-2024/original.jpg",
-            "width": 2400,
-            "height": 1596
-          }
-        }
-      },
-      {
-        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/thien-nguyen-2019/medium.jpg",
-        "alt": "Chuyến đi thiện nguyện",
-        "event": "Thiện nguyện",
-        "caption": "Tiếng hát lên đường",
-        "id": "media/2025/gallery/thien-nguyen-2019/original.jpg",
-        "variants": {
-          "thumbnail": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/thien-nguyen-2019/thumb.jpg",
-            "width": 480,
-            "height": 320
-          },
-          "medium": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/thien-nguyen-2019/medium.jpg",
-            "width": 1280,
-            "height": 853
-          },
-          "original": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/thien-nguyen-2019/original.jpg",
-            "width": 2400,
-            "height": 1599
-          }
-        }
-      }
-    ]
-  }
+  "reflectionText": "Năm 2025 có thể nói là một năm “bận rộn” của chúng con với chuỗi sự kiện dồn dập. Nhưng có lẽ, điều đọng lại sâu sắc nhất trong mỗi ca viên không chỉ là không khí tưng bừng của ngày đại lễ, mà chính là hành trình cùng nhau đi qua những ngày tháng tập luyện quên mình cho Chương trình Hòa nhạc Kỷ niệm 10 năm.\n\nChưa bao giờ anh chị em chúng con lại gặp nhau nhiều đến thế, vất vả và quyết tâm đến thế.Khi thì Phòng Mục vụ Di Dân, khi thì nhà anh cựu trưởng Tĩnh, chúng con tuy tụ lại để tập luyện. Những bài hợp xướng trong chương trình bài nào cũng khó, đòi hỏi nhiều công sức và sự kiên nhẫn. Lần đầu tiên trong đời, ca viên được đứng trên một sân khấu hòa nhạc do chính ca đoàn mình tự tay gầy dựng và tổ chức. Có những hồi hộp, có những lo lắng và cả những áp lực vô hình khi ngày công diễn cận kề nhưng tất cả đều gác lại phía sau vì một mục tiêu duy nhất: dâng lên Chúa và cộng đoàn những giai điệu trọn vẹn nhất bằng trọn vẹn trái tim.\n\nCa viên vất vả một, thì Ban Điều Hành còn vất vả gấp bội. Có những đêm chị Ca trưởng thức trắng để soạn bài, phối bè, có những ngày anh Trưởng Hạng cùng Ban Điều Hành ngược xuôi lo liệu từng khâu hậu cần, đối nội đối ngoại. Sự hy sinh âm thầm của các anh chị chính là chỗ dựa để từng ca viên yên tâm cất tiếng hát.\n\nChính những vất vả và những buổi tập miệt mài ấy đã tạo nên một chương trình thật trọn vẹn và đong đầy niềm vui tạ ơn. Nhìn lại hành trình đã qua, mỗi ca viên chúng con thêm trân trọng nhau, thêm yêu mái nhà Teresa và lưu giữ cho mình một kỷ niệm thật đẹp của tuổi trẻ, nơi anh chị em cùng bước đi bên nhau trên chặng đường phục vụ."
 }

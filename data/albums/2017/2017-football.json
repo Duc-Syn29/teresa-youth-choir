@@ -2,36 +2,108 @@
   "schemaVersion": 1,
   "year": 2017,
   "activityId": "2017-football",
-  "title": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục",
+  "title": "Giao hữu bóng đá cùng Cộng đoàn Giu-se Hiền Xuân Dục",
   "count": 4,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/001.jpg",
-      "caption": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục · ảnh 1",
-      "alt": "Ảnh tư liệu: Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/001.jpg",
-      "variants": {}
+      "id": "media/2017/football/3103e431fd846293/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/3103e431fd846293/medium.jpg",
+      "alt": "Giao hữu bóng đá cùng Cộng đoàn Giu-se Hiền Xuân Dục",
+      "caption": "Giao hữu bóng đá cùng Cộng đoàn Giu-se Hiền Xuân Dục",
+      "event": "Giao hữu bóng đá cùng Cộng đoàn Giu-se Hiền Xuân Dục",
+      "sourceFilename": "giao lưu bóng đá1.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/3103e431fd846293/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/3103e431fd846293/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/3103e431fd846293/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/002.jpg",
-      "caption": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục · ảnh 2",
-      "alt": "Ảnh tư liệu: Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/002.jpg",
-      "variants": {}
+      "id": "media/2017/football/0270839701310a3e/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/0270839701310a3e/medium.jpg",
+      "alt": "Giao hữu bóng đá cùng Cộng đoàn Giu-se Hiền Xuân Dục",
+      "caption": "Giao hữu bóng đá cùng Cộng đoàn Giu-se Hiền Xuân Dục",
+      "event": "Giao hữu bóng đá cùng Cộng đoàn Giu-se Hiền Xuân Dục",
+      "sourceFilename": "giao lưu bóng đá2.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/0270839701310a3e/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/0270839701310a3e/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/0270839701310a3e/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/003.jpg",
-      "caption": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục · ảnh 3",
-      "alt": "Ảnh tư liệu: Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/003.jpg",
-      "variants": {}
+      "id": "media/2017/football/25fa2f2004680b99/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/25fa2f2004680b99/medium.jpg",
+      "alt": "Hai đội chụp ảnh lưu niệm trên sân",
+      "caption": "Hai đội chụp ảnh lưu niệm trên sân",
+      "event": "Giao hữu bóng đá cùng Cộng đoàn Giu-se Hiền Xuân Dục",
+      "sourceFilename": "giao lưu bóng đá3.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/25fa2f2004680b99/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/25fa2f2004680b99/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/25fa2f2004680b99/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/004.jpg",
-      "caption": "Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục · ảnh 4",
-      "alt": "Ảnh tư liệu: Giao hữu bóng đá cùng Cộng đoàn Giuse Hiền Xuân Dục",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/004.jpg",
-      "variants": {}
+      "id": "media/2017/football/81a9867e5397082e/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/81a9867e5397082e/medium.jpg",
+      "alt": "Các cầu thủ giao lưu trong trận bóng",
+      "caption": "Các cầu thủ giao lưu trong trận bóng",
+      "event": "Giao hữu bóng đá cùng Cộng đoàn Giu-se Hiền Xuân Dục",
+      "sourceFilename": "giao lưu bóng đá4.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/81a9867e5397082e/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/81a9867e5397082e/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/81a9867e5397082e/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     }
   ]
 }

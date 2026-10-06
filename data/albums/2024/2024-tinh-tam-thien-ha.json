@@ -3,945 +3,1021 @@
   "year": 2024,
   "activityId": "2024-tinh-tam-thien-ha",
   "title": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
-  "topic": "Tĩnh tâm",
-  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/001-812b916bf4/medium.jpg",
   "count": 39,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/001-812b916bf4/medium.jpg",
-      "alt": "Các ca viên đến Đan viện Biển Đức Thiên Hà, Hòa Bình.",
-      "caption": "Các ca viên đến Đan viện Biển Đức Thiên Hà, Hòa Bình.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/001-812b916bf4/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e2153e366db48fa650407ba5/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e2153e366db48fa650407ba5/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/001-812b916bf4/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/001-812b916bf4/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/001-812b916bf4/original.jpg?v=2799640",
-          "width": 3200,
-          "height": 2134
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/002-aeddc1c47d/medium.jpg",
-      "alt": "Ca đoàn lắng nghe chia sẻ trong kỳ tĩnh tâm “Ở lại và được Ngài sai đi”.",
-      "caption": "Ca đoàn lắng nghe chia sẻ trong kỳ tĩnh tâm “Ở lại và được Ngài sai đi”.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/002-aeddc1c47d/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/002-aeddc1c47d/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/002-aeddc1c47d/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/002-aeddc1c47d/original.jpg?v=2125104",
-          "width": 3200,
-          "height": 2134
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/003-9d8c969f2a/medium.jpg",
-      "alt": "Ca đoàn lắng nghe chia sẻ trong kỳ tĩnh tâm “Ở lại và được Ngài sai đi”.",
-      "caption": "Ca đoàn lắng nghe chia sẻ trong kỳ tĩnh tâm “Ở lại và được Ngài sai đi”.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/003-9d8c969f2a/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/003-9d8c969f2a/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/003-9d8c969f2a/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/003-9d8c969f2a/original.jpg",
-          "width": 3840,
-          "height": 2562
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/004-82d87c6c5f/medium.jpg",
-      "alt": "Ca đoàn lắng nghe chia sẻ trong kỳ tĩnh tâm “Ở lại và được Ngài sai đi”.",
-      "caption": "Ca đoàn lắng nghe chia sẻ trong kỳ tĩnh tâm “Ở lại và được Ngài sai đi”.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/004-82d87c6c5f/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/004-82d87c6c5f/thumb.jpg",
-          "width": 480,
-          "height": 295
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/004-82d87c6c5f/medium.jpg",
-          "width": 1280,
-          "height": 786
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/004-82d87c6c5f/original.jpg?v=1859813",
-          "width": 3200,
-          "height": 1965
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/005-71e9367580/medium.jpg",
-      "alt": "Ca đoàn lắng nghe chia sẻ trong kỳ tĩnh tâm “Ở lại và được Ngài sai đi”.",
-      "caption": "Ca đoàn lắng nghe chia sẻ trong kỳ tĩnh tâm “Ở lại và được Ngài sai đi”.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/005-71e9367580/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/005-71e9367580/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/005-71e9367580/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/005-71e9367580/original.jpg?v=1844871",
-          "width": 3200,
-          "height": 2134
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/006-b30bb91d41/medium.jpg",
-      "alt": "Hoạt động “đi trong bóng tối” trong giờ cầu nguyện tối.",
-      "caption": "Hoạt động “đi trong bóng tối” trong giờ cầu nguyện tối.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/006-b30bb91d41/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/006-b30bb91d41/thumb.jpg",
-          "width": 480,
-          "height": 317
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/006-b30bb91d41/medium.jpg",
-          "width": 1280,
-          "height": 845
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/006-b30bb91d41/original.jpg?v=1975666",
-          "width": 3200,
-          "height": 2111
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/007-12884f49cb/medium.jpg",
-      "alt": "Hoạt động “đi trong bóng tối” trong giờ cầu nguyện tối.",
-      "caption": "Hoạt động “đi trong bóng tối” trong giờ cầu nguyện tối.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/007-12884f49cb/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/007-12884f49cb/thumb.jpg",
-          "width": 480,
-          "height": 307
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/007-12884f49cb/medium.jpg",
-          "width": 1280,
-          "height": 818
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/007-12884f49cb/original.jpg?v=2796500",
-          "width": 3200,
-          "height": 2046
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/008-482ae5e427/medium.jpg",
-      "alt": "Hoạt động “đi trong bóng tối” trong giờ cầu nguyện tối.",
-      "caption": "Hoạt động “đi trong bóng tối” trong giờ cầu nguyện tối.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/008-482ae5e427/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/008-482ae5e427/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/008-482ae5e427/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/008-482ae5e427/original.jpg?v=2571781",
-          "width": 3200,
-          "height": 2134
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/009-36ce9bc050/medium.jpg",
-      "alt": "Hoạt động “đi trong bóng tối” trong giờ cầu nguyện tối.",
-      "caption": "Hoạt động “đi trong bóng tối” trong giờ cầu nguyện tối.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/009-36ce9bc050/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/009-36ce9bc050/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/009-36ce9bc050/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/009-36ce9bc050/original.jpg?v=2520830",
-          "width": 3200,
-          "height": 2134
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/010-8d77e7a0b1/medium.jpg",
-      "alt": "Hoạt động “đi trong bóng tối” trong giờ cầu nguyện tối.",
-      "caption": "Hoạt động “đi trong bóng tối” trong giờ cầu nguyện tối.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/010-8d77e7a0b1/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/010-8d77e7a0b1/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/010-8d77e7a0b1/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/010-8d77e7a0b1/original.jpg?v=2273677",
-          "width": 3200,
-          "height": 2135
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/011-8afb775d32/medium.jpg",
-      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/011-8afb775d32/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/011-8afb775d32/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/011-8afb775d32/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/011-8afb775d32/original.jpg",
-          "width": 3840,
-          "height": 2561
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/012-0d2e985e33/medium.jpg",
-      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/012-0d2e985e33/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/012-0d2e985e33/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/012-0d2e985e33/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/012-0d2e985e33/original.jpg",
-          "width": 3840,
-          "height": 2561
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/013-52d3b13ee5/medium.jpg",
-      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/013-52d3b13ee5/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/013-52d3b13ee5/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/013-52d3b13ee5/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/013-52d3b13ee5/original.jpg",
-          "width": 3840,
-          "height": 2561
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/014-1a4b3d861b/medium.jpg",
-      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/014-1a4b3d861b/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/014-1a4b3d861b/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/014-1a4b3d861b/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/014-1a4b3d861b/original.jpg",
-          "width": 3840,
-          "height": 2561
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/015-0a7683be11/medium.jpg",
-      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/015-0a7683be11/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/015-0a7683be11/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/015-0a7683be11/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/015-0a7683be11/original.jpg",
-          "width": 3840,
-          "height": 2561
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/016-5a18d0265c/medium.jpg",
-      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/016-5a18d0265c/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/016-5a18d0265c/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/016-5a18d0265c/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/016-5a18d0265c/original.jpg",
-          "width": 3840,
-          "height": 2561
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/017-07be12c4f9/medium.jpg",
-      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/017-07be12c4f9/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/017-07be12c4f9/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/017-07be12c4f9/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/017-07be12c4f9/original.jpg",
-          "width": 3840,
-          "height": 2561
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/018-35f5df8c13/medium.jpg",
-      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/018-35f5df8c13/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/018-35f5df8c13/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/018-35f5df8c13/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/018-35f5df8c13/original.jpg?v=2518218",
-          "width": 3200,
-          "height": 2135
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/019-e25cdea82e/medium.jpg",
-      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/019-e25cdea82e/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/019-e25cdea82e/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/019-e25cdea82e/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/019-e25cdea82e/original.jpg?v=2544601",
-          "width": 3200,
-          "height": 2135
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/020-df021375f0/medium.jpg",
-      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/020-df021375f0/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/020-df021375f0/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/020-df021375f0/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/020-df021375f0/original.jpg?v=2618274",
-          "width": 3200,
-          "height": 2135
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/021-30dc463f3a/medium.jpg",
-      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/021-30dc463f3a/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/021-30dc463f3a/thumb.jpg",
-          "width": 320,
-          "height": 480
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/021-30dc463f3a/medium.jpg",
-          "width": 854,
-          "height": 1280
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/021-30dc463f3a/original.jpg?v=2834552",
-          "width": 2135,
-          "height": 3200
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/022-b5dc18fe30/medium.jpg",
-      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/022-b5dc18fe30/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/022-b5dc18fe30/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/022-b5dc18fe30/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/022-b5dc18fe30/original.jpg?v=1726495",
-          "width": 3200,
-          "height": 2134
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/023-ba9c895e62/medium.jpg",
-      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/023-ba9c895e62/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/023-ba9c895e62/thumb.jpg",
-          "width": 480,
-          "height": 293
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/023-ba9c895e62/medium.jpg",
-          "width": 1280,
-          "height": 780
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/023-ba9c895e62/original.jpg?v=1757639",
-          "width": 3200,
-          "height": 1951
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/024-7373ba37e9/medium.jpg",
-      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/024-7373ba37e9/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/024-7373ba37e9/thumb.jpg",
-          "width": 333,
-          "height": 480
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/024-7373ba37e9/medium.jpg",
-          "width": 888,
-          "height": 1280
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/024-7373ba37e9/original.jpg?v=1791230",
-          "width": 2221,
-          "height": 3200
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/025-f39de7aa78/medium.jpg",
-      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/025-f39de7aa78/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/025-f39de7aa78/thumb.jpg",
-          "width": 480,
-          "height": 279
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/025-f39de7aa78/medium.jpg",
-          "width": 1280,
-          "height": 745
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/025-f39de7aa78/original.jpg",
-          "width": 3840,
-          "height": 2234
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/026-9a5dd34297/medium.jpg",
-      "alt": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "caption": "Khoảng lặng cầu nguyện trong đêm tĩnh tâm tại Đan viện Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/026-9a5dd34297/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/026-9a5dd34297/thumb.jpg",
-          "width": 480,
-          "height": 288
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/026-9a5dd34297/medium.jpg",
-          "width": 1280,
-          "height": 769
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/026-9a5dd34297/original.jpg",
-          "width": 3840,
-          "height": 2306
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/027-8c78e3a971/medium.jpg",
-      "alt": "Các ca viên lãnh nhận Bí tích Hòa Giải trong kỳ tĩnh tâm.",
-      "caption": "Các ca viên lãnh nhận Bí tích Hòa Giải trong kỳ tĩnh tâm.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/027-8c78e3a971/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/027-8c78e3a971/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/027-8c78e3a971/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/027-8c78e3a971/original.jpg?v=1883823",
-          "width": 3200,
-          "height": 2134
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/028-7a4736de01/medium.jpg",
-      "alt": "Các ca viên lãnh nhận Bí tích Hòa Giải trong kỳ tĩnh tâm.",
-      "caption": "Các ca viên lãnh nhận Bí tích Hòa Giải trong kỳ tĩnh tâm.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/028-7a4736de01/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/028-7a4736de01/thumb.jpg",
-          "width": 320,
-          "height": 480
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/028-7a4736de01/medium.jpg",
-          "width": 854,
-          "height": 1280
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/028-7a4736de01/original.jpg?v=2200482",
-          "width": 2135,
-          "height": 3200
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/029-507bb51353/medium.jpg",
-      "alt": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
-      "caption": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/029-507bb51353/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/029-507bb51353/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/029-507bb51353/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/029-507bb51353/original.jpg?v=2132860",
-          "width": 3200,
-          "height": 2134
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/030-873e9fb953/medium.jpg",
-      "alt": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
-      "caption": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/030-873e9fb953/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/030-873e9fb953/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/030-873e9fb953/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/030-873e9fb953/original.jpg?v=2198579",
-          "width": 3200,
-          "height": 2134
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/031-c91fb807ee/medium.jpg",
-      "alt": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
-      "caption": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/031-c91fb807ee/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/031-c91fb807ee/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/031-c91fb807ee/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/031-c91fb807ee/original.jpg?v=2142182",
-          "width": 3200,
-          "height": 2134
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/032-372b2b4e25/medium.jpg",
-      "alt": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
-      "caption": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/032-372b2b4e25/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/032-372b2b4e25/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/032-372b2b4e25/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/032-372b2b4e25/original.jpg?v=2302725",
-          "width": 3200,
-          "height": 2134
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/033-91328f0b1e/medium.jpg",
-      "alt": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
-      "caption": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/033-91328f0b1e/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/033-91328f0b1e/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/033-91328f0b1e/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/033-91328f0b1e/original.jpg?v=2280142",
-          "width": 3200,
-          "height": 2134
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/034-e4f918ba3d/medium.jpg",
-      "alt": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
-      "caption": "Ca đoàn hiệp dâng Thánh lễ tại Đan viện Biển Đức Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/034-e4f918ba3d/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/034-e4f918ba3d/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/034-e4f918ba3d/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/034-e4f918ba3d/original.jpg?v=1981010",
-          "width": 3200,
-          "height": 2134
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/035-9bde27fe85/medium.jpg",
-      "alt": "Ca đoàn lưu lại kỷ niệm sau kỳ tĩnh tâm tại Đan viện Thiên Hà.",
-      "caption": "Ca đoàn lưu lại kỷ niệm sau kỳ tĩnh tâm tại Đan viện Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/035-9bde27fe85/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/035-9bde27fe85/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e2153e366db48fa650407ba5/thumb.webp",
           "width": 480,
           "height": 299
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/035-9bde27fe85/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e2153e366db48fa650407ba5/medium.webp",
           "width": 1280,
           "height": 797
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/035-9bde27fe85/original.jpg?v=2196512",
-          "width": 3200,
-          "height": 1993
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e2153e366db48fa650407ba5/original.webp",
+          "width": 2560,
+          "height": 1595
         }
       },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "ảnh bìa.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/036-8bf6b0cac0/medium.jpg",
-      "alt": "Ca đoàn lưu lại kỷ niệm sau kỳ tĩnh tâm tại Đan viện Thiên Hà.",
-      "caption": "Ca đoàn lưu lại kỷ niệm sau kỳ tĩnh tâm tại Đan viện Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/036-8bf6b0cac0/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/af6a45d8b20993358762bfd1/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/af6a45d8b20993358762bfd1/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/036-8bf6b0cac0/thumb.jpg",
-          "width": 480,
-          "height": 327
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/036-8bf6b0cac0/medium.jpg",
-          "width": 1280,
-          "height": 872
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/036-8bf6b0cac0/original.jpg?v=2293590",
-          "width": 3200,
-          "height": 2179
-        }
-      },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/037-02d919d00a/medium.jpg",
-      "alt": "Ca đoàn lưu lại kỷ niệm sau kỳ tĩnh tâm tại Đan viện Thiên Hà.",
-      "caption": "Ca đoàn lưu lại kỷ niệm sau kỳ tĩnh tâm tại Đan viện Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/037-02d919d00a/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/037-02d919d00a/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/af6a45d8b20993358762bfd1/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/037-02d919d00a/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/af6a45d8b20993358762bfd1/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/037-02d919d00a/original.jpg?v=2470494",
-          "width": 3200,
-          "height": 2135
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/af6a45d8b20993358762bfd1/original.webp",
+          "width": 2560,
+          "height": 1708
         }
       },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 1.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/038-3aec173e90/medium.jpg",
-      "alt": "Ca đoàn lưu lại kỷ niệm sau kỳ tĩnh tâm tại Đan viện Thiên Hà.",
-      "caption": "Ca đoàn lưu lại kỷ niệm sau kỳ tĩnh tâm tại Đan viện Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/038-3aec173e90/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fae668fb74063a9bf09e4f3f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fae668fb74063a9bf09e4f3f/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/038-3aec173e90/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fae668fb74063a9bf09e4f3f/thumb.webp",
           "width": 480,
-          "height": 319
+          "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/038-3aec173e90/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fae668fb74063a9bf09e4f3f/medium.webp",
           "width": 1280,
-          "height": 850
+          "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/038-3aec173e90/original.jpg?v=2367418",
-          "width": 3200,
-          "height": 2124
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fae668fb74063a9bf09e4f3f/original.webp",
+          "width": 2560,
+          "height": 1708
         }
       },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 2.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/039-26af1b2a26/medium.jpg",
-      "alt": "Ca đoàn lưu lại kỷ niệm sau kỳ tĩnh tâm tại Đan viện Thiên Hà.",
-      "caption": "Ca đoàn lưu lại kỷ niệm sau kỳ tĩnh tâm tại Đan viện Thiên Hà.",
-      "id": "media/2024/2024-tinh-tam-thien-ha/039-26af1b2a26/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/295cce949086d83277bd9862/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/295cce949086d83277bd9862/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/039-26af1b2a26/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/295cce949086d83277bd9862/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/295cce949086d83277bd9862/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/295cce949086d83277bd9862/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 3.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/75c3bb4899cd760a66da1b6a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/75c3bb4899cd760a66da1b6a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/75c3bb4899cd760a66da1b6a/thumb.webp",
+          "width": 480,
+          "height": 295
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/75c3bb4899cd760a66da1b6a/medium.webp",
+          "width": 1280,
+          "height": 786
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/75c3bb4899cd760a66da1b6a/original.webp",
+          "width": 2560,
+          "height": 1572
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 4.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bfea11191c33766ce924223e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bfea11191c33766ce924223e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bfea11191c33766ce924223e/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bfea11191c33766ce924223e/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bfea11191c33766ce924223e/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 5.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/27566a1082c22095773319d6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/27566a1082c22095773319d6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/27566a1082c22095773319d6/thumb.webp",
+          "width": 480,
+          "height": 317
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/27566a1082c22095773319d6/medium.webp",
+          "width": 1280,
+          "height": 845
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/27566a1082c22095773319d6/original.webp",
+          "width": 2560,
+          "height": 1689
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 6.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0d07b7977dd9e949f51f1949/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0d07b7977dd9e949f51f1949/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0d07b7977dd9e949f51f1949/thumb.webp",
+          "width": 480,
+          "height": 307
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0d07b7977dd9e949f51f1949/medium.webp",
+          "width": 1280,
+          "height": 818
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0d07b7977dd9e949f51f1949/original.webp",
+          "width": 2560,
+          "height": 1637
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 7.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/905dc77a87a4764f40b3934a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/905dc77a87a4764f40b3934a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/905dc77a87a4764f40b3934a/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/905dc77a87a4764f40b3934a/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/905dc77a87a4764f40b3934a/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 8.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/42d1416682d50fdf7cb886db/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/42d1416682d50fdf7cb886db/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/42d1416682d50fdf7cb886db/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/42d1416682d50fdf7cb886db/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/42d1416682d50fdf7cb886db/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 9.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/75a00b14e0ea208d88edea7e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/75a00b14e0ea208d88edea7e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/75a00b14e0ea208d88edea7e/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/75a00b14e0ea208d88edea7e/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/75a00b14e0ea208d88edea7e/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 10.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4c51fed0e18a705138c4f0ee/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4c51fed0e18a705138c4f0ee/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4c51fed0e18a705138c4f0ee/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4c51fed0e18a705138c4f0ee/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4c51fed0e18a705138c4f0ee/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 11.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/625678f1471a3c17ef064f52/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/625678f1471a3c17ef064f52/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/625678f1471a3c17ef064f52/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/625678f1471a3c17ef064f52/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/625678f1471a3c17ef064f52/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 12.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e7a0e8f501ecd851c0021013/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e7a0e8f501ecd851c0021013/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e7a0e8f501ecd851c0021013/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e7a0e8f501ecd851c0021013/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e7a0e8f501ecd851c0021013/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 13.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9296c2e4b6c327040157bf22/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9296c2e4b6c327040157bf22/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9296c2e4b6c327040157bf22/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9296c2e4b6c327040157bf22/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9296c2e4b6c327040157bf22/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 14.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/54352bc099505eaf2923eed7/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/54352bc099505eaf2923eed7/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/54352bc099505eaf2923eed7/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/54352bc099505eaf2923eed7/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/54352bc099505eaf2923eed7/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 15.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e5ba091e3f1e885164bb5d93/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e5ba091e3f1e885164bb5d93/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e5ba091e3f1e885164bb5d93/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e5ba091e3f1e885164bb5d93/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e5ba091e3f1e885164bb5d93/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 16.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a1e8419d02f33bec4d360e84/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a1e8419d02f33bec4d360e84/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a1e8419d02f33bec4d360e84/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a1e8419d02f33bec4d360e84/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a1e8419d02f33bec4d360e84/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 17.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e40d4ea1d38586b1c408b13b/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e40d4ea1d38586b1c408b13b/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e40d4ea1d38586b1c408b13b/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e40d4ea1d38586b1c408b13b/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e40d4ea1d38586b1c408b13b/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 18.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4f191e213fe41effa8e03026/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4f191e213fe41effa8e03026/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4f191e213fe41effa8e03026/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4f191e213fe41effa8e03026/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4f191e213fe41effa8e03026/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 19.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/c7637604fd1474fabe20c0fb/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/c7637604fd1474fabe20c0fb/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/c7637604fd1474fabe20c0fb/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/c7637604fd1474fabe20c0fb/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/c7637604fd1474fabe20c0fb/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 20.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b59779a3dfc4129c9e7ac3ad/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b59779a3dfc4129c9e7ac3ad/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b59779a3dfc4129c9e7ac3ad/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b59779a3dfc4129c9e7ac3ad/medium.webp",
+          "width": 854,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b59779a3dfc4129c9e7ac3ad/original.webp",
+          "width": 1708,
+          "height": 2560
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 21.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d06103c2861988ec944919a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d06103c2861988ec944919a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d06103c2861988ec944919a/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d06103c2861988ec944919a/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d06103c2861988ec944919a/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 22.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4ae2f15592bb60ab385d4fad/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4ae2f15592bb60ab385d4fad/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4ae2f15592bb60ab385d4fad/thumb.webp",
+          "width": 480,
+          "height": 293
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4ae2f15592bb60ab385d4fad/medium.webp",
+          "width": 1280,
+          "height": 780
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4ae2f15592bb60ab385d4fad/original.webp",
+          "width": 2560,
+          "height": 1561
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 23.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fb48e7464d2389faf804e3a8/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fb48e7464d2389faf804e3a8/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fb48e7464d2389faf804e3a8/thumb.webp",
+          "width": 333,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fb48e7464d2389faf804e3a8/medium.webp",
+          "width": 888,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fb48e7464d2389faf804e3a8/original.webp",
+          "width": 1777,
+          "height": 2560
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 24.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/21f1187ddd2a9d5cacb52fd5/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/21f1187ddd2a9d5cacb52fd5/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/21f1187ddd2a9d5cacb52fd5/thumb.webp",
+          "width": 480,
+          "height": 279
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/21f1187ddd2a9d5cacb52fd5/medium.webp",
+          "width": 1280,
+          "height": 745
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/21f1187ddd2a9d5cacb52fd5/original.webp",
+          "width": 2560,
+          "height": 1489
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 25.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/38127ee0b6e571212238e613/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/38127ee0b6e571212238e613/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/38127ee0b6e571212238e613/thumb.webp",
+          "width": 480,
+          "height": 288
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/38127ee0b6e571212238e613/medium.webp",
+          "width": 1280,
+          "height": 769
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/38127ee0b6e571212238e613/original.webp",
+          "width": 2560,
+          "height": 1538
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 26.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/508192a62920c114b90ed284/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/508192a62920c114b90ed284/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/508192a62920c114b90ed284/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/508192a62920c114b90ed284/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/508192a62920c114b90ed284/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 27.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/439ba1e85fa031426436f51c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/439ba1e85fa031426436f51c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/439ba1e85fa031426436f51c/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/439ba1e85fa031426436f51c/medium.webp",
+          "width": 854,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/439ba1e85fa031426436f51c/original.webp",
+          "width": 1708,
+          "height": 2560
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 28.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7cc716d81550e1fcb285b0fb/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7cc716d81550e1fcb285b0fb/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7cc716d81550e1fcb285b0fb/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7cc716d81550e1fcb285b0fb/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7cc716d81550e1fcb285b0fb/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 29.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/f3fe27aaa1a95c4b150198c5/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/f3fe27aaa1a95c4b150198c5/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/f3fe27aaa1a95c4b150198c5/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/f3fe27aaa1a95c4b150198c5/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/f3fe27aaa1a95c4b150198c5/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 30.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6ac267a10fef7b3b96a53e69/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6ac267a10fef7b3b96a53e69/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6ac267a10fef7b3b96a53e69/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6ac267a10fef7b3b96a53e69/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6ac267a10fef7b3b96a53e69/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 31.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/dba07075edea4c40523ecd83/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/dba07075edea4c40523ecd83/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/dba07075edea4c40523ecd83/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/dba07075edea4c40523ecd83/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/dba07075edea4c40523ecd83/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 32.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bcbcc03f3bea3024cf368158/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bcbcc03f3bea3024cf368158/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bcbcc03f3bea3024cf368158/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bcbcc03f3bea3024cf368158/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bcbcc03f3bea3024cf368158/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 33.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/67027e4bc427ddb5604a0615/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/67027e4bc427ddb5604a0615/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/67027e4bc427ddb5604a0615/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/67027e4bc427ddb5604a0615/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/67027e4bc427ddb5604a0615/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 34.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1e149bb568782a7b02f94b4a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1e149bb568782a7b02f94b4a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1e149bb568782a7b02f94b4a/thumb.webp",
           "width": 480,
           "height": 327
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/039-26af1b2a26/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1e149bb568782a7b02f94b4a/medium.webp",
           "width": 1280,
           "height": 872
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/039-26af1b2a26/original.jpg?v=2496939",
-          "width": 3200,
-          "height": 2180
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1e149bb568782a7b02f94b4a/original.webp",
+          "width": 2560,
+          "height": 1744
         }
       },
-      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 36.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/30d9482d69f9ad892e379602/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/30d9482d69f9ad892e379602/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/30d9482d69f9ad892e379602/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/30d9482d69f9ad892e379602/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/30d9482d69f9ad892e379602/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 37.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4b5544ee527bd04307b9c672/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4b5544ee527bd04307b9c672/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4b5544ee527bd04307b9c672/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4b5544ee527bd04307b9c672/medium.webp",
+          "width": 1280,
+          "height": 850
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4b5544ee527bd04307b9c672/original.webp",
+          "width": 2560,
+          "height": 1699
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 38.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/889837f78c40ade727136902/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/889837f78c40ade727136902/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/889837f78c40ade727136902/thumb.webp",
+          "width": 480,
+          "height": 327
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/889837f78c40ade727136902/medium.webp",
+          "width": 1280,
+          "height": 872
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/889837f78c40ade727136902/original.webp",
+          "width": 2560,
+          "height": 1744
+        }
+      },
+      "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+      "sourceFilename": "tĩnh tâm 39.jpg",
+      "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
     }
   ]
 }

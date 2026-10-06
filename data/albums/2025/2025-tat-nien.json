@@ -1,0 +1,737 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "activityId": "2025-tat-nien",
+  "title": "Ca đoàn tổ chức chương trình tất niên",
+  "count": 28,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/720c0464c3b0fc86caa26dc9/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/720c0464c3b0fc86caa26dc9/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/720c0464c3b0fc86caa26dc9/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/720c0464c3b0fc86caa26dc9/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/720c0464c3b0fc86caa26dc9/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "ảnh bìa.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/57e0e5b904cf1579b8778434/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/57e0e5b904cf1579b8778434/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/57e0e5b904cf1579b8778434/thumb.webp",
+          "width": 480,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/57e0e5b904cf1579b8778434/medium.webp",
+          "width": 1280,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/57e0e5b904cf1579b8778434/original.webp",
+          "width": 2048,
+          "height": 2048
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên3.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5e882a6e9fbe80a89f999479/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5e882a6e9fbe80a89f999479/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5e882a6e9fbe80a89f999479/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5e882a6e9fbe80a89f999479/medium.webp",
+          "width": 854,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5e882a6e9fbe80a89f999479/original.webp",
+          "width": 1366,
+          "height": 2048
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên4.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/62b28df792c1396b0cecc67f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/62b28df792c1396b0cecc67f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/62b28df792c1396b0cecc67f/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/62b28df792c1396b0cecc67f/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/62b28df792c1396b0cecc67f/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên5.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ee1559a9c66c31f7b94a4f8d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ee1559a9c66c31f7b94a4f8d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ee1559a9c66c31f7b94a4f8d/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ee1559a9c66c31f7b94a4f8d/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ee1559a9c66c31f7b94a4f8d/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên6.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/32aeeadab450df4339314688/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/32aeeadab450df4339314688/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/32aeeadab450df4339314688/thumb.webp",
+          "width": 480,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/32aeeadab450df4339314688/medium.webp",
+          "width": 1280,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/32aeeadab450df4339314688/original.webp",
+          "width": 2048,
+          "height": 2048
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên7.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/61ed10007da0c22772f7080e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/61ed10007da0c22772f7080e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/61ed10007da0c22772f7080e/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/61ed10007da0c22772f7080e/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/61ed10007da0c22772f7080e/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên8.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9ea8b6daf09c62a6586d33c9/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9ea8b6daf09c62a6586d33c9/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9ea8b6daf09c62a6586d33c9/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9ea8b6daf09c62a6586d33c9/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9ea8b6daf09c62a6586d33c9/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên9.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/37fab9aad519db5983dafcf8/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/37fab9aad519db5983dafcf8/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/37fab9aad519db5983dafcf8/thumb.webp",
+          "width": 480,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/37fab9aad519db5983dafcf8/medium.webp",
+          "width": 1280,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/37fab9aad519db5983dafcf8/original.webp",
+          "width": 2048,
+          "height": 2048
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên10.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5c0e4d900556262b3569fa4b/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5c0e4d900556262b3569fa4b/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5c0e4d900556262b3569fa4b/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5c0e4d900556262b3569fa4b/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5c0e4d900556262b3569fa4b/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên11.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a2e989990b28126817f72c9c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a2e989990b28126817f72c9c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a2e989990b28126817f72c9c/thumb.webp",
+          "width": 480,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a2e989990b28126817f72c9c/medium.webp",
+          "width": 1280,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a2e989990b28126817f72c9c/original.webp",
+          "width": 2048,
+          "height": 2048
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên12.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/087ba309811664296e999ea8/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/087ba309811664296e999ea8/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/087ba309811664296e999ea8/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/087ba309811664296e999ea8/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/087ba309811664296e999ea8/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên13.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c4f6104c3a2cd057507591a9/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c4f6104c3a2cd057507591a9/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c4f6104c3a2cd057507591a9/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c4f6104c3a2cd057507591a9/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c4f6104c3a2cd057507591a9/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên14.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/dfa6d1be6774d6f52bd1b657/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/dfa6d1be6774d6f52bd1b657/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/dfa6d1be6774d6f52bd1b657/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/dfa6d1be6774d6f52bd1b657/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/dfa6d1be6774d6f52bd1b657/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên15.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8470a93ab5fb862a8b13fccd/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8470a93ab5fb862a8b13fccd/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8470a93ab5fb862a8b13fccd/thumb.webp",
+          "width": 480,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8470a93ab5fb862a8b13fccd/medium.webp",
+          "width": 1280,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8470a93ab5fb862a8b13fccd/original.webp",
+          "width": 2048,
+          "height": 2048
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên16.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d7ed237dd625358634e04204/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d7ed237dd625358634e04204/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d7ed237dd625358634e04204/thumb.webp",
+          "width": 480,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d7ed237dd625358634e04204/medium.webp",
+          "width": 1280,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d7ed237dd625358634e04204/original.webp",
+          "width": 2048,
+          "height": 2048
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên17.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/52d6312ad4b531e8f7fdd145/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/52d6312ad4b531e8f7fdd145/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/52d6312ad4b531e8f7fdd145/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/52d6312ad4b531e8f7fdd145/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/52d6312ad4b531e8f7fdd145/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên18.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/965f3ce3f93964ab749cf7a7/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/965f3ce3f93964ab749cf7a7/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/965f3ce3f93964ab749cf7a7/thumb.webp",
+          "width": 480,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/965f3ce3f93964ab749cf7a7/medium.webp",
+          "width": 1280,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/965f3ce3f93964ab749cf7a7/original.webp",
+          "width": 2048,
+          "height": 2048
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên19.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e559bc1e56b594ec8e501d26/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e559bc1e56b594ec8e501d26/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e559bc1e56b594ec8e501d26/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e559bc1e56b594ec8e501d26/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e559bc1e56b594ec8e501d26/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên20.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f754df2d7fbf467548f74fb3/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f754df2d7fbf467548f74fb3/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f754df2d7fbf467548f74fb3/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f754df2d7fbf467548f74fb3/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f754df2d7fbf467548f74fb3/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên21.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/345d89d9171a0d11c6f129b6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/345d89d9171a0d11c6f129b6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/345d89d9171a0d11c6f129b6/thumb.webp",
+          "width": 480,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/345d89d9171a0d11c6f129b6/medium.webp",
+          "width": 1280,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/345d89d9171a0d11c6f129b6/original.webp",
+          "width": 2048,
+          "height": 2048
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên22.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/98493862a3afbfe2d8e37681/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/98493862a3afbfe2d8e37681/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/98493862a3afbfe2d8e37681/thumb.webp",
+          "width": 480,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/98493862a3afbfe2d8e37681/medium.webp",
+          "width": 1280,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/98493862a3afbfe2d8e37681/original.webp",
+          "width": 2048,
+          "height": 2048
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên23.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a51f95b46af6874d1e03a396/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a51f95b46af6874d1e03a396/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a51f95b46af6874d1e03a396/thumb.webp",
+          "width": 480,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a51f95b46af6874d1e03a396/medium.webp",
+          "width": 1280,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a51f95b46af6874d1e03a396/original.webp",
+          "width": 2048,
+          "height": 2048
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên24.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e85db58c82c2d8401b2541c8/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e85db58c82c2d8401b2541c8/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e85db58c82c2d8401b2541c8/thumb.webp",
+          "width": 480,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e85db58c82c2d8401b2541c8/medium.webp",
+          "width": 1280,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e85db58c82c2d8401b2541c8/original.webp",
+          "width": 2048,
+          "height": 2048
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên25.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/234d0494ee485227fd5024b2/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/234d0494ee485227fd5024b2/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/234d0494ee485227fd5024b2/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/234d0494ee485227fd5024b2/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/234d0494ee485227fd5024b2/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên26.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/10b7e8170eb707d5af18e16f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/10b7e8170eb707d5af18e16f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/10b7e8170eb707d5af18e16f/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/10b7e8170eb707d5af18e16f/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/10b7e8170eb707d5af18e16f/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên27.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2514b279b7a4f90be749a9f0/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2514b279b7a4f90be749a9f0/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2514b279b7a4f90be749a9f0/thumb.webp",
+          "width": 480,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2514b279b7a4f90be749a9f0/medium.webp",
+          "width": 1280,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2514b279b7a4f90be749a9f0/original.webp",
+          "width": 2048,
+          "height": 2048
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên28.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e33e8b20a9386c6762d9a3b1/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e33e8b20a9386c6762d9a3b1/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e33e8b20a9386c6762d9a3b1/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e33e8b20a9386c6762d9a3b1/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e33e8b20a9386c6762d9a3b1/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn tổ chức chương trình tất niên",
+      "caption": "Ca đoàn tổ chức chương trình tất niên",
+      "event": "Ca đoàn tổ chức chương trình tất niên",
+      "sourceFilename": "tất niên29.jpg",
+      "sourceDirectory": "Thánh lễ và chương trình tất niên tại Đền Giêrađô"
+    }
+  ]
+}

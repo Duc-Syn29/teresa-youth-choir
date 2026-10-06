@@ -2,261 +2,294 @@
   "schemaVersion": 1,
   "year": 2023,
   "activityId": "2023-hon-phoi-van-anh-an-sung",
-  "title": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
+  "title": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
   "count": 11,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/001/medium.jpg",
-      "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
-      "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 1",
-      "id": "media/2023/hon-phoi-van-anh-an-sung/001/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1643bc17c67023aa4a80f668/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1643bc17c67023aa4a80f668/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/001/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1643bc17c67023aa4a80f668/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/001/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1643bc17c67023aa4a80f668/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/001/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1643bc17c67023aa4a80f668/medium.webp",
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "alt": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "caption": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "event": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "sourceFilename": "ảnh bìa.jpg",
+      "sourceDirectory": "Lễ cưới Vân Anh 2023"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/002/medium.jpg",
-      "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
-      "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 2",
-      "id": "media/2023/hon-phoi-van-anh-an-sung/002/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/eb600c01ba674cc7a3f83126/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/eb600c01ba674cc7a3f83126/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/002/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/eb600c01ba674cc7a3f83126/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/002/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/eb600c01ba674cc7a3f83126/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/002/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/eb600c01ba674cc7a3f83126/medium.webp",
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "alt": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "caption": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "event": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "sourceFilename": "ảnh cưới1.jpg",
+      "sourceDirectory": "Lễ cưới Vân Anh 2023"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/003/medium.jpg",
-      "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
-      "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 3",
-      "id": "media/2023/hon-phoi-van-anh-an-sung/003/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f460cd7d9d4ff57999e98af8/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f460cd7d9d4ff57999e98af8/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/003/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f460cd7d9d4ff57999e98af8/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/003/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f460cd7d9d4ff57999e98af8/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/003/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f460cd7d9d4ff57999e98af8/medium.webp",
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "alt": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "caption": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "event": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "sourceFilename": "ảnh cưới2.jpg",
+      "sourceDirectory": "Lễ cưới Vân Anh 2023"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/004/medium.jpg",
-      "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
-      "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 4",
-      "id": "media/2023/hon-phoi-van-anh-an-sung/004/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/993fe949292e948de5d495b9/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/993fe949292e948de5d495b9/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/004/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/993fe949292e948de5d495b9/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/004/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/993fe949292e948de5d495b9/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/004/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/993fe949292e948de5d495b9/medium.webp",
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "alt": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "caption": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "event": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "sourceFilename": "ảnh cưới3.jpg",
+      "sourceDirectory": "Lễ cưới Vân Anh 2023"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/005/medium.jpg",
-      "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
-      "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 5",
-      "id": "media/2023/hon-phoi-van-anh-an-sung/005/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0c8eae86d50e081e7eda405f/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0c8eae86d50e081e7eda405f/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/005/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0c8eae86d50e081e7eda405f/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/005/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0c8eae86d50e081e7eda405f/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/005/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0c8eae86d50e081e7eda405f/medium.webp",
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "alt": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "caption": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "event": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "sourceFilename": "ảnh cưới4.jpg",
+      "sourceDirectory": "Lễ cưới Vân Anh 2023"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/006/medium.jpg",
-      "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
-      "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 6",
-      "id": "media/2023/hon-phoi-van-anh-an-sung/006/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c08e357e45a7026bf913e6a3/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c08e357e45a7026bf913e6a3/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/006/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c08e357e45a7026bf913e6a3/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/006/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c08e357e45a7026bf913e6a3/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/006/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c08e357e45a7026bf913e6a3/medium.webp",
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "alt": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "caption": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "event": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "sourceFilename": "ảnh cưới6.jpg",
+      "sourceDirectory": "Lễ cưới Vân Anh 2023"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/007/medium.jpg",
-      "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
-      "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 7",
-      "id": "media/2023/hon-phoi-van-anh-an-sung/007/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/14037b0a693f14e9f1dda2bf/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/14037b0a693f14e9f1dda2bf/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/007/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/14037b0a693f14e9f1dda2bf/thumb.webp",
           "width": 320,
           "height": 480
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/007/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/14037b0a693f14e9f1dda2bf/medium.webp",
           "width": 854,
           "height": 1280
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/007/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/14037b0a693f14e9f1dda2bf/medium.webp",
           "width": 854,
           "height": 1280
         }
-      }
+      },
+      "alt": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "caption": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "event": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "sourceFilename": "ảnh cưới7.jpg",
+      "sourceDirectory": "Lễ cưới Vân Anh 2023"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/008/medium.jpg",
-      "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
-      "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 8",
-      "id": "media/2023/hon-phoi-van-anh-an-sung/008/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cbb000f9ccf93b30d864d6c8/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cbb000f9ccf93b30d864d6c8/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/008/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cbb000f9ccf93b30d864d6c8/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/008/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cbb000f9ccf93b30d864d6c8/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/008/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cbb000f9ccf93b30d864d6c8/medium.webp",
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "alt": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "caption": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "event": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "sourceFilename": "ảnh cưới8.jpg",
+      "sourceDirectory": "Lễ cưới Vân Anh 2023"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/009/medium.jpg",
-      "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
-      "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 9",
-      "id": "media/2023/hon-phoi-van-anh-an-sung/009/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7cbbf86df6e439cb34057224/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7cbbf86df6e439cb34057224/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/009/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7cbbf86df6e439cb34057224/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/009/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7cbbf86df6e439cb34057224/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/009/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7cbbf86df6e439cb34057224/medium.webp",
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "alt": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "caption": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "event": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "sourceFilename": "ảnh cưới9.jpg",
+      "sourceDirectory": "Lễ cưới Vân Anh 2023"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/010/medium.jpg",
-      "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
-      "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 10",
-      "id": "media/2023/hon-phoi-van-anh-an-sung/010/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ba0621e738ee29627e21e1da/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ba0621e738ee29627e21e1da/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/010/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ba0621e738ee29627e21e1da/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/010/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ba0621e738ee29627e21e1da/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/010/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ba0621e738ee29627e21e1da/medium.webp",
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "alt": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "caption": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "event": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "sourceFilename": "ảnh cưới10.jpg",
+      "sourceDirectory": "Lễ cưới Vân Anh 2023"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/011/medium.jpg",
-      "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
-      "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 11",
-      "id": "media/2023/hon-phoi-van-anh-an-sung/011/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/76a84cbe437b16a9e342e526/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/76a84cbe437b16a9e342e526/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/011/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/76a84cbe437b16a9e342e526/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/011/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/76a84cbe437b16a9e342e526/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/011/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/76a84cbe437b16a9e342e526/medium.webp",
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "alt": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "caption": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "event": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+      "sourceFilename": "ảnh cưới11.jpg",
+      "sourceDirectory": "Lễ cưới Vân Anh 2023"
     }
   ]
 }

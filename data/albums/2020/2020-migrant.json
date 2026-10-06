@@ -6,165 +6,579 @@
   "count": 23,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/001.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "id": "media/2020/migrant/9f09b32b4eab7307/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/9f09b32b4eab7307/medium.jpg",
+      "alt": "Phục vụ Đại lễ Di dân 2020",
       "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/001.jpg",
-      "variants": {}
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "ảnh bìa.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/9f09b32b4eab7307/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/9f09b32b4eab7307/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/9f09b32b4eab7307/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/002.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "id": "media/2020/migrant/5261cd4c44b8474e/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/5261cd4c44b8474e/medium.jpg",
+      "alt": "Phục vụ Đại lễ Di dân 2020",
       "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/002.jpg",
-      "variants": {}
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "đại lễ di dân1.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/5261cd4c44b8474e/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/5261cd4c44b8474e/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/5261cd4c44b8474e/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/003.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "id": "media/2020/migrant/d7452883d1972e5c/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/d7452883d1972e5c/medium.jpg",
+      "alt": "Phục vụ Đại lễ Di dân 2020",
       "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/003.jpg",
-      "variants": {}
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "đại lễ di dân2.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/d7452883d1972e5c/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/d7452883d1972e5c/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/d7452883d1972e5c/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/004.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "id": "media/2020/migrant/b8ed25e2c8ff99c7/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/b8ed25e2c8ff99c7/medium.jpg",
+      "alt": "Phục vụ Đại lễ Di dân 2020",
       "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/004.jpg",
-      "variants": {}
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "đại lễ di dân3.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/b8ed25e2c8ff99c7/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/b8ed25e2c8ff99c7/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/b8ed25e2c8ff99c7/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/005.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "id": "media/2020/migrant/880a272ffc6ad1da/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/880a272ffc6ad1da/medium.jpg",
+      "alt": "Phục vụ Đại lễ Di dân 2020",
       "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/005.jpg",
-      "variants": {}
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "đại lễ di dân4.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/880a272ffc6ad1da/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/880a272ffc6ad1da/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/880a272ffc6ad1da/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/006.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "id": "media/2020/migrant/5466bd61b2988117/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/5466bd61b2988117/medium.jpg",
+      "alt": "Phục vụ Đại lễ Di dân 2020",
       "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/006.jpg",
-      "variants": {}
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "đại lễ di dân5.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/5466bd61b2988117/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/5466bd61b2988117/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/5466bd61b2988117/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/007.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "id": "media/2020/migrant/5148c71ce7ef9fe4/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/5148c71ce7ef9fe4/medium.jpg",
+      "alt": "Phục vụ Đại lễ Di dân 2020",
       "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/007.jpg",
-      "variants": {}
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "đại lễ di dân6.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/5148c71ce7ef9fe4/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/5148c71ce7ef9fe4/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/5148c71ce7ef9fe4/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/008.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
-      "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/008.jpg",
-      "variants": {}
+      "id": "media/2020/migrant/0c5322e47787f2ab/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/0c5322e47787f2ab/medium.jpg",
+      "alt": "Ca đoàn phục vụ Đại lễ Di dân",
+      "caption": "Ca đoàn phục vụ Đại lễ Di dân",
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "đại lễ di dân7.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/0c5322e47787f2ab/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/0c5322e47787f2ab/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/0c5322e47787f2ab/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/009.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "id": "media/2020/migrant/4ba5a20753013b98/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/4ba5a20753013b98/medium.jpg",
+      "alt": "Phục vụ Đại lễ Di dân 2020",
       "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/009.jpg",
-      "variants": {}
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "đại lễ di dân8.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/4ba5a20753013b98/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/4ba5a20753013b98/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/4ba5a20753013b98/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/010.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "id": "media/2020/migrant/fd0c4f06b49e773e/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/fd0c4f06b49e773e/medium.jpg",
+      "alt": "Phục vụ Đại lễ Di dân 2020",
       "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/010.jpg",
-      "variants": {}
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "đại lễ di dân10.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/fd0c4f06b49e773e/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/fd0c4f06b49e773e/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/fd0c4f06b49e773e/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/011.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "id": "media/2020/migrant/598699d6518de694/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/598699d6518de694/medium.jpg",
+      "alt": "Phục vụ Đại lễ Di dân 2020",
       "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/011.jpg",
-      "variants": {}
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "đại lễ di dân11.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/598699d6518de694/thumb.jpg",
+          "width": 480,
+          "height": 267
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/598699d6518de694/medium.jpg",
+          "width": 960,
+          "height": 534
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/598699d6518de694/original.jpg",
+          "width": 960,
+          "height": 534
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/012.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "id": "media/2020/migrant/d00075282196f174/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/d00075282196f174/medium.jpg",
+      "alt": "Phục vụ Đại lễ Di dân 2020",
       "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/012.jpg",
-      "variants": {}
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "đại lễ di dân12.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/d00075282196f174/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/d00075282196f174/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/d00075282196f174/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/013.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "id": "media/2020/migrant/2ecd771f34765986/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/2ecd771f34765986/medium.jpg",
+      "alt": "Phục vụ Đại lễ Di dân 2020",
       "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/013.jpg",
-      "variants": {}
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "đại lễ di dân13.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/2ecd771f34765986/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/2ecd771f34765986/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/2ecd771f34765986/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/014.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "id": "media/2020/migrant/23c45374acc369fa/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/23c45374acc369fa/medium.jpg",
+      "alt": "Phục vụ Đại lễ Di dân 2020",
       "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/014.jpg",
-      "variants": {}
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "đại lễ di dân14.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/23c45374acc369fa/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/23c45374acc369fa/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/23c45374acc369fa/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/015.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "id": "media/2020/migrant/a6eb76e4dee9deb0/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/a6eb76e4dee9deb0/medium.jpg",
+      "alt": "Phục vụ Đại lễ Di dân 2020",
       "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/015.jpg",
-      "variants": {}
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "đại lễ di dân15.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/a6eb76e4dee9deb0/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/a6eb76e4dee9deb0/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/a6eb76e4dee9deb0/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/016.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
-      "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/016.jpg",
-      "variants": {}
+      "id": "media/2020/migrant/224d3b1f6eb5d769/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/224d3b1f6eb5d769/medium.jpg",
+      "alt": "Các ca viên cất tiếng hát trong Đại lễ",
+      "caption": "Các ca viên cất tiếng hát trong Đại lễ",
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "đại lễ di dân16.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/224d3b1f6eb5d769/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/224d3b1f6eb5d769/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/224d3b1f6eb5d769/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/017.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "id": "media/2020/migrant/fd99ac0056d31a14/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/fd99ac0056d31a14/medium.jpg",
+      "alt": "Phục vụ Đại lễ Di dân 2020",
       "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/017.jpg",
-      "variants": {}
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "đại lễ di dân17.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/fd99ac0056d31a14/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/fd99ac0056d31a14/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/fd99ac0056d31a14/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/018.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "id": "media/2020/migrant/df1866afce0b26a6/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/df1866afce0b26a6/medium.jpg",
+      "alt": "Phục vụ Đại lễ Di dân 2020",
       "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/018.jpg",
-      "variants": {}
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "đại lễ di dân18.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/df1866afce0b26a6/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/df1866afce0b26a6/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/df1866afce0b26a6/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/019.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "id": "media/2020/migrant/bc46a9034150bcaf/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/bc46a9034150bcaf/medium.jpg",
+      "alt": "Phục vụ Đại lễ Di dân 2020",
       "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/019.jpg",
-      "variants": {}
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "đại lễ di dân19.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/bc46a9034150bcaf/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/bc46a9034150bcaf/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/bc46a9034150bcaf/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/020.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "id": "media/2020/migrant/bcb889783152eb38/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/bcb889783152eb38/medium.jpg",
+      "alt": "Phục vụ Đại lễ Di dân 2020",
       "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/020.jpg",
-      "variants": {}
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "đại lễ di dân20.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/bcb889783152eb38/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/bcb889783152eb38/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/bcb889783152eb38/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/021.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "id": "media/2020/migrant/3a1bf701005fc715/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/3a1bf701005fc715/medium.jpg",
+      "alt": "Phục vụ Đại lễ Di dân 2020",
       "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/021.jpg",
-      "variants": {}
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "đại lễ di dân21.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/3a1bf701005fc715/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/3a1bf701005fc715/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/3a1bf701005fc715/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/022.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
+      "id": "media/2020/migrant/6bd622bb03395b6d/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/6bd622bb03395b6d/medium.jpg",
+      "alt": "Phục vụ Đại lễ Di dân 2020",
       "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/022.jpg",
-      "variants": {}
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "đại lễ di dân22.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/6bd622bb03395b6d/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/6bd622bb03395b6d/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/6bd622bb03395b6d/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/023.jpg",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2020",
-      "caption": "Phục vụ Đại lễ Di dân 2020",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/023.jpg",
-      "variants": {}
+      "id": "media/2020/migrant/99a0ddc545904282/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/99a0ddc545904282/medium.jpg",
+      "alt": "Hiệp nhất trong lời ca phục vụ cộng đoàn",
+      "caption": "Hiệp nhất trong lời ca phục vụ cộng đoàn",
+      "event": "Phục vụ Đại lễ Di dân 2020",
+      "sourceFilename": "đại lễ di dân23.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/99a0ddc545904282/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/99a0ddc545904282/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/99a0ddc545904282/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     }
   ]
 }

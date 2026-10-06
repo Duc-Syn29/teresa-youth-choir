@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "activityId": "2025-giai-bong-da-gdcg-xa-que",
+  "title": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+  "count": 5,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/54187f131070ec019fbd80ed/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/54187f131070ec019fbd80ed/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/54187f131070ec019fbd80ed/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/54187f131070ec019fbd80ed/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/54187f131070ec019fbd80ed/medium.webp",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "alt": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+      "caption": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+      "event": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+      "sourceFilename": "ảnh bìa.jpg",
+      "sourceDirectory": "FC Ca đoàn dự Giải bóng đá Gia đình Công giáo Xa quê Hà Nội lần XVI"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddcb079c92b710c9a8fec7b6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddcb079c92b710c9a8fec7b6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddcb079c92b710c9a8fec7b6/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddcb079c92b710c9a8fec7b6/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddcb079c92b710c9a8fec7b6/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+      "caption": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+      "event": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+      "sourceFilename": "491928879_1083318387152981_3388251342234602023_n.jpg",
+      "sourceDirectory": "FC Ca đoàn dự Giải bóng đá Gia đình Công giáo Xa quê Hà Nội lần XVI"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/742625af77c85670ec3119de/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/742625af77c85670ec3119de/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/742625af77c85670ec3119de/thumb.webp",
+          "width": 480,
+          "height": 239
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/742625af77c85670ec3119de/medium.webp",
+          "width": 1280,
+          "height": 638
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/742625af77c85670ec3119de/original.webp",
+          "width": 1334,
+          "height": 665
+        }
+      },
+      "alt": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+      "caption": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+      "event": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+      "sourceFilename": "491970071_1080051700812983_3141745391765314985_n.jpg",
+      "sourceDirectory": "FC Ca đoàn dự Giải bóng đá Gia đình Công giáo Xa quê Hà Nội lần XVI"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/77b76502d805b1f42082b15e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/77b76502d805b1f42082b15e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/77b76502d805b1f42082b15e/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/77b76502d805b1f42082b15e/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/77b76502d805b1f42082b15e/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+      "caption": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+      "event": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+      "sourceFilename": "492001532_1083317010486452_6323035736306329550_n.jpg",
+      "sourceDirectory": "FC Ca đoàn dự Giải bóng đá Gia đình Công giáo Xa quê Hà Nội lần XVI"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b1186d1d35621c55d58283f6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b1186d1d35621c55d58283f6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b1186d1d35621c55d58283f6/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b1186d1d35621c55d58283f6/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b1186d1d35621c55d58283f6/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+      "caption": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+      "event": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+      "sourceFilename": "492400488_1083319983819488_3111674976341052193_n.jpg",
+      "sourceDirectory": "FC Ca đoàn dự Giải bóng đá Gia đình Công giáo Xa quê Hà Nội lần XVI"
+    }
+  ]
+}

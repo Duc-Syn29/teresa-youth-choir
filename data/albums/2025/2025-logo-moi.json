@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "activityId": "2025-logo-moi",
+  "title": "Công bố Logo mới",
+  "count": 4,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/47a2734e7871a2f97b5e9e81/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/47a2734e7871a2f97b5e9e81/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/47a2734e7871a2f97b5e9e81/thumb.webp",
+          "width": 480,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/47a2734e7871a2f97b5e9e81/medium.webp",
+          "width": 1280,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/47a2734e7871a2f97b5e9e81/original.webp",
+          "width": 2048,
+          "height": 2048
+        }
+      },
+      "alt": "Công bố Logo mới",
+      "caption": "Công bố Logo mới",
+      "event": "Công bố Logo mới",
+      "sourceFilename": "488314251_1610857073026786_6907314044736048935_n.jpg",
+      "sourceDirectory": "Công bố logo mới của ca đoàn"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6a2ace95fd30b315fec57435/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6a2ace95fd30b315fec57435/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6a2ace95fd30b315fec57435/thumb.webp",
+          "width": 480,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6a2ace95fd30b315fec57435/medium.webp",
+          "width": 1280,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6a2ace95fd30b315fec57435/original.webp",
+          "width": 2048,
+          "height": 2048
+        }
+      },
+      "alt": "Công bố Logo mới",
+      "caption": "Công bố Logo mới",
+      "event": "Công bố Logo mới",
+      "sourceFilename": "488705237_1610785823033911_1801344162026972614_n.jpg",
+      "sourceDirectory": "Công bố logo mới của ca đoàn"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8e86f000556e5704810bbb46/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8e86f000556e5704810bbb46/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8e86f000556e5704810bbb46/thumb.webp",
+          "width": 480,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8e86f000556e5704810bbb46/medium.webp",
+          "width": 1280,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8e86f000556e5704810bbb46/original.webp",
+          "width": 2048,
+          "height": 2048
+        }
+      },
+      "alt": "Công bố Logo mới",
+      "caption": "Công bố Logo mới",
+      "event": "Công bố Logo mới",
+      "sourceFilename": "488792684_1610785556367271_2002576428741208408_n.jpg",
+      "sourceDirectory": "Công bố logo mới của ca đoàn"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/67b2bec63e9edb1cd54ce7ad/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/67b2bec63e9edb1cd54ce7ad/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/67b2bec63e9edb1cd54ce7ad/thumb.webp",
+          "width": 480,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/67b2bec63e9edb1cd54ce7ad/medium.webp",
+          "width": 1280,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/67b2bec63e9edb1cd54ce7ad/original.webp",
+          "width": 2048,
+          "height": 2048
+        }
+      },
+      "alt": "Công bố Logo mới",
+      "caption": "Công bố Logo mới",
+      "event": "Công bố Logo mới",
+      "sourceFilename": "489169003_1610785786367248_3162498418054289657_n.jpg",
+      "sourceDirectory": "Công bố logo mới của ca đoàn"
+    }
+  ]
+}

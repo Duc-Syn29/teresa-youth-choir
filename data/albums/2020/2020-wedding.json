@@ -3,21 +3,182 @@
   "year": 2020,
   "activityId": "2020-wedding",
   "title": "Lễ cưới anh Phó Liêm – Dáng",
-  "count": 2,
+  "count": 7,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-wedding/001.jpg",
-      "alt": "Ảnh tư liệu: Lễ cưới anh Phó Liêm – Dáng",
+      "id": "media/2020/wedding/88fd0dee232ecbff/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/88fd0dee232ecbff/medium.jpg",
+      "alt": "Lễ cưới anh Phó Liêm – Dáng",
       "caption": "Lễ cưới anh Phó Liêm – Dáng",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-wedding/001.jpg",
-      "variants": {}
+      "event": "Lễ cưới anh Phó Liêm – Dáng",
+      "sourceFilename": "ảnh bìa.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/88fd0dee232ecbff/thumb.jpg",
+          "width": 480,
+          "height": 358
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/88fd0dee232ecbff/medium.jpg",
+          "width": 960,
+          "height": 715
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/88fd0dee232ecbff/original.jpg",
+          "width": 960,
+          "height": 715
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-wedding/002.jpg",
-      "alt": "Ảnh tư liệu: Lễ cưới anh Phó Liêm – Dáng",
+      "id": "media/2020/wedding/3351662d50ab1d1a/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/3351662d50ab1d1a/medium.jpg",
+      "alt": "Lễ cưới anh Phó Liêm – Dáng",
       "caption": "Lễ cưới anh Phó Liêm – Dáng",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-wedding/002.jpg",
-      "variants": {}
+      "event": "Lễ cưới anh Phó Liêm – Dáng",
+      "sourceFilename": "ảnh cưới2.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/3351662d50ab1d1a/thumb.jpg",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/3351662d50ab1d1a/medium.jpg",
+          "width": 640,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/3351662d50ab1d1a/original.jpg",
+          "width": 640,
+          "height": 960
+        }
+      }
+    },
+    {
+      "id": "media/2020/wedding/310275c6734788a2/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/310275c6734788a2/medium.jpg",
+      "alt": "Thánh lễ Hôn phối anh Phó Liêm – Dáng",
+      "caption": "Thánh lễ Hôn phối anh Phó Liêm – Dáng",
+      "event": "Lễ cưới anh Phó Liêm – Dáng",
+      "sourceFilename": "ảnh cưới3.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/310275c6734788a2/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/310275c6734788a2/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/310275c6734788a2/original.jpg",
+          "width": 2048,
+          "height": 1365
+        }
+      }
+    },
+    {
+      "id": "media/2020/wedding/9ea818b6e010cff4/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/9ea818b6e010cff4/medium.jpg",
+      "alt": "Lễ cưới anh Phó Liêm – Dáng",
+      "caption": "Lễ cưới anh Phó Liêm – Dáng",
+      "event": "Lễ cưới anh Phó Liêm – Dáng",
+      "sourceFilename": "ảnh cưới4.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/9ea818b6e010cff4/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/9ea818b6e010cff4/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/9ea818b6e010cff4/original.jpg",
+          "width": 2048,
+          "height": 1365
+        }
+      }
+    },
+    {
+      "id": "media/2020/wedding/87ccbf9c91355d52/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/87ccbf9c91355d52/medium.jpg",
+      "alt": "Nghi thức trong Thánh lễ Hôn phối",
+      "caption": "Nghi thức trong Thánh lễ Hôn phối",
+      "event": "Lễ cưới anh Phó Liêm – Dáng",
+      "sourceFilename": "ảnh cưới5.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/87ccbf9c91355d52/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/87ccbf9c91355d52/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/87ccbf9c91355d52/original.jpg",
+          "width": 2048,
+          "height": 1365
+        }
+      }
+    },
+    {
+      "id": "media/2020/wedding/802cdc38c22463f1/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/802cdc38c22463f1/medium.jpg",
+      "alt": "Lễ cưới anh Phó Liêm – Dáng",
+      "caption": "Lễ cưới anh Phó Liêm – Dáng",
+      "event": "Lễ cưới anh Phó Liêm – Dáng",
+      "sourceFilename": "ảnh cưới6.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/802cdc38c22463f1/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/802cdc38c22463f1/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/802cdc38c22463f1/original.jpg",
+          "width": 2048,
+          "height": 1365
+        }
+      }
+    },
+    {
+      "id": "media/2020/wedding/cd1bcd519b5eb7bd/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/cd1bcd519b5eb7bd/medium.jpg",
+      "alt": "Ca đoàn cất tiếng hát trong lễ cưới",
+      "caption": "Ca đoàn cất tiếng hát trong lễ cưới",
+      "event": "Lễ cưới anh Phó Liêm – Dáng",
+      "sourceFilename": "ảnh cưới7.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/cd1bcd519b5eb7bd/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/cd1bcd519b5eb7bd/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/cd1bcd519b5eb7bd/original.jpg",
+          "width": 2048,
+          "height": 1365
+        }
+      }
     }
   ]
 }

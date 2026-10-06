@@ -3,105 +3,111 @@
   "year": 2024,
   "activityId": "2024-bau-ban-dieu-hanh",
   "title": "Bầu ban điều hành nhiệm kỳ 2024–2026",
-  "topic": "Cộng đoàn",
-  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/001-0fac636af3/medium.jpg",
   "count": 4,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/001-0fac636af3/medium.jpg",
-      "alt": "Ban Điều Hành nhiệm kỳ 2024–2026.",
-      "caption": "Ban Điều Hành nhiệm kỳ 2024–2026.",
-      "id": "media/2024/2024-bau-ban-dieu-hanh/001-0fac636af3/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bb8be46659da8a2ad4d1a6e6/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bb8be46659da8a2ad4d1a6e6/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/001-0fac636af3/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bb8be46659da8a2ad4d1a6e6/thumb.webp",
           "width": 480,
           "height": 480
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/001-0fac636af3/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bb8be46659da8a2ad4d1a6e6/medium.webp",
           "width": 1280,
           "height": 1280
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/001-0fac636af3/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bb8be46659da8a2ad4d1a6e6/medium.webp",
           "width": 1280,
           "height": 1280
         }
       },
-      "event": "Bầu ban điều hành nhiệm kỳ 2024–2026"
+      "alt": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+      "caption": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+      "event": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+      "sourceFilename": "1789841313454_1995884631902468284_7736263391661925970_dd2ffad3a86323ae3ffdcf2f7f2bf58d.jpg",
+      "sourceDirectory": "Bầu bdh nhiệm kỳ 2024-2026"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/002-e671f8fd06/medium.jpg",
-      "alt": "Ban Điều Hành nhiệm kỳ 2024–2026.",
-      "caption": "Ban Điều Hành nhiệm kỳ 2024–2026.",
-      "id": "media/2024/2024-bau-ban-dieu-hanh/002-e671f8fd06/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7172be495db7fa430a0c922f/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7172be495db7fa430a0c922f/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/002-e671f8fd06/thumb.jpg",
-          "width": 341,
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7172be495db7fa430a0c922f/thumb.webp",
+          "width": 340,
           "height": 480
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/002-e671f8fd06/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7172be495db7fa430a0c922f/medium.webp",
           "width": 908,
           "height": 1280
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/002-e671f8fd06/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7172be495db7fa430a0c922f/medium.webp",
           "width": 908,
           "height": 1280
         }
       },
-      "event": "Bầu ban điều hành nhiệm kỳ 2024–2026"
+      "alt": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+      "caption": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+      "event": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+      "sourceFilename": "1789843777348_1995884631902468284_7736263391661925970_f8531e289b6967adea3ba1759ee37d0e.jpg",
+      "sourceDirectory": "Bầu bdh nhiệm kỳ 2024-2026"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/003-caeb01db74/medium.jpg",
-      "alt": "Ban Điều Hành nhiệm kỳ 2024–2026.",
-      "caption": "Ban Điều Hành nhiệm kỳ 2024–2026.",
-      "id": "media/2024/2024-bau-ban-dieu-hanh/003-caeb01db74/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2bcc9ea710cf2732a912ab78/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2bcc9ea710cf2732a912ab78/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/003-caeb01db74/thumb.jpg",
-          "width": 341,
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2bcc9ea710cf2732a912ab78/thumb.webp",
+          "width": 340,
           "height": 480
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/003-caeb01db74/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2bcc9ea710cf2732a912ab78/medium.webp",
           "width": 908,
           "height": 1280
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/003-caeb01db74/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2bcc9ea710cf2732a912ab78/medium.webp",
           "width": 908,
           "height": 1280
         }
       },
-      "event": "Bầu ban điều hành nhiệm kỳ 2024–2026"
+      "alt": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+      "caption": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+      "event": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+      "sourceFilename": "1789843777380_1995884631902468284_7736263391661925970_430669ce1bec27d0b138b84b32c43142.jpg",
+      "sourceDirectory": "Bầu bdh nhiệm kỳ 2024-2026"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/004-ec5ff66e1d/medium.jpg",
-      "alt": "Ban Điều Hành nhiệm kỳ 2024–2026.",
-      "caption": "Ban Điều Hành nhiệm kỳ 2024–2026.",
-      "id": "media/2024/2024-bau-ban-dieu-hanh/004-ec5ff66e1d/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5966acaa74970fdd9e3c1511/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5966acaa74970fdd9e3c1511/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/004-ec5ff66e1d/thumb.jpg",
-          "width": 341,
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5966acaa74970fdd9e3c1511/thumb.webp",
+          "width": 340,
           "height": 480
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/004-ec5ff66e1d/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5966acaa74970fdd9e3c1511/medium.webp",
           "width": 908,
           "height": 1280
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/004-ec5ff66e1d/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5966acaa74970fdd9e3c1511/medium.webp",
           "width": 908,
           "height": 1280
         }
       },
-      "event": "Bầu ban điều hành nhiệm kỳ 2024–2026"
+      "alt": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+      "caption": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+      "event": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+      "sourceFilename": "1789843781980_1995884631902468284_7736263391661925970_d406aae1cd887f8914dc49cd0b5a84ee.jpg",
+      "sourceDirectory": "Bầu bdh nhiệm kỳ 2024-2026"
     }
   ]
 }

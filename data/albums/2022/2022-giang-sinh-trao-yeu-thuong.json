@@ -6,395 +6,446 @@
   "count": 17,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/01/medium.jpg",
-      "alt": "Giáng Sinh trao yêu thương · ảnh 1",
-      "caption": "Đoàn thiện nguyện đến Điểm trường Tiểu học thôn Nà Tràng, xã Yên Định.",
-      "id": "media/2022/giang-sinh-trao-yeu-thuong/01/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/62f1a255d69d9ef394a446dd/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/62f1a255d69d9ef394a446dd/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/01/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/62f1a255d69d9ef394a446dd/thumb.webp",
           "width": 480,
           "height": 360
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/01/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/62f1a255d69d9ef394a446dd/medium.webp",
           "width": 1280,
           "height": 960
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/01/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/62f1a255d69d9ef394a446dd/medium.webp",
           "width": 1280,
           "height": 960
         }
-      }
+      },
+      "alt": "Giáng Sinh trao yêu thương",
+      "caption": "Giáng Sinh trao yêu thương",
+      "event": "Giáng Sinh trao yêu thương",
+      "sourceFilename": "ảnh bìa.jpg",
+      "sourceDirectory": "Thiện Nguyện 2022"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/02/medium.jpg",
-      "alt": "Giáng Sinh trao yêu thương · ảnh 2",
-      "caption": "Các thành viên chuẩn bị quà trao tặng tại Bắc Mê, Hà Giang.",
-      "id": "media/2022/giang-sinh-trao-yeu-thuong/02/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/dea2f9ad5375b0f7f18b2ba1/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/dea2f9ad5375b0f7f18b2ba1/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/02/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/dea2f9ad5375b0f7f18b2ba1/thumb.webp",
           "width": 480,
           "height": 360
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/02/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/dea2f9ad5375b0f7f18b2ba1/medium.webp",
           "width": 1280,
           "height": 960
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/02/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/dea2f9ad5375b0f7f18b2ba1/medium.webp",
           "width": 1280,
           "height": 960
         }
-      }
+      },
+      "alt": "Giáng Sinh trao yêu thương",
+      "caption": "Giáng Sinh trao yêu thương",
+      "event": "Giáng Sinh trao yêu thương",
+      "sourceFilename": "thiện nguyện1.jpg",
+      "sourceDirectory": "Thiện Nguyện 2022"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/03/medium.jpg",
-      "alt": "Giáng Sinh trao yêu thương · ảnh 3",
-      "caption": "Những phần quà được sắp xếp để gửi đến các gia đình vùng cao.",
-      "id": "media/2022/giang-sinh-trao-yeu-thuong/03/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/71322b49d984b6efc898b42b/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/71322b49d984b6efc898b42b/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/03/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/71322b49d984b6efc898b42b/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/71322b49d984b6efc898b42b/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/71322b49d984b6efc898b42b/medium.webp",
+          "width": 1280,
+          "height": 960
+        }
+      },
+      "alt": "Giáng Sinh trao yêu thương",
+      "caption": "Giáng Sinh trao yêu thương",
+      "event": "Giáng Sinh trao yêu thương",
+      "sourceFilename": "thiện nguyện2.jpg",
+      "sourceDirectory": "Thiện Nguyện 2022"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/c1acd0422514bddd7d65ac03/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/c1acd0422514bddd7d65ac03/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/c1acd0422514bddd7d65ac03/thumb.webp",
           "width": 360,
           "height": 480
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/03/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/c1acd0422514bddd7d65ac03/medium.webp",
           "width": 960,
           "height": 1280
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/03/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/c1acd0422514bddd7d65ac03/medium.webp",
           "width": 960,
           "height": 1280
         }
-      }
+      },
+      "alt": "Giáng Sinh trao yêu thương",
+      "caption": "Giáng Sinh trao yêu thương",
+      "event": "Giáng Sinh trao yêu thương",
+      "sourceFilename": "thiện nguyện3.jpg",
+      "sourceDirectory": "Thiện Nguyện 2022"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/04/medium.jpg",
-      "alt": "Giáng Sinh trao yêu thương · ảnh 4",
-      "caption": "Ca viên cùng người dân chuyển chăn ấm và nhu yếu phẩm.",
-      "id": "media/2022/giang-sinh-trao-yeu-thuong/04/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/d5f1644c5d0ba364d11962d1/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/d5f1644c5d0ba364d11962d1/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/04/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/d5f1644c5d0ba364d11962d1/thumb.webp",
           "width": 360,
           "height": 480
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/04/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/d5f1644c5d0ba364d11962d1/medium.webp",
           "width": 960,
           "height": 1280
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/04/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/d5f1644c5d0ba364d11962d1/medium.webp",
           "width": 960,
           "height": 1280
         }
-      }
+      },
+      "alt": "Giáng Sinh trao yêu thương",
+      "caption": "Giáng Sinh trao yêu thương",
+      "event": "Giáng Sinh trao yêu thương",
+      "sourceFilename": "thiện nguyện4.jpg",
+      "sourceDirectory": "Thiện Nguyện 2022"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/05/medium.jpg",
-      "alt": "Giáng Sinh trao yêu thương · ảnh 5",
-      "caption": "Các thành viên thăm hỏi và sẻ chia với bà con địa phương.",
-      "id": "media/2022/giang-sinh-trao-yeu-thuong/05/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/e6c304cf6b5176bbfcaf4795/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/e6c304cf6b5176bbfcaf4795/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/05/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/e6c304cf6b5176bbfcaf4795/thumb.webp",
           "width": 480,
           "height": 360
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/05/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/e6c304cf6b5176bbfcaf4795/medium.webp",
           "width": 1280,
           "height": 960
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/05/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/e6c304cf6b5176bbfcaf4795/medium.webp",
           "width": 1280,
           "height": 960
         }
-      }
+      },
+      "alt": "Giáng Sinh trao yêu thương",
+      "caption": "Giáng Sinh trao yêu thương",
+      "event": "Giáng Sinh trao yêu thương",
+      "sourceFilename": "thiện nguyện5.jpg",
+      "sourceDirectory": "Thiện Nguyện 2022"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/06/medium.jpg",
-      "alt": "Giáng Sinh trao yêu thương · ảnh 6",
-      "caption": "Quà Giáng Sinh được trao tận tay các gia đình tại Yên Định.",
-      "id": "media/2022/giang-sinh-trao-yeu-thuong/06/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/1af83fce183df5b3555d68dd/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/1af83fce183df5b3555d68dd/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/06/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/1af83fce183df5b3555d68dd/thumb.webp",
           "width": 480,
           "height": 360
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/06/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/1af83fce183df5b3555d68dd/medium.webp",
           "width": 1280,
           "height": 960
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/06/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/1af83fce183df5b3555d68dd/medium.webp",
           "width": 1280,
           "height": 960
         }
-      }
+      },
+      "alt": "Giáng Sinh trao yêu thương",
+      "caption": "Giáng Sinh trao yêu thương",
+      "event": "Giáng Sinh trao yêu thương",
+      "sourceFilename": "thiện nguyện6.jpg",
+      "sourceDirectory": "Thiện Nguyện 2022"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/07/medium.jpg",
-      "alt": "Giáng Sinh trao yêu thương · ảnh 7",
-      "caption": "Ca đoàn đồng hành cùng người dân trong chuyến thiện nguyện cuối năm.",
-      "id": "media/2022/giang-sinh-trao-yeu-thuong/07/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/9a49540bbf91cb05552e6399/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/9a49540bbf91cb05552e6399/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/07/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/9a49540bbf91cb05552e6399/thumb.webp",
           "width": 480,
           "height": 360
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/07/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/9a49540bbf91cb05552e6399/medium.webp",
           "width": 1280,
           "height": 960
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/07/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/9a49540bbf91cb05552e6399/medium.webp",
           "width": 1280,
           "height": 960
         }
-      }
+      },
+      "alt": "Giáng Sinh trao yêu thương",
+      "caption": "Giáng Sinh trao yêu thương",
+      "event": "Giáng Sinh trao yêu thương",
+      "sourceFilename": "thiện nguyện7.jpg",
+      "sourceDirectory": "Thiện Nguyện 2022"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/08/medium.jpg",
-      "alt": "Giáng Sinh trao yêu thương · ảnh 8",
-      "caption": "Những phần quà thiết thực được trao đến bà con vùng cao.",
-      "id": "media/2022/giang-sinh-trao-yeu-thuong/08/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/9f5e260fccf12d55c3128d6e/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/9f5e260fccf12d55c3128d6e/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/08/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/9f5e260fccf12d55c3128d6e/thumb.webp",
           "width": 480,
           "height": 360
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/08/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/9f5e260fccf12d55c3128d6e/medium.webp",
           "width": 1280,
           "height": 960
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/08/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/9f5e260fccf12d55c3128d6e/medium.webp",
           "width": 1280,
           "height": 960
         }
-      }
+      },
+      "alt": "Giáng Sinh trao yêu thương",
+      "caption": "Giáng Sinh trao yêu thương",
+      "event": "Giáng Sinh trao yêu thương",
+      "sourceFilename": "thiện nguyện8.jpg",
+      "sourceDirectory": "Thiện Nguyện 2022"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/09/medium.jpg",
-      "alt": "Giáng Sinh trao yêu thương · ảnh 9",
-      "caption": "Niềm vui sẻ chia trong chương trình “Giáng Sinh trao yêu thương”.",
-      "id": "media/2022/giang-sinh-trao-yeu-thuong/09/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/d573cd5ff5d9097439e3735d/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/d573cd5ff5d9097439e3735d/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/09/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/d573cd5ff5d9097439e3735d/thumb.webp",
           "width": 480,
           "height": 360
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/09/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/d573cd5ff5d9097439e3735d/medium.webp",
           "width": 1280,
           "height": 960
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/09/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/d573cd5ff5d9097439e3735d/medium.webp",
           "width": 1280,
           "height": 960
         }
-      }
+      },
+      "alt": "Giáng Sinh trao yêu thương",
+      "caption": "Giáng Sinh trao yêu thương",
+      "event": "Giáng Sinh trao yêu thương",
+      "sourceFilename": "thiện nguyện9.jpg",
+      "sourceDirectory": "Thiện Nguyện 2022"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/10/medium.jpg",
-      "alt": "Giáng Sinh trao yêu thương · ảnh 10",
-      "caption": "Các thành viên mang quà đến từng điểm trao tặng.",
-      "id": "media/2022/giang-sinh-trao-yeu-thuong/10/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/21398cd53484a914e7a96ab7/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/21398cd53484a914e7a96ab7/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/10/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/21398cd53484a914e7a96ab7/thumb.webp",
           "width": 480,
           "height": 360
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/10/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/21398cd53484a914e7a96ab7/medium.webp",
           "width": 1280,
           "height": 960
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/10/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/21398cd53484a914e7a96ab7/medium.webp",
           "width": 1280,
           "height": 960
         }
-      }
+      },
+      "alt": "Giáng Sinh trao yêu thương",
+      "caption": "Giáng Sinh trao yêu thương",
+      "event": "Giáng Sinh trao yêu thương",
+      "sourceFilename": "thiện nguyện10.jpg",
+      "sourceDirectory": "Thiện Nguyện 2022"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/11/medium.jpg",
-      "alt": "Giáng Sinh trao yêu thương · ảnh 11",
-      "caption": "Ca đoàn gặp gỡ các em nhỏ và người dân tại Bắc Mê.",
-      "id": "media/2022/giang-sinh-trao-yeu-thuong/11/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/14165301efe1487f903371bd/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/14165301efe1487f903371bd/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/11/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/14165301efe1487f903371bd/thumb.webp",
           "width": 480,
           "height": 360
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/11/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/14165301efe1487f903371bd/medium.webp",
           "width": 1280,
           "height": 960
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/11/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/14165301efe1487f903371bd/medium.webp",
           "width": 1280,
           "height": 960
         }
-      }
+      },
+      "alt": "Giáng Sinh trao yêu thương",
+      "caption": "Giáng Sinh trao yêu thương",
+      "event": "Giáng Sinh trao yêu thương",
+      "sourceFilename": "thiện nguyện11.jpg",
+      "sourceDirectory": "Thiện Nguyện 2022"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/12/medium.jpg",
-      "alt": "Giáng Sinh trao yêu thương · ảnh 12",
-      "caption": "Đoàn thiện nguyện lưu ảnh cùng bà con sau khi trao quà.",
-      "id": "media/2022/giang-sinh-trao-yeu-thuong/12/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/85f801bea4c810ced02e13d3/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/85f801bea4c810ced02e13d3/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/12/thumb.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/12/medium.jpg",
-          "width": 1280,
-          "height": 960
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/12/original.jpg",
-          "width": 1280,
-          "height": 960
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/13/medium.jpg",
-      "alt": "Giáng Sinh trao yêu thương · ảnh 13",
-      "caption": "Những chiếc chăn ấm được gửi đến các gia đình trong mùa đông.",
-      "id": "media/2022/giang-sinh-trao-yeu-thuong/13/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/13/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/85f801bea4c810ced02e13d3/thumb.webp",
           "width": 360,
           "height": 480
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/13/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/85f801bea4c810ced02e13d3/medium.webp",
           "width": 960,
           "height": 1280
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/13/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/85f801bea4c810ced02e13d3/medium.webp",
           "width": 960,
           "height": 1280
         }
-      }
+      },
+      "alt": "Giáng Sinh trao yêu thương",
+      "caption": "Giáng Sinh trao yêu thương",
+      "event": "Giáng Sinh trao yêu thương",
+      "sourceFilename": "thiện nguyện13.jpg",
+      "sourceDirectory": "Thiện Nguyện 2022"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/14/medium.jpg",
-      "alt": "Giáng Sinh trao yêu thương · ảnh 14",
-      "caption": "Tình cảm của ca đoàn được trao gửi qua từng phần quà nhỏ.",
-      "id": "media/2022/giang-sinh-trao-yeu-thuong/14/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/5c09af63aed2102dcfdea3b0/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/5c09af63aed2102dcfdea3b0/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/14/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/5c09af63aed2102dcfdea3b0/thumb.webp",
           "width": 360,
           "height": 480
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/14/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/5c09af63aed2102dcfdea3b0/medium.webp",
           "width": 960,
           "height": 1280
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/14/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/5c09af63aed2102dcfdea3b0/medium.webp",
           "width": 960,
           "height": 1280
         }
-      }
+      },
+      "alt": "Giáng Sinh trao yêu thương",
+      "caption": "Giáng Sinh trao yêu thương",
+      "event": "Giáng Sinh trao yêu thương",
+      "sourceFilename": "thiện nguyện14.jpg",
+      "sourceDirectory": "Thiện Nguyện 2022"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/15/medium.jpg",
-      "alt": "Giáng Sinh trao yêu thương · ảnh 15",
-      "caption": "Các thành viên cùng người dân hoàn tất buổi trao quà.",
-      "id": "media/2022/giang-sinh-trao-yeu-thuong/15/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/398586f167c137396ac37aa3/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/398586f167c137396ac37aa3/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/15/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/398586f167c137396ac37aa3/thumb.webp",
           "width": 480,
           "height": 360
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/15/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/398586f167c137396ac37aa3/medium.webp",
           "width": 1280,
           "height": 960
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/15/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/398586f167c137396ac37aa3/medium.webp",
           "width": 1280,
           "height": 960
         }
-      }
+      },
+      "alt": "Giáng Sinh trao yêu thương",
+      "caption": "Giáng Sinh trao yêu thương",
+      "event": "Giáng Sinh trao yêu thương",
+      "sourceFilename": "thiện nguyện15.jpg",
+      "sourceDirectory": "Thiện Nguyện 2022"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/16/medium.jpg",
-      "alt": "Giáng Sinh trao yêu thương · ảnh 16",
-      "caption": "Khoảnh khắc gặp gỡ ấm áp trong chuyến đi Hà Giang.",
-      "id": "media/2022/giang-sinh-trao-yeu-thuong/16/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/064c6e93eccc82717fd3dc9c/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/064c6e93eccc82717fd3dc9c/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/16/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/064c6e93eccc82717fd3dc9c/thumb.webp",
           "width": 360,
           "height": 480
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/16/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/064c6e93eccc82717fd3dc9c/medium.webp",
           "width": 960,
           "height": 1280
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/16/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/064c6e93eccc82717fd3dc9c/medium.webp",
           "width": 960,
           "height": 1280
         }
-      }
+      },
+      "alt": "Giáng Sinh trao yêu thương",
+      "caption": "Giáng Sinh trao yêu thương",
+      "event": "Giáng Sinh trao yêu thương",
+      "sourceFilename": "thiện nguyện16.jpg",
+      "sourceDirectory": "Thiện Nguyện 2022"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/17/medium.jpg",
-      "alt": "Giáng Sinh trao yêu thương · ảnh 17",
-      "caption": "Ca đoàn và bà con lưu lại kỷ niệm của hành trình sẻ chia.",
-      "id": "media/2022/giang-sinh-trao-yeu-thuong/17/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/4726d740f1c6511301c1ba41/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/4726d740f1c6511301c1ba41/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/17/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/4726d740f1c6511301c1ba41/thumb.webp",
           "width": 480,
           "height": 360
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/17/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/4726d740f1c6511301c1ba41/medium.webp",
           "width": 1280,
           "height": 960
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/17/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/4726d740f1c6511301c1ba41/medium.webp",
           "width": 1280,
           "height": 960
         }
-      }
+      },
+      "alt": "Giáng Sinh trao yêu thương",
+      "caption": "Giáng Sinh trao yêu thương",
+      "event": "Giáng Sinh trao yêu thương",
+      "sourceFilename": "thiện nguyện17.jpg",
+      "sourceDirectory": "Thiện Nguyện 2022"
     }
   ]
 }

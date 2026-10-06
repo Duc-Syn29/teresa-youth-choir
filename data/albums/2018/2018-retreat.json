@@ -2,85 +2,283 @@
   "schemaVersion": 1,
   "year": 2018,
   "activityId": "2018-retreat",
-  "title": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
+  "title": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
   "count": 11,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/001.jpg",
-      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 1",
-      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/001.jpg",
-      "variants": {}
+      "id": "media/2018/retreat/a1948fdc7d699bb5/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/a1948fdc7d699bb5/medium.jpg",
+      "alt": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "sourceFilename": "ảnh bìa.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/a1948fdc7d699bb5/thumb.jpg",
+          "width": 480,
+          "height": 477
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/a1948fdc7d699bb5/medium.jpg",
+          "width": 724,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/a1948fdc7d699bb5/original.jpg",
+          "width": 724,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/002.jpg",
-      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 2",
-      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/002.jpg",
-      "variants": {}
+      "id": "media/2018/retreat/232ccc95c7bd92e5/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/232ccc95c7bd92e5/medium.jpg",
+      "alt": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "sourceFilename": "tĩnh tâm1.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/232ccc95c7bd92e5/thumb.jpg",
+          "width": 480,
+          "height": 240
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/232ccc95c7bd92e5/medium.jpg",
+          "width": 960,
+          "height": 480
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/232ccc95c7bd92e5/original.jpg",
+          "width": 960,
+          "height": 480
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/003.jpg",
-      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 3",
-      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/003.jpg",
-      "variants": {}
+      "id": "media/2018/retreat/83a7a4b614d392bb/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/83a7a4b614d392bb/medium.jpg",
+      "alt": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "sourceFilename": "tĩnh tâm2.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/83a7a4b614d392bb/thumb.jpg",
+          "width": 480,
+          "height": 192
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/83a7a4b614d392bb/medium.jpg",
+          "width": 1136,
+          "height": 455
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/83a7a4b614d392bb/original.jpg",
+          "width": 1136,
+          "height": 455
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/004.jpg",
-      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 4",
-      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/004.jpg",
-      "variants": {}
+      "id": "media/2018/retreat/60d6c7aac315a03b/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/60d6c7aac315a03b/medium.jpg",
+      "alt": "Ca đoàn cùng cộng đoàn Giáo xứ Mông Sơn",
+      "caption": "Ca đoàn cùng cộng đoàn Giáo xứ Mông Sơn",
+      "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "sourceFilename": "tĩnh tâm3.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/60d6c7aac315a03b/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/60d6c7aac315a03b/medium.jpg",
+          "width": 1225,
+          "height": 817
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/60d6c7aac315a03b/original.jpg",
+          "width": 1225,
+          "height": 817
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/005.jpg",
-      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 5",
-      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/005.jpg",
-      "variants": {}
+      "id": "media/2018/retreat/870405a00e3be3a7/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/870405a00e3be3a7/medium.jpg",
+      "alt": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "sourceFilename": "tĩnh tâm4.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/870405a00e3be3a7/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/870405a00e3be3a7/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/870405a00e3be3a7/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/006.jpg",
-      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 6",
-      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/006.jpg",
-      "variants": {}
+      "id": "media/2018/retreat/feb0f60dd546ec73/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/feb0f60dd546ec73/medium.jpg",
+      "alt": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "sourceFilename": "tĩnh tâm5.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/feb0f60dd546ec73/thumb.jpg",
+          "width": 480,
+          "height": 359
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/feb0f60dd546ec73/medium.jpg",
+          "width": 1080,
+          "height": 807
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/feb0f60dd546ec73/original.jpg",
+          "width": 1080,
+          "height": 807
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/007.jpg",
-      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 7",
-      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/007.jpg",
-      "variants": {}
+      "id": "media/2018/retreat/cc268f59b289af55/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/cc268f59b289af55/medium.jpg",
+      "alt": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "sourceFilename": "tĩnh tâm6.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/cc268f59b289af55/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/cc268f59b289af55/medium.jpg",
+          "width": 552,
+          "height": 368
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/cc268f59b289af55/original.jpg",
+          "width": 552,
+          "height": 368
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/008.jpg",
-      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 8",
-      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/008.jpg",
-      "variants": {}
+      "id": "media/2018/retreat/49bd9a5bc4967967/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/49bd9a5bc4967967/medium.jpg",
+      "alt": "Các ca viên trên hành trình tĩnh tâm",
+      "caption": "Các ca viên trên hành trình tĩnh tâm",
+      "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "sourceFilename": "tĩnh tâm7.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/49bd9a5bc4967967/thumb.jpg",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/49bd9a5bc4967967/medium.jpg",
+          "width": 720,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/49bd9a5bc4967967/original.jpg",
+          "width": 720,
+          "height": 960
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/009.jpg",
-      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 9",
-      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/009.jpg",
-      "variants": {}
+      "id": "media/2018/retreat/b329311ebdb17593/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/b329311ebdb17593/medium.jpg",
+      "alt": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "sourceFilename": "tĩnh tâm8.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/b329311ebdb17593/thumb.jpg",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/b329311ebdb17593/medium.jpg",
+          "width": 720,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/b329311ebdb17593/original.jpg",
+          "width": 720,
+          "height": 960
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/010.jpg",
-      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 10",
-      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/010.jpg",
-      "variants": {}
+      "id": "media/2018/retreat/f187653cfc92e428/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/f187653cfc92e428/medium.jpg",
+      "alt": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "sourceFilename": "tĩnh tâm10.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/f187653cfc92e428/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/f187653cfc92e428/medium.jpg",
+          "width": 552,
+          "height": 368
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/f187653cfc92e428/original.jpg",
+          "width": 552,
+          "height": 368
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/011.jpg",
-      "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 11",
-      "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/011.jpg",
-      "variants": {}
+      "id": "media/2018/retreat/a4bafb323817cdbe/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/a4bafb323817cdbe/medium.jpg",
+      "alt": "Giờ cầu nguyện trong chuyến tĩnh tâm",
+      "caption": "Giờ cầu nguyện trong chuyến tĩnh tâm",
+      "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+      "sourceFilename": "tĩnh tâm11.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/a4bafb323817cdbe/thumb.jpg",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/a4bafb323817cdbe/medium.jpg",
+          "width": 720,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/a4bafb323817cdbe/original.jpg",
+          "width": 720,
+          "height": 960
+        }
+      }
     }
   ]
 }

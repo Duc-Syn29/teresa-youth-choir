@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "activityId": "2025-dai-le-di-dan",
+  "title": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+  "count": 14,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/184e6a7838baf8ab7384ad48/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/184e6a7838baf8ab7384ad48/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/184e6a7838baf8ab7384ad48/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/184e6a7838baf8ab7384ad48/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/184e6a7838baf8ab7384ad48/original.webp",
+          "width": 2048,
+          "height": 1363
+        }
+      },
+      "alt": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "caption": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "event": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "sourceFilename": "ảnh bìa.jpg",
+      "sourceDirectory": "Thánh lễ khai mạc Đại lễ Di dân 2025 và tiết mục hợp xướng trong chương trình Hoan ca"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c5a534150db374d80a260363/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c5a534150db374d80a260363/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c5a534150db374d80a260363/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c5a534150db374d80a260363/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c5a534150db374d80a260363/original.webp",
+          "width": 2048,
+          "height": 1363
+        }
+      },
+      "alt": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "caption": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "event": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "sourceFilename": "588481581_1797991400980018_6332068408305832812_n.jpg",
+      "sourceDirectory": "Thánh lễ khai mạc Đại lễ Di dân 2025 và tiết mục hợp xướng trong chương trình Hoan ca"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/75f2e305dc468b446dad1ddb/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/75f2e305dc468b446dad1ddb/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/75f2e305dc468b446dad1ddb/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/75f2e305dc468b446dad1ddb/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/75f2e305dc468b446dad1ddb/original.webp",
+          "width": 2048,
+          "height": 1363
+        }
+      },
+      "alt": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "caption": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "event": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "sourceFilename": "588567582_1797987824313709_3464331759024505546_n.jpg",
+      "sourceDirectory": "Thánh lễ khai mạc Đại lễ Di dân 2025 và tiết mục hợp xướng trong chương trình Hoan ca"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b7411aaaab2b71f6faa6efbb/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b7411aaaab2b71f6faa6efbb/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b7411aaaab2b71f6faa6efbb/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b7411aaaab2b71f6faa6efbb/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b7411aaaab2b71f6faa6efbb/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "caption": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "event": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "sourceFilename": "588875149_1797987827647042_8543560436707379585_n.jpg",
+      "sourceDirectory": "Thánh lễ khai mạc Đại lễ Di dân 2025 và tiết mục hợp xướng trong chương trình Hoan ca"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7dabc424262335381dbbb882/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7dabc424262335381dbbb882/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7dabc424262335381dbbb882/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7dabc424262335381dbbb882/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7dabc424262335381dbbb882/original.webp",
+          "width": 2048,
+          "height": 1363
+        }
+      },
+      "alt": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "caption": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "event": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "sourceFilename": "588949989_1797987917647033_6816312669476106493_n.jpg",
+      "sourceDirectory": "Thánh lễ khai mạc Đại lễ Di dân 2025 và tiết mục hợp xướng trong chương trình Hoan ca"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b15476c01f3b62f2505b1251/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b15476c01f3b62f2505b1251/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b15476c01f3b62f2505b1251/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b15476c01f3b62f2505b1251/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b15476c01f3b62f2505b1251/original.webp",
+          "width": 2048,
+          "height": 1363
+        }
+      },
+      "alt": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "caption": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "event": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "sourceFilename": "588953588_1797993900979768_8847814799397360109_n.jpg",
+      "sourceDirectory": "Thánh lễ khai mạc Đại lễ Di dân 2025 và tiết mục hợp xướng trong chương trình Hoan ca"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/277940caf1c2819763171953/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/277940caf1c2819763171953/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/277940caf1c2819763171953/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/277940caf1c2819763171953/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/277940caf1c2819763171953/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "caption": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "event": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "sourceFilename": "589131391_1797987857647039_5086271621174046849_n.jpg",
+      "sourceDirectory": "Thánh lễ khai mạc Đại lễ Di dân 2025 và tiết mục hợp xướng trong chương trình Hoan ca"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2ddc4cffb5e5517ba2c0b98a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2ddc4cffb5e5517ba2c0b98a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2ddc4cffb5e5517ba2c0b98a/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2ddc4cffb5e5517ba2c0b98a/medium.webp",
+          "width": 1280,
+          "height": 851
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2ddc4cffb5e5517ba2c0b98a/original.webp",
+          "width": 2048,
+          "height": 1362
+        }
+      },
+      "alt": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "caption": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "event": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "sourceFilename": "589151315_1797993990979759_1550168666342034031_n.jpg",
+      "sourceDirectory": "Thánh lễ khai mạc Đại lễ Di dân 2025 và tiết mục hợp xướng trong chương trình Hoan ca"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e48398dfeeb6e58dda7e94a8/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e48398dfeeb6e58dda7e94a8/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e48398dfeeb6e58dda7e94a8/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e48398dfeeb6e58dda7e94a8/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e48398dfeeb6e58dda7e94a8/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "caption": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "event": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "sourceFilename": "589203997_1797987920980366_7217805524129814495_n.jpg",
+      "sourceDirectory": "Thánh lễ khai mạc Đại lễ Di dân 2025 và tiết mục hợp xướng trong chương trình Hoan ca"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e63b3843149f1187b8bcc1d2/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e63b3843149f1187b8bcc1d2/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e63b3843149f1187b8bcc1d2/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e63b3843149f1187b8bcc1d2/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e63b3843149f1187b8bcc1d2/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "caption": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "event": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "sourceFilename": "589341014_1797992500979908_5373481877783025600_n.jpg",
+      "sourceDirectory": "Thánh lễ khai mạc Đại lễ Di dân 2025 và tiết mục hợp xướng trong chương trình Hoan ca"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8531b4123f109f0c2f339daf/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8531b4123f109f0c2f339daf/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8531b4123f109f0c2f339daf/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8531b4123f109f0c2f339daf/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8531b4123f109f0c2f339daf/original.webp",
+          "width": 2048,
+          "height": 1363
+        }
+      },
+      "alt": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "caption": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "event": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "sourceFilename": "589589500_1797992314313260_2344374881440268236_n.jpg",
+      "sourceDirectory": "Thánh lễ khai mạc Đại lễ Di dân 2025 và tiết mục hợp xướng trong chương trình Hoan ca"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/151c06434675597f587677a6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/151c06434675597f587677a6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/151c06434675597f587677a6/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/151c06434675597f587677a6/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/151c06434675597f587677a6/original.webp",
+          "width": 2048,
+          "height": 1363
+        }
+      },
+      "alt": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "caption": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "event": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "sourceFilename": "589745885_1797994430979715_8552650580820394491_n.jpg",
+      "sourceDirectory": "Thánh lễ khai mạc Đại lễ Di dân 2025 và tiết mục hợp xướng trong chương trình Hoan ca"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d1a5cfd6a97e4d43f208e188/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d1a5cfd6a97e4d43f208e188/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d1a5cfd6a97e4d43f208e188/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d1a5cfd6a97e4d43f208e188/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d1a5cfd6a97e4d43f208e188/original.webp",
+          "width": 2048,
+          "height": 1363
+        }
+      },
+      "alt": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "caption": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "event": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "sourceFilename": "591034757_1797992317646593_6461576109158277152_n.jpg",
+      "sourceDirectory": "Thánh lễ khai mạc Đại lễ Di dân 2025 và tiết mục hợp xướng trong chương trình Hoan ca"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4b11620fc87cc0b3ebb6d9c4/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4b11620fc87cc0b3ebb6d9c4/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4b11620fc87cc0b3ebb6d9c4/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4b11620fc87cc0b3ebb6d9c4/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4b11620fc87cc0b3ebb6d9c4/original.webp",
+          "width": 2048,
+          "height": 1363
+        }
+      },
+      "alt": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "caption": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "event": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+      "sourceFilename": "591102086_1797993907646434_2740393886320709295_n.jpg",
+      "sourceDirectory": "Thánh lễ khai mạc Đại lễ Di dân 2025 và tiết mục hợp xướng trong chương trình Hoan ca"
+    }
+  ]
+}

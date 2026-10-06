@@ -2,353 +2,398 @@
   "schemaVersion": 1,
   "year": 2023,
   "activityId": "2023-tinh-tam-thanh-minh",
-  "title": "Tĩnh tâm tại Giáo xứ Thanh Minh",
+  "title": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
   "count": 15,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/001/medium.jpg",
-      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
-      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 1",
-      "id": "media/2023/tinh-tam-thanh-minh/001/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/056ea56652e022b4d7e2ca03/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/056ea56652e022b4d7e2ca03/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/001/thumb.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/001/medium.jpg",
-          "width": 1280,
-          "height": 960
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/001/original.jpg",
-          "width": 2048,
-          "height": 1536
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/002/medium.jpg",
-      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
-      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 2",
-      "id": "media/2023/tinh-tam-thanh-minh/002/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/002/thumb.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/002/medium.jpg",
-          "width": 1280,
-          "height": 960
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/002/original.jpg",
-          "width": 2048,
-          "height": 1536
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/003/medium.jpg",
-      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
-      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 3",
-      "id": "media/2023/tinh-tam-thanh-minh/003/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/003/thumb.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/003/medium.jpg",
-          "width": 1280,
-          "height": 960
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/003/original.jpg",
-          "width": 2560,
-          "height": 1920
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/004/medium.jpg",
-      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
-      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 4",
-      "id": "media/2023/tinh-tam-thanh-minh/004/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/004/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/056ea56652e022b4d7e2ca03/thumb.webp",
           "width": 480,
           "height": 368
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/004/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/056ea56652e022b4d7e2ca03/medium.webp",
           "width": 1280,
           "height": 981
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/004/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/056ea56652e022b4d7e2ca03/original.webp",
           "width": 2560,
           "height": 1962
         }
-      }
+      },
+      "alt": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "caption": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "event": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "sourceFilename": "ảnh bìa.jpg",
+      "sourceDirectory": "Tĩnh tâm Gx Thanh Minh 2023( người xa quê gặp gỡ chính Chúa Giêsu )"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/005/medium.jpg",
-      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
-      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 5",
-      "id": "media/2023/tinh-tam-thanh-minh/005/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1d7aae79fc8b7075af3b7802/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1d7aae79fc8b7075af3b7802/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/005/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1d7aae79fc8b7075af3b7802/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1d7aae79fc8b7075af3b7802/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1d7aae79fc8b7075af3b7802/original.webp",
+          "width": 2048,
+          "height": 1536
+        }
+      },
+      "alt": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "caption": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "event": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "sourceFilename": "tĩnh tâm1.jpg",
+      "sourceDirectory": "Tĩnh tâm Gx Thanh Minh 2023( người xa quê gặp gỡ chính Chúa Giêsu )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/aece28ba2fedaf14d584a7b1/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/aece28ba2fedaf14d584a7b1/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/aece28ba2fedaf14d584a7b1/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/aece28ba2fedaf14d584a7b1/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/aece28ba2fedaf14d584a7b1/original.webp",
+          "width": 2048,
+          "height": 1536
+        }
+      },
+      "alt": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "caption": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "event": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "sourceFilename": "tĩnh tâm2.jpg",
+      "sourceDirectory": "Tĩnh tâm Gx Thanh Minh 2023( người xa quê gặp gỡ chính Chúa Giêsu )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/49c90ae134a4e245f734eda9/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/49c90ae134a4e245f734eda9/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/49c90ae134a4e245f734eda9/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/49c90ae134a4e245f734eda9/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/49c90ae134a4e245f734eda9/original.webp",
+          "width": 2560,
+          "height": 1920
+        }
+      },
+      "alt": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "caption": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "event": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "sourceFilename": "tĩnh tâm3.jpg",
+      "sourceDirectory": "Tĩnh tâm Gx Thanh Minh 2023( người xa quê gặp gỡ chính Chúa Giêsu )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/49d17e8d124078cf30ff727c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/49d17e8d124078cf30ff727c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/49d17e8d124078cf30ff727c/thumb.webp",
           "width": 480,
           "height": 325
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/005/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/49d17e8d124078cf30ff727c/medium.webp",
           "width": 1280,
           "height": 867
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/005/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/49d17e8d124078cf30ff727c/original.webp",
           "width": 2560,
           "height": 1734
         }
-      }
+      },
+      "alt": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "caption": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "event": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "sourceFilename": "tĩnh tâm5.jpg",
+      "sourceDirectory": "Tĩnh tâm Gx Thanh Minh 2023( người xa quê gặp gỡ chính Chúa Giêsu )"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/006/medium.jpg",
-      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
-      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 6",
-      "id": "media/2023/tinh-tam-thanh-minh/006/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/847ca5085a189b215f022212/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/847ca5085a189b215f022212/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/006/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/847ca5085a189b215f022212/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/006/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/847ca5085a189b215f022212/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/006/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/847ca5085a189b215f022212/medium.webp",
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "alt": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "caption": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "event": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "sourceFilename": "tĩnh tâm6.jpg",
+      "sourceDirectory": "Tĩnh tâm Gx Thanh Minh 2023( người xa quê gặp gỡ chính Chúa Giêsu )"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/007/medium.jpg",
-      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
-      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 7",
-      "id": "media/2023/tinh-tam-thanh-minh/007/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1fa365857ef9e0c63a93e833/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1fa365857ef9e0c63a93e833/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/007/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1fa365857ef9e0c63a93e833/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/007/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1fa365857ef9e0c63a93e833/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/007/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1fa365857ef9e0c63a93e833/medium.webp",
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "alt": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "caption": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "event": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "sourceFilename": "tĩnh tâm7.jpg",
+      "sourceDirectory": "Tĩnh tâm Gx Thanh Minh 2023( người xa quê gặp gỡ chính Chúa Giêsu )"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/008/medium.jpg",
-      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
-      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 8",
-      "id": "media/2023/tinh-tam-thanh-minh/008/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f823f483e2ab8ae549c2f55c/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f823f483e2ab8ae549c2f55c/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/008/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f823f483e2ab8ae549c2f55c/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/008/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f823f483e2ab8ae549c2f55c/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/008/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f823f483e2ab8ae549c2f55c/medium.webp",
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "alt": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "caption": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "event": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "sourceFilename": "tĩnh tâm8.jpg",
+      "sourceDirectory": "Tĩnh tâm Gx Thanh Minh 2023( người xa quê gặp gỡ chính Chúa Giêsu )"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/009/medium.jpg",
-      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
-      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 9",
-      "id": "media/2023/tinh-tam-thanh-minh/009/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f62acfd805fc04475df2a7e3/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f62acfd805fc04475df2a7e3/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/009/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f62acfd805fc04475df2a7e3/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/009/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f62acfd805fc04475df2a7e3/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/009/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f62acfd805fc04475df2a7e3/medium.webp",
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "alt": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "caption": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "event": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "sourceFilename": "tĩnh tâm9.jpg",
+      "sourceDirectory": "Tĩnh tâm Gx Thanh Minh 2023( người xa quê gặp gỡ chính Chúa Giêsu )"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/010/medium.jpg",
-      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
-      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 10",
-      "id": "media/2023/tinh-tam-thanh-minh/010/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b8388c97567880d34ec74c8e/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b8388c97567880d34ec74c8e/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/010/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b8388c97567880d34ec74c8e/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/010/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b8388c97567880d34ec74c8e/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/010/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b8388c97567880d34ec74c8e/medium.webp",
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "alt": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "caption": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "event": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "sourceFilename": "tĩnh tâm10.jpg",
+      "sourceDirectory": "Tĩnh tâm Gx Thanh Minh 2023( người xa quê gặp gỡ chính Chúa Giêsu )"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/011/medium.jpg",
-      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
-      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 11",
-      "id": "media/2023/tinh-tam-thanh-minh/011/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/6578de7699af244897d79817/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/6578de7699af244897d79817/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/011/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/6578de7699af244897d79817/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/011/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/6578de7699af244897d79817/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/011/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/6578de7699af244897d79817/medium.webp",
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "alt": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "caption": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "event": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "sourceFilename": "tĩnh tâm11.jpg",
+      "sourceDirectory": "Tĩnh tâm Gx Thanh Minh 2023( người xa quê gặp gỡ chính Chúa Giêsu )"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/012/medium.jpg",
-      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
-      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 12",
-      "id": "media/2023/tinh-tam-thanh-minh/012/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cce68c873a816795e3454bfc/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cce68c873a816795e3454bfc/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/012/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cce68c873a816795e3454bfc/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/012/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cce68c873a816795e3454bfc/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/012/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cce68c873a816795e3454bfc/medium.webp",
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "alt": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "caption": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "event": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "sourceFilename": "tĩnh tâm12.jpg",
+      "sourceDirectory": "Tĩnh tâm Gx Thanh Minh 2023( người xa quê gặp gỡ chính Chúa Giêsu )"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/013/medium.jpg",
-      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
-      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 13",
-      "id": "media/2023/tinh-tam-thanh-minh/013/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/d2fc23db0b69056644e901db/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/d2fc23db0b69056644e901db/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/013/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/d2fc23db0b69056644e901db/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/013/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/d2fc23db0b69056644e901db/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/013/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/d2fc23db0b69056644e901db/medium.webp",
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "alt": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "caption": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "event": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "sourceFilename": "tĩnh tâm13.jpg",
+      "sourceDirectory": "Tĩnh tâm Gx Thanh Minh 2023( người xa quê gặp gỡ chính Chúa Giêsu )"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/014/medium.jpg",
-      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
-      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 14",
-      "id": "media/2023/tinh-tam-thanh-minh/014/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c4275056ed1881a5cdb7c2bf/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c4275056ed1881a5cdb7c2bf/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/014/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c4275056ed1881a5cdb7c2bf/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/014/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c4275056ed1881a5cdb7c2bf/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/014/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c4275056ed1881a5cdb7c2bf/medium.webp",
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "alt": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "caption": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "event": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "sourceFilename": "tĩnh tâm14.jpg",
+      "sourceDirectory": "Tĩnh tâm Gx Thanh Minh 2023( người xa quê gặp gỡ chính Chúa Giêsu )"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/015/medium.jpg",
-      "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
-      "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 15",
-      "id": "media/2023/tinh-tam-thanh-minh/015/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7e9603aaf7189cb97f9ac613/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7e9603aaf7189cb97f9ac613/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/015/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7e9603aaf7189cb97f9ac613/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/015/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7e9603aaf7189cb97f9ac613/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/015/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7e9603aaf7189cb97f9ac613/medium.webp",
           "width": 1280,
           "height": 854
         }
-      }
+      },
+      "alt": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "caption": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "event": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+      "sourceFilename": "tĩnh tâm15.jpg",
+      "sourceDirectory": "Tĩnh tâm Gx Thanh Minh 2023( người xa quê gặp gỡ chính Chúa Giêsu )"
     }
   ]
 }

@@ -2,36 +2,108 @@
   "schemaVersion": 1,
   "year": 2018,
   "activityId": "2018-workshop",
-  "title": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo",
+  "title": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo, Hải Dương",
   "count": 4,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/001.jpg",
-      "caption": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo · ảnh 1",
-      "alt": "Ảnh tư liệu: Hội thảo Giới trẻ tại Giáo xứ Phú Tảo",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/001.jpg",
-      "variants": {}
+      "id": "media/2018/workshop/055b3cd12e3d0282/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/055b3cd12e3d0282/medium.jpg",
+      "alt": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo, Hải Dương",
+      "caption": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo, Hải Dương",
+      "event": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo, Hải Dương",
+      "sourceFilename": "ảnh bìa ( cả năm ).jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/055b3cd12e3d0282/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/055b3cd12e3d0282/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/055b3cd12e3d0282/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/002.jpg",
-      "caption": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo · ảnh 2",
-      "alt": "Ảnh tư liệu: Hội thảo Giới trẻ tại Giáo xứ Phú Tảo",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/002.jpg",
-      "variants": {}
+      "id": "media/2018/workshop/cd3b4c56f7425235/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/cd3b4c56f7425235/medium.jpg",
+      "alt": "Các bạn trẻ quy tụ tại Giáo xứ Phú Tảo",
+      "caption": "Các bạn trẻ quy tụ tại Giáo xứ Phú Tảo",
+      "event": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo, Hải Dương",
+      "sourceFilename": "1786532462585_1995884631902468284_7736263391661925970_aae26bd8a4ab49757aa39132d444649d.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/cd3b4c56f7425235/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/cd3b4c56f7425235/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/cd3b4c56f7425235/original.jpg",
+          "width": 1837,
+          "height": 1225
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/003.jpg",
-      "caption": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo · ảnh 3",
-      "alt": "Ảnh tư liệu: Hội thảo Giới trẻ tại Giáo xứ Phú Tảo",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/003.jpg",
-      "variants": {}
+      "id": "media/2018/workshop/81f1598f9da2c0af/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/81f1598f9da2c0af/medium.jpg",
+      "alt": "Giờ cầu nguyện trong chương trình Hội thảo",
+      "caption": "Giờ cầu nguyện trong chương trình Hội thảo",
+      "event": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo, Hải Dương",
+      "sourceFilename": "1786532464499_1995884631902468284_7736263391661925970_04515113d666c110c0d809681651f372.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/81f1598f9da2c0af/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/81f1598f9da2c0af/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/81f1598f9da2c0af/original.jpg",
+          "width": 2000,
+          "height": 1500
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/004.jpg",
-      "caption": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo · ảnh 4",
-      "alt": "Ảnh tư liệu: Hội thảo Giới trẻ tại Giáo xứ Phú Tảo",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/004.jpg",
-      "variants": {}
+      "id": "media/2018/workshop/39c0b7b7e1ea33c1/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/39c0b7b7e1ea33c1/medium.jpg",
+      "alt": "Ca đoàn chụp ảnh lưu niệm tại Phú Tảo",
+      "caption": "Ca đoàn chụp ảnh lưu niệm tại Phú Tảo",
+      "event": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo, Hải Dương",
+      "sourceFilename": "1786532467207_1995884631902468284_7736263391661925970_94122d629c7f9a7a0d9bd013162c13fb.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/39c0b7b7e1ea33c1/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/39c0b7b7e1ea33c1/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/39c0b7b7e1ea33c1/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
     }
   ]
 }

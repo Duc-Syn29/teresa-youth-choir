@@ -3,33 +3,33 @@
   "year": 2024,
   "activityId": "2024-cau-nguyen-sau-bao-yagi",
   "title": "Cầu nguyện cho đồng bào miền Bắc sau bão Yagi",
-  "topic": "Cầu nguyện",
-  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-sau-bao-yagi/001-8951171879/medium.jpg",
   "count": 1,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-sau-bao-yagi/001-8951171879/medium.jpg",
-      "alt": "Giờ cầu nguyện hướng về đồng bào miền Bắc sau bão Yagi.",
-      "caption": "Giờ cầu nguyện hướng về đồng bào miền Bắc sau bão Yagi.",
-      "id": "media/2024/2024-cau-nguyen-sau-bao-yagi/001-8951171879/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b0dabfaf17c8a04de622e368/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b0dabfaf17c8a04de622e368/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-sau-bao-yagi/001-8951171879/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b0dabfaf17c8a04de622e368/thumb.webp",
           "width": 480,
           "height": 360
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-sau-bao-yagi/001-8951171879/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b0dabfaf17c8a04de622e368/medium.webp",
           "width": 1280,
           "height": 960
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-sau-bao-yagi/001-8951171879/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b0dabfaf17c8a04de622e368/medium.webp",
           "width": 1280,
           "height": 960
         }
       },
-      "event": "Cầu nguyện cho đồng bào miền Bắc sau bão Yagi"
+      "alt": "Cầu nguyện cho đồng bào miền Bắc sau bão Yagi",
+      "caption": "Cầu nguyện cho đồng bào miền Bắc sau bão Yagi",
+      "event": "Cầu nguyện cho đồng bào miền Bắc sau bão Yagi",
+      "sourceFilename": "1789841259952_1995884631902468284_7736263391661925970_ddfea96094c9bf0bab8da8b52ef0ddee.jpg",
+      "sourceDirectory": "Cầu Nguyện lũ Yagi 2024"
     }
   ]
 }

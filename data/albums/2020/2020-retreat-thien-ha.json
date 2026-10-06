@@ -6,74 +6,254 @@
   "count": 10,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/001.jpg",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "id": "media/2020/retreat-thien-ha/d1c8c8193193b85a/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/d1c8c8193193b85a/medium.jpg",
+      "alt": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
       "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/001.jpg",
-      "variants": {}
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "sourceFilename": "ảnh bìa.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/d1c8c8193193b85a/thumb.jpg",
+          "width": 480,
+          "height": 280
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/d1c8c8193193b85a/medium.jpg",
+          "width": 1280,
+          "height": 748
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/d1c8c8193193b85a/original.jpg",
+          "width": 1869,
+          "height": 1092
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/002.jpg",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "id": "media/2020/retreat-thien-ha/4332e76439efeaee/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/4332e76439efeaee/medium.jpg",
+      "alt": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
       "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/002.jpg",
-      "variants": {}
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "sourceFilename": "tĩnh tâm1.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/4332e76439efeaee/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/4332e76439efeaee/medium.jpg",
+          "width": 1242,
+          "height": 828
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/4332e76439efeaee/original.jpg",
+          "width": 1242,
+          "height": 828
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/003.jpg",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "id": "media/2020/retreat-thien-ha/962ba72b5145de0f/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/962ba72b5145de0f/medium.jpg",
+      "alt": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
       "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/003.jpg",
-      "variants": {}
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "sourceFilename": "tĩnh tâm2.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/962ba72b5145de0f/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/962ba72b5145de0f/medium.jpg",
+          "width": 1242,
+          "height": 828
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/962ba72b5145de0f/original.jpg",
+          "width": 1242,
+          "height": 828
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/004.jpg",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
-      "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/004.jpg",
-      "variants": {}
+      "id": "media/2020/retreat-thien-ha/16c4501681d4ab8b/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/16c4501681d4ab8b/medium.jpg",
+      "alt": "Cộng đoàn tham dự chương trình tĩnh tâm",
+      "caption": "Cộng đoàn tham dự chương trình tĩnh tâm",
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "sourceFilename": "tĩnh tâm3.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/16c4501681d4ab8b/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/16c4501681d4ab8b/medium.jpg",
+          "width": 1242,
+          "height": 828
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/16c4501681d4ab8b/original.jpg",
+          "width": 1242,
+          "height": 828
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/005.jpg",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "id": "media/2020/retreat-thien-ha/fd527178aa8c9cbd/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/fd527178aa8c9cbd/medium.jpg",
+      "alt": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
       "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/005.jpg",
-      "variants": {}
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "sourceFilename": "tĩnh tâm4.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/fd527178aa8c9cbd/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/fd527178aa8c9cbd/medium.jpg",
+          "width": 1242,
+          "height": 828
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/fd527178aa8c9cbd/original.jpg",
+          "width": 1242,
+          "height": 828
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/006.jpg",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "id": "media/2020/retreat-thien-ha/d00ae8070b805cca/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/d00ae8070b805cca/medium.jpg",
+      "alt": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
       "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/006.jpg",
-      "variants": {}
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "sourceFilename": "tĩnh tâm5.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/d00ae8070b805cca/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/d00ae8070b805cca/medium.jpg",
+          "width": 1242,
+          "height": 828
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/d00ae8070b805cca/original.jpg",
+          "width": 1242,
+          "height": 828
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/007.jpg",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
-      "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/007.jpg",
-      "variants": {}
+      "id": "media/2020/retreat-thien-ha/73184b71ae18ea98/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/73184b71ae18ea98/medium.jpg",
+      "alt": "Giây phút cầu nguyện tại Đan viện Thiên Hà",
+      "caption": "Giây phút cầu nguyện tại Đan viện Thiên Hà",
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "sourceFilename": "tĩnh tâm6.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/73184b71ae18ea98/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/73184b71ae18ea98/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/73184b71ae18ea98/original.jpg",
+          "width": 1944,
+          "height": 1296
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/008.jpg",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "id": "media/2020/retreat-thien-ha/dcae68aa1b28c1aa/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/dcae68aa1b28c1aa/medium.jpg",
+      "alt": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
       "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/008.jpg",
-      "variants": {}
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "sourceFilename": "tĩnh tâm8.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/dcae68aa1b28c1aa/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/dcae68aa1b28c1aa/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/dcae68aa1b28c1aa/original.jpg",
+          "width": 1944,
+          "height": 1296
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/009.jpg",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "id": "media/2020/retreat-thien-ha/48489aac72d013cf/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/48489aac72d013cf/medium.jpg",
+      "alt": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
       "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/009.jpg",
-      "variants": {}
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "sourceFilename": "tĩnh tâm9.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/48489aac72d013cf/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/48489aac72d013cf/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/48489aac72d013cf/original.jpg",
+          "width": 1944,
+          "height": 1296
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/010.jpg",
-      "alt": "Ảnh tư liệu: Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
-      "caption": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/010.jpg",
-      "variants": {}
+      "id": "media/2020/retreat-thien-ha/fc56c727b26725e8/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/fc56c727b26725e8/medium.jpg",
+      "alt": "Các ca viên lắng nghe trong ngày tĩnh tâm",
+      "caption": "Các ca viên lắng nghe trong ngày tĩnh tâm",
+      "event": "Tĩnh tâm tại Đan viện Biển Đức Thiên Hà",
+      "sourceFilename": "tĩnh tâm10.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/fc56c727b26725e8/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/fc56c727b26725e8/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/fc56c727b26725e8/original.jpg",
+          "width": 1944,
+          "height": 1296
+        }
+      }
     }
   ]
 }

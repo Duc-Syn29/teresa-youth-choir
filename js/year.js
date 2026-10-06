@@ -29,7 +29,6 @@
     const candidates = [
       [variants.thumbnail || variants.thumb, 480],
       [variants.medium, 1280],
-      [variants.original || variants.full || media?.src, 2048],
     ];
     const seen = new Set();
     const srcset = candidates.map(([candidate, width]) => {
@@ -76,7 +75,7 @@
     })));
     const teams = (leadership.teams || leadership.serviceTeams || []).map((team) => {
       const normalized = typeof team === "string" ? { name: team, members: [] } : team;
-      return { role: normalized.name || "Ban phục vụ", members: (normalized.members || []).map((member) => typeof member === "string" ? { name: member, photo: "" } : member).filter((member) => member?.name) };
+      return { role: normalized.name || "Ban phục vụ", note: normalized.note || "", members: (normalized.members || []).map((member) => typeof member === "string" ? { name: member, photo: "" } : member).filter((member) => member?.name) };
     });
     const isMusicTeam = (team) => /chuyên môn|bè trưởng|đàn sĩ|nhạc cụ/i.test(team.role);
     const serviceTeams = teams.filter((team) => !isMusicTeam(team));
@@ -91,7 +90,7 @@
     const teamSections = (entries) => `<div class="leadership-subgroups">${entries.map((entry) => `
       <section class="leadership-subgroup">
         <h3>${escapeHTML(entry.role)}</h3>
-        ${memberList(entry.members)}
+        ${entry.note ? `<p class="empty-note">${escapeHTML(entry.note)}</p>` : memberList(entry.members)}
       </section>`).join("")}</div>`;
     const groups = [];
     if (people.length) groups.push({ title: "Ban điều hành chính", content: memberList(people) });
@@ -331,7 +330,7 @@
   }
 
   async function render(data, available) {
-    const { year, overview, leadership, members, activities, achievements, challenges, gallery, sharing, yearMark } = data;
+    const { year, overview, leadership, members, activities, achievements, challenges, gallery, sharing, yearMark, reflectionText } = data;
     const albums = buildAlbums(data);
     const albumTypes = [...new Set(albums.map((album) => album.type).filter(Boolean))];
     const imageTotal = albums.reduce((total, album) => total + Number(album.count || 0), 0);
@@ -340,15 +339,15 @@
     const hero = source(overview.coverImage, "original");
 
     app.innerHTML = `
-      <section class="year-hero"><div class="year-hero-bg">${hero ? `<img ${mediaAttributes(overview.coverImage, "medium", "100vw")} data-media-priority="high" alt="" loading="eager" decoding="async" fetchpriority="high" />` : ""}</div><div class="container year-hero-content"><div class="year-number">${year}</div><div class="year-intro"><p class="eyebrow">${escapeHTML(overview.eyebrow)}</p><h1>${escapeHTML(overview.title)}</h1><p>${escapeHTML(overview.summary)}</p><p class="year-verse">${escapeHTML(overview.verse)}</p></div></div></section>
-      <nav class="year-nav" aria-label="Mục lục năm ${year}"><div class="container year-nav-inner"><span class="year-nav-current" aria-live="polite"><small>Đang xem</small><strong data-year-nav-label>Tổng quan</strong></span><a href="#overview">Tổng quan</a><a href="#leadership">Ban điều hành</a><a href="#members">Thành viên</a><a href="#year-activities">Hoạt động</a><a href="#reflection">Nhìn lại</a><a href="#year-album">Album</a><a href="#sharing">Lời chia sẻ</a></div></nav>
+      <section class="year-hero${hero ? " has-cover" : ""}"><div class="year-hero-bg">${hero ? `<img ${mediaAttributes(overview.coverImage, "medium", "100vw")} data-media-priority="high" alt="" loading="eager" decoding="async" fetchpriority="high" />` : ""}</div><div class="container year-hero-content"><div class="year-number">${year}</div><div class="year-intro"><p class="eyebrow">${escapeHTML(overview.eyebrow)}</p><h1>${escapeHTML(overview.title)}</h1><p>${escapeHTML(overview.summary)}</p><p class="year-verse">${escapeHTML(overview.verse)}</p></div></div></section>
+      <nav class="year-nav" aria-label="Mục lục năm ${year}"><div class="container year-nav-inner"><span class="year-nav-current" aria-live="polite"><small>Đang xem</small><strong data-year-nav-label>Tổng quan</strong></span><a href="#overview">Tổng quan</a><a href="#leadership">Ban điều hành</a><a href="#members">Thành viên</a><a href="#year-activities">Hoạt động</a><a href="#reflection">${reflectionText ? "Nhật ký cảm xúc" : "Nhìn lại"}</a><a href="#year-album">Album</a>${sharing.length ? '<a href="#sharing">Lời chia sẻ</a>' : ""}</div></nav>
       <section class="year-section" aria-labelledby="overview"><div class="container">${sectionHeading(1, "Tổng quan năm", overview.title, "overview")}<div class="overview-grid"><article class="overview-story reveal">${prose(overview.longDescription)}</article><article class="year-mark-card reveal"><small>Dấu ấn ${year}</small><strong>${escapeHTML(yearMark.title)}</strong><span>${escapeHTML(yearMark.highlight)}</span></article></div></div></section>
       <section class="year-section" aria-labelledby="leadership"><div class="container">${sectionHeading(2, "Những người phục vụ", "Ban điều hành", "leadership")}<div class="leadership-grid">${renderLeadership(leadership)}</div></div></section>
       <section class="year-section" aria-labelledby="members"><div class="container">${sectionHeading(3, "Gia đình Têrêsa", "Thành viên", "members")}<div class="member-stats"><article class="member-stat reveal"><strong>${members.total}</strong><span>Tổng số ca viên</span></article><article class="member-stat reveal"><strong>+${members.new}</strong><span>Ca viên mới</span></article><article class="member-stat reveal"><strong>${members.inactive}</strong><span>Thành viên nghỉ</span></article></div><p class="member-note reveal">${escapeHTML(members.notes)}</p></div></section>
       <section class="year-section" aria-labelledby="year-activities"><div class="container">${sectionHeading(4, "Những ngày cùng nhau", "Hoạt động trong năm", "year-activities")}<div class="year-activities">${renderActivities(activities.map((activity) => ({ ...activity, year })), gallery || [])}</div></div></section>
-      <section class="year-section" aria-labelledby="reflection"><div class="container">${sectionHeading(5, "Thành tựu & thử thách", "Nhìn lại để lớn lên", "reflection")}<div class="reflection-grid"><article class="reflection-card achievement reveal"><h3>Điều đã làm được</h3><ul>${list(achievements)}</ul></article><article class="reflection-card challenge reveal"><h3>Điều còn trăn trở</h3><ul>${list(challenges)}</ul></article></div></div></section>
+      <section class="year-section" aria-labelledby="reflection"><div class="container">${reflectionText ? `${sectionHeading(5, "Nhật ký cảm xúc trong các dịp đặc biệt", "Nhật ký cảm xúc", "reflection")}<article class="overview-story reveal">${prose(reflectionText)}</article>` : `${sectionHeading(5, "Thành tựu & thử thách", "Nhìn lại để lớn lên", "reflection")}<div class="reflection-grid"><article class="reflection-card achievement reveal"><h3>Điều đã làm được</h3><ul>${list(achievements)}</ul></article><article class="reflection-card challenge reveal"><h3>Điều còn trăn trở</h3><ul>${list(challenges)}</ul></article></div>`}</div></section>
       <section class="year-section" aria-labelledby="year-album"><div class="container">${sectionHeading(6, "Khoảnh khắc", `Album ${year}`, "year-album")}${albums.length ? `<div class="year-album-toolbar reveal"><p><strong>${imageTotal} ảnh</strong><span>${albums.length} album sự kiện</span></p><div class="year-album-controls"><label><span>Năm</span><select data-album-year aria-label="Lọc album theo năm">${available.map((item) => `<option value="${item}" ${Number(item) === Number(year) ? "selected" : ""}>${item}</option>`).join("")}</select></label><label class="album-search"><span>Sự kiện</span><input type="search" data-album-search placeholder="Tìm tên sự kiện…" autocomplete="off" /></label></div><div class="year-album-filters" aria-label="Lọc album theo loại sự kiện"><button class="active" type="button" data-album-filter="all" aria-pressed="true">Tất cả</button>${albumTypes.map((type) => `<button type="button" data-album-filter="${escapeHTML(type)}" aria-pressed="false">${escapeHTML(type)}</button>`).join("")}</div></div>` : ""}<div class="year-albums">${renderAlbumCards(albums)}</div><p class="empty-note year-album-empty" data-album-empty hidden>Không có album phù hợp với bộ lọc.</p><p class="gallery-note">Mỗi album mở 20–24 ảnh đầu tiên, sau đó tự tải thêm khi bạn cuộn gần cuối hoặc bấm “Xem thêm”.</p></div></section>
-      <section class="year-section" aria-labelledby="sharing"><div class="container">${sectionHeading(7, "Thanh âm ở lại", "Lời chia sẻ", "sharing")}<div class="quote-grid">${renderQuotes(sharing)}</div></div></section>
+      ${sharing.length ? `<section class="year-section" aria-labelledby="sharing"><div class="container">${sectionHeading(7, "Thanh âm ở lại", "Lời chia sẻ", "sharing")}<div class="quote-grid">${renderQuotes(sharing)}</div></div></section>` : ""}
       <section class="year-signature"><div class="container reveal"><p class="eyebrow">Dấu ấn của năm</p><h2>${escapeHTML(yearMark.title)}</h2><p>${escapeHTML(yearMark.description)}</p>${yearSwitcher(year, available)}</div></section>`;
 
     // Bắt đầu tải ảnh ngay, nhưng không giữ toàn bộ nội dung ở skeleton trong lúc
@@ -373,12 +372,16 @@
   async function loadSelectedYear() {
     try {
       if (!window.TeresaStore || !Number.isInteger(selectedYear)) throw new Error("Liên kết năm chưa hợp lệ.");
+      const previewRequested = new URLSearchParams(location.search).get("preview") === "1";
+      if (Schema.isYearPublic?.(selectedYear) === false && previewRequested) await window.TeresaStore.waitForAuth();
+      if (Schema.isYearPublic?.(selectedYear) === false && !(previewRequested && window.TeresaStore.isAdmin())) throw new Error(`Nhật ký năm ${selectedYear} đang tạm ẩn.`);
       const [years, data] = await Promise.all([
         window.TeresaStore.availableYears(),
         window.TeresaStore.loadYear(selectedYear),
       ]);
-      if (!years.includes(selectedYear) && new URLSearchParams(location.search).get("preview") !== "1") throw new Error(`Năm ${selectedYear} chưa có trong kho lưu trữ.`);
-      await render(data, years);
+      const publicYears = years.filter((year) => Schema.isYearPublic?.(year) !== false);
+      if (!publicYears.includes(selectedYear) && new URLSearchParams(location.search).get("preview") !== "1") throw new Error(`Năm ${selectedYear} chưa có trong kho lưu trữ.`);
+      await render(data, publicYears);
     } catch (error) {
       console.error("Không thể đọc dữ liệu năm:", error);
       renderError(error.message || "Không thể mở dữ liệu. Hãy chạy website bằng máy chủ local.");

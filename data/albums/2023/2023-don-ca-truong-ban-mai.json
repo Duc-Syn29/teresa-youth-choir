@@ -6,27 +6,30 @@
   "count": 1,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/ca-truong-ban-mai/001/medium.jpg",
-      "alt": "Ca trưởng Maria Ban Mai cùng Ca đoàn Giới trẻ Têrêsa",
-      "caption": "Chào đón Ca trưởng mới – Chị Maria Ban Mai · ảnh 1",
-      "id": "media/2023/ca-truong-ban-mai/001/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f39a489b5f80efe87eb115b5/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f39a489b5f80efe87eb115b5/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/ca-truong-ban-mai/001/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f39a489b5f80efe87eb115b5/thumb.webp",
           "width": 320,
           "height": 480
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/ca-truong-ban-mai/001/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f39a489b5f80efe87eb115b5/medium.webp",
           "width": 854,
           "height": 1280
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/ca-truong-ban-mai/001/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f39a489b5f80efe87eb115b5/medium.webp",
           "width": 854,
           "height": 1280
         }
-      }
+      },
+      "alt": "Chào đón Ca trưởng mới – Chị Maria Ban Mai",
+      "caption": "Chào đón Ca trưởng mới – Chị Maria Ban Mai",
+      "event": "Chào đón Ca trưởng mới – Chị Maria Ban Mai",
+      "sourceFilename": "1789739737951_1995884631902468284_7736263391661925970_bf2a0fbff7e6a39396e8aa493ddf345c.jpg",
+      "sourceDirectory": "Chào mừng chị Mai ca trưởng"
     }
   ]
 }

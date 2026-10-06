@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "activityId": "2025-dai-hoi-the-thao-cecilia",
+  "title": "Tham gia Đại hội thể thao Cecilia 2025",
+  "count": 5,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e72bcc96e89b7f1545f96525/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e72bcc96e89b7f1545f96525/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e72bcc96e89b7f1545f96525/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e72bcc96e89b7f1545f96525/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e72bcc96e89b7f1545f96525/original.webp",
+          "width": 2048,
+          "height": 1152
+        }
+      },
+      "alt": "Tham gia Đại hội thể thao Cecilia 2025",
+      "caption": "Tham gia Đại hội thể thao Cecilia 2025",
+      "event": "Tham gia Đại hội thể thao Cecilia 2025",
+      "sourceFilename": "ảnh bìa.jpg",
+      "sourceDirectory": "Đại hội Thể thao Cecilia 2025 tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b47866f6929e08c1dd1279ca/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b47866f6929e08c1dd1279ca/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b47866f6929e08c1dd1279ca/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b47866f6929e08c1dd1279ca/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b47866f6929e08c1dd1279ca/original.webp",
+          "width": 2048,
+          "height": 1536
+        }
+      },
+      "alt": "Tham gia Đại hội thể thao Cecilia 2025",
+      "caption": "Tham gia Đại hội thể thao Cecilia 2025",
+      "event": "Tham gia Đại hội thể thao Cecilia 2025",
+      "sourceFilename": "583730178_1791510894961402_2258204634230160357_n (1).jpg",
+      "sourceDirectory": "Đại hội Thể thao Cecilia 2025 tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4bf42fea00bbe9a5bed5426f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4bf42fea00bbe9a5bed5426f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4bf42fea00bbe9a5bed5426f/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4bf42fea00bbe9a5bed5426f/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4bf42fea00bbe9a5bed5426f/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Tham gia Đại hội thể thao Cecilia 2025",
+      "caption": "Tham gia Đại hội thể thao Cecilia 2025",
+      "event": "Tham gia Đại hội thể thao Cecilia 2025",
+      "sourceFilename": "583812340_1791510998294725_6570149067447708406_n.jpg",
+      "sourceDirectory": "Đại hội Thể thao Cecilia 2025 tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f37bf7f417ef1ae74947ab9a/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f37bf7f417ef1ae74947ab9a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f37bf7f417ef1ae74947ab9a/thumb.webp",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f37bf7f417ef1ae74947ab9a/medium.webp",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f37bf7f417ef1ae74947ab9a/medium.webp",
+          "width": 960,
+          "height": 1280
+        }
+      },
+      "alt": "Tham gia Đại hội thể thao Cecilia 2025",
+      "caption": "Tham gia Đại hội thể thao Cecilia 2025",
+      "event": "Tham gia Đại hội thể thao Cecilia 2025",
+      "sourceFilename": "584065491_1791510954961396_2588282166747239057_n.jpg",
+      "sourceDirectory": "Đại hội Thể thao Cecilia 2025 tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c4eb32688554f6b3ab9a6ad0/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c4eb32688554f6b3ab9a6ad0/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c4eb32688554f6b3ab9a6ad0/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c4eb32688554f6b3ab9a6ad0/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c4eb32688554f6b3ab9a6ad0/original.webp",
+          "width": 2048,
+          "height": 1152
+        }
+      },
+      "alt": "Tham gia Đại hội thể thao Cecilia 2025",
+      "caption": "Tham gia Đại hội thể thao Cecilia 2025",
+      "event": "Tham gia Đại hội thể thao Cecilia 2025",
+      "sourceFilename": "584284501_1791510918294733_2134115083566191897_n.jpg",
+      "sourceDirectory": "Đại hội Thể thao Cecilia 2025 tại Giáo xứ Thái Hà"
+    }
+  ]
+}

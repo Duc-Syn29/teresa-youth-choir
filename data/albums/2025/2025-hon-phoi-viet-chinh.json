@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "activityId": "2025-hon-phoi-viet-chinh",
+  "title": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+  "count": 7,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0185dc35288c1ee4859d1b7e/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0185dc35288c1ee4859d1b7e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0185dc35288c1ee4859d1b7e/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0185dc35288c1ee4859d1b7e/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0185dc35288c1ee4859d1b7e/medium.webp",
+          "width": 1280,
+          "height": 854
+        }
+      },
+      "alt": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+      "caption": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+      "event": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+      "sourceFilename": "ảnh bìa.jpg",
+      "sourceDirectory": "Lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9416b246fc44daf4fbfb4dd1/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9416b246fc44daf4fbfb4dd1/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9416b246fc44daf4fbfb4dd1/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9416b246fc44daf4fbfb4dd1/medium.webp",
+          "width": 854,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9416b246fc44daf4fbfb4dd1/medium.webp",
+          "width": 854,
+          "height": 1280
+        }
+      },
+      "alt": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+      "caption": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+      "event": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+      "sourceFilename": "ảnh cứoi1.jpg",
+      "sourceDirectory": "Lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/32f94dd0573a86634c18e74e/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/32f94dd0573a86634c18e74e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/32f94dd0573a86634c18e74e/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/32f94dd0573a86634c18e74e/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/32f94dd0573a86634c18e74e/medium.webp",
+          "width": 1280,
+          "height": 854
+        }
+      },
+      "alt": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+      "caption": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+      "event": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+      "sourceFilename": "ảnh cứoi2.jpg",
+      "sourceDirectory": "Lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/22c6fafc1a941f7b92b222b8/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/22c6fafc1a941f7b92b222b8/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/22c6fafc1a941f7b92b222b8/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/22c6fafc1a941f7b92b222b8/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/22c6fafc1a941f7b92b222b8/medium.webp",
+          "width": 1280,
+          "height": 854
+        }
+      },
+      "alt": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+      "caption": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+      "event": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+      "sourceFilename": "ảnh cứoi4.jpg",
+      "sourceDirectory": "Lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a174bc6c629767c910a308cf/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a174bc6c629767c910a308cf/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a174bc6c629767c910a308cf/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a174bc6c629767c910a308cf/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a174bc6c629767c910a308cf/medium.webp",
+          "width": 1280,
+          "height": 854
+        }
+      },
+      "alt": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+      "caption": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+      "event": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+      "sourceFilename": "ảnh cứoi5.jpg",
+      "sourceDirectory": "Lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/91c200f575b7da1771145238/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/91c200f575b7da1771145238/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/91c200f575b7da1771145238/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/91c200f575b7da1771145238/medium.webp",
+          "width": 854,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/91c200f575b7da1771145238/medium.webp",
+          "width": 854,
+          "height": 1280
+        }
+      },
+      "alt": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+      "caption": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+      "event": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+      "sourceFilename": "ảnh cứoi6.jpg",
+      "sourceDirectory": "Lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/751cd6d314bf4bc3bf8814c6/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/751cd6d314bf4bc3bf8814c6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/751cd6d314bf4bc3bf8814c6/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/751cd6d314bf4bc3bf8814c6/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/751cd6d314bf4bc3bf8814c6/medium.webp",
+          "width": 1280,
+          "height": 854
+        }
+      },
+      "alt": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+      "caption": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+      "event": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+      "sourceFilename": "ảnh cứoi7.jpg",
+      "sourceDirectory": "Lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu"
+    }
+  ]
+}

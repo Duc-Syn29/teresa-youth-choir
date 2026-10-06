@@ -1,0 +1,347 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "activityId": "2025-hoi-thi-giao-ly",
+  "title": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+  "count": 13,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/46d08b6d75bcec8212d9a259/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/46d08b6d75bcec8212d9a259/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/46d08b6d75bcec8212d9a259/thumb.webp",
+          "width": 480,
+          "height": 325
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/46d08b6d75bcec8212d9a259/medium.webp",
+          "width": 1280,
+          "height": 867
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/46d08b6d75bcec8212d9a259/original.webp",
+          "width": 2560,
+          "height": 1735
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "caption": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "event": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "sourceFilename": "ảnh bìa.jpeg",
+      "sourceDirectory": "Chung kết Hội thi Giáo lý Năm Thánh 2025 tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/628579ba9a1103c2567726a9/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/628579ba9a1103c2567726a9/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/628579ba9a1103c2567726a9/thumb.webp",
+          "width": 480,
+          "height": 310
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/628579ba9a1103c2567726a9/medium.webp",
+          "width": 1280,
+          "height": 826
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/628579ba9a1103c2567726a9/original.webp",
+          "width": 2560,
+          "height": 1653
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "caption": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "event": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "sourceFilename": "chung kết giáo lý 20251.jpeg",
+      "sourceDirectory": "Chung kết Hội thi Giáo lý Năm Thánh 2025 tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ec3a0814aea543d4870e8949/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ec3a0814aea543d4870e8949/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ec3a0814aea543d4870e8949/thumb.webp",
+          "width": 480,
+          "height": 316
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ec3a0814aea543d4870e8949/medium.webp",
+          "width": 1280,
+          "height": 842
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ec3a0814aea543d4870e8949/original.webp",
+          "width": 2560,
+          "height": 1684
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "caption": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "event": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "sourceFilename": "chung kết giáo lý 20252.jpeg",
+      "sourceDirectory": "Chung kết Hội thi Giáo lý Năm Thánh 2025 tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/33a68f934294e3bf996805c6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/33a68f934294e3bf996805c6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/33a68f934294e3bf996805c6/thumb.webp",
+          "width": 480,
+          "height": 332
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/33a68f934294e3bf996805c6/medium.webp",
+          "width": 1280,
+          "height": 886
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/33a68f934294e3bf996805c6/original.webp",
+          "width": 2560,
+          "height": 1771
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "caption": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "event": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "sourceFilename": "chung kết giáo lý 20253.jpeg",
+      "sourceDirectory": "Chung kết Hội thi Giáo lý Năm Thánh 2025 tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8ff500b17f3e56c4b7c952af/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8ff500b17f3e56c4b7c952af/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8ff500b17f3e56c4b7c952af/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8ff500b17f3e56c4b7c952af/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8ff500b17f3e56c4b7c952af/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "caption": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "event": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "sourceFilename": "chung kết giáo lý 20254.jpeg",
+      "sourceDirectory": "Chung kết Hội thi Giáo lý Năm Thánh 2025 tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6bb264cd19abd1519cc7f8a2/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6bb264cd19abd1519cc7f8a2/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6bb264cd19abd1519cc7f8a2/thumb.webp",
+          "width": 480,
+          "height": 325
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6bb264cd19abd1519cc7f8a2/medium.webp",
+          "width": 1280,
+          "height": 867
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6bb264cd19abd1519cc7f8a2/original.webp",
+          "width": 2560,
+          "height": 1735
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "caption": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "event": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "sourceFilename": "chung kết giáo lý 20256.jpeg",
+      "sourceDirectory": "Chung kết Hội thi Giáo lý Năm Thánh 2025 tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/50ddc52d65b283e934ada3c7/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/50ddc52d65b283e934ada3c7/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/50ddc52d65b283e934ada3c7/thumb.webp",
+          "width": 480,
+          "height": 323
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/50ddc52d65b283e934ada3c7/medium.webp",
+          "width": 1280,
+          "height": 863
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/50ddc52d65b283e934ada3c7/original.webp",
+          "width": 2560,
+          "height": 1725
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "caption": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "event": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "sourceFilename": "chung kết giáo lý 20257.jpeg",
+      "sourceDirectory": "Chung kết Hội thi Giáo lý Năm Thánh 2025 tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5ab58cf03e926b3f9ead99c3/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5ab58cf03e926b3f9ead99c3/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5ab58cf03e926b3f9ead99c3/thumb.webp",
+          "width": 480,
+          "height": 326
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5ab58cf03e926b3f9ead99c3/medium.webp",
+          "width": 1280,
+          "height": 869
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5ab58cf03e926b3f9ead99c3/original.webp",
+          "width": 2560,
+          "height": 1738
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "caption": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "event": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "sourceFilename": "chung kết giáo lý 20258.jpeg",
+      "sourceDirectory": "Chung kết Hội thi Giáo lý Năm Thánh 2025 tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8ef37661cc833a3613c5642e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8ef37661cc833a3613c5642e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8ef37661cc833a3613c5642e/thumb.webp",
+          "width": 480,
+          "height": 326
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8ef37661cc833a3613c5642e/medium.webp",
+          "width": 1280,
+          "height": 869
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8ef37661cc833a3613c5642e/original.webp",
+          "width": 2560,
+          "height": 1738
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "caption": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "event": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "sourceFilename": "chung kết giáo lý 20259.jpeg",
+      "sourceDirectory": "Chung kết Hội thi Giáo lý Năm Thánh 2025 tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/129ac274152a9f0038d4602f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/129ac274152a9f0038d4602f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/129ac274152a9f0038d4602f/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/129ac274152a9f0038d4602f/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/129ac274152a9f0038d4602f/original.webp",
+          "width": 2560,
+          "height": 1920
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "caption": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "event": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "sourceFilename": "chung kết giáo lý 202510.JPG",
+      "sourceDirectory": "Chung kết Hội thi Giáo lý Năm Thánh 2025 tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e7ab23007187860819f775c4/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e7ab23007187860819f775c4/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e7ab23007187860819f775c4/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e7ab23007187860819f775c4/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e7ab23007187860819f775c4/original.webp",
+          "width": 2560,
+          "height": 1920
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "caption": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "event": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "sourceFilename": "chung kết giáo lý 202511.JPG",
+      "sourceDirectory": "Chung kết Hội thi Giáo lý Năm Thánh 2025 tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1a94b1acc39d0692b615d3b9/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1a94b1acc39d0692b615d3b9/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1a94b1acc39d0692b615d3b9/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1a94b1acc39d0692b615d3b9/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1a94b1acc39d0692b615d3b9/original.webp",
+          "width": 2560,
+          "height": 1920
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "caption": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "event": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "sourceFilename": "chung kết giáo lý 202512.JPG",
+      "sourceDirectory": "Chung kết Hội thi Giáo lý Năm Thánh 2025 tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9011b98312cc223cf186e0bf/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9011b98312cc223cf186e0bf/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9011b98312cc223cf186e0bf/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9011b98312cc223cf186e0bf/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9011b98312cc223cf186e0bf/original.webp",
+          "width": 2560,
+          "height": 1920
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "caption": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "event": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+      "sourceFilename": "chung kết giáo lý 202513.JPG",
+      "sourceDirectory": "Chung kết Hội thi Giáo lý Năm Thánh 2025 tại Giáo xứ Thái Hà"
+    }
+  ]
+}

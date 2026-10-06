@@ -6,39 +6,129 @@
   "count": 5,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/001.jpg",
-      "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội · ảnh 1",
-      "alt": "Ảnh tư liệu: Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/001.jpg",
-      "variants": {}
+      "id": "media/2017/cathedral/57ea2853599df5a1/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/57ea2853599df5a1/medium.jpg",
+      "alt": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+      "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+      "event": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+      "sourceFilename": "thánh lễ nhà thờ lớn1.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/57ea2853599df5a1/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/57ea2853599df5a1/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/57ea2853599df5a1/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/002.jpg",
-      "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội · ảnh 2",
-      "alt": "Ảnh tư liệu: Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/002.jpg",
-      "variants": {}
+      "id": "media/2017/cathedral/331363f3759781a5/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/331363f3759781a5/medium.jpg",
+      "alt": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+      "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+      "event": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+      "sourceFilename": "thánh lễ nhà thờ lớn2.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/331363f3759781a5/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/331363f3759781a5/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/331363f3759781a5/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/003.jpg",
-      "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội · ảnh 3",
-      "alt": "Ảnh tư liệu: Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/003.jpg",
-      "variants": {}
+      "id": "media/2017/cathedral/3ff20f4f3d1e1dc7/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/3ff20f4f3d1e1dc7/medium.jpg",
+      "alt": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+      "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+      "event": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+      "sourceFilename": "thánh lễ nhà thờ lớn3.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/3ff20f4f3d1e1dc7/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/3ff20f4f3d1e1dc7/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/3ff20f4f3d1e1dc7/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/004.jpg",
-      "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội · ảnh 4",
-      "alt": "Ảnh tư liệu: Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/004.jpg",
-      "variants": {}
+      "id": "media/2017/cathedral/a5bb117189b46aa1/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/a5bb117189b46aa1/medium.jpg",
+      "alt": "Cộng đoàn hiệp dâng Thánh lễ tại Nhà thờ Lớn",
+      "caption": "Cộng đoàn hiệp dâng Thánh lễ tại Nhà thờ Lớn",
+      "event": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+      "sourceFilename": "thánh lễ nhà thờ lớn4.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/a5bb117189b46aa1/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/a5bb117189b46aa1/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/a5bb117189b46aa1/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/005.jpg",
-      "caption": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội · ảnh 5",
-      "alt": "Ảnh tư liệu: Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/005.jpg",
-      "variants": {}
+      "id": "media/2017/cathedral/5b95805e0102d02b/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/5b95805e0102d02b/medium.jpg",
+      "alt": "Không gian phụng vụ trong Thánh lễ",
+      "caption": "Không gian phụng vụ trong Thánh lễ",
+      "event": "Phục vụ Thánh lễ tại Nhà thờ Lớn Hà Nội",
+      "sourceFilename": "thánh lễ nhà thờ lớn5.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/5b95805e0102d02b/thumb.jpg",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/5b95805e0102d02b/medium.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/cathedral/5b95805e0102d02b/original.jpg",
+          "width": 1536,
+          "height": 2048
+        }
+      }
     }
   ]
 }

@@ -21,27 +21,30 @@
     "verse": "“Hãy hát mừng Chúa một bài ca mới, vì Người đã thực hiện bao kỳ công.” (Thánh Vịnh 98, 1)",
     "longDescription": "Những ngày đầu năm mở ra đầy hân hoan khi ca đoàn dâng lời ca trong Thánh lễ Khai xuân Giới Trẻ Thừa Sai và chung chia niềm vui trong Thánh lễ Hôn phối của anh Trưởng ca Giuse Phạm Văn Tĩnh cùng chị Maria Nguyễn Thị Mơ tại Giáo xứ Liên Thượng (Bùi Chu).\n\nBước sang tháng 3/2023, sự xuất hiện của chị Ca trưởng Maria Ban Mai như \"làn gió mới\" thổi vào đời sống ca đoàn. Nhờ ngọn lửa nhiệt thành, sự kiên nhẫn chị đã uốn nắn từng kỹ thuật thanh nhạc. Sự khởi sắc về chuyên môn không chỉ cuốn hút anh chị em ca viên quay trở lại, mà còn rộng đón thêm nhiều gương mặt mới, giúp ca đoàn thêm đông đủ và vững vàng.\n\nSức sống đức tin ấy tiếp tục vươn xa khi ca đoàn liên tục dấn thân phục vụ các sự kiện lớn: từ chuyến tĩnh tâm “Dấn Thân Trong Niềm Tin” của ca đoàn giữa trùng khơi Cô Tô, Thánh lễ Tĩnh tâm tại Giáo xứ Thanh Minh (Thái Bình), cho đến mốc son Mừng Đại lễ Bổn Mạng 8 năm thành lập và phục vụ Thánh lễ trong Đại Lễ Di Dân 2023 tại Thái Hà. Tình huynh đệ dưới mái nhà chung ca đoàn giới trẻ Têrêsa càng thêm bền chặt qua những lời ca chúc phúc trong Thánh lễ Hôn phối của chị Maria Vân Anh tại Cẩm Sơn. Năm 2023 khép lại trọn vẹn bằng chương trình thiện nguyện “Hơi ấm nơi rẻo cao” đầy xúc động, mang những phần quà nhỏ cùng lời ca tiếng hát sưởi ấm bà con nghèo vùng núi Cao Bằng.",
     "coverImage": {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/069/medium.jpg",
-      "alt": "Ca đoàn trong ngày mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Đại gia đình Ca đoàn Giới trẻ Têrêsa trong ngày mừng Lễ Quan Thầy năm 2023.",
-      "id": "media/2023/quan-thay-lan-thu-8/069/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/69275ef0fdaa771412b376a6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/69275ef0fdaa771412b376a6/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/069/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/69275ef0fdaa771412b376a6/thumb.webp",
           "width": 480,
-          "height": 320
+          "height": 309
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/069/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/69275ef0fdaa771412b376a6/medium.webp",
           "width": 1280,
-          "height": 854
+          "height": 824
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/069/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/69275ef0fdaa771412b376a6/original.webp",
           "width": 2048,
-          "height": 1366
+          "height": 1318
         }
-      }
+      },
+      "alt": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "caption": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "ảnh bìa( cả năm).jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
     }
   },
   "leadership": {
@@ -156,100 +159,112 @@
       "description": "Đây là một cột mốc tràn ngập niềm vui và xúc động của toàn thể gia đình Ca đoàn Giới trẻ Têrêsa.",
       "body": "Đây là một cột mốc tràn ngập niềm vui và xúc động của toàn thể gia đình Ca đoàn Giới trẻ Têrêsa. Anh Giuse Phạm Văn Tĩnh (Trưởng ca đoàn) và chị Maria Nguyễn Thị Mơ (Trưởng ban Liên kết) – hai con người đã dành trọn nhiệt huyết, thời gian và sức trẻ để góp phần xây dựng ca đoàn, đã tìm thấy nhau và nên duyên vợ chồng từ chính mái nhà chung này\n\nNhận lời mời thân thương, dù là ngày giữa tuần bận rộn và phải di chuyển quãng đường xa về tới Giáo phận Bùi Chu, đoàn xe của ca đoàn vẫn cất cánh trong bầu khí rộn rã và hân hoan. Tại ngôi thánh đường Liên Thượng cổ kính, tiếng hát sốt sắng, tươi vui của anh chị em ca viên dâng lên trong Thánh lễ Hôn phối không chỉ là lời nguyện chúc cho mái ấm mới của anh Tĩnh – chị Mơ luôn tràn đầy Hồng ân Thiên Chúa, mà còn là lời tạ ơn sâu sắc. Tình yêu của anh chị chính là minh chứng đẹp đẽ cho sự gắn kết, tinh thần hy sinh và tình huynh đệ chân thành mà Ca đoàn Giới trẻ Têrêsa luôn nâng niu, gìn giữ",
       "coverImage": {
-        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/medium.jpg",
-        "alt": "Thánh lễ Hôn phối của anh Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ",
-        "caption": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ · ảnh 4",
-        "id": "media/2023/hon-phoi-tinh-mo/004/original.jpg",
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/052ed2fc33c6fdac94970510/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/052ed2fc33c6fdac94970510/medium.webp",
         "variants": {
           "thumbnail": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/thumb.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/052ed2fc33c6fdac94970510/thumb.webp",
             "width": 480,
             "height": 210
           },
           "medium": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/medium.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/052ed2fc33c6fdac94970510/medium.webp",
             "width": 1280,
             "height": 560
           },
           "original": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/original.jpg?v=1006113",
-            "width": 3200,
-            "height": 1399
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/052ed2fc33c6fdac94970510/original.webp",
+            "width": 2560,
+            "height": 1120
           }
-        }
+        },
+        "alt": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+        "caption": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+        "event": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+        "sourceFilename": "ảnh bìa.png",
+        "sourceDirectory": "Lễ cưới ac Tĩnh Mơ 2023"
       },
       "album": {
         "manifest": "data/albums/2023/2023-hon-phoi-van-tinh-nguyen-thi-mo.json",
         "count": 4,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/medium.jpg",
-            "alt": "Thánh lễ Hôn phối của anh Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ",
-            "caption": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ · ảnh 4",
-            "id": "media/2023/hon-phoi-tinh-mo/004/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/052ed2fc33c6fdac94970510/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/052ed2fc33c6fdac94970510/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/052ed2fc33c6fdac94970510/thumb.webp",
                 "width": 480,
                 "height": 210
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/052ed2fc33c6fdac94970510/medium.webp",
                 "width": 1280,
                 "height": 560
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/original.jpg?v=1006113",
-                "width": 3200,
-                "height": 1399
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/052ed2fc33c6fdac94970510/original.webp",
+                "width": 2560,
+                "height": 1120
               }
-            }
+            },
+            "alt": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+            "caption": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+            "event": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+            "sourceFilename": "ảnh bìa.png",
+            "sourceDirectory": "Lễ cưới ac Tĩnh Mơ 2023"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/001/medium.jpg",
-            "alt": "Thánh lễ Hôn phối của anh Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ",
-            "caption": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ · ảnh 1",
-            "id": "media/2023/hon-phoi-tinh-mo/001/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1d802c3513159595dc0eb431/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1d802c3513159595dc0eb431/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/001/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1d802c3513159595dc0eb431/thumb.webp",
                 "width": 480,
                 "height": 393
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/001/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1d802c3513159595dc0eb431/medium.webp",
                 "width": 1280,
                 "height": 1048
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/001/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1d802c3513159595dc0eb431/medium.webp",
                 "width": 1280,
                 "height": 1048
               }
-            }
+            },
+            "alt": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+            "caption": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+            "event": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+            "sourceFilename": "ảnh cưới1.jpg",
+            "sourceDirectory": "Lễ cưới ac Tĩnh Mơ 2023"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/003/medium.jpg",
-            "alt": "Thánh lễ Hôn phối của anh Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ",
-            "caption": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ · ảnh 3",
-            "id": "media/2023/hon-phoi-tinh-mo/003/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/71908677bb55c6f8fda2117d/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/71908677bb55c6f8fda2117d/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/003/thumb.jpg",
-                "width": 360,
-                "height": 480
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/71908677bb55c6f8fda2117d/thumb.webp",
+                "width": 480,
+                "height": 360
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/003/medium.jpg",
-                "width": 960,
-                "height": 1280
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/71908677bb55c6f8fda2117d/medium.webp",
+                "width": 1280,
+                "height": 960
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/003/original.jpg",
-                "width": 960,
-                "height": 1280
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/71908677bb55c6f8fda2117d/medium.webp",
+                "width": 1280,
+                "height": 960
               }
-            }
+            },
+            "alt": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+            "caption": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+            "event": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+            "sourceFilename": "ảnh cưới2.jpg",
+            "sourceDirectory": "Lễ cưới ac Tĩnh Mơ 2023"
           }
         ]
       }
@@ -264,54 +279,60 @@
       "description": "Tháng Ba gõ cửa, đánh dấu một cột mốc chuyển mình đầy ý nghĩa trong đời sống phục vụ của Ca đoàn Giới trẻ Têrêsa khi chào đón chị Ban Mai trong vai trò Ca trưởng phụ trách chuyên môn",
       "body": "Tháng Ba gõ cửa, đánh dấu một cột mốc chuyển mình đầy ý nghĩa trong đời sống phục vụ của Ca đoàn Giới trẻ Têrêsa khi chào đón chị Ban Mai trong vai trò Ca trưởng phụ trách chuyên môn\n\nSự xuất hiện của chị Mai như một \"làn gió mới\" thổi vào không gian sinh hoạt của ca đoàn. Với ngọn lửa nhiệt thành, sự kiên nhẫn và lòng mến Chúa sâu sắc, chị không chỉ tỉ mỉ uốn nắn từng nốt nhạc, chỉnh sửa kỹ thuật lấy hơi, nhịp điệu và phối bè chuyên nghiệp hơn, mà còn mang đến một phương pháp tập hát vô cùng cuốn hút. Các buổi tối thứ 5 hàng tuần tập hát không còn là áp lực hay sự mệt mỏi sau ngày dài làm việc, mà trở thành những giờ phút đầy ắp tiếng cười, sự hứng khởi và năng lượng tích cực\n\nSự khởi sắc rõ rệt về chất lượng chuyên môn đã lan tỏa nguồn cảm hứng mãnh liệt. Nhiều cựu ca viên vốn bận rộn nay hào hứng quay trở lại sinh hoạt; đồng thời, ca đoàn cũng hân hoan đón nhận thêm nhiều gương mặt ca viên mới xin gia nhập, giúp sĩ số các bè thêm đông đủ và vững vàng\n\nSự thay đổi diện mạo về chuyên môn cùng sự chuyển giao nhân sự trôi chảy, êm đẹp trong bình an chính là món quà kỳ diệu, là dấu chỉ Thiên Chúa luôn an bài và chuẩn bị những điều tốt đẹp nhất cho Ca đoàn Têrêsa trên hành trình dâng tiếng hát phụng sự Ngài",
       "coverImage": {
-        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/ca-truong-ban-mai/001/medium.jpg",
-        "alt": "Ca trưởng Maria Ban Mai cùng Ca đoàn Giới trẻ Têrêsa",
-        "caption": "Chào đón Ca trưởng mới – Chị Maria Ban Mai · ảnh 1",
-        "id": "media/2023/ca-truong-ban-mai/001/original.jpg",
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f39a489b5f80efe87eb115b5/medium.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f39a489b5f80efe87eb115b5/medium.webp",
         "variants": {
           "thumbnail": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/ca-truong-ban-mai/001/thumb.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f39a489b5f80efe87eb115b5/thumb.webp",
             "width": 320,
             "height": 480
           },
           "medium": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/ca-truong-ban-mai/001/medium.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f39a489b5f80efe87eb115b5/medium.webp",
             "width": 854,
             "height": 1280
           },
           "original": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/ca-truong-ban-mai/001/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f39a489b5f80efe87eb115b5/medium.webp",
             "width": 854,
             "height": 1280
           }
-        }
+        },
+        "alt": "Chào đón Ca trưởng mới – Chị Maria Ban Mai",
+        "caption": "Chào đón Ca trưởng mới – Chị Maria Ban Mai",
+        "event": "Chào đón Ca trưởng mới – Chị Maria Ban Mai",
+        "sourceFilename": "1789739737951_1995884631902468284_7736263391661925970_bf2a0fbff7e6a39396e8aa493ddf345c.jpg",
+        "sourceDirectory": "Chào mừng chị Mai ca trưởng"
       },
       "album": {
         "manifest": "data/albums/2023/2023-don-ca-truong-ban-mai.json",
         "count": 1,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/ca-truong-ban-mai/001/medium.jpg",
-            "alt": "Ca trưởng Maria Ban Mai cùng Ca đoàn Giới trẻ Têrêsa",
-            "caption": "Chào đón Ca trưởng mới – Chị Maria Ban Mai · ảnh 1",
-            "id": "media/2023/ca-truong-ban-mai/001/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f39a489b5f80efe87eb115b5/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f39a489b5f80efe87eb115b5/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/ca-truong-ban-mai/001/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f39a489b5f80efe87eb115b5/thumb.webp",
                 "width": 320,
                 "height": 480
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/ca-truong-ban-mai/001/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f39a489b5f80efe87eb115b5/medium.webp",
                 "width": 854,
                 "height": 1280
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/ca-truong-ban-mai/001/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f39a489b5f80efe87eb115b5/medium.webp",
                 "width": 854,
                 "height": 1280
               }
-            }
+            },
+            "alt": "Chào đón Ca trưởng mới – Chị Maria Ban Mai",
+            "caption": "Chào đón Ca trưởng mới – Chị Maria Ban Mai",
+            "event": "Chào đón Ca trưởng mới – Chị Maria Ban Mai",
+            "sourceFilename": "1789739737951_1995884631902468284_7736263391661925970_bf2a0fbff7e6a39396e8aa493ddf345c.jpg",
+            "sourceDirectory": "Chào mừng chị Mai ca trưởng"
           }
         ]
       }
@@ -326,100 +347,112 @@
       "description": "Tạm gác lại những âu lo và bộn bề nơi phố thị, Ca đoàn Giới trẻ Têrêsa lên đường tiến về hòn đảo Cô Tô xinh đẹp.",
       "body": "Tạm gác lại những âu lo và bộn bề nơi phố thị, Ca đoàn Giới trẻ Têrêsa lên đường tiến về hòn đảo Cô Tô xinh đẹp. Chuyến di chuyển ra đảo bằng chiếc thuyền gỗ giữa những trận sóng dồn dập, chênh vênh chao đảo như chính hình ảnh đời sống phục vụ đôi lúc gặp nhiều giông bão. Thế nhưng, chính trong khoảnh khắc ấy, lời cầu nguyện “Thầy ơi, cứu con!” lại cất lên đầy tha thiết, nhắc nhớ mỗi ca viên biết trông cậy hoàn toàn vào ơn Chúa mỗi khi đối diện với gian truân, lầm lỗi hay thử thách\n\nVới chủ đề “Dấn Thân Trong Niềm Tin”, chuyến tĩnh tâm là tiếng gọi thân thương mời gọi mỗi thành viên vững tin dấn thân hơn nữa trong “ơn gọi” dâng tiếng hát phụng sự. Giữa không gian mênh mông của biển trời, anh chị em đã có những giờ phút lắng đọng tâm hồn, nhìn lại chặng đường dấn thân, lãnh nhận Bí tích Hòa giải và cùng nhau tham dự Thánh lễ sốt sắng. Không chỉ vậy, ở mỗi người cảm nghiệm được sâu sắc hơn tình thương bao la của Chúa và mở lòng ra để yêu thương nhau nhiều hơn\n\nBên cạnh những khoảng lặng thiêng liêng, các hoạt động đá bóng trên bãi biển, cùng nhau đạp xe dạo phố nghêu ngao hát ca, cùng đêm giao lưu ấm cúng trên bãi biển đã xóa tan mọi khoảng cách. Những nụ cười rạng rỡ, những câu chuyện sẻ chia chân thành đã gắn kết các thành viên mới - cũ thành một gia đình trọn vẹn niềm vui. Chuyến đi khép lại nhưng đã để lại những kỷ niệm vô giá, vun đắp cho ca đoàn một tinh thần hiệp nhất vững chắc trong tình yêu Đức Kitô, để mọi người cùng nắm tay nhau tiếp tục dấn thân trên con đường dâng tiếng hát phụng sự Chúa và phục vụ tha nhân",
       "coverImage": {
-        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/069/medium.jpg",
-        "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-        "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 69",
-        "id": "media/2023/tinh-tam-co-to/069/original.jpg",
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1aa4b668f5453853eff19244/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1aa4b668f5453853eff19244/medium.webp",
         "variants": {
           "thumbnail": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/069/thumb.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1aa4b668f5453853eff19244/thumb.webp",
             "width": 480,
             "height": 320
           },
           "medium": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/069/medium.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1aa4b668f5453853eff19244/medium.webp",
             "width": 1280,
             "height": 853
           },
           "original": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/069/original.jpg",
-            "width": 2784,
-            "height": 1856
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1aa4b668f5453853eff19244/original.webp",
+            "width": 2560,
+            "height": 1707
           }
-        }
+        },
+        "alt": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+        "caption": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+        "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+        "sourceFilename": "ảnh bìa.JPG",
+        "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
       },
       "album": {
         "manifest": "data/albums/2023/2023-tinh-tam-co-to.json",
         "count": 81,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/069/medium.jpg",
-            "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-            "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 69",
-            "id": "media/2023/tinh-tam-co-to/069/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0763811505cd578a5e06b89a/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0763811505cd578a5e06b89a/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/069/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0763811505cd578a5e06b89a/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/069/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0763811505cd578a5e06b89a/medium.webp",
                 "width": 1280,
                 "height": 853
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/069/original.jpg",
-                "width": 2784,
-                "height": 1856
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0763811505cd578a5e06b89a/original.webp",
+                "width": 2560,
+                "height": 1707
               }
-            }
+            },
+            "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+            "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 29",
+            "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+            "sourceFilename": "tĩnh tâm11.JPG",
+            "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/001/medium.jpg",
-            "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-            "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 1",
-            "id": "media/2023/tinh-tam-co-to/001/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b05481fad336010a66d8b4c0/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b05481fad336010a66d8b4c0/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/001/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b05481fad336010a66d8b4c0/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/001/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b05481fad336010a66d8b4c0/medium.webp",
                 "width": 1280,
                 "height": 853
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/001/original.jpg",
-                "width": 2784,
-                "height": 1856
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b05481fad336010a66d8b4c0/original.webp",
+                "width": 2560,
+                "height": 1707
               }
-            }
-          },
-          {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/041/medium.jpg",
+            },
             "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
             "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 41",
-            "id": "media/2023/tinh-tam-co-to/041/original.jpg",
+            "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+            "sourceFilename": "tĩnh tâm22.JPG",
+            "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7b43905c02f44bf0c7d00bb6/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7b43905c02f44bf0c7d00bb6/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/041/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7b43905c02f44bf0c7d00bb6/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/041/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7b43905c02f44bf0c7d00bb6/medium.webp",
                 "width": 1280,
                 "height": 853
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/041/original.jpg",
-                "width": 2784,
-                "height": 1856
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7b43905c02f44bf0c7d00bb6/original.webp",
+                "width": 2560,
+                "height": 1707
               }
-            }
+            },
+            "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+            "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 56",
+            "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+            "sourceFilename": "tĩnh tâm33.JPG",
+            "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
           }
         ]
       }
@@ -434,100 +467,112 @@
       "description": "Ca đoàn Giới trẻ Têrêsa cùng các hội đoàn trong GĐCGXQ Hà Nội đã gác lại công việc, khởi hành từ 05h30 sáng tiến về Giáo xứ Thanh Minh.",
       "body": "Ca đoàn Giới trẻ Têrêsa cùng các hội đoàn trong GĐCGXQ Hà Nội đã gác lại công việc, khởi hành từ 05h30 sáng tiến về Giáo xứ Thanh Minh. Với chủ đề “Người xa quê gặp gỡ chính Chúa Giêsu”, đây là dịp thuận tiện để mỗi ca viên lắng đọng tâm hồn qua các giờ tĩnh tâm, Chầu Thánh Thể linh thiêng và lãnh nhận Bí tích Hòa giải\n\nLúc 14h00, ca đoàn được đảm nhận phục vụ hát lễ, đã nâng tâm hồn cộng đoàn hướng về Thiên Chúa trong niềm tạ ơn sâu sắc\n\nNiềm vui ngày tĩnh tâm càng trọn vẹn hơn khi đoàn ghé thăm Tòa Giám Mục Thái Bình, dạo bước bên bãi biển và quây quần ghé thăm nhà chị Ca trưởng Ban Mai. Những tiếng cười giòn giã, những khoảnh khắc gắn kết chân thành đã thắt chặt thêm tình huynh đệ. Chuyến đi khép lại trong bình an lúc 19h30, đọng lại tinh thần hiệp nhất dưới mái nhà chung GĐCGXQ Hà Nội.",
       "coverImage": {
-        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/001/medium.jpg",
-        "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
-        "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 1",
-        "id": "media/2023/tinh-tam-thanh-minh/001/original.jpg",
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/056ea56652e022b4d7e2ca03/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/056ea56652e022b4d7e2ca03/medium.webp",
         "variants": {
           "thumbnail": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/001/thumb.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/056ea56652e022b4d7e2ca03/thumb.webp",
             "width": 480,
-            "height": 360
+            "height": 368
           },
           "medium": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/001/medium.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/056ea56652e022b4d7e2ca03/medium.webp",
             "width": 1280,
-            "height": 960
+            "height": 981
           },
           "original": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/001/original.jpg",
-            "width": 2048,
-            "height": 1536
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/056ea56652e022b4d7e2ca03/original.webp",
+            "width": 2560,
+            "height": 1962
           }
-        }
+        },
+        "alt": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+        "caption": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+        "event": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Tĩnh tâm Gx Thanh Minh 2023( người xa quê gặp gỡ chính Chúa Giêsu )"
       },
       "album": {
         "manifest": "data/albums/2023/2023-tinh-tam-thanh-minh.json",
         "count": 15,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/001/medium.jpg",
-            "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
-            "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 1",
-            "id": "media/2023/tinh-tam-thanh-minh/001/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/49c90ae134a4e245f734eda9/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/49c90ae134a4e245f734eda9/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/001/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/49c90ae134a4e245f734eda9/thumb.webp",
                 "width": 480,
                 "height": 360
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/001/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/49c90ae134a4e245f734eda9/medium.webp",
                 "width": 1280,
                 "height": 960
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/001/original.jpg",
-                "width": 2048,
-                "height": 1536
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/49c90ae134a4e245f734eda9/original.webp",
+                "width": 2560,
+                "height": 1920
               }
-            }
+            },
+            "alt": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+            "caption": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+            "event": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+            "sourceFilename": "tĩnh tâm3.jpg",
+            "sourceDirectory": "Tĩnh tâm Gx Thanh Minh 2023( người xa quê gặp gỡ chính Chúa Giêsu )"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/008/medium.jpg",
-            "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
-            "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 8",
-            "id": "media/2023/tinh-tam-thanh-minh/008/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f823f483e2ab8ae549c2f55c/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f823f483e2ab8ae549c2f55c/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/008/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f823f483e2ab8ae549c2f55c/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/008/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f823f483e2ab8ae549c2f55c/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/008/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f823f483e2ab8ae549c2f55c/medium.webp",
                 "width": 1280,
                 "height": 854
               }
-            }
+            },
+            "alt": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+            "caption": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+            "event": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+            "sourceFilename": "tĩnh tâm8.jpg",
+            "sourceDirectory": "Tĩnh tâm Gx Thanh Minh 2023( người xa quê gặp gỡ chính Chúa Giêsu )"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/015/medium.jpg",
-            "alt": "Ca đoàn trong ngày tĩnh tâm tại Giáo xứ Thanh Minh",
-            "caption": "Tĩnh tâm tại Giáo xứ Thanh Minh · ảnh 15",
-            "id": "media/2023/tinh-tam-thanh-minh/015/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cce68c873a816795e3454bfc/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cce68c873a816795e3454bfc/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/015/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cce68c873a816795e3454bfc/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/015/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cce68c873a816795e3454bfc/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/015/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cce68c873a816795e3454bfc/medium.webp",
                 "width": 1280,
                 "height": 854
               }
-            }
+            },
+            "alt": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+            "caption": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+            "event": "Phục vụ Thánh lễ Tĩnh tâm hướng tới Đại Lễ Di Dân 2023 tại Giáo xứ Thanh Minh – Giáo phận Thái Bình",
+            "sourceFilename": "tĩnh tâm12.jpg",
+            "sourceDirectory": "Tĩnh tâm Gx Thanh Minh 2023( người xa quê gặp gỡ chính Chúa Giêsu )"
           }
         ]
       }
@@ -542,100 +587,112 @@
       "description": "Cuối tháng 9, bầu khí hướng về Nhà thờ Giáo xứ Thái Hà trở nên rộn rã hơn bao giờ hết.",
       "body": "Cuối tháng 9, bầu khí hướng về Nhà thờ Giáo xứ Thái Hà trở nên rộn rã hơn bao giờ hết. Anh chị em ca viên hăng say dâng những buổi tối hy sinh tập hát và say sưa tập cử điệu. Tất cả cùng hòa quyện khả năng Chúa ban để dệt nên một bản nhạc tạ ơn, noi gương con đường thơ ấu của Thánh Quan thầy: làm việc nhỏ với tình yêu lớn\n\nLúc 18h30, Thánh lễ Mừng Kỷ niệm 8 năm thành lập (2015 – 2023) và Mừng kính Thánh Têrêsa Hài Đồng Giêsu diễn ra trang trọng do Cha Phó Đặc trách Giuse Lương Thanh Tùng chủ tế, cùng sự hiện diện của quý Cha Đặc trách, quý Sơ, quý khách và cộng đoàn. Lời Chúa qua phần chia sẻ của Thầy Phó tế Giuse đã nhắc nhớ mỗi ca viên biết phục vụ trong khiêm nhường và phó thác. Ý thức \"hát là cầu nguyện hai lần\", những giai điệu hòa bè cất lên đã nâng tâm hồn cộng đoàn tham dự hướng về Thiên Chúa\n\nSau Thánh lễ, đại gia đình Têrêsa quây quần ăn bữa cơm thân mật, cùng nhau hát, nhảy cử điệu và trao nhau những nụ cười ấm áp. Ngày Lễ Bổn Mạng khép lại trong niềm hân hoan, đong đầy ân sủng và thắt chặt ngọn lửa nhiệt thành cho hành trình dấn thân phía trước",
       "coverImage": {
-        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/069/medium.jpg",
-        "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-        "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 69",
-        "id": "media/2023/quan-thay-lan-thu-8/069/original.jpg",
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/69275ef0fdaa771412b376a6/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/69275ef0fdaa771412b376a6/medium.webp",
         "variants": {
           "thumbnail": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/069/thumb.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/69275ef0fdaa771412b376a6/thumb.webp",
             "width": 480,
-            "height": 320
+            "height": 309
           },
           "medium": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/069/medium.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/69275ef0fdaa771412b376a6/medium.webp",
             "width": 1280,
-            "height": 854
+            "height": 824
           },
           "original": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/069/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/69275ef0fdaa771412b376a6/original.webp",
             "width": 2048,
-            "height": 1366
+            "height": 1318
           }
-        }
+        },
+        "alt": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+        "caption": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+        "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+        "sourceFilename": "ảnh bìa( cả năm).jpg",
+        "sourceDirectory": "QUAN THẦY 2023"
       },
       "album": {
         "manifest": "data/albums/2023/2023-quan-thay-lan-thu-8.json",
         "count": 150,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/069/medium.jpg",
-            "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-            "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 69",
-            "id": "media/2023/quan-thay-lan-thu-8/069/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/002cedceced0495ca66bfdf6/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/002cedceced0495ca66bfdf6/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/069/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/002cedceced0495ca66bfdf6/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/069/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/002cedceced0495ca66bfdf6/medium.webp",
                 "width": 1280,
-                "height": 854
+                "height": 853
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/069/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/002cedceced0495ca66bfdf6/original.webp",
                 "width": 2048,
-                "height": 1366
+                "height": 1365
               }
-            }
+            },
+            "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+            "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 23",
+            "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+            "sourceFilename": "lễ quan thầy11.jpg",
+            "sourceDirectory": "QUAN THẦY 2023"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/001/medium.jpg",
-            "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-            "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 1",
-            "id": "media/2023/quan-thay-lan-thu-8/001/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/356985dd6b3dcd55be3d1349/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/356985dd6b3dcd55be3d1349/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/001/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/356985dd6b3dcd55be3d1349/thumb.webp",
                 "width": 480,
-                "height": 320
+                "height": 319
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/001/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/356985dd6b3dcd55be3d1349/medium.webp",
                 "width": 1280,
-                "height": 854
+                "height": 852
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/001/original.jpg?v=2022508",
-                "width": 3200,
-                "height": 2134
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/356985dd6b3dcd55be3d1349/original.webp",
+                "width": 2048,
+                "height": 1363
               }
-            }
+            },
+            "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+            "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 65",
+            "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+            "sourceFilename": "lễ quan thầy23.jpg",
+            "sourceDirectory": "QUAN THẦY 2023"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/076/medium.jpg",
-            "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-            "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 76",
-            "id": "media/2023/quan-thay-lan-thu-8/076/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b3d47c4642aa74405e8e9101/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b3d47c4642aa74405e8e9101/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/076/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b3d47c4642aa74405e8e9101/thumb.webp",
                 "width": 480,
                 "height": 309
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/076/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b3d47c4642aa74405e8e9101/medium.webp",
                 "width": 1280,
                 "height": 824
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/076/original.jpg?v=1691008",
-                "width": 3200,
-                "height": 2059
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b3d47c4642aa74405e8e9101/original.webp",
+                "width": 2048,
+                "height": 1318
               }
-            }
+            },
+            "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+            "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 80",
+            "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+            "sourceFilename": "lễ quan thầy35.jpg",
+            "sourceDirectory": "QUAN THẦY 2023"
           }
         ]
       }
@@ -661,100 +718,112 @@
       "description": "Đáp lại lời ngỏ chân thành của chị Vân Anh — người ca viên luôn nhiệt thành, Ca đoàn Giới trẻ Têrêsa đã hân hoan quy tụ về Giáo xứ Cẩm Sơn để phục vụ Thánh lễ Hôn phối cho chị Maria Vân Anh và anh Giuse Ân Sủng.",
       "body": "Đáp lại lời ngỏ chân thành của chị Vân Anh — người ca viên luôn nhiệt thành, Ca đoàn Giới trẻ Têrêsa đã hân hoan quy tụ về Giáo xứ Cẩm Sơn để phục vụ Thánh lễ Hôn phối cho chị Maria Vân Anh và anh Giuse Ân Sủng. Đây là Thánh lễ Hôn phối thứ hai của ca viên mà đại gia đình Têrêsa vinh dự được đồng hành phục vụ trong năm 2023. Được phục vụ thánh lễ, được chứng kiến khoảnh khắc thiêng khi hai tâm hồn trao lời thề hứa trước bàn thờ Chúa là niềm hạnh phúc của cả ca đoàn. Những lời ca cất lên không chỉ là món quà vô giá gửi trao, mà còn là lời nguyện cầu tha thiết dâng lên Thiên Chúa, chúc phúc cho đôi tân hôn luôn trung thành, yêu thương và cùng nhau xây đắp một mái ấm ngập tràn ân sủng",
       "coverImage": {
-        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/011/medium.jpg",
-        "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
-        "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 11",
-        "id": "media/2023/hon-phoi-van-anh-an-sung/011/original.jpg",
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1643bc17c67023aa4a80f668/medium.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1643bc17c67023aa4a80f668/medium.webp",
         "variants": {
           "thumbnail": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/011/thumb.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1643bc17c67023aa4a80f668/thumb.webp",
             "width": 480,
             "height": 320
           },
           "medium": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/011/medium.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1643bc17c67023aa4a80f668/medium.webp",
             "width": 1280,
             "height": 854
           },
           "original": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/011/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1643bc17c67023aa4a80f668/medium.webp",
             "width": 1280,
             "height": 854
           }
-        }
+        },
+        "alt": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+        "caption": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+        "event": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Lễ cưới Vân Anh 2023"
       },
       "album": {
         "manifest": "data/albums/2023/2023-hon-phoi-van-anh-an-sung.json",
         "count": 11,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/011/medium.jpg",
-            "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
-            "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 11",
-            "id": "media/2023/hon-phoi-van-anh-an-sung/011/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f460cd7d9d4ff57999e98af8/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f460cd7d9d4ff57999e98af8/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/011/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f460cd7d9d4ff57999e98af8/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/011/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f460cd7d9d4ff57999e98af8/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/011/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f460cd7d9d4ff57999e98af8/medium.webp",
                 "width": 1280,
                 "height": 854
               }
-            }
+            },
+            "alt": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+            "caption": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+            "event": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+            "sourceFilename": "ảnh cưới2.jpg",
+            "sourceDirectory": "Lễ cưới Vân Anh 2023"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/001/medium.jpg",
-            "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
-            "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 1",
-            "id": "media/2023/hon-phoi-van-anh-an-sung/001/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c08e357e45a7026bf913e6a3/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c08e357e45a7026bf913e6a3/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/001/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c08e357e45a7026bf913e6a3/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/001/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c08e357e45a7026bf913e6a3/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/001/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c08e357e45a7026bf913e6a3/medium.webp",
                 "width": 1280,
                 "height": 854
               }
-            }
+            },
+            "alt": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+            "caption": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+            "event": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+            "sourceFilename": "ảnh cưới6.jpg",
+            "sourceDirectory": "Lễ cưới Vân Anh 2023"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/006/medium.jpg",
-            "alt": "Thánh lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng",
-            "caption": "Thánh Lễ Hôn Phối của chị Maria Vân Anh và anh Giuse Ân Sủng · ảnh 6",
-            "id": "media/2023/hon-phoi-van-anh-an-sung/006/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/76a84cbe437b16a9e342e526/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/76a84cbe437b16a9e342e526/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/006/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/76a84cbe437b16a9e342e526/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/006/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/76a84cbe437b16a9e342e526/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/006/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/76a84cbe437b16a9e342e526/medium.webp",
                 "width": 1280,
                 "height": 854
               }
-            }
+            },
+            "alt": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+            "caption": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+            "event": "Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Cẩm Sơn (GP. Hà Nội)",
+            "sourceFilename": "ảnh cưới11.jpg",
+            "sourceDirectory": "Lễ cưới Vân Anh 2023"
           }
         ]
       }
@@ -769,100 +838,112 @@
       "description": "Nhờ sự nâng đỡ của quý Cha Đặc trách cùng sự rộng lượng của quý ân nhân, chuyến thiện nguyện \"Hơi ấm nơi rẻo cao\" đã lăn bánh trong đêm đông 15/12/2023.",
       "body": "Nhờ sự nâng đỡ của quý Cha Đặc trách cùng sự rộng lượng của quý ân nhân, chuyến thiện nguyện \"Hơi ấm nơi rẻo cao\" đã lăn bánh trong đêm đông 15/12/2023.\n\nĐến với hai bản xa Lũng Lừa và Lũng Khỉnh (huyện Hà Quảng, tỉnh Cao Bằng), các ca viên mới cảm nhận trọn vẹn cái lạnh cắt da cắt thịt của vùng núi phía Bắc. Những đoạn đường gập ghềnh, đất đá lổm chổm buộc cả đoàn phải san sẻ đồ đạc, trung chuyển qua từng chiếc xe nhỏ để lách qua từng khúc ôm cua hiểm trở. Thách thức ấy giúp mỗi người trẻ thấu cảm sâu sắc nỗi vất vả, thiếu thốn mà bà con nghèo và các em nhỏ nơi đây phải đối diện mỗi ngày\n\n115 suất quà gồm chăn ấm, gạo, nhu yếu phẩm cùng quần áo, bánh kẹo đã được trao tận tay từng gia đình. Khoảnh khắc nhìn thấy những ánh mắt rạng rỡ, những nụ cười ngây thơ tươi vui của các em nhỏ khi nhận món quà mừng Chúa Giáng Sinh, mọi mệt mỏi đường xa trong lòng các ca viên dường như tan biến. Chiêm ngắm những nét mặt rạng rỡ ấy, mỗi thành viên như tự hứa với lòng phải cố gắng hơn nữa, dấn thân nhiều hơn nữa để tiếp tục trở thành cánh tay nối dài mang tình thương của Chúa đến những vùng đất cằn cỗi.\n\nTối 16/12, giữa không gian yên bình của giáo xứ Cao Bình, ca đoàn đã sốt sắng dâng lời ca tiếng hát phục vụ Thánh lễ, dâng lên Chúa mọi nhọc nhằn, niềm vui và sự hy sinh của chuyến đi. Ngày 17/12, sau những phút giây chiêm ngắm tuyệt tác thiên nhiên tại Thác Bản Giốc, đoàn lên xe trở về Hà Nội trong bình an.\n\nHành trình thiện nguyện khép lại năm 2023 không chỉ dâng trao hơi ấm cho bản làng xa xôi, mà còn đọng lại trong tim mỗi ca viên bài học sâu sắc về sự trao ban, giúp ngọn lửa yêu thương và tinh thần chứng nhân tiếp tục cháy sáng trên từng chặng đường phía trước",
       "coverImage": {
-        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/006/medium.jpg?v=459405",
-        "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 6",
-        "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-        "id": "media/2023/hoi-am-noi-reo-cao/006/original.jpg",
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4b7250442db783b36c51c892/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4b7250442db783b36c51c892/medium.webp",
         "variants": {
           "thumbnail": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/006/thumb.jpg?v=82126",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4b7250442db783b36c51c892/thumb.webp",
             "width": 480,
             "height": 318
           },
           "medium": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/006/medium.jpg?v=459405",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4b7250442db783b36c51c892/medium.webp",
             "width": 1280,
-            "height": 847
+            "height": 848
           },
           "original": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/006/original.jpg?v=2753752",
-            "width": 3200,
-            "height": 2119
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4b7250442db783b36c51c892/original.webp",
+            "width": 2560,
+            "height": 1696
           }
-        }
+        },
+        "alt": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+        "caption": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+        "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+        "sourceFilename": "ảnh bìa.JPG",
+        "sourceDirectory": "Thiện Nguyện 2023"
       },
       "album": {
         "manifest": "data/albums/2023/2023-hoi-am-noi-reo-cao.json",
         "count": 54,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/006/medium.jpg?v=459405",
-            "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 6",
-            "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-            "id": "media/2023/hoi-am-noi-reo-cao/006/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9a4162e4d18417e05e01eec4/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9a4162e4d18417e05e01eec4/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/006/thumb.jpg?v=82126",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9a4162e4d18417e05e01eec4/thumb.webp",
                 "width": 480,
                 "height": 318
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/006/medium.jpg?v=459405",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9a4162e4d18417e05e01eec4/medium.webp",
                 "width": 1280,
-                "height": 847
+                "height": 848
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/006/original.jpg?v=2753752",
-                "width": 3200,
-                "height": 2119
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9a4162e4d18417e05e01eec4/original.webp",
+                "width": 2560,
+                "height": 1696
               }
-            }
+            },
+            "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 13",
+            "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
+            "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+            "sourceFilename": "thiện nguyện13.JPG",
+            "sourceDirectory": "Thiện Nguyện 2023"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/020/medium.jpg?v=310595",
-            "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 20",
-            "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-            "id": "media/2023/hoi-am-noi-reo-cao/020/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bb13df032c1a5942eb239b3e/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bb13df032c1a5942eb239b3e/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/020/thumb.jpg?v=62328",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bb13df032c1a5942eb239b3e/thumb.webp",
                 "width": 480,
                 "height": 318
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/020/medium.jpg?v=310595",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bb13df032c1a5942eb239b3e/medium.webp",
                 "width": 1280,
-                "height": 847
+                "height": 848
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/020/original.jpg?v=1857062",
-                "width": 3200,
-                "height": 2119
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bb13df032c1a5942eb239b3e/original.webp",
+                "width": 2560,
+                "height": 1696
               }
-            }
-          },
-          {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/046/medium.jpg?v=321299",
-            "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 46",
+            },
+            "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 41",
             "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
-            "id": "media/2023/hoi-am-noi-reo-cao/046/original.jpg",
+            "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+            "sourceFilename": "thiện nguyện39.JPG",
+            "sourceDirectory": "Thiện Nguyện 2023"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8d23e163abfbe32b889a83ce/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8d23e163abfbe32b889a83ce/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/046/thumb.jpg?v=66594",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8d23e163abfbe32b889a83ce/thumb.webp",
                 "width": 480,
                 "height": 318
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/046/medium.jpg?v=321299",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8d23e163abfbe32b889a83ce/medium.webp",
                 "width": 1280,
-                "height": 847
+                "height": 848
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/046/original.jpg?v=1856803",
-                "width": 3200,
-                "height": 2119
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8d23e163abfbe32b889a83ce/original.webp",
+                "width": 2560,
+                "height": 1696
               }
-            }
+            },
+            "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 54",
+            "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
+            "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+            "sourceFilename": "thiện nguyện52.JPG",
+            "sourceDirectory": "Thiện Nguyện 2023"
           }
         ]
       }

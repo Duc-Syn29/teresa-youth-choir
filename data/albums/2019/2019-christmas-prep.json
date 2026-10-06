@@ -6,18 +6,54 @@
   "count": 2,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/001.jpg",
-      "caption": "Tập múa chuẩn bị cho Giáng Sinh · ảnh 1",
-      "alt": "Ảnh tư liệu: Tập múa chuẩn bị cho Giáng Sinh",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/001.jpg",
-      "variants": {}
+      "id": "media/2019/christmas-prep/2fbdd95851c5b843/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/2fbdd95851c5b843/medium.jpg",
+      "alt": "Tập múa chuẩn bị cho Giáng Sinh",
+      "caption": "Tập múa chuẩn bị cho Giáng Sinh",
+      "event": "Tập múa chuẩn bị cho Giáng Sinh",
+      "sourceFilename": "1786676991769_1995884631902468284_7736263391661925970_3c9c4a815c9bb5e698551b7726a4a02a.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/2fbdd95851c5b843/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/2fbdd95851c5b843/medium.jpg",
+          "width": 590,
+          "height": 443
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/2fbdd95851c5b843/original.jpg",
+          "width": 590,
+          "height": 443
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/002.jpg",
-      "caption": "Tập múa chuẩn bị cho Giáng Sinh · ảnh 2",
-      "alt": "Ảnh tư liệu: Tập múa chuẩn bị cho Giáng Sinh",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/002.jpg",
-      "variants": {}
+      "id": "media/2019/christmas-prep/50da8fbcdc422f85/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/50da8fbcdc422f85/medium.jpg",
+      "alt": "Buổi tập của ca đoàn ngoài công viên",
+      "caption": "Buổi tập của ca đoàn ngoài công viên",
+      "event": "Tập múa chuẩn bị cho Giáng Sinh",
+      "sourceFilename": "1786676991792_1995884631902468284_7736263391661925970_867103dbcb7606a8aaf00df524ec063a.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/50da8fbcdc422f85/thumb.jpg",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/50da8fbcdc422f85/medium.jpg",
+          "width": 443,
+          "height": 590
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/christmas-prep/50da8fbcdc422f85/original.jpg",
+          "width": 443,
+          "height": 590
+        }
+      }
     }
   ]
 }

@@ -3,81 +3,85 @@
   "year": 2024,
   "activityId": "2024-hon-phoi-duc-binh-phuong-quynh",
   "title": "Lễ hôn phối Đức Bình và Phương Quỳnh",
-  "topic": "Hát lễ cưới",
-  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/001-200ffc102d/medium.jpg",
   "count": 3,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/001-200ffc102d/medium.jpg",
-      "alt": "Ca đoàn trong lễ hôn phối đức bình và phương quỳnh.",
-      "caption": "Ca đoàn trong lễ hôn phối đức bình và phương quỳnh.",
-      "id": "media/2024/2024-hon-phoi-duc-binh-phuong-quynh/001-200ffc102d/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/09d67075821e58f8f2d1944e/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/09d67075821e58f8f2d1944e/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/001-200ffc102d/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/09d67075821e58f8f2d1944e/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/001-200ffc102d/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/09d67075821e58f8f2d1944e/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/001-200ffc102d/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/09d67075821e58f8f2d1944e/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Lễ hôn phối Đức Bình và Phương Quỳnh"
+      "alt": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+      "caption": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+      "event": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+      "sourceFilename": "ảnh bìa.jpg",
+      "sourceDirectory": "Lễ cưới Phương Quỳnh - Bình 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/002-abd0ae9d33/medium.jpg",
-      "alt": "Ca đoàn trong lễ hôn phối đức bình và phương quỳnh.",
-      "caption": "Ca đoàn trong lễ hôn phối đức bình và phương quỳnh.",
-      "id": "media/2024/2024-hon-phoi-duc-binh-phuong-quynh/002-abd0ae9d33/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b3709390552ea6f9ce87f56c/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b3709390552ea6f9ce87f56c/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/002-abd0ae9d33/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b3709390552ea6f9ce87f56c/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/002-abd0ae9d33/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b3709390552ea6f9ce87f56c/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/002-abd0ae9d33/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b3709390552ea6f9ce87f56c/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Lễ hôn phối Đức Bình và Phương Quỳnh"
+      "alt": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+      "caption": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+      "event": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+      "sourceFilename": "1789841323775_1995884631902468284_7736263391661925970_faace9f0672b58283e7f56d76d63bbd3.jpg",
+      "sourceDirectory": "Lễ cưới Phương Quỳnh - Bình 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/003-2a7903ca58/medium.jpg",
-      "alt": "Ca đoàn trong lễ hôn phối đức bình và phương quỳnh.",
-      "caption": "Ca đoàn trong lễ hôn phối đức bình và phương quỳnh.",
-      "id": "media/2024/2024-hon-phoi-duc-binh-phuong-quynh/003-2a7903ca58/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/73c15c9f7bcd3bac7c20a673/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/73c15c9f7bcd3bac7c20a673/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/003-2a7903ca58/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/73c15c9f7bcd3bac7c20a673/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/003-2a7903ca58/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/73c15c9f7bcd3bac7c20a673/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/003-2a7903ca58/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/73c15c9f7bcd3bac7c20a673/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Lễ hôn phối Đức Bình và Phương Quỳnh"
+      "alt": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+      "caption": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+      "event": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+      "sourceFilename": "1789841323808_1995884631902468284_7736263391661925970_f5dbf802e23cf4c74ca5bdb451837757.jpg",
+      "sourceDirectory": "Lễ cưới Phương Quỳnh - Bình 2024"
     }
   ]
 }

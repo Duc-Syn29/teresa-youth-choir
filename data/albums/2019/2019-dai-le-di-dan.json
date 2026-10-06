@@ -6,95 +6,329 @@
   "count": 13,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/001.jpg",
-      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 1",
-      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/001.jpg",
-      "variants": {}
+      "id": "media/2019/dai-le-di-dan/c2d0efa6851aa9d0/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/c2d0efa6851aa9d0/medium.jpg",
+      "alt": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "sourceFilename": "ảnh bìa.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/c2d0efa6851aa9d0/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/c2d0efa6851aa9d0/medium.jpg",
+          "width": 590,
+          "height": 332
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/c2d0efa6851aa9d0/original.jpg",
+          "width": 590,
+          "height": 332
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/002.jpg",
-      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 2",
-      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/002.jpg",
-      "variants": {}
+      "id": "media/2019/dai-le-di-dan/814df67deb892adb/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/814df67deb892adb/medium.jpg",
+      "alt": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "sourceFilename": "đại lễ di dân 1.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/814df67deb892adb/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/814df67deb892adb/medium.jpg",
+          "width": 590,
+          "height": 332
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/814df67deb892adb/original.jpg",
+          "width": 590,
+          "height": 332
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/003.jpg",
-      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 3",
-      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/003.jpg",
-      "variants": {}
+      "id": "media/2019/dai-le-di-dan/53e68b1ddeb72e27/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/53e68b1ddeb72e27/medium.jpg",
+      "alt": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "sourceFilename": "đại lễ di dân 2.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/53e68b1ddeb72e27/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/53e68b1ddeb72e27/medium.jpg",
+          "width": 1080,
+          "height": 719
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/53e68b1ddeb72e27/original.jpg",
+          "width": 1080,
+          "height": 719
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/004.jpg",
-      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 4",
-      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/004.jpg",
-      "variants": {}
+      "id": "media/2019/dai-le-di-dan/8fff1be693314d4f/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/8fff1be693314d4f/medium.jpg",
+      "alt": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "sourceFilename": "đại lễ di dân 3.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/8fff1be693314d4f/thumb.jpg",
+          "width": 480,
+          "height": 321
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/8fff1be693314d4f/medium.jpg",
+          "width": 1280,
+          "height": 855
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/8fff1be693314d4f/original.jpg",
+          "width": 1616,
+          "height": 1080
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/005.jpg",
-      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 5",
-      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/005.jpg",
-      "variants": {}
+      "id": "media/2019/dai-le-di-dan/b0230b4710e7c2db/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/b0230b4710e7c2db/medium.jpg",
+      "alt": "Cộng đoàn hiệp dâng Đại lễ Di dân",
+      "caption": "Cộng đoàn hiệp dâng Đại lễ Di dân",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "sourceFilename": "đại lễ di dân 4.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/b0230b4710e7c2db/thumb.jpg",
+          "width": 480,
+          "height": 321
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/b0230b4710e7c2db/medium.jpg",
+          "width": 1280,
+          "height": 855
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/b0230b4710e7c2db/original.jpg",
+          "width": 1616,
+          "height": 1080
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/006.jpg",
-      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 6",
-      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/006.jpg",
-      "variants": {}
+      "id": "media/2019/dai-le-di-dan/19f5328a12889343/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/19f5328a12889343/medium.jpg",
+      "alt": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "sourceFilename": "đại lễ di dân 5.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/19f5328a12889343/thumb.jpg",
+          "width": 480,
+          "height": 321
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/19f5328a12889343/medium.jpg",
+          "width": 1280,
+          "height": 855
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/19f5328a12889343/original.jpg",
+          "width": 1616,
+          "height": 1080
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/007.jpg",
-      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 7",
-      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/007.jpg",
-      "variants": {}
+      "id": "media/2019/dai-le-di-dan/6d5ca6677d928c95/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/6d5ca6677d928c95/medium.jpg",
+      "alt": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "sourceFilename": "đại lễ di dân 6.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/6d5ca6677d928c95/thumb.jpg",
+          "width": 480,
+          "height": 321
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/6d5ca6677d928c95/medium.jpg",
+          "width": 1280,
+          "height": 855
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/6d5ca6677d928c95/original.jpg",
+          "width": 1616,
+          "height": 1080
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/008.jpg",
-      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 8",
-      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/008.jpg",
-      "variants": {}
+      "id": "media/2019/dai-le-di-dan/1c251a767cb1422f/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/1c251a767cb1422f/medium.jpg",
+      "alt": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "sourceFilename": "đại lễ di dân 7.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/1c251a767cb1422f/thumb.jpg",
+          "width": 480,
+          "height": 321
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/1c251a767cb1422f/medium.jpg",
+          "width": 1280,
+          "height": 855
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/1c251a767cb1422f/original.jpg",
+          "width": 1616,
+          "height": 1080
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/009.jpg",
-      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 9",
-      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/009.jpg",
-      "variants": {}
+      "id": "media/2019/dai-le-di-dan/fcf7a6d9ed1bc74b/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/fcf7a6d9ed1bc74b/medium.jpg",
+      "alt": "Ca đoàn phục vụ trong Đại lễ",
+      "caption": "Ca đoàn phục vụ trong Đại lễ",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "sourceFilename": "đại lễ di dân 9.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/fcf7a6d9ed1bc74b/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/fcf7a6d9ed1bc74b/medium.jpg",
+          "width": 590,
+          "height": 332
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/fcf7a6d9ed1bc74b/original.jpg",
+          "width": 590,
+          "height": 332
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/010.jpg",
-      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 10",
-      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/010.jpg",
-      "variants": {}
+      "id": "media/2019/dai-le-di-dan/150ff3b1c8f1278f/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/150ff3b1c8f1278f/medium.jpg",
+      "alt": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "sourceFilename": "đại lễ di dân 10.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/150ff3b1c8f1278f/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/150ff3b1c8f1278f/medium.jpg",
+          "width": 590,
+          "height": 332
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/150ff3b1c8f1278f/original.jpg",
+          "width": 590,
+          "height": 332
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/011.jpg",
-      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 11",
-      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/011.jpg",
-      "variants": {}
+      "id": "media/2019/dai-le-di-dan/54d21af71cfcea3e/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/54d21af71cfcea3e/medium.jpg",
+      "alt": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "sourceFilename": "đại lễ di dân 11.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/54d21af71cfcea3e/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/54d21af71cfcea3e/medium.jpg",
+          "width": 1080,
+          "height": 719
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/54d21af71cfcea3e/original.jpg",
+          "width": 1080,
+          "height": 719
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/012.jpg",
-      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 12",
-      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/012.jpg",
-      "variants": {}
+      "id": "media/2019/dai-le-di-dan/1d36ff12b0637137/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/1d36ff12b0637137/medium.jpg",
+      "alt": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "sourceFilename": "đại lễ di dân 12.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/1d36ff12b0637137/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/1d36ff12b0637137/medium.jpg",
+          "width": 1080,
+          "height": 719
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/1d36ff12b0637137/original.jpg",
+          "width": 1080,
+          "height": 719
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/013.jpg",
-      "caption": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019 · ảnh 13",
-      "alt": "Ảnh tư liệu: Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/013.jpg",
-      "variants": {}
+      "id": "media/2019/dai-le-di-dan/c048caa4f3350df5/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/c048caa4f3350df5/medium.jpg",
+      "alt": "Chương trình gặp gỡ trong dịp Đại lễ Di dân",
+      "caption": "Chương trình gặp gỡ trong dịp Đại lễ Di dân",
+      "event": "Hiệp nhất trong phục vụ Đại lễ Di dân 2019",
+      "sourceFilename": "đại lễ di dân 13.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/c048caa4f3350df5/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/c048caa4f3350df5/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/c048caa4f3350df5/original.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      }
     }
   ]
 }

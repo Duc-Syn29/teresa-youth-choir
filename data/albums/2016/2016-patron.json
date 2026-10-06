@@ -2,92 +2,308 @@
   "schemaVersion": 1,
   "year": 2016,
   "activityId": "2016-patron",
-  "title": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
+  "title": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
   "count": 12,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/001.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 1",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/001.jpg",
-      "variants": {}
+      "id": "media/2016/patron/13767e7cf1a52d25/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/13767e7cf1a52d25/medium.jpg",
+      "alt": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "caption": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "event": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "sourceFilename": "ảnh bìa.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/13767e7cf1a52d25/thumb.jpg",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/13767e7cf1a52d25/medium.jpg",
+          "width": 720,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/13767e7cf1a52d25/original.jpg",
+          "width": 720,
+          "height": 960
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/002.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 2",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/002.jpg",
-      "variants": {}
+      "id": "media/2016/patron/038b2a3e8228379e/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/038b2a3e8228379e/medium.jpg",
+      "alt": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "caption": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "event": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "sourceFilename": "lequanthay20162.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/038b2a3e8228379e/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/038b2a3e8228379e/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/038b2a3e8228379e/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/003.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 3",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/003.jpg",
-      "variants": {}
+      "id": "media/2016/patron/77a04c233fb5ba16/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/77a04c233fb5ba16/medium.jpg",
+      "alt": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "caption": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "event": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "sourceFilename": "lequanthay20163.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/77a04c233fb5ba16/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/77a04c233fb5ba16/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/77a04c233fb5ba16/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/004.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 4",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/004.jpg",
-      "variants": {}
+      "id": "media/2016/patron/7ee2fe38e749cf40/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/7ee2fe38e749cf40/medium.jpg",
+      "alt": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "caption": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "event": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "sourceFilename": "lequanthay20164.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/7ee2fe38e749cf40/thumb.jpg",
+          "width": 270,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/7ee2fe38e749cf40/medium.jpg",
+          "width": 540,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/7ee2fe38e749cf40/original.jpg",
+          "width": 540,
+          "height": 960
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/005.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 5",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/005.jpg",
-      "variants": {}
+      "id": "media/2016/patron/aaeb497d902c2115/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/aaeb497d902c2115/medium.jpg",
+      "alt": "Ca viên phục vụ trong ngày lễ Bổn mạng",
+      "caption": "Ca viên phục vụ trong ngày lễ Bổn mạng",
+      "event": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "sourceFilename": "lequanthay20165.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/aaeb497d902c2115/thumb.jpg",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/aaeb497d902c2115/medium.jpg",
+          "width": 720,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/aaeb497d902c2115/original.jpg",
+          "width": 720,
+          "height": 960
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/006.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 6",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/006.jpg",
-      "variants": {}
+      "id": "media/2016/patron/b1965e6c555da2e5/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/b1965e6c555da2e5/medium.jpg",
+      "alt": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "caption": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "event": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "sourceFilename": "lequanthay20166.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/b1965e6c555da2e5/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/b1965e6c555da2e5/medium.jpg",
+          "width": 720,
+          "height": 405
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/b1965e6c555da2e5/original.jpg",
+          "width": 720,
+          "height": 405
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/007.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 7",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/007.jpg",
-      "variants": {}
+      "id": "media/2016/patron/6933a570bf49ed24/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/6933a570bf49ed24/medium.jpg",
+      "alt": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "caption": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "event": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "sourceFilename": "lequanthay20167.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/6933a570bf49ed24/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/6933a570bf49ed24/medium.jpg",
+          "width": 720,
+          "height": 405
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/6933a570bf49ed24/original.jpg",
+          "width": 720,
+          "height": 405
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/008.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 8",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/008.jpg",
-      "variants": {}
+      "id": "media/2016/patron/52bb593701cf7f5f/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/52bb593701cf7f5f/medium.jpg",
+      "alt": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "caption": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "event": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "sourceFilename": "lequanthay20168.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/52bb593701cf7f5f/thumb.jpg",
+          "width": 270,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/52bb593701cf7f5f/medium.jpg",
+          "width": 720,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/52bb593701cf7f5f/original.jpg",
+          "width": 720,
+          "height": 1280
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/009.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 9",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/009.jpg",
-      "variants": {}
+      "id": "media/2016/patron/1356e05ff2af6c31/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/1356e05ff2af6c31/medium.jpg",
+      "alt": "Cộng đoàn tham dự Thánh lễ Bổn mạng",
+      "caption": "Cộng đoàn tham dự Thánh lễ Bổn mạng",
+      "event": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "sourceFilename": "lequanthay20169.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/1356e05ff2af6c31/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/1356e05ff2af6c31/medium.jpg",
+          "width": 720,
+          "height": 405
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/1356e05ff2af6c31/original.jpg",
+          "width": 720,
+          "height": 405
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/010.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 10",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/010.jpg",
-      "variants": {}
+      "id": "media/2016/patron/188472ebad38669e/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/188472ebad38669e/medium.jpg",
+      "alt": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "caption": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "event": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "sourceFilename": "lequanthay201610.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/188472ebad38669e/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/188472ebad38669e/medium.jpg",
+          "width": 720,
+          "height": 405
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/188472ebad38669e/original.jpg",
+          "width": 720,
+          "height": 405
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/011.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 11",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/011.jpg",
-      "variants": {}
+      "id": "media/2016/patron/0a8fcdb764228856/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/0a8fcdb764228856/medium.jpg",
+      "alt": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "caption": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "event": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "sourceFilename": "lequanthay201611.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/0a8fcdb764228856/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/0a8fcdb764228856/medium.jpg",
+          "width": 720,
+          "height": 405
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/0a8fcdb764228856/original.jpg",
+          "width": 720,
+          "height": 405
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/012.jpg",
-      "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 12",
-      "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/012.jpg",
-      "variants": {}
+      "id": "media/2016/patron/549f49f562fd0c76/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/549f49f562fd0c76/medium.jpg",
+      "alt": "Ca đoàn cất tiếng hát trong Thánh lễ",
+      "caption": "Ca đoàn cất tiếng hát trong Thánh lễ",
+      "event": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+      "sourceFilename": "lequanthay201612.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/549f49f562fd0c76/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/549f49f562fd0c76/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/549f49f562fd0c76/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     }
   ]
 }

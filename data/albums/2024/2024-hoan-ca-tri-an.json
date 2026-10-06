@@ -3,249 +3,267 @@
   "year": 2024,
   "activityId": "2024-hoan-ca-tri-an",
   "title": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
-  "topic": "Hòa nhạc",
-  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/001-af61c7b4d9/medium.jpg",
   "count": 10,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/001-af61c7b4d9/medium.jpg",
-      "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-      "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-      "id": "media/2024/2024-hoan-ca-tri-an/001-af61c7b4d9/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/987af3a1b6161ffee6fc061f/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/987af3a1b6161ffee6fc061f/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/001-af61c7b4d9/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/987af3a1b6161ffee6fc061f/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/987af3a1b6161ffee6fc061f/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/987af3a1b6161ffee6fc061f/medium.webp",
+          "width": 1280,
+          "height": 854
+        }
+      },
+      "alt": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "caption": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "sourceFilename": "ảnh bìa.jpg",
+      "sourceDirectory": "Hoan ca 100 năm DCCT 2024"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/42e5f5998735faf32fdec4cd/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/42e5f5998735faf32fdec4cd/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/42e5f5998735faf32fdec4cd/thumb.webp",
           "width": 480,
           "height": 269
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/001-af61c7b4d9/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/42e5f5998735faf32fdec4cd/medium.webp",
           "width": 1280,
           "height": 716
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/001-af61c7b4d9/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/42e5f5998735faf32fdec4cd/medium.webp",
           "width": 1280,
           "height": 716
         }
       },
-      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
+      "alt": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "caption": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "sourceFilename": "1789841291165_1995884631902468284_7736263391661925970_3cad350f6631a1fd53896e437695bbb3.jpg",
+      "sourceDirectory": "Hoan ca 100 năm DCCT 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/002-fb8e6afe92/medium.jpg",
-      "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-      "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-      "id": "media/2024/2024-hoan-ca-tri-an/002-fb8e6afe92/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/c4f62b02016f9a9c9cb284a4/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/c4f62b02016f9a9c9cb284a4/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/002-fb8e6afe92/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/c4f62b02016f9a9c9cb284a4/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/002-fb8e6afe92/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/c4f62b02016f9a9c9cb284a4/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/002-fb8e6afe92/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/c4f62b02016f9a9c9cb284a4/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
+      "alt": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "caption": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "sourceFilename": "1789841291197_1995884631902468284_7736263391661925970_b23aaf22eba343398b55afa3d2499145.jpg",
+      "sourceDirectory": "Hoan ca 100 năm DCCT 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/003-30c82cc1f4/medium.jpg",
-      "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-      "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-      "id": "media/2024/2024-hoan-ca-tri-an/003-30c82cc1f4/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/76b77148f45224f1101f6662/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/76b77148f45224f1101f6662/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/003-30c82cc1f4/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/76b77148f45224f1101f6662/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/003-30c82cc1f4/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/76b77148f45224f1101f6662/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/003-30c82cc1f4/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/76b77148f45224f1101f6662/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
+      "alt": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "caption": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "sourceFilename": "1789841291215_1995884631902468284_7736263391661925970_5122b6e6bbee7b5eac4a91717e6c5cbd.jpg",
+      "sourceDirectory": "Hoan ca 100 năm DCCT 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/004-f2c7c20d0a/medium.jpg",
-      "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-      "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-      "id": "media/2024/2024-hoan-ca-tri-an/004-f2c7c20d0a/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/871bcdfd42d266b4f954dd25/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/871bcdfd42d266b4f954dd25/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/004-f2c7c20d0a/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/871bcdfd42d266b4f954dd25/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/004-f2c7c20d0a/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/871bcdfd42d266b4f954dd25/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/004-f2c7c20d0a/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/871bcdfd42d266b4f954dd25/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
+      "alt": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "caption": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "sourceFilename": "1789841291231_1995884631902468284_7736263391661925970_4875f912418f70e859e345b3273407f6.jpg",
+      "sourceDirectory": "Hoan ca 100 năm DCCT 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/005-cd6bcfe8ce/medium.jpg",
-      "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-      "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-      "id": "media/2024/2024-hoan-ca-tri-an/005-cd6bcfe8ce/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a9758869e040b943b948df4e/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a9758869e040b943b948df4e/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/005-cd6bcfe8ce/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a9758869e040b943b948df4e/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/005-cd6bcfe8ce/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a9758869e040b943b948df4e/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/005-cd6bcfe8ce/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a9758869e040b943b948df4e/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
+      "alt": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "caption": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "sourceFilename": "1789841291246_1995884631902468284_7736263391661925970_0e2decb1cd5d6231b4e12bf47faaac91.jpg",
+      "sourceDirectory": "Hoan ca 100 năm DCCT 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/006-1880e15887/medium.jpg",
-      "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-      "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-      "id": "media/2024/2024-hoan-ca-tri-an/006-1880e15887/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2a33dae50c55830a3afd20c1/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2a33dae50c55830a3afd20c1/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/006-1880e15887/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2a33dae50c55830a3afd20c1/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/006-1880e15887/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2a33dae50c55830a3afd20c1/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/006-1880e15887/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2a33dae50c55830a3afd20c1/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
+      "alt": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "caption": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "sourceFilename": "1789841291259_1995884631902468284_7736263391661925970_5a03da511f922cbef132847f7f0df291.jpg",
+      "sourceDirectory": "Hoan ca 100 năm DCCT 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/007-c2dfa299b8/medium.jpg",
-      "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-      "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-      "id": "media/2024/2024-hoan-ca-tri-an/007-c2dfa299b8/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fb740e56ca0df9777111e934/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fb740e56ca0df9777111e934/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/007-c2dfa299b8/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fb740e56ca0df9777111e934/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/007-c2dfa299b8/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fb740e56ca0df9777111e934/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/007-c2dfa299b8/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fb740e56ca0df9777111e934/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
+      "alt": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "caption": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "sourceFilename": "1789841291269_1995884631902468284_7736263391661925970_7757361230bb1dd63736fb8720fd4584.jpg",
+      "sourceDirectory": "Hoan ca 100 năm DCCT 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/008-361eb17ec9/medium.jpg",
-      "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-      "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-      "id": "media/2024/2024-hoan-ca-tri-an/008-361eb17ec9/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5701abb91f0b529fc8fdefdd/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5701abb91f0b529fc8fdefdd/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/008-361eb17ec9/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5701abb91f0b529fc8fdefdd/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/008-361eb17ec9/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5701abb91f0b529fc8fdefdd/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/008-361eb17ec9/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5701abb91f0b529fc8fdefdd/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
+      "alt": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "caption": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "sourceFilename": "1789841291284_1995884631902468284_7736263391661925970_048380f28bfd1a4611cf8ab48c1e576e.jpg",
+      "sourceDirectory": "Hoan ca 100 năm DCCT 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/009-a719951de1/medium.jpg",
-      "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-      "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-      "id": "media/2024/2024-hoan-ca-tri-an/009-a719951de1/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/f267f5f4be649aa89b5bc9f2/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/f267f5f4be649aa89b5bc9f2/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/009-a719951de1/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/f267f5f4be649aa89b5bc9f2/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/009-a719951de1/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/f267f5f4be649aa89b5bc9f2/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/009-a719951de1/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/f267f5f4be649aa89b5bc9f2/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/010-8fe4a9f8fc/medium.jpg",
-      "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-      "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-      "id": "media/2024/2024-hoan-ca-tri-an/010-8fe4a9f8fc/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/010-8fe4a9f8fc/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/010-8fe4a9f8fc/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/010-8fe4a9f8fc/original.jpg",
-          "width": 1280,
-          "height": 854
-        }
-      },
-      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
+      "alt": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "caption": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+      "sourceFilename": "1789841291294_1995884631902468284_7736263391661925970_1ce1c10b3249b614435df598c9ae18af.jpg",
+      "sourceDirectory": "Hoan ca 100 năm DCCT 2024"
     }
   ]
 }

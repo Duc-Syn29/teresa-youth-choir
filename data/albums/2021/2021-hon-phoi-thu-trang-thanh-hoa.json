@@ -2,100 +2,112 @@
   "schemaVersion": 1,
   "year": 2021,
   "activityId": "2021-hon-phoi-thu-trang-thanh-hoa",
-  "title": "Lễ cưới Thu Trang – Thanh Nguyễn và Thanh Hoa – Trung Buti",
+  "title": "Những ngày vui của các thành viên ca đoàn",
   "count": 4,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/01/medium.jpg",
-      "alt": "Lễ cưới Thanh Hoa và Trung Buti · ảnh 1",
-      "caption": "Anh chị Thanh Hoa – Trung Buti tiến vào thánh đường trong ngày hôn phối.",
-      "id": "media/2021/thanh-hoa-trung-buti/01/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/ec9eabbbf1ce7472224e5471/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/ec9eabbbf1ce7472224e5471/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/01/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/ec9eabbbf1ce7472224e5471/thumb.webp",
           "width": 360,
           "height": 480
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/01/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/ec9eabbbf1ce7472224e5471/medium.webp",
           "width": 960,
           "height": 1280
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/01/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/ec9eabbbf1ce7472224e5471/original.webp",
           "width": 1536,
           "height": 2048
         }
-      }
+      },
+      "alt": "Những ngày vui của các thành viên ca đoàn",
+      "caption": "Những ngày vui của các thành viên ca đoàn",
+      "event": "Những ngày vui của các thành viên ca đoàn",
+      "sourceFilename": "1789735406674_1995884631902468284_7736263391661925970_903e0ee7072da004c1ce2002225d15a3.jpg",
+      "sourceDirectory": "Lễ cưới anh chị Hoa Trung 2021"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/02/medium.jpg",
-      "alt": "Lễ cưới Thanh Hoa và Trung Buti · ảnh 2",
-      "caption": "Anh chị Thanh Hoa – Trung Buti trước bàn thờ.",
-      "id": "media/2021/thanh-hoa-trung-buti/02/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/435b1926a6108715f11d2371/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/435b1926a6108715f11d2371/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/02/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/435b1926a6108715f11d2371/thumb.webp",
           "width": 360,
           "height": 480
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/02/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/435b1926a6108715f11d2371/medium.webp",
           "width": 960,
           "height": 1280
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/02/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/435b1926a6108715f11d2371/original.webp",
           "width": 1536,
           "height": 2048
         }
-      }
+      },
+      "alt": "Những ngày vui của các thành viên ca đoàn",
+      "caption": "Những ngày vui của các thành viên ca đoàn",
+      "event": "Những ngày vui của các thành viên ca đoàn",
+      "sourceFilename": "1789735406687_1995884631902468284_7736263391661925970_e0415eacedea3ba560b17242e3388f2c.jpg",
+      "sourceDirectory": "Lễ cưới anh chị Hoa Trung 2021"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/03/medium.jpg",
-      "alt": "Lễ cưới Thanh Hoa và Trung Buti · ảnh 3",
-      "caption": "Khoảnh khắc cầu nguyện trong lễ cưới Thanh Hoa – Trung Buti.",
-      "id": "media/2021/thanh-hoa-trung-buti/03/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/d40b455424bab097336d0eca/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/d40b455424bab097336d0eca/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/03/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/d40b455424bab097336d0eca/thumb.webp",
           "width": 360,
           "height": 480
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/03/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/d40b455424bab097336d0eca/medium.webp",
           "width": 960,
           "height": 1280
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/03/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/d40b455424bab097336d0eca/original.webp",
           "width": 1536,
           "height": 2048
         }
-      }
+      },
+      "alt": "Những ngày vui của các thành viên ca đoàn",
+      "caption": "Những ngày vui của các thành viên ca đoàn",
+      "event": "Những ngày vui của các thành viên ca đoàn",
+      "sourceFilename": "1789735406694_1995884631902468284_7736263391661925970_0b8983b6906df566bd2bcbd8fec96644.jpg",
+      "sourceDirectory": "Lễ cưới anh chị Hoa Trung 2021"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/04/medium.jpg",
-      "alt": "Lễ cưới Thanh Hoa và Trung Buti · ảnh 4",
-      "caption": "Niềm vui của anh chị Thanh Hoa – Trung Buti trong ngày cưới.",
-      "id": "media/2021/thanh-hoa-trung-buti/04/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/0eb6b3cc6b319aa13af633e2/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/0eb6b3cc6b319aa13af633e2/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/04/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/0eb6b3cc6b319aa13af633e2/thumb.webp",
           "width": 360,
           "height": 480
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/04/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/0eb6b3cc6b319aa13af633e2/medium.webp",
           "width": 960,
           "height": 1280
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/04/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/0eb6b3cc6b319aa13af633e2/original.webp",
           "width": 1536,
           "height": 2048
         }
-      }
+      },
+      "alt": "Những ngày vui của các thành viên ca đoàn",
+      "caption": "Những ngày vui của các thành viên ca đoàn",
+      "event": "Những ngày vui của các thành viên ca đoàn",
+      "sourceFilename": "1789735406701_1995884631902468284_7736263391661925970_7b239f53049d0e4f6fa626bd401b1af4.jpg",
+      "sourceDirectory": "Lễ cưới anh chị Hoa Trung 2021"
     }
   ]
 }

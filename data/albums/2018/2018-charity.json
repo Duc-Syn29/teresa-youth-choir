@@ -2,71 +2,233 @@
   "schemaVersion": 1,
   "year": 2018,
   "activityId": "2018-charity",
-  "title": "Giáng Sinh Trao Yêu Thương",
+  "title": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
   "count": 9,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/001.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương · ảnh 1",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/001.jpg",
-      "variants": {}
+      "id": "media/2018/charity/2f57b792f6dddb27/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/2f57b792f6dddb27/medium.jpg",
+      "alt": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+      "caption": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+      "event": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+      "sourceFilename": "ảnh bìa.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/2f57b792f6dddb27/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/2f57b792f6dddb27/medium.jpg",
+          "width": 810,
+          "height": 540
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/2f57b792f6dddb27/original.jpg",
+          "width": 810,
+          "height": 540
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/002.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương · ảnh 2",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/002.jpg",
-      "variants": {}
+      "id": "media/2018/charity/28820087fd107ed2/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/28820087fd107ed2/medium.jpg",
+      "alt": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+      "caption": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+      "event": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+      "sourceFilename": "thiện nguyện1.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/28820087fd107ed2/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/28820087fd107ed2/medium.jpg",
+          "width": 590,
+          "height": 443
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/28820087fd107ed2/original.jpg",
+          "width": 590,
+          "height": 443
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/003.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương · ảnh 3",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/003.jpg",
-      "variants": {}
+      "id": "media/2018/charity/e6787ca06f38e619/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/e6787ca06f38e619/medium.jpg",
+      "alt": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+      "caption": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+      "event": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+      "sourceFilename": "thiện nguyện2.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/e6787ca06f38e619/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/e6787ca06f38e619/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/e6787ca06f38e619/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/004.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương · ảnh 4",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/004.jpg",
-      "variants": {}
+      "id": "media/2018/charity/38b895f7035274dd/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/38b895f7035274dd/medium.jpg",
+      "alt": "Hành trình đến với cộng đoàn trong chuyến thiện nguyện",
+      "caption": "Hành trình đến với cộng đoàn trong chuyến thiện nguyện",
+      "event": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+      "sourceFilename": "thiện nguyện3.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/38b895f7035274dd/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/38b895f7035274dd/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/38b895f7035274dd/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/005.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương · ảnh 5",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/005.jpg",
-      "variants": {}
+      "id": "media/2018/charity/b26d2d059d1f98d0/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/b26d2d059d1f98d0/medium.jpg",
+      "alt": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+      "caption": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+      "event": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+      "sourceFilename": "thiện nguyện4.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/b26d2d059d1f98d0/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/b26d2d059d1f98d0/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/b26d2d059d1f98d0/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/006.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương · ảnh 6",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/006.jpg",
-      "variants": {}
+      "id": "media/2018/charity/e166a1caf358e449/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/e166a1caf358e449/medium.jpg",
+      "alt": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+      "caption": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+      "event": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+      "sourceFilename": "thiện nguyện5.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/e166a1caf358e449/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/e166a1caf358e449/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/e166a1caf358e449/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/007.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương · ảnh 7",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/007.jpg",
-      "variants": {}
+      "id": "media/2018/charity/b72e8c39266d5636/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/b72e8c39266d5636/medium.jpg",
+      "alt": "Những phần quà được chuẩn bị cho chuyến đi",
+      "caption": "Những phần quà được chuẩn bị cho chuyến đi",
+      "event": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+      "sourceFilename": "thiện nguyện6.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/b72e8c39266d5636/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/b72e8c39266d5636/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/b72e8c39266d5636/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/008.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương · ảnh 8",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/008.jpg",
-      "variants": {}
+      "id": "media/2018/charity/b35895a94c8aaa51/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/b35895a94c8aaa51/medium.jpg",
+      "alt": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+      "caption": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+      "event": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+      "sourceFilename": "thiện nguyện7.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/b35895a94c8aaa51/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/b35895a94c8aaa51/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/b35895a94c8aaa51/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/009.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương · ảnh 9",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/009.jpg",
-      "variants": {}
+      "id": "media/2018/charity/f1f6809af3f09a8b/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/f1f6809af3f09a8b/medium.jpg",
+      "alt": "Chia sẻ quà và niềm vui Giáng Sinh",
+      "caption": "Chia sẻ quà và niềm vui Giáng Sinh",
+      "event": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+      "sourceFilename": "thiện nguyện8.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/f1f6809af3f09a8b/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/f1f6809af3f09a8b/medium.jpg",
+          "width": 590,
+          "height": 443
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/f1f6809af3f09a8b/original.jpg",
+          "width": 590,
+          "height": 443
+        }
+      }
     }
   ]
 }

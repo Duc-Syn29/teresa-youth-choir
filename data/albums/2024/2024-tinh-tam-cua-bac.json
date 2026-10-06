@@ -3,177 +3,189 @@
   "year": 2024,
   "activityId": "2024-tinh-tam-cua-bac",
   "title": "Tĩnh tâm chuẩn bị lễ Quan thầy",
-  "topic": "Tĩnh tâm",
-  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/001-63916e852a/medium.jpg",
   "count": 7,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/001-63916e852a/medium.jpg",
-      "alt": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
-      "caption": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
-      "id": "media/2024/2024-tinh-tam-cua-bac/001-63916e852a/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0c3a095e389fe3862b2dde94/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0c3a095e389fe3862b2dde94/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/001-63916e852a/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0c3a095e389fe3862b2dde94/thumb.webp",
           "width": 480,
           "height": 360
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/001-63916e852a/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0c3a095e389fe3862b2dde94/medium.webp",
           "width": 1280,
           "height": 960
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/001-63916e852a/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0c3a095e389fe3862b2dde94/original.webp",
           "width": 2048,
           "height": 1536
         }
       },
-      "event": "Tĩnh tâm chuẩn bị lễ Quan thầy"
+      "alt": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+      "caption": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+      "event": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+      "sourceFilename": "ảnh bìa.jpg",
+      "sourceDirectory": "Tĩnh Tâm Cửa Bắc 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/002-a77225d72c/medium.jpg",
-      "alt": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
-      "caption": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
-      "id": "media/2024/2024-tinh-tam-cua-bac/002-a77225d72c/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d64a3df26c9a8a6fa411c1a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d64a3df26c9a8a6fa411c1a/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/002-a77225d72c/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d64a3df26c9a8a6fa411c1a/thumb.webp",
           "width": 480,
           "height": 360
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/002-a77225d72c/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d64a3df26c9a8a6fa411c1a/medium.webp",
           "width": 1280,
           "height": 961
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/002-a77225d72c/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d64a3df26c9a8a6fa411c1a/original.webp",
           "width": 2048,
           "height": 1537
         }
       },
-      "event": "Tĩnh tâm chuẩn bị lễ Quan thầy"
+      "alt": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+      "caption": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+      "event": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+      "sourceFilename": "486489458_1602396637206163_2877728054440081850_n.jpg",
+      "sourceDirectory": "Tĩnh Tâm Cửa Bắc 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/003-a709439004/medium.jpg",
-      "alt": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
-      "caption": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
-      "id": "media/2024/2024-tinh-tam-cua-bac/003-a709439004/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/103c5726e71c1687b403c48f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/103c5726e71c1687b403c48f/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/003-a709439004/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/103c5726e71c1687b403c48f/thumb.webp",
           "width": 360,
           "height": 480
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/003-a709439004/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/103c5726e71c1687b403c48f/medium.webp",
           "width": 960,
           "height": 1280
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/003-a709439004/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/103c5726e71c1687b403c48f/original.webp",
           "width": 1536,
           "height": 2048
         }
       },
-      "event": "Tĩnh tâm chuẩn bị lễ Quan thầy"
+      "alt": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+      "caption": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+      "event": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+      "sourceFilename": "486500987_1602396680539492_7323193720428649618_n.jpg",
+      "sourceDirectory": "Tĩnh Tâm Cửa Bắc 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/004-560afe06a8/medium.jpg",
-      "alt": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
-      "caption": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
-      "id": "media/2024/2024-tinh-tam-cua-bac/004-560afe06a8/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2a96b2827793368c30d24c10/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2a96b2827793368c30d24c10/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/004-560afe06a8/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2a96b2827793368c30d24c10/thumb.webp",
           "width": 360,
           "height": 480
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/004-560afe06a8/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2a96b2827793368c30d24c10/medium.webp",
           "width": 960,
           "height": 1280
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/004-560afe06a8/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2a96b2827793368c30d24c10/original.webp",
           "width": 1536,
           "height": 2048
         }
       },
-      "event": "Tĩnh tâm chuẩn bị lễ Quan thầy"
+      "alt": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+      "caption": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+      "event": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+      "sourceFilename": "486500993_1602396657206161_8044731394132740910_n.jpg",
+      "sourceDirectory": "Tĩnh Tâm Cửa Bắc 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/005-01e138cf51/medium.jpg",
-      "alt": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
-      "caption": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
-      "id": "media/2024/2024-tinh-tam-cua-bac/005-01e138cf51/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5af9eab16d722b6af53c3e77/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5af9eab16d722b6af53c3e77/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/005-01e138cf51/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5af9eab16d722b6af53c3e77/thumb.webp",
           "width": 360,
           "height": 480
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/005-01e138cf51/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5af9eab16d722b6af53c3e77/medium.webp",
           "width": 960,
           "height": 1280
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/005-01e138cf51/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5af9eab16d722b6af53c3e77/original.webp",
           "width": 1536,
           "height": 2048
         }
       },
-      "event": "Tĩnh tâm chuẩn bị lễ Quan thầy"
+      "alt": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+      "caption": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+      "event": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+      "sourceFilename": "486531408_1602396723872821_5923392609441974404_n (1).jpg",
+      "sourceDirectory": "Tĩnh Tâm Cửa Bắc 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/006-1ed6ef5ffa/medium.jpg",
-      "alt": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
-      "caption": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
-      "id": "media/2024/2024-tinh-tam-cua-bac/006-1ed6ef5ffa/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/dd83216d97b61811b900a17f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/dd83216d97b61811b900a17f/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/006-1ed6ef5ffa/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/dd83216d97b61811b900a17f/thumb.webp",
           "width": 360,
           "height": 480
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/006-1ed6ef5ffa/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/dd83216d97b61811b900a17f/medium.webp",
           "width": 960,
           "height": 1280
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/006-1ed6ef5ffa/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/dd83216d97b61811b900a17f/original.webp",
           "width": 1536,
           "height": 2048
         }
       },
-      "event": "Tĩnh tâm chuẩn bị lễ Quan thầy"
+      "alt": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+      "caption": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+      "event": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+      "sourceFilename": "486652720_1602396683872825_1434888126279029586_n.jpg",
+      "sourceDirectory": "Tĩnh Tâm Cửa Bắc 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/007-1dfb083618/medium.jpg",
-      "alt": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
-      "caption": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
-      "id": "media/2024/2024-tinh-tam-cua-bac/007-1dfb083618/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/92aa86d96369d7ac38743141/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/92aa86d96369d7ac38743141/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/007-1dfb083618/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/92aa86d96369d7ac38743141/thumb.webp",
           "width": 480,
           "height": 360
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/007-1dfb083618/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/92aa86d96369d7ac38743141/medium.webp",
           "width": 1280,
           "height": 960
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/007-1dfb083618/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/92aa86d96369d7ac38743141/original.webp",
           "width": 2048,
           "height": 1536
         }
       },
-      "event": "Tĩnh tâm chuẩn bị lễ Quan thầy"
+      "alt": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+      "caption": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+      "event": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+      "sourceFilename": "486969038_1602396633872830_2484258640778168241_n.jpg",
+      "sourceDirectory": "Tĩnh Tâm Cửa Bắc 2024"
     }
   ]
 }

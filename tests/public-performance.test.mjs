@@ -10,11 +10,11 @@ const read = (file) => readFileSync(new URL(`../${file}`, import.meta.url), "utf
 const tick = () => new Promise((resolve) => setImmediate(resolve));
 
 function storeHarness(fetch, timers = {}) {
-  const window = { TeresaSchema: Schema, location: { search: "" } };
+  const window = { TeresaSchema: Schema, location: { search: "" }, ...timers.window };
   vm.runInNewContext(read("js/store.js"), {
     window, document: { readyState: "loading", addEventListener() {} },
     fetch, URLSearchParams, AbortController, setTimeout, clearTimeout,
-    console: { warn() {} }, ...timers,
+    console: { warn() {} }, ...timers, window,
   });
   return window.TeresaStore;
 }
@@ -53,6 +53,57 @@ test("a stalled public request is aborted and reports a retryable error", async 
   await tick();
   expire();
   await rejected;
+});
+
+test("recent expired cache renders immediately and shares one background refresh", async () => {
+  let now = Date.now();
+  class Clock extends Date {
+    constructor(...args) { super(...(args.length ? args : [now])); }
+    static now() { return now; }
+  }
+  let requests = 0;
+  let release;
+  const store = storeHarness(async () => {
+    requests++;
+    if (requests > 1) await new Promise((resolve) => { release = resolve; });
+    const data = JSON.parse(read("data/index.json"));
+    data.years[0].overview.title = requests === 1 ? "Cached title" : "Updated title";
+    return { ok: true, json: async () => data };
+  }, { Date: Clock });
+  await store.loadIndex();
+  now += 6 * 60 * 1000;
+  const results = await Promise.all([store.loadIndex(), store.loadIndex()]);
+  assert.ok(results.every((data) => data.years[0].overview.title === "Cached title"));
+  await tick();
+  assert.equal(requests, 2);
+  release();
+  await tick();
+  assert.equal((await store.loadIndex()).years[0].overview.title, "Updated title");
+  const forced = store.loadIndex({ force: true });
+  await tick();
+  assert.equal(requests, 3, "force must bypass even fresh memory cache");
+  release();
+  await forced;
+});
+
+test("blocked IndexedDB cannot prevent a public network load", async () => {
+  const indexedDB = { open() { return {}; } };
+  let expireCache;
+  let requests = 0;
+  const store = storeHarness(async () => {
+    requests++;
+    return { ok: true, json: async () => JSON.parse(read("data/index.json")) };
+  }, {
+    window: { indexedDB }, indexedDB,
+    setTimeout(callback, delay) { if (delay === 80) expireCache = callback; return delay; },
+    clearTimeout() {},
+  });
+  const loading = store.loadIndex();
+  await tick();
+  assert.equal(requests, 0);
+  expireCache();
+  assert.equal((await loading).years.length, 12);
+  assert.equal(requests, 1);
 });
 
 test("draft save reports storage failure instead of claiming success", async () => {

@@ -6,109 +6,379 @@
   "count": 15,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/001.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 1",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/001.jpg",
-      "variants": {}
+      "id": "media/2019/giang-sinh-trao-yeu-thuong/1aedfd3cb8cc99e3/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/1aedfd3cb8cc99e3/medium.jpg",
+      "alt": "Giáng Sinh Trao Yêu Thương 2019",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019",
+      "sourceFilename": "ảnh bìa.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/1aedfd3cb8cc99e3/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/1aedfd3cb8cc99e3/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/1aedfd3cb8cc99e3/original.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/002.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 2",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/002.jpg",
-      "variants": {}
+      "id": "media/2019/giang-sinh-trao-yeu-thuong/6d94d967acbec9cb/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/6d94d967acbec9cb/medium.jpg",
+      "alt": "Giáng Sinh Trao Yêu Thương 2019",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019",
+      "sourceFilename": "thiện nguyện 1.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/6d94d967acbec9cb/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/6d94d967acbec9cb/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/6d94d967acbec9cb/original.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/003.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 3",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/003.jpg",
-      "variants": {}
+      "id": "media/2019/giang-sinh-trao-yeu-thuong/99651911463ba21c/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/99651911463ba21c/medium.jpg",
+      "alt": "Giáng Sinh Trao Yêu Thương 2019",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019",
+      "sourceFilename": "thiện nguyện 2.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/99651911463ba21c/thumb.jpg",
+          "width": 480,
+          "height": 229
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/99651911463ba21c/medium.jpg",
+          "width": 1280,
+          "height": 610
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/99651911463ba21c/original.jpg",
+          "width": 1344,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/004.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 4",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/004.jpg",
-      "variants": {}
+      "id": "media/2019/giang-sinh-trao-yeu-thuong/20441423c9da7ad7/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/20441423c9da7ad7/medium.jpg",
+      "alt": "Giáng Sinh Trao Yêu Thương 2019",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019",
+      "sourceFilename": "thiện nguyện 3.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/20441423c9da7ad7/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/20441423c9da7ad7/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/20441423c9da7ad7/original.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/005.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 5",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/005.jpg",
-      "variants": {}
+      "id": "media/2019/giang-sinh-trao-yeu-thuong/110dbd2d5ebc101f/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/110dbd2d5ebc101f/medium.jpg",
+      "alt": "Giáng Sinh Trao Yêu Thương 2019",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019",
+      "sourceFilename": "thiện nguyện 4.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/110dbd2d5ebc101f/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/110dbd2d5ebc101f/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/110dbd2d5ebc101f/original.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/006.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 6",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/006.jpg",
-      "variants": {}
+      "id": "media/2019/giang-sinh-trao-yeu-thuong/69e581dbe1967e82/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/69e581dbe1967e82/medium.jpg",
+      "alt": "Sinh hoạt bên lửa trại trong chuyến thiện nguyện",
+      "caption": "Sinh hoạt bên lửa trại trong chuyến thiện nguyện",
+      "event": "Giáng Sinh Trao Yêu Thương 2019",
+      "sourceFilename": "thiện nguyện 5.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/69e581dbe1967e82/thumb.jpg",
+          "width": 480,
+          "height": 227
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/69e581dbe1967e82/medium.jpg",
+          "width": 1280,
+          "height": 606
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/69e581dbe1967e82/original.jpg",
+          "width": 1352,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/007.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 7",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/007.jpg",
-      "variants": {}
+      "id": "media/2019/giang-sinh-trao-yeu-thuong/2a8a9db549d9f37f/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/2a8a9db549d9f37f/medium.jpg",
+      "alt": "Giáng Sinh Trao Yêu Thương 2019",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019",
+      "sourceFilename": "thiện nguyện 6.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/2a8a9db549d9f37f/thumb.jpg",
+          "width": 480,
+          "height": 228
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/2a8a9db549d9f37f/medium.jpg",
+          "width": 1280,
+          "height": 607
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/2a8a9db549d9f37f/original.jpg",
+          "width": 1350,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/008.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 8",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/008.jpg",
-      "variants": {}
+      "id": "media/2019/giang-sinh-trao-yeu-thuong/5496555fa62cf60c/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/5496555fa62cf60c/medium.jpg",
+      "alt": "Giáng Sinh Trao Yêu Thương 2019",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019",
+      "sourceFilename": "thiện nguyện 7.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/5496555fa62cf60c/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/5496555fa62cf60c/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/5496555fa62cf60c/original.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/009.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 9",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/009.jpg",
-      "variants": {}
+      "id": "media/2019/giang-sinh-trao-yeu-thuong/c4a01ae96a65a36f/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/c4a01ae96a65a36f/medium.jpg",
+      "alt": "Giáng Sinh Trao Yêu Thương 2019",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019",
+      "sourceFilename": "thiện nguyện 8.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/c4a01ae96a65a36f/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/c4a01ae96a65a36f/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/c4a01ae96a65a36f/original.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/010.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 10",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/010.jpg",
-      "variants": {}
+      "id": "media/2019/giang-sinh-trao-yeu-thuong/ea0a7303acd7d32a/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/ea0a7303acd7d32a/medium.jpg",
+      "alt": "Giáng Sinh Trao Yêu Thương 2019",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019",
+      "sourceFilename": "thiện nguyện 9.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/ea0a7303acd7d32a/thumb.jpg",
+          "width": 480,
+          "height": 229
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/ea0a7303acd7d32a/medium.jpg",
+          "width": 1280,
+          "height": 610
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/ea0a7303acd7d32a/original.jpg",
+          "width": 1344,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/011.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 11",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/011.jpg",
-      "variants": {}
+      "id": "media/2019/giang-sinh-trao-yeu-thuong/099d8304699a28f5/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/099d8304699a28f5/medium.jpg",
+      "alt": "Hành trình đến Hà Giang",
+      "caption": "Hành trình đến Hà Giang",
+      "event": "Giáng Sinh Trao Yêu Thương 2019",
+      "sourceFilename": "thiện nguyện 10.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/099d8304699a28f5/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/099d8304699a28f5/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/099d8304699a28f5/original.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/012.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 12",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/012.jpg",
-      "variants": {}
+      "id": "media/2019/giang-sinh-trao-yeu-thuong/1756395c0b09b7f9/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/1756395c0b09b7f9/medium.jpg",
+      "alt": "Giáng Sinh Trao Yêu Thương 2019",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019",
+      "sourceFilename": "thiện nguyện 11.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/1756395c0b09b7f9/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/1756395c0b09b7f9/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/1756395c0b09b7f9/original.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/013.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 13",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/013.jpg",
-      "variants": {}
+      "id": "media/2019/giang-sinh-trao-yeu-thuong/d2ff4e5c33c2ef81/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/d2ff4e5c33c2ef81/medium.jpg",
+      "alt": "Giáng Sinh Trao Yêu Thương 2019",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019",
+      "sourceFilename": "thiện nguyện 13.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/d2ff4e5c33c2ef81/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/d2ff4e5c33c2ef81/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/d2ff4e5c33c2ef81/original.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/014.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 14",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/014.jpg",
-      "variants": {}
+      "id": "media/2019/giang-sinh-trao-yeu-thuong/17bac191bf01192d/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/17bac191bf01192d/medium.jpg",
+      "alt": "Giáng Sinh Trao Yêu Thương 2019",
+      "caption": "Giáng Sinh Trao Yêu Thương 2019",
+      "event": "Giáng Sinh Trao Yêu Thương 2019",
+      "sourceFilename": "thiện nguyện 14.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/17bac191bf01192d/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/17bac191bf01192d/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/17bac191bf01192d/original.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/015.jpg",
-      "caption": "Giáng Sinh Trao Yêu Thương 2019 · ảnh 15",
-      "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/015.jpg",
-      "variants": {}
+      "id": "media/2019/giang-sinh-trao-yeu-thuong/5f0254753a7d39c9/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/5f0254753a7d39c9/medium.jpg",
+      "alt": "Gặp gỡ và gắn kết trong chương trình thiện nguyện",
+      "caption": "Gặp gỡ và gắn kết trong chương trình thiện nguyện",
+      "event": "Giáng Sinh Trao Yêu Thương 2019",
+      "sourceFilename": "thiện nguyện 15.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/5f0254753a7d39c9/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/5f0254753a7d39c9/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/5f0254753a7d39c9/original.jpg",
+          "width": 2048,
+          "height": 1366
+        }
+      }
     }
   ]
 }

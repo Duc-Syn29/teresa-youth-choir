@@ -3,57 +3,59 @@
   "year": 2024,
   "activityId": "2024-hon-phoi-hai-duong-phuong-dung",
   "title": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung",
-  "topic": "Hát lễ cưới",
-  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/001-aaa7b3d7cf/medium.jpg",
   "count": 2,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/001-aaa7b3d7cf/medium.jpg",
-      "alt": "Ca đoàn trong lễ hôn phối phêrô phạm hải dương và cecilia hoàng phương dung.",
-      "caption": "Ca đoàn trong lễ hôn phối phêrô phạm hải dương và cecilia hoàng phương dung.",
-      "id": "media/2024/2024-hon-phoi-hai-duong-phuong-dung/001-aaa7b3d7cf/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e4ee1cccf4517e74e7110cbf/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e4ee1cccf4517e74e7110cbf/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/001-aaa7b3d7cf/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e4ee1cccf4517e74e7110cbf/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/001-aaa7b3d7cf/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e4ee1cccf4517e74e7110cbf/medium.webp",
           "width": 1280,
           "height": 852
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/001-aaa7b3d7cf/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e4ee1cccf4517e74e7110cbf/medium.webp",
           "width": 1280,
           "height": 852
         }
       },
-      "event": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung"
+      "alt": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung",
+      "caption": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung",
+      "event": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung",
+      "sourceFilename": "ảnh bìa.jpg",
+      "sourceDirectory": "Lễ Cưới a Dương-Dung 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/002-5c95e3ded1/medium.jpg",
-      "alt": "Ca đoàn trong lễ hôn phối phêrô phạm hải dương và cecilia hoàng phương dung.",
-      "caption": "Ca đoàn trong lễ hôn phối phêrô phạm hải dương và cecilia hoàng phương dung.",
-      "id": "media/2024/2024-hon-phoi-hai-duong-phuong-dung/002-5c95e3ded1/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/d163161fc35928bc9a54ac0e/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/d163161fc35928bc9a54ac0e/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/002-5c95e3ded1/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/d163161fc35928bc9a54ac0e/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/002-5c95e3ded1/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/d163161fc35928bc9a54ac0e/medium.webp",
           "width": 1280,
           "height": 852
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/002-5c95e3ded1/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/d163161fc35928bc9a54ac0e/medium.webp",
           "width": 1280,
           "height": 852
         }
       },
-      "event": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung"
+      "alt": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung",
+      "caption": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung",
+      "event": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung",
+      "sourceFilename": "1789841336132_1995884631902468284_7736263391661925970_9ec629f00796357bd751cd6221a4aba6.jpg",
+      "sourceDirectory": "Lễ Cưới a Dương-Dung 2024"
     }
   ]
 }

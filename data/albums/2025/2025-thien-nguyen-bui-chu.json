@@ -1,0 +1,555 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "activityId": "2025-thien-nguyen-bui-chu",
+  "title": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+  "count": 21,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ba5f29f399cf93755b26d585/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ba5f29f399cf93755b26d585/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ba5f29f399cf93755b26d585/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ba5f29f399cf93755b26d585/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ba5f29f399cf93755b26d585/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "sourceFilename": "ảnh bìa.jpg",
+      "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/432629aa0076caad0532c847/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/432629aa0076caad0532c847/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/432629aa0076caad0532c847/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/432629aa0076caad0532c847/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/432629aa0076caad0532c847/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "sourceFilename": "thiện nguyện1.jpg",
+      "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e9d43731c988efe94c19d9f7/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e9d43731c988efe94c19d9f7/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e9d43731c988efe94c19d9f7/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e9d43731c988efe94c19d9f7/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e9d43731c988efe94c19d9f7/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "sourceFilename": "thiện nguyện2.jpg",
+      "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8fdfa7f2ce9cd41335042e5c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8fdfa7f2ce9cd41335042e5c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8fdfa7f2ce9cd41335042e5c/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8fdfa7f2ce9cd41335042e5c/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8fdfa7f2ce9cd41335042e5c/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "sourceFilename": "thiện nguyện3.jpg",
+      "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/cad200c02d155eb3e8c57913/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/cad200c02d155eb3e8c57913/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/cad200c02d155eb3e8c57913/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/cad200c02d155eb3e8c57913/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/cad200c02d155eb3e8c57913/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "sourceFilename": "thiện nguyện5.jpg",
+      "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8c607b11ba7aa651287ac866/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8c607b11ba7aa651287ac866/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8c607b11ba7aa651287ac866/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8c607b11ba7aa651287ac866/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8c607b11ba7aa651287ac866/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "sourceFilename": "thiện nguyện6.jpg",
+      "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c5fbeabce1e474aec0ea0018/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c5fbeabce1e474aec0ea0018/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c5fbeabce1e474aec0ea0018/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c5fbeabce1e474aec0ea0018/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c5fbeabce1e474aec0ea0018/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "sourceFilename": "thiện nguyện7.jpg",
+      "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a5055e059a7eaf7c04eb2fb0/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a5055e059a7eaf7c04eb2fb0/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a5055e059a7eaf7c04eb2fb0/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a5055e059a7eaf7c04eb2fb0/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a5055e059a7eaf7c04eb2fb0/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "sourceFilename": "thiện nguyện8.jpg",
+      "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1631e0fddd52789430f82ae6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1631e0fddd52789430f82ae6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1631e0fddd52789430f82ae6/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1631e0fddd52789430f82ae6/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1631e0fddd52789430f82ae6/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "sourceFilename": "thiện nguyện9.jpg",
+      "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3a5de2fc35be9af98063d0d0/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3a5de2fc35be9af98063d0d0/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3a5de2fc35be9af98063d0d0/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3a5de2fc35be9af98063d0d0/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3a5de2fc35be9af98063d0d0/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "sourceFilename": "thiện nguyện10.jpg",
+      "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d575366f1c17c6f91e3d83a8/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d575366f1c17c6f91e3d83a8/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d575366f1c17c6f91e3d83a8/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d575366f1c17c6f91e3d83a8/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d575366f1c17c6f91e3d83a8/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "sourceFilename": "thiện nguyện11.jpg",
+      "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/07d85d429bae7f97cde31a38/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/07d85d429bae7f97cde31a38/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/07d85d429bae7f97cde31a38/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/07d85d429bae7f97cde31a38/medium.webp",
+          "width": 854,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/07d85d429bae7f97cde31a38/original.webp",
+          "width": 1366,
+          "height": 2048
+        }
+      },
+      "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "sourceFilename": "thiện nguyện12.jpg",
+      "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9d59a2bf8e92c0ffc787f81c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9d59a2bf8e92c0ffc787f81c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9d59a2bf8e92c0ffc787f81c/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9d59a2bf8e92c0ffc787f81c/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9d59a2bf8e92c0ffc787f81c/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "sourceFilename": "thiện nguyện13.jpg",
+      "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/66dbbd98c9dff60f2818f745/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/66dbbd98c9dff60f2818f745/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/66dbbd98c9dff60f2818f745/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/66dbbd98c9dff60f2818f745/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/66dbbd98c9dff60f2818f745/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "sourceFilename": "thiện nguyện14.jpg",
+      "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/eed33e598fa29628fcd44360/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/eed33e598fa29628fcd44360/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/eed33e598fa29628fcd44360/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/eed33e598fa29628fcd44360/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/eed33e598fa29628fcd44360/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "sourceFilename": "thiện nguyện15.jpg",
+      "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/477cfedc65db02a06f9e101c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/477cfedc65db02a06f9e101c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/477cfedc65db02a06f9e101c/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/477cfedc65db02a06f9e101c/medium.webp",
+          "width": 854,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/477cfedc65db02a06f9e101c/original.webp",
+          "width": 1366,
+          "height": 2048
+        }
+      },
+      "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "sourceFilename": "thiện nguyện16.jpg",
+      "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b9e96e7c613b021f9081b11f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b9e96e7c613b021f9081b11f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b9e96e7c613b021f9081b11f/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b9e96e7c613b021f9081b11f/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b9e96e7c613b021f9081b11f/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "sourceFilename": "thiện nguyện17.jpg",
+      "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/94bfca8a47b800be31cbf1de/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/94bfca8a47b800be31cbf1de/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/94bfca8a47b800be31cbf1de/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/94bfca8a47b800be31cbf1de/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/94bfca8a47b800be31cbf1de/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "sourceFilename": "thiện nguyện18.jpg",
+      "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a1a3afa77e6c707ed660155a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a1a3afa77e6c707ed660155a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a1a3afa77e6c707ed660155a/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a1a3afa77e6c707ed660155a/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a1a3afa77e6c707ed660155a/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "sourceFilename": "thiện nguyện19.jpg",
+      "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d026d21b7d2782511fa59b62/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d026d21b7d2782511fa59b62/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d026d21b7d2782511fa59b62/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d026d21b7d2782511fa59b62/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d026d21b7d2782511fa59b62/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "sourceFilename": "thiện nguyện20.jpg",
+      "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f0a8afb5c0e8418575c2bf8e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f0a8afb5c0e8418575c2bf8e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f0a8afb5c0e8418575c2bf8e/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f0a8afb5c0e8418575c2bf8e/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f0a8afb5c0e8418575c2bf8e/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "caption": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "event": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+      "sourceFilename": "thiện nguyện22.jpg",
+      "sourceDirectory": "Thiện nguyện Mùa Chay tại Cô nhi viện Thánh An, Bùi Chu"
+    }
+  ]
+}

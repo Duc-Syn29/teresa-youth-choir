@@ -2,43 +2,133 @@
   "schemaVersion": 1,
   "year": 2018,
   "activityId": "2018-election",
-  "title": "Bầu Ban điều hành mới",
+  "title": "Bầu Ban Điều hành mới",
   "count": 5,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/001.jpg",
-      "caption": "Bầu Ban điều hành mới · ảnh 1",
-      "alt": "Ảnh tư liệu: Bầu Ban điều hành mới",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/001.jpg",
-      "variants": {}
+      "id": "media/2018/election/948d2a6b03b9828d/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/948d2a6b03b9828d/medium.jpg",
+      "alt": "Bầu Ban Điều hành mới",
+      "caption": "Bầu Ban Điều hành mới",
+      "event": "Bầu Ban Điều hành mới",
+      "sourceFilename": "ảnh bìa.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/948d2a6b03b9828d/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/948d2a6b03b9828d/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/948d2a6b03b9828d/original.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/002.jpg",
-      "caption": "Bầu Ban điều hành mới · ảnh 2",
-      "alt": "Ảnh tư liệu: Bầu Ban điều hành mới",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/002.jpg",
-      "variants": {}
+      "id": "media/2018/election/afb3f361655de829/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/afb3f361655de829/medium.jpg",
+      "alt": "Buổi họp bầu Ban Điều hành ca đoàn",
+      "caption": "Buổi họp bầu Ban Điều hành ca đoàn",
+      "event": "Bầu Ban Điều hành mới",
+      "sourceFilename": "bầu ban điều hành1.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/afb3f361655de829/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/afb3f361655de829/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/afb3f361655de829/original.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/003.jpg",
-      "caption": "Bầu Ban điều hành mới · ảnh 3",
-      "alt": "Ảnh tư liệu: Bầu Ban điều hành mới",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/003.jpg",
-      "variants": {}
+      "id": "media/2018/election/841e871cfde0b19e/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/841e871cfde0b19e/medium.jpg",
+      "alt": "Bầu Ban Điều hành mới",
+      "caption": "Bầu Ban Điều hành mới",
+      "event": "Bầu Ban Điều hành mới",
+      "sourceFilename": "bầu ban điều hành2.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/841e871cfde0b19e/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/841e871cfde0b19e/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/841e871cfde0b19e/original.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/004.jpg",
-      "caption": "Bầu Ban điều hành mới · ảnh 4",
-      "alt": "Ảnh tư liệu: Bầu Ban điều hành mới",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/004.jpg",
-      "variants": {}
+      "id": "media/2018/election/5a276178e50b5087/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/5a276178e50b5087/medium.jpg",
+      "alt": "Các thành viên Ban Điều hành trong buổi họp",
+      "caption": "Các thành viên Ban Điều hành trong buổi họp",
+      "event": "Bầu Ban Điều hành mới",
+      "sourceFilename": "bầu ban điều hành3.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/5a276178e50b5087/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/5a276178e50b5087/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/5a276178e50b5087/original.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/005.jpg",
-      "caption": "Bầu Ban điều hành mới · ảnh 5",
-      "alt": "Ảnh tư liệu: Bầu Ban điều hành mới",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/005.jpg",
-      "variants": {}
+      "id": "media/2018/election/0db64282c2990a9f/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/0db64282c2990a9f/medium.jpg",
+      "alt": "Ca viên tham dự buổi bầu Ban Điều hành",
+      "caption": "Ca viên tham dự buổi bầu Ban Điều hành",
+      "event": "Bầu Ban Điều hành mới",
+      "sourceFilename": "bầu ban điều hành4.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/0db64282c2990a9f/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/0db64282c2990a9f/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/0db64282c2990a9f/original.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      }
     }
   ]
 }

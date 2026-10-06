@@ -12,10 +12,12 @@
   const DB_VERSION = 4;
   const CACHE_FRESH_MS = 5 * 60 * 1000;
   const CACHE_STALE_MS = 30 * 24 * 60 * 60 * 1000;
+  const CACHE_REFRESH_WINDOW_MS = 60 * 60 * 1000;
   const MAX_UPLOAD_BYTES = 25 * 1024 * 1024;
   const PREVIEW_PREFIX = "teresa-preview-year:";
   const memoryCache = new Map();
   const pendingJson = new Map();
+  const pendingRefresh = new Map();
   let firebaseApp = null;
   let firebaseAuth = null;
   let mediaObserver = null;
@@ -101,6 +103,25 @@
   const isFresh = (record) => Boolean(record?.data && age(record) < CACHE_FRESH_MS);
   const isUsable = (record) => Boolean(record?.data && age(record) < CACHE_STALE_MS);
 
+  function refreshPublished(key, loader) {
+    if (pendingRefresh.has(key)) return;
+    const task = Promise.resolve().then(loader).catch(() => {})
+      .finally(() => pendingRefresh.delete(key));
+    pendingRefresh.set(key, task);
+  }
+
+  async function readPublicCache(name, id) {
+    if (!("indexedDB" in window)) return undefined;
+    // Slow or blocked browser storage must not delay the network request.
+    let timer;
+    try {
+      return await Promise.race([
+        safeStore(name, "readonly", (store) => store.get(id)),
+        new Promise((resolve) => { timer = setTimeout(() => resolve(undefined), 80); }),
+      ]);
+    } finally { clearTimeout(timer); }
+  }
+
   async function fetchJson(path) {
     // Several widgets request the same index/year at startup. Share the request,
     // including its failure, and allow a fresh attempt once it has settled.
@@ -141,16 +162,18 @@
     const key = "archive-index";
     const memory = memoryCache.get(key);
     if (!options.force && isFresh(memory)) return normalizeIndex(memory.data);
-    const cached = await safeStore("index", "readonly", (store) => store.get(key));
-    if (!options.force && isFresh(cached)) {
+    const cached = memory || await readPublicCache("index", key);
+    if (!options.force && isUsable(cached) && age(cached) < CACHE_REFRESH_WINDOW_MS) {
       memoryCache.set(key, cached);
+      if (!isFresh(cached)) refreshPublished(key, () => loadIndex({ force: true }));
       return normalizeIndex(cached.data);
     }
     try {
       const data = normalizeIndex(await fetchJson("data/index.json"));
       const record = { id: key, data, updatedAt: new Date().toISOString() };
       memoryCache.set(key, record);
-      await safeStore("index", "readwrite", (store) => store.put(record));
+      // Cache persistence is best effort; rendering must not wait for a disk write.
+      void safeStore("index", "readwrite", (store) => store.put(record));
       return data;
     } catch (error) {
       if (isUsable(cached)) return normalizeIndex(cached.data);
@@ -171,16 +194,17 @@
     const key = `year:${numericYear}`;
     const memory = memoryCache.get(key);
     if (!options.force && isFresh(memory)) return normalizeYear(memory.data);
-    const cached = await safeStore("years", "readonly", (store) => store.get(numericYear));
-    if (!options.force && isFresh(cached)) {
+    const cached = memory || await readPublicCache("years", numericYear);
+    if (!options.force && isUsable(cached) && age(cached) < CACHE_REFRESH_WINDOW_MS) {
       memoryCache.set(key, cached);
+      if (!isFresh(cached)) refreshPublished(key, () => loadYear(numericYear, { force: true }));
       return normalizeYear(cached.data);
     }
     try {
       const data = normalizeYear(await fetchJson(`data/${numericYear}.json`));
       const record = { year: numericYear, data, updatedAt: new Date().toISOString() };
       memoryCache.set(key, record);
-      await safeStore("years", "readwrite", (store) => store.put(record));
+      void safeStore("years", "readwrite", (store) => store.put(record));
       return data;
     } catch (error) {
       if (isUsable(cached)) return normalizeYear(cached.data);
@@ -188,7 +212,7 @@
     }
   }
 
-  async function loadAlbum(year, activityOrAlbum) {
+  async function loadAlbum(year, activityOrAlbum, options = {}) {
     const activity = activityOrAlbum || {};
     const inline = Array.isArray(activity.images) ? activity.images : Array.isArray(activity.photos) ? activity.photos : null;
     if (inline?.length) return inline.map((item) => Schema.normalizeMedia ? Schema.normalizeMedia(item) : item);
@@ -197,15 +221,19 @@
     if (!album.manifest) return [];
     const id = `${Number(year)}:${album.manifest}`;
     const memory = memoryCache.get(`album:${id}`);
-    if (isFresh(memory)) return memory.data.images || [];
-    const cached = await safeStore("albums", "readonly", (store) => store.get(id));
-    if (isFresh(cached)) return cached.data.images || [];
+    if (!options.force && isFresh(memory)) return memory.data.images || [];
+    const cached = memory || await readPublicCache("albums", id);
+    if (!options.force && isUsable(cached) && age(cached) < CACHE_REFRESH_WINDOW_MS) {
+      memoryCache.set(`album:${id}`, cached);
+      if (!isFresh(cached)) refreshPublished(`album:${id}`, () => loadAlbum(year, activityOrAlbum, { force: true }));
+      return cached.data.images || [];
+    }
     try {
       const data = await fetchJson(album.manifest);
       const images = (data.images || []).map((item) => Schema.normalizeMedia ? Schema.normalizeMedia(item) : item);
       const record = { id, data: { ...data, images }, updatedAt: new Date().toISOString() };
       memoryCache.set(`album:${id}`, record);
-      await safeStore("albums", "readwrite", (store) => store.put(record));
+      void safeStore("albums", "readwrite", (store) => store.put(record));
       return images;
     } catch (error) {
       if (isUsable(cached)) return cached.data.images || [];

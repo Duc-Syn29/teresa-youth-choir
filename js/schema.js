@@ -12,6 +12,8 @@
 
   const SCHEMA_VERSION = 3;
   const YEAR_MIN = 2015;
+  // Temporarily hidden from public archive navigation; year data remains intact for administrators.
+  const HIDDEN_PUBLIC_YEARS = Object.freeze([2026]);
   const ROLE_KEYS = Object.freeze(["chaplain", "leader", "deputyLeader", "conductor", "treasurer"]);
   const ROLE_LABELS = Object.freeze({
     chaplain: "Cha đặc trách",
@@ -64,6 +66,8 @@
     if (!Number.isInteger(year)) year = new Date().getFullYear();
     return year + Math.max(0, integer(futureYears, 1));
   }
+
+  function isYearPublic(year) { return !HIDDEN_PUBLIC_YEARS.includes(Number(year)); }
 
   function slug(value, fallback = "item") {
     const result = string(value)
@@ -551,6 +555,7 @@
     SCHEMA_VERSION,
     YEAR_MIN,
     maxYear,
+    isYearPublic,
     ROLE_KEYS,
     ROLE_LABELS,
     TOPICS,

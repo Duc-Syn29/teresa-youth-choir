@@ -6,109 +6,379 @@
   "count": 15,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/001.jpg",
-      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "id": "media/2020/year-end/c1bb67f6c2be5751/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/c1bb67f6c2be5751/medium.jpg",
+      "alt": "Tất niên ca đoàn",
       "caption": "Tất niên ca đoàn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/001.jpg",
-      "variants": {}
+      "event": "Tất niên ca đoàn",
+      "sourceFilename": "ảnh bìa.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/c1bb67f6c2be5751/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/c1bb67f6c2be5751/medium.jpg",
+          "width": 1280,
+          "height": 719
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/c1bb67f6c2be5751/original.jpg",
+          "width": 2048,
+          "height": 1151
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/002.jpg",
-      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "id": "media/2020/year-end/6ac5a0236ca7080a/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/6ac5a0236ca7080a/medium.jpg",
+      "alt": "Tất niên ca đoàn",
       "caption": "Tất niên ca đoàn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/002.jpg",
-      "variants": {}
+      "event": "Tất niên ca đoàn",
+      "sourceFilename": "tất niên1.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/6ac5a0236ca7080a/thumb.jpg",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/6ac5a0236ca7080a/medium.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/6ac5a0236ca7080a/original.jpg",
+          "width": 1536,
+          "height": 2048
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/003.jpg",
-      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "id": "media/2020/year-end/dd38b6f5a9e1cbe3/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/dd38b6f5a9e1cbe3/medium.jpg",
+      "alt": "Tất niên ca đoàn",
       "caption": "Tất niên ca đoàn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/003.jpg",
-      "variants": {}
+      "event": "Tất niên ca đoàn",
+      "sourceFilename": "tất niên2.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/dd38b6f5a9e1cbe3/thumb.jpg",
+          "width": 233,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/dd38b6f5a9e1cbe3/medium.jpg",
+          "width": 622,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/dd38b6f5a9e1cbe3/original.jpg",
+          "width": 640,
+          "height": 1317
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/004.jpg",
-      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "id": "media/2020/year-end/c26370dd4cc831e4/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/c26370dd4cc831e4/medium.jpg",
+      "alt": "Tất niên ca đoàn",
       "caption": "Tất niên ca đoàn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/004.jpg",
-      "variants": {}
+      "event": "Tất niên ca đoàn",
+      "sourceFilename": "tất niên3.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/c26370dd4cc831e4/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/c26370dd4cc831e4/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/c26370dd4cc831e4/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/005.jpg",
-      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "id": "media/2020/year-end/3f8e3e7b59657765/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/3f8e3e7b59657765/medium.jpg",
+      "alt": "Tất niên ca đoàn",
       "caption": "Tất niên ca đoàn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/005.jpg",
-      "variants": {}
+      "event": "Tất niên ca đoàn",
+      "sourceFilename": "tất niên4.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/3f8e3e7b59657765/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/3f8e3e7b59657765/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/3f8e3e7b59657765/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/006.jpg",
-      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
-      "caption": "Tất niên ca đoàn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/006.jpg",
-      "variants": {}
+      "id": "media/2020/year-end/063cbe7efdca3a60/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/063cbe7efdca3a60/medium.jpg",
+      "alt": "Ca viên cùng sum họp trong tiệc tất niên",
+      "caption": "Ca viên cùng sum họp trong tiệc tất niên",
+      "event": "Tất niên ca đoàn",
+      "sourceFilename": "tất niên5.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/063cbe7efdca3a60/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/063cbe7efdca3a60/medium.jpg",
+          "width": 1280,
+          "height": 719
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/063cbe7efdca3a60/original.jpg",
+          "width": 2048,
+          "height": 1151
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/007.jpg",
-      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "id": "media/2020/year-end/8d5b5f5ae42175bb/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/8d5b5f5ae42175bb/medium.jpg",
+      "alt": "Tất niên ca đoàn",
       "caption": "Tất niên ca đoàn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/007.jpg",
-      "variants": {}
+      "event": "Tất niên ca đoàn",
+      "sourceFilename": "tất niên6.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/8d5b5f5ae42175bb/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/8d5b5f5ae42175bb/medium.jpg",
+          "width": 1280,
+          "height": 719
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/8d5b5f5ae42175bb/original.jpg",
+          "width": 2048,
+          "height": 1151
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/008.jpg",
-      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "id": "media/2020/year-end/5d2ae3d1e8b4c30b/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/5d2ae3d1e8b4c30b/medium.jpg",
+      "alt": "Tất niên ca đoàn",
       "caption": "Tất niên ca đoàn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/008.jpg",
-      "variants": {}
+      "event": "Tất niên ca đoàn",
+      "sourceFilename": "tất niên7.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/5d2ae3d1e8b4c30b/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/5d2ae3d1e8b4c30b/medium.jpg",
+          "width": 1280,
+          "height": 719
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/5d2ae3d1e8b4c30b/original.jpg",
+          "width": 2048,
+          "height": 1151
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/009.jpg",
-      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "id": "media/2020/year-end/deb96abce32f9ce9/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/deb96abce32f9ce9/medium.jpg",
+      "alt": "Tất niên ca đoàn",
       "caption": "Tất niên ca đoàn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/009.jpg",
-      "variants": {}
+      "event": "Tất niên ca đoàn",
+      "sourceFilename": "tất niên8.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/deb96abce32f9ce9/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/deb96abce32f9ce9/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/deb96abce32f9ce9/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/010.jpg",
-      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "id": "media/2020/year-end/8d1cfc84447bb88c/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/8d1cfc84447bb88c/medium.jpg",
+      "alt": "Tất niên ca đoàn",
       "caption": "Tất niên ca đoàn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/010.jpg",
-      "variants": {}
+      "event": "Tất niên ca đoàn",
+      "sourceFilename": "tất niên9.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/8d1cfc84447bb88c/thumb.jpg",
+          "width": 266,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/8d1cfc84447bb88c/medium.jpg",
+          "width": 710,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/8d1cfc84447bb88c/original.jpg",
+          "width": 1136,
+          "height": 2048
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/011.jpg",
-      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
-      "caption": "Tất niên ca đoàn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/011.jpg",
-      "variants": {}
+      "id": "media/2020/year-end/9a25b4d67f21e398/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/9a25b4d67f21e398/medium.jpg",
+      "alt": "Niềm vui gặp gỡ cuối năm",
+      "caption": "Niềm vui gặp gỡ cuối năm",
+      "event": "Tất niên ca đoàn",
+      "sourceFilename": "tất niên10.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/9a25b4d67f21e398/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/9a25b4d67f21e398/medium.jpg",
+          "width": 1280,
+          "height": 719
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/9a25b4d67f21e398/original.jpg",
+          "width": 2048,
+          "height": 1151
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/012.jpg",
-      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "id": "media/2020/year-end/9be7cc201d336085/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/9be7cc201d336085/medium.jpg",
+      "alt": "Tất niên ca đoàn",
       "caption": "Tất niên ca đoàn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/012.jpg",
-      "variants": {}
+      "event": "Tất niên ca đoàn",
+      "sourceFilename": "tất niên11.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/9be7cc201d336085/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/9be7cc201d336085/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/9be7cc201d336085/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/013.jpg",
-      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "id": "media/2020/year-end/fc1aea6769247b2f/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/fc1aea6769247b2f/medium.jpg",
+      "alt": "Tất niên ca đoàn",
       "caption": "Tất niên ca đoàn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/013.jpg",
-      "variants": {}
+      "event": "Tất niên ca đoàn",
+      "sourceFilename": "tất niên12.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/fc1aea6769247b2f/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/fc1aea6769247b2f/medium.jpg",
+          "width": 1280,
+          "height": 719
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/fc1aea6769247b2f/original.jpg",
+          "width": 2048,
+          "height": 1151
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/014.jpg",
-      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
+      "id": "media/2020/year-end/16e203721dd1e034/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/16e203721dd1e034/medium.jpg",
+      "alt": "Tất niên ca đoàn",
       "caption": "Tất niên ca đoàn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/014.jpg",
-      "variants": {}
+      "event": "Tất niên ca đoàn",
+      "sourceFilename": "tất niên14.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/16e203721dd1e034/thumb.jpg",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/16e203721dd1e034/medium.jpg",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/16e203721dd1e034/original.jpg",
+          "width": 1536,
+          "height": 2048
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/015.jpg",
-      "alt": "Ảnh tư liệu: Tất niên ca đoàn",
-      "caption": "Tất niên ca đoàn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/015.jpg",
-      "variants": {}
+      "id": "media/2020/year-end/6bd9bf68c13d4fdf/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/6bd9bf68c13d4fdf/medium.jpg",
+      "alt": "Bữa tiệc tất niên của ca đoàn",
+      "caption": "Bữa tiệc tất niên của ca đoàn",
+      "event": "Tất niên ca đoàn",
+      "sourceFilename": "tất niên15.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/6bd9bf68c13d4fdf/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/6bd9bf68c13d4fdf/medium.jpg",
+          "width": 1280,
+          "height": 719
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/6bd9bf68c13d4fdf/original.jpg",
+          "width": 2048,
+          "height": 1151
+        }
+      }
     }
   ]
 }

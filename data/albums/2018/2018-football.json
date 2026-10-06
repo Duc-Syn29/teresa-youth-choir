@@ -6,32 +6,104 @@
   "count": 4,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/001.jpg",
-      "caption": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc · ảnh 1",
-      "alt": "Ảnh tư liệu: Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/001.jpg",
-      "variants": {}
+      "id": "media/2018/football/1fe5917092fe12d9/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/1fe5917092fe12d9/medium.jpg",
+      "alt": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
+      "caption": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
+      "event": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
+      "sourceFilename": "ảnh bìa.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/1fe5917092fe12d9/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/1fe5917092fe12d9/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/1fe5917092fe12d9/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/002.jpg",
-      "caption": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc · ảnh 2",
-      "alt": "Ảnh tư liệu: Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/002.jpg",
-      "variants": {}
+      "id": "media/2018/football/5be843c7ad5e458b/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/5be843c7ad5e458b/medium.jpg",
+      "alt": "Các cầu thủ chụp ảnh lưu niệm",
+      "caption": "Các cầu thủ chụp ảnh lưu niệm",
+      "event": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
+      "sourceFilename": "giao lưu bóng đá2.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/5be843c7ad5e458b/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/5be843c7ad5e458b/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/5be843c7ad5e458b/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/003.jpg",
-      "caption": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc · ảnh 3",
-      "alt": "Ảnh tư liệu: Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/003.jpg",
-      "variants": {}
+      "id": "media/2018/football/161c2f4fc66fcfd3/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/161c2f4fc66fcfd3/medium.jpg",
+      "alt": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
+      "caption": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
+      "event": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
+      "sourceFilename": "giao lưu bóng đá3.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/161c2f4fc66fcfd3/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/161c2f4fc66fcfd3/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/161c2f4fc66fcfd3/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/004.jpg",
-      "caption": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc · ảnh 4",
-      "alt": "Ảnh tư liệu: Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/004.jpg",
-      "variants": {}
+      "id": "media/2018/football/2e7bfc3b5f495fa9/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/2e7bfc3b5f495fa9/medium.jpg",
+      "alt": "Đội bóng của ca đoàn trên sân",
+      "caption": "Đội bóng của ca đoàn trên sân",
+      "event": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
+      "sourceFilename": "giao lưu bóng đá4.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/2e7bfc3b5f495fa9/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/2e7bfc3b5f495fa9/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/2e7bfc3b5f495fa9/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 3,
   "version": 3,
-  "generatedAt": "2026-09-26T02:38:07.946Z",
+  "generatedAt": "2026-10-06T17:07:50.360Z",
   "totals": {
     "years": 12,
-    "members": 655,
-    "activities": 99
+    "members": 712,
+    "activities": 108
   },
   "years": [
     {
@@ -90,139 +90,234 @@
     {
       "year": 2025,
       "overview": {
-        "eyebrow": "Một chương mới",
-        "title": "Đủ lớn để trao lại yêu thương",
-        "summary": "Dấu mốc 10 năm là dịp tạ ơn, nhìn lại hành trình và tổ chức đêm hòa nhạc Hồng Ân Tuyệt Vời.",
-        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/archive/hero/medium.jpg"
+        "eyebrow": "Năm 2025",
+        "title": "Một chương mới - Dấu ấn của thế hệ hôm nay",
+        "summary": "Mười năm tuy chưa phải là nhiều, nhưng đủ để chúng con nhìn lại hành trình phục vụ, những khó khăn đã vượt qua và muôn vàn hồng ân đã lãnh nhận.",
+        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1c1f83ce6a7976937db1bd06/medium.webp"
       },
       "members": {
-        "total": 58,
-        "new": 12,
-        "inactive": 5,
-        "notes": "Một gia đình nhiều thế hệ, trong đó mỗi người đều có một vai trò và một chỗ để thuộc về."
+        "total": 115,
+        "new": 25,
+        "inactive": 14,
+        "notes": ""
       },
       "leadership": [
         {
           "role": "chaplain",
           "label": "Cha đặc trách",
-          "name": "Lm. Giuse Phạm Đức Hiệp"
+          "name": "Lm. Giuse Lương Thanh Tùng · Lm. Vicente Trần Trí Tuệ"
         },
         {
           "role": "leader",
           "label": "Trưởng ca đoàn",
-          "name": "Têrêsa Nguyễn Khánh Linh"
+          "name": "Phêrô Đỗ Tiến Hạng"
+        },
+        {
+          "role": "deputyLeader",
+          "label": "Phó ca đoàn",
+          "name": "Maria Vũ Thị Bích Phượng · Vicente Vũ Văn Thành · Giuse Nguyễn Phan Hoài Duy · Giuse Trần Viết Vĩ"
         },
         {
           "role": "conductor",
           "label": "Ca trưởng",
-          "name": "Gioan Trần Minh Quân"
+          "name": "Maria Trần Thị Mai"
         },
         {
           "role": "treasurer",
           "label": "Thủ quỹ",
-          "name": "Giuse Đặng Quốc Bảo"
+          "name": "Maria Nguyễn Thị Hà Trang"
         }
       ],
       "events": [
         {
-          "id": "2025-activity-1",
-          "title": "Phụng sự bằng sự hiện diện",
-          "type": "Thánh lễ",
-          "topic": "Thánh lễ",
-          "date": "Hằng tuần",
-          "description": "Duy trì bốn thánh lễ mỗi tháng cùng lịch tập chuyên môn đều đặn.",
-          "image": "",
-          "imageCount": 0
+          "id": "2025-hon-phoi-viet-chinh",
+          "title": "Phục vụ lễ cưới ca viên Maria Việt Chinh và anh Phê-rô Bùi Văn Hựu",
+          "type": "Hôn phối",
+          "topic": "Hôn phối",
+          "date": "04/01/2025",
+          "description": "Những ngày đầu tiên của năm mới, ca đoàn đã có một niềm vui đặc biệt khi được hiện diện và phục vụ Thánh lễ Hôn phối của ca viên Maria Việt Trinh và anh Phê-rô Bùi Văn Hựu tại Giáo xứ Vĩnh Phúc, Giáo phận Thái Bình. Trong ngày trọng đại của hai anh chị, những lời ca tiếng hát của ca đoàn được dâng lên như lời cầu nguyện, xin Thiên Chúa luôn đồng hành, chúc lành và gìn giữ gia đình mới trên hành trình phía trước.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0185dc35288c1ee4859d1b7e/medium.webp",
+          "imageCount": 7
         },
         {
-          "id": "2025-activity-2",
-          "title": "Têrêsa — con đường nhỏ",
-          "type": "Lễ Quan thầy",
-          "topic": "Lễ Quan thầy",
-          "date": "01.10.2025",
-          "description": "Đêm thánh nhạc kể lại linh đạo đơn sơ và tin yêu của Thánh bổn mạng.",
-          "image": "",
-          "imageCount": 0
+          "id": "2025-tat-nien",
+          "title": "Ca đoàn tổ chức chương trình tất niên",
+          "type": "Sinh hoạt",
+          "topic": "Sinh hoạt",
+          "date": "14/01/2025",
+          "description": "Vào lúc 18h30 thứ 3 ngày 14/01/2025, anh chị em ca viên đã quy tụ tại Đền Giêrađô để cùng nhau dâng Thánh lễ Tất niên, tạ ơn Thiên Chúa vì một năm đã qua với biết bao hồng ân, niềm vui, thử thách và những kỷ niệm đáng nhớ. Đây cũng là dịp để các thành viên cùng nhìn lại hành trình đã đi qua, tạ ơn vì dù có những thời điểm khó khăn, ca đoàn vẫn luôn được gìn giữ và tiếp tục sứ mạng phục vụ bằng lời ca tiếng hát. Đặc biệt, Thánh lễ tất niêm này cũng trở thành một dấu mốc khi ca đoàn chính thức bắt đầu những bước đầu tiên chuẩn bị cho hành trình Kỷ niệm 10 năm thành lập Ca đoàn Giới trẻ Têrêsa.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/720c0464c3b0fc86caa26dc9/medium.webp",
+          "imageCount": 28
         },
         {
-          "id": "2025-activity-3",
-          "title": "Hồng Ân Tuyệt Vời",
-          "type": "Hòa nhạc",
-          "topic": "Hòa nhạc",
-          "date": "2025",
-          "description": "Đêm hòa nhạc tạ ơn, kỷ niệm 10 năm thành lập và phát triển của Ca đoàn Giới trẻ Teresa.",
-          "image": "",
-          "imageCount": 0
-        },
-        {
-          "id": "2025-activity-4",
-          "title": "Tiếng hát đến vùng cao",
-          "type": "Thiện nguyện",
+          "id": "2025-thien-nguyen-bui-chu",
+          "title": "Chương trình thiện nguyện Mùa Chay tại Cô nhi viện Thánh An Bùi Chu",
+          "type": "Thiện nguyện · Hành hương",
           "topic": "Thiện nguyện",
-          "date": "07.2025",
-          "description": "Chuyến phục vụ mùa hè kết hợp trao học bổng và sinh hoạt âm nhạc.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/thien-nguyen-2019/medium.jpg",
-          "imageCount": 0
+          "date": "23/03/2025",
+          "description": "Trong tâm tình hoán cải và sẻ chia của Mùa Chay Thánh, ngày 23/03/2025, các anh chị em Ca đoàn Giới trẻ Teresa chúng con đã tổ chức chuyến đi thiện nguyện và hành hương đầy ý nghĩa tại mảnh đất Bùi Chu giàu truyền thống đức tin. Chúng con cũng được nghe Cha Giám đốc và các Sơ chia sẻ về những khó khăn, vất vả trong việc chăm sóc, nuôi dưỡng và đồng hành cùng các em. Qua đó, chúng con càng thấu hiểu và bày tỏ niềm tri ân sâu sắc tới những người ngày đêm tận tụy, trở thành những chứng tá sống động cho tình yêu Thiên Chúa.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ba5f29f399cf93755b26d585/medium.webp",
+          "imageCount": 21
         },
         {
-          "id": "2025-activity-5",
-          "title": "Ở lại trong tình yêu",
-          "type": "Tĩnh tâm",
-          "topic": "Tĩnh tâm",
-          "date": "03.2025",
-          "description": "Hai ngày thinh lặng, cầu nguyện và làm mới lời cam kết phục vụ.",
-          "image": "",
-          "imageCount": 0
+          "id": "2025-logo-moi",
+          "title": "Công bố Logo mới",
+          "type": "Dấu mốc ca đoàn",
+          "topic": "Thành lập",
+          "date": "04/04/2025",
+          "description": "Hướng tới cột mốc trọng đại Kỷ niệm 10 năm Thành lập, dưới sự soi dẫn của Chúa Thánh Thần và ước mong khoác lên mình một diện mạo mới thể hiện trọn vẹn hơn tinh thần cùng sứ mạng phụng sự, Ban Điều hành đã quyết định công bố Logo chính thức mới của Ca đoàn kể từ ngày 04/04/2025",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/47a2734e7871a2f97b5e9e81/medium.webp",
+          "imageCount": 4
         },
         {
-          "id": "2025-activity-6",
-          "title": "Về chung một đội",
-          "type": "Du lịch/Team Building",
-          "topic": "Du lịch/Team Building",
-          "date": "08.2025",
-          "description": "Ba ngày kết nối thế hệ mới với những ca viên đã đồng hành lâu năm.",
-          "image": "",
-          "imageCount": 0
-        },
-        {
-          "id": "2025-activity-7",
-          "title": "Teresa Games",
-          "type": "Hội thao",
+          "id": "2025-giai-bong-da-gdcg-xa-que",
+          "title": "Đội bóng Ca đoàn tham gia Giải bóng đá Gia đình công giáo Xa quê Hà Nội",
+          "type": "Thể thao",
           "topic": "Hội thao",
-          "date": "05.2025",
-          "description": "Ngày hội thể thao nội bộ với tinh thần vui khỏe và hiệp nhất.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/gallery/gan-ket-2024/medium.jpg",
-          "imageCount": 0
+          "date": "Năm 2025",
+          "description": "Hòa chung bầu khí sôi nổi mừng Lễ Thánh Giuse Thợ - Bổn mạng Gia đình Công giáo Xa quê Hà Nội, đội bóng FC Ca đoàn Giới trẻ Têrêsa bước vào Giải bóng đá GĐCGXQ Lần thứ XVI năm 2025. Giải đấu quy tụ 16 đội bóng đại diện cho các cộng đoàn và ban ngành cùng nhau tranh tài nảy lửa qua 4 bảng đấu.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/54187f131070ec019fbd80ed/medium.webp",
+          "imageCount": 5
         },
         {
-          "id": "2025-activity-8",
-          "title": "Đêm của hy vọng",
-          "type": "Giáng Sinh",
-          "topic": "Giáng Sinh",
-          "date": "24.12.2025",
-          "description": "Hoạt cảnh và liên khúc Giáng Sinh được dàn dựng bởi chính các ca viên.",
-          "image": "",
-          "imageCount": 0
+          "id": "2025-hanh-huong-nha-tho-chinh-toa",
+          "title": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+          "type": "Phụng vụ · Hành hương Năm Thánh",
+          "topic": "Phụng vụ",
+          "date": "26/04/2025",
+          "description": "Sáng ngày 26/04/2025, Ca đoàn Giới trẻ Têrêsa cùng cộng đoàn các Giáo xứ Thái Hà, Phùng Khoang và Tân Lạc đã quy tụ về Nhà thờ Chính Tòa Hà Nội hiệp dâng Thánh lễ Hành hương Năm Thánh.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9245abd90866db32b3cd01da/medium.webp",
+          "imageCount": 20
         },
         {
-          "id": "2025-activity-9",
-          "title": "Khúc ca phục sinh",
-          "type": "Phục Sinh",
-          "topic": "Phục Sinh",
-          "date": "04.2025",
-          "description": "Chương trình phụng vụ trọng điểm với dàn hợp xướng bốn bè.",
-          "image": "",
-          "imageCount": 0
+          "id": "2025-le-thanh-giuse-tho",
+          "title": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+          "type": "Phụng vụ",
+          "topic": "Phụng vụ",
+          "date": "01/05/2025",
+          "description": "Là một phần của Gia đình Công giáo Xa quê Hà Nội, Ngày 01/05/2025 Ca đoàn Giới trẻ Teresa vô cùng vinh dự khi được Ban Mục vụ giao trọng trách phục vụ hát trong Đại lễ kính Thánh Giuse Thợ – Bổn mạng GĐCGXQHN.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a09b367f1509a1bd87dfd3f4/medium.webp",
+          "imageCount": 14
         },
         {
-          "id": "2025-activity-10",
-          "title": "Hát cho ngày hạnh phúc",
-          "type": "Hát lễ cưới",
-          "topic": "Hát lễ cưới",
-          "date": "Trong năm",
-          "description": "Đồng hành trong sáu thánh lễ hôn phối của bạn bè và cựu ca viên.",
-          "image": "",
-          "imageCount": 0
+          "id": "2025-mv-cu-dieu",
+          "title": "Ra mắt 2 MV cử điệu mẫu “Hành khúc hy vọng” và “Tuổi trẻ dấn thân”",
+          "type": "Truyền thông · Cử điệu",
+          "topic": "Thánh nhạc",
+          "date": "Tháng 6/2025",
+          "description": "Tháng 6 gõ cửa mang theo sức trẻ rực rỡ và những ngọn lửa nhiệt thành của đại gia đình Teresa. Được sự đồng hành và định hướng từ Ban Điều hành, các bạn Linh hoạt viên đã trải qua chuỗi ngày miệt mài tập luyện và chính thức ra mắt 2 MV cử điệu mẫu: “Hành khúc hy vọng”, “Tuổi trẻ dấn thân” trên các kênh truyền thông của Ca đoàn. Đây không chỉ đơn thuần là những sản phẩm truyền thông âm nhạc, mà còn là lời xác tín mạnh mẽ về tinh thần phụng sự, là nhịp cầu lan tỏa sức trẻ, niềm vui đức tin và tinh thần hy vọng đến với mọi người xung quanh.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/79243ea0af574d076c51c19d/medium.webp",
+          "imageCount": 14
+        },
+        {
+          "id": "2025-tinh-tam-tu-chau",
+          "title": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+          "type": "Tĩnh tâm · Hành hương Năm Thánh",
+          "topic": "Tĩnh tâm",
+          "date": "13/07/2025",
+          "description": "Nằm trong chuỗi hoạt động thuộc hành trình Năm Thánh 2025 và hướng tới mốc son Kỷ niệm 10 năm Thành lập, ngày 13/07/2025, anh chị em ca viên đã cùng nhau tham gia chuyến đi Tĩnh tâm và Hành hương tại Giáo xứ Từ Châu với sự đồng hành của Cha Giuse Nguyễn Quang Hưng.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/952e1e4970e7770f8384644e/medium.webp",
+          "imageCount": 14
+        },
+        {
+          "id": "2025-hoi-thi-giao-ly",
+          "title": "Chung kết Hội thi Giáo lý Năm Thánh 2025",
+          "type": "Giáo lý",
+          "topic": "Học hỏi",
+          "date": "31/07/2025",
+          "description": "Khép lại tháng 7 chan chứa ân sủng, tối 31/07/2025, đội thi Giáo lý Ca đoàn Giới trẻ Têrêsa đã tham gia Chung kết Hội thi Giáo lý Giáo xứ Thái Hà Năm Thánh 2025 và xuất sắc giành Giải Nhất cả ở hạng mục tập thể và cá nhân. Thành quả ngọt ngào ấy là trái chín từ biết bao nỗ lực âm thầm của các ca viên đại diện. Dù thời gian ôn luyện vô cùng gấp rút, các thành viên trong đội thi vẫn tranh thủ từng giờ miệt mài học hỏi Giáo lý. Sự nghiêm túc và tinh thần hiệp nhất ấy đã giúp Ca đoàn ghi thêm một dấu ấn đẹp đẽ, đầy tự hào vào chặng đường 10 năm phục vụ.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/46d08b6d75bcec8212d9a259/medium.webp",
+          "imageCount": 13
+        },
+        {
+          "id": "2025-hoa-nhac-hong-an-tuyet-voi",
+          "title": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+          "type": "Hòa nhạc · Kỷ niệm 10 năm",
+          "topic": "Hòa nhạc",
+          "date": "26/08/2025",
+          "description": "Ngày 26/08/2025 trở thành mốc son đáng nhớ khi Ca đoàn Giới trẻ Têrêsa chúng con chính thức tổ chức Chương trình Hòa nhạc tạ ơn với chủ đề \"Hồng Ân Tuyệt Vời\", mừng kỷ niệm 10 năm thành lập. Một thập kỷ dấn thân trong sứ mạng ca xướng phụng vụ, 10 năm của những hy sinh âm thầm và tình huynh đệ gắn kết nay được đơm hoa kết trái trong một đêm nhạc thiêng liêng, đong đầy ân sủng.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1c1f83ce6a7976937db1bd06/medium.webp",
+          "imageCount": 34
+        },
+        {
+          "id": "2025-giai-bong-da-tu-hung",
+          "title": "Tổ chức giải bóng đá tứ hùng mừng kỷ niệm 10 năm thành lập.",
+          "type": "Thể thao · Kỷ niệm 10 năm",
+          "topic": "Hội thao",
+          "date": "21/09/2025",
+          "description": "Nối tiếp bầu khí rộn rã của chuỗi sự kiện mừng Kỷ niệm 10 năm Thành lập, chiều Chủ Nhật ngày 21/09/2025, Ca đoàn Giới trẻ Têrêsa đã đăng cai tổ chức Giải bóng đá Tứ Hùng 2025 tại sân bóng Hồng Ân. Giải đấu quy tụ 4 đội bóng mang nhiều gắn kết thân thương:",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/20b79b067015b99b9b064d86/medium.webp",
+          "imageCount": 5
+        },
+        {
+          "id": "2025-dai-hoi-gioi-tre-thua-sai-hue",
+          "title": "Tham dự Đại Hội Giới Trẻ Thừa Sai Chúa Cứu Thế Toàn Quốc tại DCCT Huế và Hành hương năm thánh tại Đan Viện Thiên An Huế.",
+          "type": "Đại hội · Hành hương Năm Thánh",
+          "topic": "Đại hội",
+          "date": "27–28/09/2025",
+          "description": "Trong hai ngày 27–28/09/2025, Ca đoàn Giới trẻ Teresa đã bước vào chuyến hành hương Năm Thánh đầy hồng ân tại mảnh đất cố đô Huế, tham dự và phục vụ Đại hội Giới trẻ Thừa sai Chúa Cứu Thế toàn quốc lần thứ II với chủ đề \"100 Năm Sứ Vụ Trong Ân Sủng – RYVM Bước Theo Tiền Nhân\".",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0bbb9ee19235c00013377fb7/medium.webp",
+          "imageCount": 40
+        },
+        {
+          "id": "2025-le-quan-thay-10-nam",
+          "title": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+          "type": "Lễ Quan thầy · Kỷ niệm 10 năm",
+          "topic": "Lễ Quan thầy",
+          "date": "02/10/2025",
+          "description": "Sau bao ngày mong chờ và chuẩn bị, ngày 02/10/2025, Ca đoàn Giới trẻ Teresa long trọng tổ chức Thánh lễ Quan thầy kính Thánh Têrêsa Hài Đồng Giêsu và Kỷ niệm 10 năm Thành lập Ca đoàn.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/807de8044a7a23e3143439ea/medium.webp",
+          "imageCount": 30
+        },
+        {
+          "id": "2025-hanh-huong-phu-nhai",
+          "title": "Tham gia phục vụ Thánh lễ tĩnh tâm và Hành hương năm Thánh của GĐCGXQ Hà Nội tại Vương Cung Thánh Đường Phú Nhai – GP Bùi Chu.",
+          "type": "Phụng vụ · Hành hương Năm Thánh",
+          "topic": "Phụng vụ",
+          "date": "18/10/2025",
+          "description": "Ngày 18/10/2025, Ca đoàn Giới trẻ Têrêsa đã đồng hành cùng Gia đình Công giáo Xa quê Hà Nội bước vào chuyến hành hương tĩnh tâm Năm Thánh tại Vương cung Thánh đường Phú Nhai (Giáo phận Bùi Chu).",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/04eda6a47d4c066365725fd8/medium.webp",
+          "imageCount": 15
+        },
+        {
+          "id": "2025-dai-hoi-the-thao-cecilia",
+          "title": "Tham gia Đại hội thể thao Cecilia 2025",
+          "type": "Thể thao",
+          "topic": "Hội thao",
+          "date": "Tháng 11/2025",
+          "description": "Hướng tới ngày Lễ mừng kính Thánh Cecilia, Quan thầy Khối Liên ca đoàn Giáo xứ Thái Hà, Ca đoàn Giới trẻ Têrêsa đã hăng hái tham gia Đại hội Thể thao Cecilia 2025. Đây là sân chơi ý nghĩa nhằm tăng cường tinh thần đoàn kết, giao lưu và thắt chặt tình huynh đệ giữa 12 ca đoàn trong giáo xứ.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e72bcc96e89b7f1545f96525/medium.webp",
+          "imageCount": 5
+        },
+        {
+          "id": "2025-dai-le-di-dan",
+          "title": "Phục vụ Thánh lễ Khai mạc Đại lễ di dân 2025 và Góp 1 tiết mục hợp xướng trong chương trình Hoan ca",
+          "type": "Phụng vụ · Di dân",
+          "topic": "Phụng vụ",
+          "date": "25/11/2025",
+          "description": "Ngày 25/11/2025, Gia đình Công giáo Xa quê Hà Nội đã long trọng cử hành Khai mạc Đại lễ Di dân 2025 với chủ đề \"Hy vọng không làm chúng ta thất vọng\" (x. Rm 5,5). Trong bầu khí linh thiêng và hân hoan ấy, Ca đoàn Giới trẻ Têrêsa vinh dự đảm nhận phần hát phụng vụ Thánh lễ Khai mạc và tham gia chương trình Hoan ca mừng Đại lễ.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/184e6a7838baf8ab7384ad48/medium.webp",
+          "imageCount": 14
+        },
+        {
+          "id": "2025-dong-am-na-ri",
+          "title": "Tổ chức chương trình thiện nguyện Giáng sinh và chương trình hoan ca Giáng sinh tại Giáo điểm Thành Công - Giáo xứ Cao Bình, Giáo Phận Lạng Sơn-Cao Bằng.",
+          "type": "Thiện nguyện · Hoan ca Giáng Sinh",
+          "topic": "Thiện nguyện",
+          "date": "20–21/12/2025",
+          "description": "Mùa Giáng Sinh 2025 về mang theo không khí se lạnh quen thuộc, cũng là lúc anh chị em Ca đoàn Giới trẻ Teresa chúng con cùng nhau chuẩn bị cho chuyến đi xa cuối cùng trong năm. Hai ngày 20–21/12/2025, Ca đoàn Giới trẻ Teresa đã vượt quãng đường xa xôi về với Giáo điểm Thành Công (Nam Tuấn, Hà Quảng, Cao Bằng) để thực hiện chương trình Thiện nguyện và Hoan ca Giáng Sinh mang tên \"Đông Ấm Nà Rị\".",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0d90454ad91c5cf7f8098887/medium.webp",
+          "imageCount": 62
+        },
+        {
+          "id": "2025-dai-le-giang-sinh",
+          "title": "Phục vụ Đại Lễ Giáng Sinh lúc 18h00 ngày 25/12/2025, khép lại hành trình 10 năm.",
+          "type": "Phụng vụ · Giáng Sinh",
+          "topic": "Phụng vụ",
+          "date": "25/12/2025",
+          "description": "Trong niềm vui mừng Đại lễ Chúa Giáng Sinh, ngày 25/12/2025, ca đoàn vinh dự được phục vụ Thánh lễ Đại lễ Giáng Sinh lúc 18h00. Đặc biệt, Thánh lễ Giáng Sinh năm nay còn mang một ý nghĩa rất riêng. Đây không chỉ là một Thánh lễ cuối năm, mà còn là một dấu ấn khép lại trọn vẹn hành trình 10 năm của đại gia đình Ca đoàn Giới trẻ Têrêsa. Mười năm trước, ca đoàn bắt đầu hành trình bằng những con người trẻ tuổi, cùng nhau tập hát, phục vụ và xây dựng một ca đoàn nhỏ bé. Mười năm sau, vẫn những lời ca ấy, nhưng phía sau là cả một hành trình dài với biết bao kỷ niệm, những người đã đến, đã đồng hành, đã trưởng thành và để lại dấu ấn trong lịch sử của ca đoàn.",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f2ad8f1b960e240d29d76c2e/medium.webp",
+          "imageCount": 44
         }
       ]
     },
@@ -232,7 +327,7 @@
         "eyebrow": "Đức tin · Tình huynh đệ · Phục vụ",
         "title": "Nối dài sứ mạng, khắc ghi dấu ấn",
         "summary": "Năm 2024 là một dấu mốc đáng nhớ của Ca đoàn Giới trẻ Teresa. Tiếp nối những dấu ấn từ năm 2023, năm qua đã trở thành một hành trình đáng nhớ, nơi tình yêu Chúa và tinh thần đơn sơ, khiêm nhường của Thánh Quan thầy Têrêsa Hài Đồng Giêsu được thể hiện qua từng tiếng hát, từng lời cầu nguyện và sự dấn thân phục vụ của mỗi thành viên.",
-        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-quan-thay-lan-thu-9/069-4238f6095a/medium.jpg"
+        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/aef4d1c0c4376f27e3f3ff64/medium.webp"
       },
       "members": {
         "total": 75,
@@ -270,7 +365,7 @@
           "topic": "Hát lễ cưới",
           "date": "30.01.2024",
           "description": "Ngày 30/1/2024, gần 45 anh chị em ca viên cùng nhau hiện diện tại ngôi Nhà thờ Chính Tòa Phát Diệm.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/001-aaa7b3d7cf/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e4ee1cccf4517e74e7110cbf/medium.webp",
           "imageCount": 2
         },
         {
@@ -280,7 +375,7 @@
           "topic": "Hát lễ cưới",
           "date": "27.02.2024",
           "description": "Ngày 27/2/2024, Nhận lời mời của a Hạng một ca viên của ca đoàn.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-minh-hieu-huong-giang/001-1d1a2da503/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/39b7bf0c01ce529816a8f67d/medium.webp",
           "imageCount": 4
         },
         {
@@ -290,8 +385,8 @@
           "topic": "Phục Sinh",
           "date": "31.03.2024",
           "description": "Ngày 31/3/2024, trong niềm vui hân hoan của Đại lễ Phục Sinh năm 2024, Giáo xứ Thái Hà long trọng tổ chức chương trình Rước kiệu mừng Chúa Phục Sinh với sự tham dự đông đảo của cộng đoàn.",
-          "image": "",
-          "imageCount": 0
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e49676f8b48472ce5976fbb1/medium.webp",
+          "imageCount": 9
         },
         {
           "id": "2024-hon-phoi-nguyen-huong-anh-van",
@@ -300,7 +395,7 @@
           "topic": "Hát lễ cưới",
           "date": "13.04.2024",
           "description": "Ngày 13/4/2024, Thánh Lễ Hôn Phối chị Nguyễn Hương và anh Anh Văn tại Gx.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-nguyen-huong-anh-van/001-22002281aa/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/97a10f3188eb76af95cb92be/medium.webp",
           "imageCount": 1
         },
         {
@@ -310,8 +405,8 @@
           "topic": "Cầu nguyện",
           "date": "07.06.2024",
           "description": "Ngày 7/6/2024, sau giờ tập hát, Ca đoàn Giới Trẻ Têrêsa đã cùng nhau dành những giây phút lắng đọng để cầu nguyện và chuẩn bị tâm hồn hướng đến ngày tĩnh tâm của ca đoàn tại An viện Thiên Hà, Hòa Bình.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/001-ce86f89652/medium.jpg",
-          "imageCount": 4
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/480b4e288d2cc4c92484a0dd/medium.webp",
+          "imageCount": 5
         },
         {
           "id": "2024-thi-giao-ly",
@@ -320,7 +415,7 @@
           "topic": "Học hỏi",
           "date": "22.06.2024",
           "description": "Ngày 22 tháng 06 năm 2024, Ca đoàn chúng ta đã ghi dấu những khoảnh khắc thật đẹp tại Cuộc thi Tìm hiểu Giáo lý 2024 do Giáo xứ Thái Hà tổ chức.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/001-a31412cd99/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ec4a6937aee87fc07b636d14/medium.webp",
           "imageCount": 11
         },
         {
@@ -330,7 +425,7 @@
           "topic": "Tĩnh tâm",
           "date": "27–28.07.2024",
           "description": "Chủ đề: “Ở lại và được ngài sai đi”",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/001-812b916bf4/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e2153e366db48fa650407ba5/medium.webp",
           "imageCount": 39
         },
         {
@@ -340,7 +435,7 @@
           "topic": "Cộng đoàn",
           "date": "15.08.2024 · 21:00",
           "description": "Vào lúc 21h thứ 5 ngày 15/8/2024, sau khi phục vụ Thánh Lễ Đức Mẹ Hồn Xác Lên Trờilucs 20h00 tại Giáo xứ Thái Hà.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/001-0fac636af3/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bb8be46659da8a2ad4d1a6e6/medium.webp",
           "imageCount": 4
         },
         {
@@ -350,7 +445,7 @@
           "topic": "Cầu nguyện",
           "date": "09.2024",
           "description": "Bên cạnh những buổi tập hát hàng tuần và những lần cùng nhau phục vụ Thánh lễ, Ca đoàn cũng luôn dành thời gian cho những hoạt động cầu nguyện và sẻ chia.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-sau-bao-yagi/001-8951171879/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b0dabfaf17c8a04de622e368/medium.webp",
           "imageCount": 1
         },
         {
@@ -360,7 +455,7 @@
           "topic": "Tĩnh tâm",
           "date": "09.2024",
           "description": "Để chuẩn bị tâm hồn sốt sắng cho Thánh lễ Quan thầy diễn ra vào tháng 10, các anh chị em trong Ca đoàn tiếp tục tham dự buổi tĩnh tâm và cầu nguyện tại Nhà thờ Giáo xứ Cửa Bắc.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/001-63916e852a/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0c3a095e389fe3862b2dde94/medium.webp",
           "imageCount": 7
         },
         {
@@ -370,7 +465,7 @@
           "topic": "Hát lễ cưới",
           "date": "22.09.2024",
           "description": "Ngày 22/9/2024, Ca đoàn hân hoan chúc mừng anh Phó Vĩ, là người anh vô cùng đáng yêu, nhiệt thành đã và đang hoạt động nhiệt huyết trong ca đoàn, cảm tạ và ngợi khen Chúa vì đã luôn soi sáng, dẫn đường cho tình yêu của anh Phó Từ Từ Vĩ và chị Hương Hương “nên một” với nhau.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-viet-vi-va-huong/001-dafe194306/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9b761e2a16ca247885501431/medium.webp",
           "imageCount": 1
         },
         {
@@ -380,7 +475,7 @@
           "topic": "Lễ Quan thầy",
           "date": "03.10.2024",
           "description": "Sau những ngày miệt mài tập luyện và chuẩn bị, ngày 03/10/2024 đã trở thành một dấu mốc đặc biệt khi Ca đoàn long trọng cử hành Thánh lễ Quan thầy lần thứ 9, mừng kính Thánh nữ Têrêsa Hài Đồng Giêsu, với chủ đề “Giữa lòng Hội Thánh, con sẽ là tình yêu”.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-quan-thay-lan-thu-9/001-6d4fba3b3c/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/aef4d1c0c4376f27e3f3ff64/medium.webp",
           "imageCount": 72
         },
         {
@@ -390,7 +485,7 @@
           "topic": "Hát lễ cưới",
           "date": "18.10.2024",
           "description": "Ngày 18/10/2024, Ca đoàn lại tiếp tục có dịp về Phục vụ Thánh Lễ Hôn Phối tại Giáo xứ Phong Ý – GP Thanh Hóa.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/001-200ffc102d/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/09d67075821e58f8f2d1944e/medium.webp",
           "imageCount": 3
         },
         {
@@ -400,7 +495,7 @@
           "topic": "Đại lễ",
           "date": "22.10.2024",
           "description": "Ngày 22/10/2024, hòa chung không khí của Đại lễ Di dân 2024, các anh chị em trong Ca đoàn đã tích cực tham gia các hoạt động chung của cộng đoàn.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/001-813b609a70/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/12926f8a478dd7a5eb2c9828/medium.webp",
           "imageCount": 16
         },
         {
@@ -410,7 +505,7 @@
           "topic": "Hát lễ cưới",
           "date": "11.11.2024",
           "description": "Ngày 11/11/2024, Ca đoàn cùng nhau hiện diện tại Giáo xứ Mỹ Đình, Giáo phận Thái Bình, trong Thánh lễ Hôn phối của anh Phát và chị Hà Trang.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-phat-ha-trang/001-25f1d76896/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/f828a67a79507d05401ebafc/medium.webp",
           "imageCount": 4
         },
         {
@@ -420,7 +515,7 @@
           "topic": "Hòa nhạc",
           "date": "11.2024",
           "description": "Tiếp nối những hoạt động trong hành trình năm 2024, Ca đoàn tiếp tục có thêm một dấu ấn đặc biệt trong những tháng cuối năm: “Hát mừng Tri ân” nhân dịp kỷ niệm 100 năm Dòng Chúa Cứu Thế hiện diện tại Việt Nam (1925–2025).",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/001-af61c7b4d9/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/987af3a1b6161ffee6fc061f/medium.webp",
           "imageCount": 10
         },
         {
@@ -430,8 +525,8 @@
           "topic": "Thiện nguyện",
           "date": "12.2024",
           "description": "Khép lại một năm 2024 với biết bao trải nghiệm, Ca đoàn đã cùng nhau thực hiện chương trình thiện nguyện “Đông ấm Na Rì” tại Na Rì, Bắc Kạn trước thềm Giáng sinh.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/thien-nguyen/645d3741-c847-400d-a994-814f1f4e87f5/medium.webp",
-          "imageCount": 135
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/95c8bab7fb8cc8c8c2fbddfa/medium.webp",
+          "imageCount": 196
         }
       ]
     },
@@ -441,7 +536,7 @@
         "eyebrow": "Tin yêu · Dấn thân · Phục vụ",
         "title": "Một chặng đường đong đầy ân sủng",
         "summary": "Năm 2023 đánh dấu một chặng đường đong đầy kỷ niệm và bừng sáng những hoa trái ân sủng đối với Ca đoàn Giới trẻ Têrêsa.",
-        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/069/medium.jpg"
+        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/69275ef0fdaa771412b376a6/medium.webp"
       },
       "members": {
         "total": 45,
@@ -489,7 +584,7 @@
           "topic": "Hát lễ cưới",
           "date": "08.02.2023 · 18:30",
           "description": "Đây là một cột mốc tràn ngập niềm vui và xúc động của toàn thể gia đình Ca đoàn Giới trẻ Têrêsa.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/052ed2fc33c6fdac94970510/medium.webp",
           "imageCount": 4
         },
         {
@@ -499,7 +594,7 @@
           "topic": "Thánh nhạc",
           "date": "03.2023",
           "description": "Tháng Ba gõ cửa, đánh dấu một cột mốc chuyển mình đầy ý nghĩa trong đời sống phục vụ của Ca đoàn Giới trẻ Têrêsa khi chào đón chị Ban Mai trong vai trò Ca trưởng phụ trách chuyên môn",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/ca-truong-ban-mai/001/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f39a489b5f80efe87eb115b5/medium.webp",
           "imageCount": 1
         },
         {
@@ -509,7 +604,7 @@
           "topic": "Tĩnh tâm",
           "date": "23–25.06.2023",
           "description": "Tạm gác lại những âu lo và bộn bề nơi phố thị, Ca đoàn Giới trẻ Têrêsa lên đường tiến về hòn đảo Cô Tô xinh đẹp.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/069/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1aa4b668f5453853eff19244/medium.webp",
           "imageCount": 81
         },
         {
@@ -519,7 +614,7 @@
           "topic": "Tĩnh tâm",
           "date": "16.09.2023",
           "description": "Ca đoàn Giới trẻ Têrêsa cùng các hội đoàn trong GĐCGXQ Hà Nội đã gác lại công việc, khởi hành từ 05h30 sáng tiến về Giáo xứ Thanh Minh.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-thanh-minh/001/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/056ea56652e022b4d7e2ca03/medium.webp",
           "imageCount": 15
         },
         {
@@ -529,7 +624,7 @@
           "topic": "Lễ Quan thầy",
           "date": "03.10.2023 · 18:30",
           "description": "Cuối tháng 9, bầu khí hướng về Nhà thờ Giáo xứ Thái Hà trở nên rộn rã hơn bao giờ hết.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/069/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/69275ef0fdaa771412b376a6/medium.webp",
           "imageCount": 150
         },
         {
@@ -549,7 +644,7 @@
           "topic": "Hát lễ cưới",
           "date": "17.11.2023",
           "description": "Đáp lại lời ngỏ chân thành của chị Vân Anh — người ca viên luôn nhiệt thành, Ca đoàn Giới trẻ Têrêsa đã hân hoan quy tụ về Giáo xứ Cẩm Sơn để phục vụ Thánh lễ Hôn phối cho chị Maria Vân Anh và anh Giuse Ân Sủng.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-van-anh-an-sung/011/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1643bc17c67023aa4a80f668/medium.webp",
           "imageCount": 11
         },
         {
@@ -559,7 +654,7 @@
           "topic": "Thiện nguyện",
           "date": "16–17.12.2023",
           "description": "Nhờ sự nâng đỡ của quý Cha Đặc trách cùng sự rộng lượng của quý ân nhân, chuyến thiện nguyện \"Hơi ấm nơi rẻo cao\" đã lăn bánh trong đêm đông 15/12/2023.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/006/medium.jpg?v=459405",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4b7250442db783b36c51c892/medium.webp",
           "imageCount": 54
         }
       ]
@@ -570,7 +665,7 @@
         "eyebrow": "Trở lại · Gặp gỡ · Phục vụ",
         "title": "Bước tiếp hành trình sứ vụ sau đại dịch covid",
         "summary": "Sau gần hai năm chịu ảnh hưởng nặng nề bởi đại dịch COVID-19, năm 2022 đánh dấu một bước chuyển mình quan trọng trong hành trình của Ca đoàn Giới Trẻ Têrêsa. Những buổi tập hát, những Thánh lễ, những chuyến đi và những chương trình sinh hoạt tưởng chừng rất đỗi quen thuộc lại trở nên đáng quý hơn bao giờ hết. Từ khoảng giữa năm 2022, khi cuộc sống dần trở lại bình thường, ca đoàn cũng từng bước tái khởi động lại các sinh hoạt thường niên. Những buổi tập hát lại vang lên, anh chị em có cơ hội gặp gỡ, cùng nhau phục vụ Thánh lễ và nối lại những hoạt động đã dang dở, dù quân số có phần giảm sút khi một số anh chị em trở về quê, thay đổi công việc hoặc chuyển nơi sinh sống. Nhưng chính trong hoàn cảnh ấy, những người còn lại càng ý thức hơn về tình hiệp nhất và trách nhiệm với cộng đoàn.",
-        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/medium.jpg"
+        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/92f31348f5245c9772dcaec3/medium.webp"
       },
       "members": {
         "total": 45,
@@ -628,7 +723,7 @@
           "topic": "Tĩnh tâm",
           "date": "17.09.2022",
           "description": "Ngày 17/9/2022, Ca đoàn có chuyến tĩnh tâm tại Tam Đảo với chủ đề “Lên Núi Với Đức Kitô” để cùng nhau hướng đến ngày lễ quan thầy kỷ niệm 7 năm thành lập.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/tinh-tam-tam-dao/09/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/c40d311def022fc6df56d537/medium.webp",
           "imageCount": 10
         },
         {
@@ -638,8 +733,8 @@
           "topic": "Đại lễ",
           "date": "05.10.2022",
           "description": "Ngày 5/10/2022, Ca đoàn phục vụ Thánh lễ Khai mạc Đại lễ Di dân, kết hợp cùng Ca đoàn Monica và Ca đoàn Latin.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/dai-le-di-dan/13/medium.jpg",
-          "imageCount": 13
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/6f0ebb725a79fc8e8a2c1e84/medium.webp",
+          "imageCount": 12
         },
         {
           "id": "2022-quan-thay-lan-thu-7",
@@ -648,7 +743,7 @@
           "topic": "Lễ Quan thầy",
           "date": "10.10.2022",
           "description": "Chỉ ít ngày sau, ngày 10/10/2022, Ca đoàn hân hoan mừng Thánh lễ Quan Thầy.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/quan-thay/27/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/92f31348f5245c9772dcaec3/medium.webp",
           "imageCount": 27
         },
         {
@@ -658,7 +753,7 @@
           "topic": "Hôn phối",
           "date": "30.10.2022",
           "description": "Ngày 30/10/2022, ca đoàn cùng hiện diện và tham dự lễ cưới của anh Trường và chị Na.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/truong-na/03/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/e6d547def8b171d991773b02/medium.webp",
           "imageCount": 9
         },
         {
@@ -668,7 +763,7 @@
           "topic": "Thiện nguyện",
           "date": "16–18.12.2022",
           "description": "Khép lại một năm nhiều dấu ấn, từ ngày 16–18/12/2022, Ca đoàn thực hiện chương trình Thiện nguyện Giáng Sinh tại xã Yên Định, huyện Bắc Mê, tỉnh Hà Giang.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/giang-sinh-trao-yeu-thuong/12/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/62f1a255d69d9ef394a446dd/medium.webp",
           "imageCount": 17
         }
       ]
@@ -717,7 +812,7 @@
           "topic": "Hôn phối",
           "date": "17.01.2021",
           "description": "Mở đầu cho những dấu ấn của năm 2021 là ngày 17/01, khi ca đoàn cùng nhau về tham dự và chung vui trong ngày cưới của anh Đức Chính và chị Ánh Nguyệt.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/15e8e9d684abb932a6c2081d/medium.webp",
           "imageCount": 6
         },
         {
@@ -727,7 +822,7 @@
           "topic": "Hôn phối",
           "date": "23–24.01.2021",
           "description": "Chỉ ít ngày sau, vào 23 và 24/01, ca đoàn tiếp tục về tham dự ngày vui trọng đại trong ngày cưới của anh chị Thu Trang – Thanh Nguyễn và anh chị Thanh Hoa – Trung Buti.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/04/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/ec9eabbbf1ce7472224e5471/medium.webp",
           "imageCount": 4
         },
         {
@@ -747,7 +842,7 @@
           "topic": "Hát lễ cưới",
           "date": "29.12.2021",
           "description": "Những ngày cuối năm, vào 29/12/2021, ca đoàn vinh dự được hiện diện và phục vụ Thánh Lễ hôn phối của anh chị Hùng – Uyên, được tổ chức tại Giáo xứ Thái Hà.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/08/medium.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/6928b43d30d3b071aababf86/medium.webp",
           "imageCount": 8
         }
       ]
@@ -758,7 +853,7 @@
         "eyebrow": "Dấu mốc 5 năm",
         "title": "5 Năm một hành trình – Muôn Đời Tạ Ơn",
         "summary": "Năm 2020 là một dấu mốc đặc biệt trong hành trình của Ca đoàn Giới trẻ Têrêsa – kỷ niệm 5 năm thành lập ca đoàn (2015–2020). Năm năm không phải là một chặng đường quá dài, nhưng đủ để những người trẻ từ khắp mọi nơi cùng gặp nhau nơi mái nhà Ca đoàn, cùng cất lên một tiếng hát và cùng bước vào hành trình phục sự Chúa bằng tất cả nhiệt huyết của tuổi trẻ.",
-        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/001.jpg"
+        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/7d615814545baa50/medium.jpg"
       },
       "members": {
         "total": 63,
@@ -826,7 +921,7 @@
           "topic": "Tĩnh tâm",
           "date": "20–21.06.2020",
           "description": "THÁNG 6 - Tĩnh tâm tại đan viện Biển Đức Thiên Hà:  Ngày 20-21/6  ca đoàn đã có những khoảng thời gian thật ý nghĩa bên nhau.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-retreat-thien-ha/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/retreat-thien-ha/d1c8c8193193b85a/medium.jpg",
           "imageCount": 10
         },
         {
@@ -846,7 +941,7 @@
           "topic": "Gắn kết",
           "date": "09.2020",
           "description": "THÁNG 9: Khi tháng 9 về, bầu khí hướng tới ngày lễ bổn mạng của Ca đoàn cũng trở nên rộn ràng hơn.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-song-ca/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/song-ca/968f256b5e448288/medium.jpg",
           "imageCount": 4
         },
         {
@@ -856,8 +951,8 @@
           "topic": "Lễ Quan thầy",
           "date": "30.09–01.10.2020",
           "description": "Ngày 30/9/2020, Ca đoàn long trọng mừng lễ bổn mạng Thánh Têrêsa Hài Đồng Giêsu.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-patron-feast/001.jpg",
-          "imageCount": 34
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/patron-feast/7d615814545baa50/medium.jpg",
+          "imageCount": 33
         },
         {
           "id": "2020-migrant",
@@ -866,7 +961,7 @@
           "topic": "Phụng vụ",
           "date": "10.2020",
           "description": "THÁNG 10: Bên cạnh việc chuẩn bị cho lễ kỷ niệm và lễ bổn mạng, Ca đoàn vẫn duy trì việc phục vụ Thánh lễ và đồng hành cùng các hoạt động của giáo xứ.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-migrant/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/migrant/9f09b32b4eab7307/medium.jpg",
           "imageCount": 23
         },
         {
@@ -886,8 +981,8 @@
           "topic": "Cộng đoàn",
           "date": "2020",
           "description": "Khoảnh khắc ca đoàn hiệp thông trong ngày hôn phối của anh Phó ca đoàn Liêm và Dáng.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-wedding/001.jpg",
-          "imageCount": 2
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/wedding/88fd0dee232ecbff/medium.jpg",
+          "imageCount": 7
         },
         {
           "id": "2020-year-end",
@@ -896,7 +991,7 @@
           "topic": "Gắn kết",
           "date": "2020",
           "description": "Những phút giây gặp gỡ, sinh hoạt và gắn kết trong dịp tất niên năm 2020.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-year-end/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/year-end/c1bb67f6c2be5751/medium.jpg",
           "imageCount": 15
         },
         {
@@ -916,7 +1011,7 @@
           "topic": "Thiện nguyện",
           "date": "18–20.12.2020",
           "description": "Không chỉ phục vụ bằng lời ca tiếng hát, năm 2020 còn ghi dấu tinh thần bác ái của những người trẻ Têrêsa.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/564b806f1c129e01/medium.jpg",
           "imageCount": 19
         }
       ]
@@ -927,7 +1022,7 @@
         "eyebrow": "Kiên vững niềm tin, kiên trung phụng vụ",
         "title": "Kiên vững niềm tin, kiên trung phụng vụ",
         "summary": "Năm 2019 là năm của những bước chân nhiệt huyết khi chúng con có nhiều cơ hội được đi xa hơn và ca đoàn cũng có những thay đổi nhân sự khi 2 chị hỗ trợ chuyên môn ca trưởng của ca đoàn quyết định dấn thân đi theo tiếng gọi tu trì.",
-        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/001.jpg"
+        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/ecf78c9faee329f3/medium.jpg"
       },
       "members": {
         "total": 55,
@@ -965,7 +1060,7 @@
           "topic": "Tĩnh tâm",
           "date": "06–07/07/2019",
           "description": "Chủ đề: “TÍN THÁC VÀ CẦU NGUYỆN” Tam Đảo – Vĩnh Phúc Hành trình phục vụ của ca đoàn năm 2019 được ghi dấu bắt đầu bằng chuyến tĩnh tâm của Ca đoàn Giới trẻ Teresa tại Tam Đảo.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/296a5d7e7653ac5e/medium.jpg",
           "imageCount": 2
         },
         {
@@ -975,7 +1070,7 @@
           "topic": "Đại lễ",
           "date": "28–29/09/2019",
           "description": "Tháng 9, những người trẻ Chúa Cứu Thế từ ba miền Bắc – Trung – Nam cùng quy tụ tại Huế trong Đại hội Giới trẻ Thừa sai Chúa Cứu Thế 3 miền lần thứ nhất.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/11025ad338e55379/medium.jpg",
           "imageCount": 7
         },
         {
@@ -985,7 +1080,7 @@
           "topic": "Lễ Quan thầy",
           "date": "08/10/2019",
           "description": "🎉 Kỷ niệm 4 năm thành lập Ca đoàn Ngày 08/10/2019, ca đoàn hân hoan mừng Lễ Quan Thầy Thánh Têrêsa Hài Đồng Giêsu, đồng thời kỷ niệm 4 năm ngày thành lập.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/ecf78c9faee329f3/medium.jpg",
           "imageCount": 3
         },
         {
@@ -995,8 +1090,8 @@
           "topic": "Thánh lễ",
           "date": "20/10/2019",
           "description": "Ngày 20/10, tiếng hát của ca đoàn lại vang lên trong một niềm vui rất riêng: Thánh lễ Hôn phối của anh Quang Minh và chị Đỗ Liệu.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/001.jpg",
-          "imageCount": 1
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/5af1312d679a1a64/medium.jpg",
+          "imageCount": 12
         },
         {
           "id": "2019-hoi-thao-cecilia",
@@ -1005,7 +1100,7 @@
           "topic": "Hội thao",
           "date": "17/11/2019",
           "description": "Không chỉ cùng nhau phục vụ bằng lời ca tiếng hát, các ca viên còn có dịp gắn kết trong những hoạt động thể thao.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/hoi-thao-cecilia/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/hoi-thao-cecilia/0e849daf6e48f69b/medium.jpg",
           "imageCount": 4
         },
         {
@@ -1015,7 +1110,7 @@
           "topic": "Đại lễ",
           "date": "25–27/11/2019",
           "description": "Một trong những dấu ấn nổi bật của năm 2019 là việc Ca đoàn Giới trẻ Têrêsa kết hợp cùng 3 ca đoàn: Latin và Maria Trinh Vương hiệp nhất trong việc phục vụ Đại lễ Di dân 2019.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-le-di-dan/c2d0efa6851aa9d0/medium.jpg",
           "imageCount": 13
         },
         {
@@ -1025,7 +1120,7 @@
           "topic": "Thiện nguyện",
           "date": "14–15/12/2019",
           "description": "Chủ đề: “GIÁNG SINH TRAO YÊU THƯƠNG” Bản Lùng Chang – xã Linh Hồ – huyện Vị Xuyên – Hà Giang Khép lại một năm với thật nhiều hoạt động, ca đoàn lên đường đến Bản Lùng Chang, xã Linh Hồ, huyện Vị Xuyên, Hà Giang trong chương trình thiện nguyện “Giáng Sinh Trao Yêu Thương”.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/1aedfd3cb8cc99e3/medium.jpg",
           "imageCount": 15
         },
         {
@@ -1046,7 +1141,7 @@
         "eyebrow": "Vững tâm dấn bước",
         "title": "Vững tâm dấn bước",
         "summary": "Năm 2018, Ca đoàn đánh dấu một cột mốc lớn khi ca đoàn bầu ban điều hành nhiệm kỳ mới.",
-        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/001.jpg"
+        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/055b3cd12e3d0282/medium.jpg"
       },
       "members": {
         "total": 60,
@@ -1084,7 +1179,7 @@
           "topic": "Tâm linh",
           "date": "03/03/2018",
           "description": "Mở đầu cho hành trình năm 2018 là chương trình cầu nguyện định kỳ của ca đoàn.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/fb929529cd1c191b/medium.jpg",
           "imageCount": 4
         },
         {
@@ -1094,7 +1189,7 @@
           "topic": "Gắn kết",
           "date": "23/06/2018",
           "description": "Ngoài các giờ tập hát và sinh hoạt trong ca đoàn.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/1fe5917092fe12d9/medium.jpg",
           "imageCount": 4
         },
         {
@@ -1104,7 +1199,7 @@
           "topic": "Cộng đoàn",
           "date": "24/06/2018",
           "description": "Chỉ một ngày sau chương trình giao lưu bóng đá, ca đoàn tiếp tục tham gia Thi Kinh Thánh tại Giáo xứ Thái Hà.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/ed7d18ab20142ea8/medium.jpg",
           "imageCount": 3
         },
         {
@@ -1114,7 +1209,7 @@
           "topic": "Tĩnh tâm",
           "date": "15/07/2018",
           "description": "Ngày 15/7 ca đoàn có chuyến tĩnh tâm tại Gx.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/a1948fdc7d699bb5/medium.jpg",
           "imageCount": 11
         },
         {
@@ -1124,7 +1219,7 @@
           "topic": "Cộng đoàn",
           "date": "15/09/2018",
           "description": "Ngày 15/09, Ca đoàn Giới trẻ Têrêsa tham dự Hội thảo Giới trẻ tại Giáo xứ Phú Tảo, Hải Dương.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/055b3cd12e3d0282/medium.jpg",
           "imageCount": 4
         },
         {
@@ -1134,7 +1229,7 @@
           "topic": "Lễ Quan thầy",
           "date": "10/10/2018",
           "description": "Chủ đề: “Điều duy nhất con thực sự ước muốn là yêu cho đến chết vì yêu.”",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/5e6b8a282df46bf8/medium.jpg",
           "imageCount": 25
         },
         {
@@ -1144,7 +1239,7 @@
           "topic": "Gắn kết",
           "date": "10/11/2018",
           "description": "Ngày 10/11/2018, ngay sau ngày mừng lễ quan thầy 1 tháng, ca đoàn chúng đánh dấu một cột mốc quan trọng trong việc tổ chức của ca đoàn khi ca đoàn tiến hành bầu Ban Điều hành mới.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/948d2a6b03b9828d/medium.jpg",
           "imageCount": 5
         },
         {
@@ -1154,7 +1249,7 @@
           "topic": "Thiện nguyện",
           "date": "15–16/12/2018",
           "description": "Địa điểm: Xã Nậm Xé, huyện Văn Bàn, tỉnh Lào Cai Khép lại năm 2018 là một trong những hoạt động để lại nhiều dấu ấn nhất: chương trình thiện nguyện “Giáng Sinh Trao Yêu Thương”, được tổ chức trong hai ngày 15–16/12 tại xã Nậm Xé, huyện Văn Bàn, tỉnh Lào Cai.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/2f57b792f6dddb27/medium.jpg",
           "imageCount": 9
         },
         {
@@ -1175,7 +1270,7 @@
         "eyebrow": "Niềm hy vọng và trung tín",
         "title": "Sắc áo màu xanh",
         "summary": "Năm 2017, Trong sự bao bọc và nâng đỡ của Gia Đình Công Giáo Xa Quê Hà Nội, ca đoàn chúng con vẫn tiếp tục gìn giữ được các nếp sinh hoạt và ngày một ổn định hơn.",
-        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/001.jpg"
+        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/c017dac00f5497c9/medium.jpg"
       },
       "members": {
         "total": 40,
@@ -1243,7 +1338,7 @@
           "topic": "Lễ Quan thầy",
           "date": "20/09/2017",
           "description": "Ngày 20/09/2017, tại thánh đường Giáo xứ Thái Hà, Ca đoàn Giới trẻ Teresa đã hân hoan mừng lễ Thánh Quan thầy lần thứ hai trong bầu khí linh thiêng và chan chứa ân sủng, với sự hiện diện của cha đặc trách Gio-an Lưu Ngọc Quỳnh cùng quý anh chị em trong Đại Gia Đình Công Giáo Xa Quê Hà Nội.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/c017dac00f5497c9/medium.jpg",
           "imageCount": 20
         },
         {
@@ -1253,8 +1348,8 @@
           "topic": "Phụng vụ",
           "date": "09–11/10/2017",
           "description": "Tối ngày 10/10/2017, tại Nhà thờ Thái Hà, ngày thứ hai trong khuôn khổ Đại lễ Di dân 2017 được tổ chức cách long trọng.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/001.jpg",
-          "imageCount": 6
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/49579a0da1a5ae23/medium.jpg",
+          "imageCount": 8
         },
         {
           "id": "2017-charity",
@@ -1284,7 +1379,7 @@
         "eyebrow": "Từ dấu chân nhỏ đến khoảnh khắc lớn",
         "title": "Từ dấu chân nhỏ đến khoảnh khắc lớn",
         "summary": "Năm thứ hai – nhưng là năm của rất nhiều lần đầu tiên.",
-        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/001.jpg"
+        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/589c5343ec67b171/medium.jpg"
       },
       "members": {
         "total": 35,
@@ -1332,7 +1427,7 @@
           "topic": "Cộng đoàn",
           "date": "09/04/2016",
           "description": "Vào đầu tháng 4, Ca đoàn Giới Trẻ Têrêsa cũng có cơ hội được hòa mình vào những hoạt động chung của Giới trẻ Tổng Giáo Phận Hà Nội.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/e141eb85a21c4fd9/medium.jpg",
           "imageCount": 10
         },
         {
@@ -1342,7 +1437,7 @@
           "topic": "Gắn kết",
           "date": "13/07/2016",
           "description": "Ngày 13/07/2016, Ban Điều hành ca đoàn cùng nhau thống nhất một quyết định quan trọng: tiến hành may đồng phục cho các ca viên.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/589c5343ec67b171/medium.jpg",
           "imageCount": 1
         },
         {
@@ -1372,7 +1467,7 @@
           "topic": "Lễ Quan thầy",
           "date": "04/10/2016",
           "description": "Một trong những dấu mốc quan trọng nhất của năm 2016 chính là ngày lễ kính Thánh Têrêsa Hài Đồng Giêsu – vị Thánh quan thầy mà ca đoàn đã chọn để đồng hành và nâng đỡ trên hành trình phục vụ.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/001.jpg",
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/13767e7cf1a52d25/medium.jpg",
           "imageCount": 12
         }
       ]

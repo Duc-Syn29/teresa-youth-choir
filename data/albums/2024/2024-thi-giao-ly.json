@@ -3,273 +3,293 @@
   "year": 2024,
   "activityId": "2024-thi-giao-ly",
   "title": "Hội thi Giáo lý",
-  "topic": "Học hỏi",
-  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/001-a31412cd99/medium.jpg",
   "count": 11,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/001-a31412cd99/medium.jpg",
-      "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-      "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-      "id": "media/2024/2024-thi-giao-ly/001-a31412cd99/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ec4a6937aee87fc07b636d14/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ec4a6937aee87fc07b636d14/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/001-a31412cd99/thumb.jpg",
-          "width": 480,
-          "height": 333
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/001-a31412cd99/medium.jpg",
-          "width": 1280,
-          "height": 888
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/001-a31412cd99/original.jpg",
-          "width": 2048,
-          "height": 1421
-        }
-      },
-      "event": "Hội thi Giáo lý"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/002-ed9491d86d/medium.jpg",
-      "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-      "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-      "id": "media/2024/2024-thi-giao-ly/002-ed9491d86d/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/002-ed9491d86d/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ec4a6937aee87fc07b636d14/thumb.webp",
           "width": 480,
           "height": 326
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/002-ed9491d86d/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ec4a6937aee87fc07b636d14/medium.webp",
           "width": 1280,
           "height": 870
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/002-ed9491d86d/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ec4a6937aee87fc07b636d14/original.webp",
           "width": 2048,
           "height": 1392
         }
       },
-      "event": "Hội thi Giáo lý"
+      "alt": "Hội thi Giáo lý",
+      "caption": "Hội thi Giáo lý",
+      "event": "Hội thi Giáo lý",
+      "sourceFilename": "ảnh bìa.jpg",
+      "sourceDirectory": "Thi Giáo Lý 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/003-e8708b78b0/medium.jpg",
-      "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-      "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-      "id": "media/2024/2024-thi-giao-ly/003-e8708b78b0/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/05680a31af9551ac4b45e1a0/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/05680a31af9551ac4b45e1a0/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/003-e8708b78b0/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/05680a31af9551ac4b45e1a0/thumb.webp",
+          "width": 480,
+          "height": 333
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/05680a31af9551ac4b45e1a0/medium.webp",
+          "width": 1280,
+          "height": 888
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/05680a31af9551ac4b45e1a0/original.webp",
+          "width": 2048,
+          "height": 1421
+        }
+      },
+      "alt": "Hội thi Giáo lý",
+      "caption": "Hội thi Giáo lý",
+      "event": "Hội thi Giáo lý",
+      "sourceFilename": "486174256_1601895840589576_2194372318498017755_n.jpg",
+      "sourceDirectory": "Thi Giáo Lý 2024"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/41f60f948b14cc21e1f691cc/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/41f60f948b14cc21e1f691cc/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/41f60f948b14cc21e1f691cc/thumb.webp",
           "width": 480,
           "height": 328
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/003-e8708b78b0/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/41f60f948b14cc21e1f691cc/medium.webp",
           "width": 1280,
           "height": 874
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/003-e8708b78b0/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/41f60f948b14cc21e1f691cc/original.webp",
           "width": 2048,
           "height": 1398
         }
       },
-      "event": "Hội thi Giáo lý"
+      "alt": "Hội thi Giáo lý",
+      "caption": "Hội thi Giáo lý",
+      "event": "Hội thi Giáo lý",
+      "sourceFilename": "486416797_1601895827256244_5747563614167694367_n.jpg",
+      "sourceDirectory": "Thi Giáo Lý 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/004-6c0681ba9f/medium.jpg",
-      "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-      "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-      "id": "media/2024/2024-thi-giao-ly/004-6c0681ba9f/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/8748329832f2656681c8b34e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/8748329832f2656681c8b34e/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/004-6c0681ba9f/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/8748329832f2656681c8b34e/thumb.webp",
           "width": 480,
           "height": 305
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/004-6c0681ba9f/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/8748329832f2656681c8b34e/medium.webp",
           "width": 1280,
           "height": 813
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/004-6c0681ba9f/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/8748329832f2656681c8b34e/original.webp",
           "width": 2048,
           "height": 1300
         }
       },
-      "event": "Hội thi Giáo lý"
+      "alt": "Hội thi Giáo lý",
+      "caption": "Hội thi Giáo lý",
+      "event": "Hội thi Giáo lý",
+      "sourceFilename": "486520894_1601895707256256_4287039588963784344_n.jpg",
+      "sourceDirectory": "Thi Giáo Lý 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/005-383bfcf670/medium.jpg",
-      "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-      "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-      "id": "media/2024/2024-thi-giao-ly/005-383bfcf670/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b300906cb1ce8dde4709a605/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b300906cb1ce8dde4709a605/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/005-383bfcf670/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b300906cb1ce8dde4709a605/thumb.webp",
           "width": 480,
           "height": 354
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/005-383bfcf670/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b300906cb1ce8dde4709a605/medium.webp",
           "width": 1280,
           "height": 944
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/005-383bfcf670/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b300906cb1ce8dde4709a605/original.webp",
           "width": 2048,
           "height": 1510
         }
       },
-      "event": "Hội thi Giáo lý"
+      "alt": "Hội thi Giáo lý",
+      "caption": "Hội thi Giáo lý",
+      "event": "Hội thi Giáo lý",
+      "sourceFilename": "486536624_1601895637256263_1920868204783197460_n.jpg",
+      "sourceDirectory": "Thi Giáo Lý 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/006-588928f99b/medium.jpg",
-      "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-      "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-      "id": "media/2024/2024-thi-giao-ly/006-588928f99b/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1f93ab7fd9e2922329f8d872/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1f93ab7fd9e2922329f8d872/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/006-588928f99b/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1f93ab7fd9e2922329f8d872/thumb.webp",
           "width": 480,
           "height": 339
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/006-588928f99b/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1f93ab7fd9e2922329f8d872/medium.webp",
           "width": 1280,
           "height": 905
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/006-588928f99b/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1f93ab7fd9e2922329f8d872/original.webp",
           "width": 2048,
           "height": 1448
         }
       },
-      "event": "Hội thi Giáo lý"
+      "alt": "Hội thi Giáo lý",
+      "caption": "Hội thi Giáo lý",
+      "event": "Hội thi Giáo lý",
+      "sourceFilename": "486560659_1601895610589599_7327222229927075151_n.jpg",
+      "sourceDirectory": "Thi Giáo Lý 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/007-d067bd5f10/medium.jpg",
-      "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-      "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-      "id": "media/2024/2024-thi-giao-ly/007-d067bd5f10/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/34c93acc7ac601be474ab685/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/34c93acc7ac601be474ab685/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/007-d067bd5f10/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/34c93acc7ac601be474ab685/thumb.webp",
           "width": 480,
           "height": 316
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/007-d067bd5f10/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/34c93acc7ac601be474ab685/medium.webp",
           "width": 1280,
           "height": 843
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/007-d067bd5f10/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/34c93acc7ac601be474ab685/original.webp",
           "width": 2048,
           "height": 1348
         }
       },
-      "event": "Hội thi Giáo lý"
+      "alt": "Hội thi Giáo lý",
+      "caption": "Hội thi Giáo lý",
+      "event": "Hội thi Giáo lý",
+      "sourceFilename": "486572760_1601895557256271_1773194662825779110_n.jpg",
+      "sourceDirectory": "Thi Giáo Lý 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/008-18c73939b0/medium.jpg",
-      "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-      "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-      "id": "media/2024/2024-thi-giao-ly/008-18c73939b0/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/63af40d040ae0c319e8142f6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/63af40d040ae0c319e8142f6/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/008-18c73939b0/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/63af40d040ae0c319e8142f6/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/008-18c73939b0/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/63af40d040ae0c319e8142f6/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/008-18c73939b0/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/63af40d040ae0c319e8142f6/original.webp",
           "width": 2048,
           "height": 1366
         }
       },
-      "event": "Hội thi Giáo lý"
+      "alt": "Hội thi Giáo lý",
+      "caption": "Hội thi Giáo lý",
+      "event": "Hội thi Giáo lý",
+      "sourceFilename": "486576510_1601895750589585_6301121765717065044_n.jpg",
+      "sourceDirectory": "Thi Giáo Lý 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/009-a4b8e0ff72/medium.jpg",
-      "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-      "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-      "id": "media/2024/2024-thi-giao-ly/009-a4b8e0ff72/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1227558267be373dd873841a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1227558267be373dd873841a/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/009-a4b8e0ff72/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1227558267be373dd873841a/thumb.webp",
           "width": 480,
           "height": 354
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/009-a4b8e0ff72/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1227558267be373dd873841a/medium.webp",
           "width": 1280,
           "height": 945
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/009-a4b8e0ff72/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1227558267be373dd873841a/original.webp",
           "width": 2048,
           "height": 1512
         }
       },
-      "event": "Hội thi Giáo lý"
+      "alt": "Hội thi Giáo lý",
+      "caption": "Hội thi Giáo lý",
+      "event": "Hội thi Giáo lý",
+      "sourceFilename": "486576907_1601895643922929_8416357291109982068_n.jpg",
+      "sourceDirectory": "Thi Giáo Lý 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/010-21a25f2b2d/medium.jpg",
-      "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-      "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-      "id": "media/2024/2024-thi-giao-ly/010-21a25f2b2d/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5cb53c90635111a8fe67660b/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5cb53c90635111a8fe67660b/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/010-21a25f2b2d/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5cb53c90635111a8fe67660b/thumb.webp",
           "width": 480,
           "height": 334
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/010-21a25f2b2d/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5cb53c90635111a8fe67660b/medium.webp",
           "width": 1280,
           "height": 890
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/010-21a25f2b2d/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5cb53c90635111a8fe67660b/original.webp",
           "width": 2048,
           "height": 1424
         }
       },
-      "event": "Hội thi Giáo lý"
+      "alt": "Hội thi Giáo lý",
+      "caption": "Hội thi Giáo lý",
+      "event": "Hội thi Giáo lý",
+      "sourceFilename": "486652074_1601895830589577_2801997365938964694_n (1).jpg",
+      "sourceDirectory": "Thi Giáo Lý 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/011-715697a6d0/medium.jpg",
-      "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-      "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-      "id": "media/2024/2024-thi-giao-ly/011-715697a6d0/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a07af6b092d9279a44746f0c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a07af6b092d9279a44746f0c/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/011-715697a6d0/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a07af6b092d9279a44746f0c/thumb.webp",
           "width": 480,
           "height": 361
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/011-715697a6d0/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a07af6b092d9279a44746f0c/medium.webp",
           "width": 1280,
           "height": 964
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/011-715697a6d0/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a07af6b092d9279a44746f0c/original.webp",
           "width": 2048,
           "height": 1542
         }
       },
-      "event": "Hội thi Giáo lý"
+      "alt": "Hội thi Giáo lý",
+      "caption": "Hội thi Giáo lý",
+      "event": "Hội thi Giáo lý",
+      "sourceFilename": "486719192_1601895647256262_3662724523294933022_n.jpg",
+      "sourceDirectory": "Thi Giáo Lý 2024"
     }
   ]
 }

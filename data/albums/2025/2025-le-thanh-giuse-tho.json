@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "activityId": "2025-le-thanh-giuse-tho",
+  "title": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+  "count": 14,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a09b367f1509a1bd87dfd3f4/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a09b367f1509a1bd87dfd3f4/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a09b367f1509a1bd87dfd3f4/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a09b367f1509a1bd87dfd3f4/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a09b367f1509a1bd87dfd3f4/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "caption": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "event": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "sourceFilename": "ảnh bìa.jpg",
+      "sourceDirectory": "Phục vụ Đại lễ kính Thánh Giuse Thợ tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6906b9f0f7bc4b35918a60cf/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6906b9f0f7bc4b35918a60cf/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6906b9f0f7bc4b35918a60cf/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6906b9f0f7bc4b35918a60cf/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/6906b9f0f7bc4b35918a60cf/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "caption": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "event": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "sourceFilename": "499822368_1104922881659198_508395148568963119_n.jpg",
+      "sourceDirectory": "Phục vụ Đại lễ kính Thánh Giuse Thợ tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e6dd4e1165067a1bfcbc3449/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e6dd4e1165067a1bfcbc3449/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e6dd4e1165067a1bfcbc3449/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e6dd4e1165067a1bfcbc3449/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e6dd4e1165067a1bfcbc3449/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "caption": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "event": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "sourceFilename": "499830547_1104923091659177_897896790153042962_n.jpg",
+      "sourceDirectory": "Phục vụ Đại lễ kính Thánh Giuse Thợ tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/133c9b9281adbfe75af62145/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/133c9b9281adbfe75af62145/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/133c9b9281adbfe75af62145/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/133c9b9281adbfe75af62145/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/133c9b9281adbfe75af62145/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "caption": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "event": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "sourceFilename": "499856901_1104923138325839_5870358248192917834_n.jpg",
+      "sourceDirectory": "Phục vụ Đại lễ kính Thánh Giuse Thợ tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d9d1c9667b9123275c9750b2/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d9d1c9667b9123275c9750b2/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d9d1c9667b9123275c9750b2/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d9d1c9667b9123275c9750b2/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d9d1c9667b9123275c9750b2/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "caption": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "event": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "sourceFilename": "499935102_1104922921659194_3424333784908426398_n.jpg",
+      "sourceDirectory": "Phục vụ Đại lễ kính Thánh Giuse Thợ tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d742bcf98b77db4a0cdf1af4/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d742bcf98b77db4a0cdf1af4/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d742bcf98b77db4a0cdf1af4/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d742bcf98b77db4a0cdf1af4/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d742bcf98b77db4a0cdf1af4/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "caption": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "event": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "sourceFilename": "499942338_1104922978325855_623482139322272932_n.jpg",
+      "sourceDirectory": "Phục vụ Đại lễ kính Thánh Giuse Thợ tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9cf8f364b1604cac9404ae35/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9cf8f364b1604cac9404ae35/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9cf8f364b1604cac9404ae35/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9cf8f364b1604cac9404ae35/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9cf8f364b1604cac9404ae35/original.webp",
+          "width": 1365,
+          "height": 2048
+        }
+      },
+      "alt": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "caption": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "event": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "sourceFilename": "499963611_1104927434992076_6773210944852717789_n.jpg",
+      "sourceDirectory": "Phục vụ Đại lễ kính Thánh Giuse Thợ tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b4b500a8154d45199879c329/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b4b500a8154d45199879c329/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b4b500a8154d45199879c329/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b4b500a8154d45199879c329/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b4b500a8154d45199879c329/original.webp",
+          "width": 1365,
+          "height": 2048
+        }
+      },
+      "alt": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "caption": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "event": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "sourceFilename": "499981875_1104914514993368_6297058803885706878_n.jpg",
+      "sourceDirectory": "Phục vụ Đại lễ kính Thánh Giuse Thợ tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f999dcadaad1da20a7c28bb5/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f999dcadaad1da20a7c28bb5/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f999dcadaad1da20a7c28bb5/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f999dcadaad1da20a7c28bb5/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f999dcadaad1da20a7c28bb5/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "caption": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "event": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "sourceFilename": "500198168_1104923204992499_210264758185073111_n.jpg",
+      "sourceDirectory": "Phục vụ Đại lễ kính Thánh Giuse Thợ tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/02048eef5f0f907ccb7afcf5/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/02048eef5f0f907ccb7afcf5/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/02048eef5f0f907ccb7afcf5/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/02048eef5f0f907ccb7afcf5/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/02048eef5f0f907ccb7afcf5/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "caption": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "event": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "sourceFilename": "500204315_1104923054992514_8686894160511270379_n.jpg",
+      "sourceDirectory": "Phục vụ Đại lễ kính Thánh Giuse Thợ tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/19e4c31e526a9beb68791737/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/19e4c31e526a9beb68791737/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/19e4c31e526a9beb68791737/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/19e4c31e526a9beb68791737/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/19e4c31e526a9beb68791737/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "caption": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "event": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "sourceFilename": "500222987_1104924588325694_1566661390407979491_n.jpg",
+      "sourceDirectory": "Phục vụ Đại lễ kính Thánh Giuse Thợ tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1690cdad6ce04d878e33180b/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1690cdad6ce04d878e33180b/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1690cdad6ce04d878e33180b/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1690cdad6ce04d878e33180b/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1690cdad6ce04d878e33180b/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "caption": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "event": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "sourceFilename": "500225775_1104924794992340_9000371883066408334_n.jpg",
+      "sourceDirectory": "Phục vụ Đại lễ kính Thánh Giuse Thợ tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d3ed5c57af3d819fb30630ee/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d3ed5c57af3d819fb30630ee/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d3ed5c57af3d819fb30630ee/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d3ed5c57af3d819fb30630ee/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d3ed5c57af3d819fb30630ee/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "caption": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "event": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "sourceFilename": "500227136_1104923944992425_7063489731282248231_n.jpg",
+      "sourceDirectory": "Phục vụ Đại lễ kính Thánh Giuse Thợ tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/bf9fe252558aa12e45de3725/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/bf9fe252558aa12e45de3725/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/bf9fe252558aa12e45de3725/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/bf9fe252558aa12e45de3725/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/bf9fe252558aa12e45de3725/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "caption": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "event": "Đại lễ kính thánh Giuse Thợ: Bổn mạng GĐCGXQHN",
+      "sourceFilename": "500227603_1104923384992481_2674852404180946580_n.jpg",
+      "sourceDirectory": "Phục vụ Đại lễ kính Thánh Giuse Thợ tại Giáo xứ Thái Hà"
+    }
+  ]
+}

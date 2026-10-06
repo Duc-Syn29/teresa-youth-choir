@@ -6,46 +6,154 @@
   "count": 6,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/001.jpg",
-      "caption": "Tiệc tất niên ca đoàn · ảnh 1",
-      "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/001.jpg",
-      "variants": {}
+      "id": "media/2016/year-end/8c0f47d69948e46d/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/8c0f47d69948e46d/medium.jpg",
+      "alt": "Tiệc tất niên ca đoàn",
+      "caption": "Tiệc tất niên ca đoàn",
+      "event": "Tiệc tất niên ca đoàn",
+      "sourceFilename": "1787136042905_1995884631902468284_7736263391661925970_fde410cdf5b0c015d65a030888f584ad.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/8c0f47d69948e46d/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/8c0f47d69948e46d/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/8c0f47d69948e46d/original.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/002.jpg",
-      "caption": "Tiệc tất niên ca đoàn · ảnh 2",
-      "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/002.jpg",
-      "variants": {}
+      "id": "media/2016/year-end/0f84aecc93d65daf/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/0f84aecc93d65daf/medium.jpg",
+      "alt": "Tiệc tất niên ca đoàn",
+      "caption": "Tiệc tất niên ca đoàn",
+      "event": "Tiệc tất niên ca đoàn",
+      "sourceFilename": "1787136043256_1995884631902468284_7736263391661925970_eb9c9b1237397a9b393ba2e6737c223f.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/0f84aecc93d65daf/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/0f84aecc93d65daf/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/0f84aecc93d65daf/original.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/003.jpg",
-      "caption": "Tiệc tất niên ca đoàn · ảnh 3",
-      "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/003.jpg",
-      "variants": {}
+      "id": "media/2016/year-end/792c5755d9c33fd8/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/792c5755d9c33fd8/medium.jpg",
+      "alt": "Các ca viên cùng sum họp cuối năm",
+      "caption": "Các ca viên cùng sum họp cuối năm",
+      "event": "Tiệc tất niên ca đoàn",
+      "sourceFilename": "1787136043743_1995884631902468284_7736263391661925970_fddd9345c01954c6447ae2b0d49e0139.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/792c5755d9c33fd8/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/792c5755d9c33fd8/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/792c5755d9c33fd8/original.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/004.jpg",
-      "caption": "Tiệc tất niên ca đoàn · ảnh 4",
-      "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/004.jpg",
-      "variants": {}
+      "id": "media/2016/year-end/fbb7bb5522efeba2/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/fbb7bb5522efeba2/medium.jpg",
+      "alt": "Tiệc tất niên ca đoàn",
+      "caption": "Tiệc tất niên ca đoàn",
+      "event": "Tiệc tất niên ca đoàn",
+      "sourceFilename": "1787136044263_1995884631902468284_7736263391661925970_d63d01a361f1dc7e03def92e9732e87e.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/fbb7bb5522efeba2/thumb.jpg",
+          "width": 270,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/fbb7bb5522efeba2/medium.jpg",
+          "width": 720,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/fbb7bb5522efeba2/original.jpg",
+          "width": 1152,
+          "height": 2048
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/005.jpg",
-      "caption": "Tiệc tất niên ca đoàn · ảnh 5",
-      "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/005.jpg",
-      "variants": {}
+      "id": "media/2016/year-end/1f74da159a2e82f4/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/1f74da159a2e82f4/medium.jpg",
+      "alt": "Niềm vui gặp gỡ trong tiệc tất niên",
+      "caption": "Niềm vui gặp gỡ trong tiệc tất niên",
+      "event": "Tiệc tất niên ca đoàn",
+      "sourceFilename": "1787136045573_1995884631902468284_7736263391661925970_1898576d87211faeddbc8d8a3d9eb1c4.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/1f74da159a2e82f4/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/1f74da159a2e82f4/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/1f74da159a2e82f4/original.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/006.jpg",
-      "caption": "Tiệc tất niên ca đoàn · ảnh 6",
-      "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/006.jpg",
-      "variants": {}
+      "id": "media/2016/year-end/10e20fa96e2a10e3/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/10e20fa96e2a10e3/medium.jpg",
+      "alt": "Tiệc tất niên ca đoàn",
+      "caption": "Tiệc tất niên ca đoàn",
+      "event": "Tiệc tất niên ca đoàn",
+      "sourceFilename": "1787136046575_1995884631902468284_7736263391661925970_7750dfc75bd56723b48bde040c2f56d6.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/10e20fa96e2a10e3/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/10e20fa96e2a10e3/medium.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/10e20fa96e2a10e3/original.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      }
     }
   ]
 }

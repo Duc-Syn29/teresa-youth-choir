@@ -6,18 +6,54 @@
   "count": 2,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/001.jpg",
-      "caption": "Tĩnh tâm 2019 · ảnh 1",
-      "alt": "Ảnh tư liệu: Tĩnh tâm 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/001.jpg",
-      "variants": {}
+      "id": "media/2019/tinh-tam/296a5d7e7653ac5e/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/296a5d7e7653ac5e/medium.jpg",
+      "alt": "Tĩnh tâm 2019",
+      "caption": "Tĩnh tâm 2019",
+      "event": "Tĩnh tâm 2019",
+      "sourceFilename": "ảnh bìa.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/296a5d7e7653ac5e/thumb.jpg",
+          "width": 479,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/296a5d7e7653ac5e/medium.jpg",
+          "width": 719,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/296a5d7e7653ac5e/original.jpg",
+          "width": 719,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/002.jpg",
-      "caption": "Tĩnh tâm 2019 · ảnh 2",
-      "alt": "Ảnh tư liệu: Tĩnh tâm 2019",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/002.jpg",
-      "variants": {}
+      "id": "media/2019/tinh-tam/a936b5b9efae3cf6/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/a936b5b9efae3cf6/medium.jpg",
+      "alt": "Tĩnh tâm 2019",
+      "caption": "Tĩnh tâm 2019",
+      "event": "Tĩnh tâm 2019",
+      "sourceFilename": "1786681155700_1995884631902468284_7736263391661925970_7126105d26fc8404924c71323c5dff7b.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/a936b5b9efae3cf6/thumb.jpg",
+          "width": 480,
+          "height": 287
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/a936b5b9efae3cf6/medium.jpg",
+          "width": 1280,
+          "height": 764
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/a936b5b9efae3cf6/original.jpg",
+          "width": 2041,
+          "height": 1219
+        }
+      }
     }
   ]
 }

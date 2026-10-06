@@ -2,100 +2,112 @@
   "schemaVersion": 1,
   "year": 2023,
   "activityId": "2023-hon-phoi-van-tinh-nguyen-thi-mo",
-  "title": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ",
+  "title": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
   "count": 4,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/001/medium.jpg",
-      "alt": "Thánh lễ Hôn phối của anh Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ",
-      "caption": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ · ảnh 1",
-      "id": "media/2023/hon-phoi-tinh-mo/001/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/052ed2fc33c6fdac94970510/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/052ed2fc33c6fdac94970510/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/001/thumb.jpg",
-          "width": 480,
-          "height": 393
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/001/medium.jpg",
-          "width": 1280,
-          "height": 1048
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/001/original.jpg",
-          "width": 1280,
-          "height": 1048
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/002/medium.jpg",
-      "alt": "Thánh lễ Hôn phối của anh Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ",
-      "caption": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ · ảnh 2",
-      "id": "media/2023/hon-phoi-tinh-mo/002/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/002/thumb.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/002/medium.jpg",
-          "width": 1280,
-          "height": 960
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/002/original.jpg",
-          "width": 1280,
-          "height": 960
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/003/medium.jpg",
-      "alt": "Thánh lễ Hôn phối của anh Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ",
-      "caption": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ · ảnh 3",
-      "id": "media/2023/hon-phoi-tinh-mo/003/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/003/thumb.jpg",
-          "width": 360,
-          "height": 480
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/003/medium.jpg",
-          "width": 960,
-          "height": 1280
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/003/original.jpg",
-          "width": 960,
-          "height": 1280
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/medium.jpg",
-      "alt": "Thánh lễ Hôn phối của anh Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ",
-      "caption": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ · ảnh 4",
-      "id": "media/2023/hon-phoi-tinh-mo/004/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/052ed2fc33c6fdac94970510/thumb.webp",
           "width": 480,
           "height": 210
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/052ed2fc33c6fdac94970510/medium.webp",
           "width": 1280,
           "height": 560
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hon-phoi-tinh-mo/004/original.jpg?v=1006113",
-          "width": 3200,
-          "height": 1399
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/052ed2fc33c6fdac94970510/original.webp",
+          "width": 2560,
+          "height": 1120
         }
-      }
+      },
+      "alt": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+      "caption": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+      "event": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+      "sourceFilename": "ảnh bìa.png",
+      "sourceDirectory": "Lễ cưới ac Tĩnh Mơ 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1d802c3513159595dc0eb431/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1d802c3513159595dc0eb431/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1d802c3513159595dc0eb431/thumb.webp",
+          "width": 480,
+          "height": 393
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1d802c3513159595dc0eb431/medium.webp",
+          "width": 1280,
+          "height": 1048
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1d802c3513159595dc0eb431/medium.webp",
+          "width": 1280,
+          "height": 1048
+        }
+      },
+      "alt": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+      "caption": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+      "event": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+      "sourceFilename": "ảnh cưới1.jpg",
+      "sourceDirectory": "Lễ cưới ac Tĩnh Mơ 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/71908677bb55c6f8fda2117d/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/71908677bb55c6f8fda2117d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/71908677bb55c6f8fda2117d/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/71908677bb55c6f8fda2117d/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/71908677bb55c6f8fda2117d/medium.webp",
+          "width": 1280,
+          "height": 960
+        }
+      },
+      "alt": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+      "caption": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+      "event": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+      "sourceFilename": "ảnh cưới2.jpg",
+      "sourceDirectory": "Lễ cưới ac Tĩnh Mơ 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3f6eb123ff108c14a4b92c61/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3f6eb123ff108c14a4b92c61/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3f6eb123ff108c14a4b92c61/thumb.webp",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3f6eb123ff108c14a4b92c61/medium.webp",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3f6eb123ff108c14a4b92c61/medium.webp",
+          "width": 960,
+          "height": 1280
+        }
+      },
+      "alt": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+      "caption": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+      "event": "Thánh Lễ Hôn phối của anh trưởng Giuse Phạm Văn Tĩnh và chị Maria Nguyễn Thị Mơ ( Trưởng ban liên kết) tại Giáo xứ Liên Thượng – Giáo phận Bùi Chu",
+      "sourceFilename": "ảnh cưới3.jpg",
+      "sourceDirectory": "Lễ cưới ac Tĩnh Mơ 2023"
     }
   ]
 }

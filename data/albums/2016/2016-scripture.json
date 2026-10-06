@@ -2,29 +2,83 @@
   "schemaVersion": 1,
   "year": 2016,
   "activityId": "2016-scripture",
-  "title": "Cuộc thi Giáo lý – Kinh Thánh xa quê",
+  "title": "Cuộc thi Giáo lý: “Giới trẻ cùng tìm hiểu về Kinh Thánh và Gia đình Công giáo Xa quê Hà Nội”",
   "count": 3,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/001.jpg",
-      "caption": "Cuộc thi Giáo lý – Kinh Thánh xa quê · ảnh 1",
-      "alt": "Ảnh tư liệu: Cuộc thi Giáo lý – Kinh Thánh xa quê",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/001.jpg",
-      "variants": {}
+      "id": "media/2016/scripture/9520eca2e141d552/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/9520eca2e141d552/medium.jpg",
+      "alt": "Cuộc thi Giáo lý: “Giới trẻ cùng tìm hiểu về Kinh Thánh và Gia đình Công giáo Xa quê Hà Nội”",
+      "caption": "Cuộc thi Giáo lý: “Giới trẻ cùng tìm hiểu về Kinh Thánh và Gia đình Công giáo Xa quê Hà Nội”",
+      "event": "Cuộc thi Giáo lý: “Giới trẻ cùng tìm hiểu về Kinh Thánh và Gia đình Công giáo Xa quê Hà Nội”",
+      "sourceFilename": "thi giáo lý 1.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/9520eca2e141d552/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/9520eca2e141d552/medium.jpg",
+          "width": 1184,
+          "height": 888
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/9520eca2e141d552/original.jpg",
+          "width": 1184,
+          "height": 888
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/002.jpg",
-      "caption": "Cuộc thi Giáo lý – Kinh Thánh xa quê · ảnh 2",
-      "alt": "Ảnh tư liệu: Cuộc thi Giáo lý – Kinh Thánh xa quê",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/002.jpg",
-      "variants": {}
+      "id": "media/2016/scripture/ad687f36944677d7/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/ad687f36944677d7/medium.jpg",
+      "alt": "Ca đoàn cùng cổ vũ cuộc thi",
+      "caption": "Ca đoàn cùng cổ vũ cuộc thi",
+      "event": "Cuộc thi Giáo lý: “Giới trẻ cùng tìm hiểu về Kinh Thánh và Gia đình Công giáo Xa quê Hà Nội”",
+      "sourceFilename": "thi giáo lý 2.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/ad687f36944677d7/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/ad687f36944677d7/medium.jpg",
+          "width": 1184,
+          "height": 888
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/ad687f36944677d7/original.jpg",
+          "width": 1184,
+          "height": 888
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/003.jpg",
-      "caption": "Cuộc thi Giáo lý – Kinh Thánh xa quê · ảnh 3",
-      "alt": "Ảnh tư liệu: Cuộc thi Giáo lý – Kinh Thánh xa quê",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/003.jpg",
-      "variants": {}
+      "id": "media/2016/scripture/d127e9ac84a3ecfb/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/d127e9ac84a3ecfb/medium.jpg",
+      "alt": "Các ca viên trong đêm thi Giáo lý",
+      "caption": "Các ca viên trong đêm thi Giáo lý",
+      "event": "Cuộc thi Giáo lý: “Giới trẻ cùng tìm hiểu về Kinh Thánh và Gia đình Công giáo Xa quê Hà Nội”",
+      "sourceFilename": "thi giáo lý 3.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/d127e9ac84a3ecfb/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/d127e9ac84a3ecfb/medium.jpg",
+          "width": 1184,
+          "height": 888
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/d127e9ac84a3ecfb/original.jpg",
+          "width": 1184,
+          "height": 888
+        }
+      }
     }
   ]
 }

@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "activityId": "2025-tinh-tam-tu-chau",
+  "title": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+  "count": 14,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/952e1e4970e7770f8384644e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/952e1e4970e7770f8384644e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/952e1e4970e7770f8384644e/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/952e1e4970e7770f8384644e/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/952e1e4970e7770f8384644e/original.webp",
+          "width": 2372,
+          "height": 1334
+        }
+      },
+      "alt": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "caption": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "event": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "sourceFilename": "ảnh bìa.jpg",
+      "sourceDirectory": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4a0eefb70cd186f6836d8e50/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4a0eefb70cd186f6836d8e50/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4a0eefb70cd186f6836d8e50/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4a0eefb70cd186f6836d8e50/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/4a0eefb70cd186f6836d8e50/medium.webp",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "alt": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "caption": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "event": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "sourceFilename": "hành hương từ châu 1.jpg",
+      "sourceDirectory": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/655d429c1a1f6af1ef1ea0ac/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/655d429c1a1f6af1ef1ea0ac/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/655d429c1a1f6af1ef1ea0ac/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/655d429c1a1f6af1ef1ea0ac/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/655d429c1a1f6af1ef1ea0ac/original.webp",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "alt": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "caption": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "event": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "sourceFilename": "hành hương từ châu 3.jpg",
+      "sourceDirectory": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/817759d423f752783c7ab555/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/817759d423f752783c7ab555/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/817759d423f752783c7ab555/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/817759d423f752783c7ab555/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/817759d423f752783c7ab555/medium.webp",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "alt": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "caption": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "event": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "sourceFilename": "hành hương từ châu 4.jpg",
+      "sourceDirectory": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/39280544490fe008a5dea3bf/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/39280544490fe008a5dea3bf/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/39280544490fe008a5dea3bf/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/39280544490fe008a5dea3bf/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/39280544490fe008a5dea3bf/original.webp",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "alt": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "caption": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "event": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "sourceFilename": "hành hương từ châu 5.jpg",
+      "sourceDirectory": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d4580ba090b135d69eb8b9b5/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d4580ba090b135d69eb8b9b5/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d4580ba090b135d69eb8b9b5/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d4580ba090b135d69eb8b9b5/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d4580ba090b135d69eb8b9b5/original.webp",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "alt": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "caption": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "event": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "sourceFilename": "hành hương từ châu 6.jpg",
+      "sourceDirectory": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b755ad2a2c30b66595367ac2/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b755ad2a2c30b66595367ac2/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b755ad2a2c30b66595367ac2/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b755ad2a2c30b66595367ac2/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b755ad2a2c30b66595367ac2/medium.webp",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "alt": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "caption": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "event": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "sourceFilename": "hành hương từ châu 7.jpg",
+      "sourceDirectory": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddbfe4a4eb3b2ef0c564cb06/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddbfe4a4eb3b2ef0c564cb06/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddbfe4a4eb3b2ef0c564cb06/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddbfe4a4eb3b2ef0c564cb06/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddbfe4a4eb3b2ef0c564cb06/original.webp",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "alt": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "caption": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "event": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "sourceFilename": "hành hương từ châu 8.jpg",
+      "sourceDirectory": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/193bc839a48bbfc4ec8fda7c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/193bc839a48bbfc4ec8fda7c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/193bc839a48bbfc4ec8fda7c/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/193bc839a48bbfc4ec8fda7c/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/193bc839a48bbfc4ec8fda7c/original.webp",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "alt": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "caption": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "event": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "sourceFilename": "hành hương từ châu 9.jpg",
+      "sourceDirectory": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e286a66b3dde7c451b236747/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e286a66b3dde7c451b236747/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e286a66b3dde7c451b236747/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e286a66b3dde7c451b236747/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e286a66b3dde7c451b236747/original.webp",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "alt": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "caption": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "event": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "sourceFilename": "hành hương từ châu 10.jpg",
+      "sourceDirectory": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/41819cb2e9b68f9ef8fb0af4/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/41819cb2e9b68f9ef8fb0af4/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/41819cb2e9b68f9ef8fb0af4/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/41819cb2e9b68f9ef8fb0af4/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/41819cb2e9b68f9ef8fb0af4/original.webp",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "alt": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "caption": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "event": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "sourceFilename": "hành hương từ châu 11.jpg",
+      "sourceDirectory": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e9c8167d282045782182ecd7/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e9c8167d282045782182ecd7/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e9c8167d282045782182ecd7/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e9c8167d282045782182ecd7/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e9c8167d282045782182ecd7/medium.webp",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "alt": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "caption": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "event": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "sourceFilename": "hành hương từ châu 12.jpg",
+      "sourceDirectory": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1ddd60efc9cb50a1eb15318a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1ddd60efc9cb50a1eb15318a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1ddd60efc9cb50a1eb15318a/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1ddd60efc9cb50a1eb15318a/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1ddd60efc9cb50a1eb15318a/original.webp",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "alt": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "caption": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "event": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "sourceFilename": "hành hương từ châu 13.jpg",
+      "sourceDirectory": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/04087ae18f2a01e480c1c003/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/04087ae18f2a01e480c1c003/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/04087ae18f2a01e480c1c003/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/04087ae18f2a01e480c1c003/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/04087ae18f2a01e480c1c003/original.webp",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "alt": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "caption": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "event": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu",
+      "sourceFilename": "hành hương từ châu 14.jpg",
+      "sourceDirectory": "Tĩnh tâm và hành hương Năm Thánh tại Giáo xứ Từ Châu"
+    }
+  ]
+}

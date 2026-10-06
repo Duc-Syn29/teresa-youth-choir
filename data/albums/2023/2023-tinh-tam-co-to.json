@@ -2,9 +2,1153 @@
   "schemaVersion": 1,
   "year": 2023,
   "activityId": "2023-tinh-tam-co-to",
-  "title": "Tĩnh tâm của Ca đoàn Têrêsa tại Giáo xứ Cô Tô",
+  "title": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
   "count": 81,
   "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1aa4b668f5453853eff19244/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1aa4b668f5453853eff19244/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1aa4b668f5453853eff19244/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1aa4b668f5453853eff19244/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1aa4b668f5453853eff19244/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "caption": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "ảnh bìa.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c8403910f4b062c41b067f42/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c8403910f4b062c41b067f42/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c8403910f4b062c41b067f42/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c8403910f4b062c41b067f42/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c8403910f4b062c41b067f42/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 2",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm1.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bb1de7c8cb3d1baadc8c78db/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bb1de7c8cb3d1baadc8c78db/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bb1de7c8cb3d1baadc8c78db/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bb1de7c8cb3d1baadc8c78db/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bb1de7c8cb3d1baadc8c78db/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 3",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm2.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ca7f898964d0107d1879e0ef/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ca7f898964d0107d1879e0ef/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ca7f898964d0107d1879e0ef/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ca7f898964d0107d1879e0ef/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ca7f898964d0107d1879e0ef/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 11",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm3.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c42f7f764937ec2261ccf4ca/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c42f7f764937ec2261ccf4ca/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c42f7f764937ec2261ccf4ca/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c42f7f764937ec2261ccf4ca/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c42f7f764937ec2261ccf4ca/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 12",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm4.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/783e84933d03de6038a16cfa/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/783e84933d03de6038a16cfa/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/783e84933d03de6038a16cfa/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/783e84933d03de6038a16cfa/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/783e84933d03de6038a16cfa/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 17",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm5.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/90f8b0d4ca26ff46d186ff8b/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/90f8b0d4ca26ff46d186ff8b/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/90f8b0d4ca26ff46d186ff8b/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/90f8b0d4ca26ff46d186ff8b/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/90f8b0d4ca26ff46d186ff8b/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 18",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm6.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/dc2512e80b16c894801aa871/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/dc2512e80b16c894801aa871/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/dc2512e80b16c894801aa871/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/dc2512e80b16c894801aa871/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/dc2512e80b16c894801aa871/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 22",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm7.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/dbaf202ee77bfa5af5f9896d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/dbaf202ee77bfa5af5f9896d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/dbaf202ee77bfa5af5f9896d/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/dbaf202ee77bfa5af5f9896d/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/dbaf202ee77bfa5af5f9896d/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 23",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm8.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cf97ad4728139def1c24baaa/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cf97ad4728139def1c24baaa/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cf97ad4728139def1c24baaa/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cf97ad4728139def1c24baaa/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cf97ad4728139def1c24baaa/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 24",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm9.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a954e73dda83bd7b6cbcf278/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a954e73dda83bd7b6cbcf278/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a954e73dda83bd7b6cbcf278/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a954e73dda83bd7b6cbcf278/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a954e73dda83bd7b6cbcf278/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 28",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm10.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0763811505cd578a5e06b89a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0763811505cd578a5e06b89a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0763811505cd578a5e06b89a/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0763811505cd578a5e06b89a/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0763811505cd578a5e06b89a/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 29",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm11.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/2fcf68e6a18e4354c4bbfdf7/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/2fcf68e6a18e4354c4bbfdf7/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/2fcf68e6a18e4354c4bbfdf7/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/2fcf68e6a18e4354c4bbfdf7/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/2fcf68e6a18e4354c4bbfdf7/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 30",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm12.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c9e71592de455d4f84a6ce69/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c9e71592de455d4f84a6ce69/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c9e71592de455d4f84a6ce69/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c9e71592de455d4f84a6ce69/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c9e71592de455d4f84a6ce69/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 32",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm13.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/101b8f6579d28b64874a6559/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/101b8f6579d28b64874a6559/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/101b8f6579d28b64874a6559/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/101b8f6579d28b64874a6559/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/101b8f6579d28b64874a6559/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 33",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm14.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/71e0d0959b034d051ea0532c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/71e0d0959b034d051ea0532c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/71e0d0959b034d051ea0532c/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/71e0d0959b034d051ea0532c/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/71e0d0959b034d051ea0532c/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 34",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm15.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7b711f7d3363a7302b58461d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7b711f7d3363a7302b58461d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7b711f7d3363a7302b58461d/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7b711f7d3363a7302b58461d/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7b711f7d3363a7302b58461d/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 35",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm16.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/de5356cd3aff6e42ccb0f218/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/de5356cd3aff6e42ccb0f218/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/de5356cd3aff6e42ccb0f218/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/de5356cd3aff6e42ccb0f218/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/de5356cd3aff6e42ccb0f218/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 36",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm17.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/143388254c6871b031bde3ec/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/143388254c6871b031bde3ec/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/143388254c6871b031bde3ec/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/143388254c6871b031bde3ec/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/143388254c6871b031bde3ec/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 37",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm18.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/359c5aab6fd154f413353fdc/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/359c5aab6fd154f413353fdc/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/359c5aab6fd154f413353fdc/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/359c5aab6fd154f413353fdc/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/359c5aab6fd154f413353fdc/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 38",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm19.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b830495bbcaa9396119e6695/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b830495bbcaa9396119e6695/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b830495bbcaa9396119e6695/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b830495bbcaa9396119e6695/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b830495bbcaa9396119e6695/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 39",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm20.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3c473a5bb46adeea15669665/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3c473a5bb46adeea15669665/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3c473a5bb46adeea15669665/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3c473a5bb46adeea15669665/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3c473a5bb46adeea15669665/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 40",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm21.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b05481fad336010a66d8b4c0/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b05481fad336010a66d8b4c0/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b05481fad336010a66d8b4c0/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b05481fad336010a66d8b4c0/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b05481fad336010a66d8b4c0/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 41",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm22.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e99ca31266731f6ba15d26ee/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e99ca31266731f6ba15d26ee/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e99ca31266731f6ba15d26ee/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e99ca31266731f6ba15d26ee/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e99ca31266731f6ba15d26ee/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 42",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm23.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/451ab7196d23d0c2b3337051/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/451ab7196d23d0c2b3337051/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/451ab7196d23d0c2b3337051/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/451ab7196d23d0c2b3337051/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/451ab7196d23d0c2b3337051/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 43",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm24.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/39d00b959c09f74e9a438957/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/39d00b959c09f74e9a438957/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/39d00b959c09f74e9a438957/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/39d00b959c09f74e9a438957/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/39d00b959c09f74e9a438957/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 44",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm25.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/84373f5a8f171143e83d6fed/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/84373f5a8f171143e83d6fed/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/84373f5a8f171143e83d6fed/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/84373f5a8f171143e83d6fed/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/84373f5a8f171143e83d6fed/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 45",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm26.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/395c9ebe50ff59e6b7e03dcc/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/395c9ebe50ff59e6b7e03dcc/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/395c9ebe50ff59e6b7e03dcc/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/395c9ebe50ff59e6b7e03dcc/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/395c9ebe50ff59e6b7e03dcc/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 49",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm27.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/62c6acb029c51592802c42f3/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/62c6acb029c51592802c42f3/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/62c6acb029c51592802c42f3/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/62c6acb029c51592802c42f3/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/62c6acb029c51592802c42f3/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 50",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm28.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/25a9dbb6ba25baa194bd48d0/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/25a9dbb6ba25baa194bd48d0/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/25a9dbb6ba25baa194bd48d0/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/25a9dbb6ba25baa194bd48d0/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/25a9dbb6ba25baa194bd48d0/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 52",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm29.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5dbaedbb506d0ad7cb72e22d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5dbaedbb506d0ad7cb72e22d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5dbaedbb506d0ad7cb72e22d/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5dbaedbb506d0ad7cb72e22d/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5dbaedbb506d0ad7cb72e22d/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 53",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm30.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c842d4b8cf939459c4099c46/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c842d4b8cf939459c4099c46/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c842d4b8cf939459c4099c46/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c842d4b8cf939459c4099c46/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c842d4b8cf939459c4099c46/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 54",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm31.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/833920bfae247748661b3954/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/833920bfae247748661b3954/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/833920bfae247748661b3954/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/833920bfae247748661b3954/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/833920bfae247748661b3954/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 55",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm32.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7b43905c02f44bf0c7d00bb6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7b43905c02f44bf0c7d00bb6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7b43905c02f44bf0c7d00bb6/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7b43905c02f44bf0c7d00bb6/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7b43905c02f44bf0c7d00bb6/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 56",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm33.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/71b81ddd40de400b22b1daca/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/71b81ddd40de400b22b1daca/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/71b81ddd40de400b22b1daca/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/71b81ddd40de400b22b1daca/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/71b81ddd40de400b22b1daca/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 57",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm34.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4f1460800ede70269f477e7e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4f1460800ede70269f477e7e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4f1460800ede70269f477e7e/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4f1460800ede70269f477e7e/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4f1460800ede70269f477e7e/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 58",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm35.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ca3cfb884052a90c1e160e31/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ca3cfb884052a90c1e160e31/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ca3cfb884052a90c1e160e31/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ca3cfb884052a90c1e160e31/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ca3cfb884052a90c1e160e31/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 59",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm36.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/36f3ef11af0eba9c333eb349/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/36f3ef11af0eba9c333eb349/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/36f3ef11af0eba9c333eb349/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/36f3ef11af0eba9c333eb349/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/36f3ef11af0eba9c333eb349/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 62",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm37.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/be0845e2a74af6ec039b2c03/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/be0845e2a74af6ec039b2c03/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/be0845e2a74af6ec039b2c03/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/be0845e2a74af6ec039b2c03/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/be0845e2a74af6ec039b2c03/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 65",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm38.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ad9a9510d05e303585560634/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ad9a9510d05e303585560634/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ad9a9510d05e303585560634/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ad9a9510d05e303585560634/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ad9a9510d05e303585560634/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 67",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm39.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8f495d83d202f6d06715add3/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8f495d83d202f6d06715add3/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8f495d83d202f6d06715add3/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8f495d83d202f6d06715add3/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8f495d83d202f6d06715add3/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 68",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm40.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e3af35300443ede6bf1ea655/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e3af35300443ede6bf1ea655/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e3af35300443ede6bf1ea655/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e3af35300443ede6bf1ea655/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e3af35300443ede6bf1ea655/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Ca viên cùng nhau sinh hoạt và khép lại hành trình Cô Tô · ảnh 72",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm41.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/32d2b40d99f24db20bf5cb18/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/32d2b40d99f24db20bf5cb18/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/32d2b40d99f24db20bf5cb18/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/32d2b40d99f24db20bf5cb18/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/32d2b40d99f24db20bf5cb18/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Ca viên cùng nhau sinh hoạt và khép lại hành trình Cô Tô · ảnh 77",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm43.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7e2e6092a6c38218f85a29c0/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7e2e6092a6c38218f85a29c0/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7e2e6092a6c38218f85a29c0/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7e2e6092a6c38218f85a29c0/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7e2e6092a6c38218f85a29c0/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Ca viên cùng nhau sinh hoạt và khép lại hành trình Cô Tô · ảnh 80",
+      "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+      "sourceFilename": "tĩnh tâm44.JPG",
+      "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+    },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/001/medium.jpg",
       "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
@@ -23,98 +1167,6 @@
         },
         "original": {
           "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/001/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/002/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 2",
-      "id": "media/2023/tinh-tam-co-to/002/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/002/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/002/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/002/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/003/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 3",
-      "id": "media/2023/tinh-tam-co-to/003/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/003/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/003/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/003/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/004/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 4",
-      "id": "media/2023/tinh-tam-co-to/004/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/004/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/004/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/004/original.jpg?v=1755496",
-          "width": 3200,
-          "height": 2133
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/005/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 5",
-      "id": "media/2023/tinh-tam-co-to/005/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/005/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/005/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/005/original.jpg",
           "width": 2784,
           "height": 1856
         }
@@ -144,29 +1196,6 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/007/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 7",
-      "id": "media/2023/tinh-tam-co-to/007/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/007/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/007/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/007/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/008/medium.jpg",
       "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
       "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 8",
@@ -190,23 +1219,46 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/009/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/007/medium.jpg",
       "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 9",
-      "id": "media/2023/tinh-tam-co-to/009/original.jpg",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 7",
+      "id": "media/2023/tinh-tam-co-to/007/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/009/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/007/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/009/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/007/medium.jpg",
           "width": 1280,
           "height": 853
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/009/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/007/original.jpg",
+          "width": 2784,
+          "height": 1856
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/005/medium.jpg",
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 5",
+      "id": "media/2023/tinh-tam-co-to/005/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/005/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/005/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/005/original.jpg",
           "width": 2784,
           "height": 1856
         }
@@ -236,52 +1288,6 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/011/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 11",
-      "id": "media/2023/tinh-tam-co-to/011/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/011/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/011/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/011/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/012/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 12",
-      "id": "media/2023/tinh-tam-co-to/012/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/012/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/012/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/012/original.jpg?v=1915380",
-          "width": 3200,
-          "height": 2133
-        }
-      }
-    },
-    {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/013/medium.jpg",
       "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
       "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 13",
@@ -299,6 +1305,52 @@
         },
         "original": {
           "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/013/original.jpg?v=1564256",
+          "width": 3200,
+          "height": 2133
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/009/medium.jpg",
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 9",
+      "id": "media/2023/tinh-tam-co-to/009/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/009/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/009/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/009/original.jpg",
+          "width": 2784,
+          "height": 1856
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/015/medium.jpg",
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 15",
+      "id": "media/2023/tinh-tam-co-to/015/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/015/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/015/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/015/original.jpg?v=1832075",
           "width": 3200,
           "height": 2133
         }
@@ -328,117 +1380,25 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/015/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/004/medium.jpg",
       "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 15",
-      "id": "media/2023/tinh-tam-co-to/015/original.jpg",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 4",
+      "id": "media/2023/tinh-tam-co-to/004/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/015/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/004/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/015/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/004/medium.jpg",
           "width": 1280,
           "height": 853
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/015/original.jpg?v=1832075",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/004/original.jpg?v=1755496",
           "width": 3200,
           "height": 2133
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/016/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 16",
-      "id": "media/2023/tinh-tam-co-to/016/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/016/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/016/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/016/original.jpg?v=1770389",
-          "width": 3200,
-          "height": 2133
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/017/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 17",
-      "id": "media/2023/tinh-tam-co-to/017/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/017/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/017/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/017/original.jpg?v=1834769",
-          "width": 3200,
-          "height": 2133
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/018/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 18",
-      "id": "media/2023/tinh-tam-co-to/018/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/018/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/018/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/018/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/019/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 19",
-      "id": "media/2023/tinh-tam-co-to/019/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/019/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/019/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/019/original.jpg",
-          "width": 2784,
-          "height": 1856
         }
       }
     },
@@ -466,94 +1426,48 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/021/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/019/medium.jpg",
       "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 21",
-      "id": "media/2023/tinh-tam-co-to/021/original.jpg",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 19",
+      "id": "media/2023/tinh-tam-co-to/019/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/021/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/019/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/021/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/019/medium.jpg",
           "width": 1280,
           "height": 853
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/021/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/019/original.jpg",
           "width": 2784,
           "height": 1856
         }
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/022/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/016/medium.jpg",
       "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 22",
-      "id": "media/2023/tinh-tam-co-to/022/original.jpg",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 16",
+      "id": "media/2023/tinh-tam-co-to/016/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/022/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/016/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/022/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/016/medium.jpg",
           "width": 1280,
           "height": 853
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/022/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/023/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 23",
-      "id": "media/2023/tinh-tam-co-to/023/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/023/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/023/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/023/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/024/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 24",
-      "id": "media/2023/tinh-tam-co-to/024/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/024/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/024/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/024/original.jpg",
-          "width": 2784,
-          "height": 1856
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/016/original.jpg?v=1770389",
+          "width": 3200,
+          "height": 2133
         }
       }
     },
@@ -575,6 +1489,29 @@
         },
         "original": {
           "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/025/original.jpg",
+          "width": 2784,
+          "height": 1856
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/021/medium.jpg",
+      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 21",
+      "id": "media/2023/tinh-tam-co-to/021/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/021/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/021/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/021/original.jpg",
           "width": 2784,
           "height": 1856
         }
@@ -604,98 +1541,6 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/027/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 27",
-      "id": "media/2023/tinh-tam-co-to/027/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/027/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/027/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/027/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/028/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 28",
-      "id": "media/2023/tinh-tam-co-to/028/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/028/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/028/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/028/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/029/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 29",
-      "id": "media/2023/tinh-tam-co-to/029/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/029/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/029/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/029/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/030/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 30",
-      "id": "media/2023/tinh-tam-co-to/030/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/030/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/030/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/030/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/031/medium.jpg",
       "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
       "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 31",
@@ -719,324 +1564,25 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/032/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/027/medium.jpg",
       "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 32",
-      "id": "media/2023/tinh-tam-co-to/032/original.jpg",
+      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 27",
+      "id": "media/2023/tinh-tam-co-to/027/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/032/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/027/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/032/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/027/medium.jpg",
           "width": 1280,
           "height": 853
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/032/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/027/original.jpg",
           "width": 2784,
           "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/033/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 33",
-      "id": "media/2023/tinh-tam-co-to/033/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/033/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/033/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/033/original.jpg?v=1663491",
-          "width": 3200,
-          "height": 2133
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/034/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 34",
-      "id": "media/2023/tinh-tam-co-to/034/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/034/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/034/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/034/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/035/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 35",
-      "id": "media/2023/tinh-tam-co-to/035/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/035/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/035/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/035/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/036/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 36",
-      "id": "media/2023/tinh-tam-co-to/036/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/036/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/036/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/036/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/037/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 37",
-      "id": "media/2023/tinh-tam-co-to/037/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/037/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/037/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/037/original.jpg?v=1577242",
-          "width": 3200,
-          "height": 2133
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/038/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 38",
-      "id": "media/2023/tinh-tam-co-to/038/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/038/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/038/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/038/original.jpg?v=1581091",
-          "width": 3200,
-          "height": 2133
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/039/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 39",
-      "id": "media/2023/tinh-tam-co-to/039/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/039/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/039/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/039/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/040/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 40",
-      "id": "media/2023/tinh-tam-co-to/040/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/040/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/040/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/040/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/041/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 41",
-      "id": "media/2023/tinh-tam-co-to/041/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/041/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/041/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/041/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/042/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 42",
-      "id": "media/2023/tinh-tam-co-to/042/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/042/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/042/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/042/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/043/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 43",
-      "id": "media/2023/tinh-tam-co-to/043/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/043/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/043/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/043/original.jpg?v=1793259",
-          "width": 3200,
-          "height": 2133
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/044/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 44",
-      "id": "media/2023/tinh-tam-co-to/044/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/044/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/044/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/044/original.jpg?v=1673997",
-          "width": 3200,
-          "height": 2133
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/045/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 45",
-      "id": "media/2023/tinh-tam-co-to/045/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/045/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/045/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/045/original.jpg?v=1666807",
-          "width": 3200,
-          "height": 2133
         }
       }
     },
@@ -1058,29 +1604,6 @@
         },
         "original": {
           "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/046/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/047/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 47",
-      "id": "media/2023/tinh-tam-co-to/047/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/047/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/047/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/047/original.jpg",
           "width": 2784,
           "height": 1856
         }
@@ -1110,46 +1633,23 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/049/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/047/medium.jpg",
       "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 49",
-      "id": "media/2023/tinh-tam-co-to/049/original.jpg",
+      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 47",
+      "id": "media/2023/tinh-tam-co-to/047/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/049/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/047/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/049/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/047/medium.jpg",
           "width": 1280,
           "height": 853
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/049/original.jpg?v=2043280",
-          "width": 3200,
-          "height": 2133
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/050/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 50",
-      "id": "media/2023/tinh-tam-co-to/050/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/050/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/050/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/050/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/047/original.jpg",
           "width": 2784,
           "height": 1856
         }
@@ -1179,184 +1679,23 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/052/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/061/medium.jpg",
       "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 52",
-      "id": "media/2023/tinh-tam-co-to/052/original.jpg",
+      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 61",
+      "id": "media/2023/tinh-tam-co-to/061/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/052/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/061/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/052/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/061/medium.jpg",
           "width": 1280,
           "height": 853
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/052/original.jpg?v=2037578",
-          "width": 3200,
-          "height": 2133
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/053/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 53",
-      "id": "media/2023/tinh-tam-co-to/053/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/053/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/053/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/053/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/054/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 54",
-      "id": "media/2023/tinh-tam-co-to/054/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/054/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/054/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/054/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/055/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 55",
-      "id": "media/2023/tinh-tam-co-to/055/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/055/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/055/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/055/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/056/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 56",
-      "id": "media/2023/tinh-tam-co-to/056/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/056/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/056/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/056/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/057/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 57",
-      "id": "media/2023/tinh-tam-co-to/057/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/057/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/057/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/057/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/058/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 58",
-      "id": "media/2023/tinh-tam-co-to/058/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/058/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/058/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/058/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/059/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 59",
-      "id": "media/2023/tinh-tam-co-to/059/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/059/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/059/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/059/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/061/original.jpg",
           "width": 2784,
           "height": 1856
         }
@@ -1386,69 +1725,23 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/061/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/066/medium.jpg",
       "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 61",
-      "id": "media/2023/tinh-tam-co-to/061/original.jpg",
+      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 66",
+      "id": "media/2023/tinh-tam-co-to/066/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/061/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/066/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/061/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/066/medium.jpg",
           "width": 1280,
           "height": 853
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/061/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/062/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 62",
-      "id": "media/2023/tinh-tam-co-to/062/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/062/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/062/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/062/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/063/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 63",
-      "id": "media/2023/tinh-tam-co-to/063/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/063/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/063/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/063/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/066/original.jpg",
           "width": 2784,
           "height": 1856
         }
@@ -1474,98 +1767,6 @@
           "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/064/original.jpg?v=1725437",
           "width": 3200,
           "height": 2133
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/065/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 65",
-      "id": "media/2023/tinh-tam-co-to/065/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/065/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/065/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/065/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/066/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 66",
-      "id": "media/2023/tinh-tam-co-to/066/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/066/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/066/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/066/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/067/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 67",
-      "id": "media/2023/tinh-tam-co-to/067/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/067/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/067/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/067/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/068/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 68",
-      "id": "media/2023/tinh-tam-co-to/068/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/068/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/068/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/068/original.jpg",
-          "width": 2784,
-          "height": 1856
         }
       }
     },
@@ -1639,23 +1840,23 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/072/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/063/medium.jpg",
       "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca viên cùng nhau sinh hoạt và khép lại hành trình Cô Tô · ảnh 72",
-      "id": "media/2023/tinh-tam-co-to/072/original.jpg",
+      "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 63",
+      "id": "media/2023/tinh-tam-co-to/063/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/072/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/063/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/072/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/063/medium.jpg",
           "width": 1280,
           "height": 853
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/072/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/063/original.jpg",
           "width": 2784,
           "height": 1856
         }
@@ -1708,29 +1909,6 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/075/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca viên cùng nhau sinh hoạt và khép lại hành trình Cô Tô · ảnh 75",
-      "id": "media/2023/tinh-tam-co-to/075/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/075/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/075/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/075/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/076/medium.jpg",
       "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
       "caption": "Ca viên cùng nhau sinh hoạt và khép lại hành trình Cô Tô · ảnh 76",
@@ -1748,52 +1926,6 @@
         },
         "original": {
           "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/076/original.jpg",
-          "width": 2784,
-          "height": 1856
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/077/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca viên cùng nhau sinh hoạt và khép lại hành trình Cô Tô · ảnh 77",
-      "id": "media/2023/tinh-tam-co-to/077/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/077/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/077/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/077/original.jpg?v=1665705",
-          "width": 3200,
-          "height": 2133
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/078/medium.jpg",
-      "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca viên cùng nhau sinh hoạt và khép lại hành trình Cô Tô · ảnh 78",
-      "id": "media/2023/tinh-tam-co-to/078/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/078/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/078/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/078/original.jpg",
           "width": 2784,
           "height": 1856
         }
@@ -1823,23 +1955,23 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/080/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/078/medium.jpg",
       "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-      "caption": "Ca viên cùng nhau sinh hoạt và khép lại hành trình Cô Tô · ảnh 80",
-      "id": "media/2023/tinh-tam-co-to/080/original.jpg",
+      "caption": "Ca viên cùng nhau sinh hoạt và khép lại hành trình Cô Tô · ảnh 78",
+      "id": "media/2023/tinh-tam-co-to/078/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/080/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/078/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/080/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/078/medium.jpg",
           "width": 1280,
           "height": 853
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/080/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/078/original.jpg",
           "width": 2784,
           "height": 1856
         }

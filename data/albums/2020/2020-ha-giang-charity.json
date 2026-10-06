@@ -6,137 +6,479 @@
   "count": 19,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/001.jpg",
-      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "id": "media/2020/ha-giang-charity/564b806f1c129e01/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/564b806f1c129e01/medium.jpg",
+      "alt": "Giáng Sinh Yêu Thương — Hà Giang",
       "caption": "Giáng Sinh Yêu Thương — Hà Giang",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/001.jpg",
-      "variants": {}
+      "event": "Giáng Sinh Yêu Thương — Hà Giang",
+      "sourceFilename": "ảnh bìa.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/564b806f1c129e01/thumb.jpg",
+          "width": 480,
+          "height": 280
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/564b806f1c129e01/medium.jpg",
+          "width": 960,
+          "height": 560
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/564b806f1c129e01/original.jpg",
+          "width": 960,
+          "height": 560
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/002.jpg",
-      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "id": "media/2020/ha-giang-charity/f5e1c357d88339b1/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/f5e1c357d88339b1/medium.jpg",
+      "alt": "Giáng Sinh Yêu Thương — Hà Giang",
       "caption": "Giáng Sinh Yêu Thương — Hà Giang",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/002.jpg",
-      "variants": {}
+      "event": "Giáng Sinh Yêu Thương — Hà Giang",
+      "sourceFilename": "thiện nguyện1.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/f5e1c357d88339b1/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/f5e1c357d88339b1/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/f5e1c357d88339b1/original.jpg",
+          "width": 2568,
+          "height": 1926
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/003.jpg",
-      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "id": "media/2020/ha-giang-charity/33643f9a7c703f73/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/33643f9a7c703f73/medium.jpg",
+      "alt": "Giáng Sinh Yêu Thương — Hà Giang",
       "caption": "Giáng Sinh Yêu Thương — Hà Giang",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/003.jpg",
-      "variants": {}
+      "event": "Giáng Sinh Yêu Thương — Hà Giang",
+      "sourceFilename": "thiện nguyện2.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/33643f9a7c703f73/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/33643f9a7c703f73/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/33643f9a7c703f73/original.jpg",
+          "width": 2568,
+          "height": 1926
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/004.jpg",
-      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "id": "media/2020/ha-giang-charity/bb686b6b6d00fac1/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/bb686b6b6d00fac1/medium.jpg",
+      "alt": "Giáng Sinh Yêu Thương — Hà Giang",
       "caption": "Giáng Sinh Yêu Thương — Hà Giang",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/004.jpg",
-      "variants": {}
+      "event": "Giáng Sinh Yêu Thương — Hà Giang",
+      "sourceFilename": "thiện nguyện3.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/bb686b6b6d00fac1/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/bb686b6b6d00fac1/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/bb686b6b6d00fac1/original.jpg",
+          "width": 2568,
+          "height": 1926
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/005.jpg",
-      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "id": "media/2020/ha-giang-charity/dc4f9d41abbf06d0/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/dc4f9d41abbf06d0/medium.jpg",
+      "alt": "Giáng Sinh Yêu Thương — Hà Giang",
       "caption": "Giáng Sinh Yêu Thương — Hà Giang",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/005.jpg",
-      "variants": {}
+      "event": "Giáng Sinh Yêu Thương — Hà Giang",
+      "sourceFilename": "thiện nguyện4.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/dc4f9d41abbf06d0/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/dc4f9d41abbf06d0/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/dc4f9d41abbf06d0/original.jpg",
+          "width": 2568,
+          "height": 1926
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/006.jpg",
-      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "id": "media/2020/ha-giang-charity/08fe8d4dd68a363f/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/08fe8d4dd68a363f/medium.jpg",
+      "alt": "Giáng Sinh Yêu Thương — Hà Giang",
       "caption": "Giáng Sinh Yêu Thương — Hà Giang",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/006.jpg",
-      "variants": {}
+      "event": "Giáng Sinh Yêu Thương — Hà Giang",
+      "sourceFilename": "thiện nguyện6.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/08fe8d4dd68a363f/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/08fe8d4dd68a363f/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/08fe8d4dd68a363f/original.jpg",
+          "width": 2568,
+          "height": 1926
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/007.jpg",
-      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
-      "caption": "Giáng Sinh Yêu Thương — Hà Giang",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/007.jpg",
-      "variants": {}
+      "id": "media/2020/ha-giang-charity/c574c371889e806f/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/c574c371889e806f/medium.jpg",
+      "alt": "Hành trình thiện nguyện đến Hà Giang",
+      "caption": "Hành trình thiện nguyện đến Hà Giang",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang",
+      "sourceFilename": "thiện nguyện8.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/c574c371889e806f/thumb.jpg",
+          "width": 480,
+          "height": 229
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/c574c371889e806f/medium.jpg",
+          "width": 1280,
+          "height": 610
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/c574c371889e806f/original.jpg",
+          "width": 1344,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/008.jpg",
-      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "id": "media/2020/ha-giang-charity/8abc933ede8e4e73/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/8abc933ede8e4e73/medium.jpg",
+      "alt": "Giáng Sinh Yêu Thương — Hà Giang",
       "caption": "Giáng Sinh Yêu Thương — Hà Giang",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/008.jpg",
-      "variants": {}
+      "event": "Giáng Sinh Yêu Thương — Hà Giang",
+      "sourceFilename": "thiện nguyện9.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/8abc933ede8e4e73/thumb.jpg",
+          "width": 480,
+          "height": 227
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/8abc933ede8e4e73/medium.jpg",
+          "width": 1280,
+          "height": 606
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/8abc933ede8e4e73/original.jpg",
+          "width": 1352,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/009.jpg",
-      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "id": "media/2020/ha-giang-charity/cbfbf133d552649a/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/cbfbf133d552649a/medium.jpg",
+      "alt": "Giáng Sinh Yêu Thương — Hà Giang",
       "caption": "Giáng Sinh Yêu Thương — Hà Giang",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/009.jpg",
-      "variants": {}
+      "event": "Giáng Sinh Yêu Thương — Hà Giang",
+      "sourceFilename": "thiện nguyện10.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/cbfbf133d552649a/thumb.jpg",
+          "width": 480,
+          "height": 227
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/cbfbf133d552649a/medium.jpg",
+          "width": 1280,
+          "height": 606
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/cbfbf133d552649a/original.jpg",
+          "width": 1352,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/010.jpg",
-      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "id": "media/2020/ha-giang-charity/a2ab8f64f32dd86e/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/a2ab8f64f32dd86e/medium.jpg",
+      "alt": "Giáng Sinh Yêu Thương — Hà Giang",
       "caption": "Giáng Sinh Yêu Thương — Hà Giang",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/010.jpg",
-      "variants": {}
+      "event": "Giáng Sinh Yêu Thương — Hà Giang",
+      "sourceFilename": "thiện nguyện11.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/a2ab8f64f32dd86e/thumb.jpg",
+          "width": 480,
+          "height": 229
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/a2ab8f64f32dd86e/medium.jpg",
+          "width": 1280,
+          "height": 610
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/a2ab8f64f32dd86e/original.jpg",
+          "width": 1344,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/011.jpg",
-      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "id": "media/2020/ha-giang-charity/970c62618be77401/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/970c62618be77401/medium.jpg",
+      "alt": "Giáng Sinh Yêu Thương — Hà Giang",
       "caption": "Giáng Sinh Yêu Thương — Hà Giang",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/011.jpg",
-      "variants": {}
+      "event": "Giáng Sinh Yêu Thương — Hà Giang",
+      "sourceFilename": "thiện nguyện12.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/970c62618be77401/thumb.jpg",
+          "width": 480,
+          "height": 228
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/970c62618be77401/medium.jpg",
+          "width": 1280,
+          "height": 607
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/970c62618be77401/original.jpg",
+          "width": 1350,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/012.jpg",
-      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "id": "media/2020/ha-giang-charity/ccd5ec8d5002f5b6/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/ccd5ec8d5002f5b6/medium.jpg",
+      "alt": "Giáng Sinh Yêu Thương — Hà Giang",
       "caption": "Giáng Sinh Yêu Thương — Hà Giang",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/012.jpg",
-      "variants": {}
+      "event": "Giáng Sinh Yêu Thương — Hà Giang",
+      "sourceFilename": "thiện nguyện13.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/ccd5ec8d5002f5b6/thumb.jpg",
+          "width": 480,
+          "height": 229
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/ccd5ec8d5002f5b6/medium.jpg",
+          "width": 1280,
+          "height": 610
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/ccd5ec8d5002f5b6/original.jpg",
+          "width": 1344,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/013.jpg",
-      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
-      "caption": "Giáng Sinh Yêu Thương — Hà Giang",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/013.jpg",
-      "variants": {}
+      "id": "media/2020/ha-giang-charity/643c6990e93643d9/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/643c6990e93643d9/medium.jpg",
+      "alt": "Sinh hoạt chung trong chuyến Giáng Sinh Yêu Thương",
+      "caption": "Sinh hoạt chung trong chuyến Giáng Sinh Yêu Thương",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang",
+      "sourceFilename": "thiện nguyện14.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/643c6990e93643d9/thumb.jpg",
+          "width": 480,
+          "height": 229
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/643c6990e93643d9/medium.jpg",
+          "width": 1280,
+          "height": 610
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/643c6990e93643d9/original.jpg",
+          "width": 1344,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/014.jpg",
-      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "id": "media/2020/ha-giang-charity/5962a12a7b2988c6/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/5962a12a7b2988c6/medium.jpg",
+      "alt": "Giáng Sinh Yêu Thương — Hà Giang",
       "caption": "Giáng Sinh Yêu Thương — Hà Giang",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/014.jpg",
-      "variants": {}
+      "event": "Giáng Sinh Yêu Thương — Hà Giang",
+      "sourceFilename": "thiện nguyện15.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/5962a12a7b2988c6/thumb.jpg",
+          "width": 480,
+          "height": 229
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/5962a12a7b2988c6/medium.jpg",
+          "width": 1280,
+          "height": 610
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/5962a12a7b2988c6/original.jpg",
+          "width": 1344,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/015.jpg",
-      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "id": "media/2020/ha-giang-charity/2480000698f0a340/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/2480000698f0a340/medium.jpg",
+      "alt": "Giáng Sinh Yêu Thương — Hà Giang",
       "caption": "Giáng Sinh Yêu Thương — Hà Giang",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/015.jpg",
-      "variants": {}
+      "event": "Giáng Sinh Yêu Thương — Hà Giang",
+      "sourceFilename": "thiện nguyện16.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/2480000698f0a340/thumb.jpg",
+          "width": 480,
+          "height": 227
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/2480000698f0a340/medium.jpg",
+          "width": 1280,
+          "height": 606
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/2480000698f0a340/original.jpg",
+          "width": 1352,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/016.jpg",
-      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "id": "media/2020/ha-giang-charity/b684facaf00ab365/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/b684facaf00ab365/medium.jpg",
+      "alt": "Giáng Sinh Yêu Thương — Hà Giang",
       "caption": "Giáng Sinh Yêu Thương — Hà Giang",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/016.jpg",
-      "variants": {}
+      "event": "Giáng Sinh Yêu Thương — Hà Giang",
+      "sourceFilename": "thiện nguyện17.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/b684facaf00ab365/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/b684facaf00ab365/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/b684facaf00ab365/original.jpg",
+          "width": 1944,
+          "height": 1296
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/017.jpg",
-      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "id": "media/2020/ha-giang-charity/adb0ce4ba4bc76c8/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/adb0ce4ba4bc76c8/medium.jpg",
+      "alt": "Giáng Sinh Yêu Thương — Hà Giang",
       "caption": "Giáng Sinh Yêu Thương — Hà Giang",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/017.jpg",
-      "variants": {}
+      "event": "Giáng Sinh Yêu Thương — Hà Giang",
+      "sourceFilename": "thiện nguyện18.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/adb0ce4ba4bc76c8/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/adb0ce4ba4bc76c8/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/adb0ce4ba4bc76c8/original.jpg",
+          "width": 1944,
+          "height": 1296
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/018.jpg",
-      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
+      "id": "media/2020/ha-giang-charity/f4fb22aabbdbdc6e/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/f4fb22aabbdbdc6e/medium.jpg",
+      "alt": "Giáng Sinh Yêu Thương — Hà Giang",
       "caption": "Giáng Sinh Yêu Thương — Hà Giang",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/018.jpg",
-      "variants": {}
+      "event": "Giáng Sinh Yêu Thương — Hà Giang",
+      "sourceFilename": "thiện nguyện19.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/f4fb22aabbdbdc6e/thumb.jpg",
+          "width": 480,
+          "height": 227
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/f4fb22aabbdbdc6e/medium.jpg",
+          "width": 1280,
+          "height": 606
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/f4fb22aabbdbdc6e/original.jpg",
+          "width": 1352,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/019.jpg",
-      "alt": "Ảnh tư liệu: Giáng Sinh Yêu Thương — Hà Giang",
-      "caption": "Giáng Sinh Yêu Thương — Hà Giang",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/rebuild-20260823-ha-giang-charity/019.jpg",
-      "variants": {}
+      "id": "media/2020/ha-giang-charity/76e1c0c7fcbb3a36/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/76e1c0c7fcbb3a36/medium.jpg",
+      "alt": "Các ca viên gặp gỡ trong chuyến thiện nguyện",
+      "caption": "Các ca viên gặp gỡ trong chuyến thiện nguyện",
+      "event": "Giáng Sinh Yêu Thương — Hà Giang",
+      "sourceFilename": "thiện nguyện20.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/76e1c0c7fcbb3a36/thumb.jpg",
+          "width": 480,
+          "height": 228
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/76e1c0c7fcbb3a36/medium.jpg",
+          "width": 1280,
+          "height": 607
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/76e1c0c7fcbb3a36/original.jpg",
+          "width": 1350,
+          "height": 640
+        }
+      }
     }
   ]
 }

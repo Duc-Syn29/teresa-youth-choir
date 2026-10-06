@@ -2,85 +2,283 @@
   "schemaVersion": 1,
   "year": 2017,
   "activityId": "2017-charity",
-  "title": "Thiện nguyện tại Giáo xứ Bó Tờ",
+  "title": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
   "count": 11,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/001.jpg",
-      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 1",
-      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/001.jpg",
-      "variants": {}
+      "id": "media/2017/charity/f16a20937696beb1/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/f16a20937696beb1/medium.jpg",
+      "alt": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "event": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "sourceFilename": "thiện nguyện1.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/f16a20937696beb1/thumb.jpg",
+          "width": 480,
+          "height": 290
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/f16a20937696beb1/medium.jpg",
+          "width": 960,
+          "height": 579
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/f16a20937696beb1/original.jpg",
+          "width": 960,
+          "height": 579
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/002.jpg",
-      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 2",
-      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/002.jpg",
-      "variants": {}
+      "id": "media/2017/charity/9a8df5429d36efb4/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/9a8df5429d36efb4/medium.jpg",
+      "alt": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "event": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "sourceFilename": "thiện nguyện2.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/9a8df5429d36efb4/thumb.jpg",
+          "width": 270,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/9a8df5429d36efb4/medium.jpg",
+          "width": 540,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/9a8df5429d36efb4/original.jpg",
+          "width": 540,
+          "height": 960
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/003.jpg",
-      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 3",
-      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/003.jpg",
-      "variants": {}
+      "id": "media/2017/charity/233dfe9c9a8fa429/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/233dfe9c9a8fa429/medium.jpg",
+      "alt": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "event": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "sourceFilename": "thiện nguyện3.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/233dfe9c9a8fa429/thumb.jpg",
+          "width": 480,
+          "height": 292
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/233dfe9c9a8fa429/medium.jpg",
+          "width": 960,
+          "height": 583
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/233dfe9c9a8fa429/original.jpg",
+          "width": 960,
+          "height": 583
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/004.jpg",
-      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 4",
-      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/004.jpg",
-      "variants": {}
+      "id": "media/2017/charity/9a644dbf1495df28/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/9a644dbf1495df28/medium.jpg",
+      "alt": "Gặp gỡ và chia sẻ trong chuyến thiện nguyện",
+      "caption": "Gặp gỡ và chia sẻ trong chuyến thiện nguyện",
+      "event": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "sourceFilename": "thiện nguyện4.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/9a644dbf1495df28/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/9a644dbf1495df28/medium.jpg",
+          "width": 960,
+          "height": 540
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/9a644dbf1495df28/original.jpg",
+          "width": 960,
+          "height": 540
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/005.jpg",
-      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 5",
-      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/005.jpg",
-      "variants": {}
+      "id": "media/2017/charity/20812f1d76d38ad3/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/20812f1d76d38ad3/medium.jpg",
+      "alt": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "event": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "sourceFilename": "thiện nguyện5.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/20812f1d76d38ad3/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/20812f1d76d38ad3/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/20812f1d76d38ad3/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/006.jpg",
-      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 6",
-      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/006.jpg",
-      "variants": {}
+      "id": "media/2017/charity/6811867ab13447a7/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/6811867ab13447a7/medium.jpg",
+      "alt": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "event": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "sourceFilename": "thiện nguyện6.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/6811867ab13447a7/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/6811867ab13447a7/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/6811867ab13447a7/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/007.jpg",
-      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 7",
-      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/007.jpg",
-      "variants": {}
+      "id": "media/2017/charity/ab6c54e49fb7ffda/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/ab6c54e49fb7ffda/medium.jpg",
+      "alt": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "event": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "sourceFilename": "thiện nguyện7.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/ab6c54e49fb7ffda/thumb.jpg",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/ab6c54e49fb7ffda/medium.jpg",
+          "width": 640,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/ab6c54e49fb7ffda/original.jpg",
+          "width": 640,
+          "height": 960
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/008.jpg",
-      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 8",
-      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/008.jpg",
-      "variants": {}
+      "id": "media/2017/charity/b7bd1549deb2d35b/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/b7bd1549deb2d35b/medium.jpg",
+      "alt": "Các ca viên trên hành trình thiện nguyện",
+      "caption": "Các ca viên trên hành trình thiện nguyện",
+      "event": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "sourceFilename": "thiện nguyện8.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/b7bd1549deb2d35b/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/b7bd1549deb2d35b/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/b7bd1549deb2d35b/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/009.jpg",
-      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 9",
-      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/009.jpg",
-      "variants": {}
+      "id": "media/2017/charity/8d61e6de764aee76/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/8d61e6de764aee76/medium.jpg",
+      "alt": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "event": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "sourceFilename": "thiện nguyện9.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/8d61e6de764aee76/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/8d61e6de764aee76/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/8d61e6de764aee76/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/010.jpg",
-      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 10",
-      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/010.jpg",
-      "variants": {}
+      "id": "media/2017/charity/db684b2728733172/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/db684b2728733172/medium.jpg",
+      "alt": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "event": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "sourceFilename": "thiện nguyện10.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/db684b2728733172/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/db684b2728733172/medium.jpg",
+          "width": 1136,
+          "height": 758
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/db684b2728733172/original.jpg",
+          "width": 1136,
+          "height": 758
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/011.jpg",
-      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ · ảnh 11",
-      "alt": "Ảnh tư liệu: Thiện nguyện tại Giáo xứ Bó Tờ",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/011.jpg",
-      "variants": {}
+      "id": "media/2017/charity/f0c303134760feb1/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/f0c303134760feb1/medium.jpg",
+      "alt": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "caption": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "event": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
+      "sourceFilename": "thiện nguyện11.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/f0c303134760feb1/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/f0c303134760feb1/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/f0c303134760feb1/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     }
   ]
 }

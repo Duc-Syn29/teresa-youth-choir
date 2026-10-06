@@ -1,0 +1,893 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "activityId": "2025-hoa-nhac-hong-an-tuyet-voi",
+  "title": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+  "count": 34,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1c1f83ce6a7976937db1bd06/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1c1f83ce6a7976937db1bd06/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1c1f83ce6a7976937db1bd06/thumb.webp",
+          "width": 480,
+          "height": 290
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1c1f83ce6a7976937db1bd06/medium.webp",
+          "width": 1280,
+          "height": 773
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1c1f83ce6a7976937db1bd06/original.webp",
+          "width": 2560,
+          "height": 1547
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "ảnh bìa ( cả năm ).jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/037dffe7f5de5e836cb0c108/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/037dffe7f5de5e836cb0c108/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/037dffe7f5de5e836cb0c108/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/037dffe7f5de5e836cb0c108/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/037dffe7f5de5e836cb0c108/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc1.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f14456451275510f37e4ebe2/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f14456451275510f37e4ebe2/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f14456451275510f37e4ebe2/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f14456451275510f37e4ebe2/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f14456451275510f37e4ebe2/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc2.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/28f6e4a0861d1048a5a9522c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/28f6e4a0861d1048a5a9522c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/28f6e4a0861d1048a5a9522c/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/28f6e4a0861d1048a5a9522c/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/28f6e4a0861d1048a5a9522c/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc3.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0759ba4b9438915ffa38f8a6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0759ba4b9438915ffa38f8a6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0759ba4b9438915ffa38f8a6/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0759ba4b9438915ffa38f8a6/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0759ba4b9438915ffa38f8a6/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc4.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3722883454185a829908b1fe/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3722883454185a829908b1fe/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3722883454185a829908b1fe/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3722883454185a829908b1fe/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3722883454185a829908b1fe/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc5.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a82a92d480d6ffc426ab466a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a82a92d480d6ffc426ab466a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a82a92d480d6ffc426ab466a/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a82a92d480d6ffc426ab466a/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a82a92d480d6ffc426ab466a/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc6.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/24b03d9654edbf506cdee46a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/24b03d9654edbf506cdee46a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/24b03d9654edbf506cdee46a/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/24b03d9654edbf506cdee46a/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/24b03d9654edbf506cdee46a/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc7.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/385ff8d277a3584660123f69/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/385ff8d277a3584660123f69/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/385ff8d277a3584660123f69/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/385ff8d277a3584660123f69/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/385ff8d277a3584660123f69/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc8.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddba0c43c194290e195b8e2c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddba0c43c194290e195b8e2c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddba0c43c194290e195b8e2c/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddba0c43c194290e195b8e2c/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ddba0c43c194290e195b8e2c/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc9.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9e10c72a641b2355addfb9e6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9e10c72a641b2355addfb9e6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9e10c72a641b2355addfb9e6/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9e10c72a641b2355addfb9e6/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9e10c72a641b2355addfb9e6/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc10.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/927b4226a7027a8e25ed50d2/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/927b4226a7027a8e25ed50d2/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/927b4226a7027a8e25ed50d2/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/927b4226a7027a8e25ed50d2/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/927b4226a7027a8e25ed50d2/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc11.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/32011131d91e03ab6f49ca3f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/32011131d91e03ab6f49ca3f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/32011131d91e03ab6f49ca3f/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/32011131d91e03ab6f49ca3f/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/32011131d91e03ab6f49ca3f/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc12.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8266e826fcdbf4d7d5988840/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8266e826fcdbf4d7d5988840/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8266e826fcdbf4d7d5988840/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8266e826fcdbf4d7d5988840/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8266e826fcdbf4d7d5988840/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc13.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f7138526565791776d949f8d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f7138526565791776d949f8d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f7138526565791776d949f8d/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f7138526565791776d949f8d/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f7138526565791776d949f8d/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc14.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3c867e6d32c370db7e902e73/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3c867e6d32c370db7e902e73/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3c867e6d32c370db7e902e73/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3c867e6d32c370db7e902e73/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3c867e6d32c370db7e902e73/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc15.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ad772421342c230dcaa6c0d9/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ad772421342c230dcaa6c0d9/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ad772421342c230dcaa6c0d9/thumb.webp",
+          "width": 480,
+          "height": 290
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ad772421342c230dcaa6c0d9/medium.webp",
+          "width": 1280,
+          "height": 774
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ad772421342c230dcaa6c0d9/original.webp",
+          "width": 2560,
+          "height": 1547
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc17.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/839c0d0a08ee533822b30d29/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/839c0d0a08ee533822b30d29/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/839c0d0a08ee533822b30d29/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/839c0d0a08ee533822b30d29/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/839c0d0a08ee533822b30d29/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc18.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e9dd6b32bf16f62b9434124e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e9dd6b32bf16f62b9434124e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e9dd6b32bf16f62b9434124e/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e9dd6b32bf16f62b9434124e/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e9dd6b32bf16f62b9434124e/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc19.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f673169ec17ffb9ec054282b/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f673169ec17ffb9ec054282b/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f673169ec17ffb9ec054282b/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f673169ec17ffb9ec054282b/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f673169ec17ffb9ec054282b/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc20.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/aea9f12776177dfc21146d23/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/aea9f12776177dfc21146d23/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/aea9f12776177dfc21146d23/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/aea9f12776177dfc21146d23/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/aea9f12776177dfc21146d23/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc21.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d20fae735080007cfd116ba4/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d20fae735080007cfd116ba4/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d20fae735080007cfd116ba4/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d20fae735080007cfd116ba4/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d20fae735080007cfd116ba4/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc22.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/53a922beb7e15030dbc1dd48/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/53a922beb7e15030dbc1dd48/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/53a922beb7e15030dbc1dd48/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/53a922beb7e15030dbc1dd48/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/53a922beb7e15030dbc1dd48/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc23.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/bb27ef9dec676b261ed6e227/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/bb27ef9dec676b261ed6e227/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/bb27ef9dec676b261ed6e227/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/bb27ef9dec676b261ed6e227/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/bb27ef9dec676b261ed6e227/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc24.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ec2d75732d3b7a5b72dfb3bf/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ec2d75732d3b7a5b72dfb3bf/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ec2d75732d3b7a5b72dfb3bf/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ec2d75732d3b7a5b72dfb3bf/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ec2d75732d3b7a5b72dfb3bf/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc25.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/039831a25929ba438c27856d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/039831a25929ba438c27856d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/039831a25929ba438c27856d/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/039831a25929ba438c27856d/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/039831a25929ba438c27856d/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc26.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/83dca45e73b5cd29471009a5/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/83dca45e73b5cd29471009a5/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/83dca45e73b5cd29471009a5/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/83dca45e73b5cd29471009a5/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/83dca45e73b5cd29471009a5/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc27.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2692347fe1a0401091c50f4e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2692347fe1a0401091c50f4e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2692347fe1a0401091c50f4e/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2692347fe1a0401091c50f4e/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2692347fe1a0401091c50f4e/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc28.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0c04875bb9d9d7b3834ddce2/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0c04875bb9d9d7b3834ddce2/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0c04875bb9d9d7b3834ddce2/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0c04875bb9d9d7b3834ddce2/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0c04875bb9d9d7b3834ddce2/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc29.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/bde50a04c91429beb2730f18/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/bde50a04c91429beb2730f18/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/bde50a04c91429beb2730f18/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/bde50a04c91429beb2730f18/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/bde50a04c91429beb2730f18/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc30.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a64901edce8ce8a2d85ee017/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a64901edce8ce8a2d85ee017/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a64901edce8ce8a2d85ee017/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a64901edce8ce8a2d85ee017/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a64901edce8ce8a2d85ee017/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc31.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f32e248c7462b58d96976a7d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f32e248c7462b58d96976a7d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f32e248c7462b58d96976a7d/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f32e248c7462b58d96976a7d/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f32e248c7462b58d96976a7d/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc32.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9c887ca4432af57d33da0cff/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9c887ca4432af57d33da0cff/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9c887ca4432af57d33da0cff/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9c887ca4432af57d33da0cff/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9c887ca4432af57d33da0cff/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc33.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c8293152f94690da22c54ebb/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c8293152f94690da22c54ebb/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c8293152f94690da22c54ebb/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c8293152f94690da22c54ebb/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c8293152f94690da22c54ebb/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Chương trình hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời” mừng kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "hoà nhạc34.jpg",
+      "sourceDirectory": "Hòa nhạc tạ ơn “Hồng Ân Tuyệt Vời”, mừng 10 năm thành lập tại Giáo xứ Thái Hà"
+    }
+  ]
+}

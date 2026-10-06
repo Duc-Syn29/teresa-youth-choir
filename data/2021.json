@@ -167,100 +167,112 @@
       "description": "Mở đầu cho những dấu ấn của năm 2021 là ngày 17/01, khi ca đoàn cùng nhau về tham dự và chung vui trong ngày cưới của anh Đức Chính và chị Ánh Nguyệt.",
       "body": "Mở đầu cho những dấu ấn của năm 2021 là ngày 17/01, khi ca đoàn cùng nhau về tham dự và chung vui trong ngày cưới của anh Đức Chính và chị Ánh Nguyệt.\n\nTrong hoàn cảnh các sinh hoạt chung còn gặp nhiều khó khăn, việc có thể cùng hiện diện trong một ngày vui của anh chị lại càng trở nên ý nghĩa. Đó không chỉ là sự hiện diện để chúc mừng một gia đình mới, mà còn là cách những người anh em trong ca đoàn tiếp tục trao cho nhau sự quan tâm và tình thân.",
       "coverImage": {
-        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/medium.jpg",
-        "alt": "Lễ cưới Đức Chính và Ánh Nguyệt · ảnh 2",
-        "caption": "Anh chị Đức Chính – Ánh Nguyệt trong ngày hôn phối.",
-        "id": "media/2021/duc-chinh-anh-nguyet/02/original.jpg",
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/15e8e9d684abb932a6c2081d/medium.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/15e8e9d684abb932a6c2081d/medium.webp",
         "variants": {
           "thumbnail": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/thumb.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/15e8e9d684abb932a6c2081d/thumb.webp",
             "width": 480,
             "height": 320
           },
           "medium": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/medium.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/15e8e9d684abb932a6c2081d/medium.webp",
             "width": 960,
             "height": 640
           },
           "original": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/15e8e9d684abb932a6c2081d/medium.webp",
             "width": 960,
             "height": 640
           }
-        }
+        },
+        "alt": "Niềm vui ngày thành hôn của anh Đức Chính và chị Ánh Nguyệt",
+        "caption": "Niềm vui ngày thành hôn của anh Đức Chính và chị Ánh Nguyệt",
+        "event": "Niềm vui ngày thành hôn của anh Đức Chính và chị Ánh Nguyệt",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Lễ cưới anh chị Nguyệt Chính 2021"
       },
       "album": {
         "manifest": "data/albums/2021/2021-hon-phoi-duc-chinh-anh-nguyet.json",
         "count": 6,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/01/medium.jpg",
-            "alt": "Lễ cưới Đức Chính và Ánh Nguyệt · ảnh 1",
-            "caption": "Anh chị Đức Chính – Ánh Nguyệt lưu giữ kỷ niệm cùng cha và quý sơ.",
-            "id": "media/2021/duc-chinh-anh-nguyet/01/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/a6bf361809dca850fa721645/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/a6bf361809dca850fa721645/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/01/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/a6bf361809dca850fa721645/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/01/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/a6bf361809dca850fa721645/medium.webp",
                 "width": 960,
                 "height": 640
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/01/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/a6bf361809dca850fa721645/medium.webp",
                 "width": 960,
                 "height": 640
               }
-            }
+            },
+            "alt": "Niềm vui ngày thành hôn của anh Đức Chính và chị Ánh Nguyệt",
+            "caption": "Niềm vui ngày thành hôn của anh Đức Chính và chị Ánh Nguyệt",
+            "event": "Niềm vui ngày thành hôn của anh Đức Chính và chị Ánh Nguyệt",
+            "sourceFilename": "ảnh cưới2.jpg",
+            "sourceDirectory": "Lễ cưới anh chị Nguyệt Chính 2021"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/medium.jpg",
-            "alt": "Lễ cưới Đức Chính và Ánh Nguyệt · ảnh 2",
-            "caption": "Anh chị Đức Chính – Ánh Nguyệt trong ngày hôn phối.",
-            "id": "media/2021/duc-chinh-anh-nguyet/02/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/7c16d37e2777b85d4b8f895f/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/7c16d37e2777b85d4b8f895f/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/7c16d37e2777b85d4b8f895f/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/7c16d37e2777b85d4b8f895f/medium.webp",
                 "width": 960,
                 "height": 640
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/7c16d37e2777b85d4b8f895f/medium.webp",
                 "width": 960,
                 "height": 640
               }
-            }
+            },
+            "alt": "Niềm vui ngày thành hôn của anh Đức Chính và chị Ánh Nguyệt",
+            "caption": "Niềm vui ngày thành hôn của anh Đức Chính và chị Ánh Nguyệt",
+            "event": "Niềm vui ngày thành hôn của anh Đức Chính và chị Ánh Nguyệt",
+            "sourceFilename": "ảnh cưới4.jpg",
+            "sourceDirectory": "Lễ cưới anh chị Nguyệt Chính 2021"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/03/medium.jpg",
-            "alt": "Lễ cưới Đức Chính và Ánh Nguyệt · ảnh 3",
-            "caption": "Khoảnh khắc cầu nguyện trong Thánh lễ hôn phối.",
-            "id": "media/2021/duc-chinh-anh-nguyet/03/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/d6eb47cf5c299717c1e9ccde/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/d6eb47cf5c299717c1e9ccde/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/03/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/d6eb47cf5c299717c1e9ccde/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/03/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/d6eb47cf5c299717c1e9ccde/medium.webp",
                 "width": 960,
                 "height": 640
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/03/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/d6eb47cf5c299717c1e9ccde/medium.webp",
                 "width": 960,
                 "height": 640
               }
-            }
+            },
+            "alt": "Niềm vui ngày thành hôn của anh Đức Chính và chị Ánh Nguyệt",
+            "caption": "Niềm vui ngày thành hôn của anh Đức Chính và chị Ánh Nguyệt",
+            "event": "Niềm vui ngày thành hôn của anh Đức Chính và chị Ánh Nguyệt",
+            "sourceFilename": "ảnh cưới6.jpg",
+            "sourceDirectory": "Lễ cưới anh chị Nguyệt Chính 2021"
           }
         ]
       }
@@ -275,100 +287,112 @@
       "description": "Chỉ ít ngày sau, vào 23 và 24/01, ca đoàn tiếp tục về tham dự ngày vui trọng đại trong ngày cưới của anh chị Thu Trang – Thanh Nguyễn và anh chị Thanh Hoa – Trung Buti.",
       "body": "Chỉ ít ngày sau, vào 23 và 24/01, ca đoàn tiếp tục về tham dự ngày vui trọng đại trong ngày cưới của anh chị Thu Trang – Thanh Nguyễn và anh chị Thanh Hoa – Trung Buti.\n\nNhững cuộc gặp gỡ tuy không nhiều, nhưng lại trở thành những khoảnh khắc đáng nhớ của năm. Giữa một năm đầy những biến động và hạn chế vì đại dịch, niềm vui của mỗi anh chị vẫn là niềm vui chung của đại gia đình Ca đoàn Giới Trẻ Têrêsa. Trong ngày cưới của các anh chị, anh chị em ca viên còn rất nhiệt tình lên tặng các bài cử điệu sinh hoạt góp phần tạo nên những kỷ niệm rất đáng nhớ của ca đoàn.",
       "coverImage": {
-        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/04/medium.jpg",
-        "alt": "Lễ cưới Thanh Hoa và Trung Buti · ảnh 4",
-        "caption": "Niềm vui của anh chị Thanh Hoa – Trung Buti trong ngày cưới.",
-        "id": "media/2021/thanh-hoa-trung-buti/04/original.jpg",
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/ec9eabbbf1ce7472224e5471/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/ec9eabbbf1ce7472224e5471/medium.webp",
         "variants": {
           "thumbnail": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/04/thumb.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/ec9eabbbf1ce7472224e5471/thumb.webp",
             "width": 360,
             "height": 480
           },
           "medium": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/04/medium.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/ec9eabbbf1ce7472224e5471/medium.webp",
             "width": 960,
             "height": 1280
           },
           "original": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/04/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/ec9eabbbf1ce7472224e5471/original.webp",
             "width": 1536,
             "height": 2048
           }
-        }
+        },
+        "alt": "Những ngày vui của các thành viên ca đoàn",
+        "caption": "Những ngày vui của các thành viên ca đoàn",
+        "event": "Những ngày vui của các thành viên ca đoàn",
+        "sourceFilename": "1789735406674_1995884631902468284_7736263391661925970_903e0ee7072da004c1ce2002225d15a3.jpg",
+        "sourceDirectory": "Lễ cưới anh chị Hoa Trung 2021"
       },
       "album": {
         "manifest": "data/albums/2021/2021-hon-phoi-thu-trang-thanh-hoa.json",
         "count": 4,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/01/medium.jpg",
-            "alt": "Lễ cưới Thanh Hoa và Trung Buti · ảnh 1",
-            "caption": "Anh chị Thanh Hoa – Trung Buti tiến vào thánh đường trong ngày hôn phối.",
-            "id": "media/2021/thanh-hoa-trung-buti/01/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/ec9eabbbf1ce7472224e5471/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/ec9eabbbf1ce7472224e5471/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/01/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/ec9eabbbf1ce7472224e5471/thumb.webp",
                 "width": 360,
                 "height": 480
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/01/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/ec9eabbbf1ce7472224e5471/medium.webp",
                 "width": 960,
                 "height": 1280
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/01/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/ec9eabbbf1ce7472224e5471/original.webp",
                 "width": 1536,
                 "height": 2048
               }
-            }
+            },
+            "alt": "Những ngày vui của các thành viên ca đoàn",
+            "caption": "Những ngày vui của các thành viên ca đoàn",
+            "event": "Những ngày vui của các thành viên ca đoàn",
+            "sourceFilename": "1789735406674_1995884631902468284_7736263391661925970_903e0ee7072da004c1ce2002225d15a3.jpg",
+            "sourceDirectory": "Lễ cưới anh chị Hoa Trung 2021"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/02/medium.jpg",
-            "alt": "Lễ cưới Thanh Hoa và Trung Buti · ảnh 2",
-            "caption": "Anh chị Thanh Hoa – Trung Buti trước bàn thờ.",
-            "id": "media/2021/thanh-hoa-trung-buti/02/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/d40b455424bab097336d0eca/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/d40b455424bab097336d0eca/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/02/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/d40b455424bab097336d0eca/thumb.webp",
                 "width": 360,
                 "height": 480
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/02/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/d40b455424bab097336d0eca/medium.webp",
                 "width": 960,
                 "height": 1280
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/02/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/d40b455424bab097336d0eca/original.webp",
                 "width": 1536,
                 "height": 2048
               }
-            }
+            },
+            "alt": "Những ngày vui của các thành viên ca đoàn",
+            "caption": "Những ngày vui của các thành viên ca đoàn",
+            "event": "Những ngày vui của các thành viên ca đoàn",
+            "sourceFilename": "1789735406694_1995884631902468284_7736263391661925970_0b8983b6906df566bd2bcbd8fec96644.jpg",
+            "sourceDirectory": "Lễ cưới anh chị Hoa Trung 2021"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/03/medium.jpg",
-            "alt": "Lễ cưới Thanh Hoa và Trung Buti · ảnh 3",
-            "caption": "Khoảnh khắc cầu nguyện trong lễ cưới Thanh Hoa – Trung Buti.",
-            "id": "media/2021/thanh-hoa-trung-buti/03/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/0eb6b3cc6b319aa13af633e2/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/0eb6b3cc6b319aa13af633e2/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/03/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/0eb6b3cc6b319aa13af633e2/thumb.webp",
                 "width": 360,
                 "height": 480
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/03/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/0eb6b3cc6b319aa13af633e2/medium.webp",
                 "width": 960,
                 "height": 1280
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/thanh-hoa-trung-buti/03/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/0eb6b3cc6b319aa13af633e2/original.webp",
                 "width": 1536,
                 "height": 2048
               }
-            }
+            },
+            "alt": "Những ngày vui của các thành viên ca đoàn",
+            "caption": "Những ngày vui của các thành viên ca đoàn",
+            "event": "Những ngày vui của các thành viên ca đoàn",
+            "sourceFilename": "1789735406701_1995884631902468284_7736263391661925970_7b239f53049d0e4f6fa626bd401b1af4.jpg",
+            "sourceDirectory": "Lễ cưới anh chị Hoa Trung 2021"
           }
         ]
       }
@@ -445,100 +469,112 @@
       "description": "Những ngày cuối năm, vào 29/12/2021, ca đoàn vinh dự được hiện diện và phục vụ Thánh Lễ hôn phối của anh chị Hùng – Uyên, được tổ chức tại Giáo xứ Thái Hà.",
       "body": "Những ngày cuối năm, vào 29/12/2021, ca đoàn vinh dự được hiện diện và phục vụ Thánh Lễ hôn phối của anh chị Hùng – Uyên, được tổ chức tại Giáo xứ Thái Hà.\n\nĐây cũng là một trong những dấu ấn đẹp khép lại một năm nhiều thử thách. Không có quá nhiều chương trình, không có những hoạt động rộn ràng như những năm trước, nhưng ca đoàn vẫn tìm được cách để ở bên nhau, cùng chia sẻ những niềm vui trong cuộc sống của mỗi thành viên ca đoàn.",
       "coverImage": {
-        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/08/medium.jpg",
-        "alt": "Lễ cưới Hùng và Uyên · ảnh 8",
-        "caption": "Ca đoàn chụp ảnh lưu niệm cùng anh chị Hùng – Uyên và cha chủ tế.",
-        "id": "media/2021/hung-uyen/08/original.jpg",
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/6928b43d30d3b071aababf86/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/6928b43d30d3b071aababf86/medium.webp",
         "variants": {
           "thumbnail": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/08/thumb.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/6928b43d30d3b071aababf86/thumb.webp",
             "width": 480,
             "height": 270
           },
           "medium": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/08/medium.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/6928b43d30d3b071aababf86/medium.webp",
             "width": 1280,
             "height": 719
           },
           "original": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/08/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/6928b43d30d3b071aababf86/original.webp",
             "width": 2138,
             "height": 1201
           }
-        }
+        },
+        "alt": "Khép lại năm bằng một niềm vui phục vụ lễ cưới anh chị Hùng – Uyên",
+        "caption": "Khép lại năm bằng một niềm vui phục vụ lễ cưới anh chị Hùng – Uyên",
+        "event": "Khép lại năm bằng một niềm vui phục vụ lễ cưới anh chị Hùng – Uyên",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Lễ cưới anh chị Hùng Uyên 2021"
       },
       "album": {
         "manifest": "data/albums/2021/2021-hon-phoi-hung-uyen.json",
         "count": 8,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/01/medium.jpg",
-            "alt": "Lễ cưới Hùng và Uyên · ảnh 1",
-            "caption": "Anh chị Hùng – Uyên trong ngày hôn phối.",
-            "id": "media/2021/hung-uyen/01/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/3a75975efb4fab518c6df006/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/3a75975efb4fab518c6df006/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/01/thumb.jpg",
-                "width": 480,
-                "height": 276
-              },
-              "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/01/medium.jpg",
-                "width": 1280,
-                "height": 737
-              },
-              "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/01/original.jpg",
-                "width": 2142,
-                "height": 1233
-              }
-            }
-          },
-          {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/02/medium.jpg",
-            "alt": "Lễ cưới Hùng và Uyên · ảnh 2",
-            "caption": "Nghi thức hôn phối của anh chị Hùng – Uyên.",
-            "id": "media/2021/hung-uyen/02/original.jpg",
-            "variants": {
-              "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/02/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/3a75975efb4fab518c6df006/thumb.webp",
                 "width": 480,
                 "height": 262
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/02/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/3a75975efb4fab518c6df006/medium.webp",
                 "width": 1280,
                 "height": 699
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/02/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/3a75975efb4fab518c6df006/original.webp",
                 "width": 2176,
                 "height": 1188
               }
-            }
+            },
+            "alt": "Khép lại năm bằng một niềm vui phục vụ lễ cưới anh chị Hùng – Uyên",
+            "caption": "Khép lại năm bằng một niềm vui phục vụ lễ cưới anh chị Hùng – Uyên",
+            "event": "Khép lại năm bằng một niềm vui phục vụ lễ cưới anh chị Hùng – Uyên",
+            "sourceFilename": "ảnh cưới2.jpg",
+            "sourceDirectory": "Lễ cưới anh chị Hùng Uyên 2021"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/medium.jpg",
-            "alt": "Lễ cưới Hùng và Uyên · ảnh 3",
-            "caption": "Ca đoàn phục vụ Thánh lễ trong điều kiện phòng dịch cuối năm 2021.",
-            "id": "media/2021/hung-uyen/03/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/0e9c1ba653240bd22bfe9942/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/0e9c1ba653240bd22bfe9942/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/0e9c1ba653240bd22bfe9942/thumb.webp",
                 "width": 480,
-                "height": 266
+                "height": 274
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/0e9c1ba653240bd22bfe9942/medium.webp",
                 "width": 1280,
-                "height": 708
+                "height": 731
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/hung-uyen/03/original.jpg",
-                "width": 2171,
-                "height": 1201
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/0e9c1ba653240bd22bfe9942/original.webp",
+                "width": 2151,
+                "height": 1228
               }
-            }
+            },
+            "alt": "Khép lại năm bằng một niềm vui phục vụ lễ cưới anh chị Hùng – Uyên",
+            "caption": "Khép lại năm bằng một niềm vui phục vụ lễ cưới anh chị Hùng – Uyên",
+            "event": "Khép lại năm bằng một niềm vui phục vụ lễ cưới anh chị Hùng – Uyên",
+            "sourceFilename": "ảnh cưới6.jpg",
+            "sourceDirectory": "Lễ cưới anh chị Hùng Uyên 2021"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/6f6be1424f68a71f2faa8c6d/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/6f6be1424f68a71f2faa8c6d/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/6f6be1424f68a71f2faa8c6d/thumb.webp",
+                "width": 480,
+                "height": 267
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/6f6be1424f68a71f2faa8c6d/medium.webp",
+                "width": 1280,
+                "height": 713
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/optimized/6f6be1424f68a71f2faa8c6d/original.webp",
+                "width": 2144,
+                "height": 1194
+              }
+            },
+            "alt": "Khép lại năm bằng một niềm vui phục vụ lễ cưới anh chị Hùng – Uyên",
+            "caption": "Khép lại năm bằng một niềm vui phục vụ lễ cưới anh chị Hùng – Uyên",
+            "event": "Khép lại năm bằng một niềm vui phục vụ lễ cưới anh chị Hùng – Uyên",
+            "sourceFilename": "ảnh cưới7.jpg",
+            "sourceDirectory": "Lễ cưới anh chị Hùng Uyên 2021"
           }
         ]
       }

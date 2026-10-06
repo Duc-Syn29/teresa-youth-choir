@@ -26,27 +26,30 @@
     "verse": "Giữa lòng Hội Thánh, con sẽ là tình yêu.",
     "longDescription": "Trong suốt hành trình ấy, đời sống đức tin của Ca đoàn ngày càng được vun đắp qua những giờ học hỏi Giáo lý, các buổi tĩnh tâm, cầu nguyện và những lần cùng nhau phục vụ Thánh lễ. Đặc biệt, chuyến tĩnh tâm tại Đan viện Biển Đức Thiên Hà – Hòa Bình đã trở thành một khoảng lặng ý nghĩa, giúp mỗi ca viên có thêm thời gian trở về bên Chúa, nhìn lại đời sống đức tin và thêm gắn kết với nhau.\n\nNăm 2024 cũng đánh dấu một chặng đường đặc biệt mới khi Ban Điều hành nhiệm kỳ mới được kiện toàn, với anh Trưởng Phê-rô Đỗ Tiến Hạng, hai anh Phó Giu-se Trần Viết Vĩ, Giu-se Nguyễn Phan Hoài Duy, cùng sự đồng hành tận tụy của chị Ca trưởng Maria Ban Mai. Với sức trẻ, lòng nhiệt thành và tinh thần trách nhiệm, Ban Điều hành cùng toàn thể ca viên tiếp tục chung tay xây dựng Ca đoàn ngày một hiệp nhất và trưởng thành hơn.\n\nBên cạnh đời sống phụng vụ, tinh thần bác ái và tình huynh đệ cũng được lan tỏa qua những hoạt động ý nghĩa trong năm. Ca đoàn cùng nhau hiện diện trong những niềm vui của các thành viên, cất lên những lời ca chúc phúc trong các Thánh lễ Hôn phối; đồng thời vinh dự góp tiếng hát trong chương trình “Hoan ca Tạ ơn”, nhân dịp kỷ niệm 100 năm Dòng Chúa Cứu Thế hiện diện tại Việt Nam. Đây là những dấu ấn đẹp, thể hiện niềm vui được phục vụ và góp một phần nhỏ bé vào đời sống chung của cộng đoàn.\n\nChương trình thiện nguyện “Đông Ấm Na Rì” tại Bắc Kạn đã trở thành một dấu son đầy ý nghĩa. Cùng nhau lên đường, trao gửi những món quà và sẻ chia với những hoàn cảnh còn khó khăn, các ca viên cảm nhận sâu sắc hơn niềm vui của sự cho đi. Hành trình ấy cũng như một lời kết đẹp cho một năm nhiều trải nghiệm – một năm có tiếng hát, có cầu nguyện, có phục vụ và trên hết là có những con người cùng đồng hành với nhau trong tình yêu thương.",
     "coverImage": {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-quan-thay-lan-thu-9/069-4238f6095a/medium.jpg",
-      "alt": "Ca đoàn mừng lễ Quan thầy lần thứ 9 ngày 03/10/2024.",
-      "caption": "Ca đoàn mừng lễ Quan thầy lần thứ 9 ngày 03/10/2024.",
-      "id": "media/2024/2024-quan-thay-lan-thu-9/069-4238f6095a/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/aef4d1c0c4376f27e3f3ff64/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/aef4d1c0c4376f27e3f3ff64/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-quan-thay-lan-thu-9/069-4238f6095a/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/aef4d1c0c4376f27e3f3ff64/thumb.webp",
           "width": 480,
           "height": 289
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-quan-thay-lan-thu-9/069-4238f6095a/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/aef4d1c0c4376f27e3f3ff64/medium.webp",
           "width": 1280,
           "height": 771
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-quan-thay-lan-thu-9/069-4238f6095a/original.jpg",
-          "width": 3840,
-          "height": 2313
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/aef4d1c0c4376f27e3f3ff64/original.webp",
+          "width": 2560,
+          "height": 1542
         }
-      }
+      },
+      "alt": "Mừng lễ Quan thầy và kỷ niệm 9 năm",
+      "caption": "Mừng lễ Quan thầy và kỷ niệm 9 năm",
+      "event": "Mừng lễ Quan thầy và kỷ niệm 9 năm",
+      "sourceFilename": "ảnh bìa( cả năm).jpg",
+      "sourceDirectory": "Mừng lễ quan thầy 2024"
     }
   },
   "leadership": {
@@ -284,54 +287,84 @@
         "count": 2,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/001-aaa7b3d7cf/medium.jpg",
-            "alt": "Ca đoàn trong lễ hôn phối phêrô phạm hải dương và cecilia hoàng phương dung.",
-            "caption": "Ca đoàn trong lễ hôn phối phêrô phạm hải dương và cecilia hoàng phương dung.",
-            "id": "media/2024/2024-hon-phoi-hai-duong-phuong-dung/001-aaa7b3d7cf/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/d163161fc35928bc9a54ac0e/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/d163161fc35928bc9a54ac0e/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/001-aaa7b3d7cf/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/d163161fc35928bc9a54ac0e/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/001-aaa7b3d7cf/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/d163161fc35928bc9a54ac0e/medium.webp",
                 "width": 1280,
                 "height": 852
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/001-aaa7b3d7cf/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/d163161fc35928bc9a54ac0e/medium.webp",
                 "width": 1280,
                 "height": 852
               }
             },
-            "event": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung"
+            "alt": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung",
+            "caption": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung",
+            "event": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung",
+            "sourceFilename": "1789841336132_1995884631902468284_7736263391661925970_9ec629f00796357bd751cd6221a4aba6.jpg",
+            "sourceDirectory": "Lễ Cưới a Dương-Dung 2024"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/002-5c95e3ded1/medium.jpg",
-            "alt": "Ca đoàn trong lễ hôn phối phêrô phạm hải dương và cecilia hoàng phương dung.",
-            "caption": "Ca đoàn trong lễ hôn phối phêrô phạm hải dương và cecilia hoàng phương dung.",
-            "id": "media/2024/2024-hon-phoi-hai-duong-phuong-dung/002-5c95e3ded1/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e4ee1cccf4517e74e7110cbf/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e4ee1cccf4517e74e7110cbf/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/002-5c95e3ded1/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e4ee1cccf4517e74e7110cbf/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/002-5c95e3ded1/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e4ee1cccf4517e74e7110cbf/medium.webp",
                 "width": 1280,
                 "height": 852
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-hai-duong-phuong-dung/002-5c95e3ded1/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e4ee1cccf4517e74e7110cbf/medium.webp",
                 "width": 1280,
                 "height": 852
               }
             },
-            "event": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung"
+            "alt": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung",
+            "caption": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung",
+            "event": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung",
+            "sourceFilename": "ảnh bìa.jpg",
+            "sourceDirectory": "Lễ Cưới a Dương-Dung 2024"
           }
         ]
+      },
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e4ee1cccf4517e74e7110cbf/medium.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e4ee1cccf4517e74e7110cbf/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e4ee1cccf4517e74e7110cbf/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e4ee1cccf4517e74e7110cbf/medium.webp",
+            "width": 1280,
+            "height": 852
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e4ee1cccf4517e74e7110cbf/medium.webp",
+            "width": 1280,
+            "height": 852
+          }
+        },
+        "alt": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung",
+        "caption": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung",
+        "event": "Lễ hôn phối Phêrô Phạm Hải Dương và Cecilia Hoàng Phương Dung",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Lễ Cưới a Dương-Dung 2024"
       }
     },
     {
@@ -348,78 +381,110 @@
         "count": 4,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-minh-hieu-huong-giang/001-1d1a2da503/medium.jpg",
-            "alt": "Ca đoàn trong lễ hôn phối minh hiếu và hương giang.",
-            "caption": "Ca đoàn trong lễ hôn phối minh hiếu và hương giang.",
-            "id": "media/2024/2024-hon-phoi-minh-hieu-huong-giang/001-1d1a2da503/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/859fad3c672e31923a92c2c0/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/859fad3c672e31923a92c2c0/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-minh-hieu-huong-giang/001-1d1a2da503/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/859fad3c672e31923a92c2c0/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-minh-hieu-huong-giang/001-1d1a2da503/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/859fad3c672e31923a92c2c0/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-minh-hieu-huong-giang/001-1d1a2da503/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/859fad3c672e31923a92c2c0/original.webp",
                 "width": 2560,
                 "height": 1707
               }
             },
-            "event": "Lễ hôn phối Minh Hiếu và Hương Giang"
+            "alt": "Lễ hôn phối Minh Hiếu và Hương Giang",
+            "caption": "Lễ hôn phối Minh Hiếu và Hương Giang",
+            "event": "Lễ hôn phối Minh Hiếu và Hương Giang",
+            "sourceFilename": "ảnh cưới1.jpg",
+            "sourceDirectory": "Lễ Cưới Hiếu- Giang 2024"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-minh-hieu-huong-giang/002-bbd31c37ab/medium.jpg",
-            "alt": "Ca đoàn trong lễ hôn phối minh hiếu và hương giang.",
-            "caption": "Ca đoàn trong lễ hôn phối minh hiếu và hương giang.",
-            "id": "media/2024/2024-hon-phoi-minh-hieu-huong-giang/002-bbd31c37ab/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/39b7bf0c01ce529816a8f67d/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/39b7bf0c01ce529816a8f67d/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-minh-hieu-huong-giang/002-bbd31c37ab/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/39b7bf0c01ce529816a8f67d/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-minh-hieu-huong-giang/002-bbd31c37ab/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/39b7bf0c01ce529816a8f67d/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-minh-hieu-huong-giang/002-bbd31c37ab/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/39b7bf0c01ce529816a8f67d/original.webp",
                 "width": 2560,
                 "height": 1707
               }
             },
-            "event": "Lễ hôn phối Minh Hiếu và Hương Giang"
+            "alt": "Lễ hôn phối Minh Hiếu và Hương Giang",
+            "caption": "Lễ hôn phối Minh Hiếu và Hương Giang",
+            "event": "Lễ hôn phối Minh Hiếu và Hương Giang",
+            "sourceFilename": "ảnh bìa.jpg",
+            "sourceDirectory": "Lễ Cưới Hiếu- Giang 2024"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-minh-hieu-huong-giang/003-1c4b247b98/medium.jpg",
-            "alt": "Ca đoàn trong lễ hôn phối minh hiếu và hương giang.",
-            "caption": "Ca đoàn trong lễ hôn phối minh hiếu và hương giang.",
-            "id": "media/2024/2024-hon-phoi-minh-hieu-huong-giang/003-1c4b247b98/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a522869121d9f9603f0811bb/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a522869121d9f9603f0811bb/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-minh-hieu-huong-giang/003-1c4b247b98/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a522869121d9f9603f0811bb/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-minh-hieu-huong-giang/003-1c4b247b98/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a522869121d9f9603f0811bb/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-minh-hieu-huong-giang/003-1c4b247b98/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a522869121d9f9603f0811bb/original.webp",
                 "width": 2560,
                 "height": 1707
               }
             },
-            "event": "Lễ hôn phối Minh Hiếu và Hương Giang"
+            "alt": "Lễ hôn phối Minh Hiếu và Hương Giang",
+            "caption": "Lễ hôn phối Minh Hiếu và Hương Giang",
+            "event": "Lễ hôn phối Minh Hiếu và Hương Giang",
+            "sourceFilename": "ảnh cưới5.jpg",
+            "sourceDirectory": "Lễ Cưới Hiếu- Giang 2024"
           }
         ]
+      },
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/39b7bf0c01ce529816a8f67d/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/39b7bf0c01ce529816a8f67d/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/39b7bf0c01ce529816a8f67d/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/39b7bf0c01ce529816a8f67d/medium.webp",
+            "width": 1280,
+            "height": 854
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/39b7bf0c01ce529816a8f67d/original.webp",
+            "width": 2560,
+            "height": 1707
+          }
+        },
+        "alt": "Lễ hôn phối Minh Hiếu và Hương Giang",
+        "caption": "Lễ hôn phối Minh Hiếu và Hương Giang",
+        "event": "Lễ hôn phối Minh Hiếu và Hương Giang",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Lễ Cưới Hiếu- Giang 2024"
       }
     },
     {
@@ -433,8 +498,113 @@
       "body": "Ngày 31/3/2024, trong niềm vui hân hoan của Đại lễ Phục Sinh năm 2024, Giáo xứ Thái Hà long trọng tổ chức chương trình Rước kiệu mừng Chúa Phục Sinh với sự tham dự đông đảo của cộng đoàn. Hòa chung trong đoàn rước trọng thể ấy, Ca đoàn Giới Trẻ Têrêsa cũng vinh dự là một thành phần tham dự, góp tiếng hát và sự hiện diện của mình vào bầu khí chung của ngày Đại lễ. Những lời ca vang lên giữa đoàn người như lời tuyên xưng niềm tin vào Đức Kitô Phục Sinh và diễn tả niềm vui của toàn thể cộng đoàn.\n\nĐối với Ca đoàn, đây là một trong những kỷ niệm đáng nhớ của năm 2024 – khi những người trẻ Têrêsa cùng nhau hiện diện, phục vụ và hòa chung với Giáo xứ trong một ngày lễ thật trang trọng và đầy tràn niềm vui Phục Sinh.",
       "album": {
         "manifest": "data/albums/2024/2024-ruoc-kieng-phuc-sinh.json",
-        "count": 0,
-        "preview": []
+        "count": 9,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/3d6cdc770a952c4be41c6c45/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/3d6cdc770a952c4be41c6c45/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/3d6cdc770a952c4be41c6c45/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/3d6cdc770a952c4be41c6c45/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/3d6cdc770a952c4be41c6c45/original.webp",
+                "width": 2048,
+                "height": 1366
+              }
+            },
+            "alt": "Rước kiệu mừng Chúa Phục Sinh",
+            "caption": "Rước kiệu mừng Chúa Phục Sinh",
+            "event": "Rước kiệu mừng Chúa Phục Sinh",
+            "sourceFilename": "482028800_1601683380610822_8995635220079022713_n.jpg",
+            "sourceDirectory": "Rước Kiệu Phục sinh 31-3-2024"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a8718814c2b04a7f0dd3b5c3/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a8718814c2b04a7f0dd3b5c3/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a8718814c2b04a7f0dd3b5c3/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a8718814c2b04a7f0dd3b5c3/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a8718814c2b04a7f0dd3b5c3/original.webp",
+                "width": 2048,
+                "height": 1366
+              }
+            },
+            "alt": "Rước kiệu mừng Chúa Phục Sinh",
+            "caption": "Rước kiệu mừng Chúa Phục Sinh",
+            "event": "Rước kiệu mừng Chúa Phục Sinh",
+            "sourceFilename": "486365475_1601683343944159_6983553602811531325_n.jpg",
+            "sourceDirectory": "Rước Kiệu Phục sinh 31-3-2024"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b1e4c42d004f997176218185/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b1e4c42d004f997176218185/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b1e4c42d004f997176218185/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b1e4c42d004f997176218185/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b1e4c42d004f997176218185/original.webp",
+                "width": 2048,
+                "height": 1366
+              }
+            },
+            "alt": "Rước kiệu mừng Chúa Phục Sinh",
+            "caption": "Rước kiệu mừng Chúa Phục Sinh",
+            "event": "Rước kiệu mừng Chúa Phục Sinh",
+            "sourceFilename": "486700590_1601683267277500_2105724617262834443_n.jpg",
+            "sourceDirectory": "Rước Kiệu Phục sinh 31-3-2024"
+          }
+        ]
+      },
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e49676f8b48472ce5976fbb1/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e49676f8b48472ce5976fbb1/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e49676f8b48472ce5976fbb1/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e49676f8b48472ce5976fbb1/medium.webp",
+            "width": 1280,
+            "height": 854
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e49676f8b48472ce5976fbb1/original.webp",
+            "width": 2048,
+            "height": 1366
+          }
+        },
+        "alt": "Rước kiệu mừng Chúa Phục Sinh",
+        "caption": "Rước kiệu mừng Chúa Phục Sinh",
+        "event": "Rước kiệu mừng Chúa Phục Sinh",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Rước Kiệu Phục sinh 31-3-2024"
       }
     },
     {
@@ -451,30 +621,58 @@
         "count": 1,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-nguyen-huong-anh-van/001-22002281aa/medium.jpg",
-            "alt": "Ca đoàn trong lễ hôn phối nguyễn hương và anh văn.",
-            "caption": "Ca đoàn trong lễ hôn phối nguyễn hương và anh văn.",
-            "id": "media/2024/2024-hon-phoi-nguyen-huong-anh-van/001-22002281aa/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/97a10f3188eb76af95cb92be/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/97a10f3188eb76af95cb92be/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-nguyen-huong-anh-van/001-22002281aa/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/97a10f3188eb76af95cb92be/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-nguyen-huong-anh-van/001-22002281aa/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/97a10f3188eb76af95cb92be/medium.webp",
                 "width": 960,
                 "height": 640
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-nguyen-huong-anh-van/001-22002281aa/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/97a10f3188eb76af95cb92be/medium.webp",
                 "width": 960,
                 "height": 640
               }
             },
-            "event": "Lễ hôn phối Nguyễn Hương và Anh Văn"
+            "alt": "Lễ hôn phối Nguyễn Hương và Anh Văn",
+            "caption": "Lễ hôn phối Nguyễn Hương và Anh Văn",
+            "event": "Lễ hôn phối Nguyễn Hương và Anh Văn",
+            "sourceFilename": "1789841336098_1995884631902468284_7736263391661925970_585da6ba05dba142c3d914b6e744461a.jpg",
+            "sourceDirectory": "Lễ Cưới chị Hương - anh Văn 2024"
           }
         ]
+      },
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/97a10f3188eb76af95cb92be/medium.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/97a10f3188eb76af95cb92be/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/97a10f3188eb76af95cb92be/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/97a10f3188eb76af95cb92be/medium.webp",
+            "width": 960,
+            "height": 640
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/97a10f3188eb76af95cb92be/medium.webp",
+            "width": 960,
+            "height": 640
+          }
+        },
+        "alt": "Lễ hôn phối Nguyễn Hương và Anh Văn",
+        "caption": "Lễ hôn phối Nguyễn Hương và Anh Văn",
+        "event": "Lễ hôn phối Nguyễn Hương và Anh Văn",
+        "sourceFilename": "1789841336098_1995884631902468284_7736263391661925970_585da6ba05dba142c3d914b6e744461a.jpg",
+        "sourceDirectory": "Lễ Cưới chị Hương - anh Văn 2024"
       }
     },
     {
@@ -488,81 +686,113 @@
       "body": "Ngày 7/6/2024, sau giờ tập hát, Ca đoàn Giới Trẻ Têrêsa đã cùng nhau dành những giây phút lắng đọng để cầu nguyện và chuẩn bị tâm hồn hướng đến ngày tĩnh tâm của ca đoàn tại An viện Thiên Hà, Hòa Bình.\n\nTrong bầu khí thinh lặng và hiệp nhất, các thành viên cùng dâng lên Chúa những tâm tình, ước nguyện và thao thức của mình, xin Ngài đồng hành, hướng dẫn và ban ơn để ngày tĩnh tâm sắp tới trở thành thời gian giúp mỗi người thêm gắn bó với Chúa, với nhau và với sứ vụ phục vụ qua lời ca tiếng hát. Đây là khoảng thời gian tuy ngắn nhưng đầy ý nghĩa, giúp các thành viên tạm gác lại những bận rộn thường ngày, cùng nhìn về hành trình phía trước bằng tâm tình tin tưởng và phó thác",
       "album": {
         "manifest": "data/albums/2024/2024-cau-nguyen-chuan-bi-tinh-tam.json",
-        "count": 4,
+        "count": 5,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/001-ce86f89652/medium.jpg",
-            "alt": "Ca đoàn cầu nguyện sau giờ tập hát ngày 07/06/2024.",
-            "caption": "Ca đoàn cầu nguyện sau giờ tập hát ngày 07/06/2024.",
-            "id": "media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/001-ce86f89652/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e74de23718f0c1adc0272efc/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e74de23718f0c1adc0272efc/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/001-ce86f89652/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e74de23718f0c1adc0272efc/thumb.webp",
                 "width": 480,
                 "height": 480
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/001-ce86f89652/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e74de23718f0c1adc0272efc/medium.webp",
                 "width": 1280,
                 "height": 1280
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/001-ce86f89652/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e74de23718f0c1adc0272efc/original.webp",
                 "width": 2048,
                 "height": 2048
               }
             },
-            "event": "Cầu nguyện chuẩn bị kỳ tĩnh tâm"
+            "alt": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+            "caption": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+            "event": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+            "sourceFilename": "486243092_1601883807257446_1978764668211845003_n.jpg",
+            "sourceDirectory": "Cầu Nguyện 7-6-2024"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/002-48e45e413b/medium.jpg",
-            "alt": "Ca đoàn cầu nguyện sau giờ tập hát ngày 07/06/2024.",
-            "caption": "Ca đoàn cầu nguyện sau giờ tập hát ngày 07/06/2024.",
-            "id": "media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/002-48e45e413b/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2ab3b4e64e144f2c40e2cb94/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2ab3b4e64e144f2c40e2cb94/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/002-48e45e413b/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2ab3b4e64e144f2c40e2cb94/thumb.webp",
                 "width": 480,
                 "height": 480
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/002-48e45e413b/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2ab3b4e64e144f2c40e2cb94/medium.webp",
                 "width": 1280,
                 "height": 1280
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/002-48e45e413b/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2ab3b4e64e144f2c40e2cb94/original.webp",
                 "width": 2048,
                 "height": 2048
               }
             },
-            "event": "Cầu nguyện chuẩn bị kỳ tĩnh tâm"
+            "alt": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+            "caption": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+            "event": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+            "sourceFilename": "486594535_1601883670590793_5148210887097446602_n.jpg",
+            "sourceDirectory": "Cầu Nguyện 7-6-2024"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/003-ba2a3982de/medium.jpg",
-            "alt": "Ca đoàn cầu nguyện sau giờ tập hát ngày 07/06/2024.",
-            "caption": "Ca đoàn cầu nguyện sau giờ tập hát ngày 07/06/2024.",
-            "id": "media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/003-ba2a3982de/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5db1f7eca21eeb736e074264/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5db1f7eca21eeb736e074264/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/003-ba2a3982de/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5db1f7eca21eeb736e074264/thumb.webp",
                 "width": 480,
                 "height": 480
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/003-ba2a3982de/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5db1f7eca21eeb736e074264/medium.webp",
                 "width": 1280,
                 "height": 1280
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/003-ba2a3982de/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5db1f7eca21eeb736e074264/original.webp",
                 "width": 2048,
                 "height": 2048
               }
             },
-            "event": "Cầu nguyện chuẩn bị kỳ tĩnh tâm"
+            "alt": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+            "caption": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+            "event": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+            "sourceFilename": "486605436_1601883713924122_3829458689343836890_n.jpg",
+            "sourceDirectory": "Cầu Nguyện 7-6-2024"
           }
         ]
+      },
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/480b4e288d2cc4c92484a0dd/medium.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/480b4e288d2cc4c92484a0dd/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/480b4e288d2cc4c92484a0dd/thumb.webp",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/480b4e288d2cc4c92484a0dd/medium.webp",
+            "width": 590,
+            "height": 443
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/480b4e288d2cc4c92484a0dd/medium.webp",
+            "width": 590,
+            "height": 443
+          }
+        },
+        "alt": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+        "caption": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+        "event": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Cầu Nguyện 7-6-2024"
       }
     },
     {
@@ -579,78 +809,110 @@
         "count": 11,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/001-a31412cd99/medium.jpg",
-            "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-            "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-            "id": "media/2024/2024-thi-giao-ly/001-a31412cd99/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/05680a31af9551ac4b45e1a0/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/05680a31af9551ac4b45e1a0/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/001-a31412cd99/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/05680a31af9551ac4b45e1a0/thumb.webp",
                 "width": 480,
                 "height": 333
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/001-a31412cd99/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/05680a31af9551ac4b45e1a0/medium.webp",
                 "width": 1280,
                 "height": 888
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/001-a31412cd99/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/05680a31af9551ac4b45e1a0/original.webp",
                 "width": 2048,
                 "height": 1421
               }
             },
-            "event": "Hội thi Giáo lý"
+            "alt": "Hội thi Giáo lý",
+            "caption": "Hội thi Giáo lý",
+            "event": "Hội thi Giáo lý",
+            "sourceFilename": "486174256_1601895840589576_2194372318498017755_n.jpg",
+            "sourceDirectory": "Thi Giáo Lý 2024"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/002-ed9491d86d/medium.jpg",
-            "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-            "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-            "id": "media/2024/2024-thi-giao-ly/002-ed9491d86d/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b300906cb1ce8dde4709a605/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b300906cb1ce8dde4709a605/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/002-ed9491d86d/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b300906cb1ce8dde4709a605/thumb.webp",
                 "width": 480,
-                "height": 326
+                "height": 354
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/002-ed9491d86d/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b300906cb1ce8dde4709a605/medium.webp",
                 "width": 1280,
-                "height": 870
+                "height": 944
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/002-ed9491d86d/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b300906cb1ce8dde4709a605/original.webp",
                 "width": 2048,
-                "height": 1392
+                "height": 1510
               }
             },
-            "event": "Hội thi Giáo lý"
+            "alt": "Hội thi Giáo lý",
+            "caption": "Hội thi Giáo lý",
+            "event": "Hội thi Giáo lý",
+            "sourceFilename": "486536624_1601895637256263_1920868204783197460_n.jpg",
+            "sourceDirectory": "Thi Giáo Lý 2024"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/003-e8708b78b0/medium.jpg",
-            "alt": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-            "caption": "Ca đoàn tại Cuộc thi Tìm hiểu Giáo lý 2024.",
-            "id": "media/2024/2024-thi-giao-ly/003-e8708b78b0/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/63af40d040ae0c319e8142f6/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/63af40d040ae0c319e8142f6/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/003-e8708b78b0/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/63af40d040ae0c319e8142f6/thumb.webp",
                 "width": 480,
-                "height": 328
+                "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/003-e8708b78b0/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/63af40d040ae0c319e8142f6/medium.webp",
                 "width": 1280,
-                "height": 874
+                "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-thi-giao-ly/003-e8708b78b0/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/63af40d040ae0c319e8142f6/original.webp",
                 "width": 2048,
-                "height": 1398
+                "height": 1366
               }
             },
-            "event": "Hội thi Giáo lý"
+            "alt": "Hội thi Giáo lý",
+            "caption": "Hội thi Giáo lý",
+            "event": "Hội thi Giáo lý",
+            "sourceFilename": "486576510_1601895750589585_6301121765717065044_n.jpg",
+            "sourceDirectory": "Thi Giáo Lý 2024"
           }
         ]
+      },
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ec4a6937aee87fc07b636d14/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ec4a6937aee87fc07b636d14/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ec4a6937aee87fc07b636d14/thumb.webp",
+            "width": 480,
+            "height": 326
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ec4a6937aee87fc07b636d14/medium.webp",
+            "width": 1280,
+            "height": 870
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ec4a6937aee87fc07b636d14/original.webp",
+            "width": 2048,
+            "height": 1392
+          }
+        },
+        "alt": "Hội thi Giáo lý",
+        "caption": "Hội thi Giáo lý",
+        "event": "Hội thi Giáo lý",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Thi Giáo Lý 2024"
       }
     },
     {
@@ -667,78 +929,110 @@
         "count": 39,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/001-812b916bf4/medium.jpg",
-            "alt": "Các ca viên đến Đan viện Biển Đức Thiên Hà, Hòa Bình.",
-            "caption": "Các ca viên đến Đan viện Biển Đức Thiên Hà, Hòa Bình.",
-            "id": "media/2024/2024-tinh-tam-thien-ha/001-812b916bf4/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/42d1416682d50fdf7cb886db/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/42d1416682d50fdf7cb886db/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/001-812b916bf4/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/42d1416682d50fdf7cb886db/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/001-812b916bf4/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/42d1416682d50fdf7cb886db/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/001-812b916bf4/original.jpg",
-                "width": 3840,
-                "height": 2561
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/42d1416682d50fdf7cb886db/original.webp",
+                "width": 2560,
+                "height": 1708
               }
             },
-            "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
+            "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+            "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+            "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+            "sourceFilename": "tĩnh tâm 9.jpg",
+            "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/002-aeddc1c47d/medium.jpg",
-            "alt": "Ca đoàn lắng nghe chia sẻ trong kỳ tĩnh tâm “Ở lại và được Ngài sai đi”.",
-            "caption": "Ca đoàn lắng nghe chia sẻ trong kỳ tĩnh tâm “Ở lại và được Ngài sai đi”.",
-            "id": "media/2024/2024-tinh-tam-thien-ha/002-aeddc1c47d/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4f191e213fe41effa8e03026/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4f191e213fe41effa8e03026/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/002-aeddc1c47d/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4f191e213fe41effa8e03026/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/002-aeddc1c47d/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4f191e213fe41effa8e03026/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/002-aeddc1c47d/original.jpg",
-                "width": 3840,
-                "height": 2561
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4f191e213fe41effa8e03026/original.webp",
+                "width": 2560,
+                "height": 1708
               }
             },
-            "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
+            "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+            "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+            "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+            "sourceFilename": "tĩnh tâm 19.jpg",
+            "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/003-9d8c969f2a/medium.jpg",
-            "alt": "Ca đoàn lắng nghe chia sẻ trong kỳ tĩnh tâm “Ở lại và được Ngài sai đi”.",
-            "caption": "Ca đoàn lắng nghe chia sẻ trong kỳ tĩnh tâm “Ở lại và được Ngài sai đi”.",
-            "id": "media/2024/2024-tinh-tam-thien-ha/003-9d8c969f2a/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7cc716d81550e1fcb285b0fb/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7cc716d81550e1fcb285b0fb/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/003-9d8c969f2a/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7cc716d81550e1fcb285b0fb/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/003-9d8c969f2a/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7cc716d81550e1fcb285b0fb/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-thien-ha/003-9d8c969f2a/original.jpg",
-                "width": 3840,
-                "height": 2562
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7cc716d81550e1fcb285b0fb/original.webp",
+                "width": 2560,
+                "height": 1708
               }
             },
-            "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”"
+            "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+            "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+            "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+            "sourceFilename": "tĩnh tâm 29.jpg",
+            "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
           }
         ]
+      },
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e2153e366db48fa650407ba5/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e2153e366db48fa650407ba5/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e2153e366db48fa650407ba5/thumb.webp",
+            "width": 480,
+            "height": 299
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e2153e366db48fa650407ba5/medium.webp",
+            "width": 1280,
+            "height": 797
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e2153e366db48fa650407ba5/original.webp",
+            "width": 2560,
+            "height": 1595
+          }
+        },
+        "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+        "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+        "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
       }
     },
     {
@@ -755,78 +1049,110 @@
         "count": 4,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/001-0fac636af3/medium.jpg",
-            "alt": "Ban Điều Hành nhiệm kỳ 2024–2026.",
-            "caption": "Ban Điều Hành nhiệm kỳ 2024–2026.",
-            "id": "media/2024/2024-bau-ban-dieu-hanh/001-0fac636af3/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bb8be46659da8a2ad4d1a6e6/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bb8be46659da8a2ad4d1a6e6/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/001-0fac636af3/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bb8be46659da8a2ad4d1a6e6/thumb.webp",
                 "width": 480,
                 "height": 480
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/001-0fac636af3/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bb8be46659da8a2ad4d1a6e6/medium.webp",
                 "width": 1280,
                 "height": 1280
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/001-0fac636af3/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bb8be46659da8a2ad4d1a6e6/medium.webp",
                 "width": 1280,
                 "height": 1280
               }
             },
-            "event": "Bầu ban điều hành nhiệm kỳ 2024–2026"
+            "alt": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+            "caption": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+            "event": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+            "sourceFilename": "1789841313454_1995884631902468284_7736263391661925970_dd2ffad3a86323ae3ffdcf2f7f2bf58d.jpg",
+            "sourceDirectory": "Bầu bdh nhiệm kỳ 2024-2026"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/002-e671f8fd06/medium.jpg",
-            "alt": "Ban Điều Hành nhiệm kỳ 2024–2026.",
-            "caption": "Ban Điều Hành nhiệm kỳ 2024–2026.",
-            "id": "media/2024/2024-bau-ban-dieu-hanh/002-e671f8fd06/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7172be495db7fa430a0c922f/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7172be495db7fa430a0c922f/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/002-e671f8fd06/thumb.jpg",
-                "width": 341,
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7172be495db7fa430a0c922f/thumb.webp",
+                "width": 340,
                 "height": 480
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/002-e671f8fd06/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7172be495db7fa430a0c922f/medium.webp",
                 "width": 908,
                 "height": 1280
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/002-e671f8fd06/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7172be495db7fa430a0c922f/medium.webp",
                 "width": 908,
                 "height": 1280
               }
             },
-            "event": "Bầu ban điều hành nhiệm kỳ 2024–2026"
+            "alt": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+            "caption": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+            "event": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+            "sourceFilename": "1789843777348_1995884631902468284_7736263391661925970_f8531e289b6967adea3ba1759ee37d0e.jpg",
+            "sourceDirectory": "Bầu bdh nhiệm kỳ 2024-2026"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/003-caeb01db74/medium.jpg",
-            "alt": "Ban Điều Hành nhiệm kỳ 2024–2026.",
-            "caption": "Ban Điều Hành nhiệm kỳ 2024–2026.",
-            "id": "media/2024/2024-bau-ban-dieu-hanh/003-caeb01db74/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2bcc9ea710cf2732a912ab78/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2bcc9ea710cf2732a912ab78/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/003-caeb01db74/thumb.jpg",
-                "width": 341,
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2bcc9ea710cf2732a912ab78/thumb.webp",
+                "width": 340,
                 "height": 480
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/003-caeb01db74/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2bcc9ea710cf2732a912ab78/medium.webp",
                 "width": 908,
                 "height": 1280
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-bau-ban-dieu-hanh/003-caeb01db74/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2bcc9ea710cf2732a912ab78/medium.webp",
                 "width": 908,
                 "height": 1280
               }
             },
-            "event": "Bầu ban điều hành nhiệm kỳ 2024–2026"
+            "alt": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+            "caption": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+            "event": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+            "sourceFilename": "1789843777380_1995884631902468284_7736263391661925970_430669ce1bec27d0b138b84b32c43142.jpg",
+            "sourceDirectory": "Bầu bdh nhiệm kỳ 2024-2026"
           }
         ]
+      },
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bb8be46659da8a2ad4d1a6e6/medium.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bb8be46659da8a2ad4d1a6e6/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bb8be46659da8a2ad4d1a6e6/thumb.webp",
+            "width": 480,
+            "height": 480
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bb8be46659da8a2ad4d1a6e6/medium.webp",
+            "width": 1280,
+            "height": 1280
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/bb8be46659da8a2ad4d1a6e6/medium.webp",
+            "width": 1280,
+            "height": 1280
+          }
+        },
+        "alt": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+        "caption": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+        "event": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+        "sourceFilename": "1789841313454_1995884631902468284_7736263391661925970_dd2ffad3a86323ae3ffdcf2f7f2bf58d.jpg",
+        "sourceDirectory": "Bầu bdh nhiệm kỳ 2024-2026"
       }
     },
     {
@@ -843,30 +1169,58 @@
         "count": 1,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-sau-bao-yagi/001-8951171879/medium.jpg",
-            "alt": "Giờ cầu nguyện hướng về đồng bào miền Bắc sau bão Yagi.",
-            "caption": "Giờ cầu nguyện hướng về đồng bào miền Bắc sau bão Yagi.",
-            "id": "media/2024/2024-cau-nguyen-sau-bao-yagi/001-8951171879/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b0dabfaf17c8a04de622e368/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b0dabfaf17c8a04de622e368/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-sau-bao-yagi/001-8951171879/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b0dabfaf17c8a04de622e368/thumb.webp",
                 "width": 480,
                 "height": 360
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-sau-bao-yagi/001-8951171879/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b0dabfaf17c8a04de622e368/medium.webp",
                 "width": 1280,
                 "height": 960
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-sau-bao-yagi/001-8951171879/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b0dabfaf17c8a04de622e368/medium.webp",
                 "width": 1280,
                 "height": 960
               }
             },
-            "event": "Cầu nguyện cho đồng bào miền Bắc sau bão Yagi"
+            "alt": "Cầu nguyện cho đồng bào miền Bắc sau bão Yagi",
+            "caption": "Cầu nguyện cho đồng bào miền Bắc sau bão Yagi",
+            "event": "Cầu nguyện cho đồng bào miền Bắc sau bão Yagi",
+            "sourceFilename": "1789841259952_1995884631902468284_7736263391661925970_ddfea96094c9bf0bab8da8b52ef0ddee.jpg",
+            "sourceDirectory": "Cầu Nguyện lũ Yagi 2024"
           }
         ]
+      },
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b0dabfaf17c8a04de622e368/medium.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b0dabfaf17c8a04de622e368/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b0dabfaf17c8a04de622e368/thumb.webp",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b0dabfaf17c8a04de622e368/medium.webp",
+            "width": 1280,
+            "height": 960
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b0dabfaf17c8a04de622e368/medium.webp",
+            "width": 1280,
+            "height": 960
+          }
+        },
+        "alt": "Cầu nguyện cho đồng bào miền Bắc sau bão Yagi",
+        "caption": "Cầu nguyện cho đồng bào miền Bắc sau bão Yagi",
+        "event": "Cầu nguyện cho đồng bào miền Bắc sau bão Yagi",
+        "sourceFilename": "1789841259952_1995884631902468284_7736263391661925970_ddfea96094c9bf0bab8da8b52ef0ddee.jpg",
+        "sourceDirectory": "Cầu Nguyện lũ Yagi 2024"
       }
     },
     {
@@ -883,78 +1237,110 @@
         "count": 7,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/001-63916e852a/medium.jpg",
-            "alt": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
-            "caption": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
-            "id": "media/2024/2024-tinh-tam-cua-bac/001-63916e852a/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d64a3df26c9a8a6fa411c1a/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d64a3df26c9a8a6fa411c1a/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/001-63916e852a/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d64a3df26c9a8a6fa411c1a/thumb.webp",
                 "width": 480,
                 "height": 360
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/001-63916e852a/medium.jpg",
-                "width": 1280,
-                "height": 960
-              },
-              "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/001-63916e852a/original.jpg",
-                "width": 2048,
-                "height": 1536
-              }
-            },
-            "event": "Tĩnh tâm chuẩn bị lễ Quan thầy"
-          },
-          {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/002-a77225d72c/medium.jpg",
-            "alt": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
-            "caption": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
-            "id": "media/2024/2024-tinh-tam-cua-bac/002-a77225d72c/original.jpg",
-            "variants": {
-              "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/002-a77225d72c/thumb.jpg",
-                "width": 480,
-                "height": 360
-              },
-              "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/002-a77225d72c/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d64a3df26c9a8a6fa411c1a/medium.webp",
                 "width": 1280,
                 "height": 961
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/002-a77225d72c/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d64a3df26c9a8a6fa411c1a/original.webp",
                 "width": 2048,
                 "height": 1537
               }
             },
-            "event": "Tĩnh tâm chuẩn bị lễ Quan thầy"
+            "alt": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+            "caption": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+            "event": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+            "sourceFilename": "486489458_1602396637206163_2877728054440081850_n.jpg",
+            "sourceDirectory": "Tĩnh Tâm Cửa Bắc 2024"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/003-a709439004/medium.jpg",
-            "alt": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
-            "caption": "Buổi tĩnh tâm và cầu nguyện tại Nhà thờ Cửa Bắc.",
-            "id": "media/2024/2024-tinh-tam-cua-bac/003-a709439004/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/dd83216d97b61811b900a17f/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/dd83216d97b61811b900a17f/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/003-a709439004/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/dd83216d97b61811b900a17f/thumb.webp",
                 "width": 360,
                 "height": 480
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/003-a709439004/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/dd83216d97b61811b900a17f/medium.webp",
                 "width": 960,
                 "height": 1280
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-tinh-tam-cua-bac/003-a709439004/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/dd83216d97b61811b900a17f/original.webp",
                 "width": 1536,
                 "height": 2048
               }
             },
-            "event": "Tĩnh tâm chuẩn bị lễ Quan thầy"
+            "alt": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+            "caption": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+            "event": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+            "sourceFilename": "486652720_1602396683872825_1434888126279029586_n.jpg",
+            "sourceDirectory": "Tĩnh Tâm Cửa Bắc 2024"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/92aa86d96369d7ac38743141/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/92aa86d96369d7ac38743141/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/92aa86d96369d7ac38743141/thumb.webp",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/92aa86d96369d7ac38743141/medium.webp",
+                "width": 1280,
+                "height": 960
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/92aa86d96369d7ac38743141/original.webp",
+                "width": 2048,
+                "height": 1536
+              }
+            },
+            "alt": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+            "caption": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+            "event": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+            "sourceFilename": "486969038_1602396633872830_2484258640778168241_n.jpg",
+            "sourceDirectory": "Tĩnh Tâm Cửa Bắc 2024"
           }
         ]
+      },
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0c3a095e389fe3862b2dde94/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0c3a095e389fe3862b2dde94/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0c3a095e389fe3862b2dde94/thumb.webp",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0c3a095e389fe3862b2dde94/medium.webp",
+            "width": 1280,
+            "height": 960
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0c3a095e389fe3862b2dde94/original.webp",
+            "width": 2048,
+            "height": 1536
+          }
+        },
+        "alt": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+        "caption": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+        "event": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Tĩnh Tâm Cửa Bắc 2024"
       }
     },
     {
@@ -971,30 +1357,58 @@
         "count": 1,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-viet-vi-va-huong/001-dafe194306/medium.jpg",
-            "alt": "Ca đoàn trong lễ hôn phối giuse trần viết vĩ và hương.",
-            "caption": "Ca đoàn trong lễ hôn phối giuse trần viết vĩ và hương.",
-            "id": "media/2024/2024-hon-phoi-viet-vi-va-huong/001-dafe194306/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9b761e2a16ca247885501431/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9b761e2a16ca247885501431/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-viet-vi-va-huong/001-dafe194306/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9b761e2a16ca247885501431/thumb.webp",
                 "width": 320,
                 "height": 480
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-viet-vi-va-huong/001-dafe194306/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9b761e2a16ca247885501431/medium.webp",
                 "width": 854,
                 "height": 1280
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-viet-vi-va-huong/001-dafe194306/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9b761e2a16ca247885501431/medium.webp",
                 "width": 854,
                 "height": 1280
               }
             },
-            "event": "Lễ hôn phối Giuse Trần Viết Vĩ và Hương"
+            "alt": "Lễ hôn phối Giuse Trần Viết Vĩ và Hương",
+            "caption": "Lễ hôn phối Giuse Trần Viết Vĩ và Hương",
+            "event": "Lễ hôn phối Giuse Trần Viết Vĩ và Hương",
+            "sourceFilename": "1789841336069_1995884631902468284_7736263391661925970_7e3c436f950852f3cc5b193d8186a1b9.jpg",
+            "sourceDirectory": "Lễ Cưới a Vĩ - Hương 2024"
           }
         ]
+      },
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9b761e2a16ca247885501431/medium.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9b761e2a16ca247885501431/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9b761e2a16ca247885501431/thumb.webp",
+            "width": 320,
+            "height": 480
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9b761e2a16ca247885501431/medium.webp",
+            "width": 854,
+            "height": 1280
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9b761e2a16ca247885501431/medium.webp",
+            "width": 854,
+            "height": 1280
+          }
+        },
+        "alt": "Lễ hôn phối Giuse Trần Viết Vĩ và Hương",
+        "caption": "Lễ hôn phối Giuse Trần Viết Vĩ và Hương",
+        "event": "Lễ hôn phối Giuse Trần Viết Vĩ và Hương",
+        "sourceFilename": "1789841336069_1995884631902468284_7736263391661925970_7e3c436f950852f3cc5b193d8186a1b9.jpg",
+        "sourceDirectory": "Lễ Cưới a Vĩ - Hương 2024"
       }
     },
     {
@@ -1011,78 +1425,110 @@
         "count": 72,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-quan-thay-lan-thu-9/001-6d4fba3b3c/medium.jpg",
-            "alt": "Ca đoàn mừng lễ Quan thầy lần thứ 9 ngày 03/10/2024.",
-            "caption": "Ca đoàn mừng lễ Quan thầy lần thứ 9 ngày 03/10/2024.",
-            "id": "media/2024/2024-quan-thay-lan-thu-9/001-6d4fba3b3c/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2da0f916ac5e4e09de21bb09/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2da0f916ac5e4e09de21bb09/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-quan-thay-lan-thu-9/001-6d4fba3b3c/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2da0f916ac5e4e09de21bb09/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-quan-thay-lan-thu-9/001-6d4fba3b3c/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2da0f916ac5e4e09de21bb09/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-quan-thay-lan-thu-9/001-6d4fba3b3c/original.jpg",
-                "width": 3840,
-                "height": 2561
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2da0f916ac5e4e09de21bb09/original.webp",
+                "width": 2560,
+                "height": 1708
               }
             },
-            "event": "Mừng lễ Quan thầy và kỷ niệm 9 năm"
+            "alt": "Ca đoàn mừng lễ Quan thầy lần thứ 9 ngày 03/10/2024.",
+            "caption": "Ca đoàn mừng lễ Quan thầy lần thứ 9 ngày 03/10/2024.",
+            "event": "Mừng lễ Quan thầy và kỷ niệm 9 năm",
+            "sourceFilename": "_NQK0199.jpg",
+            "sourceDirectory": "Mừng lễ quan thầy 2024"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-quan-thay-lan-thu-9/002-2c03576376/medium.jpg",
-            "alt": "Ca đoàn mừng lễ Quan thầy lần thứ 9 ngày 03/10/2024.",
-            "caption": "Ca đoàn mừng lễ Quan thầy lần thứ 9 ngày 03/10/2024.",
-            "id": "media/2024/2024-quan-thay-lan-thu-9/002-2c03576376/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/003f023f0f9d2e0155cc2466/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/003f023f0f9d2e0155cc2466/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-quan-thay-lan-thu-9/002-2c03576376/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/003f023f0f9d2e0155cc2466/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-quan-thay-lan-thu-9/002-2c03576376/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/003f023f0f9d2e0155cc2466/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-quan-thay-lan-thu-9/002-2c03576376/original.jpg",
-                "width": 3840,
-                "height": 2562
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/003f023f0f9d2e0155cc2466/original.webp",
+                "width": 2560,
+                "height": 1708
               }
             },
-            "event": "Mừng lễ Quan thầy và kỷ niệm 9 năm"
+            "alt": "Ca đoàn mừng lễ Quan thầy lần thứ 9 ngày 03/10/2024.",
+            "caption": "Ca đoàn mừng lễ Quan thầy lần thứ 9 ngày 03/10/2024.",
+            "event": "Mừng lễ Quan thầy và kỷ niệm 9 năm",
+            "sourceFilename": "_NQK9629.jpg",
+            "sourceDirectory": "Mừng lễ quan thầy 2024"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-quan-thay-lan-thu-9/003-2ede58329f/medium.jpg",
-            "alt": "Ca đoàn mừng lễ Quan thầy lần thứ 9 ngày 03/10/2024.",
-            "caption": "Ca đoàn mừng lễ Quan thầy lần thứ 9 ngày 03/10/2024.",
-            "id": "media/2024/2024-quan-thay-lan-thu-9/003-2ede58329f/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/07cbe21e21a7568a25b26da6/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/07cbe21e21a7568a25b26da6/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-quan-thay-lan-thu-9/003-2ede58329f/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/07cbe21e21a7568a25b26da6/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-quan-thay-lan-thu-9/003-2ede58329f/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/07cbe21e21a7568a25b26da6/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-quan-thay-lan-thu-9/003-2ede58329f/original.jpg",
-                "width": 3840,
-                "height": 2562
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/07cbe21e21a7568a25b26da6/original.webp",
+                "width": 2560,
+                "height": 1708
               }
             },
-            "event": "Mừng lễ Quan thầy và kỷ niệm 9 năm"
+            "alt": "Ca đoàn mừng lễ Quan thầy lần thứ 9 ngày 03/10/2024.",
+            "caption": "Ca đoàn mừng lễ Quan thầy lần thứ 9 ngày 03/10/2024.",
+            "event": "Mừng lễ Quan thầy và kỷ niệm 9 năm",
+            "sourceFilename": "_NQK9859.jpg",
+            "sourceDirectory": "Mừng lễ quan thầy 2024"
           }
         ]
+      },
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/aef4d1c0c4376f27e3f3ff64/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/aef4d1c0c4376f27e3f3ff64/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/aef4d1c0c4376f27e3f3ff64/thumb.webp",
+            "width": 480,
+            "height": 289
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/aef4d1c0c4376f27e3f3ff64/medium.webp",
+            "width": 1280,
+            "height": 771
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/aef4d1c0c4376f27e3f3ff64/original.webp",
+            "width": 2560,
+            "height": 1542
+          }
+        },
+        "alt": "Mừng lễ Quan thầy và kỷ niệm 9 năm",
+        "caption": "Mừng lễ Quan thầy và kỷ niệm 9 năm",
+        "event": "Mừng lễ Quan thầy và kỷ niệm 9 năm",
+        "sourceFilename": "ảnh bìa( cả năm).jpg",
+        "sourceDirectory": "Mừng lễ quan thầy 2024"
       }
     },
     {
@@ -1099,78 +1545,110 @@
         "count": 3,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/001-200ffc102d/medium.jpg",
-            "alt": "Ca đoàn trong lễ hôn phối đức bình và phương quỳnh.",
-            "caption": "Ca đoàn trong lễ hôn phối đức bình và phương quỳnh.",
-            "id": "media/2024/2024-hon-phoi-duc-binh-phuong-quynh/001-200ffc102d/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b3709390552ea6f9ce87f56c/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b3709390552ea6f9ce87f56c/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/001-200ffc102d/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b3709390552ea6f9ce87f56c/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/001-200ffc102d/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b3709390552ea6f9ce87f56c/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/001-200ffc102d/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b3709390552ea6f9ce87f56c/medium.webp",
                 "width": 1280,
                 "height": 854
               }
             },
-            "event": "Lễ hôn phối Đức Bình và Phương Quỳnh"
+            "alt": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+            "caption": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+            "event": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+            "sourceFilename": "1789841323775_1995884631902468284_7736263391661925970_faace9f0672b58283e7f56d76d63bbd3.jpg",
+            "sourceDirectory": "Lễ cưới Phương Quỳnh - Bình 2024"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/002-abd0ae9d33/medium.jpg",
-            "alt": "Ca đoàn trong lễ hôn phối đức bình và phương quỳnh.",
-            "caption": "Ca đoàn trong lễ hôn phối đức bình và phương quỳnh.",
-            "id": "media/2024/2024-hon-phoi-duc-binh-phuong-quynh/002-abd0ae9d33/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/73c15c9f7bcd3bac7c20a673/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/73c15c9f7bcd3bac7c20a673/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/002-abd0ae9d33/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/73c15c9f7bcd3bac7c20a673/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/002-abd0ae9d33/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/73c15c9f7bcd3bac7c20a673/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/002-abd0ae9d33/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/73c15c9f7bcd3bac7c20a673/medium.webp",
                 "width": 1280,
                 "height": 854
               }
             },
-            "event": "Lễ hôn phối Đức Bình và Phương Quỳnh"
+            "alt": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+            "caption": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+            "event": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+            "sourceFilename": "1789841323808_1995884631902468284_7736263391661925970_f5dbf802e23cf4c74ca5bdb451837757.jpg",
+            "sourceDirectory": "Lễ cưới Phương Quỳnh - Bình 2024"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/003-2a7903ca58/medium.jpg",
-            "alt": "Ca đoàn trong lễ hôn phối đức bình và phương quỳnh.",
-            "caption": "Ca đoàn trong lễ hôn phối đức bình và phương quỳnh.",
-            "id": "media/2024/2024-hon-phoi-duc-binh-phuong-quynh/003-2a7903ca58/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/09d67075821e58f8f2d1944e/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/09d67075821e58f8f2d1944e/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/003-2a7903ca58/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/09d67075821e58f8f2d1944e/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/003-2a7903ca58/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/09d67075821e58f8f2d1944e/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-duc-binh-phuong-quynh/003-2a7903ca58/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/09d67075821e58f8f2d1944e/medium.webp",
                 "width": 1280,
                 "height": 854
               }
             },
-            "event": "Lễ hôn phối Đức Bình và Phương Quỳnh"
+            "alt": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+            "caption": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+            "event": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+            "sourceFilename": "ảnh bìa.jpg",
+            "sourceDirectory": "Lễ cưới Phương Quỳnh - Bình 2024"
           }
         ]
+      },
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/09d67075821e58f8f2d1944e/medium.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/09d67075821e58f8f2d1944e/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/09d67075821e58f8f2d1944e/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/09d67075821e58f8f2d1944e/medium.webp",
+            "width": 1280,
+            "height": 854
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/09d67075821e58f8f2d1944e/medium.webp",
+            "width": 1280,
+            "height": 854
+          }
+        },
+        "alt": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+        "caption": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+        "event": "Lễ hôn phối Đức Bình và Phương Quỳnh",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Lễ cưới Phương Quỳnh - Bình 2024"
       }
     },
     {
@@ -1187,78 +1665,110 @@
         "count": 16,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/001-813b609a70/medium.jpg",
-            "alt": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-            "caption": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-            "id": "media/2024/2024-dai-le-di-dan/001-813b609a70/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fef8ec7aa7d77a46136d0b0d/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fef8ec7aa7d77a46136d0b0d/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/001-813b609a70/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fef8ec7aa7d77a46136d0b0d/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/001-813b609a70/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fef8ec7aa7d77a46136d0b0d/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/001-813b609a70/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fef8ec7aa7d77a46136d0b0d/medium.webp",
                 "width": 1280,
                 "height": 854
               }
             },
-            "event": "Đại lễ Di Dân 2024"
+            "alt": "Đại lễ Di Dân 2024",
+            "caption": "Đại lễ Di Dân 2024",
+            "event": "Đại lễ Di Dân 2024",
+            "sourceFilename": "1789841273509_1995884631902468284_7736263391661925970_d2746cecd806db4854df2d130aad415f.jpg",
+            "sourceDirectory": "Thi dường hướng mục vụ và đại lễ di dân 2024"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/002-f03bf629a9/medium.jpg",
-            "alt": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-            "caption": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-            "id": "media/2024/2024-dai-le-di-dan/002-f03bf629a9/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ee2ef27e6762a255c9e21bdc/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ee2ef27e6762a255c9e21bdc/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/002-f03bf629a9/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ee2ef27e6762a255c9e21bdc/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/002-f03bf629a9/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ee2ef27e6762a255c9e21bdc/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/002-f03bf629a9/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ee2ef27e6762a255c9e21bdc/medium.webp",
                 "width": 1280,
                 "height": 854
               }
             },
-            "event": "Đại lễ Di Dân 2024"
+            "alt": "Đại lễ Di Dân 2024",
+            "caption": "Đại lễ Di Dân 2024",
+            "event": "Đại lễ Di Dân 2024",
+            "sourceFilename": "1789841273538_1995884631902468284_7736263391661925970_00e0549157401b601d4c83946c73ee6d.jpg",
+            "sourceDirectory": "Thi dường hướng mục vụ và đại lễ di dân 2024"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/003-89f0dee092/medium.jpg",
-            "alt": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-            "caption": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-            "id": "media/2024/2024-dai-le-di-dan/003-89f0dee092/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0473dc2160592679c53f2327/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0473dc2160592679c53f2327/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/003-89f0dee092/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0473dc2160592679c53f2327/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/003-89f0dee092/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0473dc2160592679c53f2327/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/003-89f0dee092/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0473dc2160592679c53f2327/medium.webp",
                 "width": 1280,
                 "height": 854
               }
             },
-            "event": "Đại lễ Di Dân 2024"
+            "alt": "Đại lễ Di Dân 2024",
+            "caption": "Đại lễ Di Dân 2024",
+            "event": "Đại lễ Di Dân 2024",
+            "sourceFilename": "ảnh bìa.jpg",
+            "sourceDirectory": "Thi dường hướng mục vụ và đại lễ di dân 2024"
           }
         ]
+      },
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/12926f8a478dd7a5eb2c9828/medium.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/12926f8a478dd7a5eb2c9828/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/12926f8a478dd7a5eb2c9828/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/12926f8a478dd7a5eb2c9828/medium.webp",
+            "width": 1280,
+            "height": 854
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/12926f8a478dd7a5eb2c9828/medium.webp",
+            "width": 1280,
+            "height": 854
+          }
+        },
+        "alt": "Đại lễ Di Dân 2024",
+        "caption": "Đại lễ Di Dân 2024",
+        "event": "Đại lễ Di Dân 2024",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Đại lễ Di Dân 2024"
       }
     },
     {
@@ -1275,78 +1785,110 @@
         "count": 4,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-phat-ha-trang/001-25f1d76896/medium.jpg",
-            "alt": "Ca đoàn trong lễ hôn phối phêrô nguyễn văn phát và maria nguyễn thị hà trang.",
-            "caption": "Ca đoàn trong lễ hôn phối phêrô nguyễn văn phát và maria nguyễn thị hà trang.",
-            "id": "media/2024/2024-hon-phoi-phat-ha-trang/001-25f1d76896/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/37cd5e9d35007dc73a7d4fe2/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/37cd5e9d35007dc73a7d4fe2/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-phat-ha-trang/001-25f1d76896/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/37cd5e9d35007dc73a7d4fe2/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-phat-ha-trang/001-25f1d76896/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/37cd5e9d35007dc73a7d4fe2/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-phat-ha-trang/001-25f1d76896/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/37cd5e9d35007dc73a7d4fe2/medium.webp",
                 "width": 1280,
                 "height": 854
               }
             },
-            "event": "Lễ hôn phối Phêrô Nguyễn Văn Phát và Maria Nguyễn Thị Hà Trang"
+            "alt": "Lễ hôn phối Phêrô Nguyễn Văn Phát và Maria Nguyễn Thị Hà Trang",
+            "caption": "Lễ hôn phối Phêrô Nguyễn Văn Phát và Maria Nguyễn Thị Hà Trang",
+            "event": "Lễ hôn phối Phêrô Nguyễn Văn Phát và Maria Nguyễn Thị Hà Trang",
+            "sourceFilename": "1789841969633_1995884631902468284_7736263391661925970_62d97e117de968f38ceb0ee624b7602d.jpg",
+            "sourceDirectory": "Lễ Cưới Tương-Trang 2024"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-phat-ha-trang/002-d4747130d9/medium.jpg",
-            "alt": "Ca đoàn trong lễ hôn phối phêrô nguyễn văn phát và maria nguyễn thị hà trang.",
-            "caption": "Ca đoàn trong lễ hôn phối phêrô nguyễn văn phát và maria nguyễn thị hà trang.",
-            "id": "media/2024/2024-hon-phoi-phat-ha-trang/002-d4747130d9/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2211308a1269d6b370795ab1/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2211308a1269d6b370795ab1/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-phat-ha-trang/002-d4747130d9/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2211308a1269d6b370795ab1/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-phat-ha-trang/002-d4747130d9/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2211308a1269d6b370795ab1/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-phat-ha-trang/002-d4747130d9/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2211308a1269d6b370795ab1/medium.webp",
                 "width": 1280,
                 "height": 854
               }
             },
-            "event": "Lễ hôn phối Phêrô Nguyễn Văn Phát và Maria Nguyễn Thị Hà Trang"
+            "alt": "Lễ hôn phối Phêrô Nguyễn Văn Phát và Maria Nguyễn Thị Hà Trang",
+            "caption": "Lễ hôn phối Phêrô Nguyễn Văn Phát và Maria Nguyễn Thị Hà Trang",
+            "event": "Lễ hôn phối Phêrô Nguyễn Văn Phát và Maria Nguyễn Thị Hà Trang",
+            "sourceFilename": "1789841969665_1995884631902468284_7736263391661925970_3e323ec9118d407ce4a06704ab8ecc5f.jpg",
+            "sourceDirectory": "Lễ Cưới Tương-Trang 2024"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-phat-ha-trang/003-ffa6ff1b78/medium.jpg",
-            "alt": "Ca đoàn trong lễ hôn phối phêrô nguyễn văn phát và maria nguyễn thị hà trang.",
-            "caption": "Ca đoàn trong lễ hôn phối phêrô nguyễn văn phát và maria nguyễn thị hà trang.",
-            "id": "media/2024/2024-hon-phoi-phat-ha-trang/003-ffa6ff1b78/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/8ce026beaa99104e9f510a3b/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/8ce026beaa99104e9f510a3b/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-phat-ha-trang/003-ffa6ff1b78/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/8ce026beaa99104e9f510a3b/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-phat-ha-trang/003-ffa6ff1b78/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/8ce026beaa99104e9f510a3b/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-phat-ha-trang/003-ffa6ff1b78/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/8ce026beaa99104e9f510a3b/medium.webp",
                 "width": 1280,
                 "height": 854
               }
             },
-            "event": "Lễ hôn phối Phêrô Nguyễn Văn Phát và Maria Nguyễn Thị Hà Trang"
+            "alt": "Lễ hôn phối Phêrô Nguyễn Văn Phát và Maria Nguyễn Thị Hà Trang",
+            "caption": "Lễ hôn phối Phêrô Nguyễn Văn Phát và Maria Nguyễn Thị Hà Trang",
+            "event": "Lễ hôn phối Phêrô Nguyễn Văn Phát và Maria Nguyễn Thị Hà Trang",
+            "sourceFilename": "1789841969683_1995884631902468284_7736263391661925970_f877d711b3f2696694eb9055d3052764.jpg",
+            "sourceDirectory": "Lễ Cưới Tương-Trang 2024"
           }
         ]
+      },
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/f828a67a79507d05401ebafc/medium.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/f828a67a79507d05401ebafc/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/f828a67a79507d05401ebafc/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/f828a67a79507d05401ebafc/medium.webp",
+            "width": 1280,
+            "height": 854
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/f828a67a79507d05401ebafc/medium.webp",
+            "width": 1280,
+            "height": 854
+          }
+        },
+        "alt": "Lễ hôn phối Phêrô Nguyễn Văn Phát và Maria Nguyễn Thị Hà Trang",
+        "caption": "Lễ hôn phối Phêrô Nguyễn Văn Phát và Maria Nguyễn Thị Hà Trang",
+        "event": "Lễ hôn phối Phêrô Nguyễn Văn Phát và Maria Nguyễn Thị Hà Trang",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Lễ Cưới Tương-Trang 2024"
       }
     },
     {
@@ -1363,78 +1905,110 @@
         "count": 10,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/001-af61c7b4d9/medium.jpg",
-            "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-            "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-            "id": "media/2024/2024-hoan-ca-tri-an/001-af61c7b4d9/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/76b77148f45224f1101f6662/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/76b77148f45224f1101f6662/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/001-af61c7b4d9/thumb.jpg",
-                "width": 480,
-                "height": 269
-              },
-              "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/001-af61c7b4d9/medium.jpg",
-                "width": 1280,
-                "height": 716
-              },
-              "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/001-af61c7b4d9/original.jpg",
-                "width": 1280,
-                "height": 716
-              }
-            },
-            "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
-          },
-          {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/002-fb8e6afe92/medium.jpg",
-            "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-            "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-            "id": "media/2024/2024-hoan-ca-tri-an/002-fb8e6afe92/original.jpg",
-            "variants": {
-              "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/002-fb8e6afe92/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/76b77148f45224f1101f6662/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/002-fb8e6afe92/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/76b77148f45224f1101f6662/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/002-fb8e6afe92/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/76b77148f45224f1101f6662/medium.webp",
                 "width": 1280,
                 "height": 854
               }
             },
-            "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
+            "alt": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+            "caption": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+            "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+            "sourceFilename": "1789841291215_1995884631902468284_7736263391661925970_5122b6e6bbee7b5eac4a91717e6c5cbd.jpg",
+            "sourceDirectory": "Hoan ca 100 năm DCCT 2024"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/003-30c82cc1f4/medium.jpg",
-            "alt": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-            "caption": "Ca đoàn góp tiếng hát trong chương trình Hoan ca Tạ ơn.",
-            "id": "media/2024/2024-hoan-ca-tri-an/003-30c82cc1f4/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2a33dae50c55830a3afd20c1/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2a33dae50c55830a3afd20c1/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/003-30c82cc1f4/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2a33dae50c55830a3afd20c1/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/003-30c82cc1f4/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2a33dae50c55830a3afd20c1/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hoan-ca-tri-an/003-30c82cc1f4/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2a33dae50c55830a3afd20c1/medium.webp",
                 "width": 1280,
                 "height": 854
               }
             },
-            "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế"
+            "alt": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+            "caption": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+            "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+            "sourceFilename": "1789841291259_1995884631902468284_7736263391661925970_5a03da511f922cbef132847f7f0df291.jpg",
+            "sourceDirectory": "Hoan ca 100 năm DCCT 2024"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5701abb91f0b529fc8fdefdd/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5701abb91f0b529fc8fdefdd/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5701abb91f0b529fc8fdefdd/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5701abb91f0b529fc8fdefdd/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5701abb91f0b529fc8fdefdd/medium.webp",
+                "width": 1280,
+                "height": 854
+              }
+            },
+            "alt": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+            "caption": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+            "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+            "sourceFilename": "1789841291284_1995884631902468284_7736263391661925970_048380f28bfd1a4611cf8ab48c1e576e.jpg",
+            "sourceDirectory": "Hoan ca 100 năm DCCT 2024"
           }
         ]
+      },
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/987af3a1b6161ffee6fc061f/medium.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/987af3a1b6161ffee6fc061f/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/987af3a1b6161ffee6fc061f/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/987af3a1b6161ffee6fc061f/medium.webp",
+            "width": 1280,
+            "height": 854
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/987af3a1b6161ffee6fc061f/medium.webp",
+            "width": 1280,
+            "height": 854
+          }
+        },
+        "alt": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+        "caption": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+        "event": "Hoan ca Tạ ơn – Kỷ niệm 100 năm Dòng Chúa Cứu Thế",
+        "sourceFilename": "ảnh bìa.jpg",
+        "sourceDirectory": "Hoan ca 100 năm DCCT 2024"
       }
     },
     {
@@ -1447,119 +2021,112 @@
       "description": "Khép lại một năm 2024 với biết bao trải nghiệm, Ca đoàn đã cùng nhau thực hiện chương trình thiện nguyện “Đông ấm Na Rì” tại Na Rì, Bắc Kạn trước thềm Giáng sinh.",
       "body": "Khép lại một năm 2024 với biết bao trải nghiệm, Ca đoàn đã cùng nhau thực hiện chương trình thiện nguyện “Đông ấm Na Rì” tại Na Rì, Bắc Kạn trước thềm Giáng sinh. Tạm rời xa thành phố náo nhiệt, những con đường quen thuộc và nhịp sống hối hả thường ngày, các anh chị em ca viên, cựu ca viên cùng nhau lên đường đến Na Rì, mang theo những món quà nhỏ bé nhưng chứa đựng biết bao tình yêu thương và sự sẻ chia.\n\nTại Na Rì, Ca đoàn đã trao tặng những phần quà đến các gia đình còn gặp nhiều khó khăn, đặc biệt là các em nhỏ. Mỗi món quà tuy giản dị nhưng chứa đựng sự quan tâm của nhiều tấm lòng. Hơn cả những giá trị vật chất, chuyến đi là dịp để chúng tôi được gặp gỡ, sẻ chia và mang một chút hơi ấm đến với những người đang cần được nâng đỡ.\n\nTừ những ngày chuẩn bị, quyên góp, đóng gói quà cho đến hành trình lên đường, mỗi ca viên đều góp một phần nhỏ bé của mình. Qua đó, chúng tôi cảm nhận rõ hơn niềm vui của sự cho đi và tinh thần “mỗi người vì mọi người” trong đại gia đình Ca đoàn.\n\n“Đông ấm Na Rì” cũng là hoạt động khép lại một năm 2024 đầy trải nghiệm – một năm có tiếng hát, những giờ cầu nguyện, những Thánh lễ phục vụ, những chuyến đi và trên hết là những con người cùng đồng hành với nhau trong tình yêu thương. Khép lại năm cũ bằng một hành trình sẻ chia, chúng tôi càng hiểu rằng phục vụ không chỉ là cất lên lời ca, mà còn là biết mở rộng trái tim để yêu thương và trao đi.",
       "coverImage": {
-        "ok": true,
-        "id": "media/2024/thien-nguyen/645d3741-c847-400d-a994-814f1f4e87f5/original.jpg",
-        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/thien-nguyen/645d3741-c847-400d-a994-814f1f4e87f5/medium.webp",
-        "year": 2024,
-        "topic": "Thiện nguyện",
-        "activityId": "2024-dong-am-na-ri",
-        "draftId": "2024:625767a21b6bd2f36cda6548c4d2437025551330",
-        "filename": "NQK-9718.jpg",
-        "caption": "Ảnh mở đầu · NQK-9718.jpg",
-        "alt": "NQK-9718.jpg",
-        "createdAt": "2026-09-24T03:52:18.404Z",
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/95c8bab7fb8cc8c8c2fbddfa/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/95c8bab7fb8cc8c8c2fbddfa/medium.webp",
         "variants": {
           "thumbnail": {
-            "id": "media/2024/thien-nguyen/645d3741-c847-400d-a994-814f1f4e87f5/thumb.webp",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/thien-nguyen/645d3741-c847-400d-a994-814f1f4e87f5/thumb.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/95c8bab7fb8cc8c8c2fbddfa/thumb.webp",
             "width": 480,
             "height": 320
           },
           "medium": {
-            "id": "media/2024/thien-nguyen/645d3741-c847-400d-a994-814f1f4e87f5/medium.webp",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/thien-nguyen/645d3741-c847-400d-a994-814f1f4e87f5/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/95c8bab7fb8cc8c8c2fbddfa/medium.webp",
             "width": 1280,
-            "height": 854
+            "height": 853
           },
           "original": {
-            "id": "media/2024/thien-nguyen/645d3741-c847-400d-a994-814f1f4e87f5/original.jpg",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/thien-nguyen/645d3741-c847-400d-a994-814f1f4e87f5/original.jpg",
-            "width": 7867,
-            "height": 5247
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/95c8bab7fb8cc8c8c2fbddfa/original.webp",
+            "width": 2560,
+            "height": 1706
           }
         },
-        "legacyFallback": false,
-        "compression": {
-          "originalBytes": 23591910,
-          "displayBytes": 152120,
-          "originalPreserved": true
-        }
+        "alt": "Đông Ấm Na Rì",
+        "caption": "Đông Ấm Na Rì",
+        "event": "Đông Ấm Na Rì",
+        "sourceFilename": "ảnh bìa.JPG",
+        "sourceDirectory": "Đông ấm Na Rì"
       },
       "album": {
         "manifest": "data/albums/2024/2024-dong-am-na-ri.json",
-        "count": 135,
+        "count": 196,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dong-am-na-ri/001-51b04434ae/medium.jpg",
-            "alt": "Tâm tình ca viên sau chương trình Đông Ấm Na Rì.",
-            "caption": "Tâm tình ca viên sau chương trình Đông Ấm Na Rì.",
-            "id": "media/2024/2024-dong-am-na-ri/001-51b04434ae/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/35cdf1243e6cb2e14f248063/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/35cdf1243e6cb2e14f248063/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dong-am-na-ri/001-51b04434ae/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/35cdf1243e6cb2e14f248063/thumb.webp",
                 "width": 480,
-                "height": 480
+                "height": 270
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dong-am-na-ri/001-51b04434ae/medium.jpg",
-                "width": 900,
-                "height": 900
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/35cdf1243e6cb2e14f248063/medium.webp",
+                "width": 1280,
+                "height": 720
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dong-am-na-ri/001-51b04434ae/original.jpg",
-                "width": 900,
-                "height": 900
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/35cdf1243e6cb2e14f248063/original.webp",
+                "width": 2048,
+                "height": 1152
               }
             },
-            "event": "Đông Ấm Na Rì"
+            "alt": "Đông Ấm Na Rì",
+            "caption": "Đông Ấm Na Rì",
+            "event": "Đông Ấm Na Rì",
+            "sourceFilename": "thiện nguyện15.jpg",
+            "sourceDirectory": "Đông ấm Na Rì"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dong-am-na-ri/002-15b3e845dd/medium.jpg",
-            "alt": "Tâm tình ca viên sau chương trình Đông Ấm Na Rì.",
-            "caption": "Tâm tình ca viên sau chương trình Đông Ấm Na Rì.",
-            "id": "media/2024/2024-dong-am-na-ri/002-15b3e845dd/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0d6df5c8bebaa820e0683c7d/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0d6df5c8bebaa820e0683c7d/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dong-am-na-ri/002-15b3e845dd/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0d6df5c8bebaa820e0683c7d/thumb.webp",
                 "width": 480,
-                "height": 480
+                "height": 270
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dong-am-na-ri/002-15b3e845dd/medium.jpg",
-                "width": 900,
-                "height": 900
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0d6df5c8bebaa820e0683c7d/medium.webp",
+                "width": 1280,
+                "height": 720
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dong-am-na-ri/002-15b3e845dd/original.jpg",
-                "width": 900,
-                "height": 900
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0d6df5c8bebaa820e0683c7d/original.webp",
+                "width": 2048,
+                "height": 1152
               }
             },
-            "event": "Đông Ấm Na Rì"
+            "alt": "Đông Ấm Na Rì",
+            "caption": "Đông Ấm Na Rì",
+            "event": "Đông Ấm Na Rì",
+            "sourceFilename": "thiện nguyện31.jpg",
+            "sourceDirectory": "Đông ấm Na Rì"
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dong-am-na-ri/003-8ef4eb1eab/medium.jpg",
-            "alt": "Tâm tình ca viên sau chương trình Đông Ấm Na Rì.",
-            "caption": "Tâm tình ca viên sau chương trình Đông Ấm Na Rì.",
-            "id": "media/2024/2024-dong-am-na-ri/003-8ef4eb1eab/original.jpg",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2abe07e884df682a25755e31/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2abe07e884df682a25755e31/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dong-am-na-ri/003-8ef4eb1eab/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2abe07e884df682a25755e31/thumb.webp",
                 "width": 480,
-                "height": 480
+                "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dong-am-na-ri/003-8ef4eb1eab/medium.jpg",
-                "width": 900,
-                "height": 900
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2abe07e884df682a25755e31/medium.webp",
+                "width": 1280,
+                "height": 853
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dong-am-na-ri/003-8ef4eb1eab/original.jpg",
-                "width": 900,
-                "height": 900
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2abe07e884df682a25755e31/original.webp",
+                "width": 2560,
+                "height": 1706
               }
             },
-            "event": "Đông Ấm Na Rì"
+            "alt": "Đông Ấm Na Rì",
+            "caption": "Đông Ấm Na Rì",
+            "event": "Đông Ấm Na Rì",
+            "sourceFilename": "thiện nguyện47.JPG",
+            "sourceDirectory": "Đông ấm Na Rì"
           }
         ]
       }

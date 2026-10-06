@@ -362,15 +362,11 @@
       if (url.origin !== location.origin) return;
       const year = Number(url.searchParams.get("year"));
       if (!Number.isInteger(year)) return;
-      const activityId = url.pathname.endsWith("/activity.html") ? url.searchParams.get("id") : "";
-      const key = `${year}:${activityId || "year"}`;
+      const key = String(year);
       if (warmed.has(key)) return;
       warmed.add(key);
       try {
-        const data = await window.TeresaStore.loadYear(year);
-        if (!activityId) return;
-        const activity = (data.activities || []).find((item) => item.id === activityId);
-        if (activity?.album?.manifest) await window.TeresaStore.loadAlbum(year, activity);
+        await window.TeresaStore.loadYear(year);
       } catch (_error) {
         // Cho phép lần mở trang thật thử tải lại nếu kết nối làm nóng bị gián đoạn.
         warmed.delete(key);
@@ -393,7 +389,7 @@
     if (!timeline || !window.TeresaStore?.loadIndex) return false;
     try {
       const index = await window.TeresaStore.loadIndex();
-      const years = [...(index.years || [])].filter((item) => Number.isInteger(Number(item.year))).sort((a, b) => Number(a.year) - Number(b.year));
+      const years = [...(index.years || [])].filter((item) => Number.isInteger(Number(item.year)) && window.TeresaSchema?.isYearPublic?.(item.year) !== false).sort((a, b) => Number(a.year) - Number(b.year));
       if (!years.length) return false;
       const oldest = Number(years[0].year);
       const newest = Number(years.at(-1).year);
@@ -414,8 +410,11 @@
         archiveDescription.textContent = `Đang mở kho tư liệu từ năm ${oldest} đến ${newest}…`;
       }
       const counters = [...document.querySelectorAll(".counter")];
-      const totals = index.totals || {};
-      const values = [years.length, Number(totals.members || 0), Number(totals.activities || 0)];
+      const values = [
+        years.length,
+        years.reduce((total, item) => total + Math.max(0, Number(item.members?.total || 0)), 0),
+        years.reduce((total, item) => total + (item.events || []).length, 0),
+      ];
       counters.slice(0, 3).forEach((counter, position) => {
         if (!Number.isFinite(values[position]) || values[position] <= 0) return;
         counter.dataset.target = String(values[position]);
@@ -634,13 +633,15 @@
       return balanced;
     };
 
+    const thumbnailSource = (src = "") => String(src).replace(/\/medium\.jpg(?=$|[?#])/, "/thumb.jpg");
+
     const itemMarkup = (item, index) => {
       const layout = index % 9 === 0 ? " tall" : index % 9 === 4 ? " wide" : "";
       const label = activityGroups[item.group]?.title || item.topic || item.type || "Hoạt động";
       const caption = `${item.title} · ${item.year}`;
       return `
         <button class="gallery-item${layout} reveal" type="button" data-category="${item.group}" data-full="${escapeHTML(item.image)}" data-caption="${escapeHTML(caption)}">
-          <img src="${escapeHTML(item.image)}" alt="${escapeHTML(`${item.title} — năm ${item.year}`)}" loading="lazy" decoding="async" />
+          <img src="${escapeHTML(thumbnailSource(item.image))}"${thumbnailSource(item.image) !== item.image ? ` srcset="${escapeHTML(thumbnailSource(item.image))} 480w, ${escapeHTML(item.image)} 1280w" sizes="(max-width:680px) 92vw, 28vw"` : ""} alt="${escapeHTML(`${item.title} — năm ${item.year}`)}" loading="lazy" decoding="async" />
           <span><small>${escapeHTML(label)} · ${item.year}</small><strong>${escapeHTML(item.title)}</strong></span>
         </button>`;
     };
@@ -691,7 +692,7 @@
       ? window.TeresaStore.loadIndex()
       : fetch("data/index.json", { cache: "no-store" }).then((response) => response.ok ? response.json() : Promise.reject(new Error("Không thể đọc chỉ mục tư liệu.")));
     loadIndex.then((index) => {
-      events = (index.years || [])
+      events = (index.years || []).filter((yearData) => window.TeresaSchema?.isYearPublic?.(yearData.year) !== false)
         .flatMap((yearData) => (yearData.events || []).map((activity) => ({
           ...activity,
           year: Number(yearData.year),
@@ -732,7 +733,7 @@
       archivePromise = (window.TeresaStore?.loadIndex
         ? window.TeresaStore.loadIndex()
         : fetch("data/index.json", { cache: "no-store" }).then((response) => response.ok ? response.json() : Promise.reject(new Error("Không thể đọc chỉ mục tư liệu."))))
-        .then((index) => index.years || [])
+        .then((index) => (index.years || []).filter((yearData) => window.TeresaSchema?.isYearPublic?.(yearData.year) !== false))
         .catch((error) => {
           archivePromise = undefined;
           throw error;

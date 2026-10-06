@@ -2,15 +2,33 @@
   "schemaVersion": 1,
   "year": 2016,
   "activityId": "2016-uniform",
-  "title": "May áo choàng đồng phục",
+  "title": "Ca đoàn quyết định may áo choàng đồng phục",
   "count": 1,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/001.jpg",
-      "caption": "May áo choàng đồng phục · ảnh 1",
-      "alt": "Ảnh tư liệu: May áo choàng đồng phục",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/001.jpg",
-      "variants": {}
+      "id": "media/2016/uniform/589c5343ec67b171/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/589c5343ec67b171/medium.jpg",
+      "alt": "Ca đoàn quyết định may áo choàng đồng phục",
+      "caption": "Ca đoàn quyết định may áo choàng đồng phục",
+      "event": "Ca đoàn quyết định may áo choàng đồng phục",
+      "sourceFilename": "ảnh bìa của cả năm.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/589c5343ec67b171/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/589c5343ec67b171/medium.jpg",
+          "width": 720,
+          "height": 540
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/589c5343ec67b171/original.jpg",
+          "width": 720,
+          "height": 540
+        }
+      }
     }
   ]
 }

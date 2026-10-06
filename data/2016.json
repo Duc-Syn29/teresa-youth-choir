@@ -9,7 +9,31 @@
     "summary": "Năm thứ hai – nhưng là năm của rất nhiều lần đầu tiên.",
     "verse": "“Hãy nhớ lại những ngày xưa tháng cũ, và ngẫm xem từng thế hệ qua rồi”",
     "longDescription": "Nếu năm 2015 là năm Ca đoàn Giới Trẻ Têrêsa được khai sinh, thì năm 2016 là năm thứ hai – năm ca đoàn bắt đầu tập bước đi bằng chính đôi chân của mình. Ca đoàn khi ấy vẫn còn rất trẻ, rất nhỏ bé và mọi thứ đều chưa thực sự ổn định. Những con người gặp nhau từ nhiều miền quê khác nhau, cùng học tập, làm việc và sinh sống giữa lòng Hà Nội, rồi tình cờ trở thành anh chị em trong một gia đình mang tên Ca đoàn Giới Trẻ Têrêsa. Năm 2016 vì thế không chỉ đơn thuần là một năm hoạt động của ca đoàn. Đó là năm những viên gạch đầu tiên tiếp tục được đặt xuống. Mỗi buổi tập, mỗi Thánh lễ, mỗi chuyến đi, mỗi lần gặp gỡ đều góp một phần nhỏ để hình thành nên diện mạo của Ca đoàn.\n\nNăm thứ hai – nhưng là năm của rất nhiều lần đầu tiên. Và có lẽ, nhiều năm sau khi nhìn lại, chính những “lần đầu tiên” giản dị ấy lại trở thành những ký ức quý giá nhất của một thời tuổi trẻ. Có thể nói, năm nay là năm ca đoàn bắt đầu định hình rõ hơn về tổ chức, đời sống đức tin và tinh thần phục vụ. Những buổi tập hát, những chương trình sinh hoạt, những chuyến đi, những cuộc thi và đặc biệt là ngày lễ quan thầy đã trở thành những viên gạch đầu tiên xây nên truyền thống của Ca đoàn Giới Trẻ Têrêsa trong những năm sau này.",
-    "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/001.jpg"
+    "coverImage": {
+      "id": "media/2016/uniform/589c5343ec67b171/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/589c5343ec67b171/medium.jpg",
+      "alt": "Ca đoàn quyết định may áo choàng đồng phục",
+      "caption": "Ca đoàn quyết định may áo choàng đồng phục",
+      "event": "Ca đoàn quyết định may áo choàng đồng phục",
+      "sourceFilename": "ảnh bìa của cả năm.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/589c5343ec67b171/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/589c5343ec67b171/medium.jpg",
+          "width": 720,
+          "height": 540
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/589c5343ec67b171/original.jpg",
+          "width": 720,
+          "height": 540
+        }
+      }
+    }
   },
   "leadership": {
     "chaplain": {
@@ -123,25 +147,79 @@
         "count": 6,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/001.jpg",
-            "caption": "Tiệc tất niên ca đoàn · ảnh 1",
-            "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/001.jpg",
-            "variants": {}
+            "id": "media/2016/year-end/8c0f47d69948e46d/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/8c0f47d69948e46d/medium.jpg",
+            "alt": "Bữa tiệc tất niên thân tình của ca đoàn",
+            "caption": "Bữa tiệc tất niên thân tình của ca đoàn",
+            "event": "Tiệc tất niên ca đoàn",
+            "sourceFilename": "1787136042905_1995884631902468284_7736263391661925970_fde410cdf5b0c015d65a030888f584ad.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/8c0f47d69948e46d/thumb.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/8c0f47d69948e46d/medium.jpg",
+                "width": 1280,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/8c0f47d69948e46d/original.jpg",
+                "width": 2048,
+                "height": 1152
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/002.jpg",
-            "caption": "Tiệc tất niên ca đoàn · ảnh 2",
-            "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/002.jpg",
-            "variants": {}
+            "id": "media/2016/year-end/792c5755d9c33fd8/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/792c5755d9c33fd8/medium.jpg",
+            "alt": "Các ca viên cùng sum họp cuối năm",
+            "caption": "Các ca viên cùng sum họp cuối năm",
+            "event": "Tiệc tất niên ca đoàn",
+            "sourceFilename": "1787136043743_1995884631902468284_7736263391661925970_fddd9345c01954c6447ae2b0d49e0139.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/792c5755d9c33fd8/thumb.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/792c5755d9c33fd8/medium.jpg",
+                "width": 1280,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/792c5755d9c33fd8/original.jpg",
+                "width": 2048,
+                "height": 1152
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/003.jpg",
-            "caption": "Tiệc tất niên ca đoàn · ảnh 3",
-            "alt": "Ảnh tư liệu: Tiệc tất niên ca đoàn",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/003.jpg",
-            "variants": {}
+            "id": "media/2016/year-end/1f74da159a2e82f4/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/1f74da159a2e82f4/medium.jpg",
+            "alt": "Niềm vui gặp gỡ trong tiệc tất niên",
+            "caption": "Niềm vui gặp gỡ trong tiệc tất niên",
+            "event": "Tiệc tất niên ca đoàn",
+            "sourceFilename": "1787136045573_1995884631902468284_7736263391661925970_1898576d87211faeddbc8d8a3d9eb1c4.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/1f74da159a2e82f4/thumb.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/1f74da159a2e82f4/medium.jpg",
+                "width": 1280,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/year-end/1f74da159a2e82f4/original.jpg",
+                "width": 2048,
+                "height": 1152
+              }
+            }
           }
         ]
       }
@@ -154,31 +232,109 @@
       "title": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
       "description": "Vào đầu tháng 4, Ca đoàn Giới Trẻ Têrêsa cũng có cơ hội được hòa mình vào những hoạt động chung của Giới trẻ Tổng Giáo Phận Hà Nội.",
       "body": "Vào đầu tháng 4, Ca đoàn Giới Trẻ Têrêsa cũng có cơ hội được hòa mình vào những hoạt động chung của Giới trẻ Tổng Giáo Phận Hà Nội. Ngày 09/04, Chúa Nhật Lễ Lá, các thành viên ca đoàn được trở về tham dự Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa. Đây là một dịp đặc biệt để các bạn trẻ cùng gặp gỡ, cầu nguyện, chia sẻ và sống bầu khí hiệp thông với hơn 5000 bạn trẻ đến từ nhiều nơi. Trong bài giảng tại đại hội, Đức Hồng Y Phê-rô mời gọi các bạn trẻ hãy biết nói xin vâng với Thánh ý Chúa. Sống theo thánh ý Chúa, các bạn trẻ sẽ tìm thấy sự bình an và niềm vui của chính Chúa. Chuyến tham dự đại hội này không chỉ mang đến những trải nghiệm mới mẻ mà còn giúp các ca viên hiểu rằng sứ mạng của một ca đoàn không chỉ dừng lại ở việc hát trong Thánh lễ, mà anh chị em ca viên còn được mời gọi bước ra khỏi lối sống sinh hoạt quen thuộc của mình để gặp gỡ, kết nối và cùng sống đức tin với cộng đoàn rộng lớn hơn. Những chuyến đi như thế đã góp phần mở rộng đời sống của ca đoàn, để mỗi thành viên không chỉ biết đến nhau qua những buổi tập hát mà còn cùng nhau chia sẻ những khoảnh khắc đáng nhớ trong đời sống đức tin.",
-      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/001.jpg",
+      "coverImage": {
+        "id": "media/2016/phu-da/e141eb85a21c4fd9/original.jpg",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/e141eb85a21c4fd9/medium.jpg",
+        "alt": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
+        "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
+        "event": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
+        "sourceFilename": "ảnh bìa.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/e141eb85a21c4fd9/thumb.jpg",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/e141eb85a21c4fd9/medium.jpg",
+            "width": 1000,
+            "height": 666
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/e141eb85a21c4fd9/original.jpg",
+            "width": 1000,
+            "height": 666
+          }
+        }
+      },
       "album": {
         "manifest": "data/albums/2016/2016-phu-da.json",
         "count": 10,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/001.jpg",
-            "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 1",
-            "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/001.jpg",
-            "variants": {}
+            "id": "media/2016/phu-da/a18aded16dd4d078/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/a18aded16dd4d078/medium.jpg",
+            "alt": "Cộng đoàn quy tụ tại Đại hội Giới trẻ Phú Đa",
+            "caption": "Cộng đoàn quy tụ tại Đại hội Giới trẻ Phú Đa",
+            "event": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
+            "sourceFilename": "đh giới trẻ phú đa3.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/a18aded16dd4d078/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/a18aded16dd4d078/medium.jpg",
+                "width": 1200,
+                "height": 800
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/a18aded16dd4d078/original.jpg",
+                "width": 1200,
+                "height": 800
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/002.jpg",
-            "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 2",
-            "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/002.jpg",
-            "variants": {}
+            "id": "media/2016/phu-da/f2344944918690a8/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/f2344944918690a8/medium.jpg",
+            "alt": "Các bạn trẻ tham gia chương trình Đại hội",
+            "caption": "Các bạn trẻ tham gia chương trình Đại hội",
+            "event": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
+            "sourceFilename": "đh giới trẻ phú đa7.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/f2344944918690a8/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/f2344944918690a8/medium.jpg",
+                "width": 1000,
+                "height": 666
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/f2344944918690a8/original.jpg",
+                "width": 1000,
+                "height": 666
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/003.jpg",
-            "caption": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa · ảnh 3",
-            "alt": "Ảnh tư liệu: Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/003.jpg",
-            "variants": {}
+            "id": "media/2016/phu-da/6f2715ae9b002b26/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/6f2715ae9b002b26/medium.jpg",
+            "alt": "Giây phút cầu nguyện dưới ánh nến",
+            "caption": "Giây phút cầu nguyện dưới ánh nến",
+            "event": "Đại hội Giới trẻ Mùa Chay tại Giáo xứ Phú Đa",
+            "sourceFilename": "đh giới trẻ phú đa11.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/6f2715ae9b002b26/thumb.jpg",
+                "width": 480,
+                "height": 321
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/6f2715ae9b002b26/medium.jpg",
+                "width": 1024,
+                "height": 684
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/phu-da/6f2715ae9b002b26/original.jpg",
+                "width": 1024,
+                "height": 684
+              }
+            }
           }
         ]
       }
@@ -191,17 +347,59 @@
       "title": "Ca đoàn quyết định may áo choàng đồng phục",
       "description": "Ngày 13/07/2016, Ban Điều hành ca đoàn cùng nhau thống nhất một quyết định quan trọng: tiến hành may đồng phục cho các ca viên.",
       "body": "Ngày 13/07/2016, Ban Điều hành ca đoàn cùng nhau thống nhất một quyết định quan trọng: tiến hành may đồng phục cho các ca viên. Đây là một ý tưởng quan trọng mang  ý nghĩa rất lớn đối với một ca đoàn còn non trẻ. Việc có một bộ đồng phục chung không chỉ giúp tạo nên hình ảnh đẹp, sự đồng nhất khi phục vụ mà còn góp phần xây dựng bản sắc riêng của Ca đoàn Giới Trẻ Têrêsa. “Màu cờ sắc áo” từ đó không chỉ được hiểu theo nghĩa bên ngoài. Đó còn là dấu hiệu của sự hiệp nhất. Mỗi ca viên đến từ một hoàn cảnh khác nhau, nhưng khi khoác lên mình chiếc áo của ca đoàn, tất cả cùng trở thành một gia đình, cùng mang một sứ mạng và cùng phục vụ một Thiên Chúa. Quyết định may đồng phục cũng cho thấy ca đoàn bắt đầu có những bước tiến trong việc xây dựng tổ chức và ý thức hơn về hình ảnh của mình trong cộng đoàn góp phần tạo đà phát triển ca đoàn hơn trong thời gian tới.",
-      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/001.jpg",
+      "coverImage": {
+        "id": "media/2016/uniform/589c5343ec67b171/original.jpg",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/589c5343ec67b171/medium.jpg",
+        "alt": "Ca đoàn quyết định may áo choàng đồng phục",
+        "caption": "Ca đoàn quyết định may áo choàng đồng phục",
+        "event": "Ca đoàn quyết định may áo choàng đồng phục",
+        "sourceFilename": "ảnh bìa của cả năm.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/589c5343ec67b171/thumb.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/589c5343ec67b171/medium.jpg",
+            "width": 720,
+            "height": 540
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/589c5343ec67b171/original.jpg",
+            "width": 720,
+            "height": 540
+          }
+        }
+      },
       "album": {
         "manifest": "data/albums/2016/2016-uniform.json",
         "count": 1,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/001.jpg",
-            "caption": "May áo choàng đồng phục · ảnh 1",
-            "alt": "Ảnh tư liệu: May áo choàng đồng phục",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/001.jpg",
-            "variants": {}
+            "id": "media/2016/uniform/589c5343ec67b171/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/589c5343ec67b171/medium.jpg",
+            "alt": "Ca đoàn trong áo choàng đồng phục",
+            "caption": "Ca đoàn trong áo choàng đồng phục",
+            "event": "Ca đoàn quyết định may áo choàng đồng phục",
+            "sourceFilename": "ảnh bìa của cả năm.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/589c5343ec67b171/thumb.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/589c5343ec67b171/medium.jpg",
+                "width": 720,
+                "height": 540
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/uniform/589c5343ec67b171/original.jpg",
+                "width": 720,
+                "height": 540
+              }
+            }
           }
         ]
       }
@@ -220,25 +418,79 @@
         "count": 16,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/001.jpg",
-            "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 1",
-            "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/001.jpg",
-            "variants": {}
+            "id": "media/2016/dong-chiem/a91c3871583e80ee/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/a91c3871583e80ee/medium.jpg",
+            "alt": "Sinh hoạt chung trong chuyến tĩnh tâm Đồng Chiêm",
+            "caption": "Sinh hoạt chung trong chuyến tĩnh tâm Đồng Chiêm",
+            "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm",
+            "sourceFilename": "1786532850191_1995884631902468284_7736263391661925970_7ba4512f34c16b409968191e62ac7345.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/a91c3871583e80ee/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/a91c3871583e80ee/medium.jpg",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/a91c3871583e80ee/original.jpg",
+                "width": 1334,
+                "height": 889
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/002.jpg",
-            "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 2",
-            "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/002.jpg",
-            "variants": {}
+            "id": "media/2016/dong-chiem/992356dcd63ca62e/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/992356dcd63ca62e/medium.jpg",
+            "alt": "Các ca viên gặp gỡ và chia sẻ",
+            "caption": "Các ca viên gặp gỡ và chia sẻ",
+            "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm",
+            "sourceFilename": "1787136612255_1995884631902468284_7736263391661925970_0228176197eb2b017b690e32da77eafc.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/992356dcd63ca62e/thumb.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/992356dcd63ca62e/medium.jpg",
+                "width": 960,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/992356dcd63ca62e/original.jpg",
+                "width": 960,
+                "height": 720
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/003.jpg",
-            "caption": "Tĩnh tâm tại Giáo xứ Đồng Chiêm · ảnh 3",
-            "alt": "Ảnh tư liệu: Tĩnh tâm tại Giáo xứ Đồng Chiêm",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/003.jpg",
-            "variants": {}
+            "id": "media/2016/dong-chiem/f2cb316b67d9a6d0/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/f2cb316b67d9a6d0/medium.jpg",
+            "alt": "Sinh hoạt gắn kết trong ngày tĩnh tâm",
+            "caption": "Sinh hoạt gắn kết trong ngày tĩnh tâm",
+            "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm",
+            "sourceFilename": "1787136612295_1995884631902468284_7736263391661925970_aa54cb0988efbd16e4fa44345f068d4f.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/f2cb316b67d9a6d0/thumb.jpg",
+                "width": 480,
+                "height": 480
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/f2cb316b67d9a6d0/medium.jpg",
+                "width": 960,
+                "height": 960
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/f2cb316b67d9a6d0/original.jpg",
+                "width": 960,
+                "height": 960
+              }
+            }
           }
         ]
       }
@@ -257,25 +509,79 @@
         "count": 3,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/001.jpg",
-            "caption": "Cuộc thi Giáo lý – Kinh Thánh xa quê · ảnh 1",
-            "alt": "Ảnh tư liệu: Cuộc thi Giáo lý – Kinh Thánh xa quê",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/001.jpg",
-            "variants": {}
+            "id": "media/2016/scripture/9520eca2e141d552/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/9520eca2e141d552/medium.jpg",
+            "alt": "Các ca viên tham gia cuộc thi Giáo lý",
+            "caption": "Các ca viên tham gia cuộc thi Giáo lý",
+            "event": "Cuộc thi Giáo lý: “Giới trẻ cùng tìm hiểu về Kinh Thánh và Gia đình Công giáo Xa quê Hà Nội”",
+            "sourceFilename": "thi giáo lý 1.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/9520eca2e141d552/thumb.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/9520eca2e141d552/medium.jpg",
+                "width": 1184,
+                "height": 888
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/9520eca2e141d552/original.jpg",
+                "width": 1184,
+                "height": 888
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/002.jpg",
-            "caption": "Cuộc thi Giáo lý – Kinh Thánh xa quê · ảnh 2",
-            "alt": "Ảnh tư liệu: Cuộc thi Giáo lý – Kinh Thánh xa quê",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/002.jpg",
-            "variants": {}
+            "id": "media/2016/scripture/ad687f36944677d7/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/ad687f36944677d7/medium.jpg",
+            "alt": "Ca đoàn cùng cổ vũ cuộc thi",
+            "caption": "Ca đoàn cùng cổ vũ cuộc thi",
+            "event": "Cuộc thi Giáo lý: “Giới trẻ cùng tìm hiểu về Kinh Thánh và Gia đình Công giáo Xa quê Hà Nội”",
+            "sourceFilename": "thi giáo lý 2.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/ad687f36944677d7/thumb.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/ad687f36944677d7/medium.jpg",
+                "width": 1184,
+                "height": 888
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/ad687f36944677d7/original.jpg",
+                "width": 1184,
+                "height": 888
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/003.jpg",
-            "caption": "Cuộc thi Giáo lý – Kinh Thánh xa quê · ảnh 3",
-            "alt": "Ảnh tư liệu: Cuộc thi Giáo lý – Kinh Thánh xa quê",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/003.jpg",
-            "variants": {}
+            "id": "media/2016/scripture/d127e9ac84a3ecfb/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/d127e9ac84a3ecfb/medium.jpg",
+            "alt": "Các ca viên trong đêm thi Giáo lý",
+            "caption": "Các ca viên trong đêm thi Giáo lý",
+            "event": "Cuộc thi Giáo lý: “Giới trẻ cùng tìm hiểu về Kinh Thánh và Gia đình Công giáo Xa quê Hà Nội”",
+            "sourceFilename": "thi giáo lý 3.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/d127e9ac84a3ecfb/thumb.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/d127e9ac84a3ecfb/medium.jpg",
+                "width": 1184,
+                "height": 888
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/scripture/d127e9ac84a3ecfb/original.jpg",
+                "width": 1184,
+                "height": 888
+              }
+            }
           }
         ]
       }
@@ -288,31 +594,109 @@
       "title": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
       "description": "Một trong những dấu mốc quan trọng nhất của năm 2016 chính là ngày lễ kính Thánh Têrêsa Hài Đồng Giêsu – vị Thánh quan thầy mà ca đoàn đã chọn để đồng hành và nâng đỡ trên hành trình phục vụ.",
       "body": "Một trong những dấu mốc quan trọng nhất của năm 2016 chính là ngày lễ kính Thánh Têrêsa Hài Đồng Giêsu – vị Thánh quan thầy mà ca đoàn đã chọn để đồng hành và nâng đỡ trên hành trình phục vụ.\n\nVào lúc 20h00 ngày 04/10/2016, tại Nguyện đường Giêrađô – Giáo xứ Thái Hà, Ca đoàn Giới Trẻ Xa quê Hà Nội long trọng cử hành Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu, bổn mạng của ca đoàn. Thánh lễ có sự hiện diện của quý Cha đặc trách Xa quê, trong đó có Cha Giuse Trần Hữu Hoan, quý Hội đồng Mục vụ cùng đông đảo các bạn trẻ Công giáo Xa quê đang sinh sống, học tập và làm việc tại Hà Nội. Trong bài giảng, Cha phó đặc trách đã chia sẻ những hình ảnh rất gần gũi về một ca đoàn còn nhỏ bé nhưng đầy tình hiệp nhất và đơn sơ. Các ca viên phần lớn là những người trẻ xa quê, vừa học tập, vừa làm việc, nhưng vẫn sẵn sàng hy sinh thời gian, tâm hồn và sức lực để phục vụ Chúa. Mỗi buổi tập hát hàng tuần tại Giáo xứ Thái Hà không đơn giản chỉ là những giờ tập hát. Mà đó còn là những giờ phút các bạn trẻ cùng gặp gỡ, cùng cầu nguyện và cùng xây dựng tình huynh đệ. Cha nhắc nhở rằng một ca đoàn mới thành lập chắc chắn sẽ gặp nhiều khó khăn trong những ngày đầu. Nhưng mọi sự đều cần có một khởi đầu. Từ một hạt giống nhỏ bé, nếu biết chăm sóc và phó thác cho Chúa, ca đoàn sẽ từng bước lớn lên. Đó cũng chính là lời mời gọi dành cho mỗi ca viên: hãy phục vụ bằng tất cả khả năng của mình, bằng một tâm hồn đơn sơ, khiêm nhường và quảng đại; hãy để mỗi lời ca trở thành một lời cầu nguyện và mỗi lần phục vụ trở thành một cách để dâng mình cho Chúa.\n\nNgày lễ quan thầy năm ấy vì thế không chỉ là một ngày vui của ca đoàn, mà còn là dịp để mỗi thành viên nhìn lại lý tưởng phục vụ của mình. Ca đoàn được mời gọi tiếp tục bước đi dưới sự đồng hành của Thánh Têrêsa Hài Đồng Giêsu, biết sống đơn sơ, phó thác và không ngừng canh tân đời sống đức tin. Sau thánh lễ vô cùng ý nghĩa này, anh chị em ca viên còn cùng nhau tham dự một bữa tiệc nhỏ trong niềm vui hân hoan mừng ngày lễ quan thầy.",
-      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/001.jpg",
+      "coverImage": {
+        "id": "media/2016/patron/13767e7cf1a52d25/original.jpg",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/13767e7cf1a52d25/medium.jpg",
+        "alt": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+        "caption": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+        "event": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+        "sourceFilename": "ảnh bìa.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/13767e7cf1a52d25/thumb.jpg",
+            "width": 360,
+            "height": 480
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/13767e7cf1a52d25/medium.jpg",
+            "width": 720,
+            "height": 960
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/13767e7cf1a52d25/original.jpg",
+            "width": 720,
+            "height": 960
+          }
+        }
+      },
       "album": {
         "manifest": "data/albums/2016/2016-patron.json",
         "count": 12,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/001.jpg",
-            "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 1",
-            "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/001.jpg",
-            "variants": {}
+            "id": "media/2016/patron/aaeb497d902c2115/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/aaeb497d902c2115/medium.jpg",
+            "alt": "Ca viên phục vụ trong ngày lễ Bổn mạng",
+            "caption": "Ca viên phục vụ trong ngày lễ Bổn mạng",
+            "event": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+            "sourceFilename": "lequanthay20165.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/aaeb497d902c2115/thumb.jpg",
+                "width": 360,
+                "height": 480
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/aaeb497d902c2115/medium.jpg",
+                "width": 720,
+                "height": 960
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/aaeb497d902c2115/original.jpg",
+                "width": 720,
+                "height": 960
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/002.jpg",
-            "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 2",
-            "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/002.jpg",
-            "variants": {}
+            "id": "media/2016/patron/1356e05ff2af6c31/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/1356e05ff2af6c31/medium.jpg",
+            "alt": "Cộng đoàn tham dự Thánh lễ Bổn mạng",
+            "caption": "Cộng đoàn tham dự Thánh lễ Bổn mạng",
+            "event": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+            "sourceFilename": "lequanthay20169.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/1356e05ff2af6c31/thumb.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/1356e05ff2af6c31/medium.jpg",
+                "width": 720,
+                "height": 405
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/1356e05ff2af6c31/original.jpg",
+                "width": 720,
+                "height": 405
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/003.jpg",
-            "caption": "Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 3",
-            "alt": "Ảnh tư liệu: Mừng kính Thánh Têrêsa Hài Đồng Giêsu",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/003.jpg",
-            "variants": {}
+            "id": "media/2016/patron/549f49f562fd0c76/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/549f49f562fd0c76/medium.jpg",
+            "alt": "Ca đoàn cất tiếng hát trong Thánh lễ",
+            "caption": "Ca đoàn cất tiếng hát trong Thánh lễ",
+            "event": "Thánh lễ mừng kính Thánh Têrêsa Hài Đồng Giêsu – Bổn mạng ca đoàn và kỷ niệm 1 năm thành lập",
+            "sourceFilename": "lequanthay201612.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/549f49f562fd0c76/thumb.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/549f49f562fd0c76/medium.jpg",
+                "width": 960,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/patron/549f49f562fd0c76/original.jpg",
+                "width": 960,
+                "height": 720
+              }
+            }
           }
         ]
       }

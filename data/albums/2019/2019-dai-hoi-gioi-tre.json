@@ -2,57 +2,183 @@
   "schemaVersion": 1,
   "year": 2019,
   "activityId": "2019-dai-hoi-gioi-tre",
-  "title": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
+  "title": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại DCCT Huế",
   "count": 7,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/001.jpg",
-      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 1",
-      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/001.jpg",
-      "variants": {}
+      "id": "media/2019/dai-hoi-gioi-tre/11025ad338e55379/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/11025ad338e55379/medium.jpg",
+      "alt": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại DCCT Huế",
+      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại DCCT Huế",
+      "event": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại DCCT Huế",
+      "sourceFilename": "ảnh bìa.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/11025ad338e55379/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/11025ad338e55379/medium.jpg",
+          "width": 960,
+          "height": 639
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/11025ad338e55379/original.jpg",
+          "width": 960,
+          "height": 639
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/002.jpg",
-      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 2",
-      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/002.jpg",
-      "variants": {}
+      "id": "media/2019/dai-hoi-gioi-tre/a21b410e32faf84a/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/a21b410e32faf84a/medium.jpg",
+      "alt": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại DCCT Huế",
+      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại DCCT Huế",
+      "event": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại DCCT Huế",
+      "sourceFilename": "đại hội giới trẻ 1.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/a21b410e32faf84a/thumb.jpg",
+          "width": 480,
+          "height": 250
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/a21b410e32faf84a/medium.jpg",
+          "width": 960,
+          "height": 500
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/a21b410e32faf84a/original.jpg",
+          "width": 960,
+          "height": 500
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/003.jpg",
-      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 3",
-      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/003.jpg",
-      "variants": {}
+      "id": "media/2019/dai-hoi-gioi-tre/ea4cab2fe1d03217/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/ea4cab2fe1d03217/medium.jpg",
+      "alt": "Hành trình tham dự Đại hội Giới trẻ tại Huế",
+      "caption": "Hành trình tham dự Đại hội Giới trẻ tại Huế",
+      "event": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại DCCT Huế",
+      "sourceFilename": "đại hội giới trẻ 2.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/ea4cab2fe1d03217/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/ea4cab2fe1d03217/medium.jpg",
+          "width": 960,
+          "height": 540
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/ea4cab2fe1d03217/original.jpg",
+          "width": 960,
+          "height": 540
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/004.jpg",
-      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 4",
-      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/004.jpg",
-      "variants": {}
+      "id": "media/2019/dai-hoi-gioi-tre/b1130a7d6260bbee/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/b1130a7d6260bbee/medium.jpg",
+      "alt": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại DCCT Huế",
+      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại DCCT Huế",
+      "event": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại DCCT Huế",
+      "sourceFilename": "đại hội giới trẻ 4.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/b1130a7d6260bbee/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/b1130a7d6260bbee/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/b1130a7d6260bbee/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/005.jpg",
-      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 5",
-      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/005.jpg",
-      "variants": {}
+      "id": "media/2019/dai-hoi-gioi-tre/190b96bbe487055f/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/190b96bbe487055f/medium.jpg",
+      "alt": "Ca viên gặp gỡ trong chương trình Đại hội",
+      "caption": "Ca viên gặp gỡ trong chương trình Đại hội",
+      "event": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại DCCT Huế",
+      "sourceFilename": "đại hội giới trẻ 5.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/190b96bbe487055f/thumb.jpg",
+          "width": 480,
+          "height": 227
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/190b96bbe487055f/medium.jpg",
+          "width": 1280,
+          "height": 605
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/190b96bbe487055f/original.jpg",
+          "width": 1280,
+          "height": 605
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/006.jpg",
-      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 6",
-      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/006.jpg",
-      "variants": {}
+      "id": "media/2019/dai-hoi-gioi-tre/f155a9ecdf33064a/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/f155a9ecdf33064a/medium.jpg",
+      "alt": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại DCCT Huế",
+      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại DCCT Huế",
+      "event": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại DCCT Huế",
+      "sourceFilename": "đại hội giới trẻ 6.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/f155a9ecdf33064a/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/f155a9ecdf33064a/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/f155a9ecdf33064a/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/007.jpg",
-      "caption": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất · ảnh 7",
-      "alt": "Ảnh tư liệu: Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/007.jpg",
-      "variants": {}
+      "id": "media/2019/dai-hoi-gioi-tre/31133f5df5b2b610/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/31133f5df5b2b610/medium.jpg",
+      "alt": "Không gian thành phố Huế trong chuyến đi",
+      "caption": "Không gian thành phố Huế trong chuyến đi",
+      "event": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại DCCT Huế",
+      "sourceFilename": "đại hội giới trẻ 7.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/31133f5df5b2b610/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/31133f5df5b2b610/medium.jpg",
+          "width": 960,
+          "height": 540
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/31133f5df5b2b610/original.jpg",
+          "width": 960,
+          "height": 540
+        }
+      }
     }
   ]
 }

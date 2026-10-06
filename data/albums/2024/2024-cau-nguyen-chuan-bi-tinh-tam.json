@@ -3,105 +3,137 @@
   "year": 2024,
   "activityId": "2024-cau-nguyen-chuan-bi-tinh-tam",
   "title": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
-  "topic": "Cầu nguyện",
-  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/001-ce86f89652/medium.jpg",
-  "count": 4,
+  "count": 5,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/001-ce86f89652/medium.jpg",
-      "alt": "Ca đoàn cầu nguyện sau giờ tập hát ngày 07/06/2024.",
-      "caption": "Ca đoàn cầu nguyện sau giờ tập hát ngày 07/06/2024.",
-      "id": "media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/001-ce86f89652/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/480b4e288d2cc4c92484a0dd/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/480b4e288d2cc4c92484a0dd/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/001-ce86f89652/thumb.jpg",
-          "width": 480,
-          "height": 480
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/001-ce86f89652/medium.jpg",
-          "width": 1280,
-          "height": 1280
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/001-ce86f89652/original.jpg",
-          "width": 2048,
-          "height": 2048
-        }
-      },
-      "event": "Cầu nguyện chuẩn bị kỳ tĩnh tâm"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/002-48e45e413b/medium.jpg",
-      "alt": "Ca đoàn cầu nguyện sau giờ tập hát ngày 07/06/2024.",
-      "caption": "Ca đoàn cầu nguyện sau giờ tập hát ngày 07/06/2024.",
-      "id": "media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/002-48e45e413b/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/002-48e45e413b/thumb.jpg",
-          "width": 480,
-          "height": 480
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/002-48e45e413b/medium.jpg",
-          "width": 1280,
-          "height": 1280
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/002-48e45e413b/original.jpg",
-          "width": 2048,
-          "height": 2048
-        }
-      },
-      "event": "Cầu nguyện chuẩn bị kỳ tĩnh tâm"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/003-ba2a3982de/medium.jpg",
-      "alt": "Ca đoàn cầu nguyện sau giờ tập hát ngày 07/06/2024.",
-      "caption": "Ca đoàn cầu nguyện sau giờ tập hát ngày 07/06/2024.",
-      "id": "media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/003-ba2a3982de/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/003-ba2a3982de/thumb.jpg",
-          "width": 480,
-          "height": 480
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/003-ba2a3982de/medium.jpg",
-          "width": 1280,
-          "height": 1280
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/003-ba2a3982de/original.jpg",
-          "width": 2048,
-          "height": 2048
-        }
-      },
-      "event": "Cầu nguyện chuẩn bị kỳ tĩnh tâm"
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/004-4e2802f70e/medium.jpg",
-      "alt": "Ca đoàn cầu nguyện sau giờ tập hát ngày 07/06/2024.",
-      "caption": "Ca đoàn cầu nguyện sau giờ tập hát ngày 07/06/2024.",
-      "id": "media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/004-4e2802f70e/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/004-4e2802f70e/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/480b4e288d2cc4c92484a0dd/thumb.webp",
           "width": 480,
           "height": 360
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/004-4e2802f70e/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/480b4e288d2cc4c92484a0dd/medium.webp",
           "width": 590,
           "height": 443
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-cau-nguyen-chuan-bi-tinh-tam/004-4e2802f70e/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/480b4e288d2cc4c92484a0dd/medium.webp",
           "width": 590,
           "height": 443
         }
       },
-      "event": "Cầu nguyện chuẩn bị kỳ tĩnh tâm"
+      "alt": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+      "caption": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+      "event": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+      "sourceFilename": "ảnh bìa.jpg",
+      "sourceDirectory": "Cầu Nguyện 7-6-2024"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e74de23718f0c1adc0272efc/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e74de23718f0c1adc0272efc/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e74de23718f0c1adc0272efc/thumb.webp",
+          "width": 480,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e74de23718f0c1adc0272efc/medium.webp",
+          "width": 1280,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e74de23718f0c1adc0272efc/original.webp",
+          "width": 2048,
+          "height": 2048
+        }
+      },
+      "alt": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+      "caption": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+      "event": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+      "sourceFilename": "486243092_1601883807257446_1978764668211845003_n.jpg",
+      "sourceDirectory": "Cầu Nguyện 7-6-2024"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/85f5abb14caf2599fc8889dc/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/85f5abb14caf2599fc8889dc/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/85f5abb14caf2599fc8889dc/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/85f5abb14caf2599fc8889dc/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/85f5abb14caf2599fc8889dc/original.webp",
+          "width": 2048,
+          "height": 1536
+        }
+      },
+      "alt": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+      "caption": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+      "event": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+      "sourceFilename": "486513747_1602391797206647_6885357434904920541_n.jpg",
+      "sourceDirectory": "Cầu Nguyện 7-6-2024"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2ab3b4e64e144f2c40e2cb94/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2ab3b4e64e144f2c40e2cb94/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2ab3b4e64e144f2c40e2cb94/thumb.webp",
+          "width": 480,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2ab3b4e64e144f2c40e2cb94/medium.webp",
+          "width": 1280,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2ab3b4e64e144f2c40e2cb94/original.webp",
+          "width": 2048,
+          "height": 2048
+        }
+      },
+      "alt": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+      "caption": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+      "event": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+      "sourceFilename": "486594535_1601883670590793_5148210887097446602_n.jpg",
+      "sourceDirectory": "Cầu Nguyện 7-6-2024"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5db1f7eca21eeb736e074264/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5db1f7eca21eeb736e074264/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5db1f7eca21eeb736e074264/thumb.webp",
+          "width": 480,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5db1f7eca21eeb736e074264/medium.webp",
+          "width": 1280,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5db1f7eca21eeb736e074264/original.webp",
+          "width": 2048,
+          "height": 2048
+        }
+      },
+      "alt": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+      "caption": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+      "event": "Cầu nguyện chuẩn bị kỳ tĩnh tâm",
+      "sourceFilename": "486605436_1601883713924122_3829458689343836890_n.jpg",
+      "sourceDirectory": "Cầu Nguyện 7-6-2024"
     }
   ]
 }

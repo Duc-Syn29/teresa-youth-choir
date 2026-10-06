@@ -3,8 +3,241 @@
   "year": 2024,
   "activityId": "2024-ruoc-kieng-phuc-sinh",
   "title": "Rước kiệu mừng Chúa Phục Sinh",
-  "topic": "Phục Sinh",
-  "coverImage": "",
-  "count": 0,
-  "images": []
+  "count": 9,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e49676f8b48472ce5976fbb1/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e49676f8b48472ce5976fbb1/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e49676f8b48472ce5976fbb1/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e49676f8b48472ce5976fbb1/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e49676f8b48472ce5976fbb1/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Rước kiệu mừng Chúa Phục Sinh",
+      "caption": "Rước kiệu mừng Chúa Phục Sinh",
+      "event": "Rước kiệu mừng Chúa Phục Sinh",
+      "sourceFilename": "ảnh bìa.jpg",
+      "sourceDirectory": "Rước Kiệu Phục sinh 31-3-2024"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/3d6cdc770a952c4be41c6c45/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/3d6cdc770a952c4be41c6c45/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/3d6cdc770a952c4be41c6c45/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/3d6cdc770a952c4be41c6c45/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/3d6cdc770a952c4be41c6c45/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Rước kiệu mừng Chúa Phục Sinh",
+      "caption": "Rước kiệu mừng Chúa Phục Sinh",
+      "event": "Rước kiệu mừng Chúa Phục Sinh",
+      "sourceFilename": "482028800_1601683380610822_8995635220079022713_n.jpg",
+      "sourceDirectory": "Rước Kiệu Phục sinh 31-3-2024"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/85ed30db97a780be6752aba1/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/85ed30db97a780be6752aba1/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/85ed30db97a780be6752aba1/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/85ed30db97a780be6752aba1/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/85ed30db97a780be6752aba1/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Rước kiệu mừng Chúa Phục Sinh",
+      "caption": "Rước kiệu mừng Chúa Phục Sinh",
+      "event": "Rước kiệu mừng Chúa Phục Sinh",
+      "sourceFilename": "486326216_1601683117277515_1993295823901909497_n.jpg",
+      "sourceDirectory": "Rước Kiệu Phục sinh 31-3-2024"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a8718814c2b04a7f0dd3b5c3/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a8718814c2b04a7f0dd3b5c3/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a8718814c2b04a7f0dd3b5c3/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a8718814c2b04a7f0dd3b5c3/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a8718814c2b04a7f0dd3b5c3/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Rước kiệu mừng Chúa Phục Sinh",
+      "caption": "Rước kiệu mừng Chúa Phục Sinh",
+      "event": "Rước kiệu mừng Chúa Phục Sinh",
+      "sourceFilename": "486365475_1601683343944159_6983553602811531325_n.jpg",
+      "sourceDirectory": "Rước Kiệu Phục sinh 31-3-2024"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9c6660f2ff7350133a1d6df9/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9c6660f2ff7350133a1d6df9/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9c6660f2ff7350133a1d6df9/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9c6660f2ff7350133a1d6df9/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9c6660f2ff7350133a1d6df9/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Rước kiệu mừng Chúa Phục Sinh",
+      "caption": "Rước kiệu mừng Chúa Phục Sinh",
+      "event": "Rước kiệu mừng Chúa Phục Sinh",
+      "sourceFilename": "486446148_1601683273944166_4291057988283858859_n.jpg",
+      "sourceDirectory": "Rước Kiệu Phục sinh 31-3-2024"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b0cfd68f1cb2ead535758e53/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b0cfd68f1cb2ead535758e53/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b0cfd68f1cb2ead535758e53/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b0cfd68f1cb2ead535758e53/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b0cfd68f1cb2ead535758e53/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Rước kiệu mừng Chúa Phục Sinh",
+      "caption": "Rước kiệu mừng Chúa Phục Sinh",
+      "event": "Rước kiệu mừng Chúa Phục Sinh",
+      "sourceFilename": "486546647_1601683130610847_6982340897899754146_n.jpg",
+      "sourceDirectory": "Rước Kiệu Phục sinh 31-3-2024"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ea162a08608a2f1802bcb10f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ea162a08608a2f1802bcb10f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ea162a08608a2f1802bcb10f/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ea162a08608a2f1802bcb10f/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ea162a08608a2f1802bcb10f/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Rước kiệu mừng Chúa Phục Sinh",
+      "caption": "Rước kiệu mừng Chúa Phục Sinh",
+      "event": "Rước kiệu mừng Chúa Phục Sinh",
+      "sourceFilename": "486619799_1601683353944158_6823808651577785245_n.jpg",
+      "sourceDirectory": "Rước Kiệu Phục sinh 31-3-2024"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b1e4c42d004f997176218185/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b1e4c42d004f997176218185/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b1e4c42d004f997176218185/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b1e4c42d004f997176218185/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b1e4c42d004f997176218185/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Rước kiệu mừng Chúa Phục Sinh",
+      "caption": "Rước kiệu mừng Chúa Phục Sinh",
+      "event": "Rước kiệu mừng Chúa Phục Sinh",
+      "sourceFilename": "486700590_1601683267277500_2105724617262834443_n.jpg",
+      "sourceDirectory": "Rước Kiệu Phục sinh 31-3-2024"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6aafb29b8d7511b33e2f8cf3/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6aafb29b8d7511b33e2f8cf3/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6aafb29b8d7511b33e2f8cf3/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6aafb29b8d7511b33e2f8cf3/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6aafb29b8d7511b33e2f8cf3/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Rước kiệu mừng Chúa Phục Sinh",
+      "caption": "Rước kiệu mừng Chúa Phục Sinh",
+      "event": "Rước kiệu mừng Chúa Phục Sinh",
+      "sourceFilename": "486794538_1601683307277496_4319208484443633925_n.jpg",
+      "sourceDirectory": "Rước Kiệu Phục sinh 31-3-2024"
+    }
+  ]
 }

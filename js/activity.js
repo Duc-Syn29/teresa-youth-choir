@@ -69,7 +69,6 @@
     const candidates = [
       [variants.thumbnail || variants.thumb, 480],
       [variants.medium, 1280],
-      [variants.original || variants.full || media?.src, 2048],
     ];
     const seen = new Set();
     const srcset = candidates.map(([candidate, fallbackWidth]) => {
@@ -299,6 +298,9 @@
       return;
     }
     try {
+      const previewRequested = params.get("preview") === "1";
+      if (Schema.isYearPublic?.(year) === false && previewRequested) await window.TeresaStore.waitForAuth();
+      if (Schema.isYearPublic?.(year) === false && !(previewRequested && window.TeresaStore.isAdmin())) throw new Error(`Nhật ký năm ${year} đang tạm ẩn.`);
       const data = await window.TeresaStore.loadYear(year);
       const activityIndex = data.activities.findIndex((item) => item.id === activityId);
       const activity = data.activities[activityIndex];
@@ -320,7 +322,7 @@
       document.querySelector("#back-to-year").href = yearUrl;
       const adminLink = window.TeresaStore.isAdmin() ? `<a class="button button-light" href="admin.html?year=${year}&activity=${encodeURIComponent(activity.id)}">Chỉnh sửa hoạt động ↗</a>` : "";
       app.innerHTML = `
-        <section class="activity-hero${coverImage ? "" : ` activity-hero-editorial editorial-theme-${editorial.theme}`}">
+        <section class="activity-hero${coverImage ? " has-cover" : ` activity-hero-editorial editorial-theme-${editorial.theme}`}">
           <div class="activity-hero-bg${coverImage ? "" : " activity-hero-bg-empty"}">${coverImage ? `<img ${mediaAttributes(cover, "medium", "100vw")} data-media-priority="high" alt="" loading="eager" decoding="async" fetchpriority="high" />` : `<span class="activity-editorial-year" aria-hidden="true">${year}</span><i class="activity-editorial-icon" aria-hidden="true">${editorial.icon}</i><small>Tư liệu hình ảnh đang được bổ sung</small>`}</div>
           <div class="activity-hero-grain" aria-hidden="true"></div>
           <div class="container activity-hero-content">

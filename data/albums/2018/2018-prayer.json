@@ -6,32 +6,104 @@
   "count": 4,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/001.jpg",
-      "caption": "Cầu nguyện định kỳ · ảnh 1",
-      "alt": "Ảnh tư liệu: Cầu nguyện định kỳ",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/001.jpg",
-      "variants": {}
+      "id": "media/2018/prayer/fb929529cd1c191b/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/fb929529cd1c191b/medium.jpg",
+      "alt": "Cầu nguyện định kỳ",
+      "caption": "Cầu nguyện định kỳ",
+      "event": "Cầu nguyện định kỳ",
+      "sourceFilename": "ảnh bìa.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/fb929529cd1c191b/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/fb929529cd1c191b/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/fb929529cd1c191b/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/002.jpg",
-      "caption": "Cầu nguyện định kỳ · ảnh 2",
-      "alt": "Ảnh tư liệu: Cầu nguyện định kỳ",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/002.jpg",
-      "variants": {}
+      "id": "media/2018/prayer/949192d491c6e62b/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/949192d491c6e62b/medium.jpg",
+      "alt": "Cùng cầu nguyện dưới ánh nến",
+      "caption": "Cùng cầu nguyện dưới ánh nến",
+      "event": "Cầu nguyện định kỳ",
+      "sourceFilename": "cầu nguyện định kì2.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/949192d491c6e62b/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/949192d491c6e62b/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/949192d491c6e62b/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/003.jpg",
-      "caption": "Cầu nguyện định kỳ · ảnh 3",
-      "alt": "Ảnh tư liệu: Cầu nguyện định kỳ",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/003.jpg",
-      "variants": {}
+      "id": "media/2018/prayer/446fc8af89e69f0e/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/446fc8af89e69f0e/medium.jpg",
+      "alt": "Cầu nguyện định kỳ",
+      "caption": "Cầu nguyện định kỳ",
+      "event": "Cầu nguyện định kỳ",
+      "sourceFilename": "cầu nguyện định kì4.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/446fc8af89e69f0e/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/446fc8af89e69f0e/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/446fc8af89e69f0e/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/004.jpg",
-      "caption": "Cầu nguyện định kỳ · ảnh 4",
-      "alt": "Ảnh tư liệu: Cầu nguyện định kỳ",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/004.jpg",
-      "variants": {}
+      "id": "media/2018/prayer/f9fd0448c349a8f0/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/f9fd0448c349a8f0/medium.jpg",
+      "alt": "Giây phút lắng đọng trong giờ cầu nguyện",
+      "caption": "Giây phút lắng đọng trong giờ cầu nguyện",
+      "event": "Cầu nguyện định kỳ",
+      "sourceFilename": "cầu nguyện định kì5.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/f9fd0448c349a8f0/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/f9fd0448c349a8f0/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/f9fd0448c349a8f0/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     }
   ]
 }

@@ -6,18 +6,54 @@
   "count": 2,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/001.jpg",
-      "caption": "Họp ca đoàn tổng kết năm 2017 · ảnh 1",
-      "alt": "Ảnh tư liệu: Họp ca đoàn tổng kết năm 2017",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/001.jpg",
-      "variants": {}
+      "id": "media/2017/review/d865d57bfab684b1/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/d865d57bfab684b1/medium.jpg",
+      "alt": "Họp ca đoàn tổng kết năm 2017",
+      "caption": "Họp ca đoàn tổng kết năm 2017",
+      "event": "Họp ca đoàn tổng kết năm 2017",
+      "sourceFilename": "1787135635374_1995884631902468284_7736263391661925970_f6a7277c7c5c50772f96a56dece2cf0d.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/d865d57bfab684b1/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/d865d57bfab684b1/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/d865d57bfab684b1/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/002.jpg",
-      "caption": "Họp ca đoàn tổng kết năm 2017 · ảnh 2",
-      "alt": "Ảnh tư liệu: Họp ca đoàn tổng kết năm 2017",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/002.jpg",
-      "variants": {}
+      "id": "media/2017/review/10e6854f6ca96a61/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/10e6854f6ca96a61/medium.jpg",
+      "alt": "Ca viên cùng nhìn lại hoạt động trong năm",
+      "caption": "Ca viên cùng nhìn lại hoạt động trong năm",
+      "event": "Họp ca đoàn tổng kết năm 2017",
+      "sourceFilename": "1787135635403_1995884631902468284_7736263391661925970_f2874550d8e9d24a87eb2569895c6600.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/10e6854f6ca96a61/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/10e6854f6ca96a61/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/review/10e6854f6ca96a61/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     }
   ]
 }

@@ -2,188 +2,1223 @@
   "schemaVersion": 1,
   "year": 2023,
   "activityId": "2023-quan-thay-lan-thu-8",
-  "title": "Thánh Lễ Quan Thầy và Kỷ Niệm 8 Năm Thành Lập",
+  "title": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
   "count": 150,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/001/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 1",
-      "id": "media/2023/quan-thay-lan-thu-8/001/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/69275ef0fdaa771412b376a6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/69275ef0fdaa771412b376a6/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/001/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/69275ef0fdaa771412b376a6/thumb.webp",
+          "width": 480,
+          "height": 309
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/69275ef0fdaa771412b376a6/medium.webp",
+          "width": 1280,
+          "height": 824
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/69275ef0fdaa771412b376a6/original.webp",
+          "width": 2048,
+          "height": 1318
+        }
+      },
+      "alt": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "caption": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "ảnh bìa( cả năm).jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4820b143fecdb5d3a159b7e1/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4820b143fecdb5d3a159b7e1/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4820b143fecdb5d3a159b7e1/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/001/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4820b143fecdb5d3a159b7e1/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/001/original.jpg?v=2022508",
-          "width": 3200,
-          "height": 2134
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4820b143fecdb5d3a159b7e1/original.webp",
+          "width": 2048,
+          "height": 1366
         }
-      }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 1",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy1.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/002/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 2",
-      "id": "media/2023/quan-thay-lan-thu-8/002/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/92b36d20b29f398624fee0f3/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/92b36d20b29f398624fee0f3/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/002/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/92b36d20b29f398624fee0f3/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/002/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/92b36d20b29f398624fee0f3/medium.webp",
           "width": 1280,
           "height": 853
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/002/original.jpg?v=2041687",
-          "width": 3200,
-          "height": 2133
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/92b36d20b29f398624fee0f3/original.webp",
+          "width": 2048,
+          "height": 1365
         }
-      }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 2",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy2.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/003/medium.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ab411f948330646897834029/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ab411f948330646897834029/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ab411f948330646897834029/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ab411f948330646897834029/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ab411f948330646897834029/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
       "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 3",
-      "id": "media/2023/quan-thay-lan-thu-8/003/original.jpg",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy3.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/66f790f354215ea3ffeea384/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/66f790f354215ea3ffeea384/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/003/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/66f790f354215ea3ffeea384/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/003/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/66f790f354215ea3ffeea384/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/003/original.jpg?v=2540646",
-          "width": 3200,
-          "height": 2134
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/66f790f354215ea3ffeea384/original.webp",
+          "width": 2048,
+          "height": 1366
         }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/004/medium.jpg",
+      },
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
       "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 4",
-      "id": "media/2023/quan-thay-lan-thu-8/004/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/004/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/004/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/004/original.jpg?v=2000199",
-          "width": 3200,
-          "height": 2134
-        }
-      }
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy4.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/005/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 5",
-      "id": "media/2023/quan-thay-lan-thu-8/005/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/befb04cd950f2e471ff5080d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/befb04cd950f2e471ff5080d/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/005/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/befb04cd950f2e471ff5080d/thumb.webp",
           "width": 480,
           "height": 319
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/005/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/befb04cd950f2e471ff5080d/medium.webp",
           "width": 1280,
           "height": 852
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/005/original.jpg?v=2532883",
-          "width": 3200,
-          "height": 2129
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/befb04cd950f2e471ff5080d/original.webp",
+          "width": 2048,
+          "height": 1363
         }
-      }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 5",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy5.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/006/medium.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cc849ad5bfe5da1a9a5618be/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cc849ad5bfe5da1a9a5618be/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cc849ad5bfe5da1a9a5618be/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cc849ad5bfe5da1a9a5618be/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cc849ad5bfe5da1a9a5618be/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
       "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 6",
-      "id": "media/2023/quan-thay-lan-thu-8/006/original.jpg",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy6.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5e86ce547a25eaff207932a1/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5e86ce547a25eaff207932a1/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/006/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5e86ce547a25eaff207932a1/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/006/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5e86ce547a25eaff207932a1/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/006/original.jpg?v=2733684",
-          "width": 3200,
-          "height": 2134
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5e86ce547a25eaff207932a1/original.webp",
+          "width": 2048,
+          "height": 1366
         }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/007/medium.jpg",
+      },
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
       "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 7",
-      "id": "media/2023/quan-thay-lan-thu-8/007/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/007/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/007/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/007/original.jpg?v=2558230",
-          "width": 3200,
-          "height": 2134
-        }
-      }
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy7.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/008/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 8",
-      "id": "media/2023/quan-thay-lan-thu-8/008/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a2335cebba2e9bfcbe6f66f0/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a2335cebba2e9bfcbe6f66f0/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/008/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a2335cebba2e9bfcbe6f66f0/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/008/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a2335cebba2e9bfcbe6f66f0/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/008/original.jpg?v=2248695",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a2335cebba2e9bfcbe6f66f0/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 8",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy8.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1acba3bb83966c1097d5c836/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1acba3bb83966c1097d5c836/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1acba3bb83966c1097d5c836/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1acba3bb83966c1097d5c836/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1acba3bb83966c1097d5c836/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 17",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy9.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3f890bef7f091d887972ec17/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3f890bef7f091d887972ec17/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3f890bef7f091d887972ec17/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3f890bef7f091d887972ec17/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3f890bef7f091d887972ec17/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 21",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy10.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/002cedceced0495ca66bfdf6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/002cedceced0495ca66bfdf6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/002cedceced0495ca66bfdf6/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/002cedceced0495ca66bfdf6/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/002cedceced0495ca66bfdf6/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 23",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy11.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/09177c63afaba2b4c2bc217f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/09177c63afaba2b4c2bc217f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/09177c63afaba2b4c2bc217f/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/09177c63afaba2b4c2bc217f/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/09177c63afaba2b4c2bc217f/original.webp",
+          "width": 2048,
+          "height": 1363
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 24",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy12.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/dff875035f3b71b915aa24a5/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/dff875035f3b71b915aa24a5/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/dff875035f3b71b915aa24a5/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/dff875035f3b71b915aa24a5/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/dff875035f3b71b915aa24a5/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 25",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy13.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c6d1e7037f546288bfefb553/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c6d1e7037f546288bfefb553/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c6d1e7037f546288bfefb553/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c6d1e7037f546288bfefb553/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c6d1e7037f546288bfefb553/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 27",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy14.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/2eb7beff49e5a6ff769d2088/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/2eb7beff49e5a6ff769d2088/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/2eb7beff49e5a6ff769d2088/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/2eb7beff49e5a6ff769d2088/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/2eb7beff49e5a6ff769d2088/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 28",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy15.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f6fa7f4d16f2fd53916254c0/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f6fa7f4d16f2fd53916254c0/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f6fa7f4d16f2fd53916254c0/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f6fa7f4d16f2fd53916254c0/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f6fa7f4d16f2fd53916254c0/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 29",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy16.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c9a0ed8af1979a8f193de5d2/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c9a0ed8af1979a8f193de5d2/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c9a0ed8af1979a8f193de5d2/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c9a0ed8af1979a8f193de5d2/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c9a0ed8af1979a8f193de5d2/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 30",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy17.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/012d5099729df07c3cce0464/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/012d5099729df07c3cce0464/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/012d5099729df07c3cce0464/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/012d5099729df07c3cce0464/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/012d5099729df07c3cce0464/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 32",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy18.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f244b744cf1b74ed17b1c80a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f244b744cf1b74ed17b1c80a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f244b744cf1b74ed17b1c80a/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f244b744cf1b74ed17b1c80a/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f244b744cf1b74ed17b1c80a/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 35",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy19.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/620d455400d1b4fcc32adaf1/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/620d455400d1b4fcc32adaf1/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/620d455400d1b4fcc32adaf1/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/620d455400d1b4fcc32adaf1/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/620d455400d1b4fcc32adaf1/original.webp",
+          "width": 2048,
+          "height": 1363
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 37",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy20.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/10281b3ec41e3dd5cff5651b/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/10281b3ec41e3dd5cff5651b/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/10281b3ec41e3dd5cff5651b/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/10281b3ec41e3dd5cff5651b/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/10281b3ec41e3dd5cff5651b/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 46",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy21.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5023433df238dc3e4bb9231e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5023433df238dc3e4bb9231e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5023433df238dc3e4bb9231e/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5023433df238dc3e4bb9231e/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5023433df238dc3e4bb9231e/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 64",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy22.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/356985dd6b3dcd55be3d1349/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/356985dd6b3dcd55be3d1349/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/356985dd6b3dcd55be3d1349/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/356985dd6b3dcd55be3d1349/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/356985dd6b3dcd55be3d1349/original.webp",
+          "width": 2048,
+          "height": 1363
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 65",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy23.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/d827cc6a363775e775024b32/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/d827cc6a363775e775024b32/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/d827cc6a363775e775024b32/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/d827cc6a363775e775024b32/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/d827cc6a363775e775024b32/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 66",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy24.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7c3a2e3bb6aec47b78060ae9/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7c3a2e3bb6aec47b78060ae9/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7c3a2e3bb6aec47b78060ae9/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7c3a2e3bb6aec47b78060ae9/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7c3a2e3bb6aec47b78060ae9/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 67",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy25.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e2ffdd39c493dc1102bef1e8/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e2ffdd39c493dc1102bef1e8/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e2ffdd39c493dc1102bef1e8/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e2ffdd39c493dc1102bef1e8/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e2ffdd39c493dc1102bef1e8/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 69",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy26.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/6d70f787ac29cbbfbc8bd19d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/6d70f787ac29cbbfbc8bd19d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/6d70f787ac29cbbfbc8bd19d/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/6d70f787ac29cbbfbc8bd19d/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/6d70f787ac29cbbfbc8bd19d/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 70",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy27.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5b3a68c914c6d7736ec211a1/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5b3a68c914c6d7736ec211a1/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5b3a68c914c6d7736ec211a1/thumb.webp",
+          "width": 480,
+          "height": 309
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5b3a68c914c6d7736ec211a1/medium.webp",
+          "width": 1280,
+          "height": 824
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5b3a68c914c6d7736ec211a1/original.webp",
+          "width": 2048,
+          "height": 1318
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 74",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy29.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/297effd1b257974fbaa6e0ed/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/297effd1b257974fbaa6e0ed/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/297effd1b257974fbaa6e0ed/thumb.webp",
+          "width": 480,
+          "height": 309
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/297effd1b257974fbaa6e0ed/medium.webp",
+          "width": 1280,
+          "height": 824
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/297effd1b257974fbaa6e0ed/original.webp",
+          "width": 2048,
+          "height": 1318
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 75",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy30.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cab9254a1199abb2933fd697/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cab9254a1199abb2933fd697/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cab9254a1199abb2933fd697/thumb.webp",
+          "width": 480,
+          "height": 309
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cab9254a1199abb2933fd697/medium.webp",
+          "width": 1280,
+          "height": 824
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cab9254a1199abb2933fd697/original.webp",
+          "width": 2048,
+          "height": 1318
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 76",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy31.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/95280e45c9df29705481faa5/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/95280e45c9df29705481faa5/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/95280e45c9df29705481faa5/thumb.webp",
+          "width": 480,
+          "height": 315
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/95280e45c9df29705481faa5/medium.webp",
+          "width": 1280,
+          "height": 839
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/95280e45c9df29705481faa5/original.webp",
+          "width": 2048,
+          "height": 1342
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 77",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy32.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c41f45ca2b853f89b214703a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c41f45ca2b853f89b214703a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c41f45ca2b853f89b214703a/thumb.webp",
+          "width": 480,
+          "height": 309
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c41f45ca2b853f89b214703a/medium.webp",
+          "width": 1280,
+          "height": 824
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c41f45ca2b853f89b214703a/original.webp",
+          "width": 2048,
+          "height": 1318
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 78",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy33.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/daf6dcde11ec611672005246/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/daf6dcde11ec611672005246/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/daf6dcde11ec611672005246/thumb.webp",
+          "width": 480,
+          "height": 309
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/daf6dcde11ec611672005246/medium.webp",
+          "width": 1280,
+          "height": 824
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/daf6dcde11ec611672005246/original.webp",
+          "width": 2048,
+          "height": 1318
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 79",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy34.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b3d47c4642aa74405e8e9101/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b3d47c4642aa74405e8e9101/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b3d47c4642aa74405e8e9101/thumb.webp",
+          "width": 480,
+          "height": 309
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b3d47c4642aa74405e8e9101/medium.webp",
+          "width": 1280,
+          "height": 824
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b3d47c4642aa74405e8e9101/original.webp",
+          "width": 2048,
+          "height": 1318
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 80",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy35.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/436fa4c299ae6cb3ecd9ea98/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/436fa4c299ae6cb3ecd9ea98/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/436fa4c299ae6cb3ecd9ea98/thumb.webp",
+          "width": 480,
+          "height": 309
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/436fa4c299ae6cb3ecd9ea98/medium.webp",
+          "width": 1280,
+          "height": 825
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/436fa4c299ae6cb3ecd9ea98/original.webp",
+          "width": 2048,
+          "height": 1320
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 81",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy36.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f2f98e2cb31d5bfd8a6ba7d7/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f2f98e2cb31d5bfd8a6ba7d7/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f2f98e2cb31d5bfd8a6ba7d7/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f2f98e2cb31d5bfd8a6ba7d7/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f2f98e2cb31d5bfd8a6ba7d7/original.webp",
+          "width": 2048,
+          "height": 1363
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 86",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy37.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/d51a1e17b4288e679a35e91c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/d51a1e17b4288e679a35e91c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/d51a1e17b4288e679a35e91c/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/d51a1e17b4288e679a35e91c/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/d51a1e17b4288e679a35e91c/original.webp",
+          "width": 2048,
+          "height": 1363
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 88",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy38.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1717837796465790fbd64f55/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1717837796465790fbd64f55/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1717837796465790fbd64f55/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1717837796465790fbd64f55/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1717837796465790fbd64f55/original.webp",
+          "width": 2048,
+          "height": 1363
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 90",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy39.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/162c30f54f5e904f92a3ea04/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/162c30f54f5e904f92a3ea04/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/162c30f54f5e904f92a3ea04/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/162c30f54f5e904f92a3ea04/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/162c30f54f5e904f92a3ea04/original.webp",
+          "width": 2048,
+          "height": 1363
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 100",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy40.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/32a648f571600dda67672dab/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/32a648f571600dda67672dab/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/32a648f571600dda67672dab/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/32a648f571600dda67672dab/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/32a648f571600dda67672dab/original.webp",
+          "width": 2048,
+          "height": 1363
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 103",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy41.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4d4f710e41692c2e9b8cd1e6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4d4f710e41692c2e9b8cd1e6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4d4f710e41692c2e9b8cd1e6/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4d4f710e41692c2e9b8cd1e6/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4d4f710e41692c2e9b8cd1e6/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 107",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy42.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/216dfed0fcddb1661ae8a888/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/216dfed0fcddb1661ae8a888/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/216dfed0fcddb1661ae8a888/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/216dfed0fcddb1661ae8a888/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/216dfed0fcddb1661ae8a888/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 111",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy43.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3f3cb58e251aff48f2642056/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3f3cb58e251aff48f2642056/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3f3cb58e251aff48f2642056/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3f3cb58e251aff48f2642056/medium.webp",
+          "width": 1280,
+          "height": 719
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3f3cb58e251aff48f2642056/original.webp",
+          "width": 2048,
+          "height": 1151
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 125",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy44.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/2552af13f6732b3185b0fddd/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/2552af13f6732b3185b0fddd/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/2552af13f6732b3185b0fddd/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/2552af13f6732b3185b0fddd/medium.webp",
+          "width": 1280,
+          "height": 719
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/2552af13f6732b3185b0fddd/original.webp",
+          "width": 2048,
+          "height": 1151
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 128",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy45.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b0597469394e9fe4b9dbd280/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b0597469394e9fe4b9dbd280/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b0597469394e9fe4b9dbd280/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b0597469394e9fe4b9dbd280/medium.webp",
+          "width": 1280,
+          "height": 719
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b0597469394e9fe4b9dbd280/original.webp",
+          "width": 2048,
+          "height": 1151
+        }
+      },
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 145",
+      "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+      "sourceFilename": "lễ quan thầy46.jpg",
+      "sourceDirectory": "QUAN THẦY 2023"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/011/medium.jpg",
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 11",
+      "id": "media/2023/quan-thay-lan-thu-8/011/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/011/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/011/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/011/original.jpg?v=2100503",
           "width": 3200,
           "height": 2134
         }
@@ -213,46 +1248,23 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/010/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/015/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 10",
-      "id": "media/2023/quan-thay-lan-thu-8/010/original.jpg",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 15",
+      "id": "media/2023/quan-thay-lan-thu-8/015/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/010/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/015/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/010/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/015/medium.jpg",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/010/original.jpg?v=2193352",
-          "width": 3200,
-          "height": 2134
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/011/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 11",
-      "id": "media/2023/quan-thay-lan-thu-8/011/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/011/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/011/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/011/original.jpg?v=2100503",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/015/original.jpg?v=2831910",
           "width": 3200,
           "height": 2134
         }
@@ -282,75 +1294,6 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/013/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 13",
-      "id": "media/2023/quan-thay-lan-thu-8/013/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/013/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/013/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/013/original.jpg?v=2456348",
-          "width": 3200,
-          "height": 2134
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/014/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 14",
-      "id": "media/2023/quan-thay-lan-thu-8/014/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/014/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/014/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/014/original.jpg?v=2793817",
-          "width": 3200,
-          "height": 2134
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/015/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 15",
-      "id": "media/2023/quan-thay-lan-thu-8/015/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/015/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/015/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/015/original.jpg?v=2831910",
-          "width": 3200,
-          "height": 2134
-        }
-      }
-    },
-    {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/016/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
       "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 16",
@@ -374,23 +1317,23 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/017/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/013/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 17",
-      "id": "media/2023/quan-thay-lan-thu-8/017/original.jpg",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 13",
+      "id": "media/2023/quan-thay-lan-thu-8/013/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/017/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/013/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/017/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/013/medium.jpg",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/017/original.jpg?v=1802539",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/013/original.jpg?v=2456348",
           "width": 3200,
           "height": 2134
         }
@@ -420,6 +1363,52 @@
       }
     },
     {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/010/medium.jpg",
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 10",
+      "id": "media/2023/quan-thay-lan-thu-8/010/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/010/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/010/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/010/original.jpg?v=2193352",
+          "width": 3200,
+          "height": 2134
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/014/medium.jpg",
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 14",
+      "id": "media/2023/quan-thay-lan-thu-8/014/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/014/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/014/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/014/original.jpg?v=2793817",
+          "width": 3200,
+          "height": 2134
+        }
+      }
+    },
+    {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/019/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
       "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 19",
@@ -437,52 +1426,6 @@
         },
         "original": {
           "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/019/original.jpg",
-          "width": 2048,
-          "height": 1366
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/020/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 20",
-      "id": "media/2023/quan-thay-lan-thu-8/020/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/020/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/020/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/020/original.jpg",
-          "width": 2048,
-          "height": 1366
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/021/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 21",
-      "id": "media/2023/quan-thay-lan-thu-8/021/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/021/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/021/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/021/original.jpg",
           "width": 2048,
           "height": 1366
         }
@@ -512,184 +1455,23 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/023/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/020/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 23",
-      "id": "media/2023/quan-thay-lan-thu-8/023/original.jpg",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 20",
+      "id": "media/2023/quan-thay-lan-thu-8/020/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/023/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/020/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/023/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/023/original.jpg",
-          "width": 2048,
-          "height": 1365
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/024/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 24",
-      "id": "media/2023/quan-thay-lan-thu-8/024/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/024/thumb.jpg",
-          "width": 480,
-          "height": 319
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/024/medium.jpg",
-          "width": 1280,
-          "height": 852
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/024/original.jpg?v=1635990",
-          "width": 3200,
-          "height": 2129
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/025/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 25",
-      "id": "media/2023/quan-thay-lan-thu-8/025/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/025/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/025/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/020/medium.jpg",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/025/original.jpg",
-          "width": 2048,
-          "height": 1366
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/026/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 26",
-      "id": "media/2023/quan-thay-lan-thu-8/026/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/026/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/026/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/026/original.jpg",
-          "width": 2048,
-          "height": 1366
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/027/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 27",
-      "id": "media/2023/quan-thay-lan-thu-8/027/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/027/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/027/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/027/original.jpg",
-          "width": 2048,
-          "height": 1366
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/028/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 28",
-      "id": "media/2023/quan-thay-lan-thu-8/028/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/028/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/028/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/028/original.jpg?v=1797974",
-          "width": 3200,
-          "height": 2134
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/029/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 29",
-      "id": "media/2023/quan-thay-lan-thu-8/029/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/029/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/029/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/029/original.jpg",
-          "width": 2048,
-          "height": 1365
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/030/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 30",
-      "id": "media/2023/quan-thay-lan-thu-8/030/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/030/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/030/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/030/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/020/original.jpg",
           "width": 2048,
           "height": 1366
         }
@@ -719,48 +1501,25 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/032/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/026/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 32",
-      "id": "media/2023/quan-thay-lan-thu-8/032/original.jpg",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 26",
+      "id": "media/2023/quan-thay-lan-thu-8/026/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/032/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/026/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/032/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/026/medium.jpg",
           "width": 1280,
-          "height": 853
+          "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/032/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/026/original.jpg",
           "width": 2048,
-          "height": 1365
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/033/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 33",
-      "id": "media/2023/quan-thay-lan-thu-8/033/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/033/thumb.jpg",
-          "width": 320,
-          "height": 480
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/033/medium.jpg",
-          "width": 854,
-          "height": 1280
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/033/original.jpg",
-          "width": 1366,
-          "height": 2048
+          "height": 1366
         }
       }
     },
@@ -788,69 +1547,46 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/035/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/033/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 35",
-      "id": "media/2023/quan-thay-lan-thu-8/035/original.jpg",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 33",
+      "id": "media/2023/quan-thay-lan-thu-8/033/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/035/thumb.jpg",
-          "width": 480,
-          "height": 320
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/033/thumb.jpg",
+          "width": 320,
+          "height": 480
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/035/medium.jpg",
-          "width": 1280,
-          "height": 854
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/033/medium.jpg",
+          "width": 854,
+          "height": 1280
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/035/original.jpg",
-          "width": 2048,
-          "height": 1366
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/033/original.jpg",
+          "width": 1366,
+          "height": 2048
         }
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/036/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/039/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 36",
-      "id": "media/2023/quan-thay-lan-thu-8/036/original.jpg",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 39",
+      "id": "media/2023/quan-thay-lan-thu-8/039/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/036/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/039/thumb.jpg",
           "width": 480,
           "height": 319
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/036/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/039/medium.jpg",
           "width": 1280,
           "height": 852
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/036/original.jpg",
-          "width": 2048,
-          "height": 1363
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/037/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 37",
-      "id": "media/2023/quan-thay-lan-thu-8/037/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/037/thumb.jpg",
-          "width": 480,
-          "height": 319
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/037/medium.jpg",
-          "width": 1280,
-          "height": 852
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/037/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/039/original.jpg",
           "width": 2048,
           "height": 1363
         }
@@ -880,23 +1616,23 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/039/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/036/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 39",
-      "id": "media/2023/quan-thay-lan-thu-8/039/original.jpg",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 36",
+      "id": "media/2023/quan-thay-lan-thu-8/036/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/039/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/036/thumb.jpg",
           "width": 480,
           "height": 319
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/039/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/036/medium.jpg",
           "width": 1280,
           "height": 852
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/039/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/036/original.jpg",
           "width": 2048,
           "height": 1363
         }
@@ -926,29 +1662,6 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/041/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 41",
-      "id": "media/2023/quan-thay-lan-thu-8/041/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/041/thumb.jpg",
-          "width": 480,
-          "height": 319
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/041/medium.jpg",
-          "width": 1280,
-          "height": 852
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/041/original.jpg",
-          "width": 2048,
-          "height": 1363
-        }
-      }
-    },
-    {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/042/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
       "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 42",
@@ -966,29 +1679,6 @@
         },
         "original": {
           "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/042/original.jpg",
-          "width": 2048,
-          "height": 1363
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/043/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 43",
-      "id": "media/2023/quan-thay-lan-thu-8/043/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/043/thumb.jpg",
-          "width": 480,
-          "height": 319
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/043/medium.jpg",
-          "width": 1280,
-          "height": 852
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/043/original.jpg",
           "width": 2048,
           "height": 1363
         }
@@ -1018,52 +1708,6 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/045/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 45",
-      "id": "media/2023/quan-thay-lan-thu-8/045/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/045/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/045/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/045/original.jpg",
-          "width": 2048,
-          "height": 1366
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/046/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 46",
-      "id": "media/2023/quan-thay-lan-thu-8/046/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/046/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/046/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/046/original.jpg",
-          "width": 2048,
-          "height": 1366
-        }
-      }
-    },
-    {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/047/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
       "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 47",
@@ -1087,29 +1731,6 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/048/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 48",
-      "id": "media/2023/quan-thay-lan-thu-8/048/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/048/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/048/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/048/original.jpg",
-          "width": 2048,
-          "height": 1366
-        }
-      }
-    },
-    {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/049/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
       "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 49",
@@ -1127,6 +1748,52 @@
         },
         "original": {
           "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/049/original.jpg",
+          "width": 2048,
+          "height": 1366
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/043/medium.jpg",
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 43",
+      "id": "media/2023/quan-thay-lan-thu-8/043/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/043/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/043/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/043/original.jpg",
+          "width": 2048,
+          "height": 1363
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/048/medium.jpg",
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 48",
+      "id": "media/2023/quan-thay-lan-thu-8/048/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/048/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/048/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/048/original.jpg",
           "width": 2048,
           "height": 1366
         }
@@ -1156,23 +1823,23 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/051/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/045/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 51",
-      "id": "media/2023/quan-thay-lan-thu-8/051/original.jpg",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 45",
+      "id": "media/2023/quan-thay-lan-thu-8/045/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/051/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/045/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/051/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/045/medium.jpg",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/051/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/045/original.jpg",
           "width": 2048,
           "height": 1366
         }
@@ -1198,6 +1865,52 @@
           "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/052/original.jpg",
           "width": 2048,
           "height": 1366
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/055/medium.jpg",
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 55",
+      "id": "media/2023/quan-thay-lan-thu-8/055/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/055/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/055/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/055/original.jpg",
+          "width": 2048,
+          "height": 1366
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/041/medium.jpg",
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 41",
+      "id": "media/2023/quan-thay-lan-thu-8/041/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/041/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/041/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/041/original.jpg",
+          "width": 2048,
+          "height": 1363
         }
       }
     },
@@ -1248,29 +1961,6 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/055/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 55",
-      "id": "media/2023/quan-thay-lan-thu-8/055/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/055/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/055/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/055/original.jpg",
-          "width": 2048,
-          "height": 1366
-        }
-      }
-    },
-    {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/056/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
       "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 56",
@@ -1288,75 +1978,6 @@
         },
         "original": {
           "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/056/original.jpg",
-          "width": 2048,
-          "height": 1366
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/057/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 57",
-      "id": "media/2023/quan-thay-lan-thu-8/057/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/057/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/057/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/057/original.jpg",
-          "width": 2048,
-          "height": 1366
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/058/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 58",
-      "id": "media/2023/quan-thay-lan-thu-8/058/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/058/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/058/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/058/original.jpg",
-          "width": 2048,
-          "height": 1366
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/059/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 59",
-      "id": "media/2023/quan-thay-lan-thu-8/059/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/059/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/059/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/059/original.jpg",
           "width": 2048,
           "height": 1366
         }
@@ -1386,23 +2007,92 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/061/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/058/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 61",
-      "id": "media/2023/quan-thay-lan-thu-8/061/original.jpg",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 58",
+      "id": "media/2023/quan-thay-lan-thu-8/058/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/061/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/058/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/061/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/058/medium.jpg",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/061/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/058/original.jpg",
+          "width": 2048,
+          "height": 1366
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/057/medium.jpg",
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 57",
+      "id": "media/2023/quan-thay-lan-thu-8/057/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/057/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/057/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/057/original.jpg",
+          "width": 2048,
+          "height": 1366
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/059/medium.jpg",
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 59",
+      "id": "media/2023/quan-thay-lan-thu-8/059/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/059/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/059/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/059/original.jpg",
+          "width": 2048,
+          "height": 1366
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/051/medium.jpg",
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 51",
+      "id": "media/2023/quan-thay-lan-thu-8/051/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/051/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/051/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/051/original.jpg",
           "width": 2048,
           "height": 1366
         }
@@ -1455,94 +2145,25 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/064/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/061/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 64",
-      "id": "media/2023/quan-thay-lan-thu-8/064/original.jpg",
+      "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 61",
+      "id": "media/2023/quan-thay-lan-thu-8/061/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/064/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/061/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/064/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/061/medium.jpg",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/064/original.jpg?v=1790286",
-          "width": 3200,
-          "height": 2134
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/065/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 65",
-      "id": "media/2023/quan-thay-lan-thu-8/065/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/065/thumb.jpg",
-          "width": 480,
-          "height": 319
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/065/medium.jpg",
-          "width": 1280,
-          "height": 852
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/065/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/061/original.jpg",
           "width": 2048,
-          "height": 1363
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/066/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 66",
-      "id": "media/2023/quan-thay-lan-thu-8/066/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/066/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/066/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/066/original.jpg?v=1683231",
-          "width": 3200,
-          "height": 2134
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/067/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 67",
-      "id": "media/2023/quan-thay-lan-thu-8/067/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/067/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/067/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/067/original.jpg?v=1687094",
-          "width": 3200,
-          "height": 2134
+          "height": 1366
         }
       }
     },
@@ -1566,52 +2187,6 @@
           "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/068/original.jpg?v=1668594",
           "width": 3200,
           "height": 2134
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/069/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 69",
-      "id": "media/2023/quan-thay-lan-thu-8/069/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/069/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/069/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/069/original.jpg",
-          "width": 2048,
-          "height": 1366
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/070/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 70",
-      "id": "media/2023/quan-thay-lan-thu-8/070/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/070/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/070/medium.jpg",
-          "width": 1280,
-          "height": 854
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/070/original.jpg",
-          "width": 2048,
-          "height": 1366
         }
       }
     },
@@ -1662,236 +2237,6 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/073/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 73",
-      "id": "media/2023/quan-thay-lan-thu-8/073/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/073/thumb.jpg",
-          "width": 480,
-          "height": 309
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/073/medium.jpg",
-          "width": 1280,
-          "height": 824
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/073/original.jpg",
-          "width": 2048,
-          "height": 1318
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/074/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 74",
-      "id": "media/2023/quan-thay-lan-thu-8/074/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/074/thumb.jpg",
-          "width": 480,
-          "height": 309
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/074/medium.jpg",
-          "width": 1280,
-          "height": 824
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/074/original.jpg",
-          "width": 2048,
-          "height": 1318
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/075/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 75",
-      "id": "media/2023/quan-thay-lan-thu-8/075/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/075/thumb.jpg",
-          "width": 480,
-          "height": 309
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/075/medium.jpg",
-          "width": 1280,
-          "height": 824
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/075/original.jpg",
-          "width": 2048,
-          "height": 1318
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/076/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 76",
-      "id": "media/2023/quan-thay-lan-thu-8/076/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/076/thumb.jpg",
-          "width": 480,
-          "height": 309
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/076/medium.jpg",
-          "width": 1280,
-          "height": 824
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/076/original.jpg?v=1691008",
-          "width": 3200,
-          "height": 2059
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/077/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 77",
-      "id": "media/2023/quan-thay-lan-thu-8/077/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/077/thumb.jpg",
-          "width": 480,
-          "height": 315
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/077/medium.jpg",
-          "width": 1280,
-          "height": 839
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/077/original.jpg?v=1766568",
-          "width": 3200,
-          "height": 2097
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/078/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 78",
-      "id": "media/2023/quan-thay-lan-thu-8/078/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/078/thumb.jpg",
-          "width": 480,
-          "height": 309
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/078/medium.jpg",
-          "width": 1280,
-          "height": 824
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/078/original.jpg",
-          "width": 2048,
-          "height": 1318
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/079/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 79",
-      "id": "media/2023/quan-thay-lan-thu-8/079/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/079/thumb.jpg",
-          "width": 480,
-          "height": 309
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/079/medium.jpg",
-          "width": 1280,
-          "height": 824
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/079/original.jpg",
-          "width": 2048,
-          "height": 1318
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/080/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 80",
-      "id": "media/2023/quan-thay-lan-thu-8/080/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/080/thumb.jpg",
-          "width": 480,
-          "height": 309
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/080/medium.jpg",
-          "width": 1280,
-          "height": 824
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/080/original.jpg",
-          "width": 2048,
-          "height": 1318
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/081/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 81",
-      "id": "media/2023/quan-thay-lan-thu-8/081/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/081/thumb.jpg",
-          "width": 480,
-          "height": 309
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/081/medium.jpg",
-          "width": 1280,
-          "height": 825
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/081/original.jpg",
-          "width": 2048,
-          "height": 1320
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/082/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 82",
-      "id": "media/2023/quan-thay-lan-thu-8/082/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/082/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/082/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/082/original.jpg",
-          "width": 2048,
-          "height": 1365
-        }
-      }
-    },
-    {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/083/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
       "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 83",
@@ -1938,98 +2283,6 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/085/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 85",
-      "id": "media/2023/quan-thay-lan-thu-8/085/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/085/thumb.jpg",
-          "width": 480,
-          "height": 319
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/085/medium.jpg",
-          "width": 1280,
-          "height": 852
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/085/original.jpg?v=1911570",
-          "width": 3200,
-          "height": 2129
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/086/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 86",
-      "id": "media/2023/quan-thay-lan-thu-8/086/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/086/thumb.jpg",
-          "width": 480,
-          "height": 319
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/086/medium.jpg",
-          "width": 1280,
-          "height": 852
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/086/original.jpg?v=2727530",
-          "width": 3200,
-          "height": 2129
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/087/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 87",
-      "id": "media/2023/quan-thay-lan-thu-8/087/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/087/thumb.jpg",
-          "width": 480,
-          "height": 319
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/087/medium.jpg",
-          "width": 1280,
-          "height": 852
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/087/original.jpg?v=1852105",
-          "width": 3200,
-          "height": 2129
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/088/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 88",
-      "id": "media/2023/quan-thay-lan-thu-8/088/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/088/thumb.jpg",
-          "width": 480,
-          "height": 319
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/088/medium.jpg",
-          "width": 1280,
-          "height": 852
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/088/original.jpg?v=2283676",
-          "width": 3200,
-          "height": 2129
-        }
-      }
-    },
-    {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/089/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
       "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 89",
@@ -2053,25 +2306,48 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/090/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/082/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 90",
-      "id": "media/2023/quan-thay-lan-thu-8/090/original.jpg",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 82",
+      "id": "media/2023/quan-thay-lan-thu-8/082/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/090/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/082/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/082/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/082/original.jpg",
+          "width": 2048,
+          "height": 1365
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/087/medium.jpg",
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 87",
+      "id": "media/2023/quan-thay-lan-thu-8/087/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/087/thumb.jpg",
           "width": 480,
           "height": 319
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/090/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/087/medium.jpg",
           "width": 1280,
           "height": 852
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/090/original.jpg",
-          "width": 2048,
-          "height": 1363
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/087/original.jpg?v=1852105",
+          "width": 3200,
+          "height": 2129
         }
       }
     },
@@ -2116,75 +2392,6 @@
         },
         "original": {
           "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/092/original.jpg?v=1681007",
-          "width": 3200,
-          "height": 2129
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/093/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 93",
-      "id": "media/2023/quan-thay-lan-thu-8/093/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/093/thumb.jpg",
-          "width": 480,
-          "height": 319
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/093/medium.jpg",
-          "width": 1280,
-          "height": 852
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/093/original.jpg?v=1665488",
-          "width": 3200,
-          "height": 2129
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/094/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 94",
-      "id": "media/2023/quan-thay-lan-thu-8/094/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/094/thumb.jpg",
-          "width": 480,
-          "height": 319
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/094/medium.jpg",
-          "width": 1280,
-          "height": 852
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/094/original.jpg?v=1777138",
-          "width": 3200,
-          "height": 2129
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/095/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 95",
-      "id": "media/2023/quan-thay-lan-thu-8/095/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/095/thumb.jpg",
-          "width": 480,
-          "height": 319
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/095/medium.jpg",
-          "width": 1280,
-          "height": 852
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/095/original.jpg?v=1732226",
           "width": 3200,
           "height": 2129
         }
@@ -2237,6 +2444,52 @@
       }
     },
     {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/085/medium.jpg",
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 85",
+      "id": "media/2023/quan-thay-lan-thu-8/085/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/085/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/085/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/085/original.jpg?v=1911570",
+          "width": 3200,
+          "height": 2129
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/094/medium.jpg",
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 94",
+      "id": "media/2023/quan-thay-lan-thu-8/094/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/094/thumb.jpg",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/094/medium.jpg",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/094/original.jpg?v=1777138",
+          "width": 3200,
+          "height": 2129
+        }
+      }
+    },
+    {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/098/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
       "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 98",
@@ -2260,69 +2513,46 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/099/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/095/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 99",
-      "id": "media/2023/quan-thay-lan-thu-8/099/original.jpg",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 95",
+      "id": "media/2023/quan-thay-lan-thu-8/095/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/099/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/095/thumb.jpg",
           "width": 480,
           "height": 319
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/099/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/095/medium.jpg",
           "width": 1280,
           "height": 852
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/099/original.jpg",
-          "width": 2048,
-          "height": 1363
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/095/original.jpg?v=1732226",
+          "width": 3200,
+          "height": 2129
         }
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/100/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/093/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 100",
-      "id": "media/2023/quan-thay-lan-thu-8/100/original.jpg",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 93",
+      "id": "media/2023/quan-thay-lan-thu-8/093/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/100/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/093/thumb.jpg",
           "width": 480,
           "height": 319
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/100/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/093/medium.jpg",
           "width": 1280,
           "height": 852
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/100/original.jpg",
-          "width": 2048,
-          "height": 1363
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/101/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 101",
-      "id": "media/2023/quan-thay-lan-thu-8/101/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/101/thumb.jpg",
-          "width": 480,
-          "height": 319
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/101/medium.jpg",
-          "width": 1280,
-          "height": 852
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/101/original.jpg?v=1919186",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/093/original.jpg?v=1665488",
           "width": 3200,
           "height": 2129
         }
@@ -2352,46 +2582,23 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/103/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/099/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 103",
-      "id": "media/2023/quan-thay-lan-thu-8/103/original.jpg",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 99",
+      "id": "media/2023/quan-thay-lan-thu-8/099/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/103/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/099/thumb.jpg",
           "width": 480,
           "height": 319
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/103/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/099/medium.jpg",
           "width": 1280,
           "height": 852
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/103/original.jpg",
-          "width": 2048,
-          "height": 1363
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/104/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 104",
-      "id": "media/2023/quan-thay-lan-thu-8/104/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/104/thumb.jpg",
-          "width": 480,
-          "height": 319
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/104/medium.jpg",
-          "width": 1280,
-          "height": 852
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/104/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/099/original.jpg",
           "width": 2048,
           "height": 1363
         }
@@ -2421,48 +2628,48 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/106/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/101/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 106",
-      "id": "media/2023/quan-thay-lan-thu-8/106/original.jpg",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 101",
+      "id": "media/2023/quan-thay-lan-thu-8/101/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/106/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/101/thumb.jpg",
           "width": 480,
-          "height": 320
+          "height": 319
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/106/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/101/medium.jpg",
           "width": 1280,
-          "height": 853
+          "height": 852
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/106/original.jpg",
-          "width": 2048,
-          "height": 1365
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/101/original.jpg?v=1919186",
+          "width": 3200,
+          "height": 2129
         }
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/107/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/104/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 107",
-      "id": "media/2023/quan-thay-lan-thu-8/107/original.jpg",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 104",
+      "id": "media/2023/quan-thay-lan-thu-8/104/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/107/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/104/thumb.jpg",
           "width": 480,
-          "height": 320
+          "height": 319
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/107/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/104/medium.jpg",
           "width": 1280,
-          "height": 853
+          "height": 852
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/107/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/104/original.jpg",
           "width": 2048,
-          "height": 1365
+          "height": 1363
         }
       }
     },
@@ -2490,23 +2697,23 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/109/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/106/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 109",
-      "id": "media/2023/quan-thay-lan-thu-8/109/original.jpg",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 106",
+      "id": "media/2023/quan-thay-lan-thu-8/106/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/109/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/106/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/109/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/106/medium.jpg",
           "width": 1280,
           "height": 853
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/109/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/106/original.jpg",
           "width": 2048,
           "height": 1365
         }
@@ -2536,92 +2743,23 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/111/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/109/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 111",
-      "id": "media/2023/quan-thay-lan-thu-8/111/original.jpg",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 109",
+      "id": "media/2023/quan-thay-lan-thu-8/109/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/111/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/109/thumb.jpg",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/111/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/109/medium.jpg",
           "width": 1280,
           "height": 853
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/111/original.jpg",
-          "width": 2048,
-          "height": 1365
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/112/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 112",
-      "id": "media/2023/quan-thay-lan-thu-8/112/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/112/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/112/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/112/original.jpg",
-          "width": 2048,
-          "height": 1365
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/113/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 113",
-      "id": "media/2023/quan-thay-lan-thu-8/113/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/113/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/113/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/113/original.jpg",
-          "width": 2048,
-          "height": 1365
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/114/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 114",
-      "id": "media/2023/quan-thay-lan-thu-8/114/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/114/thumb.jpg",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/114/medium.jpg",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/114/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/109/original.jpg",
           "width": 2048,
           "height": 1365
         }
@@ -2647,6 +2785,29 @@
           "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/115/original.jpg?v=1787056",
           "width": 3200,
           "height": 1798
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/112/medium.jpg",
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 112",
+      "id": "media/2023/quan-thay-lan-thu-8/112/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/112/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/112/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/112/original.jpg",
+          "width": 2048,
+          "height": 1365
         }
       }
     },
@@ -2697,25 +2858,48 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/118/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/114/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 118",
-      "id": "media/2023/quan-thay-lan-thu-8/118/original.jpg",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 114",
+      "id": "media/2023/quan-thay-lan-thu-8/114/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/118/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/114/thumb.jpg",
           "width": 480,
-          "height": 270
+          "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/118/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/114/medium.jpg",
           "width": 1280,
-          "height": 719
+          "height": 853
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/118/original.jpg?v=1870938",
-          "width": 3200,
-          "height": 1798
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/114/original.jpg",
+          "width": 2048,
+          "height": 1365
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/113/medium.jpg",
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 113",
+      "id": "media/2023/quan-thay-lan-thu-8/113/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/113/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/113/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/113/original.jpg",
+          "width": 2048,
+          "height": 1365
         }
       }
     },
@@ -2743,48 +2927,25 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/120/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/118/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 120",
-      "id": "media/2023/quan-thay-lan-thu-8/120/original.jpg",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 118",
+      "id": "media/2023/quan-thay-lan-thu-8/118/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/120/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/118/thumb.jpg",
           "width": 480,
           "height": 270
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/120/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/118/medium.jpg",
           "width": 1280,
           "height": 719
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/120/original.jpg",
-          "width": 2048,
-          "height": 1151
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/121/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 121",
-      "id": "media/2023/quan-thay-lan-thu-8/121/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/121/thumb.jpg",
-          "width": 480,
-          "height": 270
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/121/medium.jpg",
-          "width": 1280,
-          "height": 719
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/121/original.jpg",
-          "width": 2048,
-          "height": 1151
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/118/original.jpg?v=1870938",
+          "width": 3200,
+          "height": 1798
         }
       }
     },
@@ -2806,6 +2967,29 @@
         },
         "original": {
           "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/122/original.jpg",
+          "width": 2048,
+          "height": 1151
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/120/medium.jpg",
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 120",
+      "id": "media/2023/quan-thay-lan-thu-8/120/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/120/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/120/medium.jpg",
+          "width": 1280,
+          "height": 719
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/120/original.jpg",
           "width": 2048,
           "height": 1151
         }
@@ -2858,46 +3042,23 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/125/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/121/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 125",
-      "id": "media/2023/quan-thay-lan-thu-8/125/original.jpg",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 121",
+      "id": "media/2023/quan-thay-lan-thu-8/121/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/125/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/121/thumb.jpg",
           "width": 480,
           "height": 270
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/125/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/121/medium.jpg",
           "width": 1280,
           "height": 719
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/125/original.jpg?v=2155922",
-          "width": 3200,
-          "height": 1798
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/126/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 126",
-      "id": "media/2023/quan-thay-lan-thu-8/126/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/126/thumb.jpg",
-          "width": 480,
-          "height": 270
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/126/medium.jpg",
-          "width": 1280,
-          "height": 719
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/126/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/121/original.jpg",
           "width": 2048,
           "height": 1151
         }
@@ -2927,29 +3088,6 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/128/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 128",
-      "id": "media/2023/quan-thay-lan-thu-8/128/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/128/thumb.jpg",
-          "width": 480,
-          "height": 270
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/128/medium.jpg",
-          "width": 1280,
-          "height": 719
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/128/original.jpg?v=1962462",
-          "width": 3200,
-          "height": 1798
-        }
-      }
-    },
-    {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/129/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
       "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 129",
@@ -2973,25 +3111,25 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/130/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/126/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 130",
-      "id": "media/2023/quan-thay-lan-thu-8/130/original.jpg",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 126",
+      "id": "media/2023/quan-thay-lan-thu-8/126/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/130/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/126/thumb.jpg",
           "width": 480,
           "height": 270
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/130/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/126/medium.jpg",
           "width": 1280,
           "height": 719
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/130/original.jpg?v=1821624",
-          "width": 3200,
-          "height": 1798
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/126/original.jpg",
+          "width": 2048,
+          "height": 1151
         }
       }
     },
@@ -3036,6 +3174,29 @@
         },
         "original": {
           "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/132/original.jpg",
+          "width": 2048,
+          "height": 1151
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/135/medium.jpg",
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 135",
+      "id": "media/2023/quan-thay-lan-thu-8/135/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/135/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/135/medium.jpg",
+          "width": 1280,
+          "height": 719
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/135/original.jpg",
           "width": 2048,
           "height": 1151
         }
@@ -3088,25 +3249,48 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/135/medium.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/137/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 135",
-      "id": "media/2023/quan-thay-lan-thu-8/135/original.jpg",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 137",
+      "id": "media/2023/quan-thay-lan-thu-8/137/original.jpg",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/135/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/137/thumb.jpg",
           "width": 480,
           "height": 270
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/135/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/137/medium.jpg",
           "width": 1280,
           "height": 719
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/135/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/137/original.jpg",
           "width": 2048,
           "height": 1151
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/130/medium.jpg",
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 130",
+      "id": "media/2023/quan-thay-lan-thu-8/130/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/130/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/130/medium.jpg",
+          "width": 1280,
+          "height": 719
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/130/original.jpg?v=1821624",
+          "width": 3200,
+          "height": 1798
         }
       }
     },
@@ -3128,29 +3312,6 @@
         },
         "original": {
           "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/136/original.jpg",
-          "width": 2048,
-          "height": 1151
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/137/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 137",
-      "id": "media/2023/quan-thay-lan-thu-8/137/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/137/thumb.jpg",
-          "width": 480,
-          "height": 270
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/137/medium.jpg",
-          "width": 1280,
-          "height": 719
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/137/original.jpg",
           "width": 2048,
           "height": 1151
         }
@@ -3180,6 +3341,29 @@
       }
     },
     {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/141/medium.jpg",
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 141",
+      "id": "media/2023/quan-thay-lan-thu-8/141/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/141/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/141/medium.jpg",
+          "width": 1280,
+          "height": 719
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/141/original.jpg?v=1605580",
+          "width": 3200,
+          "height": 1798
+        }
+      }
+    },
+    {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/139/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
       "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 139",
@@ -3197,6 +3381,29 @@
         },
         "original": {
           "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/139/original.jpg",
+          "width": 2048,
+          "height": 1151
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/143/medium.jpg",
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 143",
+      "id": "media/2023/quan-thay-lan-thu-8/143/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/143/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/143/medium.jpg",
+          "width": 1280,
+          "height": 719
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/143/original.jpg",
           "width": 2048,
           "height": 1151
         }
@@ -3226,29 +3433,6 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/141/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 141",
-      "id": "media/2023/quan-thay-lan-thu-8/141/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/141/thumb.jpg",
-          "width": 480,
-          "height": 270
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/141/medium.jpg",
-          "width": 1280,
-          "height": 719
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/141/original.jpg?v=1605580",
-          "width": 3200,
-          "height": 1798
-        }
-      }
-    },
-    {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/142/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
       "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 142",
@@ -3268,29 +3452,6 @@
           "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/142/original.jpg?v=1565821",
           "width": 3200,
           "height": 1798
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/143/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 143",
-      "id": "media/2023/quan-thay-lan-thu-8/143/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/143/thumb.jpg",
-          "width": 480,
-          "height": 270
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/143/medium.jpg",
-          "width": 1280,
-          "height": 719
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/143/original.jpg",
-          "width": 2048,
-          "height": 1151
         }
       }
     },
@@ -3318,29 +3479,6 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/145/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 145",
-      "id": "media/2023/quan-thay-lan-thu-8/145/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/145/thumb.jpg",
-          "width": 480,
-          "height": 270
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/145/medium.jpg",
-          "width": 1280,
-          "height": 719
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/145/original.jpg?v=1817492",
-          "width": 3200,
-          "height": 1798
-        }
-      }
-    },
-    {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/146/medium.jpg",
       "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
       "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 146",
@@ -3360,6 +3498,52 @@
           "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/146/original.jpg?v=1832364",
           "width": 3200,
           "height": 1798
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/150/medium.jpg",
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 150",
+      "id": "media/2023/quan-thay-lan-thu-8/150/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/150/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/150/medium.jpg",
+          "width": 1280,
+          "height": 719
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/150/original.jpg",
+          "width": 2048,
+          "height": 1151
+        }
+      }
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/149/medium.jpg",
+      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
+      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 149",
+      "id": "media/2023/quan-thay-lan-thu-8/149/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/149/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/149/medium.jpg",
+          "width": 1280,
+          "height": 719
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/149/original.jpg",
+          "width": 2048,
+          "height": 1151
         }
       }
     },
@@ -3404,52 +3588,6 @@
         },
         "original": {
           "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/148/original.jpg",
-          "width": 2048,
-          "height": 1151
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/149/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 149",
-      "id": "media/2023/quan-thay-lan-thu-8/149/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/149/thumb.jpg",
-          "width": 480,
-          "height": 270
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/149/medium.jpg",
-          "width": 1280,
-          "height": 719
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/149/original.jpg",
-          "width": 2048,
-          "height": 1151
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/150/medium.jpg",
-      "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-      "caption": "Bữa cơm thân mật và sinh hoạt mừng Bổn mạng · ảnh 150",
-      "id": "media/2023/quan-thay-lan-thu-8/150/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/150/thumb.jpg",
-          "width": 480,
-          "height": 270
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/150/medium.jpg",
-          "width": 1280,
-          "height": 719
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/quan-thay-lan-thu-8/150/original.jpg",
           "width": 2048,
           "height": 1151
         }

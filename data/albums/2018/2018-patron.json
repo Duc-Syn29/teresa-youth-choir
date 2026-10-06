@@ -6,179 +6,629 @@
   "count": 25,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/001.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 1",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/001.jpg",
-      "variants": {}
+      "id": "media/2018/patron/5e6b8a282df46bf8/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/5e6b8a282df46bf8/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "ảnh bìa.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/5e6b8a282df46bf8/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/5e6b8a282df46bf8/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/5e6b8a282df46bf8/original.jpg",
+          "width": 2048,
+          "height": 1366
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/002.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 2",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/002.jpg",
-      "variants": {}
+      "id": "media/2018/patron/bc35f17d3a947f3a/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/bc35f17d3a947f3a/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy1.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/bc35f17d3a947f3a/thumb.jpg",
+          "width": 315,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/bc35f17d3a947f3a/medium.jpg",
+          "width": 839,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/bc35f17d3a947f3a/original.jpg",
+          "width": 1343,
+          "height": 2048
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/003.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 3",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/003.jpg",
-      "variants": {}
+      "id": "media/2018/patron/f149cc36b697df66/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/f149cc36b697df66/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy2.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/f149cc36b697df66/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/f149cc36b697df66/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/f149cc36b697df66/original.jpg",
+          "width": 2048,
+          "height": 1366
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/004.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 4",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/004.jpg",
-      "variants": {}
+      "id": "media/2018/patron/cd46dccb92937fce/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/cd46dccb92937fce/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy3.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/cd46dccb92937fce/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/cd46dccb92937fce/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/cd46dccb92937fce/original.jpg",
+          "width": 2048,
+          "height": 1366
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/005.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 5",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/005.jpg",
-      "variants": {}
+      "id": "media/2018/patron/6c096f40c5c2fd41/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/6c096f40c5c2fd41/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy4.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/6c096f40c5c2fd41/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/6c096f40c5c2fd41/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/6c096f40c5c2fd41/original.jpg",
+          "width": 2048,
+          "height": 1366
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/006.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 6",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/006.jpg",
-      "variants": {}
+      "id": "media/2018/patron/df7ffbedae4b3be6/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/df7ffbedae4b3be6/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy5.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/df7ffbedae4b3be6/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/df7ffbedae4b3be6/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/df7ffbedae4b3be6/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/007.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 7",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/007.jpg",
-      "variants": {}
+      "id": "media/2018/patron/789aa84c44504f08/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/789aa84c44504f08/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy6.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/789aa84c44504f08/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/789aa84c44504f08/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/789aa84c44504f08/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/008.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 8",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/008.jpg",
-      "variants": {}
+      "id": "media/2018/patron/f95ddf2293cd6f41/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/f95ddf2293cd6f41/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy7.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/f95ddf2293cd6f41/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/f95ddf2293cd6f41/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/f95ddf2293cd6f41/original.jpg",
+          "width": 2048,
+          "height": 1366
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/009.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 9",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/009.jpg",
-      "variants": {}
+      "id": "media/2018/patron/67d3b122bcc1043e/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/67d3b122bcc1043e/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy8.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/67d3b122bcc1043e/thumb.jpg",
+          "width": 316,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/67d3b122bcc1043e/medium.jpg",
+          "width": 842,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/67d3b122bcc1043e/original.jpg",
+          "width": 1348,
+          "height": 2048
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/010.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 10",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/010.jpg",
-      "variants": {}
+      "id": "media/2018/patron/d3ff84f1a2166ba6/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/d3ff84f1a2166ba6/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy9.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/d3ff84f1a2166ba6/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/d3ff84f1a2166ba6/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/d3ff84f1a2166ba6/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/011.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 11",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/011.jpg",
-      "variants": {}
+      "id": "media/2018/patron/8bb3fab9ee2df923/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/8bb3fab9ee2df923/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy10.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/8bb3fab9ee2df923/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/8bb3fab9ee2df923/medium.jpg",
+          "width": 1280,
+          "height": 721
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/8bb3fab9ee2df923/original.jpg",
+          "width": 2048,
+          "height": 1154
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/012.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 12",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/012.jpg",
-      "variants": {}
+      "id": "media/2018/patron/7eb1673a6f5c04e6/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/7eb1673a6f5c04e6/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy11.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/7eb1673a6f5c04e6/thumb.jpg",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/7eb1673a6f5c04e6/medium.jpg",
+          "width": 960,
+          "height": 540
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/7eb1673a6f5c04e6/original.jpg",
+          "width": 960,
+          "height": 540
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/013.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 13",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/013.jpg",
-      "variants": {}
+      "id": "media/2018/patron/221a6a2811f9209f/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/221a6a2811f9209f/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy12.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/221a6a2811f9209f/thumb.jpg",
+          "width": 480,
+          "height": 381
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/221a6a2811f9209f/medium.jpg",
+          "width": 1280,
+          "height": 1016
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/221a6a2811f9209f/original.jpg",
+          "width": 2048,
+          "height": 1626
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/014.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 14",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/014.jpg",
-      "variants": {}
+      "id": "media/2018/patron/840750fdddb7ff46/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/840750fdddb7ff46/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy13.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/840750fdddb7ff46/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/840750fdddb7ff46/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/840750fdddb7ff46/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/015.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 15",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/015.jpg",
-      "variants": {}
+      "id": "media/2018/patron/3ddc7a4943e43fbf/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/3ddc7a4943e43fbf/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy14.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/3ddc7a4943e43fbf/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/3ddc7a4943e43fbf/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/3ddc7a4943e43fbf/original.jpg",
+          "width": 2048,
+          "height": 1366
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/016.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 16",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/016.jpg",
-      "variants": {}
+      "id": "media/2018/patron/c4f4fde71b6f1397/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/c4f4fde71b6f1397/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy16.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/c4f4fde71b6f1397/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/c4f4fde71b6f1397/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/c4f4fde71b6f1397/original.jpg",
+          "width": 2048,
+          "height": 1366
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/017.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 17",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/017.jpg",
-      "variants": {}
+      "id": "media/2018/patron/09288037294dab67/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/09288037294dab67/medium.jpg",
+      "alt": "Cộng đoàn hiệp dâng Thánh lễ",
+      "caption": "Cộng đoàn hiệp dâng Thánh lễ",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy17.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/09288037294dab67/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/09288037294dab67/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/09288037294dab67/original.jpg",
+          "width": 2048,
+          "height": 1366
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/018.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 18",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/018.jpg",
-      "variants": {}
+      "id": "media/2018/patron/268b312580ecb662/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/268b312580ecb662/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy18.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/268b312580ecb662/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/268b312580ecb662/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/268b312580ecb662/original.jpg",
+          "width": 2048,
+          "height": 1365
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/019.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 19",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/019.jpg",
-      "variants": {}
+      "id": "media/2018/patron/1f1cf2b6a5b7aa84/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/1f1cf2b6a5b7aa84/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy19.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/1f1cf2b6a5b7aa84/thumb.jpg",
+          "width": 480,
+          "height": 402
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/1f1cf2b6a5b7aa84/medium.jpg",
+          "width": 1280,
+          "height": 1073
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/1f1cf2b6a5b7aa84/original.jpg",
+          "width": 2048,
+          "height": 1717
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/020.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 20",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/020.jpg",
-      "variants": {}
+      "id": "media/2018/patron/17b477b492fcc0ce/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/17b477b492fcc0ce/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy20.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/17b477b492fcc0ce/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/17b477b492fcc0ce/medium.jpg",
+          "width": 810,
+          "height": 540
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/17b477b492fcc0ce/original.jpg",
+          "width": 810,
+          "height": 540
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/021.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 21",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/021.jpg",
-      "variants": {}
+      "id": "media/2018/patron/2422dfe3d2a7afe5/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/2422dfe3d2a7afe5/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy21.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/2422dfe3d2a7afe5/thumb.jpg",
+          "width": 480,
+          "height": 340
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/2422dfe3d2a7afe5/medium.jpg",
+          "width": 1280,
+          "height": 907
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/2422dfe3d2a7afe5/original.jpg",
+          "width": 2048,
+          "height": 1451
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/022.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 22",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/022.jpg",
-      "variants": {}
+      "id": "media/2018/patron/8741cbd179330075/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/8741cbd179330075/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy22.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/8741cbd179330075/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/8741cbd179330075/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/8741cbd179330075/original.jpg",
+          "width": 2048,
+          "height": 1366
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/023.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 23",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/023.jpg",
-      "variants": {}
+      "id": "media/2018/patron/c7d1e2d926db5c19/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/c7d1e2d926db5c19/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy23.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/c7d1e2d926db5c19/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/c7d1e2d926db5c19/medium.jpg",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/c7d1e2d926db5c19/original.jpg",
+          "width": 2048,
+          "height": 1366
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/024.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 24",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/024.jpg",
-      "variants": {}
+      "id": "media/2018/patron/b77a7c2a9487f178/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/b77a7c2a9487f178/medium.jpg",
+      "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy24.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/b77a7c2a9487f178/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/b77a7c2a9487f178/medium.jpg",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/b77a7c2a9487f178/original.jpg",
+          "width": 2048,
+          "height": 1536
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/025.jpg",
-      "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 25",
-      "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/025.jpg",
-      "variants": {}
+      "id": "media/2018/patron/4d5ab73cdfdf7fc4/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/4d5ab73cdfdf7fc4/medium.jpg",
+      "alt": "Các ca viên cất tiếng hát trong ngày lễ",
+      "caption": "Các ca viên cất tiếng hát trong ngày lễ",
+      "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+      "sourceFilename": "lễ quan thầy25.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/4d5ab73cdfdf7fc4/thumb.jpg",
+          "width": 480,
+          "height": 393
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/4d5ab73cdfdf7fc4/medium.jpg",
+          "width": 1280,
+          "height": 1048
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/4d5ab73cdfdf7fc4/original.jpg",
+          "width": 2048,
+          "height": 1677
+        }
+      }
     }
   ]
 }

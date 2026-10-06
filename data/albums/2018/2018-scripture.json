@@ -6,25 +6,79 @@
   "count": 3,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/001.jpg",
-      "caption": "Thi Kinh Thánh tại Giáo xứ Thái Hà · ảnh 1",
-      "alt": "Ảnh tư liệu: Thi Kinh Thánh tại Giáo xứ Thái Hà",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/001.jpg",
-      "variants": {}
+      "id": "media/2018/scripture/ed7d18ab20142ea8/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/ed7d18ab20142ea8/medium.jpg",
+      "alt": "Thi Kinh Thánh tại Giáo xứ Thái Hà",
+      "caption": "Thi Kinh Thánh tại Giáo xứ Thái Hà",
+      "event": "Thi Kinh Thánh tại Giáo xứ Thái Hà",
+      "sourceFilename": "ảnh bìa.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/ed7d18ab20142ea8/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/ed7d18ab20142ea8/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/ed7d18ab20142ea8/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/002.jpg",
-      "caption": "Thi Kinh Thánh tại Giáo xứ Thái Hà · ảnh 2",
-      "alt": "Ảnh tư liệu: Thi Kinh Thánh tại Giáo xứ Thái Hà",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/002.jpg",
-      "variants": {}
+      "id": "media/2018/scripture/9dcf07e728464ba5/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/9dcf07e728464ba5/medium.jpg",
+      "alt": "Các ca viên cùng tìm hiểu Kinh Thánh",
+      "caption": "Các ca viên cùng tìm hiểu Kinh Thánh",
+      "event": "Thi Kinh Thánh tại Giáo xứ Thái Hà",
+      "sourceFilename": "1787132380498_1995884631902468284_7736263391661925970_52c5511784ba6467c60587ab983e9298.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/9dcf07e728464ba5/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/9dcf07e728464ba5/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/9dcf07e728464ba5/original.jpg",
+          "width": 2048,
+          "height": 1365
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/003.jpg",
-      "caption": "Thi Kinh Thánh tại Giáo xứ Thái Hà · ảnh 3",
-      "alt": "Ảnh tư liệu: Thi Kinh Thánh tại Giáo xứ Thái Hà",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/003.jpg",
-      "variants": {}
+      "id": "media/2018/scripture/44e3edb2ab8d0e6f/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/44e3edb2ab8d0e6f/medium.jpg",
+      "alt": "Chuẩn bị cho cuộc thi Kinh Thánh",
+      "caption": "Chuẩn bị cho cuộc thi Kinh Thánh",
+      "event": "Thi Kinh Thánh tại Giáo xứ Thái Hà",
+      "sourceFilename": "1787132381817_1995884631902468284_7736263391661925970_de597125fc6d513541079451d43cf625.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/44e3edb2ab8d0e6f/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/44e3edb2ab8d0e6f/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/44e3edb2ab8d0e6f/original.jpg",
+          "width": 2048,
+          "height": 1365
+        }
+      }
     }
   ]
 }

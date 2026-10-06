@@ -3,14 +3,307 @@
   "year": 2019,
   "activityId": "2019-dam-cuoi-quang-minh-do-lieu",
   "title": "Đám cưới Quang Minh – Đỗ Liệu",
-  "count": 1,
+  "count": 12,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/001.jpg",
-      "caption": "Đám cưới Quang Minh – Đỗ Liệu · ảnh 1",
-      "alt": "Ảnh tư liệu: Đám cưới Quang Minh – Đỗ Liệu",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/001.jpg",
-      "variants": {}
+      "id": "media/2019/dam-cuoi-quang-minh-do-lieu/5af1312d679a1a64/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/5af1312d679a1a64/medium.jpg",
+      "alt": "Đám cưới Quang Minh – Đỗ Liệu",
+      "caption": "Đám cưới Quang Minh – Đỗ Liệu",
+      "event": "Đám cưới Quang Minh – Đỗ Liệu",
+      "sourceFilename": "ảnh bìa.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/5af1312d679a1a64/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/5af1312d679a1a64/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/5af1312d679a1a64/original.jpg",
+          "width": 2048,
+          "height": 1365
+        }
+      }
+    },
+    {
+      "id": "media/2019/dam-cuoi-quang-minh-do-lieu/3972d8297e0fb6a5/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/3972d8297e0fb6a5/medium.jpg",
+      "alt": "Đám cưới Quang Minh – Đỗ Liệu",
+      "caption": "Đám cưới Quang Minh – Đỗ Liệu",
+      "event": "Đám cưới Quang Minh – Đỗ Liệu",
+      "sourceFilename": "ảnh cưới1.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/3972d8297e0fb6a5/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/3972d8297e0fb6a5/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/3972d8297e0fb6a5/original.jpg",
+          "width": 2048,
+          "height": 1365
+        }
+      }
+    },
+    {
+      "id": "media/2019/dam-cuoi-quang-minh-do-lieu/bda529800c8f50d2/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/bda529800c8f50d2/medium.jpg",
+      "alt": "Đám cưới Quang Minh – Đỗ Liệu",
+      "caption": "Đám cưới Quang Minh – Đỗ Liệu",
+      "event": "Đám cưới Quang Minh – Đỗ Liệu",
+      "sourceFilename": "ảnh cưới2.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/bda529800c8f50d2/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/bda529800c8f50d2/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/bda529800c8f50d2/original.jpg",
+          "width": 2048,
+          "height": 1365
+        }
+      }
+    },
+    {
+      "id": "media/2019/dam-cuoi-quang-minh-do-lieu/9c4790d2ae0fd945/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/9c4790d2ae0fd945/medium.jpg",
+      "alt": "Đám cưới Quang Minh – Đỗ Liệu",
+      "caption": "Đám cưới Quang Minh – Đỗ Liệu",
+      "event": "Đám cưới Quang Minh – Đỗ Liệu",
+      "sourceFilename": "ảnh cưới3.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/9c4790d2ae0fd945/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/9c4790d2ae0fd945/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/9c4790d2ae0fd945/original.jpg",
+          "width": 2048,
+          "height": 1365
+        }
+      }
+    },
+    {
+      "id": "media/2019/dam-cuoi-quang-minh-do-lieu/beaf5d2fdeea6898/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/beaf5d2fdeea6898/medium.jpg",
+      "alt": "Cô dâu Đỗ Liệu trong Thánh lễ Hôn phối",
+      "caption": "Cô dâu Đỗ Liệu trong Thánh lễ Hôn phối",
+      "event": "Đám cưới Quang Minh – Đỗ Liệu",
+      "sourceFilename": "ảnh cưới5.jpeg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/beaf5d2fdeea6898/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/beaf5d2fdeea6898/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/beaf5d2fdeea6898/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
+    },
+    {
+      "id": "media/2019/dam-cuoi-quang-minh-do-lieu/f310c9c634e30718/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/f310c9c634e30718/medium.jpg",
+      "alt": "Đám cưới Quang Minh – Đỗ Liệu",
+      "caption": "Đám cưới Quang Minh – Đỗ Liệu",
+      "event": "Đám cưới Quang Minh – Đỗ Liệu",
+      "sourceFilename": "ảnh cưới6.jpeg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/f310c9c634e30718/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/f310c9c634e30718/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/f310c9c634e30718/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
+    },
+    {
+      "id": "media/2019/dam-cuoi-quang-minh-do-lieu/ac07096c0d48743b/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/ac07096c0d48743b/medium.jpg",
+      "alt": "Đám cưới Quang Minh – Đỗ Liệu",
+      "caption": "Đám cưới Quang Minh – Đỗ Liệu",
+      "event": "Đám cưới Quang Minh – Đỗ Liệu",
+      "sourceFilename": "ảnh cưới7.jpeg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/ac07096c0d48743b/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/ac07096c0d48743b/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/ac07096c0d48743b/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
+    },
+    {
+      "id": "media/2019/dam-cuoi-quang-minh-do-lieu/8e71670d7cfec8cd/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/8e71670d7cfec8cd/medium.jpg",
+      "alt": "Đám cưới Quang Minh – Đỗ Liệu",
+      "caption": "Đám cưới Quang Minh – Đỗ Liệu",
+      "event": "Đám cưới Quang Minh – Đỗ Liệu",
+      "sourceFilename": "ảnh cưới8.jpeg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/8e71670d7cfec8cd/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/8e71670d7cfec8cd/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/8e71670d7cfec8cd/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
+    },
+    {
+      "id": "media/2019/dam-cuoi-quang-minh-do-lieu/4edb6f54c453c235/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/4edb6f54c453c235/medium.jpg",
+      "alt": "Chú rể Quang Minh trong Thánh lễ Hôn phối",
+      "caption": "Chú rể Quang Minh trong Thánh lễ Hôn phối",
+      "event": "Đám cưới Quang Minh – Đỗ Liệu",
+      "sourceFilename": "ảnh cưới9.jpeg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/4edb6f54c453c235/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/4edb6f54c453c235/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/4edb6f54c453c235/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
+    },
+    {
+      "id": "media/2019/dam-cuoi-quang-minh-do-lieu/c62354beaccd03ac/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/c62354beaccd03ac/medium.jpg",
+      "alt": "Đám cưới Quang Minh – Đỗ Liệu",
+      "caption": "Đám cưới Quang Minh – Đỗ Liệu",
+      "event": "Đám cưới Quang Minh – Đỗ Liệu",
+      "sourceFilename": "ảnh cưới10.jpeg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/c62354beaccd03ac/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/c62354beaccd03ac/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/c62354beaccd03ac/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
+    },
+    {
+      "id": "media/2019/dam-cuoi-quang-minh-do-lieu/a6f34297fcd4f54e/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/a6f34297fcd4f54e/medium.jpg",
+      "alt": "Đám cưới Quang Minh – Đỗ Liệu",
+      "caption": "Đám cưới Quang Minh – Đỗ Liệu",
+      "event": "Đám cưới Quang Minh – Đỗ Liệu",
+      "sourceFilename": "ảnh cưới11.jpeg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/a6f34297fcd4f54e/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/a6f34297fcd4f54e/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/a6f34297fcd4f54e/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
+    },
+    {
+      "id": "media/2019/dam-cuoi-quang-minh-do-lieu/fd927cfd45534e81/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/fd927cfd45534e81/medium.jpg",
+      "alt": "Anh chị Quang Minh – Đỗ Liệu trong ngày cưới",
+      "caption": "Anh chị Quang Minh – Đỗ Liệu trong ngày cưới",
+      "event": "Đám cưới Quang Minh – Đỗ Liệu",
+      "sourceFilename": "ảnh cưới12.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/fd927cfd45534e81/thumb.jpg",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/fd927cfd45534e81/medium.jpg",
+          "width": 640,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/fd927cfd45534e81/original.jpg",
+          "width": 640,
+          "height": 960
+        }
+      }
     }
   ]
 }

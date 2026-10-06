@@ -9,7 +9,31 @@
     "summary": "Năm 2018, Ca đoàn đánh dấu một cột mốc lớn khi ca đoàn bầu ban điều hành nhiệm kỳ mới.",
     "verse": "“Đường con đi, Chúa mở rộng thênh thang, chân con bước không bao giờ lảo đảo.” (Tv 18,37)",
     "longDescription": "Năm 2018, Ca đoàn đánh dấu một cột mốc lớn khi ca đoàn bầu ban điều hành nhiệm kỳ mới. Anh Giuse Phạm Văn Tĩnh làm trưởng ca đoàn, anh Phêrô Bùi Ngọc Liêm tiếp tục làm phó ca đoàn, cùng với sự đồng hành chuyên môn của ca trưởng sơ Maria Mai Phạm C.P và chị Anna Bảo Trang. Một làn gió mới được thổi vào ca đoàn với sự trẻ trung và nhiều năng lượng nhiệt huyết của tân ban điều hành đã góp phần thăng tiến ca đoàn hơn. Số lượng anh chị em giới trẻ tham gia ca đoàn tiếp tục gia tăng, có những thời điểm lên đến gần 60 anh chị em ca viên. Các sinh hoạt của ca đoàn được khởi xướng thêm như tập cử điệu, tập múa giáng sinh, giao lưu trò chuyện sau giờ tập hát ngoài công viên, thăm hỏi thân nhân ca viên bị ốm, giao lưu gắn kết với những nhóm giới trẻ, những ca đoàn trẻ khác trong và ngoài Giáo xứ Thái Hà. Ba năm đã qua, in dấu biết bao thăng trầm theo thời gian, là minh chứng còn vẹn nguyên cho hành trình trưởng thành của Ca đoàn. Hành trình phía trước, dẫu vẫn còn những đoạn đường chưa rõ lối, dẫu vẫn còn những thử thách chưa lường trước. Nhưng như người lữ hành vững tâm trên con đường có Chúa soi dẫn, Ca đoàn Giới trẻ Teresa vẫn đang tiếp tục dâng hiến lời ca như một lời nguyện cầu, để tiếp tục lan tỏa ánh sáng của Đức Ki-tô, để mỗi bước đi không chỉ là sự tiến lên, mà còn là sự trưởng thành trong đức tin và tình yêu phụng sự.",
-    "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/001.jpg"
+    "coverImage": {
+      "id": "media/2018/workshop/055b3cd12e3d0282/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/055b3cd12e3d0282/medium.jpg",
+      "alt": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo, Hải Dương",
+      "caption": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo, Hải Dương",
+      "event": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo, Hải Dương",
+      "sourceFilename": "ảnh bìa ( cả năm ).jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/055b3cd12e3d0282/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/055b3cd12e3d0282/medium.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/055b3cd12e3d0282/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      }
+    }
   },
   "leadership": {
     "chaplain": {
@@ -144,31 +168,109 @@
       "title": "Cầu nguyện định kỳ",
       "description": "Mở đầu cho hành trình năm 2018 là chương trình cầu nguyện định kỳ của ca đoàn.",
       "body": "Mở đầu cho hành trình năm 2018 là chương trình cầu nguyện định kỳ của ca đoàn. Sau những giờ phút phục vụ và sinh hoạt, các ca viên cùng nhau dành thời gian lắng đọng trước Chúa, để nhìn lại chính mình và cầu nguyện cho ca đoàn cũng như từng thành viên. Những buổi cầu nguyện như thế không chỉ giúp mỗi người thêm gần Chúa mà còn tạo nên một không gian để các ca viên được chia sẻ, đồng hành và nâng đỡ  nhau trong đời sống đức tin. Đây cũng là một trong những hoạt động giúp ca đoàn không chỉ là một tập thể cùng hát, mà thực sự trở thành một cộng đoàn cùng nhau giữ gìn đức tin và cùng phục vụ.",
-      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/001.jpg",
+      "coverImage": {
+        "id": "media/2018/prayer/fb929529cd1c191b/original.jpg",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/fb929529cd1c191b/medium.jpg",
+        "alt": "Cầu nguyện định kỳ",
+        "caption": "Cầu nguyện định kỳ",
+        "event": "Cầu nguyện định kỳ",
+        "sourceFilename": "ảnh bìa.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/fb929529cd1c191b/thumb.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/fb929529cd1c191b/medium.jpg",
+            "width": 960,
+            "height": 720
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/fb929529cd1c191b/original.jpg",
+            "width": 960,
+            "height": 720
+          }
+        }
+      },
       "album": {
         "manifest": "data/albums/2018/2018-prayer.json",
         "count": 4,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/001.jpg",
-            "caption": "Cầu nguyện định kỳ · ảnh 1",
-            "alt": "Ảnh tư liệu: Cầu nguyện định kỳ",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/001.jpg",
-            "variants": {}
+            "id": "media/2018/prayer/fb929529cd1c191b/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/fb929529cd1c191b/medium.jpg",
+            "alt": "Ca viên quy tụ trong giờ cầu nguyện",
+            "caption": "Ca viên quy tụ trong giờ cầu nguyện",
+            "event": "Cầu nguyện định kỳ",
+            "sourceFilename": "ảnh bìa.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/fb929529cd1c191b/thumb.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/fb929529cd1c191b/medium.jpg",
+                "width": 960,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/fb929529cd1c191b/original.jpg",
+                "width": 960,
+                "height": 720
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/002.jpg",
-            "caption": "Cầu nguyện định kỳ · ảnh 2",
-            "alt": "Ảnh tư liệu: Cầu nguyện định kỳ",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/002.jpg",
-            "variants": {}
+            "id": "media/2018/prayer/949192d491c6e62b/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/949192d491c6e62b/medium.jpg",
+            "alt": "Cùng cầu nguyện dưới ánh nến",
+            "caption": "Cùng cầu nguyện dưới ánh nến",
+            "event": "Cầu nguyện định kỳ",
+            "sourceFilename": "cầu nguyện định kì2.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/949192d491c6e62b/thumb.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/949192d491c6e62b/medium.jpg",
+                "width": 960,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/949192d491c6e62b/original.jpg",
+                "width": 960,
+                "height": 720
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/003.jpg",
-            "caption": "Cầu nguyện định kỳ · ảnh 3",
-            "alt": "Ảnh tư liệu: Cầu nguyện định kỳ",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/003.jpg",
-            "variants": {}
+            "id": "media/2018/prayer/f9fd0448c349a8f0/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/f9fd0448c349a8f0/medium.jpg",
+            "alt": "Giây phút lắng đọng trong giờ cầu nguyện",
+            "caption": "Giây phút lắng đọng trong giờ cầu nguyện",
+            "event": "Cầu nguyện định kỳ",
+            "sourceFilename": "cầu nguyện định kì5.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/f9fd0448c349a8f0/thumb.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/f9fd0448c349a8f0/medium.jpg",
+                "width": 960,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/prayer/f9fd0448c349a8f0/original.jpg",
+                "width": 960,
+                "height": 720
+              }
+            }
           }
         ]
       }
@@ -181,31 +283,109 @@
       "title": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
       "description": "Ngoài các giờ tập hát và sinh hoạt trong ca đoàn.",
       "body": "Ngoài các giờ tập hát và sinh hoạt trong ca đoàn. các thành viên Ca đoàn Giới trẻ Têrêsa còn có cơ hội tham gia giao lưu bóng đá với các ca đoàn, các nhóm giới trẻ khác để thêm sự gắn kết trong phụng vụ. Đặc biệt, ngày 23/06 ca đoàn có dịp giao lưu trận bóng với các bạn Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc. Sân bóng trở nên như một không gian rất khác với những giờ tập hát quen thuộc. Qua những trận đấu và những hoạt động giao lưu, các ca viên có thêm cơ hội gặp gỡ những người trẻ đến từ nhiều nhóm khác nhau, cùng chia sẻ niềm vui và xây dựng tình huynh đệ. Đây cũng là dịp để các thành viên hiểu nhau hơn, cùng tạo nên những kỷ niệm đẹp ngoài những giờ phục vụ Thánh lễ và sinh hoạt ca đoàn,",
-      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/001.jpg",
+      "coverImage": {
+        "id": "media/2018/football/1fe5917092fe12d9/original.jpg",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/1fe5917092fe12d9/medium.jpg",
+        "alt": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
+        "caption": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
+        "event": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
+        "sourceFilename": "ảnh bìa.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/1fe5917092fe12d9/thumb.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/1fe5917092fe12d9/medium.jpg",
+            "width": 960,
+            "height": 720
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/1fe5917092fe12d9/original.jpg",
+            "width": 960,
+            "height": 720
+          }
+        }
+      },
       "album": {
         "manifest": "data/albums/2018/2018-football.json",
         "count": 4,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/001.jpg",
-            "caption": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc · ảnh 1",
-            "alt": "Ảnh tư liệu: Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/001.jpg",
-            "variants": {}
+            "id": "media/2018/football/1fe5917092fe12d9/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/1fe5917092fe12d9/medium.jpg",
+            "alt": "Gặp gỡ các bạn trẻ trong chương trình giao lưu bóng đá",
+            "caption": "Gặp gỡ các bạn trẻ trong chương trình giao lưu bóng đá",
+            "event": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
+            "sourceFilename": "ảnh bìa.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/1fe5917092fe12d9/thumb.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/1fe5917092fe12d9/medium.jpg",
+                "width": 960,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/1fe5917092fe12d9/original.jpg",
+                "width": 960,
+                "height": 720
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/002.jpg",
-            "caption": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc · ảnh 2",
-            "alt": "Ảnh tư liệu: Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/002.jpg",
-            "variants": {}
+            "id": "media/2018/football/5be843c7ad5e458b/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/5be843c7ad5e458b/medium.jpg",
+            "alt": "Các cầu thủ chụp ảnh lưu niệm",
+            "caption": "Các cầu thủ chụp ảnh lưu niệm",
+            "event": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
+            "sourceFilename": "giao lưu bóng đá2.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/5be843c7ad5e458b/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/5be843c7ad5e458b/medium.jpg",
+                "width": 960,
+                "height": 640
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/5be843c7ad5e458b/original.jpg",
+                "width": 960,
+                "height": 640
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/003.jpg",
-            "caption": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc · ảnh 3",
-            "alt": "Ảnh tư liệu: Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/003.jpg",
-            "variants": {}
+            "id": "media/2018/football/2e7bfc3b5f495fa9/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/2e7bfc3b5f495fa9/medium.jpg",
+            "alt": "Đội bóng của ca đoàn trên sân",
+            "caption": "Đội bóng của ca đoàn trên sân",
+            "event": "Giao lưu bóng đá Giới trẻ Thừa Sai Chúa Cứu Thế miền Bắc",
+            "sourceFilename": "giao lưu bóng đá4.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/2e7bfc3b5f495fa9/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/2e7bfc3b5f495fa9/medium.jpg",
+                "width": 960,
+                "height": 640
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/football/2e7bfc3b5f495fa9/original.jpg",
+                "width": 960,
+                "height": 640
+              }
+            }
           }
         ]
       }
@@ -218,31 +398,109 @@
       "title": "Thi Kinh Thánh tại Giáo xứ Thái Hà",
       "description": "Chỉ một ngày sau chương trình giao lưu bóng đá, ca đoàn tiếp tục tham gia Thi Kinh Thánh tại Giáo xứ Thái Hà.",
       "body": "Chỉ một ngày sau chương trình giao lưu bóng đá, ca đoàn tiếp tục tham gia Thi Kinh Thánh tại Giáo xứ Thái Hà. Bên cạnh việc hy sinh phục vụ Chúa bằng những lời ca tiếng hát, thì anh chị em ca viên cũng rất hăng hái học hỏi giáo lý lời Chúa và việc học hỏi Kinh Thánh giúp mỗi ca viên có nền tảng đức tin vững chắc hơn. Cuộc thi cũng tạo nên bầu khí học hỏi vui tươi, giúp các thành viên cùng nhau tìm hiểu Kinh Thánh và khơi dậy tinh thần ham học hỏi trong cộng đoàn. Mặc dù không được gải thưởng nhưng qua cuộc thi, anh chị em ca viên đã thể hiện được sự nhiệt huyết tuổi trẻ của mình, luôn sẵn sàng đóng góp phần mình vào các hoạt động của Giáo xứ nhằm thúc đẩy sự phát triển của ca đoàn.",
-      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/001.jpg",
+      "coverImage": {
+        "id": "media/2018/scripture/ed7d18ab20142ea8/original.jpg",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/ed7d18ab20142ea8/medium.jpg",
+        "alt": "Thi Kinh Thánh tại Giáo xứ Thái Hà",
+        "caption": "Thi Kinh Thánh tại Giáo xứ Thái Hà",
+        "event": "Thi Kinh Thánh tại Giáo xứ Thái Hà",
+        "sourceFilename": "ảnh bìa.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/ed7d18ab20142ea8/thumb.jpg",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/ed7d18ab20142ea8/medium.jpg",
+            "width": 960,
+            "height": 640
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/ed7d18ab20142ea8/original.jpg",
+            "width": 960,
+            "height": 640
+          }
+        }
+      },
       "album": {
         "manifest": "data/albums/2018/2018-scripture.json",
         "count": 3,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/001.jpg",
-            "caption": "Thi Kinh Thánh tại Giáo xứ Thái Hà · ảnh 1",
-            "alt": "Ảnh tư liệu: Thi Kinh Thánh tại Giáo xứ Thái Hà",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/001.jpg",
-            "variants": {}
+            "id": "media/2018/scripture/9dcf07e728464ba5/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/9dcf07e728464ba5/medium.jpg",
+            "alt": "Các ca viên cùng tìm hiểu Kinh Thánh",
+            "caption": "Các ca viên cùng tìm hiểu Kinh Thánh",
+            "event": "Thi Kinh Thánh tại Giáo xứ Thái Hà",
+            "sourceFilename": "1787132380498_1995884631902468284_7736263391661925970_52c5511784ba6467c60587ab983e9298.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/9dcf07e728464ba5/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/9dcf07e728464ba5/medium.jpg",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/9dcf07e728464ba5/original.jpg",
+                "width": 2048,
+                "height": 1365
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/002.jpg",
-            "caption": "Thi Kinh Thánh tại Giáo xứ Thái Hà · ảnh 2",
-            "alt": "Ảnh tư liệu: Thi Kinh Thánh tại Giáo xứ Thái Hà",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/002.jpg",
-            "variants": {}
+            "id": "media/2018/scripture/44e3edb2ab8d0e6f/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/44e3edb2ab8d0e6f/medium.jpg",
+            "alt": "Chuẩn bị cho cuộc thi Kinh Thánh",
+            "caption": "Chuẩn bị cho cuộc thi Kinh Thánh",
+            "event": "Thi Kinh Thánh tại Giáo xứ Thái Hà",
+            "sourceFilename": "1787132381817_1995884631902468284_7736263391661925970_de597125fc6d513541079451d43cf625.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/44e3edb2ab8d0e6f/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/44e3edb2ab8d0e6f/medium.jpg",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/44e3edb2ab8d0e6f/original.jpg",
+                "width": 2048,
+                "height": 1365
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/003.jpg",
-            "caption": "Thi Kinh Thánh tại Giáo xứ Thái Hà · ảnh 3",
-            "alt": "Ảnh tư liệu: Thi Kinh Thánh tại Giáo xứ Thái Hà",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/003.jpg",
-            "variants": {}
+            "id": "media/2018/scripture/ed7d18ab20142ea8/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/ed7d18ab20142ea8/medium.jpg",
+            "alt": "Các đội tham gia chương trình thi Kinh Thánh",
+            "caption": "Các đội tham gia chương trình thi Kinh Thánh",
+            "event": "Thi Kinh Thánh tại Giáo xứ Thái Hà",
+            "sourceFilename": "ảnh bìa.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/ed7d18ab20142ea8/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/ed7d18ab20142ea8/medium.jpg",
+                "width": 960,
+                "height": 640
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/scripture/ed7d18ab20142ea8/original.jpg",
+                "width": 960,
+                "height": 640
+              }
+            }
           }
         ]
       }
@@ -255,31 +513,109 @@
       "title": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
       "description": "Ngày 15/7 ca đoàn có chuyến tĩnh tâm tại Gx.",
       "body": "Ngày 15/7 ca đoàn có chuyến tĩnh tâm tại Gx.Mông Sơn, Yên Bái. Chủ đề của chương trình tĩnh tâm năm nay là: “Trở về cội nguồn”. Giữa những bộn bề của cuộc sống và lịch phục vụ, chuyến đi là khoảng thời gian để các ca viên tạm gác lại những lo toan thường ngày, cùng nhau lên đường và trở về với nguồn mạch đức tin. Ban đầu, ban điều hành ca đoàn dự tính sẽ đi tĩnh tâm tại Giáo xứ Ba Làng, Gp Thanh Hóa, Nhưng vì một số lý do không thể đi được, mọi người đành thống nhất chọn Giáo xứ Mông Sơn làm địa điểm để tĩnh tâm. Tại đây, ngoài những giây phút lắng đọng tâm hồn để “Trở về cội nguồn”, Anh chị em ca viên còn được cùng nhau vui chơi, tắm suối và sinh hoạt xung quanh khuân viên rất rộng của giáo xứ.\n\n“Trở về cội nguồn” cũng là lời mời gọi mỗi người nhìn lại hành trình của chính mình: mình đến với ca đoàn vì điều gì, mình đang phục vụ Chúa như thế nào và tình yêu dành cho Chúa trong mình có còn nguyên vẹn như những ngày đầu. Chuyến đi không chỉ mang ý nghĩa tĩnh tâm mà còn giúp các thành viên thêm gắn bó với nhau. Những giờ phút cùng đi, cùng cầu nguyện, cùng chia sẻ và cùng sinh hoạt đã để lại nhiều kỷ niệm đẹp trong lòng mỗi ca viên.",
-      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/001.jpg",
+      "coverImage": {
+        "id": "media/2018/retreat/a1948fdc7d699bb5/original.jpg",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/a1948fdc7d699bb5/medium.jpg",
+        "alt": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+        "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+        "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+        "sourceFilename": "ảnh bìa.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/a1948fdc7d699bb5/thumb.jpg",
+            "width": 480,
+            "height": 477
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/a1948fdc7d699bb5/medium.jpg",
+            "width": 724,
+            "height": 720
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/a1948fdc7d699bb5/original.jpg",
+            "width": 724,
+            "height": 720
+          }
+        }
+      },
       "album": {
         "manifest": "data/albums/2018/2018-retreat.json",
         "count": 11,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/001.jpg",
-            "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 1",
-            "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/001.jpg",
-            "variants": {}
+            "id": "media/2018/retreat/60d6c7aac315a03b/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/60d6c7aac315a03b/medium.jpg",
+            "alt": "Ca đoàn cùng cộng đoàn Giáo xứ Mông Sơn",
+            "caption": "Ca đoàn cùng cộng đoàn Giáo xứ Mông Sơn",
+            "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+            "sourceFilename": "tĩnh tâm3.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/60d6c7aac315a03b/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/60d6c7aac315a03b/medium.jpg",
+                "width": 1225,
+                "height": 817
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/60d6c7aac315a03b/original.jpg",
+                "width": 1225,
+                "height": 817
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/002.jpg",
-            "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 2",
-            "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/002.jpg",
-            "variants": {}
+            "id": "media/2018/retreat/49bd9a5bc4967967/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/49bd9a5bc4967967/medium.jpg",
+            "alt": "Các ca viên trên hành trình tĩnh tâm",
+            "caption": "Các ca viên trên hành trình tĩnh tâm",
+            "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+            "sourceFilename": "tĩnh tâm7.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/49bd9a5bc4967967/thumb.jpg",
+                "width": 360,
+                "height": 480
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/49bd9a5bc4967967/medium.jpg",
+                "width": 720,
+                "height": 960
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/49bd9a5bc4967967/original.jpg",
+                "width": 720,
+                "height": 960
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/003.jpg",
-            "caption": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn · ảnh 3",
-            "alt": "Ảnh tư liệu: Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/003.jpg",
-            "variants": {}
+            "id": "media/2018/retreat/a4bafb323817cdbe/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/a4bafb323817cdbe/medium.jpg",
+            "alt": "Giờ cầu nguyện trong chuyến tĩnh tâm",
+            "caption": "Giờ cầu nguyện trong chuyến tĩnh tâm",
+            "event": "Hành hương, tĩnh tâm tại Giáo xứ Mông Sơn, Yên Bình, Yên Bái",
+            "sourceFilename": "tĩnh tâm11.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/a4bafb323817cdbe/thumb.jpg",
+                "width": 360,
+                "height": 480
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/a4bafb323817cdbe/medium.jpg",
+                "width": 720,
+                "height": 960
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/retreat/a4bafb323817cdbe/original.jpg",
+                "width": 720,
+                "height": 960
+              }
+            }
           }
         ]
       }
@@ -292,31 +628,109 @@
       "title": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo, Hải Dương",
       "description": "Ngày 15/09, Ca đoàn Giới trẻ Têrêsa tham dự Hội thảo Giới trẻ tại Giáo xứ Phú Tảo, Hải Dương.",
       "body": "Ngày 15/09, Ca đoàn Giới trẻ Têrêsa tham dự Hội thảo Giới trẻ tại Giáo xứ Phú Tảo, Hải Dương. Đây là dịp để các bạn trẻ gặp gỡ, học hỏi và chia sẻ với nhau về đời sống đức tin cũng như vai trò của người trẻ trong Giáo hội. Những cuộc gặp gỡ như thế giúp các ca viên nhận ra rằng hành trình của mình không chỉ giới hạn trong phạm vi ca đoàn, mà còn nằm trong một cộng đoàn giới trẻ rộng lớn hơn. Qua những hoạt động chung, tình liên đới giữa các bạn trẻ được củng cố và mỗi người có thêm động lực để sống đức tin cách tích cực hơn. Buổi hội thảo mang lại nhiều ý nghĩa và giá trị thiết thực giúp anh chị em ca viên thêm củng cố đức tin, định hướng lối sống và gắn kết tình hiệp thông. Qua những bài chia sẻ của quý cha, các bạn trẻ được hướng dẫn cách yêu thương, trách nhiệm với bản thân, gia đình và cộng đồng.",
-      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/001.jpg",
+      "coverImage": {
+        "id": "media/2018/workshop/055b3cd12e3d0282/original.jpg",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/055b3cd12e3d0282/medium.jpg",
+        "alt": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo, Hải Dương",
+        "caption": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo, Hải Dương",
+        "event": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo, Hải Dương",
+        "sourceFilename": "ảnh bìa ( cả năm ).jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/055b3cd12e3d0282/thumb.jpg",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/055b3cd12e3d0282/medium.jpg",
+            "width": 960,
+            "height": 640
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/055b3cd12e3d0282/original.jpg",
+            "width": 960,
+            "height": 640
+          }
+        }
+      },
       "album": {
         "manifest": "data/albums/2018/2018-workshop.json",
         "count": 4,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/001.jpg",
-            "caption": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo · ảnh 1",
-            "alt": "Ảnh tư liệu: Hội thảo Giới trẻ tại Giáo xứ Phú Tảo",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/001.jpg",
-            "variants": {}
+            "id": "media/2018/workshop/cd3b4c56f7425235/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/cd3b4c56f7425235/medium.jpg",
+            "alt": "Các bạn trẻ quy tụ tại Giáo xứ Phú Tảo",
+            "caption": "Các bạn trẻ quy tụ tại Giáo xứ Phú Tảo",
+            "event": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo, Hải Dương",
+            "sourceFilename": "1786532462585_1995884631902468284_7736263391661925970_aae26bd8a4ab49757aa39132d444649d.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/cd3b4c56f7425235/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/cd3b4c56f7425235/medium.jpg",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/cd3b4c56f7425235/original.jpg",
+                "width": 1837,
+                "height": 1225
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/002.jpg",
-            "caption": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo · ảnh 2",
-            "alt": "Ảnh tư liệu: Hội thảo Giới trẻ tại Giáo xứ Phú Tảo",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/002.jpg",
-            "variants": {}
+            "id": "media/2018/workshop/81f1598f9da2c0af/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/81f1598f9da2c0af/medium.jpg",
+            "alt": "Giờ cầu nguyện trong chương trình Hội thảo",
+            "caption": "Giờ cầu nguyện trong chương trình Hội thảo",
+            "event": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo, Hải Dương",
+            "sourceFilename": "1786532464499_1995884631902468284_7736263391661925970_04515113d666c110c0d809681651f372.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/81f1598f9da2c0af/thumb.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/81f1598f9da2c0af/medium.jpg",
+                "width": 1280,
+                "height": 960
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/81f1598f9da2c0af/original.jpg",
+                "width": 2000,
+                "height": 1500
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/003.jpg",
-            "caption": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo · ảnh 3",
-            "alt": "Ảnh tư liệu: Hội thảo Giới trẻ tại Giáo xứ Phú Tảo",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/003.jpg",
-            "variants": {}
+            "id": "media/2018/workshop/39c0b7b7e1ea33c1/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/39c0b7b7e1ea33c1/medium.jpg",
+            "alt": "Ca đoàn chụp ảnh lưu niệm tại Phú Tảo",
+            "caption": "Ca đoàn chụp ảnh lưu niệm tại Phú Tảo",
+            "event": "Hội thảo Giới trẻ tại Giáo xứ Phú Tảo, Hải Dương",
+            "sourceFilename": "1786532467207_1995884631902468284_7736263391661925970_94122d629c7f9a7a0d9bd013162c13fb.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/39c0b7b7e1ea33c1/thumb.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/39c0b7b7e1ea33c1/medium.jpg",
+                "width": 1280,
+                "height": 960
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/workshop/39c0b7b7e1ea33c1/original.jpg",
+                "width": 2048,
+                "height": 1536
+              }
+            }
           }
         ]
       }
@@ -329,31 +743,109 @@
       "title": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
       "description": "Chủ đề: “Điều duy nhất con thực sự ước muốn là yêu cho đến chết vì yêu.”",
       "body": "Chủ đề: “Điều duy nhất con thực sự ước muốn là yêu cho đến chết vì yêu.”\n\nNgày 10/10/2018 là một ngày đặc biệt khi Ca đoàn Giới trẻ Têrêsa cùng nhau mừng Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu. Chủ đề của ngày lễ được gợi lên từ chính linh đạo của Thánh Têrêsa: “Điều duy nhất con thực sự ước muốn là yêu cho đến chết vì yêu. Đối với một ca đoàn mang tên Têrêsa, đây không chỉ là một câu chủ đề mà còn là lời nhắc nhở về căn tính và sứ mạng. Ca viên không chỉ được mời gọi hát hay, phục vụ tốt, mà trên hết là biết yêu Chúa và yêu tha nhân bằng những việc nhỏ bé được thực hiện với một tình yêu lớn lao.\n\nNăm nay, một dấu ấn rất lớn của ca đoàn đó là tổ chức một chương trình hoan ca rất ý nghĩa và đặc sắc tại dân nhà thờ để mừng kỷ niệm 3 năm thành lập ca đoàn, Mặc dù 3 năm không phải thời gian dài, đó vẫn chỉ là một sự khởi đầu nhưng chúng con luôn tin tưởng rằng, với sự nhiệt huyết của tuổi trẻ, chúng con sẽ cố gắng phục vụ ca đoàn và phát triển ca đoàn cách mạnh mẽ nhằm có thể mời gọi thật nhiều bạn trẻ trở về với Chúa, tham gia các công việc phục vụ Chúa bằng những lời ca tiếng hát. Và một ý nghĩa cũng rất lơn lao trong ngày lễ quan thầy đó là dịp để toàn thể anh chị em ca viên cùng nhìn lại chặng đường đã qua, tạ ơn Chúa vì những hồng ân và xin Thánh Têrêsa tiếp tục đồng hành, hướng dẫn mỗi ca viên trên hành trình phục vụ.",
-      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/001.jpg",
+      "coverImage": {
+        "id": "media/2018/patron/5e6b8a282df46bf8/original.jpg",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/5e6b8a282df46bf8/medium.jpg",
+        "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+        "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+        "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+        "sourceFilename": "ảnh bìa.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/5e6b8a282df46bf8/thumb.jpg",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/5e6b8a282df46bf8/medium.jpg",
+            "width": 1280,
+            "height": 854
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/5e6b8a282df46bf8/original.jpg",
+            "width": 2048,
+            "height": 1366
+          }
+        }
+      },
       "album": {
         "manifest": "data/albums/2018/2018-patron.json",
         "count": 25,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/001.jpg",
-            "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 1",
-            "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/001.jpg",
-            "variants": {}
+            "id": "media/2018/patron/5e6b8a282df46bf8/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/5e6b8a282df46bf8/medium.jpg",
+            "alt": "Ca đoàn phục vụ Thánh lễ Quan thầy",
+            "caption": "Ca đoàn phục vụ Thánh lễ Quan thầy",
+            "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+            "sourceFilename": "ảnh bìa.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/5e6b8a282df46bf8/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/5e6b8a282df46bf8/medium.jpg",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/5e6b8a282df46bf8/original.jpg",
+                "width": 2048,
+                "height": 1366
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/002.jpg",
-            "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 2",
-            "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/002.jpg",
-            "variants": {}
+            "id": "media/2018/patron/09288037294dab67/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/09288037294dab67/medium.jpg",
+            "alt": "Cộng đoàn hiệp dâng Thánh lễ",
+            "caption": "Cộng đoàn hiệp dâng Thánh lễ",
+            "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+            "sourceFilename": "lễ quan thầy17.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/09288037294dab67/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/09288037294dab67/medium.jpg",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/09288037294dab67/original.jpg",
+                "width": 2048,
+                "height": 1366
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/003.jpg",
-            "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa · ảnh 3",
-            "alt": "Ảnh tư liệu: Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/003.jpg",
-            "variants": {}
+            "id": "media/2018/patron/4d5ab73cdfdf7fc4/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/4d5ab73cdfdf7fc4/medium.jpg",
+            "alt": "Các ca viên cất tiếng hát trong ngày lễ",
+            "caption": "Các ca viên cất tiếng hát trong ngày lễ",
+            "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+            "sourceFilename": "lễ quan thầy25.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/4d5ab73cdfdf7fc4/thumb.jpg",
+                "width": 480,
+                "height": 393
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/4d5ab73cdfdf7fc4/medium.jpg",
+                "width": 1280,
+                "height": 1048
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/4d5ab73cdfdf7fc4/original.jpg",
+                "width": 2048,
+                "height": 1677
+              }
+            }
           }
         ]
       }
@@ -366,31 +858,109 @@
       "title": "Bầu Ban Điều hành mới",
       "description": "Ngày 10/11/2018, ngay sau ngày mừng lễ quan thầy 1 tháng, ca đoàn chúng đánh dấu một cột mốc quan trọng trong việc tổ chức của ca đoàn khi ca đoàn tiến hành bầu Ban Điều hành mới.",
       "body": "Ngày 10/11/2018, ngay sau ngày mừng lễ quan thầy 1 tháng, ca đoàn chúng đánh dấu một cột mốc quan trọng trong việc tổ chức của ca đoàn khi ca đoàn tiến hành bầu Ban Điều hành mới. Việc chuyển giao Ban Điều hành không đơn thuần là thay đổi nhân sự, mà còn là sự tiếp nối trách nhiệm và sứ mạng. Những người được tín nhiệm bước vào một nhiệm kỳ mới với trách nhiệm đồng hành, phục vụ và xây dựng ca đoàn. Mỗi nhiệm kỳ đi qua đều để lại những dấu ấn riêng. Và mỗi người từng đảm nhận trách nhiệm trong Ban Điều hành đều góp một phần vào hành trình chung, để Ca đoàn Giới trẻ Têrêsa ngày càng trưởng thành và phát triển. Với những sự cống hiến của anh chị ban điều hành cũ, những người đã gầy công vất vả xây dựng ca đoàn từ những ngày đầu. Đặc biệt, anh cựu trưởng Quân cũng là một trong số ít anh em thời đó trực tiếp kết hợp với cha đặc trách Gio-an lên ý tưởng thành lập ca đoàn, rất nhiều khó khăn và áp lực khi để quy tu được số lượng bạn trẻ tham gia ca đoàn thời điểm đó rất khó khăn. Tạ ơn Chúa, sau những nỗ lực đó của mọi người, ca đoàn chúng con đã được hình thành và phát triển được 3 năm và ngày hôm nay, chúng con lại có những anh chị tân ban điều hành rất trẻ trung, năng động và nhiệt huyết, sẽ dẫn dắt ca đoàn ngày một phát triển hơn nữa và tiếp nối sứ mạng.",
-      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/001.jpg",
+      "coverImage": {
+        "id": "media/2018/election/948d2a6b03b9828d/original.jpg",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/948d2a6b03b9828d/medium.jpg",
+        "alt": "Bầu Ban Điều hành mới",
+        "caption": "Bầu Ban Điều hành mới",
+        "event": "Bầu Ban Điều hành mới",
+        "sourceFilename": "ảnh bìa.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/948d2a6b03b9828d/thumb.jpg",
+            "width": 480,
+            "height": 270
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/948d2a6b03b9828d/medium.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/948d2a6b03b9828d/original.jpg",
+            "width": 2048,
+            "height": 1152
+          }
+        }
+      },
       "album": {
         "manifest": "data/albums/2018/2018-election.json",
         "count": 5,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/001.jpg",
-            "caption": "Bầu Ban điều hành mới · ảnh 1",
-            "alt": "Ảnh tư liệu: Bầu Ban điều hành mới",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/001.jpg",
-            "variants": {}
+            "id": "media/2018/election/afb3f361655de829/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/afb3f361655de829/medium.jpg",
+            "alt": "Buổi họp bầu Ban Điều hành ca đoàn",
+            "caption": "Buổi họp bầu Ban Điều hành ca đoàn",
+            "event": "Bầu Ban Điều hành mới",
+            "sourceFilename": "bầu ban điều hành1.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/afb3f361655de829/thumb.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/afb3f361655de829/medium.jpg",
+                "width": 1280,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/afb3f361655de829/original.jpg",
+                "width": 2048,
+                "height": 1152
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/002.jpg",
-            "caption": "Bầu Ban điều hành mới · ảnh 2",
-            "alt": "Ảnh tư liệu: Bầu Ban điều hành mới",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/002.jpg",
-            "variants": {}
+            "id": "media/2018/election/5a276178e50b5087/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/5a276178e50b5087/medium.jpg",
+            "alt": "Các thành viên Ban Điều hành trong buổi họp",
+            "caption": "Các thành viên Ban Điều hành trong buổi họp",
+            "event": "Bầu Ban Điều hành mới",
+            "sourceFilename": "bầu ban điều hành3.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/5a276178e50b5087/thumb.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/5a276178e50b5087/medium.jpg",
+                "width": 1280,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/5a276178e50b5087/original.jpg",
+                "width": 2048,
+                "height": 1152
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/003.jpg",
-            "caption": "Bầu Ban điều hành mới · ảnh 3",
-            "alt": "Ảnh tư liệu: Bầu Ban điều hành mới",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/003.jpg",
-            "variants": {}
+            "id": "media/2018/election/0db64282c2990a9f/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/0db64282c2990a9f/medium.jpg",
+            "alt": "Ca viên tham dự buổi bầu Ban Điều hành",
+            "caption": "Ca viên tham dự buổi bầu Ban Điều hành",
+            "event": "Bầu Ban Điều hành mới",
+            "sourceFilename": "bầu ban điều hành4.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/0db64282c2990a9f/thumb.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/0db64282c2990a9f/medium.jpg",
+                "width": 1280,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/election/0db64282c2990a9f/original.jpg",
+                "width": 2048,
+                "height": 1152
+              }
+            }
           }
         ]
       }
@@ -403,31 +973,109 @@
       "title": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
       "description": "Địa điểm: Xã Nậm Xé, huyện Văn Bàn, tỉnh Lào Cai Khép lại năm 2018 là một trong những hoạt động để lại nhiều dấu ấn nhất: chương trình thiện nguyện “Giáng Sinh Trao Yêu Thương”, được tổ chức trong hai ngày 15–16/12 tại xã Nậm Xé, huyện Văn Bàn, tỉnh Lào Cai.",
       "body": "Địa điểm: Xã Nậm Xé, huyện Văn Bàn, tỉnh Lào Cai\n\nKhép lại năm 2018 là một trong những hoạt động để lại nhiều dấu ấn nhất: chương trình thiện nguyện “Giáng Sinh Trao Yêu Thương”, được tổ chức trong hai ngày 15–16/12 tại xã Nậm Xé, huyện Văn Bàn, tỉnh Lào Cai.\n\nĐể tiếp nối chương trình thiện nguyện rất ý nghĩa của năm ngoái, các thành viên ban điều hành ca đoàn lại lên ý tưởng tổ chức chương trình thiện nguyện, những anh chị em ca viên đã cùng nhau lên đường đến với vùng cao trong những ngày chuẩn bị đón Giáng Sinh. Chuyến đi mang theo những món quà vật chất, nhưng hơn hết là mong muốn mang đến một chút hơi ấm và niềm vui cho những người còn gặp nhiều khó khăn.\n\nVới ca đoàn, thiện nguyện không chỉ là trao đi những món quà. Đó còn là cơ hội để mỗi ca viên bước ra khỏi nhịp sống sinh hoạt quen thuộc của mình, đến gần hơn với những hoàn cảnh khó khăn và học cách sẻ chia. Hai ngày tại Nậm Xé đã trở thành một kỷ niệm đẹp trong hành trình của Ca đoàn Giới trẻ Têrêsa. Những con đường xa, những khoảnh khắc cùng nhau phục vụ, những cuộc gặp gỡ và nụ cười của người dân nơi vùng cao đã khép lại năm 2018 bằng một thông điệp thật đẹp: Giáng Sinh không chỉ là nhận lấy tình yêu, mà còn là trao ban tình yêu giữa con người với con người.",
-      "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/001.jpg",
+      "coverImage": {
+        "id": "media/2018/charity/2f57b792f6dddb27/original.jpg",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/2f57b792f6dddb27/medium.jpg",
+        "alt": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+        "caption": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+        "event": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+        "sourceFilename": "ảnh bìa.jpg",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/2f57b792f6dddb27/thumb.jpg",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/2f57b792f6dddb27/medium.jpg",
+            "width": 810,
+            "height": 540
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/2f57b792f6dddb27/original.jpg",
+            "width": 810,
+            "height": 540
+          }
+        }
+      },
       "album": {
         "manifest": "data/albums/2018/2018-charity.json",
         "count": 9,
         "preview": [
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/001.jpg",
-            "caption": "Giáng Sinh Trao Yêu Thương · ảnh 1",
-            "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/001.jpg",
-            "variants": {}
+            "id": "media/2018/charity/38b895f7035274dd/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/38b895f7035274dd/medium.jpg",
+            "alt": "Hành trình đến với cộng đoàn trong chuyến thiện nguyện",
+            "caption": "Hành trình đến với cộng đoàn trong chuyến thiện nguyện",
+            "event": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+            "sourceFilename": "thiện nguyện3.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/38b895f7035274dd/thumb.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/38b895f7035274dd/medium.jpg",
+                "width": 960,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/38b895f7035274dd/original.jpg",
+                "width": 960,
+                "height": 720
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/002.jpg",
-            "caption": "Giáng Sinh Trao Yêu Thương · ảnh 2",
-            "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/002.jpg",
-            "variants": {}
+            "id": "media/2018/charity/b72e8c39266d5636/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/b72e8c39266d5636/medium.jpg",
+            "alt": "Những phần quà được chuẩn bị cho chuyến đi",
+            "caption": "Những phần quà được chuẩn bị cho chuyến đi",
+            "event": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+            "sourceFilename": "thiện nguyện6.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/b72e8c39266d5636/thumb.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/b72e8c39266d5636/medium.jpg",
+                "width": 1280,
+                "height": 960
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/b72e8c39266d5636/original.jpg",
+                "width": 2048,
+                "height": 1536
+              }
+            }
           },
           {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/003.jpg",
-            "caption": "Giáng Sinh Trao Yêu Thương · ảnh 3",
-            "alt": "Ảnh tư liệu: Giáng Sinh Trao Yêu Thương",
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/003.jpg",
-            "variants": {}
+            "id": "media/2018/charity/f1f6809af3f09a8b/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/f1f6809af3f09a8b/medium.jpg",
+            "alt": "Chia sẻ quà và niềm vui Giáng Sinh",
+            "caption": "Chia sẻ quà và niềm vui Giáng Sinh",
+            "event": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+            "sourceFilename": "thiện nguyện8.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/f1f6809af3f09a8b/thumb.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/f1f6809af3f09a8b/medium.jpg",
+                "width": 590,
+                "height": 443
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/f1f6809af3f09a8b/original.jpg",
+                "width": 590,
+                "height": 443
+              }
+            }
           }
         ]
       }

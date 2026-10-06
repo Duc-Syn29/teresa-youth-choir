@@ -1,0 +1,789 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "activityId": "2025-le-quan-thay-10-nam",
+  "title": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+  "count": 30,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/807de8044a7a23e3143439ea/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/807de8044a7a23e3143439ea/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/807de8044a7a23e3143439ea/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/807de8044a7a23e3143439ea/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/807de8044a7a23e3143439ea/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": " ảnh bìa ( cả năm ).JPG",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/343da1ccce8f2edd7376a4bd/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/343da1ccce8f2edd7376a4bd/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/343da1ccce8f2edd7376a4bd/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/343da1ccce8f2edd7376a4bd/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/343da1ccce8f2edd7376a4bd/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy1.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0c860caf5f00ba403052b220/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0c860caf5f00ba403052b220/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0c860caf5f00ba403052b220/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0c860caf5f00ba403052b220/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0c860caf5f00ba403052b220/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy2.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/62035978a8463c54fa2ece5a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/62035978a8463c54fa2ece5a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/62035978a8463c54fa2ece5a/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/62035978a8463c54fa2ece5a/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/62035978a8463c54fa2ece5a/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy3.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7ffac692ece3cd2a4e6be806/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7ffac692ece3cd2a4e6be806/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7ffac692ece3cd2a4e6be806/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7ffac692ece3cd2a4e6be806/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7ffac692ece3cd2a4e6be806/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy4.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b312438f5a2682d23ecab12f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b312438f5a2682d23ecab12f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b312438f5a2682d23ecab12f/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b312438f5a2682d23ecab12f/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b312438f5a2682d23ecab12f/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy5.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2e56b7b5a30153c840ad2da3/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2e56b7b5a30153c840ad2da3/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2e56b7b5a30153c840ad2da3/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2e56b7b5a30153c840ad2da3/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2e56b7b5a30153c840ad2da3/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy6.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/23f680a4810db7b640347a52/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/23f680a4810db7b640347a52/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/23f680a4810db7b640347a52/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/23f680a4810db7b640347a52/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/23f680a4810db7b640347a52/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy7.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0c2801df915f1893194c6a34/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0c2801df915f1893194c6a34/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0c2801df915f1893194c6a34/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0c2801df915f1893194c6a34/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/0c2801df915f1893194c6a34/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy8.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/cb71c2b69e4f8313bcea3c31/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/cb71c2b69e4f8313bcea3c31/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/cb71c2b69e4f8313bcea3c31/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/cb71c2b69e4f8313bcea3c31/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/cb71c2b69e4f8313bcea3c31/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy9.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/48f241b86a9192690f22753d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/48f241b86a9192690f22753d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/48f241b86a9192690f22753d/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/48f241b86a9192690f22753d/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/48f241b86a9192690f22753d/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy10.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8afe06bca9a539c11126a631/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8afe06bca9a539c11126a631/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8afe06bca9a539c11126a631/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8afe06bca9a539c11126a631/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/8afe06bca9a539c11126a631/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy11.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5bf3ea7b4a4fa19b16765644/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5bf3ea7b4a4fa19b16765644/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5bf3ea7b4a4fa19b16765644/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5bf3ea7b4a4fa19b16765644/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5bf3ea7b4a4fa19b16765644/original.webp",
+          "width": 1365,
+          "height": 2048
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy12.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7a756f0ad59723768776541d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7a756f0ad59723768776541d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7a756f0ad59723768776541d/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7a756f0ad59723768776541d/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7a756f0ad59723768776541d/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy13.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b64a87e8bb3809e3fa0680a3/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b64a87e8bb3809e3fa0680a3/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b64a87e8bb3809e3fa0680a3/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b64a87e8bb3809e3fa0680a3/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b64a87e8bb3809e3fa0680a3/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy14.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7dbfc7d4bf27e83c63c81d4e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7dbfc7d4bf27e83c63c81d4e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7dbfc7d4bf27e83c63c81d4e/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7dbfc7d4bf27e83c63c81d4e/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/7dbfc7d4bf27e83c63c81d4e/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy15.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1615bc035c40023bbf12b21c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1615bc035c40023bbf12b21c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1615bc035c40023bbf12b21c/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1615bc035c40023bbf12b21c/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1615bc035c40023bbf12b21c/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy16.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c8d0d70675e64f9b72bd2dd2/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c8d0d70675e64f9b72bd2dd2/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c8d0d70675e64f9b72bd2dd2/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c8d0d70675e64f9b72bd2dd2/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c8d0d70675e64f9b72bd2dd2/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy17.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/70a19c3c2425712979a1d639/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/70a19c3c2425712979a1d639/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/70a19c3c2425712979a1d639/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/70a19c3c2425712979a1d639/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/70a19c3c2425712979a1d639/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy18.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5b4802323c67723d1132743a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5b4802323c67723d1132743a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5b4802323c67723d1132743a/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5b4802323c67723d1132743a/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5b4802323c67723d1132743a/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy19.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/09a86a9f97d4e33c5c9b8db2/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/09a86a9f97d4e33c5c9b8db2/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/09a86a9f97d4e33c5c9b8db2/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/09a86a9f97d4e33c5c9b8db2/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/09a86a9f97d4e33c5c9b8db2/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy20.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d565254f531d6e89dec8ce4b/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d565254f531d6e89dec8ce4b/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d565254f531d6e89dec8ce4b/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d565254f531d6e89dec8ce4b/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d565254f531d6e89dec8ce4b/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy21.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e47a1669f268227a7eb59fbc/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e47a1669f268227a7eb59fbc/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e47a1669f268227a7eb59fbc/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e47a1669f268227a7eb59fbc/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e47a1669f268227a7eb59fbc/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy22.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b90a8fdd587f9a95b2e4daf6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b90a8fdd587f9a95b2e4daf6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b90a8fdd587f9a95b2e4daf6/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b90a8fdd587f9a95b2e4daf6/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b90a8fdd587f9a95b2e4daf6/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy23.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d060e97bfd0289d3d7751341/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d060e97bfd0289d3d7751341/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d060e97bfd0289d3d7751341/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d060e97bfd0289d3d7751341/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/d060e97bfd0289d3d7751341/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy24.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/dbfe5a018215499a0e6726fc/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/dbfe5a018215499a0e6726fc/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/dbfe5a018215499a0e6726fc/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/dbfe5a018215499a0e6726fc/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/dbfe5a018215499a0e6726fc/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy25.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b7b40a1c38e8facd21efd5fd/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b7b40a1c38e8facd21efd5fd/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b7b40a1c38e8facd21efd5fd/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b7b40a1c38e8facd21efd5fd/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b7b40a1c38e8facd21efd5fd/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy26.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2d59419294142f088f9ca6c8/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2d59419294142f088f9ca6c8/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2d59419294142f088f9ca6c8/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2d59419294142f088f9ca6c8/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2d59419294142f088f9ca6c8/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy27.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c1698a12afbe0fd34b676868/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c1698a12afbe0fd34b676868/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c1698a12afbe0fd34b676868/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c1698a12afbe0fd34b676868/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/c1698a12afbe0fd34b676868/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy28.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f68d48a20f040da38faec678/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f68d48a20f040da38faec678/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f68d48a20f040da38faec678/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f68d48a20f040da38faec678/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f68d48a20f040da38faec678/original.webp",
+          "width": 2048,
+          "height": 1366
+        }
+      },
+      "alt": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "caption": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "event": "Tổ chức mừng lễ quan thầy Thánh Teresa Hài Đồng Giêsu và Kỷ niệm 10 năm thành lập ca đoàn.",
+      "sourceFilename": "lễ quan thầy29.jpg",
+      "sourceDirectory": "Lễ Quan thầy Thánh Têrêsa Hài Đồng Giêsu và kỷ niệm 10 năm "
+    }
+  ]
+}

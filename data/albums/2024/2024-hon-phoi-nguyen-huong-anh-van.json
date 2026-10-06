@@ -3,33 +3,33 @@
   "year": 2024,
   "activityId": "2024-hon-phoi-nguyen-huong-anh-van",
   "title": "Lễ hôn phối Nguyễn Hương và Anh Văn",
-  "topic": "Hát lễ cưới",
-  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-nguyen-huong-anh-van/001-22002281aa/medium.jpg",
   "count": 1,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-nguyen-huong-anh-van/001-22002281aa/medium.jpg",
-      "alt": "Ca đoàn trong lễ hôn phối nguyễn hương và anh văn.",
-      "caption": "Ca đoàn trong lễ hôn phối nguyễn hương và anh văn.",
-      "id": "media/2024/2024-hon-phoi-nguyen-huong-anh-van/001-22002281aa/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/97a10f3188eb76af95cb92be/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/97a10f3188eb76af95cb92be/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-nguyen-huong-anh-van/001-22002281aa/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/97a10f3188eb76af95cb92be/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-nguyen-huong-anh-van/001-22002281aa/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/97a10f3188eb76af95cb92be/medium.webp",
           "width": 960,
           "height": 640
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-nguyen-huong-anh-van/001-22002281aa/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/97a10f3188eb76af95cb92be/medium.webp",
           "width": 960,
           "height": 640
         }
       },
-      "event": "Lễ hôn phối Nguyễn Hương và Anh Văn"
+      "alt": "Lễ hôn phối Nguyễn Hương và Anh Văn",
+      "caption": "Lễ hôn phối Nguyễn Hương và Anh Văn",
+      "event": "Lễ hôn phối Nguyễn Hương và Anh Văn",
+      "sourceFilename": "1789841336098_1995884631902468284_7736263391661925970_585da6ba05dba142c3d914b6e744461a.jpg",
+      "sourceDirectory": "Lễ Cưới chị Hương - anh Văn 2024"
     }
   ]
 }

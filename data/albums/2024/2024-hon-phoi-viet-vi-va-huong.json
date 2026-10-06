@@ -3,33 +3,33 @@
   "year": 2024,
   "activityId": "2024-hon-phoi-viet-vi-va-huong",
   "title": "Lễ hôn phối Giuse Trần Viết Vĩ và Hương",
-  "topic": "Hát lễ cưới",
-  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-viet-vi-va-huong/001-dafe194306/medium.jpg",
   "count": 1,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-viet-vi-va-huong/001-dafe194306/medium.jpg",
-      "alt": "Ca đoàn trong lễ hôn phối giuse trần viết vĩ và hương.",
-      "caption": "Ca đoàn trong lễ hôn phối giuse trần viết vĩ và hương.",
-      "id": "media/2024/2024-hon-phoi-viet-vi-va-huong/001-dafe194306/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9b761e2a16ca247885501431/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9b761e2a16ca247885501431/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-viet-vi-va-huong/001-dafe194306/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9b761e2a16ca247885501431/thumb.webp",
           "width": 320,
           "height": 480
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-viet-vi-va-huong/001-dafe194306/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9b761e2a16ca247885501431/medium.webp",
           "width": 854,
           "height": 1280
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-hon-phoi-viet-vi-va-huong/001-dafe194306/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9b761e2a16ca247885501431/medium.webp",
           "width": 854,
           "height": 1280
         }
       },
-      "event": "Lễ hôn phối Giuse Trần Viết Vĩ và Hương"
+      "alt": "Lễ hôn phối Giuse Trần Viết Vĩ và Hương",
+      "caption": "Lễ hôn phối Giuse Trần Viết Vĩ và Hương",
+      "event": "Lễ hôn phối Giuse Trần Viết Vĩ và Hương",
+      "sourceFilename": "1789841336069_1995884631902468284_7736263391661925970_7e3c436f950852f3cc5b193d8186a1b9.jpg",
+      "sourceDirectory": "Lễ Cưới a Vĩ - Hương 2024"
     }
   ]
 }

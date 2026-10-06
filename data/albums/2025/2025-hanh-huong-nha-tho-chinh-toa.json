@@ -1,0 +1,529 @@
+{
+  "schemaVersion": 1,
+  "year": 2025,
+  "activityId": "2025-hanh-huong-nha-tho-chinh-toa",
+  "title": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+  "count": 20,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9245abd90866db32b3cd01da/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9245abd90866db32b3cd01da/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9245abd90866db32b3cd01da/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9245abd90866db32b3cd01da/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/9245abd90866db32b3cd01da/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "sourceFilename": "ảnh bìa.jpeg",
+      "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/fdc9e1609d9df108576d421a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/fdc9e1609d9df108576d421a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/fdc9e1609d9df108576d421a/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/fdc9e1609d9df108576d421a/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/fdc9e1609d9df108576d421a/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "sourceFilename": "IMG_4058.CR2",
+      "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f672c7b7e6cb36bf6c8a0d58/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f672c7b7e6cb36bf6c8a0d58/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f672c7b7e6cb36bf6c8a0d58/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f672c7b7e6cb36bf6c8a0d58/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f672c7b7e6cb36bf6c8a0d58/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "sourceFilename": "IMG_4059.CR2",
+      "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f36bb2669921ec289c94ac09/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f36bb2669921ec289c94ac09/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f36bb2669921ec289c94ac09/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f36bb2669921ec289c94ac09/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/f36bb2669921ec289c94ac09/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "sourceFilename": "IMG_4062.CR2",
+      "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/edb7ba1853b2cbe752a5ae6d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/edb7ba1853b2cbe752a5ae6d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/edb7ba1853b2cbe752a5ae6d/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/edb7ba1853b2cbe752a5ae6d/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/edb7ba1853b2cbe752a5ae6d/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "sourceFilename": "IMG_4075.CR2",
+      "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/57bc06070dba58b1e75957c3/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/57bc06070dba58b1e75957c3/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/57bc06070dba58b1e75957c3/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/57bc06070dba58b1e75957c3/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/57bc06070dba58b1e75957c3/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "sourceFilename": "IMG_4082.CR2",
+      "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ecf4c754d55b6fbf3e279263/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ecf4c754d55b6fbf3e279263/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ecf4c754d55b6fbf3e279263/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ecf4c754d55b6fbf3e279263/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/ecf4c754d55b6fbf3e279263/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "sourceFilename": "IMG_4122.CR2",
+      "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3adefc0a92c384a14fab3c34/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3adefc0a92c384a14fab3c34/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3adefc0a92c384a14fab3c34/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3adefc0a92c384a14fab3c34/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/3adefc0a92c384a14fab3c34/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "sourceFilename": "IMG_4137.CR2",
+      "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2f17c898d6ba915d5c94985a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2f17c898d6ba915d5c94985a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2f17c898d6ba915d5c94985a/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2f17c898d6ba915d5c94985a/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/2f17c898d6ba915d5c94985a/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "sourceFilename": "IMG_4139.CR2",
+      "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e52443e2898d3567639c0a2c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e52443e2898d3567639c0a2c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e52443e2898d3567639c0a2c/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e52443e2898d3567639c0a2c/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/e52443e2898d3567639c0a2c/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "sourceFilename": "IMG_4140.CR2",
+      "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/77f307f1d29aed8e06fa363c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/77f307f1d29aed8e06fa363c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/77f307f1d29aed8e06fa363c/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/77f307f1d29aed8e06fa363c/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/77f307f1d29aed8e06fa363c/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "sourceFilename": "IMG_4141.CR2",
+      "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/20b642475e8adf673df95f76/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/20b642475e8adf673df95f76/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/20b642475e8adf673df95f76/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/20b642475e8adf673df95f76/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/20b642475e8adf673df95f76/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "sourceFilename": "IMG_4144.CR2",
+      "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/eacf66503a75ce536983f467/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/eacf66503a75ce536983f467/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/eacf66503a75ce536983f467/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/eacf66503a75ce536983f467/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/eacf66503a75ce536983f467/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "sourceFilename": "IMG_4160.CR2",
+      "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/eacf86bc044dee3e6facb8b8/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/eacf86bc044dee3e6facb8b8/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/eacf86bc044dee3e6facb8b8/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/eacf86bc044dee3e6facb8b8/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/eacf86bc044dee3e6facb8b8/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "sourceFilename": "IMG_4168.CR2",
+      "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/706e71bf7f8b53b6480e579f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/706e71bf7f8b53b6480e579f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/706e71bf7f8b53b6480e579f/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/706e71bf7f8b53b6480e579f/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/706e71bf7f8b53b6480e579f/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "sourceFilename": "IMG_4178.CR2",
+      "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1823a99059dd5127c23f27ed/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1823a99059dd5127c23f27ed/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1823a99059dd5127c23f27ed/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1823a99059dd5127c23f27ed/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/1823a99059dd5127c23f27ed/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "sourceFilename": "IMG_4195.CR2",
+      "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a2ba4d10f6f6ecfc20a8c329/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a2ba4d10f6f6ecfc20a8c329/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a2ba4d10f6f6ecfc20a8c329/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a2ba4d10f6f6ecfc20a8c329/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/a2ba4d10f6f6ecfc20a8c329/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "sourceFilename": "IMG_4196.CR2",
+      "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b1df76a108a4c96162893a8e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b1df76a108a4c96162893a8e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b1df76a108a4c96162893a8e/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b1df76a108a4c96162893a8e/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/b1df76a108a4c96162893a8e/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "sourceFilename": "IMG_4198.CR2",
+      "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/938600105b5cab6b287a7d03/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/938600105b5cab6b287a7d03/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/938600105b5cab6b287a7d03/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/938600105b5cab6b287a7d03/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/938600105b5cab6b287a7d03/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "sourceFilename": "IMG_4211.CR2",
+      "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5b1ef0aee55dc24e3509b60b/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5b1ef0aee55dc24e3509b60b/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5b1ef0aee55dc24e3509b60b/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5b1ef0aee55dc24e3509b60b/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/optimized/5b1ef0aee55dc24e3509b60b/original.webp",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "alt": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "caption": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "event": "Phục vụ Thánh Lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội.",
+      "sourceFilename": "nội dung.jpeg",
+      "sourceDirectory": "Phục vụ Thánh lễ hành hương Năm Thánh tại Nhà thờ Chính Tòa Hà Nội"
+    }
+  ]
+}

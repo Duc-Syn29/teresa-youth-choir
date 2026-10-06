@@ -6,418 +6,1356 @@
   "count": 54,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/001/medium.jpg?v=333554",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4b7250442db783b36c51c892/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4b7250442db783b36c51c892/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4b7250442db783b36c51c892/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4b7250442db783b36c51c892/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4b7250442db783b36c51c892/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "caption": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "ảnh bìa.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1398dd61d7a0b47bad32746f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1398dd61d7a0b47bad32746f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1398dd61d7a0b47bad32746f/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1398dd61d7a0b47bad32746f/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1398dd61d7a0b47bad32746f/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
       "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 1",
       "caption": "Ca đoàn chuẩn bị quà và đến với điểm thiện nguyện tại Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/001/original.jpg",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện1.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cadd00109625879f83cead51/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cadd00109625879f83cead51/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/001/thumb.jpg?v=60620",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cadd00109625879f83cead51/thumb.webp",
           "width": 480,
           "height": 318
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/001/medium.jpg?v=333554",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cadd00109625879f83cead51/medium.webp",
           "width": 1280,
-          "height": 847
+          "height": 848
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/001/original.jpg?v=2149422",
-          "width": 3200,
-          "height": 2119
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cadd00109625879f83cead51/original.webp",
+          "width": 2560,
+          "height": 1696
         }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/002/medium.jpg?v=299261",
+      },
       "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 2",
       "caption": "Ca đoàn chuẩn bị quà và đến với điểm thiện nguyện tại Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/002/original.jpg",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện2.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0bbf5d384fa1621fda625231/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0bbf5d384fa1621fda625231/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/002/thumb.jpg?v=59302",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0bbf5d384fa1621fda625231/thumb.webp",
           "width": 480,
           "height": 318
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/002/medium.jpg?v=299261",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0bbf5d384fa1621fda625231/medium.webp",
           "width": 1280,
-          "height": 847
+          "height": 848
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/002/original.jpg?v=1959497",
-          "width": 3200,
-          "height": 2119
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0bbf5d384fa1621fda625231/original.webp",
+          "width": 2560,
+          "height": 1696
         }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/003/medium.jpg?v=315771",
+      },
       "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 3",
       "caption": "Ca đoàn chuẩn bị quà và đến với điểm thiện nguyện tại Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/003/original.jpg",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện3.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7c84f8f8dab879cd4170301a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7c84f8f8dab879cd4170301a/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/003/thumb.jpg?v=62138",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7c84f8f8dab879cd4170301a/thumb.webp",
           "width": 480,
           "height": 318
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/003/medium.jpg?v=315771",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7c84f8f8dab879cd4170301a/medium.webp",
           "width": 1280,
-          "height": 847
+          "height": 848
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/003/original.jpg?v=2090651",
-          "width": 3200,
-          "height": 2119
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7c84f8f8dab879cd4170301a/original.webp",
+          "width": 2560,
+          "height": 1696
         }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/004/medium.jpg?v=341003",
+      },
       "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 4",
       "caption": "Ca đoàn chuẩn bị quà và đến với điểm thiện nguyện tại Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/004/original.jpg",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện4.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/fac5a8b56745a3cfc89f0357/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/fac5a8b56745a3cfc89f0357/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/004/thumb.jpg?v=65129",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/fac5a8b56745a3cfc89f0357/thumb.webp",
           "width": 480,
           "height": 318
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/004/medium.jpg?v=341003",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/fac5a8b56745a3cfc89f0357/medium.webp",
           "width": 1280,
-          "height": 847
+          "height": 848
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/004/original.jpg?v=2216684",
-          "width": 3200,
-          "height": 2119
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/fac5a8b56745a3cfc89f0357/original.webp",
+          "width": 2560,
+          "height": 1696
         }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/005/medium.jpg?v=452851",
+      },
       "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 5",
       "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/005/original.jpg",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện5.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0f82761875533cf7abd99c5d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0f82761875533cf7abd99c5d/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/005/thumb.jpg?v=85273",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0f82761875533cf7abd99c5d/thumb.webp",
           "width": 480,
           "height": 318
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/005/medium.jpg?v=452851",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0f82761875533cf7abd99c5d/medium.webp",
           "width": 1280,
-          "height": 847
+          "height": 848
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/005/original.jpg?v=2608138",
-          "width": 3200,
-          "height": 2119
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0f82761875533cf7abd99c5d/original.webp",
+          "width": 2560,
+          "height": 1696
         }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/006/medium.jpg?v=459405",
+      },
       "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 6",
       "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/006/original.jpg",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện6.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4d996b00d5ff69426934f19b/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4d996b00d5ff69426934f19b/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/006/thumb.jpg?v=82126",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4d996b00d5ff69426934f19b/thumb.webp",
           "width": 480,
           "height": 318
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/006/medium.jpg?v=459405",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4d996b00d5ff69426934f19b/medium.webp",
           "width": 1280,
-          "height": 847
+          "height": 848
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/006/original.jpg?v=2753752",
-          "width": 3200,
-          "height": 2119
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4d996b00d5ff69426934f19b/original.webp",
+          "width": 2560,
+          "height": 1696
         }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/007/medium.jpg?v=280985",
+      },
       "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 7",
       "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/007/original.jpg",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện7.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3b0eb2f790d32930157fbcf2/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3b0eb2f790d32930157fbcf2/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/007/thumb.jpg?v=60236",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3b0eb2f790d32930157fbcf2/thumb.webp",
           "width": 480,
           "height": 318
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/007/medium.jpg?v=280985",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3b0eb2f790d32930157fbcf2/medium.webp",
           "width": 1280,
-          "height": 847
+          "height": 848
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/007/original.jpg?v=1890401",
-          "width": 3200,
-          "height": 2119
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3b0eb2f790d32930157fbcf2/original.webp",
+          "width": 2560,
+          "height": 1696
         }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/008/medium.jpg?v=482404",
+      },
       "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 8",
       "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/008/original.jpg",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện8.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5a4f9ff522b08350f190df09/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5a4f9ff522b08350f190df09/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/008/thumb.jpg?v=83880",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5a4f9ff522b08350f190df09/thumb.webp",
           "width": 480,
           "height": 318
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/008/medium.jpg?v=482404",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5a4f9ff522b08350f190df09/medium.webp",
           "width": 1280,
-          "height": 847
+          "height": 848
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/008/original.jpg?v=2930317",
-          "width": 3200,
-          "height": 2119
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5a4f9ff522b08350f190df09/original.webp",
+          "width": 2560,
+          "height": 1696
         }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/009/medium.jpg?v=363809",
+      },
       "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 9",
       "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/009/original.jpg",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện9.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/dc445c5f5992473b341a5f2c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/dc445c5f5992473b341a5f2c/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/009/thumb.jpg?v=73252",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/dc445c5f5992473b341a5f2c/thumb.webp",
           "width": 480,
           "height": 318
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/009/medium.jpg?v=363809",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/dc445c5f5992473b341a5f2c/medium.webp",
           "width": 1280,
-          "height": 847
+          "height": 848
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/009/original.jpg?v=2194317",
-          "width": 3200,
-          "height": 2119
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/dc445c5f5992473b341a5f2c/original.webp",
+          "width": 2560,
+          "height": 1696
         }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/010/medium.jpg?v=385500",
+      },
       "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 10",
       "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/010/original.jpg",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện10.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/36180d25109d0ff0797c2e48/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/36180d25109d0ff0797c2e48/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/010/thumb.jpg?v=78095",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/36180d25109d0ff0797c2e48/thumb.webp",
           "width": 480,
           "height": 318
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/010/medium.jpg?v=385500",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/36180d25109d0ff0797c2e48/medium.webp",
           "width": 1280,
-          "height": 847
+          "height": 848
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/010/original.jpg?v=2267494",
-          "width": 3200,
-          "height": 2119
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/36180d25109d0ff0797c2e48/original.webp",
+          "width": 2560,
+          "height": 1696
         }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/011/medium.jpg?v=399332",
+      },
       "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 11",
       "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/011/original.jpg",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện11.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9e182818161586922e404544/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9e182818161586922e404544/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/011/thumb.jpg?v=73623",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9e182818161586922e404544/thumb.webp",
           "width": 480,
           "height": 318
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/011/medium.jpg?v=399332",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9e182818161586922e404544/medium.webp",
           "width": 1280,
-          "height": 847
+          "height": 848
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/011/original.jpg?v=2407104",
-          "width": 3200,
-          "height": 2119
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9e182818161586922e404544/original.webp",
+          "width": 2560,
+          "height": 1696
         }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/012/medium.jpg?v=356047",
+      },
       "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 12",
       "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/012/original.jpg",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện12.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9a4162e4d18417e05e01eec4/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9a4162e4d18417e05e01eec4/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/012/thumb.jpg?v=69687",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9a4162e4d18417e05e01eec4/thumb.webp",
           "width": 480,
           "height": 318
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/012/medium.jpg?v=356047",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9a4162e4d18417e05e01eec4/medium.webp",
           "width": 1280,
-          "height": 847
+          "height": 848
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/012/original.jpg?v=2197706",
-          "width": 3200,
-          "height": 2119
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9a4162e4d18417e05e01eec4/original.webp",
+          "width": 2560,
+          "height": 1696
         }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/013/medium.jpg?v=397189",
+      },
       "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 13",
       "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/013/original.jpg",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện13.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1b2e73d99cf66ec22a66d982/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1b2e73d99cf66ec22a66d982/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/013/thumb.jpg?v=78989",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1b2e73d99cf66ec22a66d982/thumb.webp",
           "width": 480,
           "height": 318
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/013/medium.jpg?v=397189",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1b2e73d99cf66ec22a66d982/medium.webp",
           "width": 1280,
-          "height": 847
+          "height": 848
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/013/original.jpg?v=2331346",
-          "width": 3200,
-          "height": 2119
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1b2e73d99cf66ec22a66d982/original.webp",
+          "width": 2560,
+          "height": 1696
         }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/014/medium.jpg?v=261508",
+      },
       "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 14",
       "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/014/original.jpg",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện14.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5079cf3da319ef2592954022/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5079cf3da319ef2592954022/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/014/thumb.jpg?v=52489",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5079cf3da319ef2592954022/thumb.webp",
           "width": 480,
           "height": 318
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/014/medium.jpg?v=261508",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5079cf3da319ef2592954022/medium.webp",
           "width": 1280,
-          "height": 847
+          "height": 848
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/014/original.jpg?v=1562152",
-          "width": 3200,
-          "height": 2119
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5079cf3da319ef2592954022/original.webp",
+          "width": 2560,
+          "height": 1696
         }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/015/medium.jpg?v=300881",
+      },
       "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 15",
       "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/015/original.jpg",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện15.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/475999f433106b3ead8fe0a7/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/475999f433106b3ead8fe0a7/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/015/thumb.jpg?v=56214",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/475999f433106b3ead8fe0a7/thumb.webp",
           "width": 480,
           "height": 318
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/015/medium.jpg?v=300881",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/475999f433106b3ead8fe0a7/medium.webp",
           "width": 1280,
-          "height": 847
+          "height": 848
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/015/original.jpg?v=1776082",
-          "width": 3200,
-          "height": 2119
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/475999f433106b3ead8fe0a7/original.webp",
+          "width": 2560,
+          "height": 1696
         }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/016/medium.jpg?v=397361",
+      },
       "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 16",
       "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/016/original.jpg",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện16.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a9969ecb37c28762dff77b0e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a9969ecb37c28762dff77b0e/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/016/thumb.jpg?v=74836",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a9969ecb37c28762dff77b0e/thumb.webp",
           "width": 480,
           "height": 318
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/016/medium.jpg?v=397361",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a9969ecb37c28762dff77b0e/medium.webp",
           "width": 1280,
-          "height": 847
+          "height": 848
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/016/original.jpg?v=2395350",
-          "width": 3200,
-          "height": 2119
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a9969ecb37c28762dff77b0e/original.webp",
+          "width": 2560,
+          "height": 1696
         }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/017/medium.jpg?v=279052",
+      },
       "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 17",
       "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/017/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/017/thumb.jpg?v=54624",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/017/medium.jpg?v=279052",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/017/original.jpg?v=1908281",
-          "width": 3200,
-          "height": 2119
-        }
-      }
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện17.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/018/medium.jpg?v=199912",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 18",
-      "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/018/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/093bd8040424efb5f445a4ab/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/093bd8040424efb5f445a4ab/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/018/thumb.jpg?v=42655",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/093bd8040424efb5f445a4ab/thumb.webp",
+          "width": 318,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/093bd8040424efb5f445a4ab/medium.webp",
+          "width": 848,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/093bd8040424efb5f445a4ab/original.webp",
+          "width": 1696,
+          "height": 2560
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 18",
+      "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện18.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f6f4cd51c5d0232d32fa4696/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f6f4cd51c5d0232d32fa4696/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f6f4cd51c5d0232d32fa4696/thumb.webp",
           "width": 480,
           "height": 318
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/018/medium.jpg?v=199912",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f6f4cd51c5d0232d32fa4696/medium.webp",
           "width": 1280,
-          "height": 847
+          "height": 848
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/018/original.jpg?v=1612609",
-          "width": 3200,
-          "height": 2119
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f6f4cd51c5d0232d32fa4696/original.webp",
+          "width": 2560,
+          "height": 1696
         }
-      }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 20",
+      "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện19.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f910fddb150820924189f4b4/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f910fddb150820924189f4b4/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f910fddb150820924189f4b4/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f910fddb150820924189f4b4/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f910fddb150820924189f4b4/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 22",
+      "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện20.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8c4d5d26ff7659461a909a62/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8c4d5d26ff7659461a909a62/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8c4d5d26ff7659461a909a62/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8c4d5d26ff7659461a909a62/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8c4d5d26ff7659461a909a62/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 23",
+      "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện21.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/768bd856f2762d0b367a12a0/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/768bd856f2762d0b367a12a0/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/768bd856f2762d0b367a12a0/thumb.webp",
+          "width": 318,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/768bd856f2762d0b367a12a0/medium.webp",
+          "width": 848,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/768bd856f2762d0b367a12a0/original.webp",
+          "width": 1696,
+          "height": 2560
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 24",
+      "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện22.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e04a8c8ed9e9cd903beb440f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e04a8c8ed9e9cd903beb440f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e04a8c8ed9e9cd903beb440f/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e04a8c8ed9e9cd903beb440f/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e04a8c8ed9e9cd903beb440f/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 25",
+      "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện23.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a5b10c1b438b466681ddaa36/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a5b10c1b438b466681ddaa36/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a5b10c1b438b466681ddaa36/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a5b10c1b438b466681ddaa36/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a5b10c1b438b466681ddaa36/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 26",
+      "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện24.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9bcf52b1778f442a14306347/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9bcf52b1778f442a14306347/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9bcf52b1778f442a14306347/thumb.webp",
+          "width": 318,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9bcf52b1778f442a14306347/medium.webp",
+          "width": 848,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9bcf52b1778f442a14306347/original.webp",
+          "width": 1696,
+          "height": 2560
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 27",
+      "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện25.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/add3cf43b30d5be1af699726/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/add3cf43b30d5be1af699726/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/add3cf43b30d5be1af699726/thumb.webp",
+          "width": 318,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/add3cf43b30d5be1af699726/medium.webp",
+          "width": 848,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/add3cf43b30d5be1af699726/original.webp",
+          "width": 1696,
+          "height": 2560
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 28",
+      "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện26.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c3c6d43c038dd839cfa61e0c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c3c6d43c038dd839cfa61e0c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c3c6d43c038dd839cfa61e0c/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c3c6d43c038dd839cfa61e0c/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/c3c6d43c038dd839cfa61e0c/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 29",
+      "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện27.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/d9e1dc153aed6224e6c7d95d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/d9e1dc153aed6224e6c7d95d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/d9e1dc153aed6224e6c7d95d/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/d9e1dc153aed6224e6c7d95d/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/d9e1dc153aed6224e6c7d95d/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 30",
+      "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện28.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7384c6c26a0049a6c5011e7b/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7384c6c26a0049a6c5011e7b/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7384c6c26a0049a6c5011e7b/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7384c6c26a0049a6c5011e7b/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7384c6c26a0049a6c5011e7b/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 31",
+      "caption": "Gặp gỡ bà con và các em nhỏ trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện29.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/923479de3340f78287610f57/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/923479de3340f78287610f57/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/923479de3340f78287610f57/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/923479de3340f78287610f57/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/923479de3340f78287610f57/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 32",
+      "caption": "Gặp gỡ bà con và các em nhỏ trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện30.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0448fc169c21efbbb8ebac28/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0448fc169c21efbbb8ebac28/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0448fc169c21efbbb8ebac28/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0448fc169c21efbbb8ebac28/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0448fc169c21efbbb8ebac28/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 33",
+      "caption": "Gặp gỡ bà con và các em nhỏ trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện31.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/27615dd7fea2e0ac1b01ce02/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/27615dd7fea2e0ac1b01ce02/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/27615dd7fea2e0ac1b01ce02/thumb.webp",
+          "width": 318,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/27615dd7fea2e0ac1b01ce02/medium.webp",
+          "width": 848,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/27615dd7fea2e0ac1b01ce02/original.webp",
+          "width": 1696,
+          "height": 2560
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 34",
+      "caption": "Gặp gỡ bà con và các em nhỏ trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện32.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5eacf92da60e11554b402fa9/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5eacf92da60e11554b402fa9/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5eacf92da60e11554b402fa9/thumb.webp",
+          "width": 318,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5eacf92da60e11554b402fa9/medium.webp",
+          "width": 848,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5eacf92da60e11554b402fa9/original.webp",
+          "width": 1696,
+          "height": 2560
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 35",
+      "caption": "Gặp gỡ bà con và các em nhỏ trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện33.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3617b666e1190fea9bfbf498/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3617b666e1190fea9bfbf498/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3617b666e1190fea9bfbf498/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3617b666e1190fea9bfbf498/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3617b666e1190fea9bfbf498/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 36",
+      "caption": "Gặp gỡ bà con và các em nhỏ trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện34.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b6b91fb902655be9832b2da6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b6b91fb902655be9832b2da6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b6b91fb902655be9832b2da6/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b6b91fb902655be9832b2da6/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b6b91fb902655be9832b2da6/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 37",
+      "caption": "Gặp gỡ bà con và các em nhỏ trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện35.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b8720b256af48d5388d20adc/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b8720b256af48d5388d20adc/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b8720b256af48d5388d20adc/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b8720b256af48d5388d20adc/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b8720b256af48d5388d20adc/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 38",
+      "caption": "Gặp gỡ bà con và các em nhỏ trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện36.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/74b565607e713bb96359cf44/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/74b565607e713bb96359cf44/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/74b565607e713bb96359cf44/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/74b565607e713bb96359cf44/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/74b565607e713bb96359cf44/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 39",
+      "caption": "Gặp gỡ bà con và các em nhỏ trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện37.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5f3ff35ac3a7465d716a6157/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5f3ff35ac3a7465d716a6157/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5f3ff35ac3a7465d716a6157/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5f3ff35ac3a7465d716a6157/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/5f3ff35ac3a7465d716a6157/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 40",
+      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện38.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bb13df032c1a5942eb239b3e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bb13df032c1a5942eb239b3e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bb13df032c1a5942eb239b3e/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bb13df032c1a5942eb239b3e/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bb13df032c1a5942eb239b3e/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 41",
+      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện39.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/46b3dd58191d444afe8124fe/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/46b3dd58191d444afe8124fe/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/46b3dd58191d444afe8124fe/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/46b3dd58191d444afe8124fe/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/46b3dd58191d444afe8124fe/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 42",
+      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện40.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3fda26e9af7bf91391ab4b6a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3fda26e9af7bf91391ab4b6a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3fda26e9af7bf91391ab4b6a/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3fda26e9af7bf91391ab4b6a/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/3fda26e9af7bf91391ab4b6a/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 43",
+      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện41.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/58fc5b7755b3555fb5550099/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/58fc5b7755b3555fb5550099/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/58fc5b7755b3555fb5550099/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/58fc5b7755b3555fb5550099/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/58fc5b7755b3555fb5550099/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 44",
+      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện42.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1e3c2db1a88f199f83a51516/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1e3c2db1a88f199f83a51516/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1e3c2db1a88f199f83a51516/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1e3c2db1a88f199f83a51516/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1e3c2db1a88f199f83a51516/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 45",
+      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện43.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/6e48f6ec39f8d5269f3096a9/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/6e48f6ec39f8d5269f3096a9/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/6e48f6ec39f8d5269f3096a9/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/6e48f6ec39f8d5269f3096a9/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/6e48f6ec39f8d5269f3096a9/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 47",
+      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện45.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e2b650a99ae7e8bf1cedf22c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e2b650a99ae7e8bf1cedf22c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e2b650a99ae7e8bf1cedf22c/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e2b650a99ae7e8bf1cedf22c/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/e2b650a99ae7e8bf1cedf22c/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 48",
+      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện46.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bc23778b136d9dee08b062d6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bc23778b136d9dee08b062d6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bc23778b136d9dee08b062d6/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bc23778b136d9dee08b062d6/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bc23778b136d9dee08b062d6/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 49",
+      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện47.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/607273979dec2a1e7805d216/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/607273979dec2a1e7805d216/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/607273979dec2a1e7805d216/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/607273979dec2a1e7805d216/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/607273979dec2a1e7805d216/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 50",
+      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện48.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8961215294b982bc09899a73/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8961215294b982bc09899a73/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8961215294b982bc09899a73/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8961215294b982bc09899a73/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8961215294b982bc09899a73/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 51",
+      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện49.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ae2595a70cb092e4192f477c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ae2595a70cb092e4192f477c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ae2595a70cb092e4192f477c/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ae2595a70cb092e4192f477c/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/ae2595a70cb092e4192f477c/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 52",
+      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện50.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f0f6207d10e60ea24590406f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f0f6207d10e60ea24590406f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f0f6207d10e60ea24590406f/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f0f6207d10e60ea24590406f/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f0f6207d10e60ea24590406f/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 53",
+      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện51.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8d23e163abfbe32b889a83ce/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8d23e163abfbe32b889a83ce/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8d23e163abfbe32b889a83ce/thumb.webp",
+          "width": 480,
+          "height": 318
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8d23e163abfbe32b889a83ce/medium.webp",
+          "width": 1280,
+          "height": 848
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8d23e163abfbe32b889a83ce/original.webp",
+          "width": 2560,
+          "height": 1696
+        }
+      },
+      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 54",
+      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
+      "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+      "sourceFilename": "thiện nguyện52.JPG",
+      "sourceDirectory": "Thiện Nguyện 2023"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/019/medium.jpg?v=207639",
@@ -443,29 +1381,6 @@
       }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/020/medium.jpg?v=310595",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 20",
-      "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/020/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/020/thumb.jpg?v=62328",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/020/medium.jpg?v=310595",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/020/original.jpg?v=1857062",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/021/medium.jpg?v=202817",
       "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 21",
       "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
@@ -483,765 +1398,6 @@
         },
         "original": {
           "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/021/original.jpg?v=1633883",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/022/medium.jpg?v=370826",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 22",
-      "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/022/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/022/thumb.jpg?v=69191",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/022/medium.jpg?v=370826",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/022/original.jpg?v=2236976",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/023/medium.jpg?v=314736",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 23",
-      "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/023/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/023/thumb.jpg?v=62150",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/023/medium.jpg?v=314736",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/023/original.jpg?v=1866530",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/024/medium.jpg?v=250995",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 24",
-      "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/024/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/024/thumb.jpg?v=55895",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/024/medium.jpg?v=250995",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/024/original.jpg?v=1771567",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/025/medium.jpg?v=279549",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 25",
-      "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/025/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/025/thumb.jpg?v=55993",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/025/medium.jpg?v=279549",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/025/original.jpg?v=1690700",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/026/medium.jpg?v=316097",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 26",
-      "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/026/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/026/thumb.jpg?v=62787",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/026/medium.jpg?v=316097",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/026/original.jpg?v=1874738",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/027/medium.jpg?v=305600",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 27",
-      "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/027/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/027/thumb.jpg?v=63441",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/027/medium.jpg?v=305600",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/027/original.jpg?v=1959286",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/028/medium.jpg?v=211694",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 28",
-      "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/028/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/028/thumb.jpg?v=44052",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/028/medium.jpg?v=211694",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/028/original.jpg?v=1729099",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/029/medium.jpg?v=241403",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 29",
-      "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/029/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/029/thumb.jpg?v=56359",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/029/medium.jpg?v=241403",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/029/original.jpg?v=1547252",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/030/medium.jpg?v=208160",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 30",
-      "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
-      "id": "media/2023/hoi-am-noi-reo-cao/030/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/030/thumb.jpg?v=43994",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/030/medium.jpg?v=208160",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/030/original.jpg?v=1423342",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/031/medium.jpg?v=254076",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 31",
-      "caption": "Gặp gỡ bà con và các em nhỏ trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/031/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/031/thumb.jpg?v=56824",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/031/medium.jpg?v=254076",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/031/original.jpg?v=1584914",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/032/medium.jpg?v=268490",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 32",
-      "caption": "Gặp gỡ bà con và các em nhỏ trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/032/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/032/thumb.jpg?v=56217",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/032/medium.jpg?v=268490",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/032/original.jpg?v=1685418",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/033/medium.jpg?v=155121",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 33",
-      "caption": "Gặp gỡ bà con và các em nhỏ trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/033/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/033/thumb.jpg?v=34759",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/033/medium.jpg?v=155121",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/033/original.jpg?v=1270431",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/034/medium.jpg?v=264774",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 34",
-      "caption": "Gặp gỡ bà con và các em nhỏ trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/034/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/034/thumb.jpg?v=54439",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/034/medium.jpg?v=264774",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/034/original.jpg?v=1706031",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/035/medium.jpg?v=201155",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 35",
-      "caption": "Gặp gỡ bà con và các em nhỏ trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/035/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/035/thumb.jpg?v=46890",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/035/medium.jpg?v=201155",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/035/original.jpg?v=1497855",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/036/medium.jpg?v=271665",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 36",
-      "caption": "Gặp gỡ bà con và các em nhỏ trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/036/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/036/thumb.jpg?v=62408",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/036/medium.jpg?v=271665",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/036/original.jpg?v=1536680",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/037/medium.jpg?v=191731",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 37",
-      "caption": "Gặp gỡ bà con và các em nhỏ trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/037/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/037/thumb.jpg?v=46015",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/037/medium.jpg?v=191731",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/037/original.jpg?v=1392024",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/038/medium.jpg?v=170702",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 38",
-      "caption": "Gặp gỡ bà con và các em nhỏ trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/038/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/038/thumb.jpg?v=38911",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/038/medium.jpg?v=170702",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/038/original.jpg?v=1376138",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/039/medium.jpg?v=243076",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 39",
-      "caption": "Gặp gỡ bà con và các em nhỏ trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/039/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/039/thumb.jpg?v=47813",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/039/medium.jpg?v=243076",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/039/original.jpg?v=1765528",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/040/medium.jpg?v=238398",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 40",
-      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/040/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/040/thumb.jpg?v=51635",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/040/medium.jpg?v=238398",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/040/original.jpg?v=1502085",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/041/medium.jpg?v=292735",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 41",
-      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/041/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/041/thumb.jpg?v=60444",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/041/medium.jpg?v=292735",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/041/original.jpg?v=1798271",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/042/medium.jpg?v=239825",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 42",
-      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/042/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/042/thumb.jpg?v=57210",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/042/medium.jpg?v=239825",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/042/original.jpg?v=1550553",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/043/medium.jpg?v=204821",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 43",
-      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/043/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/043/thumb.jpg?v=49931",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/043/medium.jpg?v=204821",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/043/original.jpg?v=1419253",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/044/medium.jpg?v=301561",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 44",
-      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/044/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/044/thumb.jpg?v=63005",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/044/medium.jpg?v=301561",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/044/original.jpg?v=1797912",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/045/medium.jpg?v=321175",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 45",
-      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/045/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/045/thumb.jpg?v=66393",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/045/medium.jpg?v=321175",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/045/original.jpg?v=1839228",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/046/medium.jpg?v=321299",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 46",
-      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/046/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/046/thumb.jpg?v=66594",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/046/medium.jpg?v=321299",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/046/original.jpg?v=1856803",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/047/medium.jpg?v=332436",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 47",
-      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/047/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/047/thumb.jpg?v=67849",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/047/medium.jpg?v=332436",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/047/original.jpg?v=1927440",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/048/medium.jpg?v=275983",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 48",
-      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/048/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/048/thumb.jpg?v=59271",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/048/medium.jpg?v=275983",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/048/original.jpg?v=1727583",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/049/medium.jpg?v=395469",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 49",
-      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/049/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/049/thumb.jpg?v=74167",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/049/medium.jpg?v=395469",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/049/original.jpg?v=2306880",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/050/medium.jpg?v=379046",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 50",
-      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/050/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/050/thumb.jpg?v=72310",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/050/medium.jpg?v=379046",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/050/original.jpg?v=2230796",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/051/medium.jpg?v=392227",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 51",
-      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/051/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/051/thumb.jpg?v=74242",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/051/medium.jpg?v=392227",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/051/original.jpg?v=2272630",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/052/medium.jpg?v=391467",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 52",
-      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/052/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/052/thumb.jpg?v=73821",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/052/medium.jpg?v=391467",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/052/original.jpg?v=2270545",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/053/medium.jpg?v=398047",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 53",
-      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/053/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/053/thumb.jpg?v=74107",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/053/medium.jpg?v=398047",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/053/original.jpg?v=2347307",
-          "width": 3200,
-          "height": 2119
-        }
-      }
-    },
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/054/medium.jpg?v=370587",
-      "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 54",
-      "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
-      "id": "media/2023/hoi-am-noi-reo-cao/054/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/054/thumb.jpg?v=70050",
-          "width": 480,
-          "height": 318
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/054/medium.jpg?v=370587",
-          "width": 1280,
-          "height": 847
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/hoi-am-noi-reo-cao/054/original.jpg?v=2242415",
           "width": 3200,
           "height": 2119
         }

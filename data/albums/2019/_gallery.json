@@ -3,7 +3,7 @@
   "year": 2019,
   "activityId": "2019-year-gallery",
   "title": "Album năm 2019",
-  "count": 47,
+  "count": 56,
   "images": [
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/001.jpg",
@@ -102,12 +102,228 @@
       "variants": {}
     },
     {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/002/medium.jpg",
+      "caption": "Anh chị Minh–Liệu cùng ca đoàn sau Thánh lễ Hôn phối.",
+      "alt": "Ảnh tập thể anh chị Minh–Liệu và ca đoàn trong nhà thờ",
+      "id": "media/2019/dam-cuoi-quang-minh-do-lieu/002/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/002/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/002/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/002/original.jpg",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "event": "Đám cưới Quang Minh – Đỗ Liệu"
+    },
+    {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/001.jpg",
-      "caption": "Đám cưới Quang Minh – Đỗ Liệu · ảnh 1",
-      "alt": "Ảnh tư liệu: Đám cưới Quang Minh – Đỗ Liệu",
-      "event": "Đám cưới Quang Minh – Đỗ Liệu",
+      "caption": "Anh chị Minh–Liệu trong ngày cưới.",
+      "alt": "Chân dung cô dâu chú rể Minh–Liệu trong ngày cưới",
       "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/001.jpg",
-      "variants": {}
+      "variants": {},
+      "event": "Đám cưới Quang Minh – Đỗ Liệu"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/006/original.jpg",
+      "caption": "Cô dâu đọc sách thánh trong Thánh lễ Hôn phối.",
+      "alt": "Cô dâu đọc sách thánh tại giảng đài",
+      "id": "media/2019/dam-cuoi-quang-minh-do-lieu/006/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/006/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/006/original.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/006/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      },
+      "event": "Đám cưới Quang Minh – Đỗ Liệu"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/007/original.jpg",
+      "caption": "Chú rể đọc sách thánh trong Thánh lễ Hôn phối.",
+      "alt": "Chú rể đọc sách thánh tại giảng đài",
+      "id": "media/2019/dam-cuoi-quang-minh-do-lieu/007/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/007/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/007/original.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/007/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      },
+      "event": "Đám cưới Quang Minh – Đỗ Liệu"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/003/medium.jpg",
+      "caption": "Ca đoàn hát phục vụ Thánh lễ Hôn phối.",
+      "alt": "Ca viên trong trang phục trắng xanh hát tại Thánh lễ Hôn phối",
+      "id": "media/2019/dam-cuoi-quang-minh-do-lieu/003/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/003/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/003/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/003/original.jpg",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "event": "Đám cưới Quang Minh – Đỗ Liệu"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/004/medium.jpg",
+      "caption": "Các ca viên hiện diện trong Thánh lễ Hôn phối.",
+      "alt": "Ca đoàn và cộng đoàn trong nhà thờ ngày lễ cưới",
+      "id": "media/2019/dam-cuoi-quang-minh-do-lieu/004/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/004/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/004/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/004/original.jpg",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "event": "Đám cưới Quang Minh – Đỗ Liệu"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/005/medium.jpg",
+      "caption": "Ca đoàn tham dự Thánh lễ Hôn phối.",
+      "alt": "Ca viên Ca đoàn Giới trẻ Têrêsa trong nhà thờ ngày lễ cưới",
+      "id": "media/2019/dam-cuoi-quang-minh-do-lieu/005/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/005/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/005/medium.jpg",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/005/original.jpg",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      "event": "Đám cưới Quang Minh – Đỗ Liệu"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/008/original.jpg",
+      "caption": "Ca viên hát phục vụ Thánh lễ Hôn phối.",
+      "alt": "Ca viên trong trang phục trắng xanh hát trong nhà thờ",
+      "id": "media/2019/dam-cuoi-quang-minh-do-lieu/008/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/008/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/008/original.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/008/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      },
+      "event": "Đám cưới Quang Minh – Đỗ Liệu"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/009/original.jpg",
+      "caption": "Các ca viên cùng cất tiếng hát trong ngày cưới.",
+      "alt": "Nhóm ca viên hát trong Thánh lễ Hôn phối",
+      "id": "media/2019/dam-cuoi-quang-minh-do-lieu/009/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/009/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/009/original.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/009/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      },
+      "event": "Đám cưới Quang Minh – Đỗ Liệu"
+    },
+    {
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/010/original.jpg",
+      "caption": "Một khoảnh khắc phụng vụ trong ngày cưới.",
+      "alt": "Người tham dự Thánh lễ Hôn phối trong nhà thờ",
+      "id": "media/2019/dam-cuoi-quang-minh-do-lieu/010/original.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/010/thumb.jpg",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/010/original.jpg",
+          "width": 960,
+          "height": 640
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dam-cuoi-quang-minh-do-lieu/010/original.jpg",
+          "width": 960,
+          "height": 640
+        }
+      },
+      "event": "Đám cưới Quang Minh – Đỗ Liệu"
     },
     {
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/hoi-thao-cecilia/001.jpg",

@@ -3,393 +3,423 @@
   "year": 2024,
   "activityId": "2024-dai-le-di-dan",
   "title": "Đại lễ Di Dân 2024",
-  "topic": "Đại lễ",
-  "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/001-813b609a70/medium.jpg",
   "count": 16,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/001-813b609a70/medium.jpg",
-      "alt": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "caption": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "id": "media/2024/2024-dai-le-di-dan/001-813b609a70/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/12926f8a478dd7a5eb2c9828/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/12926f8a478dd7a5eb2c9828/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/001-813b609a70/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/12926f8a478dd7a5eb2c9828/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/001-813b609a70/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/12926f8a478dd7a5eb2c9828/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/001-813b609a70/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/12926f8a478dd7a5eb2c9828/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Đại lễ Di Dân 2024"
+      "alt": "Đại lễ Di Dân 2024",
+      "caption": "Đại lễ Di Dân 2024",
+      "event": "Đại lễ Di Dân 2024",
+      "sourceFilename": "ảnh bìa.jpg",
+      "sourceDirectory": "Đại lễ Di Dân 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/002-f03bf629a9/medium.jpg",
-      "alt": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "caption": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "id": "media/2024/2024-dai-le-di-dan/002-f03bf629a9/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/802b256e5a621e8ed5861154/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/802b256e5a621e8ed5861154/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/002-f03bf629a9/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/802b256e5a621e8ed5861154/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/002-f03bf629a9/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/802b256e5a621e8ed5861154/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/002-f03bf629a9/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/802b256e5a621e8ed5861154/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Đại lễ Di Dân 2024"
+      "alt": "Đại lễ Di Dân 2024",
+      "caption": "Đại lễ Di Dân 2024",
+      "event": "Đại lễ Di Dân 2024",
+      "sourceFilename": "1789841273454_1995884631902468284_7736263391661925970_6d3d8a935b3eb2afa2efab6e01c366cf.jpg",
+      "sourceDirectory": "Thi dường hướng mục vụ và đại lễ di dân 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/003-89f0dee092/medium.jpg",
-      "alt": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "caption": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "id": "media/2024/2024-dai-le-di-dan/003-89f0dee092/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fef8ec7aa7d77a46136d0b0d/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fef8ec7aa7d77a46136d0b0d/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/003-89f0dee092/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fef8ec7aa7d77a46136d0b0d/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/003-89f0dee092/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fef8ec7aa7d77a46136d0b0d/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/003-89f0dee092/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fef8ec7aa7d77a46136d0b0d/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Đại lễ Di Dân 2024"
+      "alt": "Đại lễ Di Dân 2024",
+      "caption": "Đại lễ Di Dân 2024",
+      "event": "Đại lễ Di Dân 2024",
+      "sourceFilename": "1789841273509_1995884631902468284_7736263391661925970_d2746cecd806db4854df2d130aad415f.jpg",
+      "sourceDirectory": "Thi dường hướng mục vụ và đại lễ di dân 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/004-5f0ea303e7/medium.jpg",
-      "alt": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "caption": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "id": "media/2024/2024-dai-le-di-dan/004-5f0ea303e7/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/cc3f25fdf0264ca99ed9ba09/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/cc3f25fdf0264ca99ed9ba09/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/004-5f0ea303e7/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/cc3f25fdf0264ca99ed9ba09/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/004-5f0ea303e7/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/cc3f25fdf0264ca99ed9ba09/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/004-5f0ea303e7/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/cc3f25fdf0264ca99ed9ba09/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Đại lễ Di Dân 2024"
+      "alt": "Đại lễ Di Dân 2024",
+      "caption": "Đại lễ Di Dân 2024",
+      "event": "Đại lễ Di Dân 2024",
+      "sourceFilename": "1789841273525_1995884631902468284_7736263391661925970_af5e1a0d630c106522097597a04dc599.jpg",
+      "sourceDirectory": "Thi dường hướng mục vụ và đại lễ di dân 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/005-b19fcf3fc8/medium.jpg",
-      "alt": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "caption": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "id": "media/2024/2024-dai-le-di-dan/005-b19fcf3fc8/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ee2ef27e6762a255c9e21bdc/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ee2ef27e6762a255c9e21bdc/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/005-b19fcf3fc8/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ee2ef27e6762a255c9e21bdc/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/005-b19fcf3fc8/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ee2ef27e6762a255c9e21bdc/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/005-b19fcf3fc8/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/ee2ef27e6762a255c9e21bdc/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Đại lễ Di Dân 2024"
+      "alt": "Đại lễ Di Dân 2024",
+      "caption": "Đại lễ Di Dân 2024",
+      "event": "Đại lễ Di Dân 2024",
+      "sourceFilename": "1789841273538_1995884631902468284_7736263391661925970_00e0549157401b601d4c83946c73ee6d.jpg",
+      "sourceDirectory": "Thi dường hướng mục vụ và đại lễ di dân 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/006-c7ec0b97ee/medium.jpg",
-      "alt": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "caption": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "id": "media/2024/2024-dai-le-di-dan/006-c7ec0b97ee/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0473dc2160592679c53f2327/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0473dc2160592679c53f2327/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/006-c7ec0b97ee/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0473dc2160592679c53f2327/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/006-c7ec0b97ee/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0473dc2160592679c53f2327/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/006-c7ec0b97ee/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0473dc2160592679c53f2327/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Đại lễ Di Dân 2024"
+      "alt": "Đại lễ Di Dân 2024",
+      "caption": "Đại lễ Di Dân 2024",
+      "event": "Đại lễ Di Dân 2024",
+      "sourceFilename": "ảnh bìa.jpg",
+      "sourceDirectory": "Thi dường hướng mục vụ và đại lễ di dân 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/007-a8203d7ae8/medium.jpg",
-      "alt": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "caption": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "id": "media/2024/2024-dai-le-di-dan/007-a8203d7ae8/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a62246608aeaf9a8195ffd4a/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a62246608aeaf9a8195ffd4a/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/007-a8203d7ae8/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a62246608aeaf9a8195ffd4a/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/007-a8203d7ae8/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a62246608aeaf9a8195ffd4a/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/007-a8203d7ae8/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a62246608aeaf9a8195ffd4a/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Đại lễ Di Dân 2024"
+      "alt": "Đại lễ Di Dân 2024",
+      "caption": "Đại lễ Di Dân 2024",
+      "event": "Đại lễ Di Dân 2024",
+      "sourceFilename": "1789843023724_1995884631902468284_7736263391661925970_6125bc5857c9e4c61fc7e1d3210cc94f.jpg",
+      "sourceDirectory": "Đại lễ Di Dân 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/008-482cbff6b6/medium.jpg",
-      "alt": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "caption": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "id": "media/2024/2024-dai-le-di-dan/008-482cbff6b6/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/10cf217cd98f0ca3b171092c/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/10cf217cd98f0ca3b171092c/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/008-482cbff6b6/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/10cf217cd98f0ca3b171092c/thumb.webp",
           "width": 320,
           "height": 480
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/008-482cbff6b6/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/10cf217cd98f0ca3b171092c/medium.webp",
           "width": 854,
           "height": 1280
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/008-482cbff6b6/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/10cf217cd98f0ca3b171092c/medium.webp",
           "width": 854,
           "height": 1280
         }
       },
-      "event": "Đại lễ Di Dân 2024"
+      "alt": "Đại lễ Di Dân 2024",
+      "caption": "Đại lễ Di Dân 2024",
+      "event": "Đại lễ Di Dân 2024",
+      "sourceFilename": "1789843023742_1995884631902468284_7736263391661925970_c4be1b0ec9104005a0bef500a5281116.jpg",
+      "sourceDirectory": "Đại lễ Di Dân 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/009-ce6906604e/medium.jpg",
-      "alt": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "caption": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "id": "media/2024/2024-dai-le-di-dan/009-ce6906604e/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/c3e5948432b7b43868c4e7a5/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/c3e5948432b7b43868c4e7a5/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/009-ce6906604e/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/c3e5948432b7b43868c4e7a5/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/009-ce6906604e/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/c3e5948432b7b43868c4e7a5/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/009-ce6906604e/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/c3e5948432b7b43868c4e7a5/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Đại lễ Di Dân 2024"
+      "alt": "Đại lễ Di Dân 2024",
+      "caption": "Đại lễ Di Dân 2024",
+      "event": "Đại lễ Di Dân 2024",
+      "sourceFilename": "1789843023754_1995884631902468284_7736263391661925970_d183aa892ad5dee97d320a392b3fae82.jpg",
+      "sourceDirectory": "Đại lễ Di Dân 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/010-9031d344c6/medium.jpg",
-      "alt": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "caption": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "id": "media/2024/2024-dai-le-di-dan/010-9031d344c6/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9cf7f97236fa264c40a2fe38/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9cf7f97236fa264c40a2fe38/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/010-9031d344c6/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9cf7f97236fa264c40a2fe38/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/010-9031d344c6/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9cf7f97236fa264c40a2fe38/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/010-9031d344c6/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/9cf7f97236fa264c40a2fe38/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Đại lễ Di Dân 2024"
+      "alt": "Đại lễ Di Dân 2024",
+      "caption": "Đại lễ Di Dân 2024",
+      "event": "Đại lễ Di Dân 2024",
+      "sourceFilename": "1789843023767_1995884631902468284_7736263391661925970_006a016e6380fb25d117ac1b75dadc52.jpg",
+      "sourceDirectory": "Đại lễ Di Dân 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/011-40a69590b8/medium.jpg",
-      "alt": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "caption": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "id": "media/2024/2024-dai-le-di-dan/011-40a69590b8/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1cebd6f296f152a4d18b5f3d/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1cebd6f296f152a4d18b5f3d/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/011-40a69590b8/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1cebd6f296f152a4d18b5f3d/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/011-40a69590b8/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1cebd6f296f152a4d18b5f3d/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/011-40a69590b8/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1cebd6f296f152a4d18b5f3d/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Đại lễ Di Dân 2024"
+      "alt": "Đại lễ Di Dân 2024",
+      "caption": "Đại lễ Di Dân 2024",
+      "event": "Đại lễ Di Dân 2024",
+      "sourceFilename": "1789843023777_1995884631902468284_7736263391661925970_c71c9b26ee3aacaeed11e27844edb531.jpg",
+      "sourceDirectory": "Đại lễ Di Dân 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/012-4a058ffdda/medium.jpg",
-      "alt": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "caption": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "id": "media/2024/2024-dai-le-di-dan/012-4a058ffdda/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0c08a65d906c16558f9330fc/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0c08a65d906c16558f9330fc/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/012-4a058ffdda/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0c08a65d906c16558f9330fc/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/012-4a058ffdda/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0c08a65d906c16558f9330fc/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/012-4a058ffdda/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0c08a65d906c16558f9330fc/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Đại lễ Di Dân 2024"
+      "alt": "Đại lễ Di Dân 2024",
+      "caption": "Đại lễ Di Dân 2024",
+      "event": "Đại lễ Di Dân 2024",
+      "sourceFilename": "1789843023789_1995884631902468284_7736263391661925970_3510acde0ffe7f71cadf92704ccc0f6c.jpg",
+      "sourceDirectory": "Đại lễ Di Dân 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/013-984b062a21/medium.jpg",
-      "alt": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "caption": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "id": "media/2024/2024-dai-le-di-dan/013-984b062a21/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/de95b3d7d2c3baa0e411f326/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/de95b3d7d2c3baa0e411f326/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/013-984b062a21/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/de95b3d7d2c3baa0e411f326/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/013-984b062a21/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/de95b3d7d2c3baa0e411f326/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/013-984b062a21/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/de95b3d7d2c3baa0e411f326/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Đại lễ Di Dân 2024"
+      "alt": "Đại lễ Di Dân 2024",
+      "caption": "Đại lễ Di Dân 2024",
+      "event": "Đại lễ Di Dân 2024",
+      "sourceFilename": "1789843023798_1995884631902468284_7736263391661925970_5c2723932415aec9600e0d08a46bc173.jpg",
+      "sourceDirectory": "Đại lễ Di Dân 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/014-4b6ea6210e/medium.jpg",
-      "alt": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "caption": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "id": "media/2024/2024-dai-le-di-dan/014-4b6ea6210e/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/db126a239da3ac2e49a6670e/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/db126a239da3ac2e49a6670e/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/014-4b6ea6210e/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/db126a239da3ac2e49a6670e/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/014-4b6ea6210e/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/db126a239da3ac2e49a6670e/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/014-4b6ea6210e/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/db126a239da3ac2e49a6670e/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Đại lễ Di Dân 2024"
+      "alt": "Đại lễ Di Dân 2024",
+      "caption": "Đại lễ Di Dân 2024",
+      "event": "Đại lễ Di Dân 2024",
+      "sourceFilename": "1789843023807_1995884631902468284_7736263391661925970_2290e9358f9a11560adc7f6261345813.jpg",
+      "sourceDirectory": "Đại lễ Di Dân 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/015-725abe3c61/medium.jpg",
-      "alt": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "caption": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "id": "media/2024/2024-dai-le-di-dan/015-725abe3c61/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/11bf6fb989834aaabe97fb19/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/11bf6fb989834aaabe97fb19/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/015-725abe3c61/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/11bf6fb989834aaabe97fb19/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/015-725abe3c61/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/11bf6fb989834aaabe97fb19/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/015-725abe3c61/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/11bf6fb989834aaabe97fb19/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Đại lễ Di Dân 2024"
+      "alt": "Đại lễ Di Dân 2024",
+      "caption": "Đại lễ Di Dân 2024",
+      "event": "Đại lễ Di Dân 2024",
+      "sourceFilename": "1789843023816_1995884631902468284_7736263391661925970_722940f4ce7e91659aa3205230039cd1.jpg",
+      "sourceDirectory": "Đại lễ Di Dân 2024"
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/016-53b4d1b61e/medium.jpg",
-      "alt": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "caption": "Ca đoàn tham dự Đại lễ Di Dân và cuộc thi tìm hiểu đường hướng mục vụ.",
-      "id": "media/2024/2024-dai-le-di-dan/016-53b4d1b61e/original.jpg",
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/cc55e85aaa02ef8bba54edf0/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/cc55e85aaa02ef8bba54edf0/medium.webp",
       "variants": {
         "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/016-53b4d1b61e/thumb.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/cc55e85aaa02ef8bba54edf0/thumb.webp",
           "width": 480,
           "height": 320
         },
         "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/016-53b4d1b61e/medium.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/cc55e85aaa02ef8bba54edf0/medium.webp",
           "width": 1280,
           "height": 854
         },
         "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/2024-dai-le-di-dan/016-53b4d1b61e/original.jpg",
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/cc55e85aaa02ef8bba54edf0/medium.webp",
           "width": 1280,
           "height": 854
         }
       },
-      "event": "Đại lễ Di Dân 2024"
+      "alt": "Đại lễ Di Dân 2024",
+      "caption": "Đại lễ Di Dân 2024",
+      "event": "Đại lễ Di Dân 2024",
+      "sourceFilename": "1789843023825_1995884631902468284_7736263391661925970_3f159a6d850d481a552f46a851882b5d.jpg",
+      "sourceDirectory": "Đại lễ Di Dân 2024"
     }
   ]
 }

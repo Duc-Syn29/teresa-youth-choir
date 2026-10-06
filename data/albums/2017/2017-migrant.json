@@ -2,50 +2,208 @@
   "schemaVersion": 1,
   "year": 2017,
   "activityId": "2017-migrant",
-  "title": "Phục vụ Đại lễ Di dân 2017",
-  "count": 6,
+  "title": "Đại lễ Di dân 2017",
+  "count": 8,
   "images": [
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/001.jpg",
-      "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 1",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/001.jpg",
-      "variants": {}
+      "id": "media/2017/migrant/49579a0da1a5ae23/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/49579a0da1a5ae23/medium.jpg",
+      "alt": "Đại lễ Di dân 2017",
+      "caption": "Đại lễ Di dân 2017",
+      "event": "Đại lễ Di dân 2017",
+      "sourceFilename": "ảnh bìa.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/49579a0da1a5ae23/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/49579a0da1a5ae23/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/49579a0da1a5ae23/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/002.jpg",
-      "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 2",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/002.jpg",
-      "variants": {}
+      "id": "media/2017/migrant/e71bb64686ab73d4/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/e71bb64686ab73d4/medium.jpg",
+      "alt": "Ca đoàn cất tiếng hát phục vụ Đại lễ Di dân",
+      "caption": "Ca đoàn cất tiếng hát phục vụ Đại lễ Di dân",
+      "event": "Đại lễ Di dân 2017",
+      "sourceFilename": "đại lễ di dân 20161.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/e71bb64686ab73d4/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/e71bb64686ab73d4/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/e71bb64686ab73d4/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/003.jpg",
-      "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 3",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/003.jpg",
-      "variants": {}
+      "id": "media/2017/migrant/81705d833e6268d1/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/81705d833e6268d1/medium.jpg",
+      "alt": "Đại lễ Di dân 2017",
+      "caption": "Đại lễ Di dân 2017",
+      "event": "Đại lễ Di dân 2017",
+      "sourceFilename": "đại lễ di dân 20162.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/81705d833e6268d1/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/81705d833e6268d1/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/81705d833e6268d1/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/004.jpg",
-      "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 4",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/004.jpg",
-      "variants": {}
+      "id": "media/2017/migrant/05f3fedb3c6a68f7/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/05f3fedb3c6a68f7/medium.jpg",
+      "alt": "Đại lễ Di dân 2017",
+      "caption": "Đại lễ Di dân 2017",
+      "event": "Đại lễ Di dân 2017",
+      "sourceFilename": "đại lễ di dân 20164.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/05f3fedb3c6a68f7/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/05f3fedb3c6a68f7/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/05f3fedb3c6a68f7/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/005.jpg",
-      "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 5",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/005.jpg",
-      "variants": {}
+      "id": "media/2017/migrant/c09076cdf5d14889/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/c09076cdf5d14889/medium.jpg",
+      "alt": "Sinh hoạt của các ca viên trong dịp Đại lễ",
+      "caption": "Sinh hoạt của các ca viên trong dịp Đại lễ",
+      "event": "Đại lễ Di dân 2017",
+      "sourceFilename": "đại lễ di dân 20168.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/c09076cdf5d14889/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/c09076cdf5d14889/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/c09076cdf5d14889/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
     },
     {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/006.jpg",
-      "caption": "Phục vụ Đại lễ Di dân 2017 · ảnh 6",
-      "alt": "Ảnh tư liệu: Phục vụ Đại lễ Di dân 2017",
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/006.jpg",
-      "variants": {}
+      "id": "media/2017/migrant/bf8de8720115dd08/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/bf8de8720115dd08/medium.jpg",
+      "alt": "Đại lễ Di dân 2017",
+      "caption": "Đại lễ Di dân 2017",
+      "event": "Đại lễ Di dân 2017",
+      "sourceFilename": "đại lễ di dân 20169.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/bf8de8720115dd08/thumb.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/bf8de8720115dd08/medium.jpg",
+          "width": 960,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/bf8de8720115dd08/original.jpg",
+          "width": 960,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "media/2017/migrant/2944e5da8534169b/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/2944e5da8534169b/medium.jpg",
+      "alt": "Đại lễ Di dân 2017",
+      "caption": "Đại lễ Di dân 2017",
+      "event": "Đại lễ Di dân 2017",
+      "sourceFilename": "đại lễ di dân 201610.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/2944e5da8534169b/thumb.jpg",
+          "width": 480,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/2944e5da8534169b/medium.jpg",
+          "width": 720,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/2944e5da8534169b/original.jpg",
+          "width": 720,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "media/2017/migrant/920d98b5c76a020d/original.jpg",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/920d98b5c76a020d/medium.jpg",
+      "alt": "Đại lễ Di dân 2017",
+      "caption": "Đại lễ Di dân 2017",
+      "event": "Đại lễ Di dân 2017",
+      "sourceFilename": "đại lễ di dân 201611.jpg",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/920d98b5c76a020d/thumb.jpg",
+          "width": 480,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/920d98b5c76a020d/medium.jpg",
+          "width": 960,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/920d98b5c76a020d/original.jpg",
+          "width": 960,
+          "height": 960
+        }
+      }
     }
   ]
 }
