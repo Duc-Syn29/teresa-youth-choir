@@ -1580,6 +1580,16 @@ img[data-media-src] { transition: opacity .35s ease; }
 .activity-story-figure figcaption { font-size: .82rem; }
 
 @media (max-width: 680px) {
+  /* One mobile cover treatment for home, every year and every event. */
+  .hero, .year-hero, .activity-hero {
+    --mobile-cover-shade: linear-gradient(180deg, rgba(4,43,66,.12) 0%, rgba(4,48,72,.28) 46%, rgba(3,39,61,.76) 100%), linear-gradient(90deg, rgba(4,51,76,.42), rgba(9,102,135,.04) 84%);
+    min-height: 100svh;
+  }
+  .hero-bg::after, .year-hero-bg::after, .activity-hero::before {
+    background: var(--mobile-cover-shade);
+  }
+  .year-hero-content { padding-top: 9rem; padding-bottom: 4rem; }
+  .year-hero-bg img, .activity-hero-bg img { object-position: center 46%; }
   /* Keep the cover behind the year and event introduction on mobile. */
   .has-cover .year-intro h1, .activity-hero h1 { font-size: clamp(1.9rem, 8.2vw, 2.65rem); line-height: 1.13; text-wrap: pretty; }
   .has-cover .activity-hero-summary { margin-top: 1rem; }
