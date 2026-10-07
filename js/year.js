@@ -90,7 +90,7 @@
     const teamSections = (entries) => `<div class="leadership-subgroups">${entries.map((entry) => `
       <section class="leadership-subgroup">
         <h3>${escapeHTML(entry.role)}</h3>
-        ${entry.note ? `<p class="empty-note">${escapeHTML(entry.note)}</p>` : memberList(entry.members)}
+        ${entry.note ? `<p class="empty-note">${escapeHTML(entry.note)}</p>` : ""}${entry.members.length || !entry.note ? memberList(entry.members) : ""}
       </section>`).join("")}</div>`;
     const groups = [];
     if (people.length) groups.push({ title: "Ban điều hành chính", content: memberList(people) });

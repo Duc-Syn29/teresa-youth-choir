@@ -398,7 +398,7 @@
         <a class="timeline-item${Number(item.year) === newest ? " featured" : ""}" href="year.html?year=${encodeURIComponent(item.year)}" data-transition-image="${escapeHTML(window.TeresaStore.mediaSource(item.overview?.coverImage, "medium") || "")}">
           <span class="timeline-dot" aria-hidden="true"></span>
           <span class="timeline-year">${escapeHTML(item.year)}</span>
-          <span class="timeline-copy"><strong>${escapeHTML(item.overview?.title || `Năm ${item.year}`)}</strong><small>${escapeHTML(item.overview?.eyebrow || item.overview?.summary || "Mở trang nhật ký")}</small></span>
+          <span class="timeline-copy"><strong>${escapeHTML(item.overview?.title || `Năm ${item.year}`)}</strong><small>${escapeHTML(Number(item.year) === 2025 ? "Hành trình 10 năm tiếp nối" : Number(item.year) === new Date().getFullYear() ? "Hiện tại" : item.overview?.eyebrow || item.overview?.summary || "Mở trang nhật ký")}</small></span>
         </a>`).join("")}`;
 
       const heading = document.querySelector("#journey .section-heading .eyebrow");

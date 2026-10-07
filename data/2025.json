@@ -124,7 +124,20 @@
       {
         "name": "Ban Sinh Hoạt",
         "note": "Cử điệu, clb đá bóng, clb cầu lông.",
-        "members": []
+        "members": [
+          {
+            "id": "2025-ban-sinh-hoat-nguyen-van-phat",
+            "name": "Phê-rô Nguyễn Văn Phát",
+            "photo": "",
+            "note": "Phụ trách Thể Thao"
+          },
+          {
+            "id": "2025-ban-sinh-hoat-nguyen-thi-huong-anh",
+            "name": "Maria Nguyễn Thị Hương Ánh",
+            "photo": "",
+            "note": "Phụ trách Văn Nghệ"
+          }
+        ]
       },
       {
         "name": "Ban Chuyên môn",
