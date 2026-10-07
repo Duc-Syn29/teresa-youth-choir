@@ -4,313 +4,382 @@
     "accent": "#58bfd5"
   },
   "overview": {
-    "eyebrow": "Hành trình tiếp nối",
-    "title": "Cất tiếng giữa mùa hồng ân",
-    "summary": "Ca đoàn bước vào năm 2026 với số lượng ca viên đông hơn, thêm nhiều thánh lễ và các chương trình mang đậm dấu ấn đức tin.",
-    "verse": "Hãy vui mừng luôn mãi, cầu nguyện không ngừng, và tạ ơn trong mọi hoàn cảnh.",
-    "longDescription": "Năm 2026, Ca đoàn Giới trẻ Teresa tiếp tục chuyển mình mạnh mẽ: quy tụ thêm đông đảo ca viên, phục vụ nhiều thánh lễ lớn và các giờ chầu. Đêm Hòa Nhạc Phục Sinh Exsultet là một dấu ấn mới, tôn vinh mầu nhiệm Phục Sinh. Niềm vui ấy hòa cùng Đại lễ kỷ niệm 20 năm Gia Đình Công Giáo Xa Quê Hà Nội – mái nhà đã bao bọc và nâng đỡ ca đoàn trên hành trình 11 năm.",
-    "coverImage": {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/archive/hero/medium.jpg",
-      "id": "media/2026/archive/hero/original.jpg",
-      "alt": "",
-      "caption": "",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/archive/hero/thumb.jpg",
-          "width": 480,
-          "height": 319
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/archive/hero/medium.jpg",
-          "width": 1280,
-          "height": 851
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/archive/hero/original.jpg",
-          "width": 2400,
-          "height": 1596
-        }
-      }
-    }
+    "eyebrow": "Từ Hồng Ân đến Sứ Vụ",
+    "title": "Từ Hồng Ân đến Sứ Vụ",
+    "summary": "Sau dấu mốc 10 năm thành lập - một chặng đường của biết bao hồng ân và tình yêu, Ca đoàn Giới trẻ Teresa bước vào năm thứ 11 với một tâm tình mới: từ những gì đã nhận lãnh, Ca đoàn tiếp tục trao đi; từ những gì đã được gieo trồng, Ca đoàn tiếp tục vun đắp; và từ những gì đã được viết nên trong 10 năm đầu tiên, một trang mới lại được mở ra.",
+    "verse": "",
+    "longDescription": "Sau dấu mốc 10 năm thành lập - một chặng đường của biết bao hồng ân và tình yêu, Ca đoàn Giới trẻ Teresa bước vào năm thứ 11 với một tâm tình mới: từ những gì đã nhận lãnh, Ca đoàn tiếp tục trao đi; từ những gì đã được gieo trồng, Ca đoàn tiếp tục vun đắp; và từ những gì đã được viết nên trong 10 năm đầu tiên, một trang mới lại được mở ra.\n\nBước sang năm 2026, hành trình ấy được viết tiếp qua các giờ phục vụ Thánh lễ, qua các hoạt động nội bộ teambuilding, thiện nguyện, thể thao, thi Giáo lý, đặc biệt Hoà nhạc Phục Sinh Exsultet đã trở thành một dấu ấn nổi bật trong hành trình ấy. Tất cả, dù lớn hay nhỏ, đều trở thành những mảnh ghép làm nên một năm đáng nhớ của Teresa.\n\nĐặc biệt, năm nay đánh dấu sự chuyển giao và kiện toàn Ban Điều hành nhiệm kỳ mới. Một thế hệ trẻ tiếp tục nhận lấy trách nhiệm dẫn dắt Ca đoàn, mang theo nhiệt huyết, sức sáng tạo và tinh thần dấn thân của tuổi trẻ. Sự chuyển giao ấy không phải là một sự bắt đầu lại, mà là những giá trị được trao lại, những kinh nghiệm được tiếp nối cùng tinh thần hy sinh và phục vụ.\n\n“Từ Hồng Ân đến Sự Vụ” - Năm 2026 vì thế không chỉ là năm tiếp nối sau cột mốc 10 năm, mà một trang mới lại được mở ra. Và trên trang mới ấy, mỗi anh chị em ca viên lại cùng nhau viết tiếp câu chuyện mang tên Ca đoàn Giới trẻ Teresa.",
+    "coverImage": ""
   },
   "leadership": {
     "chaplain": {
-      "note": "Đồng hành mục vụ",
-      "members": [
-        {
-          "name": "Đang cập nhật",
-          "photo": "",
-          "id": "person-chaplain-1fopim4"
-        }
-      ]
+      "members": []
     },
+    "teams": [
+      {
+        "id": "2026-team-14",
+        "name": "Ban Truyền Thông",
+        "members": [
+          {
+            "id": "2026-team-14-0",
+            "name": "Maria Nguyễn Kim Oanh",
+            "photo": "",
+            "note": ""
+          },
+          {
+            "id": "2026-team-14-1",
+            "name": "Teresa Nguyễn Hoàng Ngân",
+            "photo": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "id": "2026-team-15",
+        "name": "Ban Tâm Linh",
+        "members": [
+          {
+            "id": "2026-team-15-0",
+            "name": "Teresa Ngô Thị Hậu",
+            "photo": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "id": "2026-team-16",
+        "name": "Ban Sinh Hoạt",
+        "members": [
+          {
+            "id": "2026-team-16-0",
+            "name": "Maria Nguyễn Thị Hương Ánh",
+            "photo": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "id": "2026-team-17",
+        "name": "Ban Thể Thao",
+        "members": [
+          {
+            "id": "2026-team-17-0",
+            "name": "Vincent Vũ Văn Lập",
+            "photo": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "id": "2026-team-18",
+        "name": "Ban Liên Kết",
+        "members": [
+          {
+            "id": "2026-team-18-0",
+            "name": "Maria Phạm Thị Phương",
+            "photo": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "id": "2026-team-20",
+        "name": "Trưởng bè Bass",
+        "members": [
+          {
+            "id": "2026-team-20-0",
+            "name": "Giuse Vũ Văn Kiên",
+            "photo": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "id": "2026-team-21",
+        "name": "Trưởng bè Tenor",
+        "members": [
+          {
+            "id": "2026-team-21-0",
+            "name": "Giuse Phạm Văn Hà",
+            "photo": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "id": "2026-team-22",
+        "name": "Trưởng bè Soprano",
+        "members": [
+          {
+            "id": "2026-team-22-0",
+            "name": "Anna Nguyễn Thị Lý",
+            "photo": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "id": "2026-team-23",
+        "name": "Trưởng vè Alto",
+        "members": [
+          {
+            "id": "2026-team-23-0",
+            "name": "Maria Phạm Thu Hoài",
+            "photo": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "id": "2026-team-25",
+        "name": "Chuyên môn Bass",
+        "members": [
+          {
+            "id": "2026-team-25-0",
+            "name": "Vicente Nguyễn Tiến Duyệt",
+            "photo": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "id": "2026-team-26",
+        "name": "Chuyên môn Tenor",
+        "members": [
+          {
+            "id": "2026-team-26-0",
+            "name": "Gb. Nguyễn Thái Dương",
+            "photo": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "id": "2026-team-27",
+        "name": "Chuyên môn Soprano",
+        "members": [
+          {
+            "id": "2026-team-27-0",
+            "name": "Maria Nguyễn Phương Thảo",
+            "photo": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "id": "2026-team-28",
+        "name": "Chuyên môn Alto",
+        "members": [
+          {
+            "id": "2026-team-28-0",
+            "name": "Maria Trần Hải Ánh",
+            "photo": "",
+            "note": ""
+          }
+        ]
+      }
+    ],
     "leader": {
-      "note": "Ban điều hành năm 2026",
       "members": [
         {
-          "name": "Đang cập nhật",
+          "id": "2026-leader-new-0",
+          "name": "Phêrô Đặng Trung Kiên",
           "photo": "",
-          "id": "person-leader-03dccur"
+          "note": "Trưởng ca đoàn · Từ tháng 8/2026"
+        },
+        {
+          "id": "2026-leader-previous-0",
+          "name": "Phêrô Đỗ Tiến Hạng",
+          "photo": "",
+          "note": "Trưởng ca đoàn · Ban Điều Hành 2025–2026, trước tháng 8/2026"
         }
       ]
     },
     "deputyLeader": {
-      "members": []
-    },
-    "conductor": {
-      "note": "Đồng hành chuyên môn",
       "members": [
         {
-          "name": "Đang cập nhật",
+          "id": "2026-deputyLeader-new-0",
+          "name": "Maria Vũ Thị Bích Phượng",
           "photo": "",
-          "id": "person-conductor-0cj4cdh"
+          "note": "Phó ca đoàn · Ban Điều Hành 2025–2026 và từ tháng 8/2026"
+        },
+        {
+          "id": "2026-deputyLeader-new-1",
+          "name": "Teresa Nguyễn Hoàng Ngân",
+          "photo": "",
+          "note": "Phó ca đoàn · Từ tháng 8/2026"
+        },
+        {
+          "id": "2026-deputyLeader-new-2",
+          "name": "Anton Phạm Thiên Trường",
+          "photo": "",
+          "note": "Phó ca đoàn · Từ tháng 8/2026"
+        },
+        {
+          "id": "2026-deputyLeader-new-3",
+          "name": "Vincent Nguyễn Thành Doanh",
+          "photo": "",
+          "note": "Phó ca đoàn · Từ tháng 8/2026"
+        },
+        {
+          "id": "2026-deputyLeader-previous-1",
+          "name": "Vincent Vũ Văn Thành",
+          "photo": "",
+          "note": "Phó ca đoàn · Ban Điều Hành 2025–2026, trước tháng 8/2026"
+        },
+        {
+          "id": "2026-deputyLeader-previous-2",
+          "name": "Giuse Trần Viết Vĩ",
+          "photo": "",
+          "note": "Phó ca đoàn · Ban Điều Hành 2025–2026, trước tháng 8/2026"
+        },
+        {
+          "id": "2026-deputyLeader-previous-3",
+          "name": "Giuse Nguyễn Phan Hoài Duy",
+          "photo": "",
+          "note": "Phó ca đoàn · Ban Điều Hành 2025–2026, trước tháng 8/2026"
+        }
+      ]
+    },
+    "conductor": {
+      "members": [
+        {
+          "id": "2026-conductor-new-0",
+          "name": "Maria Trần Thị Mai",
+          "photo": "",
+          "note": "Ca trưởng · Ban Điều Hành 2025–2026 và từ tháng 8/2026"
         }
       ]
     },
     "treasurer": {
-      "note": "Phụ trách tài chính",
       "members": [
         {
-          "name": "Đang cập nhật",
+          "id": "2026-treasurer-new-0",
+          "name": "Maria Mai Thị Nhật Lệ",
           "photo": "",
-          "id": "person-treasurer-0hd8bf5"
+          "note": "Thủ quỹ · Từ tháng 8/2026"
+        },
+        {
+          "id": "2026-treasurer-previous-0",
+          "name": "Maria Nguyễn Thị Hà Trang",
+          "photo": "",
+          "note": "Thủ quỹ · Ban Điều Hành 2025–2026, trước tháng 8/2026"
         }
       ]
-    },
-    "teams": [
-      {
-        "name": "Ban Phụng vụ",
-        "members": [],
-        "id": "team-ban-phung-vu-00z4zag"
-      },
-      {
-        "name": "Ban Truyền thông",
-        "members": [],
-        "id": "team-ban-truyen-thong-07i2mcq"
-      },
-      {
-        "name": "Ban Bác ái",
-        "members": [],
-        "id": "team-ban-bac-ai-173ms83"
-      },
-      {
-        "name": "Ban Hậu cần",
-        "members": [],
-        "id": "team-ban-hau-can-1ofs7ay"
-      }
-    ]
+    }
   },
   "members": {
-    "total": 109,
+    "total": 105,
     "new": 20,
-    "inactive": 5,
+    "inactive": 16,
     "notes": ""
   },
   "activities": [
     {
+      "id": "2026-phuc-vu-dai-le-phuc-sinh",
+      "title": "Phục vụ Đại lễ Phục Sinh",
+      "date": "05/04/2026",
+      "type": "Thánh lễ",
+      "topic": "Phụng vụ",
+      "description": "Vào lúc 10h, Chúa Nhật ngày 05/04/2026, Ca đoàn Giới trẻ Teresa hân hoan phục vụ Đại lễ Phục Sinh trong bầu không khí trang nghiêm và sốt sắng với sự hiện diện của đông đảo anh chị em giáo dân gần xa.",
+      "body": "Vào lúc 10h, Chúa Nhật ngày 05/04/2026, Ca đoàn Giới trẻ Teresa hân hoan phục vụ Đại lễ Phục Sinh trong bầu không khí trang nghiêm và sốt sắng với sự hiện diện của đông đảo anh chị em giáo dân gần xa.\n\nĐại lễ Phục Sinh là đỉnh cao của đời sống đức tin Kitô giáo, không chỉ là khúc ca khải hoàn của Đức Kitô, mà còn là lời xác tín mạnh mẽ rằng sự sống khải hoàn trên sự chết, nơi niềm hy vọng được thắp sáng trong Ðấng Hằng Sống “là Alpha và Ômêga”.\n\nThánh lễ khép lại trong niềm vui Phục Sinh tràn đầy. Sau Thánh lễ, Ban Điều hành Ca đoàn đã chuẩn bị những phần quà nhỏ gửi tặng các anh chị em ca viên như một lời chúc mừng ngày đại lễ, đồng thời là dấu chỉ của sự hiệp thông và tình gia đình trong Chúa.",
+      "images": []
+    },
+    {
       "id": "2026-activity-1",
-      "coverImage": {
-        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/archive/hero/medium.jpg",
-        "id": "media/2026/archive/hero/original.jpg",
-        "alt": "",
-        "caption": "",
-        "variants": {
-          "thumbnail": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/archive/hero/thumb.jpg",
-            "width": 480,
-            "height": 319
-          },
-          "medium": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/archive/hero/medium.jpg",
-            "width": 1280,
-            "height": 851
-          },
-          "original": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/archive/hero/original.jpg",
-            "width": 2400,
-            "height": 1596
-          }
-        }
-      },
-      "title": "Exsultet — Đêm Hòa Nhạc Phục Sinh",
-      "date": "Mùa Phục Sinh 2026",
+      "title": "Hoà nhạc Phục Sinh Exsultet",
+      "date": "10/04/2026",
       "type": "Hòa nhạc",
       "topic": "Phục Sinh",
-      "description": "Chương trình tôn vinh mầu nhiệm Phục Sinh của Thiên Chúa.",
-      "body": "Một đêm hòa nhạc được tổ chức với ước mong đưa cộng đoàn đến gần hơn với niềm vui Phục Sinh qua thánh nhạc.",
+      "description": "Ngày 10/04/2026, trong niềm hân hoan mừng Chúa Phục Sinh của toàn thể Giáo Hội hoàn vũ, Ca đoàn Giới trẻ Teresa đã kết hợp cùng Dàn Hợp Xướng Trẻ Công Giáo Hà Nội (HCYC) tổ chức đêm hoà nhạc phục sinh EXSULTET, một đêm nhạc Thánh Ca thiêng liêng và đầy cảm xúc, đưa tới hành trình chiêm ngắm một mầu nhiệm vĩ đại: Mầu Nhiệm Chúa Phục Sinh.",
+      "body": "Ngày 10/04/2026, trong niềm hân hoan mừng Chúa Phục Sinh của toàn thể Giáo Hội hoàn vũ, Ca đoàn Giới trẻ Teresa đã kết hợp cùng Dàn Hợp Xướng Trẻ Công Giáo Hà Nội (HCYC) tổ chức đêm hoà nhạc phục sinh EXSULTET, một đêm nhạc Thánh Ca thiêng liêng và đầy cảm xúc, đưa tới hành trình chiêm ngắm một mầu nhiệm vĩ đại: Mầu Nhiệm Chúa Phục Sinh.\n\nMở đầu đêm nhạc, Cha Chính xứ Chính Tòa Giuse Tạ Minh Quý đã gửi tới cộng đoàn lời khai mạc, Ngài nhấn mạnh chúng ta hiện diện ở nơi đây để nói lên niềm vui lớn lao, niềm vui làm thay đổi phận người, niềm vui của Đức Kitô Phục Sinh.\n\nTừ những thanh âm hào hùng, uy quyền trong Xuất Hành, đến lời hỏi thân thương “Bà Maria ơi, trên đường Bà thấy những gì…”, hay những giai điệu “Alleluia” quen thuộc trong Thánh ca cổ Ode to Joy, mỗi nhạc phẩm góp thêm một sắc màu cho bức tranh Phục Sinh. Tất cả cùng quy tụ trong lời ca hân hoan “Exsultet” – “Hãy vui lên!”, như một lời tuyên xưng đức tin mạnh mẽ vào quyền năng Thiên Chúa và niềm xác tín vào lời hứa cứu độ của Người.\n\nTrong đêm nhạc, Cha Bề trên Giáo xứ Thái Hà Giuse Nguyễn Văn Hội đã chia sẻ một thông điệp đặc biệt: “…Exsultet cho dù là bài thánh ca cổ xưa, và biến cố Chúa Phục Sinh cũng xa rồi, nhưng bài Exsultet không chỉ để nghe mà còn để sống, và biến cố Phục Sinh không chỉ để biết nhưng là để chúng ta thông dự vào…”. Đó cũng chính là điều đêm nhạc muốn gửi gắm, không chỉ có những lời ca, nốt nhạc mà còn là những “điểm chạm” đi vào đôi tai, đi vào con tim mỗi người, như những hạt mầm âm thầm được gieo xuống mảnh đất tâm hồn của quý khán thính giả.\n\nĐêm nhạc quy tụ đông đảo khán thính giả, trong đó có nhiều anh chị em tôn giáo bạn. Với Ca đoàn Giới trẻ Teresa, đây cũng là cơ hội để dùng chính khả năng và sứ vụ của mình để trở thành nhịp cầu đưa Đức Tin và những giá trị của Tin Mừng đến gần hơn với mọi người. Đêm nhạc Exsultet từ đó cũng mở ra một khoảng thánh thiêng để người tham dự cùng lắng nghe, cảm nhận và cảm nếm trọn vẹn niềm vui Phục Sinh.\n\nĐêm nhạc cũng nhận được sự quan tâm và lan toả tích cực trên các nền tảng mạng xã hội. Khép lại trong niềm vui và những dấu ấn đẹp, hoà nhạc Exsultet đã trở thành một kỷ niệm đáng nhớ trên hành trình phục vụ của Ca đoàn Giới trẻ Teresa.",
       "images": []
     },
     {
-      "type": "Đại lễ",
-      "date": "2026",
-      "title": "Mừng 20 năm Gia Đình Công Giáo Xa Quê Hà Nội",
-      "description": "Ca đoàn cùng hiệp thông trong hành trình 20 năm của mái nhà Gia Đình Công Giáo Xa Quê Hà Nội.",
-      "body": "Ca đoàn dâng lời tạ ơn và tri ân quý cha, quý sơ, quý chức, ân nhân, thân nhân cùng mọi thế hệ đã góp phần làm nên hành trình đức tin này.",
+      "id": "2026-hon-phoi-thanh-minh-diem-trang",
+      "title": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "date": "30/04/2026",
+      "type": "Hôn phối",
+      "topic": "Hôn phối",
+      "description": "Ngày 30/04/2026, tại Thánh đường Giáo xứ Vinh Sơn, Giáo phận Thanh Hóa, Ca đoàn Giới trẻ Teresa hân hoan phục vụ Thánh lễ Hôn Phối của anh Anton Thành Minh và chị Teresa Diễm Trang. Một gia đình mới được hình thành, một mầm sống mới của Giáo hội được gieo xuống trong ngày hai anh chị trao cho nhau lời thề ước trước bàn thờ Chúa.",
+      "body": "Ngày 30/04/2026, tại Thánh đường Giáo xứ Vinh Sơn, Giáo phận Thanh Hóa, Ca đoàn Giới trẻ Teresa hân hoan phục vụ Thánh lễ Hôn Phối của anh Anton Thành Minh và chị Teresa Diễm Trang. Một gia đình mới được hình thành, một mầm sống mới của Giáo hội được gieo xuống trong ngày hai anh chị trao cho nhau lời thề ước trước bàn thờ Chúa.\n\nVới Ca đoàn Giới trẻ Teresa, ngày vui ấy càng trở nên đặc biệt khi cô dâu Diễm Trang từng là một thành viên thân thuộc của đại gia đình Teresa - cựu ca viên bè Soprano, từng đồng hành cùng Ban Truyền thông và luôn nhiệt thành, tận tụy trong những năm tháng phục vụ.\n\nƯớc mong rằng trên hành trình mới của chị luôn có Chúa đồng hành và giữ gìn, như lời Cha nhắn nhủ với anh chị trong Thánh lễ: “…chỉ cần chúng ta tiếp tục yêu nhau như cách Chúa vẫn yêu, cầu nguyện cho nửa kia mọi ngày trong suốt cuộc đời thì gia đình sẽ lại ấm êm, tình yêu sẽ lại đong đầy”.",
+      "images": []
+    },
+    {
+      "id": "2026-hon-phoi-minh-tiep-to-uyen",
+      "title": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "date": "16/05/2026",
+      "type": "Hôn phối",
+      "topic": "Hôn phối",
+      "description": "Ngày 16/05/2026, tại Giáo xứ Bái Xuyên, Giáo phận Hà Nội, anh Giuse Minh Tiệp & chị Lucia Tố Uyên đã chính thức bước vào giao ước hôn nhân thánh thiện trước mặt Thiên Chúa. Ca đoàn Giới trẻ Teresa vinh dự được phục vụ Thánh lễ thành hôn của hai anh chị, cùng chứng kiến khoảnh khắc thiêng liêng của anh chị thành toàn trước mặt Chúa và Hội thánh. Giữa bầu khí linh thiêng của Thánh lễ, những lời ca tiếng hát của Ca đoàn trở thành lời cầu nguyện và lời chúc phúc gửi đến đôi tân hôn. Đó là lời nguyện xin cho hai anh chị luôn biết yêu thương nhau trong tình yêu của Chúa, trung tín với nhau qua những ngày vui cũng như những lúc gian nan, để từ hôm nay và mãi về sau, hai người luôn có thể nắm tay nhau bước qua mọi chặng đường của cuộc sống.",
+      "body": "Ngày 16/05/2026, tại Giáo xứ Bái Xuyên, Giáo phận Hà Nội, anh Giuse Minh Tiệp & chị Lucia Tố Uyên đã chính thức bước vào giao ước hôn nhân thánh thiện trước mặt Thiên Chúa. Ca đoàn Giới trẻ Teresa vinh dự được phục vụ Thánh lễ thành hôn của hai anh chị, cùng chứng kiến khoảnh khắc thiêng liêng của anh chị thành toàn trước mặt Chúa và Hội thánh. Giữa bầu khí linh thiêng của Thánh lễ, những lời ca tiếng hát của Ca đoàn trở thành lời cầu nguyện và lời chúc phúc gửi đến đôi tân hôn. Đó là lời nguyện xin cho hai anh chị luôn biết yêu thương nhau trong tình yêu của Chúa, trung tín với nhau qua những ngày vui cũng như những lúc gian nan, để từ hôm nay và mãi về sau, hai người luôn có thể nắm tay nhau bước qua mọi chặng đường của cuộc sống.",
+      "images": []
+    },
+    {
+      "id": "2026-tyc-badminton-season-i",
+      "title": "TYC Badminton Season I",
+      "date": "24/05/2026",
+      "type": "Thể thao",
+      "topic": "Hội thao",
+      "description": "Chiều Chủ Nhật, ngày 24/05/2026, tại sân cầu lông MD, giải cầu lông nội bộ mùa đầu tiên chính thức được khai mạc với 20 vợt thủ trong bầu không khí sôi động, nhiệt huyết và đầy cảm xúc. Trận đấu không chỉ là những phút giây giao tranh mà còn là cơ hội gắn kết và lan tỏa tinh thần hiệp nhất giữa các anh chị em trong ca đoàn.",
+      "body": "Chiều Chủ Nhật, ngày 24/05/2026, tại sân cầu lông MD, giải cầu lông nội bộ mùa đầu tiên chính thức được khai mạc với 20 vợt thủ trong bầu không khí sôi động, nhiệt huyết và đầy cảm xúc. Trận đấu không chỉ là những phút giây giao tranh mà còn là cơ hội gắn kết và lan tỏa tinh thần hiệp nhất giữa các anh chị em trong ca đoàn.\n\nTrận đấu khép lại với chức vô địch thuộc về: Nguyễn Văn Hiếu - Phan Tài Đức (Bảng A) & Phạm Thu Hoài - Nguyễn Đức Tường (Bảng B)\n\nKhông chỉ là sân chơi thể thao lành mạnh, giải đấu còn là dịp để các thành viên thêm gắn kết, giao lưu và lan tỏa tinh thần đoàn kết trong đại gia đình Teresa. TYC - Badminton season I khép lại với thật nhiều khoảnh khắc đáng nhớ, hy vọng rằng trong những mùa giải tiếp theo, chúng ta sẽ tiếp tục được gặp lại nhau trên sân cầu với tinh thần máu lửa và hiệp nhất hơn nữa!",
+      "images": []
+    },
+    {
+      "id": "2026-hon-phoi-hung-vuong-hong-ngoc",
+      "title": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "date": "04/07/2026",
+      "type": "Hôn phối",
+      "topic": "Hôn phối",
+      "description": "Ngày 04/07/2026, tại Giáo xứ Phong Lộc, Giáo phận Bùi Chu, anh Giuse Hùng Vương & chị Maria Hồng Ngọc đã quyết định trao nhau lời thề nguyện thiêng liêng của Bí tích Hôn Phối. Nhờ bàn tay của Thiên Chúa âm thầm dẫn lối, hai anh chị từ hai người xa lạ giờ đây đã trở thành “một xương một thịt”, cùng nắm tay nhau đến trước bàn thờ Chúa, cùng trao nhau lời ước nguyện yêu thương và chung thuỷ. Đó không chỉ là lời hứa của ngày hôm ấy, mà còn là khởi đầu của hành trình sống trọn ơn gọi hôn nhân Kitô giáo. Với Ca đoàn Giới trẻ Teresa, được hiện diện trong ngày vui của Hồng Ngọc cũng là một niềm vui đặc biệt. Những lời ca tiếng hát trong Thánh lễ như thay cho lời cầu nguyện dành cho anh chị, xin Chúa luôn đồng hành, gìn giữ và dẫn lối cho gia đình nhỏ trong từng chặng đường phía trước. Nguyện xin Chúa và Mẹ Maria luôn ở bên, chúc phúc cho tình yêu của anh chị hôm nay và mãi mãi về sau.",
+      "body": "Ngày 04/07/2026, tại Giáo xứ Phong Lộc, Giáo phận Bùi Chu, anh Giuse Hùng Vương & chị Maria Hồng Ngọc đã quyết định trao nhau lời thề nguyện thiêng liêng của Bí tích Hôn Phối. Nhờ bàn tay của Thiên Chúa âm thầm dẫn lối, hai anh chị từ hai người xa lạ giờ đây đã trở thành “một xương một thịt”, cùng nắm tay nhau đến trước bàn thờ Chúa, cùng trao nhau lời ước nguyện yêu thương và chung thuỷ. Đó không chỉ là lời hứa của ngày hôm ấy, mà còn là khởi đầu của hành trình sống trọn ơn gọi hôn nhân Kitô giáo. Với Ca đoàn Giới trẻ Teresa, được hiện diện trong ngày vui của Hồng Ngọc cũng là một niềm vui đặc biệt. Những lời ca tiếng hát trong Thánh lễ như thay cho lời cầu nguyện dành cho anh chị, xin Chúa luôn đồng hành, gìn giữ và dẫn lối cho gia đình nhỏ trong từng chặng đường phía trước. Nguyện xin Chúa và Mẹ Maria luôn ở bên, chúc phúc cho tình yêu của anh chị hôm nay và mãi mãi về sau.",
+      "images": []
+    },
+    {
+      "id": "2026-teambuilding-ba-vi",
+      "title": "Teambuilding tại Ba Vì",
+      "date": "18–19/07/2026",
+      "type": "Gắn kết",
+      "topic": "Gắn kết",
+      "description": "Đi để nhớ, ở để thương..",
+      "body": "Đi để nhớ, ở để thương..\n\nTrong hai ngày 18-19/07/2026, Ca đoàn Giới trẻ Teresa đã có chuyến đi teambuilding tại Ba Vì, Hà Nội, một chuyến đi mang lại thật nhiều tiếng cười và những kỷ niệm khó quên.\n\nTại Ba Vì, anh chị em ca viên không chỉ chơi hết mình, cháy hết cỡ, mà còn hiểu nhau hơn, gần nhau hơn, và gắn bó như một gia đình thật sự. Sau mỗi chuyến đi, điều đáng nhớ có lẽ không nằm ở việc chúng ta đã đi đâu, đã chơi những gì, mà là chúng ta đã đi cùng ai. Là những câu chuyện sẽ còn được nhắc lại trong những buổi tập sau này, những bức ảnh sẽ còn được mở ra khi nhớ về tuổi trẻ, và những kỷ niệm mà mỗi người sẽ mang theo trên hành trình đồng hành cùng Teresa.",
+      "images": []
+    },
+    {
+      "id": "2026-chung-ket-giao-ly-thai-ha",
+      "title": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "date": "30/07/2026",
+      "type": "Giáo lý",
+      "topic": "Học hỏi",
+      "description": "Tối ngày 30/7/2026, đại diện Ca đoàn Giới trẻ Teresa đã góp mặt tại chung kết Hội thi Giáo lý Giáo xứ Thái Hà. Với định hướng “Dạy giáo lý gắn liền với Lời loan báo đầu tiên”, cuộc thi không chỉ là nơi mỗi đội thi được gặp gỡ, giao lưu và học hỏi lời Chúa mà còn là cơ hội cho mỗi người đào sâu đức tin để trở thành những chứng tá của Chúa trong đời sống. Chung cuộc Ca đoàn Giới trẻ Teresa đã nỗ lực vượt qua các vòng thi đầy cam go và xuất sắc đạt được: Giải Nhất cá nhân & Giải Nhì tập thể.",
+      "body": "Tối ngày 30/7/2026, đại diện Ca đoàn Giới trẻ Teresa đã góp mặt tại chung kết Hội thi Giáo lý Giáo xứ Thái Hà. Với định hướng “Dạy giáo lý gắn liền với Lời loan báo đầu tiên”, cuộc thi không chỉ là nơi mỗi đội thi được gặp gỡ, giao lưu và học hỏi lời Chúa mà còn là cơ hội cho mỗi người đào sâu đức tin để trở thành những chứng tá của Chúa trong đời sống. Chung cuộc Ca đoàn Giới trẻ Teresa đã nỗ lực vượt qua các vòng thi đầy cam go và xuất sắc đạt được: Giải Nhất cá nhân & Giải Nhì tập thể.\n\nKết quả ấy tiếp nối thành tích của Ca đoàn trong những năm qua tại các cuộc thi Giáo lý của Giáo xứ Thái Hà và Gia đình Công giáo Xa quê Hà Nội. Quan trọng hơn đó là minh chứng cho tinh thần nghiêm túc tìm hiểu và học hỏi Kinh Thánh và Giáo lý của các ca viên Teresa. Tinh thần ấy càng trở nên có ý nghĩa hơn khi đặt trong chủ đề của cuộc thi Giáo lý năm nay: Giáo lý là hành trang để Tin Mừng thành lối sống.",
+      "images": []
+    },
+    {
+      "id": "2026-thien-nguyen-huong-la",
+      "title": "Thiện nguyện Nhà tình thương Hương La",
+      "date": "02/08/2026",
+      "type": "Thiện nguyện",
+      "topic": "Thiện nguyện",
+      "description": "Sáng Chúa Nhật ngày 02/08/2026, Ca đoàn Giới trẻ Teresa cùng Cha phó đặc trách Giuse Lương Thanh Tùng và ông Phó Chủ tịch Toán đã về với miền Tử Nê, Bắc Ninh, thăm các em nhỏ ở Nhà tình thương Hương La và hiệp dâng Thánh lễ tại Giáo họ nơi đây trong những ngày cuối trước khi phải di dời để phục vụ cho dự án Sân bay Gia Bình.",
+      "body": "Sáng Chúa Nhật ngày 02/08/2026, Ca đoàn Giới trẻ Teresa cùng Cha phó đặc trách Giuse Lương Thanh Tùng và ông Phó Chủ tịch Toán đã về với miền Tử Nê, Bắc Ninh, thăm các em nhỏ ở Nhà tình thương Hương La và hiệp dâng Thánh lễ tại Giáo họ nơi đây trong những ngày cuối trước khi phải di dời để phục vụ cho dự án Sân bay Gia Bình.\n\nCâu chuyện ở Hương La có lẽ chỉ có thể gọi gọn trong một chữ “thương”. Suốt hơn 1 thế kỷ qua, Nhà tình thương Hương La - nơi lưu giữ những câu chuyện về biết bao đời người, là mái ấm đầy tình yêu thương chở che biết bao phận người bé nhỏ và những em bé khuyết tật, mồ côi. Trong chuyến tới thăm, Ca đoàn đã trao tặng những phần quà đầy yêu thương tới các sơ, các dì và các em nhỏ. Mỗi phần quà được trao gửi là một phần tình yêu và hi vọng được gửi gắm, đây cũng là cơ hội để mỗi ca viên mang tình yêu của Chúa đến với những người bé nhỏ, cùng nhau \"làm cho Thiên Chúa được yêu mến.\"\n\nSau chuyến thăm Nhà tình thương, Ca đoàn tiếp tục phục vụ Thánh lễ tại Giáo họ Hương La và tới thăm Giáo xứ Tử Nê. Trong bối cảnh nơi đây chuẩn bị di dời, Thánh lễ hôm ấy mang một cảm thức thật đặc biệt. Có thể đó là một trong những lần cuối cùng cộng đoàn được cùng nhau quy tụ dưới ngôi thánh đường Hương La này.\n\nSau Thánh lễ, Ca đoàn tới cầu nguyện và đọc kinh trước chứng tích \"Giám mục hầm trú\" Thánh Valentino Ochoa Vinh, nơi từng ghi dấu những năm tháng Ngài từng ẩn náu và điều hành Giáo phận Trung Đàng Ngoài trong những năm tháng Giáo hội chịu bách hại dưới triều vua Tự Đức. Đứng trước chứng tích ấy, người ta không chỉ nhìn thấy một căn hầm hay một dấu tích của quá khứ. Nơi đây còn kể lại câu chuyện về một Giáo hội đã từng đi qua những năm tháng khắc nghiệt bằng lòng trung thành và đức tin. Và trong chuyến đi lần này, Ca đoàn Giới trẻ Teresa cũng trở thành một trong những đoàn hành hương cuối cùng được hiện diện và chiêm ngắm chứng tích lịch sử trước khi nơi đây phải nhường đất cho một dự án sân bay Gia Bình.\n\nTrên đường trở về, đi ngang qua những khu vực đang được phá dỡ, chỉ còn lại những bức tường dang dở và dấu tích của một thời đã qua, để lại trong lòng sự bùi ngùi đối với mỗi ca viên. Đất nước cần sự phát triển, song phía sau những đổi thay ấy lại là sự hy sinh của cả một vùng quê, cả một lịch sử họ đạo, họ lặng lẽ trao lại một phần ký ức thân thuộc nhất của mình để nhường chỗ cho tương lai của đất nước.",
+      "images": []
+    },
+    {
+      "id": "2026-bau-ban-dieu-hanh",
+      "title": "Bầu Ban Điều hành nhiệm kỳ 2026–2028",
+      "date": "20/08/2026",
+      "type": "Nội bộ",
       "topic": "Cộng đoàn",
-      "id": "2026-activity-2",
+      "description": "Tối ngày 20/8/2026 tại phòng Mục vụ Di Dân Giáo xứ Thái Hà, Ca đoàn Giới trẻ Teresa đã tổ chức buổi họp kiện toàn Tân Trưởng Ca đoàn nhiệm kỳ 2026-2028. Buổi họp có sự hiện diện và đồng hành của Cha Đặc trách Vincent Trần Trí Tuệ, quý Ban Thường vụ HĐMV Gia đình Công giáo Xa quê Hà Nội cùng toàn thể anh chị em ca viên của ca đoàn.",
+      "body": "Tối ngày 20/8/2026 tại phòng Mục vụ Di Dân Giáo xứ Thái Hà, Ca đoàn Giới trẻ Teresa đã tổ chức buổi họp kiện toàn Tân Trưởng Ca đoàn nhiệm kỳ 2026-2028. Buổi họp có sự hiện diện và đồng hành của Cha Đặc trách Vincent Trần Trí Tuệ, quý Ban Thường vụ HĐMV Gia đình Công giáo Xa quê Hà Nội cùng toàn thể anh chị em ca viên của ca đoàn.\n\nSau khi nhận được đa số biếu bầu tín nhiệm và được sự động viên của quý Cha, quý Ban Thường vụ, cựu Ban Điều hành, anh Phê-rô Đặng Trung Kiên đã nhận lời và chính thức trở thành tân trưởng ca đoàn nhiệm kỳ 2026-2028.\n\nĐây là dấu mốc quan trọng, mở ra một chặng đường mới với nhiều kỳ vọng nơi Ban Điều hành và toàn thể Ca đoàn. Nguyện xin Chúa Thánh Thần luôn soi sáng, hướng dẫn và ban thêm sức mạnh, lòng nhiệt thành cùng tinh thần phục vụ cho tân Ban Điều hành, để các anh chị có thể cộng tác cách quảng đại, dẫn dắt Ca đoàn ngày một hiệp nhất và phát triển.",
       "images": []
-    },
-    {
-      "type": "Thánh lễ",
-      "date": "Trong năm",
-      "title": "Phục vụ các thánh lễ và giờ chầu",
-      "description": "Tiếp tục phụng sự bằng tiếng hát trong các thánh lễ lớn và giờ chầu.",
-      "body": "Mỗi lần hiện diện trên cung thánh là một cơ hội để ca viên trưởng thành hơn trong đức tin và phụng vụ.",
-      "topic": "Phụng vụ",
-      "id": "2026-activity-3",
-      "images": []
-    },
-    {
-      "id": "2026-activity-1786561413635-wqq3s5",
-      "coverImage": {
-        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561398970-lequanthay202011/medium.jpg",
-        "id": "media/2026/hoa-nhac/1786561398970-lequanthay202011/original.jpg",
-        "alt": "",
-        "caption": "",
-        "variants": {
-          "thumbnail": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561398970-lequanthay202011/thumb.jpg",
-            "width": 480,
-            "height": 320
-          },
-          "medium": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561398970-lequanthay202011/medium.jpg",
-            "width": 1280,
-            "height": 853
-          },
-          "original": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561398970-lequanthay202011/original.jpg",
-            "width": 2048,
-            "height": 1365
-          }
-        }
-      },
-      "title": "hoà nhạc mừng mẹ lên trời",
-      "date": "14.08.2026",
-      "type": "hoà nhạc",
-      "topic": "Hòa nhạc",
-      "description": "hồng ân tuyệt vời",
-      "body": "yeu ca doan",
-      "album": {
-        "manifest": "data/albums/2026/2026-hoa-nhac-mung-me-len-troi.json",
-        "count": 9,
-        "preview": [
-          {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561398970-lequanthay202011/medium.jpg",
-            "alt": "Ảnh tư liệu Hòa nhạc mừng Mẹ lên trời",
-            "caption": "Hòa nhạc mừng Mẹ lên trời",
-            "id": "media/2026/hoa-nhac/1786561398970-lequanthay202011/original.jpg",
-            "variants": {
-              "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561398970-lequanthay202011/thumb.jpg",
-                "width": 480,
-                "height": 320
-              },
-              "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561398970-lequanthay202011/medium.jpg",
-                "width": 1280,
-                "height": 853
-              },
-              "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561398970-lequanthay202011/original.jpg",
-                "width": 2048,
-                "height": 1365
-              }
-            }
-          },
-          {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561231910-cps-media-589/medium.jpg",
-            "alt": "Ảnh tư liệu Hòa nhạc mừng Mẹ lên trời",
-            "caption": "Hòa nhạc mừng Mẹ lên trời",
-            "id": "media/2026/hoa-nhac/1786561231910-cps-media-589/original.jpg",
-            "variants": {
-              "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561231910-cps-media-589/thumb.jpg",
-                "width": 480,
-                "height": 320
-              },
-              "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561231910-cps-media-589/medium.jpg",
-                "width": 1280,
-                "height": 853
-              },
-              "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561231910-cps-media-589/original.jpg?v=1837775",
-                "width": 3200,
-                "height": 2133
-              }
-            }
-          },
-          {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561256652-cps-media-619/medium.jpg",
-            "alt": "Ảnh tư liệu Hòa nhạc mừng Mẹ lên trời",
-            "caption": "Hòa nhạc mừng Mẹ lên trời",
-            "id": "media/2026/hoa-nhac/1786561256652-cps-media-619/original.jpg",
-            "variants": {
-              "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561256652-cps-media-619/thumb.jpg",
-                "width": 480,
-                "height": 319
-              },
-              "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561256652-cps-media-619/medium.jpg",
-                "width": 1280,
-                "height": 852
-              },
-              "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/hoa-nhac/1786561256652-cps-media-619/original.jpg?v=1657826",
-                "width": 3200,
-                "height": 2129
-              }
-            }
-          }
-        ]
-      }
     }
   ],
-  "achievements": [
-    "Tổ chức Đêm Hòa Nhạc Phục Sinh Exsultet.",
-    "Mở rộng sự hiện diện trong các thánh lễ và giờ chầu.",
-    "Hiệp thông trong Đại lễ 20 năm Gia Đình Công Giáo Xa Quê Hà Nội."
-  ],
-  "challenges": [
-    "Chuẩn hóa tư liệu, ảnh và bài viết của các hoạt động mới.",
-    "Đồng hành với số lượng ca viên ngày càng đông.",
-    "Gìn giữ chiều sâu đức tin trong nhịp hoạt động phong phú."
-  ],
-  "gallery": [
-    {
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/gallery/phung-vu-2025/medium.jpg",
-      "alt": "Ca đoàn trong một thánh lễ",
-      "event": "Phụng vụ",
-      "caption": "Tiếp nối lời ca",
-      "id": "media/2026/gallery/phung-vu-2025/original.jpg",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/gallery/phung-vu-2025/thumb.jpg",
-          "width": 480,
-          "height": 290
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/gallery/phung-vu-2025/medium.jpg",
-          "width": 1280,
-          "height": 773
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/gallery/phung-vu-2025/original.jpg",
-          "width": 2400,
-          "height": 1450
-        }
-      }
-    }
-  ],
-  "sharing": [
-    {
-      "name": "Tư liệu đang bổ sung",
-      "role": "Ca viên 2026",
-      "quote": "Hành trình vẫn đang tiếp tục bằng niềm vui được hát, được phục vụ và được thuộc về một gia đình."
-    }
-  ],
+  "achievements": [],
+  "challenges": [],
+  "gallery": [],
+  "sharing": [],
   "emotionJournal": [
     {
       "date": "2026",
@@ -319,11 +388,6 @@
       "mood": "Hy vọng"
     }
   ],
-  "yearMark": {
-    "title": "Tiếp nối hành trình hồng ân.",
-    "description": "Từ mái nhà Gia Đình Công Giáo Xa Quê Hà Nội, Ca đoàn Giới trẻ Teresa tiếp tục lớn lên trong đức tin, phụng vụ và tình hiệp nhất.",
-    "highlight": "11 năm Teresa · 20 năm GĐCGXQ Hà Nội"
-  },
   "schemaVersion": 3,
   "meta": {
     "revision": 2,
@@ -359,5 +423,10 @@
         }
       }
     ]
+  },
+  "yearMark": {
+    "title": "Từ Hồng Ân đến Sứ Vụ",
+    "description": "Sau dấu mốc 10 năm thành lập - một chặng đường của biết bao hồng ân và tình yêu, Ca đoàn Giới trẻ Teresa bước vào năm thứ 11 với một tâm tình mới: từ những gì đã nhận lãnh, Ca đoàn tiếp tục trao đi; từ những gì đã được gieo trồng, Ca đoàn tiếp tục vun đắp; và từ những gì đã được viết nên trong 10 năm đầu tiên, một trang mới lại được mở ra.\n\nBước sang năm 2026, hành trình ấy được viết tiếp qua các giờ phục vụ Thánh lễ, qua các hoạt động nội bộ teambuilding, thiện nguyện, thể thao, thi Giáo lý, đặc biệt Hoà nhạc Phục Sinh Exsultet đã trở thành một dấu ấn nổi bật trong hành trình ấy. Tất cả, dù lớn hay nhỏ, đều trở thành những mảnh ghép làm nên một năm đáng nhớ của Teresa.\n\nĐặc biệt, năm nay đánh dấu sự chuyển giao và kiện toàn Ban Điều hành nhiệm kỳ mới. Một thế hệ trẻ tiếp tục nhận lấy trách nhiệm dẫn dắt Ca đoàn, mang theo nhiệt huyết, sức sáng tạo và tinh thần dấn thân của tuổi trẻ. Sự chuyển giao ấy không phải là một sự bắt đầu lại, mà là những giá trị được trao lại, những kinh nghiệm được tiếp nối cùng tinh thần hy sinh và phục vụ.\n\n“Từ Hồng Ân đến Sự Vụ” - Năm 2026 vì thế không chỉ là năm tiếp nối sau cột mốc 10 năm, mà một trang mới lại được mở ra. Và trên trang mới ấy, mỗi anh chị em ca viên lại cùng nhau viết tiếp câu chuyện mang tên Ca đoàn Giới trẻ Teresa.",
+    "highlight": "Năm thứ 11 · Hoà nhạc Phục Sinh Exsultet · Ban Điều hành nhiệm kỳ mới"
   }
 }

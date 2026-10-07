@@ -13,7 +13,7 @@
   const SCHEMA_VERSION = 3;
   const YEAR_MIN = 2015;
   // Temporarily hidden from public archive navigation; year data remains intact for administrators.
-  const HIDDEN_PUBLIC_YEARS = Object.freeze([2026]);
+  const HIDDEN_PUBLIC_YEARS = Object.freeze([]);
   const ROLE_KEYS = Object.freeze(["chaplain", "leader", "deputyLeader", "conductor", "treasurer"]);
   const ROLE_LABELS = Object.freeze({
     chaplain: "Cha đặc trách",
