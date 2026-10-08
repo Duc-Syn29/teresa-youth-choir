@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "year": 2020,
+  "activityId": "2020-muon-doi-ta-on",
+  "title": "MV Muôn Đời Tạ Ơn",
+  "count": 3,
+  "images": [
+    {
+      "id": "media/2020/muon-doi-ta-on/frame-77-84479817c799/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-77-84479817c799/medium.webp",
+      "alt": "Toàn ca đoàn trong MV Muôn Đời Tạ Ơn (01:17)",
+      "caption": "Toàn ca đoàn trong MV Muôn Đời Tạ Ơn (01:17) — Trích từ MV của Ca Đoàn Giới Trẻ Teresa",
+      "event": "MV Muôn Đời Tạ Ơn",
+      "sourceFilename": "MV-8wa0hKd2VLM-77s.jpg",
+      "sourceUrl": "https://www.youtube.com/watch?v=8wa0hKd2VLM",
+      "sourceTimeSeconds": 77,
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-77-84479817c799/thumb.webp",
+          "width": 480,
+          "height": 276
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-77-84479817c799/medium.webp",
+          "width": 648,
+          "height": 372
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-77-84479817c799/medium.webp",
+          "width": 648,
+          "height": 372
+        }
+      }
+    },
+    {
+      "id": "media/2020/muon-doi-ta-on/frame-194-214cd3242b68/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-194-214cd3242b68/medium.webp",
+      "alt": "Ca viên hát trong nhà nguyện ở MV Muôn Đời Tạ Ơn (03:14)",
+      "caption": "Ca viên hát trong nhà nguyện ở MV Muôn Đời Tạ Ơn (03:14) — Trích từ MV của Ca Đoàn Giới Trẻ Teresa",
+      "event": "MV Muôn Đời Tạ Ơn",
+      "sourceFilename": "MV-8wa0hKd2VLM-194s.jpg",
+      "sourceUrl": "https://www.youtube.com/watch?v=8wa0hKd2VLM",
+      "sourceTimeSeconds": 194,
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-194-214cd3242b68/thumb.webp",
+          "width": 480,
+          "height": 276
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-194-214cd3242b68/medium.webp",
+          "width": 648,
+          "height": 372
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-194-214cd3242b68/medium.webp",
+          "width": 648,
+          "height": 372
+        }
+      }
+    },
+    {
+      "id": "media/2020/muon-doi-ta-on/frame-311-3409b66ec322/medium.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-311-3409b66ec322/medium.webp",
+      "alt": "Nhóm ca viên hát ngoài trời trong MV Muôn Đời Tạ Ơn (05:11)",
+      "caption": "Nhóm ca viên hát ngoài trời trong MV Muôn Đời Tạ Ơn (05:11) — Trích từ MV của Ca Đoàn Giới Trẻ Teresa",
+      "event": "MV Muôn Đời Tạ Ơn",
+      "sourceFilename": "MV-8wa0hKd2VLM-311s.jpg",
+      "sourceUrl": "https://www.youtube.com/watch?v=8wa0hKd2VLM",
+      "sourceTimeSeconds": 311,
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-311-3409b66ec322/thumb.webp",
+          "width": 480,
+          "height": 276
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-311-3409b66ec322/medium.webp",
+          "width": 648,
+          "height": 372
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-311-3409b66ec322/medium.webp",
+          "width": 648,
+          "height": 372
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1281 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "activityId": "2026-teambuilding-ba-vi",
+  "title": "Teambuilding tại Ba Vì",
+  "count": 53,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cfeb3a3009162b97025ff34d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cfeb3a3009162b97025ff34d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cfeb3a3009162b97025ff34d/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cfeb3a3009162b97025ff34d/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cfeb3a3009162b97025ff34d/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building1.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/488374d526d74348beb142e4/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/488374d526d74348beb142e4/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/488374d526d74348beb142e4/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/488374d526d74348beb142e4/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/488374d526d74348beb142e4/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building2.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/13e60ce737a04e2344c434ad/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/13e60ce737a04e2344c434ad/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/13e60ce737a04e2344c434ad/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/13e60ce737a04e2344c434ad/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/13e60ce737a04e2344c434ad/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building3.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/aebf031ff0654b8d62529ac8/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/aebf031ff0654b8d62529ac8/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/aebf031ff0654b8d62529ac8/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/aebf031ff0654b8d62529ac8/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/aebf031ff0654b8d62529ac8/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building4.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/aafb9c52c65618f94bc2d9d8/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/aafb9c52c65618f94bc2d9d8/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/aafb9c52c65618f94bc2d9d8/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/aafb9c52c65618f94bc2d9d8/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/aafb9c52c65618f94bc2d9d8/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building5.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0fe0de789b807436e7143e70/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0fe0de789b807436e7143e70/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0fe0de789b807436e7143e70/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0fe0de789b807436e7143e70/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0fe0de789b807436e7143e70/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building6.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4319b3a23facb09950f73d14/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4319b3a23facb09950f73d14/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4319b3a23facb09950f73d14/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4319b3a23facb09950f73d14/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4319b3a23facb09950f73d14/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building7.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e5ce5fbce1eff0aa962095c5/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e5ce5fbce1eff0aa962095c5/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e5ce5fbce1eff0aa962095c5/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e5ce5fbce1eff0aa962095c5/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e5ce5fbce1eff0aa962095c5/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building8.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c126ca8461849f2cc1eb4958/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c126ca8461849f2cc1eb4958/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c126ca8461849f2cc1eb4958/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c126ca8461849f2cc1eb4958/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c126ca8461849f2cc1eb4958/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building9.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7b597e41ca18a98d573741b8/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7b597e41ca18a98d573741b8/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7b597e41ca18a98d573741b8/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7b597e41ca18a98d573741b8/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7b597e41ca18a98d573741b8/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building10.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e680cac85f64727120505fb4/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e680cac85f64727120505fb4/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e680cac85f64727120505fb4/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e680cac85f64727120505fb4/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e680cac85f64727120505fb4/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building11.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2f78242e8b0efedb4b0e07e6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2f78242e8b0efedb4b0e07e6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2f78242e8b0efedb4b0e07e6/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2f78242e8b0efedb4b0e07e6/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2f78242e8b0efedb4b0e07e6/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building12.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/31a42e42e93a3a69f4e6bb5c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/31a42e42e93a3a69f4e6bb5c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/31a42e42e93a3a69f4e6bb5c/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/31a42e42e93a3a69f4e6bb5c/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/31a42e42e93a3a69f4e6bb5c/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building13.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f0b9ddbe4b136e2be786b417/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f0b9ddbe4b136e2be786b417/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f0b9ddbe4b136e2be786b417/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f0b9ddbe4b136e2be786b417/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f0b9ddbe4b136e2be786b417/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building14.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3ed25eeba4d6c764520f46fe/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3ed25eeba4d6c764520f46fe/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3ed25eeba4d6c764520f46fe/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3ed25eeba4d6c764520f46fe/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3ed25eeba4d6c764520f46fe/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Ca viên cùng tham gia trò chơi tại Ba Vì",
+      "caption": "Ca viên cùng tham gia trò chơi tại Ba Vì",
+      "sourceFilename": "team building15.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5140ec1d4a7ba578780e2cb6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5140ec1d4a7ba578780e2cb6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5140ec1d4a7ba578780e2cb6/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5140ec1d4a7ba578780e2cb6/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5140ec1d4a7ba578780e2cb6/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building16.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/968fa107d098c6e2385f2ab7/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/968fa107d098c6e2385f2ab7/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/968fa107d098c6e2385f2ab7/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/968fa107d098c6e2385f2ab7/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/968fa107d098c6e2385f2ab7/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building17.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/691994a67435e9225c410839/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/691994a67435e9225c410839/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/691994a67435e9225c410839/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/691994a67435e9225c410839/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/691994a67435e9225c410839/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building18.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7582be3af0fd6f528a9538b0/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7582be3af0fd6f528a9538b0/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7582be3af0fd6f528a9538b0/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7582be3af0fd6f528a9538b0/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7582be3af0fd6f528a9538b0/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building19.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6b270a412690db5e032ea27d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6b270a412690db5e032ea27d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6b270a412690db5e032ea27d/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6b270a412690db5e032ea27d/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6b270a412690db5e032ea27d/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building20.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4a5cf7fedf9bfe75a7762091/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4a5cf7fedf9bfe75a7762091/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4a5cf7fedf9bfe75a7762091/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4a5cf7fedf9bfe75a7762091/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4a5cf7fedf9bfe75a7762091/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building21.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f0e604ab884166a6950bcf04/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f0e604ab884166a6950bcf04/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f0e604ab884166a6950bcf04/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f0e604ab884166a6950bcf04/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f0e604ab884166a6950bcf04/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building22.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/18e23470ae0678fcbb3c4408/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/18e23470ae0678fcbb3c4408/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/18e23470ae0678fcbb3c4408/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/18e23470ae0678fcbb3c4408/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/18e23470ae0678fcbb3c4408/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building23.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d0a44601e48c1f7ffeb60c77/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d0a44601e48c1f7ffeb60c77/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d0a44601e48c1f7ffeb60c77/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d0a44601e48c1f7ffeb60c77/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d0a44601e48c1f7ffeb60c77/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building24.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/465a9aba3a6f5897e73a02c0/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/465a9aba3a6f5897e73a02c0/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/465a9aba3a6f5897e73a02c0/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/465a9aba3a6f5897e73a02c0/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/465a9aba3a6f5897e73a02c0/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building25.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/10b4f1ea550b49ea6cf0a221/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/10b4f1ea550b49ea6cf0a221/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/10b4f1ea550b49ea6cf0a221/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/10b4f1ea550b49ea6cf0a221/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/10b4f1ea550b49ea6cf0a221/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building26.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6b1d78acefda23814c460923/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6b1d78acefda23814c460923/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6b1d78acefda23814c460923/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6b1d78acefda23814c460923/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6b1d78acefda23814c460923/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building27.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7f2b20089b6bbf2a9634cf32/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7f2b20089b6bbf2a9634cf32/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7f2b20089b6bbf2a9634cf32/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7f2b20089b6bbf2a9634cf32/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7f2b20089b6bbf2a9634cf32/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building28.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e19f54255f212715cb968e49/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e19f54255f212715cb968e49/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e19f54255f212715cb968e49/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e19f54255f212715cb968e49/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e19f54255f212715cb968e49/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building29.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/aac2d83180c05e67aa5273e9/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/aac2d83180c05e67aa5273e9/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/aac2d83180c05e67aa5273e9/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/aac2d83180c05e67aa5273e9/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/aac2d83180c05e67aa5273e9/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building30.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3acd4e889bccdb274edeca84/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3acd4e889bccdb274edeca84/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3acd4e889bccdb274edeca84/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3acd4e889bccdb274edeca84/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3acd4e889bccdb274edeca84/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building31.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f0e77d9ffd49ac379ecb3444/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f0e77d9ffd49ac379ecb3444/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f0e77d9ffd49ac379ecb3444/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f0e77d9ffd49ac379ecb3444/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f0e77d9ffd49ac379ecb3444/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building32.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d29d85b8198ba2e668a2a95f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d29d85b8198ba2e668a2a95f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d29d85b8198ba2e668a2a95f/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d29d85b8198ba2e668a2a95f/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d29d85b8198ba2e668a2a95f/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building33.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b122fe269de94834084a8f15/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b122fe269de94834084a8f15/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b122fe269de94834084a8f15/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b122fe269de94834084a8f15/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b122fe269de94834084a8f15/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building34.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/02be55034221b4aafc44809c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/02be55034221b4aafc44809c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/02be55034221b4aafc44809c/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/02be55034221b4aafc44809c/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/02be55034221b4aafc44809c/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building35.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0deb3ea54ed3cf146c04ea29/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0deb3ea54ed3cf146c04ea29/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0deb3ea54ed3cf146c04ea29/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0deb3ea54ed3cf146c04ea29/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0deb3ea54ed3cf146c04ea29/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building36.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c177a7198240685510138322/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c177a7198240685510138322/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c177a7198240685510138322/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c177a7198240685510138322/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c177a7198240685510138322/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building37.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a2daace25a1f79bbc5801783/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a2daace25a1f79bbc5801783/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a2daace25a1f79bbc5801783/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a2daace25a1f79bbc5801783/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a2daace25a1f79bbc5801783/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building38.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/57ecc1d744b1617fe71e1d55/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/57ecc1d744b1617fe71e1d55/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/57ecc1d744b1617fe71e1d55/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/57ecc1d744b1617fe71e1d55/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/57ecc1d744b1617fe71e1d55/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building39.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/da05082fab6a7845b4cdfc34/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/da05082fab6a7845b4cdfc34/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/da05082fab6a7845b4cdfc34/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/da05082fab6a7845b4cdfc34/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/da05082fab6a7845b4cdfc34/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building40.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/fdb0461310a41a5f53357c12/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/fdb0461310a41a5f53357c12/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/fdb0461310a41a5f53357c12/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/fdb0461310a41a5f53357c12/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/fdb0461310a41a5f53357c12/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building42.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/222825674a2b6bf85c5a7435/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/222825674a2b6bf85c5a7435/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/222825674a2b6bf85c5a7435/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/222825674a2b6bf85c5a7435/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/222825674a2b6bf85c5a7435/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building43.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/35f8a3e34d50581b749ccc83/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/35f8a3e34d50581b749ccc83/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/35f8a3e34d50581b749ccc83/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/35f8a3e34d50581b749ccc83/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/35f8a3e34d50581b749ccc83/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building44.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/313c5cf3bf21b3d94f6a6fdb/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/313c5cf3bf21b3d94f6a6fdb/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/313c5cf3bf21b3d94f6a6fdb/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/313c5cf3bf21b3d94f6a6fdb/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/313c5cf3bf21b3d94f6a6fdb/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building45.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e745eb4ea9cae8e861b7eefe/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e745eb4ea9cae8e861b7eefe/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e745eb4ea9cae8e861b7eefe/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e745eb4ea9cae8e861b7eefe/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e745eb4ea9cae8e861b7eefe/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building46.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/56cc0813bd000f2669ea9744/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/56cc0813bd000f2669ea9744/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/56cc0813bd000f2669ea9744/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/56cc0813bd000f2669ea9744/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/56cc0813bd000f2669ea9744/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Bữa ăn chung trong chuyến teambuilding",
+      "caption": "Bữa ăn chung trong chuyến teambuilding",
+      "sourceFilename": "team building47.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1be4deb3133776d6f7a22004/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1be4deb3133776d6f7a22004/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1be4deb3133776d6f7a22004/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1be4deb3133776d6f7a22004/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1be4deb3133776d6f7a22004/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building48.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6cba8072ea58522eda811dac/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6cba8072ea58522eda811dac/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6cba8072ea58522eda811dac/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6cba8072ea58522eda811dac/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6cba8072ea58522eda811dac/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building49.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0fc13094ef43bd25d4cbac7d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0fc13094ef43bd25d4cbac7d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0fc13094ef43bd25d4cbac7d/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0fc13094ef43bd25d4cbac7d/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0fc13094ef43bd25d4cbac7d/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building50.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/500160e032dd7d713875fd9e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/500160e032dd7d713875fd9e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/500160e032dd7d713875fd9e/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/500160e032dd7d713875fd9e/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/500160e032dd7d713875fd9e/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building51.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/756031d48ef6568e02649d83/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/756031d48ef6568e02649d83/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/756031d48ef6568e02649d83/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/756031d48ef6568e02649d83/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/756031d48ef6568e02649d83/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building52.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e7c920a0a58e794d01850203/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e7c920a0a58e794d01850203/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e7c920a0a58e794d01850203/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e7c920a0a58e794d01850203/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e7c920a0a58e794d01850203/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "team building53.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3f4c2092ecc24846f48b5105/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3f4c2092ecc24846f48b5105/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3f4c2092ecc24846f48b5105/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3f4c2092ecc24846f48b5105/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3f4c2092ecc24846f48b5105/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Teambuilding tại Ba Vì",
+      "caption": "Teambuilding tại Ba Vì",
+      "sourceFilename": "ảnh bìa.jpg"
+    }
+  ]
+}

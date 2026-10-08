@@ -775,8 +775,8 @@
           {
             "id": "media/2018/patron/5e6b8a282df46bf8/original.jpg",
             "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/5e6b8a282df46bf8/medium.jpg",
-            "alt": "Ca đoàn phục vụ Thánh lễ Quan thầy",
-            "caption": "Ca đoàn phục vụ Thánh lễ Quan thầy",
+            "alt": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
+            "caption": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
             "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
             "sourceFilename": "ảnh bìa.jpg",
             "variants": {
@@ -798,57 +798,67 @@
             }
           },
           {
-            "id": "media/2018/patron/09288037294dab67/original.jpg",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/09288037294dab67/medium.jpg",
-            "alt": "Cộng đoàn hiệp dâng Thánh lễ",
-            "caption": "Cộng đoàn hiệp dâng Thánh lễ",
+            "id": "media/2018/patron/6c096f40c5c2fd41/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/6c096f40c5c2fd41/medium.jpg",
+            "alt": "Cử hành Thánh lễ Quan thầy năm 2018",
+            "caption": "Cử hành Thánh lễ Quan thầy năm 2018",
             "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-            "sourceFilename": "lễ quan thầy17.jpg",
+            "sourceFilename": "lễ quan thầy4.jpg",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/09288037294dab67/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/6c096f40c5c2fd41/thumb.jpg",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/09288037294dab67/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/6c096f40c5c2fd41/medium.jpg",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/09288037294dab67/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/6c096f40c5c2fd41/original.jpg",
                 "width": 2048,
                 "height": 1366
               }
             }
           },
           {
-            "id": "media/2018/patron/4d5ab73cdfdf7fc4/original.jpg",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/4d5ab73cdfdf7fc4/medium.jpg",
-            "alt": "Các ca viên cất tiếng hát trong ngày lễ",
-            "caption": "Các ca viên cất tiếng hát trong ngày lễ",
+            "id": "media/2018/patron/f149cc36b697df66/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/f149cc36b697df66/medium.jpg",
+            "alt": "Chương trình hoan ca mừng kỷ niệm ba năm",
+            "caption": "Chương trình hoan ca mừng kỷ niệm ba năm",
             "event": "Lễ Quan thầy Ca đoàn Giới trẻ Têrêsa",
-            "sourceFilename": "lễ quan thầy25.jpg",
+            "sourceFilename": "lễ quan thầy2.jpg",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/4d5ab73cdfdf7fc4/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/f149cc36b697df66/thumb.jpg",
                 "width": 480,
-                "height": 393
+                "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/4d5ab73cdfdf7fc4/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/f149cc36b697df66/medium.jpg",
                 "width": 1280,
-                "height": 1048
+                "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/4d5ab73cdfdf7fc4/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/patron/f149cc36b697df66/original.jpg",
                 "width": 2048,
-                "height": 1677
+                "height": 1366
               }
             }
           }
         ]
-      }
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 1,
+          "photoId": "media/2018/patron/6c096f40c5c2fd41/original.jpg"
+        },
+        {
+          "afterParagraph": 2,
+          "photoId": "media/2018/patron/f149cc36b697df66/original.jpg"
+        }
+      ]
     },
     {
       "id": "2018-election",
@@ -1003,10 +1013,35 @@
         "count": 9,
         "preview": [
           {
+            "id": "media/2018/charity/2f57b792f6dddb27/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/2f57b792f6dddb27/medium.jpg",
+            "alt": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+            "caption": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+            "event": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
+            "sourceFilename": "ảnh bìa.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/2f57b792f6dddb27/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/2f57b792f6dddb27/medium.jpg",
+                "width": 810,
+                "height": 540
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/2f57b792f6dddb27/original.jpg",
+                "width": 810,
+                "height": 540
+              }
+            }
+          },
+          {
             "id": "media/2018/charity/38b895f7035274dd/original.jpg",
             "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/38b895f7035274dd/medium.jpg",
-            "alt": "Hành trình đến với cộng đoàn trong chuyến thiện nguyện",
-            "caption": "Hành trình đến với cộng đoàn trong chuyến thiện nguyện",
+            "alt": "Hành trình đến Nậm Xé",
+            "caption": "Hành trình đến Nậm Xé",
             "event": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
             "sourceFilename": "thiện nguyện3.jpg",
             "variants": {
@@ -1030,8 +1065,8 @@
           {
             "id": "media/2018/charity/b72e8c39266d5636/original.jpg",
             "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/b72e8c39266d5636/medium.jpg",
-            "alt": "Những phần quà được chuẩn bị cho chuyến đi",
-            "caption": "Những phần quà được chuẩn bị cho chuyến đi",
+            "alt": "Những phần quà được chuẩn bị cho bà con",
+            "caption": "Những phần quà được chuẩn bị cho bà con",
             "event": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
             "sourceFilename": "thiện nguyện6.jpg",
             "variants": {
@@ -1053,32 +1088,46 @@
             }
           },
           {
-            "id": "media/2018/charity/f1f6809af3f09a8b/original.jpg",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/f1f6809af3f09a8b/medium.jpg",
-            "alt": "Chia sẻ quà và niềm vui Giáng Sinh",
-            "caption": "Chia sẻ quà và niềm vui Giáng Sinh",
+            "id": "media/2018/charity/b35895a94c8aaa51/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/b35895a94c8aaa51/medium.jpg",
+            "alt": "Gặp gỡ và sẻ chia cùng bà con vùng cao",
+            "caption": "Gặp gỡ và sẻ chia cùng bà con vùng cao",
             "event": "Thiện nguyện “Giáng Sinh Trao Yêu Thương”",
-            "sourceFilename": "thiện nguyện8.jpg",
+            "sourceFilename": "thiện nguyện7.jpg",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/f1f6809af3f09a8b/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/b35895a94c8aaa51/thumb.jpg",
                 "width": 480,
                 "height": 360
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/f1f6809af3f09a8b/medium.jpg",
-                "width": 590,
-                "height": 443
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/b35895a94c8aaa51/medium.jpg",
+                "width": 1280,
+                "height": 960
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/f1f6809af3f09a8b/original.jpg",
-                "width": 590,
-                "height": 443
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2018/charity/b35895a94c8aaa51/original.jpg",
+                "width": 2048,
+                "height": 1536
               }
             }
           }
         ]
-      }
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 1,
+          "photoId": "media/2018/charity/38b895f7035274dd/original.jpg"
+        },
+        {
+          "afterParagraph": 2,
+          "photoId": "media/2018/charity/b72e8c39266d5636/original.jpg"
+        },
+        {
+          "afterParagraph": 3,
+          "photoId": "media/2018/charity/b35895a94c8aaa51/original.jpg"
+        }
+      ]
     },
     {
       "id": "2018-park-life",

@@ -1,0 +1,537 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "activityId": "2026-hon-phoi-thanh-minh-diem-trang",
+  "title": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+  "count": 22,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/085a7ad5f98746a4337a5dbe/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/085a7ad5f98746a4337a5dbe/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/085a7ad5f98746a4337a5dbe/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/085a7ad5f98746a4337a5dbe/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/085a7ad5f98746a4337a5dbe/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "sourceFilename": "ảnh bìa.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/574b04357fcfa7e0f32dba07/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/574b04357fcfa7e0f32dba07/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/574b04357fcfa7e0f32dba07/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/574b04357fcfa7e0f32dba07/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/574b04357fcfa7e0f32dba07/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "sourceFilename": "ảnh cưới1.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4795f05102741613817af48a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4795f05102741613817af48a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4795f05102741613817af48a/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4795f05102741613817af48a/medium.webp",
+          "width": 854,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4795f05102741613817af48a/original.webp",
+          "width": 1708,
+          "height": 2560
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "sourceFilename": "ảnh cưới2.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ee8359af3bbc68c140d223cb/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ee8359af3bbc68c140d223cb/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ee8359af3bbc68c140d223cb/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ee8359af3bbc68c140d223cb/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ee8359af3bbc68c140d223cb/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "sourceFilename": "ảnh cưới3.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/45c908a0c0e0884fcb3a4847/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/45c908a0c0e0884fcb3a4847/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/45c908a0c0e0884fcb3a4847/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/45c908a0c0e0884fcb3a4847/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/45c908a0c0e0884fcb3a4847/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "sourceFilename": "ảnh cưới4.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d74a1b56698e0f3b36b6df50/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d74a1b56698e0f3b36b6df50/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d74a1b56698e0f3b36b6df50/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d74a1b56698e0f3b36b6df50/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d74a1b56698e0f3b36b6df50/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Ca đoàn phục vụ Thánh lễ",
+      "caption": "Ca đoàn phục vụ Thánh lễ",
+      "sourceFilename": "ảnh cưới5.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/509c6a93f95ebaafbce00032/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/509c6a93f95ebaafbce00032/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/509c6a93f95ebaafbce00032/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/509c6a93f95ebaafbce00032/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/509c6a93f95ebaafbce00032/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "sourceFilename": "ảnh cưới6.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ac6c5fe80b58ab53202171fc/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ac6c5fe80b58ab53202171fc/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ac6c5fe80b58ab53202171fc/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ac6c5fe80b58ab53202171fc/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ac6c5fe80b58ab53202171fc/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "sourceFilename": "ảnh cưới7.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/760ea307fcf7f355d16671f2/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/760ea307fcf7f355d16671f2/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/760ea307fcf7f355d16671f2/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/760ea307fcf7f355d16671f2/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/760ea307fcf7f355d16671f2/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "sourceFilename": "ảnh cưới8.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c88d14f5396ab514ced93ecd/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c88d14f5396ab514ced93ecd/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c88d14f5396ab514ced93ecd/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c88d14f5396ab514ced93ecd/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c88d14f5396ab514ced93ecd/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "sourceFilename": "ảnh cưới9.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c35d7dab6e28d545ce7b6479/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c35d7dab6e28d545ce7b6479/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c35d7dab6e28d545ce7b6479/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c35d7dab6e28d545ce7b6479/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c35d7dab6e28d545ce7b6479/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "sourceFilename": "ảnh cưới10.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4f9a02ca259faa0d35de8a8d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4f9a02ca259faa0d35de8a8d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4f9a02ca259faa0d35de8a8d/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4f9a02ca259faa0d35de8a8d/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4f9a02ca259faa0d35de8a8d/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "sourceFilename": "ảnh cưới11.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/381598669230de1718ab402b/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/381598669230de1718ab402b/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/381598669230de1718ab402b/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/381598669230de1718ab402b/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/381598669230de1718ab402b/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "sourceFilename": "ảnh cưới12.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0fb7caaab8a4b25ea9e2bf5b/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0fb7caaab8a4b25ea9e2bf5b/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0fb7caaab8a4b25ea9e2bf5b/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0fb7caaab8a4b25ea9e2bf5b/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0fb7caaab8a4b25ea9e2bf5b/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "sourceFilename": "ảnh cưới13.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e1035133241dcb19596b3025/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e1035133241dcb19596b3025/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e1035133241dcb19596b3025/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e1035133241dcb19596b3025/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e1035133241dcb19596b3025/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "sourceFilename": "ảnh cưới14.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3469908566cd6561ee6ba164/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3469908566cd6561ee6ba164/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3469908566cd6561ee6ba164/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3469908566cd6561ee6ba164/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3469908566cd6561ee6ba164/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "sourceFilename": "ảnh cưới15.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/15165ff8756477c0b743f292/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/15165ff8756477c0b743f292/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/15165ff8756477c0b743f292/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/15165ff8756477c0b743f292/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/15165ff8756477c0b743f292/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "sourceFilename": "ảnh cưới16.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/dcec8fc3c95fa44021db2724/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/dcec8fc3c95fa44021db2724/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/dcec8fc3c95fa44021db2724/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/dcec8fc3c95fa44021db2724/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/dcec8fc3c95fa44021db2724/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "sourceFilename": "ảnh cưới18.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ec09467e20a2ef456bc7090c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ec09467e20a2ef456bc7090c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ec09467e20a2ef456bc7090c/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ec09467e20a2ef456bc7090c/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ec09467e20a2ef456bc7090c/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "sourceFilename": "ảnh cưới19.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/99c48b4296a9e62767f9c38e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/99c48b4296a9e62767f9c38e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/99c48b4296a9e62767f9c38e/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/99c48b4296a9e62767f9c38e/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/99c48b4296a9e62767f9c38e/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "sourceFilename": "ảnh cưới20.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9b58533672c94c3ffab8807a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9b58533672c94c3ffab8807a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9b58533672c94c3ffab8807a/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9b58533672c94c3ffab8807a/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9b58533672c94c3ffab8807a/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "sourceFilename": "ảnh cưới21.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8d90f537bcfd9f61127dabab/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8d90f537bcfd9f61127dabab/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8d90f537bcfd9f61127dabab/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8d90f537bcfd9f61127dabab/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8d90f537bcfd9f61127dabab/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+      "sourceFilename": "ảnh cưới22.jpg"
+    }
+  ]
+}

@@ -1,0 +1,1281 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "activityId": "2026-hon-phoi-minh-tiep-to-uyen",
+  "title": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+  "count": 53,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1b690996fa74b9864ecb1731/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1b690996fa74b9864ecb1731/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1b690996fa74b9864ecb1731/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1b690996fa74b9864ecb1731/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1b690996fa74b9864ecb1731/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh bìa.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0de30b623153efd5d95f616e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0de30b623153efd5d95f616e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0de30b623153efd5d95f616e/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0de30b623153efd5d95f616e/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0de30b623153efd5d95f616e/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi1.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/acfe520cbb603e4b55dad6a3/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/acfe520cbb603e4b55dad6a3/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/acfe520cbb603e4b55dad6a3/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/acfe520cbb603e4b55dad6a3/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/acfe520cbb603e4b55dad6a3/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi2.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3b9b362e15ddde2f4ab5bd24/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3b9b362e15ddde2f4ab5bd24/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3b9b362e15ddde2f4ab5bd24/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3b9b362e15ddde2f4ab5bd24/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3b9b362e15ddde2f4ab5bd24/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi3.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d43a6835e16285e44b30c0b5/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d43a6835e16285e44b30c0b5/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d43a6835e16285e44b30c0b5/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d43a6835e16285e44b30c0b5/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d43a6835e16285e44b30c0b5/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi4.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7b1bf55233621656c19fe3e7/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7b1bf55233621656c19fe3e7/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7b1bf55233621656c19fe3e7/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7b1bf55233621656c19fe3e7/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7b1bf55233621656c19fe3e7/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi5.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/542d57bfd6725cbb2d5b9569/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/542d57bfd6725cbb2d5b9569/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/542d57bfd6725cbb2d5b9569/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/542d57bfd6725cbb2d5b9569/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/542d57bfd6725cbb2d5b9569/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi6.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9f5aef03f5be74bc1506aa6f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9f5aef03f5be74bc1506aa6f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9f5aef03f5be74bc1506aa6f/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9f5aef03f5be74bc1506aa6f/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9f5aef03f5be74bc1506aa6f/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi7.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/955d566bf30c45653852a265/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/955d566bf30c45653852a265/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/955d566bf30c45653852a265/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/955d566bf30c45653852a265/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/955d566bf30c45653852a265/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi8.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6d6157959940b9a41be33f92/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6d6157959940b9a41be33f92/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6d6157959940b9a41be33f92/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6d6157959940b9a41be33f92/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6d6157959940b9a41be33f92/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi9.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e834f5fa93a4931491234014/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e834f5fa93a4931491234014/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e834f5fa93a4931491234014/thumb.webp",
+          "width": 319,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e834f5fa93a4931491234014/medium.webp",
+          "width": 852,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e834f5fa93a4931491234014/original.webp",
+          "width": 1703,
+          "height": 2560
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi10.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d8ff65dbb7e7fab7e169a551/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d8ff65dbb7e7fab7e169a551/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d8ff65dbb7e7fab7e169a551/thumb.webp",
+          "width": 319,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d8ff65dbb7e7fab7e169a551/medium.webp",
+          "width": 852,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d8ff65dbb7e7fab7e169a551/original.webp",
+          "width": 1703,
+          "height": 2560
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi11.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b90b98e4c052ef11457215bd/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b90b98e4c052ef11457215bd/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b90b98e4c052ef11457215bd/thumb.webp",
+          "width": 319,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b90b98e4c052ef11457215bd/medium.webp",
+          "width": 852,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b90b98e4c052ef11457215bd/original.webp",
+          "width": 1703,
+          "height": 2560
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi12.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b5fb3fee9dc18659fd219e3c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b5fb3fee9dc18659fd219e3c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b5fb3fee9dc18659fd219e3c/thumb.webp",
+          "width": 319,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b5fb3fee9dc18659fd219e3c/medium.webp",
+          "width": 852,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b5fb3fee9dc18659fd219e3c/original.webp",
+          "width": 1703,
+          "height": 2560
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi13.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8f25abb42533dabe0372a7c8/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8f25abb42533dabe0372a7c8/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8f25abb42533dabe0372a7c8/thumb.webp",
+          "width": 319,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8f25abb42533dabe0372a7c8/medium.webp",
+          "width": 852,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8f25abb42533dabe0372a7c8/original.webp",
+          "width": 1703,
+          "height": 2560
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi14.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7f3ed713801e2b19c30df166/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7f3ed713801e2b19c30df166/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7f3ed713801e2b19c30df166/thumb.webp",
+          "width": 319,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7f3ed713801e2b19c30df166/medium.webp",
+          "width": 852,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7f3ed713801e2b19c30df166/original.webp",
+          "width": 1703,
+          "height": 2560
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi15.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/778477923c3ed53e0c77570c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/778477923c3ed53e0c77570c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/778477923c3ed53e0c77570c/thumb.webp",
+          "width": 319,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/778477923c3ed53e0c77570c/medium.webp",
+          "width": 852,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/778477923c3ed53e0c77570c/original.webp",
+          "width": 1703,
+          "height": 2560
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi16.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c7783e1c12c2265d70307b39/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c7783e1c12c2265d70307b39/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c7783e1c12c2265d70307b39/thumb.webp",
+          "width": 319,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c7783e1c12c2265d70307b39/medium.webp",
+          "width": 852,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c7783e1c12c2265d70307b39/original.webp",
+          "width": 1703,
+          "height": 2560
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi17.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ffbb70608f0524ff2ff4513a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ffbb70608f0524ff2ff4513a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ffbb70608f0524ff2ff4513a/thumb.webp",
+          "width": 319,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ffbb70608f0524ff2ff4513a/medium.webp",
+          "width": 852,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ffbb70608f0524ff2ff4513a/original.webp",
+          "width": 1703,
+          "height": 2560
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi18.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/71b929fcbdf37db5863ea06e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/71b929fcbdf37db5863ea06e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/71b929fcbdf37db5863ea06e/thumb.webp",
+          "width": 319,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/71b929fcbdf37db5863ea06e/medium.webp",
+          "width": 852,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/71b929fcbdf37db5863ea06e/original.webp",
+          "width": 1703,
+          "height": 2560
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi19.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/46cfd75000bbedb5f2a0e71d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/46cfd75000bbedb5f2a0e71d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/46cfd75000bbedb5f2a0e71d/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/46cfd75000bbedb5f2a0e71d/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/46cfd75000bbedb5f2a0e71d/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi20.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f143433df90770bb00bce22a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f143433df90770bb00bce22a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f143433df90770bb00bce22a/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f143433df90770bb00bce22a/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f143433df90770bb00bce22a/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi21.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1ad5a1bddd086b673e9b1107/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1ad5a1bddd086b673e9b1107/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1ad5a1bddd086b673e9b1107/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1ad5a1bddd086b673e9b1107/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1ad5a1bddd086b673e9b1107/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi22.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0dd9521c58cb974e64cd385c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0dd9521c58cb974e64cd385c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0dd9521c58cb974e64cd385c/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0dd9521c58cb974e64cd385c/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0dd9521c58cb974e64cd385c/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi23.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/85786f8dc2dcff0952a9bb30/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/85786f8dc2dcff0952a9bb30/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/85786f8dc2dcff0952a9bb30/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/85786f8dc2dcff0952a9bb30/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/85786f8dc2dcff0952a9bb30/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi24.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ef9e32220bc47b91c7e7b278/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ef9e32220bc47b91c7e7b278/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ef9e32220bc47b91c7e7b278/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ef9e32220bc47b91c7e7b278/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ef9e32220bc47b91c7e7b278/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi25.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0e31f2af94e61f14eb4d048a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0e31f2af94e61f14eb4d048a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0e31f2af94e61f14eb4d048a/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0e31f2af94e61f14eb4d048a/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0e31f2af94e61f14eb4d048a/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi26.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/268cffe8a49f0fdd74e56e56/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/268cffe8a49f0fdd74e56e56/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/268cffe8a49f0fdd74e56e56/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/268cffe8a49f0fdd74e56e56/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/268cffe8a49f0fdd74e56e56/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi27.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8c4d1a0ce9c919f84bee739c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8c4d1a0ce9c919f84bee739c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8c4d1a0ce9c919f84bee739c/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8c4d1a0ce9c919f84bee739c/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8c4d1a0ce9c919f84bee739c/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi28.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a5125d457b8c1a076146db9d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a5125d457b8c1a076146db9d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a5125d457b8c1a076146db9d/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a5125d457b8c1a076146db9d/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a5125d457b8c1a076146db9d/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi29.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3704493eabe0ce9fe25b94f9/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3704493eabe0ce9fe25b94f9/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3704493eabe0ce9fe25b94f9/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3704493eabe0ce9fe25b94f9/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3704493eabe0ce9fe25b94f9/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi30.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7c5ef9c6bd383d193ed6b42d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7c5ef9c6bd383d193ed6b42d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7c5ef9c6bd383d193ed6b42d/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7c5ef9c6bd383d193ed6b42d/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7c5ef9c6bd383d193ed6b42d/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi31.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e8a125a1d91fd103026b6453/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e8a125a1d91fd103026b6453/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e8a125a1d91fd103026b6453/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e8a125a1d91fd103026b6453/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e8a125a1d91fd103026b6453/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi32.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b872845ae0248218c39157ef/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b872845ae0248218c39157ef/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b872845ae0248218c39157ef/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b872845ae0248218c39157ef/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b872845ae0248218c39157ef/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi33.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f85ab9b975e9bd3144ba12c3/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f85ab9b975e9bd3144ba12c3/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f85ab9b975e9bd3144ba12c3/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f85ab9b975e9bd3144ba12c3/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f85ab9b975e9bd3144ba12c3/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi34.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6a443cc2e74ee021f4030b37/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6a443cc2e74ee021f4030b37/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6a443cc2e74ee021f4030b37/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6a443cc2e74ee021f4030b37/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6a443cc2e74ee021f4030b37/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi35.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/97e993171ce2516e6e4a5758/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/97e993171ce2516e6e4a5758/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/97e993171ce2516e6e4a5758/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/97e993171ce2516e6e4a5758/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/97e993171ce2516e6e4a5758/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi37.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d369819ba4e3ebc105199e88/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d369819ba4e3ebc105199e88/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d369819ba4e3ebc105199e88/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d369819ba4e3ebc105199e88/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d369819ba4e3ebc105199e88/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi38.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/eb867d633dd15284c56d51b4/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/eb867d633dd15284c56d51b4/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/eb867d633dd15284c56d51b4/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/eb867d633dd15284c56d51b4/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/eb867d633dd15284c56d51b4/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi39.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bc9f67c6e6f9684d844b79ec/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bc9f67c6e6f9684d844b79ec/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bc9f67c6e6f9684d844b79ec/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bc9f67c6e6f9684d844b79ec/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bc9f67c6e6f9684d844b79ec/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi40.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6f5273c60ca4797899af88a8/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6f5273c60ca4797899af88a8/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6f5273c60ca4797899af88a8/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6f5273c60ca4797899af88a8/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6f5273c60ca4797899af88a8/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi41.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/74cae62d05afb9af0724e3bc/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/74cae62d05afb9af0724e3bc/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/74cae62d05afb9af0724e3bc/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/74cae62d05afb9af0724e3bc/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/74cae62d05afb9af0724e3bc/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi42.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8ed1152b0b030e9dacad9755/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8ed1152b0b030e9dacad9755/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8ed1152b0b030e9dacad9755/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8ed1152b0b030e9dacad9755/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8ed1152b0b030e9dacad9755/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi43.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/470d0d62d1b010bc8fba395c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/470d0d62d1b010bc8fba395c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/470d0d62d1b010bc8fba395c/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/470d0d62d1b010bc8fba395c/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/470d0d62d1b010bc8fba395c/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi44.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/476dd8ff1a0a3445a32841d1/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/476dd8ff1a0a3445a32841d1/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/476dd8ff1a0a3445a32841d1/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/476dd8ff1a0a3445a32841d1/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/476dd8ff1a0a3445a32841d1/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi45.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b1411d0ea6fe9d79d4a1ac00/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b1411d0ea6fe9d79d4a1ac00/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b1411d0ea6fe9d79d4a1ac00/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b1411d0ea6fe9d79d4a1ac00/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b1411d0ea6fe9d79d4a1ac00/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi46.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/62c8bd2e55c7751dbd802045/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/62c8bd2e55c7751dbd802045/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/62c8bd2e55c7751dbd802045/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/62c8bd2e55c7751dbd802045/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/62c8bd2e55c7751dbd802045/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi47.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/22f7a1225ccc298d2ce73ea8/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/22f7a1225ccc298d2ce73ea8/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/22f7a1225ccc298d2ce73ea8/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/22f7a1225ccc298d2ce73ea8/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/22f7a1225ccc298d2ce73ea8/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi48.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f6299b8ab138b628d29df277/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f6299b8ab138b628d29df277/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f6299b8ab138b628d29df277/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f6299b8ab138b628d29df277/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f6299b8ab138b628d29df277/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Đôi tân hôn cùng ca viên sau Thánh lễ",
+      "caption": "Đôi tân hôn cùng ca viên sau Thánh lễ",
+      "sourceFilename": "ảnh cứoi49.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0f97400f86229d11cd12706d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0f97400f86229d11cd12706d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0f97400f86229d11cd12706d/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0f97400f86229d11cd12706d/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0f97400f86229d11cd12706d/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi50.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/44c1a8d0449a7d47482b6016/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/44c1a8d0449a7d47482b6016/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/44c1a8d0449a7d47482b6016/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/44c1a8d0449a7d47482b6016/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/44c1a8d0449a7d47482b6016/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi51.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0ef1bbbf43a3beb441e94dc9/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0ef1bbbf43a3beb441e94dc9/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0ef1bbbf43a3beb441e94dc9/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0ef1bbbf43a3beb441e94dc9/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0ef1bbbf43a3beb441e94dc9/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi52.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c2a7ffc3ef704b058a38a3e2/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c2a7ffc3ef704b058a38a3e2/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c2a7ffc3ef704b058a38a3e2/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c2a7ffc3ef704b058a38a3e2/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c2a7ffc3ef704b058a38a3e2/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+      "sourceFilename": "ảnh cứoi53.jpg"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "version": 3,
-  "generatedAt": "2026-10-07T04:52:22.831Z",
+  "generatedAt": "2026-10-08T08:20:50.142Z",
   "totals": {
     "years": 12,
     "members": 708,
@@ -14,7 +14,7 @@
         "eyebrow": "Từ Hồng Ân đến Sứ Vụ",
         "title": "Từ Hồng Ân đến Sứ Vụ",
         "summary": "Sau dấu mốc 10 năm thành lập - một chặng đường của biết bao hồng ân và tình yêu, Ca đoàn Giới trẻ Teresa bước vào năm thứ 11 với một tâm tình mới: từ những gì đã nhận lãnh, Ca đoàn tiếp tục trao đi; từ những gì đã được gieo trồng, Ca đoàn tiếp tục vun đắp; và từ những gì đã được viết nên trong 10 năm đầu tiên, một trang mới lại được mở ra.",
-        "coverImage": ""
+        "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/652eaaee93eb66cc50ba1210/medium.webp"
       },
       "members": {
         "total": 105,
@@ -52,8 +52,8 @@
           "topic": "Phụng vụ",
           "date": "05/04/2026",
           "description": "Vào lúc 10h, Chúa Nhật ngày 05/04/2026, Ca đoàn Giới trẻ Teresa hân hoan phục vụ Đại lễ Phục Sinh trong bầu không khí trang nghiêm và sốt sắng với sự hiện diện của đông đảo anh chị em giáo dân gần xa.",
-          "image": "",
-          "imageCount": 0
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a652f3f97ee10803f3325cce/medium.webp",
+          "imageCount": 5
         },
         {
           "id": "2026-activity-1",
@@ -62,8 +62,8 @@
           "topic": "Phục Sinh",
           "date": "10/04/2026",
           "description": "Ngày 10/04/2026, trong niềm hân hoan mừng Chúa Phục Sinh của toàn thể Giáo Hội hoàn vũ, Ca đoàn Giới trẻ Teresa đã kết hợp cùng Dàn Hợp Xướng Trẻ Công Giáo Hà Nội (HCYC) tổ chức đêm hoà nhạc phục sinh EXSULTET, một đêm nhạc Thánh Ca thiêng liêng và đầy cảm xúc, đưa tới hành trình chiêm ngắm một mầu nhiệm vĩ đại: Mầu Nhiệm Chúa Phục Sinh.",
-          "image": "",
-          "imageCount": 0
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/652eaaee93eb66cc50ba1210/medium.webp",
+          "imageCount": 53
         },
         {
           "id": "2026-hon-phoi-thanh-minh-diem-trang",
@@ -72,8 +72,8 @@
           "topic": "Hôn phối",
           "date": "30/04/2026",
           "description": "Ngày 30/04/2026, tại Thánh đường Giáo xứ Vinh Sơn, Giáo phận Thanh Hóa, Ca đoàn Giới trẻ Teresa hân hoan phục vụ Thánh lễ Hôn Phối của anh Anton Thành Minh và chị Teresa Diễm Trang. Một gia đình mới được hình thành, một mầm sống mới của Giáo hội được gieo xuống trong ngày hai anh chị trao cho nhau lời thề ước trước bàn thờ Chúa.",
-          "image": "",
-          "imageCount": 0
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/085a7ad5f98746a4337a5dbe/medium.webp",
+          "imageCount": 22
         },
         {
           "id": "2026-hon-phoi-minh-tiep-to-uyen",
@@ -82,8 +82,8 @@
           "topic": "Hôn phối",
           "date": "16/05/2026",
           "description": "Ngày 16/05/2026, tại Giáo xứ Bái Xuyên, Giáo phận Hà Nội, anh Giuse Minh Tiệp & chị Lucia Tố Uyên đã chính thức bước vào giao ước hôn nhân thánh thiện trước mặt Thiên Chúa. Ca đoàn Giới trẻ Teresa vinh dự được phục vụ Thánh lễ thành hôn của hai anh chị, cùng chứng kiến khoảnh khắc thiêng liêng của anh chị thành toàn trước mặt Chúa và Hội thánh. Giữa bầu khí linh thiêng của Thánh lễ, những lời ca tiếng hát của Ca đoàn trở thành lời cầu nguyện và lời chúc phúc gửi đến đôi tân hôn. Đó là lời nguyện xin cho hai anh chị luôn biết yêu thương nhau trong tình yêu của Chúa, trung tín với nhau qua những ngày vui cũng như những lúc gian nan, để từ hôm nay và mãi về sau, hai người luôn có thể nắm tay nhau bước qua mọi chặng đường của cuộc sống.",
-          "image": "",
-          "imageCount": 0
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1b690996fa74b9864ecb1731/medium.webp",
+          "imageCount": 53
         },
         {
           "id": "2026-tyc-badminton-season-i",
@@ -92,8 +92,8 @@
           "topic": "Hội thao",
           "date": "24/05/2026",
           "description": "Chiều Chủ Nhật, ngày 24/05/2026, tại sân cầu lông MD, giải cầu lông nội bộ mùa đầu tiên chính thức được khai mạc với 20 vợt thủ trong bầu không khí sôi động, nhiệt huyết và đầy cảm xúc. Trận đấu không chỉ là những phút giây giao tranh mà còn là cơ hội gắn kết và lan tỏa tinh thần hiệp nhất giữa các anh chị em trong ca đoàn.",
-          "image": "",
-          "imageCount": 0
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8f6bfa4f3bf641037e4d5057/medium.webp",
+          "imageCount": 43
         },
         {
           "id": "2026-hon-phoi-hung-vuong-hong-ngoc",
@@ -102,8 +102,8 @@
           "topic": "Hôn phối",
           "date": "04/07/2026",
           "description": "Ngày 04/07/2026, tại Giáo xứ Phong Lộc, Giáo phận Bùi Chu, anh Giuse Hùng Vương & chị Maria Hồng Ngọc đã quyết định trao nhau lời thề nguyện thiêng liêng của Bí tích Hôn Phối. Nhờ bàn tay của Thiên Chúa âm thầm dẫn lối, hai anh chị từ hai người xa lạ giờ đây đã trở thành “một xương một thịt”, cùng nắm tay nhau đến trước bàn thờ Chúa, cùng trao nhau lời ước nguyện yêu thương và chung thuỷ. Đó không chỉ là lời hứa của ngày hôm ấy, mà còn là khởi đầu của hành trình sống trọn ơn gọi hôn nhân Kitô giáo. Với Ca đoàn Giới trẻ Teresa, được hiện diện trong ngày vui của Hồng Ngọc cũng là một niềm vui đặc biệt. Những lời ca tiếng hát trong Thánh lễ như thay cho lời cầu nguyện dành cho anh chị, xin Chúa luôn đồng hành, gìn giữ và dẫn lối cho gia đình nhỏ trong từng chặng đường phía trước. Nguyện xin Chúa và Mẹ Maria luôn ở bên, chúc phúc cho tình yêu của anh chị hôm nay và mãi mãi về sau.",
-          "image": "",
-          "imageCount": 0
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59ed15500bbed826acd4b159/medium.webp",
+          "imageCount": 25
         },
         {
           "id": "2026-teambuilding-ba-vi",
@@ -112,8 +112,8 @@
           "topic": "Gắn kết",
           "date": "18–19/07/2026",
           "description": "Đi để nhớ, ở để thương..",
-          "image": "",
-          "imageCount": 0
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3f4c2092ecc24846f48b5105/medium.webp",
+          "imageCount": 53
         },
         {
           "id": "2026-chung-ket-giao-ly-thai-ha",
@@ -122,8 +122,8 @@
           "topic": "Học hỏi",
           "date": "30/07/2026",
           "description": "Tối ngày 30/7/2026, đại diện Ca đoàn Giới trẻ Teresa đã góp mặt tại chung kết Hội thi Giáo lý Giáo xứ Thái Hà. Với định hướng “Dạy giáo lý gắn liền với Lời loan báo đầu tiên”, cuộc thi không chỉ là nơi mỗi đội thi được gặp gỡ, giao lưu và học hỏi lời Chúa mà còn là cơ hội cho mỗi người đào sâu đức tin để trở thành những chứng tá của Chúa trong đời sống. Chung cuộc Ca đoàn Giới trẻ Teresa đã nỗ lực vượt qua các vòng thi đầy cam go và xuất sắc đạt được: Giải Nhất cá nhân & Giải Nhì tập thể.",
-          "image": "",
-          "imageCount": 0
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c7a6992f160521df39ef87df/medium.webp",
+          "imageCount": 15
         },
         {
           "id": "2026-thien-nguyen-huong-la",
@@ -132,8 +132,8 @@
           "topic": "Thiện nguyện",
           "date": "02/08/2026",
           "description": "Sáng Chúa Nhật ngày 02/08/2026, Ca đoàn Giới trẻ Teresa cùng Cha phó đặc trách Giuse Lương Thanh Tùng và ông Phó Chủ tịch Toán đã về với miền Tử Nê, Bắc Ninh, thăm các em nhỏ ở Nhà tình thương Hương La và hiệp dâng Thánh lễ tại Giáo họ nơi đây trong những ngày cuối trước khi phải di dời để phục vụ cho dự án Sân bay Gia Bình.",
-          "image": "",
-          "imageCount": 0
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/28792bdc8ab7be8f6e91ed7b/medium.webp",
+          "imageCount": 65
         },
         {
           "id": "2026-bau-ban-dieu-hanh",
@@ -142,8 +142,8 @@
           "topic": "Cộng đoàn",
           "date": "20/08/2026",
           "description": "Tối ngày 20/8/2026 tại phòng Mục vụ Di Dân Giáo xứ Thái Hà, Ca đoàn Giới trẻ Teresa đã tổ chức buổi họp kiện toàn Tân Trưởng Ca đoàn nhiệm kỳ 2026-2028. Buổi họp có sự hiện diện và đồng hành của Cha Đặc trách Vincent Trần Trí Tuệ, quý Ban Thường vụ HĐMV Gia đình Công giáo Xa quê Hà Nội cùng toàn thể anh chị em ca viên của ca đoàn.",
-          "image": "",
-          "imageCount": 0
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/057f1fa2416f1b4fea312e99/medium.webp",
+          "imageCount": 30
         }
       ]
     },
@@ -585,8 +585,8 @@
           "topic": "Thiện nguyện",
           "date": "12.2024",
           "description": "Khép lại một năm 2024 với biết bao trải nghiệm, Ca đoàn đã cùng nhau thực hiện chương trình thiện nguyện “Đông ấm Na Rì” tại Na Rì, Bắc Kạn trước thềm Giáng sinh.",
-          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/95c8bab7fb8cc8c8c2fbddfa/medium.webp",
-          "imageCount": 196
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b8baff37933b14a04f962ec8/medium.webp",
+          "imageCount": 185
         }
       ]
     },
@@ -724,7 +724,7 @@
       "overview": {
         "eyebrow": "Trở lại · Gặp gỡ · Phục vụ",
         "title": "Bước tiếp hành trình sứ vụ sau đại dịch covid",
-        "summary": "Sau gần hai năm chịu ảnh hưởng nặng nề bởi đại dịch COVID-19, năm 2022 đánh dấu một bước chuyển mình quan trọng trong hành trình của Ca đoàn Giới Trẻ Têrêsa. Những buổi tập hát, những Thánh lễ, những chuyến đi và những chương trình sinh hoạt tưởng chừng rất đỗi quen thuộc lại trở nên đáng quý hơn bao giờ hết. Từ khoảng giữa năm 2022, khi cuộc sống dần trở lại bình thường, ca đoàn cũng từng bước tái khởi động lại các sinh hoạt thường niên. Những buổi tập hát lại vang lên, anh chị em có cơ hội gặp gỡ, cùng nhau phục vụ Thánh lễ và nối lại những hoạt động đã dang dở, dù quân số có phần giảm sút khi một số anh chị em trở về quê, thay đổi công việc hoặc chuyển nơi sinh sống. Nhưng chính trong hoàn cảnh ấy, những người còn lại càng ý thức hơn về tình hiệp nhất và trách nhiệm với cộng đoàn.",
+        "summary": "Sau gần hai năm chịu ảnh hưởng của COVID-19, từ giữa năm 2022, Ca đoàn Giới trẻ Têrêsa từng bước nối lại tập hát, phục vụ Thánh lễ, các chuyến đi và sinh hoạt còn dang dở. Dù một số ca viên trở về quê hoặc thay đổi công việc, nơi sống, những người tiếp tục đồng hành càng trân quý niềm vui gặp gỡ, tinh thần hiệp nhất và trách nhiệm với cộng đoàn.",
         "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2022/optimized/92f31348f5245c9772dcaec3/medium.webp"
       },
       "members": {
@@ -991,8 +991,8 @@
           "topic": "Hòa nhạc",
           "date": "06.2020",
           "description": "MV kỷ niệm 5 năm thành lập ca đoàn – Muôn Đời Tạ Ơn : Đặc biệt, cũng tại Đan viện Thiên Hà, Ca đoàn đã thực hiện MV “Muôn Đời Tạ Ơn”, như một món quà đặc biệt nhân dịp kỷ niệm 5 năm thành lập.",
-          "image": "",
-          "imageCount": 0
+          "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-77-84479817c799/medium.webp",
+          "imageCount": 3
         },
         {
           "id": "2020-song-ca",
@@ -1367,7 +1367,7 @@
           "type": "Giao lưu",
           "topic": "Gắn kết",
           "date": "09/03/2017",
-          "description": "Khời đầu những hoạt động đầu tiên của ca đoàn trong năm 2017, Ca đoàn Giới Trẻ Têrêsa có buổi giao hữu bóng đá với Cộng đoàn Giu-se Hiền Xuân Dục.",
+          "description": "Khởi đầu những hoạt động đầu tiên của ca đoàn trong năm 2017, Ca đoàn Giới Trẻ Têrêsa có buổi giao hữu bóng đá với Cộng đoàn Giu-se Hiền Xuân Dục.",
           "image": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/001.jpg",
           "imageCount": 4
         },

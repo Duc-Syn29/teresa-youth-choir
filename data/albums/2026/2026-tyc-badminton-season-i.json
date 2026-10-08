@@ -1,0 +1,1041 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "activityId": "2026-tyc-badminton-season-i",
+  "title": "TYC Badminton Season I",
+  "count": 43,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/43ebc009e7a839893f931663/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/43ebc009e7a839893f931663/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/43ebc009e7a839893f931663/thumb.webp",
+          "width": 270,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/43ebc009e7a839893f931663/medium.webp",
+          "width": 720,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/43ebc009e7a839893f931663/original.webp",
+          "width": 1440,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông2.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bd589446c8c6debdeaf05d05/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bd589446c8c6debdeaf05d05/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bd589446c8c6debdeaf05d05/thumb.webp",
+          "width": 270,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bd589446c8c6debdeaf05d05/medium.webp",
+          "width": 720,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bd589446c8c6debdeaf05d05/original.webp",
+          "width": 1440,
+          "height": 2560
+        }
+      },
+      "alt": "Khoảnh khắc thi đấu trên sân cầu",
+      "caption": "Khoảnh khắc thi đấu trên sân cầu",
+      "sourceFilename": "cầu lông3.jpeg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8c693a2c09de5755c75950c4/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8c693a2c09de5755c75950c4/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8c693a2c09de5755c75950c4/thumb.webp",
+          "width": 270,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8c693a2c09de5755c75950c4/medium.webp",
+          "width": 720,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8c693a2c09de5755c75950c4/original.webp",
+          "width": 1440,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông4.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cee0337c44341eb7d485b499/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cee0337c44341eb7d485b499/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cee0337c44341eb7d485b499/thumb.webp",
+          "width": 270,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cee0337c44341eb7d485b499/medium.webp",
+          "width": 720,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cee0337c44341eb7d485b499/original.webp",
+          "width": 1440,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông5.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/094749b7353b0c9fe9edb2d6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/094749b7353b0c9fe9edb2d6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/094749b7353b0c9fe9edb2d6/thumb.webp",
+          "width": 270,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/094749b7353b0c9fe9edb2d6/medium.webp",
+          "width": 720,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/094749b7353b0c9fe9edb2d6/original.webp",
+          "width": 1440,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông6.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/743903207bf407cbbd52d974/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/743903207bf407cbbd52d974/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/743903207bf407cbbd52d974/thumb.webp",
+          "width": 270,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/743903207bf407cbbd52d974/medium.webp",
+          "width": 720,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/743903207bf407cbbd52d974/original.webp",
+          "width": 1440,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông7.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/65999143c0a554bd866d35f8/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/65999143c0a554bd866d35f8/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/65999143c0a554bd866d35f8/thumb.webp",
+          "width": 270,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/65999143c0a554bd866d35f8/medium.webp",
+          "width": 720,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/65999143c0a554bd866d35f8/original.webp",
+          "width": 1440,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông8.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f8ea394ef575aaec9a0df192/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f8ea394ef575aaec9a0df192/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f8ea394ef575aaec9a0df192/thumb.webp",
+          "width": 270,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f8ea394ef575aaec9a0df192/medium.webp",
+          "width": 720,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f8ea394ef575aaec9a0df192/original.webp",
+          "width": 1440,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông9.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/561f92c0d3a750f999292ad9/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/561f92c0d3a750f999292ad9/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/561f92c0d3a750f999292ad9/thumb.webp",
+          "width": 270,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/561f92c0d3a750f999292ad9/medium.webp",
+          "width": 720,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/561f92c0d3a750f999292ad9/original.webp",
+          "width": 1440,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông10.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/75953b400aeda9a6c13fc3a0/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/75953b400aeda9a6c13fc3a0/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/75953b400aeda9a6c13fc3a0/thumb.webp",
+          "width": 270,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/75953b400aeda9a6c13fc3a0/medium.webp",
+          "width": 720,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/75953b400aeda9a6c13fc3a0/original.webp",
+          "width": 1440,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông11.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/fe72a4b032cde14b0b42bb17/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/fe72a4b032cde14b0b42bb17/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/fe72a4b032cde14b0b42bb17/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/fe72a4b032cde14b0b42bb17/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/fe72a4b032cde14b0b42bb17/original.webp",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông12.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/61b68b3db8521d81593fef6f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/61b68b3db8521d81593fef6f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/61b68b3db8521d81593fef6f/thumb.webp",
+          "width": 270,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/61b68b3db8521d81593fef6f/medium.webp",
+          "width": 720,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/61b68b3db8521d81593fef6f/original.webp",
+          "width": 1440,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông13.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/efdda6e04bfcd01094959be7/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/efdda6e04bfcd01094959be7/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/efdda6e04bfcd01094959be7/thumb.webp",
+          "width": 270,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/efdda6e04bfcd01094959be7/medium.webp",
+          "width": 720,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/efdda6e04bfcd01094959be7/original.webp",
+          "width": 1440,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông14.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a2a11ea9e2db1a369cf15eb5/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a2a11ea9e2db1a369cf15eb5/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a2a11ea9e2db1a369cf15eb5/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a2a11ea9e2db1a369cf15eb5/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a2a11ea9e2db1a369cf15eb5/original.webp",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông15.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/33341e8a5fefe1aba9a3e8c2/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/33341e8a5fefe1aba9a3e8c2/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/33341e8a5fefe1aba9a3e8c2/thumb.webp",
+          "width": 270,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/33341e8a5fefe1aba9a3e8c2/medium.webp",
+          "width": 720,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/33341e8a5fefe1aba9a3e8c2/original.webp",
+          "width": 1440,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông16.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b34ee95717d89b42c9e9a1b3/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b34ee95717d89b42c9e9a1b3/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b34ee95717d89b42c9e9a1b3/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b34ee95717d89b42c9e9a1b3/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b34ee95717d89b42c9e9a1b3/original.webp",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông17.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1f759d084d8c894d9cc820e1/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1f759d084d8c894d9cc820e1/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1f759d084d8c894d9cc820e1/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1f759d084d8c894d9cc820e1/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1f759d084d8c894d9cc820e1/original.webp",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "alt": "Trao thưởng tại giải cầu lông",
+      "caption": "Trao thưởng tại giải cầu lông",
+      "sourceFilename": "cầu lông18.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6013df6f183a0f1a756f8247/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6013df6f183a0f1a756f8247/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6013df6f183a0f1a756f8247/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6013df6f183a0f1a756f8247/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6013df6f183a0f1a756f8247/original.webp",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông19.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b367dc1fc1b9566144fd9864/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b367dc1fc1b9566144fd9864/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b367dc1fc1b9566144fd9864/thumb.webp",
+          "width": 480,
+          "height": 270
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b367dc1fc1b9566144fd9864/medium.webp",
+          "width": 1280,
+          "height": 720
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b367dc1fc1b9566144fd9864/original.webp",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông20.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f01c477e4c6bb07f94eab771/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f01c477e4c6bb07f94eab771/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f01c477e4c6bb07f94eab771/thumb.webp",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f01c477e4c6bb07f94eab771/medium.webp",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f01c477e4c6bb07f94eab771/original.webp",
+          "width": 1920,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông22.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0675b3a5dd1b53f203a9f484/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0675b3a5dd1b53f203a9f484/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0675b3a5dd1b53f203a9f484/thumb.webp",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0675b3a5dd1b53f203a9f484/medium.webp",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0675b3a5dd1b53f203a9f484/original.webp",
+          "width": 1920,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông23.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6449e9a869a786aa122bf3dd/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6449e9a869a786aa122bf3dd/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6449e9a869a786aa122bf3dd/thumb.webp",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6449e9a869a786aa122bf3dd/medium.webp",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6449e9a869a786aa122bf3dd/original.webp",
+          "width": 1920,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông24.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9e4e21b9f1208cb4bfe19cfa/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9e4e21b9f1208cb4bfe19cfa/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9e4e21b9f1208cb4bfe19cfa/thumb.webp",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9e4e21b9f1208cb4bfe19cfa/medium.webp",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9e4e21b9f1208cb4bfe19cfa/original.webp",
+          "width": 1920,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông25.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7195207041b17d67fff02d7a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7195207041b17d67fff02d7a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7195207041b17d67fff02d7a/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7195207041b17d67fff02d7a/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7195207041b17d67fff02d7a/original.webp",
+          "width": 2560,
+          "height": 1920
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông26.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59b8cb9f03b9b5616a324748/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59b8cb9f03b9b5616a324748/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59b8cb9f03b9b5616a324748/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59b8cb9f03b9b5616a324748/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59b8cb9f03b9b5616a324748/original.webp",
+          "width": 2560,
+          "height": 1920
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông27.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/074304d3a9e2c415ae2a6ca8/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/074304d3a9e2c415ae2a6ca8/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/074304d3a9e2c415ae2a6ca8/thumb.webp",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/074304d3a9e2c415ae2a6ca8/medium.webp",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/074304d3a9e2c415ae2a6ca8/original.webp",
+          "width": 1920,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông28.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f8243280a10c361d0d9fdc62/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f8243280a10c361d0d9fdc62/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f8243280a10c361d0d9fdc62/thumb.webp",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f8243280a10c361d0d9fdc62/medium.webp",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f8243280a10c361d0d9fdc62/original.webp",
+          "width": 1920,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông29.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4720b221ae6db73a8404a76c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4720b221ae6db73a8404a76c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4720b221ae6db73a8404a76c/thumb.webp",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4720b221ae6db73a8404a76c/medium.webp",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4720b221ae6db73a8404a76c/original.webp",
+          "width": 1920,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông30.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2bf76cf05db26170e938a836/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2bf76cf05db26170e938a836/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2bf76cf05db26170e938a836/thumb.webp",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2bf76cf05db26170e938a836/medium.webp",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2bf76cf05db26170e938a836/original.webp",
+          "width": 1920,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông31.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4123acf7555412cfbd986101/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4123acf7555412cfbd986101/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4123acf7555412cfbd986101/thumb.webp",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4123acf7555412cfbd986101/medium.webp",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4123acf7555412cfbd986101/original.webp",
+          "width": 1920,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông32.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4748a4fbd1a1d686074e373c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4748a4fbd1a1d686074e373c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4748a4fbd1a1d686074e373c/thumb.webp",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4748a4fbd1a1d686074e373c/medium.webp",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4748a4fbd1a1d686074e373c/original.webp",
+          "width": 1920,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông33.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2f056a938b2336af80cb0794/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2f056a938b2336af80cb0794/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2f056a938b2336af80cb0794/thumb.webp",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2f056a938b2336af80cb0794/medium.webp",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2f056a938b2336af80cb0794/original.webp",
+          "width": 1920,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông34.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f89c9aa717d54b7f79ed7152/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f89c9aa717d54b7f79ed7152/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f89c9aa717d54b7f79ed7152/thumb.webp",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f89c9aa717d54b7f79ed7152/medium.webp",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f89c9aa717d54b7f79ed7152/original.webp",
+          "width": 1920,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông35.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c4292f9b617c19cad51529f0/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c4292f9b617c19cad51529f0/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c4292f9b617c19cad51529f0/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c4292f9b617c19cad51529f0/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c4292f9b617c19cad51529f0/original.webp",
+          "width": 2560,
+          "height": 1920
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông36.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9e52776c7ee43e4abb9d22f0/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9e52776c7ee43e4abb9d22f0/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9e52776c7ee43e4abb9d22f0/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9e52776c7ee43e4abb9d22f0/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9e52776c7ee43e4abb9d22f0/original.webp",
+          "width": 2560,
+          "height": 1920
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông37.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bafdb2521c71226783306b35/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bafdb2521c71226783306b35/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bafdb2521c71226783306b35/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bafdb2521c71226783306b35/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bafdb2521c71226783306b35/original.webp",
+          "width": 2560,
+          "height": 1920
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông38.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/afe958328994432959f9328f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/afe958328994432959f9328f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/afe958328994432959f9328f/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/afe958328994432959f9328f/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/afe958328994432959f9328f/original.webp",
+          "width": 2560,
+          "height": 1920
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông39.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/002610965edefbda1bedf12f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/002610965edefbda1bedf12f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/002610965edefbda1bedf12f/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/002610965edefbda1bedf12f/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/002610965edefbda1bedf12f/original.webp",
+          "width": 2560,
+          "height": 1920
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông41.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d9a7ab0ed8f90ecccaeeb70d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d9a7ab0ed8f90ecccaeeb70d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d9a7ab0ed8f90ecccaeeb70d/thumb.webp",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d9a7ab0ed8f90ecccaeeb70d/medium.webp",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d9a7ab0ed8f90ecccaeeb70d/original.webp",
+          "width": 1920,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông43.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c3893e29fb5351ae9917b2f5/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c3893e29fb5351ae9917b2f5/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c3893e29fb5351ae9917b2f5/thumb.webp",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c3893e29fb5351ae9917b2f5/medium.webp",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c3893e29fb5351ae9917b2f5/original.webp",
+          "width": 1920,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông44.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/61e0a29d0fd0c7cc938fd11a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/61e0a29d0fd0c7cc938fd11a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/61e0a29d0fd0c7cc938fd11a/thumb.webp",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/61e0a29d0fd0c7cc938fd11a/medium.webp",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/61e0a29d0fd0c7cc938fd11a/original.webp",
+          "width": 1920,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông45.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d003b7f9d3d823afad02a1cf/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d003b7f9d3d823afad02a1cf/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d003b7f9d3d823afad02a1cf/thumb.webp",
+          "width": 360,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d003b7f9d3d823afad02a1cf/medium.webp",
+          "width": 960,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d003b7f9d3d823afad02a1cf/original.webp",
+          "width": 1920,
+          "height": 2560
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "cầu lông46.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8f6bfa4f3bf641037e4d5057/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8f6bfa4f3bf641037e4d5057/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8f6bfa4f3bf641037e4d5057/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8f6bfa4f3bf641037e4d5057/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8f6bfa4f3bf641037e4d5057/original.webp",
+          "width": 2560,
+          "height": 1920
+        }
+      },
+      "alt": "TYC Badminton Season I",
+      "caption": "TYC Badminton Season I",
+      "sourceFilename": "ảnh bìa.JPG"
+    }
+  ]
+}

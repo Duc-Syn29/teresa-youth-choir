@@ -195,8 +195,8 @@
           {
             "id": "media/2019/tinh-tam/296a5d7e7653ac5e/original.jpg",
             "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/296a5d7e7653ac5e/medium.jpg",
-            "alt": "Ca đoàn trong ngày tĩnh tâm Tam Đảo",
-            "caption": "Ca đoàn trong ngày tĩnh tâm Tam Đảo",
+            "alt": "Tĩnh tâm 2019",
+            "caption": "Ca đoàn trong chuyến tĩnh tâm Tam Đảo 2019",
             "event": "Tĩnh tâm 2019",
             "sourceFilename": "ảnh bìa.jpg",
             "variants": {
@@ -216,9 +216,44 @@
                 "height": 720
               }
             }
+          },
+          {
+            "id": "media/2019/tinh-tam/a936b5b9efae3cf6/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/a936b5b9efae3cf6/medium.jpg",
+            "alt": "Tĩnh tâm 2019",
+            "caption": "Chủ đề Tín thác và Cầu nguyện của kỳ tĩnh tâm",
+            "event": "Tĩnh tâm 2019",
+            "sourceFilename": "1786681155700_1995884631902468284_7736263391661925970_7126105d26fc8404924c71323c5dff7b.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/a936b5b9efae3cf6/thumb.jpg",
+                "width": 480,
+                "height": 287
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/a936b5b9efae3cf6/medium.jpg",
+                "width": 1280,
+                "height": 764
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/tinh-tam/a936b5b9efae3cf6/original.jpg",
+                "width": 2041,
+                "height": 1219
+              }
+            }
           }
         ]
-      }
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 2,
+          "photoId": "media/2019/tinh-tam/296a5d7e7653ac5e/original.jpg"
+        },
+        {
+          "afterParagraph": 3,
+          "photoId": "media/2019/tinh-tam/a936b5b9efae3cf6/original.jpg"
+        }
+      ]
     },
     {
       "id": "2019-dai-hoi-gioi-tre",
@@ -258,27 +293,27 @@
         "count": 7,
         "preview": [
           {
-            "id": "media/2019/dai-hoi-gioi-tre/ea4cab2fe1d03217/original.jpg",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/ea4cab2fe1d03217/medium.jpg",
-            "alt": "Hành trình tham dự Đại hội Giới trẻ tại Huế",
-            "caption": "Hành trình tham dự Đại hội Giới trẻ tại Huế",
+            "id": "media/2019/dai-hoi-gioi-tre/11025ad338e55379/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/11025ad338e55379/medium.jpg",
+            "alt": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại DCCT Huế",
+            "caption": "Ca viên trong chuyến đi tham dự Đại hội",
             "event": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại DCCT Huế",
-            "sourceFilename": "đại hội giới trẻ 2.jpg",
+            "sourceFilename": "ảnh bìa.jpg",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/ea4cab2fe1d03217/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/11025ad338e55379/thumb.jpg",
                 "width": 480,
-                "height": 270
+                "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/ea4cab2fe1d03217/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/11025ad338e55379/medium.jpg",
                 "width": 960,
-                "height": 540
+                "height": 639
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/ea4cab2fe1d03217/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/11025ad338e55379/original.jpg",
                 "width": 960,
-                "height": 540
+                "height": 639
               }
             }
           },
@@ -286,7 +321,7 @@
             "id": "media/2019/dai-hoi-gioi-tre/190b96bbe487055f/original.jpg",
             "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/190b96bbe487055f/medium.jpg",
             "alt": "Ca viên gặp gỡ trong chương trình Đại hội",
-            "caption": "Ca viên gặp gỡ trong chương trình Đại hội",
+            "caption": "Ca đoàn phục vụ tại Đại hội Giới trẻ Thừa Sai ở Huế",
             "event": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại DCCT Huế",
             "sourceFilename": "đại hội giới trẻ 5.jpg",
             "variants": {
@@ -308,32 +343,46 @@
             }
           },
           {
-            "id": "media/2019/dai-hoi-gioi-tre/31133f5df5b2b610/original.jpg",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/31133f5df5b2b610/medium.jpg",
-            "alt": "Không gian thành phố Huế trong chuyến đi",
-            "caption": "Không gian thành phố Huế trong chuyến đi",
+            "id": "media/2019/dai-hoi-gioi-tre/a21b410e32faf84a/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/a21b410e32faf84a/medium.jpg",
+            "alt": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại DCCT Huế",
+            "caption": "Đại hội quy tụ những người trẻ từ ba miền",
             "event": "Đại hội Giới trẻ Thừa Sai Chúa Cứu Thế 3 miền lần thứ nhất tại DCCT Huế",
-            "sourceFilename": "đại hội giới trẻ 7.jpg",
+            "sourceFilename": "đại hội giới trẻ 1.jpg",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/31133f5df5b2b610/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/a21b410e32faf84a/thumb.jpg",
                 "width": 480,
-                "height": 270
+                "height": 250
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/31133f5df5b2b610/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/a21b410e32faf84a/medium.jpg",
                 "width": 960,
-                "height": 540
+                "height": 500
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/31133f5df5b2b610/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/dai-hoi-gioi-tre/a21b410e32faf84a/original.jpg",
                 "width": 960,
-                "height": 540
+                "height": 500
               }
             }
           }
         ]
-      }
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 0,
+          "photoId": "media/2019/dai-hoi-gioi-tre/190b96bbe487055f/original.jpg"
+        },
+        {
+          "afterParagraph": 0,
+          "photoId": "media/2019/dai-hoi-gioi-tre/a21b410e32faf84a/original.jpg"
+        },
+        {
+          "afterParagraph": 0,
+          "photoId": "media/2019/dai-hoi-gioi-tre/11025ad338e55379/original.jpg"
+        }
+      ]
     },
     {
       "id": "2019-le-quan-thay",
@@ -375,8 +424,8 @@
           {
             "id": "media/2019/le-quan-thay/ecf78c9faee329f3/original.jpg",
             "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/ecf78c9faee329f3/medium.jpg",
-            "alt": "Ca đoàn sum họp trong ngày lễ Quan Thầy 2019",
-            "caption": "Ca đoàn sum họp trong ngày lễ Quan Thầy 2019",
+            "alt": "Lễ Quan Thầy Ca đoàn",
+            "caption": "Lễ Quan Thầy Ca đoàn",
             "event": "Lễ Quan Thầy Ca đoàn",
             "sourceFilename": "ảnh bìa( cả năm).jpg",
             "variants": {
@@ -394,6 +443,56 @@
                 "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/ecf78c9faee329f3/original.jpg",
                 "width": 2048,
                 "height": 1264
+              }
+            }
+          },
+          {
+            "id": "media/2019/le-quan-thay/92964c41538b3f94/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/92964c41538b3f94/medium.jpg",
+            "alt": "Lễ Quan Thầy Ca đoàn",
+            "caption": "Lễ Quan Thầy Ca đoàn",
+            "event": "Lễ Quan Thầy Ca đoàn",
+            "sourceFilename": "lễ quan thầy 1.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/92964c41538b3f94/thumb.jpg",
+                "width": 480,
+                "height": 293
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/92964c41538b3f94/medium.jpg",
+                "width": 843,
+                "height": 515
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/92964c41538b3f94/original.jpg",
+                "width": 843,
+                "height": 515
+              }
+            }
+          },
+          {
+            "id": "media/2019/le-quan-thay/54082e1c45edf0f3/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/54082e1c45edf0f3/medium.jpg",
+            "alt": "Lễ Quan Thầy Ca đoàn",
+            "caption": "Lễ Quan Thầy Ca đoàn",
+            "event": "Lễ Quan Thầy Ca đoàn",
+            "sourceFilename": "lễ quan thầy 2.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/54082e1c45edf0f3/thumb.jpg",
+                "width": 480,
+                "height": 251
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/54082e1c45edf0f3/medium.jpg",
+                "width": 526,
+                "height": 275
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/le-quan-thay/54082e1c45edf0f3/original.jpg",
+                "width": 526,
+                "height": 275
               }
             }
           }
@@ -783,82 +882,92 @@
         "count": 15,
         "preview": [
           {
-            "id": "media/2019/giang-sinh-trao-yeu-thuong/69e581dbe1967e82/original.jpg",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/69e581dbe1967e82/medium.jpg",
-            "alt": "Sinh hoạt bên lửa trại trong chuyến thiện nguyện",
-            "caption": "Sinh hoạt bên lửa trại trong chuyến thiện nguyện",
+            "id": "media/2019/giang-sinh-trao-yeu-thuong/1aedfd3cb8cc99e3/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/1aedfd3cb8cc99e3/medium.jpg",
+            "alt": "Giáng Sinh Trao Yêu Thương 2019",
+            "caption": "Giáng Sinh Trao Yêu Thương 2019",
             "event": "Giáng Sinh Trao Yêu Thương 2019",
-            "sourceFilename": "thiện nguyện 5.jpg",
+            "sourceFilename": "ảnh bìa.jpg",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/69e581dbe1967e82/thumb.jpg",
-                "width": 480,
-                "height": 227
-              },
-              "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/69e581dbe1967e82/medium.jpg",
-                "width": 1280,
-                "height": 606
-              },
-              "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/69e581dbe1967e82/original.jpg",
-                "width": 1352,
-                "height": 640
-              }
-            }
-          },
-          {
-            "id": "media/2019/giang-sinh-trao-yeu-thuong/099d8304699a28f5/original.jpg",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/099d8304699a28f5/medium.jpg",
-            "alt": "Hành trình đến Hà Giang",
-            "caption": "Hành trình đến Hà Giang",
-            "event": "Giáng Sinh Trao Yêu Thương 2019",
-            "sourceFilename": "thiện nguyện 10.jpg",
-            "variants": {
-              "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/099d8304699a28f5/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/1aedfd3cb8cc99e3/thumb.jpg",
                 "width": 480,
                 "height": 270
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/099d8304699a28f5/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/1aedfd3cb8cc99e3/medium.jpg",
                 "width": 1280,
                 "height": 720
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/099d8304699a28f5/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/1aedfd3cb8cc99e3/original.jpg",
                 "width": 2048,
                 "height": 1152
               }
             }
           },
           {
-            "id": "media/2019/giang-sinh-trao-yeu-thuong/5f0254753a7d39c9/original.jpg",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/5f0254753a7d39c9/medium.jpg",
-            "alt": "Gặp gỡ và gắn kết trong chương trình thiện nguyện",
-            "caption": "Gặp gỡ và gắn kết trong chương trình thiện nguyện",
+            "id": "media/2019/giang-sinh-trao-yeu-thuong/6d94d967acbec9cb/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/6d94d967acbec9cb/medium.jpg",
+            "alt": "Trao quà và gặp gỡ bà con trong chuyến thiện nguyện",
+            "caption": "Trao quà và gặp gỡ bà con trong chuyến thiện nguyện",
             "event": "Giáng Sinh Trao Yêu Thương 2019",
-            "sourceFilename": "thiện nguyện 15.jpg",
+            "sourceFilename": "thiện nguyện 1.jpg",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/5f0254753a7d39c9/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/6d94d967acbec9cb/thumb.jpg",
                 "width": 480,
-                "height": 320
+                "height": 270
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/5f0254753a7d39c9/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/6d94d967acbec9cb/medium.jpg",
                 "width": 1280,
-                "height": 854
+                "height": 720
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/5f0254753a7d39c9/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/6d94d967acbec9cb/original.jpg",
                 "width": 2048,
-                "height": 1366
+                "height": 1152
+              }
+            }
+          },
+          {
+            "id": "media/2019/giang-sinh-trao-yeu-thuong/99651911463ba21c/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/99651911463ba21c/medium.jpg",
+            "alt": "Niềm vui sẻ chia Giáng Sinh tại Lùng Chang",
+            "caption": "Niềm vui sẻ chia Giáng Sinh tại Lùng Chang",
+            "event": "Giáng Sinh Trao Yêu Thương 2019",
+            "sourceFilename": "thiện nguyện 2.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/99651911463ba21c/thumb.jpg",
+                "width": 480,
+                "height": 229
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/99651911463ba21c/medium.jpg",
+                "width": 1280,
+                "height": 610
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2019/giang-sinh-trao-yeu-thuong/99651911463ba21c/original.jpg",
+                "width": 1344,
+                "height": 640
               }
             }
           }
         ]
-      }
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 2,
+          "photoId": "media/2019/giang-sinh-trao-yeu-thuong/6d94d967acbec9cb/original.jpg"
+        },
+        {
+          "afterParagraph": 3,
+          "photoId": "media/2019/giang-sinh-trao-yeu-thuong/99651911463ba21c/original.jpg"
+        }
+      ]
     },
     {
       "id": "2019-christmas-prep",

@@ -1,0 +1,369 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "activityId": "2026-chung-ket-giao-ly-thai-ha",
+  "title": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+  "count": 15,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0f06e1f1bf50d8fe8946dd63/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0f06e1f1bf50d8fe8946dd63/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0f06e1f1bf50d8fe8946dd63/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0f06e1f1bf50d8fe8946dd63/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0f06e1f1bf50d8fe8946dd63/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "caption": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "sourceFilename": "thi giáo lý1.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/228b751c1da1d8b9f4dc2a04/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/228b751c1da1d8b9f4dc2a04/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/228b751c1da1d8b9f4dc2a04/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/228b751c1da1d8b9f4dc2a04/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/228b751c1da1d8b9f4dc2a04/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "caption": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "sourceFilename": "thi giáo lý2.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cc76d17e81b5d22f845838a4/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cc76d17e81b5d22f845838a4/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cc76d17e81b5d22f845838a4/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cc76d17e81b5d22f845838a4/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cc76d17e81b5d22f845838a4/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "caption": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "sourceFilename": "thi giáo lý3.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e2a49f638af3417589b71b79/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e2a49f638af3417589b71b79/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e2a49f638af3417589b71b79/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e2a49f638af3417589b71b79/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e2a49f638af3417589b71b79/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "caption": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "sourceFilename": "thi giáo lý4.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b6585551308dd92b5fa47a66/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b6585551308dd92b5fa47a66/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b6585551308dd92b5fa47a66/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b6585551308dd92b5fa47a66/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b6585551308dd92b5fa47a66/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "caption": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "sourceFilename": "thi giáo lý5.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9a42e23642d1a1df3033a47e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9a42e23642d1a1df3033a47e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9a42e23642d1a1df3033a47e/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9a42e23642d1a1df3033a47e/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9a42e23642d1a1df3033a47e/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "caption": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "sourceFilename": "thi giáo lý6.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2395aa40b9a753f5bdb06da6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2395aa40b9a753f5bdb06da6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2395aa40b9a753f5bdb06da6/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2395aa40b9a753f5bdb06da6/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2395aa40b9a753f5bdb06da6/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Đại diện ca đoàn tham gia Hội thi Giáo lý",
+      "caption": "Đại diện ca đoàn tham gia Hội thi Giáo lý",
+      "sourceFilename": "thi giáo lý7.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f91ba5ce0fdbf6845160ee60/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f91ba5ce0fdbf6845160ee60/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f91ba5ce0fdbf6845160ee60/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f91ba5ce0fdbf6845160ee60/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f91ba5ce0fdbf6845160ee60/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "caption": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "sourceFilename": "thi giáo lý8.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c1548b86553aafcb9fdc3251/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c1548b86553aafcb9fdc3251/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c1548b86553aafcb9fdc3251/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c1548b86553aafcb9fdc3251/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c1548b86553aafcb9fdc3251/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "caption": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "sourceFilename": "thi giáo lý9.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/fe4b9c2351723344950dfb7e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/fe4b9c2351723344950dfb7e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/fe4b9c2351723344950dfb7e/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/fe4b9c2351723344950dfb7e/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/fe4b9c2351723344950dfb7e/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "caption": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "sourceFilename": "thi giáo lý10.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b9686fde70889a245fea3a96/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b9686fde70889a245fea3a96/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b9686fde70889a245fea3a96/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b9686fde70889a245fea3a96/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b9686fde70889a245fea3a96/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "caption": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "sourceFilename": "thi giáo lý11.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f40e071f9c8a48d0a14806d3/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f40e071f9c8a48d0a14806d3/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f40e071f9c8a48d0a14806d3/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f40e071f9c8a48d0a14806d3/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f40e071f9c8a48d0a14806d3/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "caption": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "sourceFilename": "thi giáo lý12.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c7a6992f160521df39ef87df/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c7a6992f160521df39ef87df/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c7a6992f160521df39ef87df/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c7a6992f160521df39ef87df/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c7a6992f160521df39ef87df/original.webp",
+          "width": 2560,
+          "height": 1920
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "caption": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "sourceFilename": "ảnh bìa.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/615134ab1282a35b10744dbc/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/615134ab1282a35b10744dbc/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/615134ab1282a35b10744dbc/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/615134ab1282a35b10744dbc/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/615134ab1282a35b10744dbc/original.webp",
+          "width": 2560,
+          "height": 1920
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "caption": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "sourceFilename": "thi giáo lý16.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c979ac17b47deac569f1d443/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c979ac17b47deac569f1d443/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c979ac17b47deac569f1d443/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c979ac17b47deac569f1d443/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c979ac17b47deac569f1d443/original.webp",
+          "width": 2560,
+          "height": 1920
+        }
+      },
+      "alt": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "caption": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+      "sourceFilename": "thi giáo lý18.JPG"
+    }
+  ]
+}

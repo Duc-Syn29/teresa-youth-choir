@@ -1,0 +1,1569 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "activityId": "2026-thien-nguyen-huong-la",
+  "title": "Thiện nguyện Nhà tình thương Hương La",
+  "count": 65,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/489859b5610d26d5e44af716/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/489859b5610d26d5e44af716/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/489859b5610d26d5e44af716/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/489859b5610d26d5e44af716/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/489859b5610d26d5e44af716/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện1.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2fbb50c3cbf24a6f7a8768d3/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2fbb50c3cbf24a6f7a8768d3/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2fbb50c3cbf24a6f7a8768d3/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2fbb50c3cbf24a6f7a8768d3/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2fbb50c3cbf24a6f7a8768d3/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện2.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/24e7048e4e50f37e566a6559/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/24e7048e4e50f37e566a6559/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/24e7048e4e50f37e566a6559/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/24e7048e4e50f37e566a6559/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/24e7048e4e50f37e566a6559/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện3.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4fb4afc44b41c64e3063f832/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4fb4afc44b41c64e3063f832/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4fb4afc44b41c64e3063f832/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4fb4afc44b41c64e3063f832/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4fb4afc44b41c64e3063f832/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện4.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/83b88229eb0992ddb026c829/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/83b88229eb0992ddb026c829/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/83b88229eb0992ddb026c829/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/83b88229eb0992ddb026c829/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/83b88229eb0992ddb026c829/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện5.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f314c88260648a333dd7f22e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f314c88260648a333dd7f22e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f314c88260648a333dd7f22e/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f314c88260648a333dd7f22e/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f314c88260648a333dd7f22e/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện6.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a420b03e2327ee7aca56a9a0/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a420b03e2327ee7aca56a9a0/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a420b03e2327ee7aca56a9a0/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a420b03e2327ee7aca56a9a0/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a420b03e2327ee7aca56a9a0/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện7.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d3f50b2124c95af4d61cdc07/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d3f50b2124c95af4d61cdc07/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d3f50b2124c95af4d61cdc07/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d3f50b2124c95af4d61cdc07/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d3f50b2124c95af4d61cdc07/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện8.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3c2bc2293df5600947b3542f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3c2bc2293df5600947b3542f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3c2bc2293df5600947b3542f/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3c2bc2293df5600947b3542f/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3c2bc2293df5600947b3542f/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện9.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c97b477694321a1e68c40efd/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c97b477694321a1e68c40efd/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c97b477694321a1e68c40efd/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c97b477694321a1e68c40efd/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c97b477694321a1e68c40efd/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện10.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/056520135a25b957afae54e7/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/056520135a25b957afae54e7/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/056520135a25b957afae54e7/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/056520135a25b957afae54e7/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/056520135a25b957afae54e7/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện11.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ecbcd81311c3ebe71c6c1962/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ecbcd81311c3ebe71c6c1962/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ecbcd81311c3ebe71c6c1962/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ecbcd81311c3ebe71c6c1962/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ecbcd81311c3ebe71c6c1962/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện12.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1db8b0bcc0f70b5a3b3a4d92/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1db8b0bcc0f70b5a3b3a4d92/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1db8b0bcc0f70b5a3b3a4d92/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1db8b0bcc0f70b5a3b3a4d92/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1db8b0bcc0f70b5a3b3a4d92/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện13.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/21beea2fc9d6673cb24b7206/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/21beea2fc9d6673cb24b7206/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/21beea2fc9d6673cb24b7206/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/21beea2fc9d6673cb24b7206/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/21beea2fc9d6673cb24b7206/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện14.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3318ea79cd10d0e62889d3e7/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3318ea79cd10d0e62889d3e7/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3318ea79cd10d0e62889d3e7/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3318ea79cd10d0e62889d3e7/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3318ea79cd10d0e62889d3e7/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Gặp gỡ các em tại Nhà tình thương Hương La",
+      "caption": "Gặp gỡ các em tại Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện15.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4be77b244cbdb5cf423567a3/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4be77b244cbdb5cf423567a3/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4be77b244cbdb5cf423567a3/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4be77b244cbdb5cf423567a3/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4be77b244cbdb5cf423567a3/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện16.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3ba33f7c7a133d5883c3f995/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3ba33f7c7a133d5883c3f995/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3ba33f7c7a133d5883c3f995/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3ba33f7c7a133d5883c3f995/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3ba33f7c7a133d5883c3f995/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện17.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/20813ad8680034c35f2e6a35/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/20813ad8680034c35f2e6a35/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/20813ad8680034c35f2e6a35/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/20813ad8680034c35f2e6a35/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/20813ad8680034c35f2e6a35/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca viên thăm hỏi và trò chuyện cùng các em",
+      "caption": "Ca viên thăm hỏi và trò chuyện cùng các em",
+      "sourceFilename": "thiện nguyện18.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ffa8d59436d7e373746d1e51/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ffa8d59436d7e373746d1e51/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ffa8d59436d7e373746d1e51/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ffa8d59436d7e373746d1e51/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ffa8d59436d7e373746d1e51/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện19.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cc77ff6bfce32c41fafee8b3/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cc77ff6bfce32c41fafee8b3/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cc77ff6bfce32c41fafee8b3/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cc77ff6bfce32c41fafee8b3/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cc77ff6bfce32c41fafee8b3/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện20.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/74a6e6f6c2773fe6c56b75b5/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/74a6e6f6c2773fe6c56b75b5/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/74a6e6f6c2773fe6c56b75b5/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/74a6e6f6c2773fe6c56b75b5/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/74a6e6f6c2773fe6c56b75b5/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện21.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7e6a3ab1dc62a65a28576560/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7e6a3ab1dc62a65a28576560/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7e6a3ab1dc62a65a28576560/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7e6a3ab1dc62a65a28576560/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7e6a3ab1dc62a65a28576560/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện22.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ae0fe50f7706f9d0fc2689f4/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ae0fe50f7706f9d0fc2689f4/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ae0fe50f7706f9d0fc2689f4/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ae0fe50f7706f9d0fc2689f4/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ae0fe50f7706f9d0fc2689f4/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện23.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1bd3ca73c2f36f2b7cde4f13/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1bd3ca73c2f36f2b7cde4f13/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1bd3ca73c2f36f2b7cde4f13/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1bd3ca73c2f36f2b7cde4f13/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1bd3ca73c2f36f2b7cde4f13/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện24.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4ff406665a0c90ecf0e20871/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4ff406665a0c90ecf0e20871/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4ff406665a0c90ecf0e20871/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4ff406665a0c90ecf0e20871/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4ff406665a0c90ecf0e20871/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện25.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/61bf24d86d95350d7733c826/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/61bf24d86d95350d7733c826/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/61bf24d86d95350d7733c826/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/61bf24d86d95350d7733c826/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/61bf24d86d95350d7733c826/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện26.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/db8c160efd5d3f744c2cd019/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/db8c160efd5d3f744c2cd019/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/db8c160efd5d3f744c2cd019/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/db8c160efd5d3f744c2cd019/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/db8c160efd5d3f744c2cd019/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện27.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d5397b5bb2b00333aef86ab1/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d5397b5bb2b00333aef86ab1/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d5397b5bb2b00333aef86ab1/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d5397b5bb2b00333aef86ab1/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d5397b5bb2b00333aef86ab1/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện28.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4b23a1b03b1cc3955c6b9271/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4b23a1b03b1cc3955c6b9271/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4b23a1b03b1cc3955c6b9271/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4b23a1b03b1cc3955c6b9271/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4b23a1b03b1cc3955c6b9271/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện29.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f3219f0502b641140d1ffce9/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f3219f0502b641140d1ffce9/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f3219f0502b641140d1ffce9/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f3219f0502b641140d1ffce9/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f3219f0502b641140d1ffce9/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện30.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7b8ac21acc9538abec2e0535/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7b8ac21acc9538abec2e0535/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7b8ac21acc9538abec2e0535/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7b8ac21acc9538abec2e0535/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7b8ac21acc9538abec2e0535/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện31.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/48a2e84d8c42de13bf5aa514/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/48a2e84d8c42de13bf5aa514/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/48a2e84d8c42de13bf5aa514/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/48a2e84d8c42de13bf5aa514/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/48a2e84d8c42de13bf5aa514/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện32.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b6ae68e4815ba7604afddc49/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b6ae68e4815ba7604afddc49/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b6ae68e4815ba7604afddc49/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b6ae68e4815ba7604afddc49/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b6ae68e4815ba7604afddc49/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện33.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/11de8c9b16724e187e8d8d10/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/11de8c9b16724e187e8d8d10/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/11de8c9b16724e187e8d8d10/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/11de8c9b16724e187e8d8d10/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/11de8c9b16724e187e8d8d10/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện34.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/04a0b372a5f3e9b9e2dabbc3/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/04a0b372a5f3e9b9e2dabbc3/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/04a0b372a5f3e9b9e2dabbc3/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/04a0b372a5f3e9b9e2dabbc3/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/04a0b372a5f3e9b9e2dabbc3/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện35.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6efd949e8d8b5f5737ca1790/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6efd949e8d8b5f5737ca1790/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6efd949e8d8b5f5737ca1790/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6efd949e8d8b5f5737ca1790/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6efd949e8d8b5f5737ca1790/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện36.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/470d6aa10d1366d078b6a711/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/470d6aa10d1366d078b6a711/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/470d6aa10d1366d078b6a711/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/470d6aa10d1366d078b6a711/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/470d6aa10d1366d078b6a711/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện37.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/296c5c47c15b1f11ca1ae371/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/296c5c47c15b1f11ca1ae371/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/296c5c47c15b1f11ca1ae371/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/296c5c47c15b1f11ca1ae371/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/296c5c47c15b1f11ca1ae371/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện38.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/df1f1688d4854b12304d8bd2/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/df1f1688d4854b12304d8bd2/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/df1f1688d4854b12304d8bd2/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/df1f1688d4854b12304d8bd2/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/df1f1688d4854b12304d8bd2/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện39.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/48e04d5322ae3eb2a1de826c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/48e04d5322ae3eb2a1de826c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/48e04d5322ae3eb2a1de826c/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/48e04d5322ae3eb2a1de826c/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/48e04d5322ae3eb2a1de826c/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện40.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/580222b3adb8b7db55e4471d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/580222b3adb8b7db55e4471d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/580222b3adb8b7db55e4471d/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/580222b3adb8b7db55e4471d/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/580222b3adb8b7db55e4471d/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện41.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7455a7dc3aa93a0f6d390a65/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7455a7dc3aa93a0f6d390a65/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7455a7dc3aa93a0f6d390a65/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7455a7dc3aa93a0f6d390a65/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7455a7dc3aa93a0f6d390a65/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện42.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8efd9e8438ea259f4f318f3a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8efd9e8438ea259f4f318f3a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8efd9e8438ea259f4f318f3a/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8efd9e8438ea259f4f318f3a/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8efd9e8438ea259f4f318f3a/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện43.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3496fcf932dbde76ad1f654c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3496fcf932dbde76ad1f654c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3496fcf932dbde76ad1f654c/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3496fcf932dbde76ad1f654c/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3496fcf932dbde76ad1f654c/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện44.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3471a181a877f7da556b9ddc/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3471a181a877f7da556b9ddc/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3471a181a877f7da556b9ddc/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3471a181a877f7da556b9ddc/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3471a181a877f7da556b9ddc/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện45.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/debf1d5ccbd3a842714a543f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/debf1d5ccbd3a842714a543f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/debf1d5ccbd3a842714a543f/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/debf1d5ccbd3a842714a543f/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/debf1d5ccbd3a842714a543f/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện46.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7a4e47b6dd12f6abb8cb8172/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7a4e47b6dd12f6abb8cb8172/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7a4e47b6dd12f6abb8cb8172/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7a4e47b6dd12f6abb8cb8172/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7a4e47b6dd12f6abb8cb8172/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện47.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b2dd82cd5642b17ea1982726/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b2dd82cd5642b17ea1982726/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b2dd82cd5642b17ea1982726/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b2dd82cd5642b17ea1982726/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b2dd82cd5642b17ea1982726/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện48.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a980e0f7f6a5836f3b340c60/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a980e0f7f6a5836f3b340c60/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a980e0f7f6a5836f3b340c60/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a980e0f7f6a5836f3b340c60/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a980e0f7f6a5836f3b340c60/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện49.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/114b60360c82bf4854ec6850/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/114b60360c82bf4854ec6850/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/114b60360c82bf4854ec6850/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/114b60360c82bf4854ec6850/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/114b60360c82bf4854ec6850/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện50.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/26c803d57f4436107f8d610f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/26c803d57f4436107f8d610f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/26c803d57f4436107f8d610f/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/26c803d57f4436107f8d610f/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/26c803d57f4436107f8d610f/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện51.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/252c6769ac83407033c6dcb5/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/252c6769ac83407033c6dcb5/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/252c6769ac83407033c6dcb5/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/252c6769ac83407033c6dcb5/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/252c6769ac83407033c6dcb5/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hiệp dâng Thánh lễ tại Hương La",
+      "caption": "Hiệp dâng Thánh lễ tại Hương La",
+      "sourceFilename": "thiện nguyện52.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/014fcf2178ef5149144ffa78/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/014fcf2178ef5149144ffa78/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/014fcf2178ef5149144ffa78/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/014fcf2178ef5149144ffa78/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/014fcf2178ef5149144ffa78/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện53.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e7be461c1c464c2c2e69523e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e7be461c1c464c2c2e69523e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e7be461c1c464c2c2e69523e/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e7be461c1c464c2c2e69523e/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e7be461c1c464c2c2e69523e/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện54.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8e1d1fc69c951b2db8e9c4cf/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8e1d1fc69c951b2db8e9c4cf/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8e1d1fc69c951b2db8e9c4cf/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8e1d1fc69c951b2db8e9c4cf/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8e1d1fc69c951b2db8e9c4cf/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện55.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e26aea529bba60c09a171de7/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e26aea529bba60c09a171de7/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e26aea529bba60c09a171de7/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e26aea529bba60c09a171de7/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e26aea529bba60c09a171de7/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện56.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7b1a8a27e5a1cf07f8a01552/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7b1a8a27e5a1cf07f8a01552/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7b1a8a27e5a1cf07f8a01552/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7b1a8a27e5a1cf07f8a01552/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7b1a8a27e5a1cf07f8a01552/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện57.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1f4e5f5951fb9847800b0fa2/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1f4e5f5951fb9847800b0fa2/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1f4e5f5951fb9847800b0fa2/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1f4e5f5951fb9847800b0fa2/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1f4e5f5951fb9847800b0fa2/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện58.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b43e9c802edc323fd69f03fc/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b43e9c802edc323fd69f03fc/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b43e9c802edc323fd69f03fc/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b43e9c802edc323fd69f03fc/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b43e9c802edc323fd69f03fc/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện59.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7ed9006d99227d2b92722a40/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7ed9006d99227d2b92722a40/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7ed9006d99227d2b92722a40/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7ed9006d99227d2b92722a40/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7ed9006d99227d2b92722a40/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện60.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cf8d273eb668592c5124d729/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cf8d273eb668592c5124d729/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cf8d273eb668592c5124d729/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cf8d273eb668592c5124d729/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cf8d273eb668592c5124d729/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện61.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cf48687aa6e2a2ad5904fac7/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cf48687aa6e2a2ad5904fac7/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cf48687aa6e2a2ad5904fac7/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cf48687aa6e2a2ad5904fac7/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/cf48687aa6e2a2ad5904fac7/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện63.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/087df6f806e1c865baf5e806/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/087df6f806e1c865baf5e806/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/087df6f806e1c865baf5e806/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/087df6f806e1c865baf5e806/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/087df6f806e1c865baf5e806/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện64.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8fb21f599a3328b56bab5a6d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8fb21f599a3328b56bab5a6d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8fb21f599a3328b56bab5a6d/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8fb21f599a3328b56bab5a6d/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8fb21f599a3328b56bab5a6d/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "thiện nguyện65.cr2"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/28792bdc8ab7be8f6e91ed7b/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/28792bdc8ab7be8f6e91ed7b/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/28792bdc8ab7be8f6e91ed7b/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/28792bdc8ab7be8f6e91ed7b/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/28792bdc8ab7be8f6e91ed7b/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thiện nguyện Nhà tình thương Hương La",
+      "caption": "Thiện nguyện Nhà tình thương Hương La",
+      "sourceFilename": "ảnh bìa.cr2"
+    }
+  ]
+}

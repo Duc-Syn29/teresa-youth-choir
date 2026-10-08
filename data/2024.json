@@ -929,81 +929,107 @@
         "count": 39,
         "preview": [
           {
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/42d1416682d50fdf7cb886db/original.webp",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/42d1416682d50fdf7cb886db/medium.webp",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e2153e366db48fa650407ba5/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e2153e366db48fa650407ba5/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/42d1416682d50fdf7cb886db/thumb.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e2153e366db48fa650407ba5/thumb.webp",
                 "width": 480,
-                "height": 320
+                "height": 299
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/42d1416682d50fdf7cb886db/medium.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e2153e366db48fa650407ba5/medium.webp",
                 "width": 1280,
-                "height": 854
+                "height": 797
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/42d1416682d50fdf7cb886db/original.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/e2153e366db48fa650407ba5/original.webp",
                 "width": 2560,
-                "height": 1708
+                "height": 1595
               }
             },
             "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
             "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
             "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
-            "sourceFilename": "tĩnh tâm 9.jpg",
+            "sourceFilename": "ảnh bìa.jpg",
             "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
           },
           {
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4f191e213fe41effa8e03026/original.webp",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4f191e213fe41effa8e03026/medium.webp",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fae668fb74063a9bf09e4f3f/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fae668fb74063a9bf09e4f3f/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4f191e213fe41effa8e03026/thumb.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fae668fb74063a9bf09e4f3f/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4f191e213fe41effa8e03026/medium.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fae668fb74063a9bf09e4f3f/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4f191e213fe41effa8e03026/original.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fae668fb74063a9bf09e4f3f/original.webp",
                 "width": 2560,
                 "height": 1708
               }
             },
-            "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
-            "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+            "alt": "Ca viên cùng lắng nghe trong kỳ tĩnh tâm",
+            "caption": "Ca viên cùng lắng nghe trong kỳ tĩnh tâm",
             "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
-            "sourceFilename": "tĩnh tâm 19.jpg",
+            "sourceFilename": "tĩnh tâm 2.jpg",
             "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
           },
           {
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7cc716d81550e1fcb285b0fb/original.webp",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7cc716d81550e1fcb285b0fb/medium.webp",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6ac267a10fef7b3b96a53e69/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6ac267a10fef7b3b96a53e69/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7cc716d81550e1fcb285b0fb/thumb.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6ac267a10fef7b3b96a53e69/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7cc716d81550e1fcb285b0fb/medium.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6ac267a10fef7b3b96a53e69/medium.webp",
                 "width": 1280,
                 "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7cc716d81550e1fcb285b0fb/original.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6ac267a10fef7b3b96a53e69/original.webp",
                 "width": 2560,
                 "height": 1708
               }
             },
-            "alt": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
-            "caption": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+            "alt": "Tham dự Thánh lễ tại Đan viện Thiên Hà",
+            "caption": "Tham dự Thánh lễ tại Đan viện Thiên Hà",
             "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
-            "sourceFilename": "tĩnh tâm 29.jpg",
+            "sourceFilename": "tĩnh tâm 31.jpg",
+            "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/75a00b14e0ea208d88edea7e/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/75a00b14e0ea208d88edea7e/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/75a00b14e0ea208d88edea7e/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/75a00b14e0ea208d88edea7e/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/75a00b14e0ea208d88edea7e/original.webp",
+                "width": 2560,
+                "height": 1708
+              }
+            },
+            "alt": "Hoạt động bịt mắt đi trong bóng tối",
+            "caption": "Hoạt động bịt mắt đi trong bóng tối",
+            "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
+            "sourceFilename": "tĩnh tâm 10.jpg",
             "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
           }
         ]
@@ -1033,7 +1059,21 @@
         "event": "Tĩnh tâm “Ở lại và được Ngài sai đi”",
         "sourceFilename": "ảnh bìa.jpg",
         "sourceDirectory": "Tĩnh tâm\" Ở lại và được Ngài sai đi \" "
-      }
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 3,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fae668fb74063a9bf09e4f3f/original.webp"
+        },
+        {
+          "afterParagraph": 4,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6ac267a10fef7b3b96a53e69/original.webp"
+        },
+        {
+          "afterParagraph": 5,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/75a00b14e0ea208d88edea7e/original.webp"
+        }
+      ]
     },
     {
       "id": "2024-bau-ban-dieu-hanh",
@@ -1075,29 +1115,29 @@
             "sourceDirectory": "Bầu bdh nhiệm kỳ 2024-2026"
           },
           {
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7172be495db7fa430a0c922f/medium.webp",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7172be495db7fa430a0c922f/medium.webp",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5966acaa74970fdd9e3c1511/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5966acaa74970fdd9e3c1511/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7172be495db7fa430a0c922f/thumb.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5966acaa74970fdd9e3c1511/thumb.webp",
                 "width": 340,
                 "height": 480
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7172be495db7fa430a0c922f/medium.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5966acaa74970fdd9e3c1511/medium.webp",
                 "width": 908,
                 "height": 1280
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7172be495db7fa430a0c922f/medium.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5966acaa74970fdd9e3c1511/medium.webp",
                 "width": 908,
                 "height": 1280
               }
             },
-            "alt": "Bầu ban điều hành nhiệm kỳ 2024–2026",
-            "caption": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+            "alt": "Trưởng ca đoàn Phê-rô Đỗ Tiến Hạng",
+            "caption": "Trưởng ca đoàn Phê-rô Đỗ Tiến Hạng",
             "event": "Bầu ban điều hành nhiệm kỳ 2024–2026",
-            "sourceFilename": "1789843777348_1995884631902468284_7736263391661925970_f8531e289b6967adea3ba1759ee37d0e.jpg",
+            "sourceFilename": "1789843781980_1995884631902468284_7736263391661925970_d406aae1cd887f8914dc49cd0b5a84ee.jpg",
             "sourceDirectory": "Bầu bdh nhiệm kỳ 2024-2026"
           },
           {
@@ -1120,10 +1160,36 @@
                 "height": 1280
               }
             },
-            "alt": "Bầu ban điều hành nhiệm kỳ 2024–2026",
-            "caption": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+            "alt": "Phó ca đoàn Giuse Trần Viết Vĩ",
+            "caption": "Phó ca đoàn Giuse Trần Viết Vĩ",
             "event": "Bầu ban điều hành nhiệm kỳ 2024–2026",
             "sourceFilename": "1789843777380_1995884631902468284_7736263391661925970_430669ce1bec27d0b138b84b32c43142.jpg",
+            "sourceDirectory": "Bầu bdh nhiệm kỳ 2024-2026"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7172be495db7fa430a0c922f/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7172be495db7fa430a0c922f/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7172be495db7fa430a0c922f/thumb.webp",
+                "width": 340,
+                "height": 480
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7172be495db7fa430a0c922f/medium.webp",
+                "width": 908,
+                "height": 1280
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7172be495db7fa430a0c922f/medium.webp",
+                "width": 908,
+                "height": 1280
+              }
+            },
+            "alt": "Phó ca đoàn Giuse Nguyễn Phan Hoài Duy",
+            "caption": "Phó ca đoàn Giuse Nguyễn Phan Hoài Duy",
+            "event": "Bầu ban điều hành nhiệm kỳ 2024–2026",
+            "sourceFilename": "1789843777348_1995884631902468284_7736263391661925970_f8531e289b6967adea3ba1759ee37d0e.jpg",
             "sourceDirectory": "Bầu bdh nhiệm kỳ 2024-2026"
           }
         ]
@@ -1153,7 +1219,21 @@
         "event": "Bầu ban điều hành nhiệm kỳ 2024–2026",
         "sourceFilename": "1789841313454_1995884631902468284_7736263391661925970_dd2ffad3a86323ae3ffdcf2f7f2bf58d.jpg",
         "sourceDirectory": "Bầu bdh nhiệm kỳ 2024-2026"
-      }
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 1,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/5966acaa74970fdd9e3c1511/medium.webp"
+        },
+        {
+          "afterParagraph": 2,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2bcc9ea710cf2732a912ab78/medium.webp"
+        },
+        {
+          "afterParagraph": 3,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/7172be495db7fa430a0c922f/medium.webp"
+        }
+      ]
     },
     {
       "id": "2024-cau-nguyen-sau-bao-yagi",
@@ -1237,29 +1317,29 @@
         "count": 7,
         "preview": [
           {
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d64a3df26c9a8a6fa411c1a/original.webp",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d64a3df26c9a8a6fa411c1a/medium.webp",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0c3a095e389fe3862b2dde94/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0c3a095e389fe3862b2dde94/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d64a3df26c9a8a6fa411c1a/thumb.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0c3a095e389fe3862b2dde94/thumb.webp",
                 "width": 480,
                 "height": 360
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d64a3df26c9a8a6fa411c1a/medium.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0c3a095e389fe3862b2dde94/medium.webp",
                 "width": 1280,
-                "height": 961
+                "height": 960
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d64a3df26c9a8a6fa411c1a/original.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0c3a095e389fe3862b2dde94/original.webp",
                 "width": 2048,
-                "height": 1537
+                "height": 1536
               }
             },
             "alt": "Tĩnh tâm chuẩn bị lễ Quan thầy",
             "caption": "Tĩnh tâm chuẩn bị lễ Quan thầy",
             "event": "Tĩnh tâm chuẩn bị lễ Quan thầy",
-            "sourceFilename": "486489458_1602396637206163_2877728054440081850_n.jpg",
+            "sourceFilename": "ảnh bìa.jpg",
             "sourceDirectory": "Tĩnh Tâm Cửa Bắc 2024"
           },
           {
@@ -1283,35 +1363,35 @@
               }
             },
             "alt": "Tĩnh tâm chuẩn bị lễ Quan thầy",
-            "caption": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+            "caption": "Cầu nguyện tại Nhà thờ Cửa Bắc",
             "event": "Tĩnh tâm chuẩn bị lễ Quan thầy",
             "sourceFilename": "486652720_1602396683872825_1434888126279029586_n.jpg",
             "sourceDirectory": "Tĩnh Tâm Cửa Bắc 2024"
           },
           {
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/92aa86d96369d7ac38743141/original.webp",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/92aa86d96369d7ac38743141/medium.webp",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d64a3df26c9a8a6fa411c1a/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d64a3df26c9a8a6fa411c1a/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/92aa86d96369d7ac38743141/thumb.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d64a3df26c9a8a6fa411c1a/thumb.webp",
                 "width": 480,
                 "height": 360
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/92aa86d96369d7ac38743141/medium.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d64a3df26c9a8a6fa411c1a/medium.webp",
                 "width": 1280,
-                "height": 960
+                "height": 961
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/92aa86d96369d7ac38743141/original.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d64a3df26c9a8a6fa411c1a/original.webp",
                 "width": 2048,
-                "height": 1536
+                "height": 1537
               }
             },
             "alt": "Tĩnh tâm chuẩn bị lễ Quan thầy",
-            "caption": "Tĩnh tâm chuẩn bị lễ Quan thầy",
+            "caption": "Ca viên lắng nghe chia sẻ trong buổi tĩnh tâm",
             "event": "Tĩnh tâm chuẩn bị lễ Quan thầy",
-            "sourceFilename": "486969038_1602396633872830_2484258640778168241_n.jpg",
+            "sourceFilename": "486489458_1602396637206163_2877728054440081850_n.jpg",
             "sourceDirectory": "Tĩnh Tâm Cửa Bắc 2024"
           }
         ]
@@ -1341,7 +1421,17 @@
         "event": "Tĩnh tâm chuẩn bị lễ Quan thầy",
         "sourceFilename": "ảnh bìa.jpg",
         "sourceDirectory": "Tĩnh Tâm Cửa Bắc 2024"
-      }
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 0,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/dd83216d97b61811b900a17f/original.webp"
+        },
+        {
+          "afterParagraph": 0,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/6d64a3df26c9a8a6fa411c1a/original.webp"
+        }
+      ]
     },
     {
       "id": "2024-hon-phoi-viet-vi-va-huong",
@@ -2021,115 +2111,129 @@
       "description": "Khép lại một năm 2024 với biết bao trải nghiệm, Ca đoàn đã cùng nhau thực hiện chương trình thiện nguyện “Đông ấm Na Rì” tại Na Rì, Bắc Kạn trước thềm Giáng sinh.",
       "body": "Khép lại một năm 2024 với biết bao trải nghiệm, Ca đoàn đã cùng nhau thực hiện chương trình thiện nguyện “Đông ấm Na Rì” tại Na Rì, Bắc Kạn trước thềm Giáng sinh. Tạm rời xa thành phố náo nhiệt, những con đường quen thuộc và nhịp sống hối hả thường ngày, các anh chị em ca viên, cựu ca viên cùng nhau lên đường đến Na Rì, mang theo những món quà nhỏ bé nhưng chứa đựng biết bao tình yêu thương và sự sẻ chia.\n\nTại Na Rì, Ca đoàn đã trao tặng những phần quà đến các gia đình còn gặp nhiều khó khăn, đặc biệt là các em nhỏ. Mỗi món quà tuy giản dị nhưng chứa đựng sự quan tâm của nhiều tấm lòng. Hơn cả những giá trị vật chất, chuyến đi là dịp để chúng tôi được gặp gỡ, sẻ chia và mang một chút hơi ấm đến với những người đang cần được nâng đỡ.\n\nTừ những ngày chuẩn bị, quyên góp, đóng gói quà cho đến hành trình lên đường, mỗi ca viên đều góp một phần nhỏ bé của mình. Qua đó, chúng tôi cảm nhận rõ hơn niềm vui của sự cho đi và tinh thần “mỗi người vì mọi người” trong đại gia đình Ca đoàn.\n\n“Đông ấm Na Rì” cũng là hoạt động khép lại một năm 2024 đầy trải nghiệm – một năm có tiếng hát, những giờ cầu nguyện, những Thánh lễ phục vụ, những chuyến đi và trên hết là những con người cùng đồng hành với nhau trong tình yêu thương. Khép lại năm cũ bằng một hành trình sẻ chia, chúng tôi càng hiểu rằng phục vụ không chỉ là cất lên lời ca, mà còn là biết mở rộng trái tim để yêu thương và trao đi.",
       "coverImage": {
-        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/95c8bab7fb8cc8c8c2fbddfa/original.webp",
-        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/95c8bab7fb8cc8c8c2fbddfa/medium.webp",
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b8baff37933b14a04f962ec8/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b8baff37933b14a04f962ec8/medium.webp",
         "variants": {
           "thumbnail": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/95c8bab7fb8cc8c8c2fbddfa/thumb.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b8baff37933b14a04f962ec8/thumb.webp",
             "width": 480,
             "height": 320
           },
           "medium": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/95c8bab7fb8cc8c8c2fbddfa/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b8baff37933b14a04f962ec8/medium.webp",
             "width": 1280,
-            "height": 853
+            "height": 854
           },
           "original": {
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/95c8bab7fb8cc8c8c2fbddfa/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b8baff37933b14a04f962ec8/original.webp",
             "width": 2560,
-            "height": 1706
+            "height": 1708
           }
         },
-        "alt": "Đông Ấm Na Rì",
-        "caption": "Đông Ấm Na Rì",
+        "alt": "Trao quà trong chương trình Đông Ấm Na Rì 2024",
+        "caption": "Trao quà trong chương trình Đông Ấm Na Rì 2024",
         "event": "Đông Ấm Na Rì",
-        "sourceFilename": "ảnh bìa.JPG",
-        "sourceDirectory": "Đông ấm Na Rì"
+        "sourceFilename": "thiện nguyện17.jpg",
+        "sourceDirectory": "Tâm tình thiện nguyện ca viên 2024"
       },
       "album": {
         "manifest": "data/albums/2024/2024-dong-am-na-ri.json",
-        "count": 196,
+        "count": 185,
         "preview": [
           {
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/35cdf1243e6cb2e14f248063/original.webp",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/35cdf1243e6cb2e14f248063/medium.webp",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b8baff37933b14a04f962ec8/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b8baff37933b14a04f962ec8/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/35cdf1243e6cb2e14f248063/thumb.webp",
-                "width": 480,
-                "height": 270
-              },
-              "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/35cdf1243e6cb2e14f248063/medium.webp",
-                "width": 1280,
-                "height": 720
-              },
-              "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/35cdf1243e6cb2e14f248063/original.webp",
-                "width": 2048,
-                "height": 1152
-              }
-            },
-            "alt": "Đông Ấm Na Rì",
-            "caption": "Đông Ấm Na Rì",
-            "event": "Đông Ấm Na Rì",
-            "sourceFilename": "thiện nguyện15.jpg",
-            "sourceDirectory": "Đông ấm Na Rì"
-          },
-          {
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0d6df5c8bebaa820e0683c7d/original.webp",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0d6df5c8bebaa820e0683c7d/medium.webp",
-            "variants": {
-              "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0d6df5c8bebaa820e0683c7d/thumb.webp",
-                "width": 480,
-                "height": 270
-              },
-              "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0d6df5c8bebaa820e0683c7d/medium.webp",
-                "width": 1280,
-                "height": 720
-              },
-              "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/0d6df5c8bebaa820e0683c7d/original.webp",
-                "width": 2048,
-                "height": 1152
-              }
-            },
-            "alt": "Đông Ấm Na Rì",
-            "caption": "Đông Ấm Na Rì",
-            "event": "Đông Ấm Na Rì",
-            "sourceFilename": "thiện nguyện31.jpg",
-            "sourceDirectory": "Đông ấm Na Rì"
-          },
-          {
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2abe07e884df682a25755e31/original.webp",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2abe07e884df682a25755e31/medium.webp",
-            "variants": {
-              "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2abe07e884df682a25755e31/thumb.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b8baff37933b14a04f962ec8/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2abe07e884df682a25755e31/medium.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b8baff37933b14a04f962ec8/medium.webp",
                 "width": 1280,
-                "height": 853
+                "height": 854
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/2abe07e884df682a25755e31/original.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b8baff37933b14a04f962ec8/original.webp",
                 "width": 2560,
-                "height": 1706
+                "height": 1708
               }
             },
-            "alt": "Đông Ấm Na Rì",
-            "caption": "Đông Ấm Na Rì",
+            "alt": "Những phần quà được gửi tới bà con trong chương trình năm 2024",
+            "caption": "Những phần quà được gửi tới bà con trong chương trình năm 2024",
             "event": "Đông Ấm Na Rì",
-            "sourceFilename": "thiện nguyện47.JPG",
-            "sourceDirectory": "Đông ấm Na Rì"
+            "sourceFilename": "thiện nguyện17.jpg",
+            "sourceDirectory": "Tâm tình thiện nguyện ca viên 2024"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fa97f222530db772698cdd92/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fa97f222530db772698cdd92/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fa97f222530db772698cdd92/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fa97f222530db772698cdd92/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fa97f222530db772698cdd92/original.webp",
+                "width": 2560,
+                "height": 1708
+              }
+            },
+            "alt": "Vận chuyển quà trong chuyến thiện nguyện năm 2024",
+            "caption": "Vận chuyển quà trong chuyến thiện nguyện năm 2024",
+            "event": "Đông Ấm Na Rì",
+            "sourceFilename": "thiện nguyện8.jpg",
+            "sourceDirectory": "Tâm tình thiện nguyện ca viên 2024"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1224be330654c4128b035acf/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1224be330654c4128b035acf/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1224be330654c4128b035acf/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1224be330654c4128b035acf/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1224be330654c4128b035acf/original.webp",
+                "width": 2560,
+                "height": 1708
+              }
+            },
+            "alt": "Ca viên cùng chuẩn bị và đóng gói quà",
+            "caption": "Ca viên cùng chuẩn bị và đóng gói quà",
+            "event": "Đông Ấm Na Rì",
+            "sourceFilename": "thiện nguyện5.jpg",
+            "sourceDirectory": "Tâm tình thiện nguyện ca viên 2024"
           }
         ]
-      }
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 0,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/fa97f222530db772698cdd92/original.webp"
+        },
+        {
+          "afterParagraph": 1,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b8baff37933b14a04f962ec8/original.webp"
+        },
+        {
+          "afterParagraph": 2,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1224be330654c4128b035acf/original.webp"
+        }
+      ]
     }
   ],
   "achievements": [

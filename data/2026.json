@@ -9,7 +9,30 @@
     "summary": "Sau dấu mốc 10 năm thành lập - một chặng đường của biết bao hồng ân và tình yêu, Ca đoàn Giới trẻ Teresa bước vào năm thứ 11 với một tâm tình mới: từ những gì đã nhận lãnh, Ca đoàn tiếp tục trao đi; từ những gì đã được gieo trồng, Ca đoàn tiếp tục vun đắp; và từ những gì đã được viết nên trong 10 năm đầu tiên, một trang mới lại được mở ra.",
     "verse": "",
     "longDescription": "Sau dấu mốc 10 năm thành lập - một chặng đường của biết bao hồng ân và tình yêu, Ca đoàn Giới trẻ Teresa bước vào năm thứ 11 với một tâm tình mới: từ những gì đã nhận lãnh, Ca đoàn tiếp tục trao đi; từ những gì đã được gieo trồng, Ca đoàn tiếp tục vun đắp; và từ những gì đã được viết nên trong 10 năm đầu tiên, một trang mới lại được mở ra.\n\nBước sang năm 2026, hành trình ấy được viết tiếp qua các giờ phục vụ Thánh lễ, qua các hoạt động nội bộ teambuilding, thiện nguyện, thể thao, thi Giáo lý, đặc biệt Hoà nhạc Phục Sinh Exsultet đã trở thành một dấu ấn nổi bật trong hành trình ấy. Tất cả, dù lớn hay nhỏ, đều trở thành những mảnh ghép làm nên một năm đáng nhớ của Teresa.\n\nĐặc biệt, năm nay đánh dấu sự chuyển giao và kiện toàn Ban Điều hành nhiệm kỳ mới. Một thế hệ trẻ tiếp tục nhận lấy trách nhiệm dẫn dắt Ca đoàn, mang theo nhiệt huyết, sức sáng tạo và tinh thần dấn thân của tuổi trẻ. Sự chuyển giao ấy không phải là một sự bắt đầu lại, mà là những giá trị được trao lại, những kinh nghiệm được tiếp nối cùng tinh thần hy sinh và phục vụ.\n\n“Từ Hồng Ân đến Sự Vụ” - Năm 2026 vì thế không chỉ là năm tiếp nối sau cột mốc 10 năm, mà một trang mới lại được mở ra. Và trên trang mới ấy, mỗi anh chị em ca viên lại cùng nhau viết tiếp câu chuyện mang tên Ca đoàn Giới trẻ Teresa.",
-    "coverImage": ""
+    "coverImage": {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/652eaaee93eb66cc50ba1210/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/652eaaee93eb66cc50ba1210/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/652eaaee93eb66cc50ba1210/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/652eaaee93eb66cc50ba1210/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/652eaaee93eb66cc50ba1210/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "ảnh bìa.jpg"
+    }
   },
   "leadership": {
     "chaplain": {
@@ -283,7 +306,94 @@
       "topic": "Phụng vụ",
       "description": "Vào lúc 10h, Chúa Nhật ngày 05/04/2026, Ca đoàn Giới trẻ Teresa hân hoan phục vụ Đại lễ Phục Sinh trong bầu không khí trang nghiêm và sốt sắng với sự hiện diện của đông đảo anh chị em giáo dân gần xa.",
       "body": "Vào lúc 10h, Chúa Nhật ngày 05/04/2026, Ca đoàn Giới trẻ Teresa hân hoan phục vụ Đại lễ Phục Sinh trong bầu không khí trang nghiêm và sốt sắng với sự hiện diện của đông đảo anh chị em giáo dân gần xa.\n\nĐại lễ Phục Sinh là đỉnh cao của đời sống đức tin Kitô giáo, không chỉ là khúc ca khải hoàn của Đức Kitô, mà còn là lời xác tín mạnh mẽ rằng sự sống khải hoàn trên sự chết, nơi niềm hy vọng được thắp sáng trong Ðấng Hằng Sống “là Alpha và Ômêga”.\n\nThánh lễ khép lại trong niềm vui Phục Sinh tràn đầy. Sau Thánh lễ, Ban Điều hành Ca đoàn đã chuẩn bị những phần quà nhỏ gửi tặng các anh chị em ca viên như một lời chúc mừng ngày đại lễ, đồng thời là dấu chỉ của sự hiệp thông và tình gia đình trong Chúa.",
-      "images": []
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a652f3f97ee10803f3325cce/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a652f3f97ee10803f3325cce/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a652f3f97ee10803f3325cce/thumb.webp",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a652f3f97ee10803f3325cce/medium.webp",
+            "width": 1280,
+            "height": 960
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a652f3f97ee10803f3325cce/original.webp",
+            "width": 2560,
+            "height": 1920
+          }
+        },
+        "alt": "Phục vụ Đại lễ Phục Sinh",
+        "caption": "Phục vụ Đại lễ Phục Sinh",
+        "sourceFilename": "ảnh bìa.jpeg"
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 1,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59f2a5708cf5276ed7a7e612/original.webp"
+        },
+        {
+          "afterParagraph": 1,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a652f3f97ee10803f3325cce/original.webp"
+        }
+      ],
+      "album": {
+        "manifest": "data/albums/2026/2026-phuc-vu-dai-le-phuc-sinh.json",
+        "count": 5,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a652f3f97ee10803f3325cce/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a652f3f97ee10803f3325cce/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a652f3f97ee10803f3325cce/thumb.webp",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a652f3f97ee10803f3325cce/medium.webp",
+                "width": 1280,
+                "height": 960
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a652f3f97ee10803f3325cce/original.webp",
+                "width": 2560,
+                "height": 1920
+              }
+            },
+            "alt": "Phục vụ Đại lễ Phục Sinh",
+            "caption": "Phục vụ Đại lễ Phục Sinh",
+            "sourceFilename": "ảnh bìa.jpeg"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59f2a5708cf5276ed7a7e612/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59f2a5708cf5276ed7a7e612/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59f2a5708cf5276ed7a7e612/thumb.webp",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59f2a5708cf5276ed7a7e612/medium.webp",
+                "width": 1280,
+                "height": 960
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59f2a5708cf5276ed7a7e612/original.webp",
+                "width": 2560,
+                "height": 1920
+              }
+            },
+            "alt": "Ca đoàn sau Đại lễ Phục Sinh",
+            "caption": "Ca đoàn sau Đại lễ Phục Sinh",
+            "sourceFilename": "IMG_1762.jpeg"
+          }
+        ]
+      }
     },
     {
       "id": "2026-activity-1",
@@ -293,7 +403,146 @@
       "topic": "Phục Sinh",
       "description": "Ngày 10/04/2026, trong niềm hân hoan mừng Chúa Phục Sinh của toàn thể Giáo Hội hoàn vũ, Ca đoàn Giới trẻ Teresa đã kết hợp cùng Dàn Hợp Xướng Trẻ Công Giáo Hà Nội (HCYC) tổ chức đêm hoà nhạc phục sinh EXSULTET, một đêm nhạc Thánh Ca thiêng liêng và đầy cảm xúc, đưa tới hành trình chiêm ngắm một mầu nhiệm vĩ đại: Mầu Nhiệm Chúa Phục Sinh.",
       "body": "Ngày 10/04/2026, trong niềm hân hoan mừng Chúa Phục Sinh của toàn thể Giáo Hội hoàn vũ, Ca đoàn Giới trẻ Teresa đã kết hợp cùng Dàn Hợp Xướng Trẻ Công Giáo Hà Nội (HCYC) tổ chức đêm hoà nhạc phục sinh EXSULTET, một đêm nhạc Thánh Ca thiêng liêng và đầy cảm xúc, đưa tới hành trình chiêm ngắm một mầu nhiệm vĩ đại: Mầu Nhiệm Chúa Phục Sinh.\n\nMở đầu đêm nhạc, Cha Chính xứ Chính Tòa Giuse Tạ Minh Quý đã gửi tới cộng đoàn lời khai mạc, Ngài nhấn mạnh chúng ta hiện diện ở nơi đây để nói lên niềm vui lớn lao, niềm vui làm thay đổi phận người, niềm vui của Đức Kitô Phục Sinh.\n\nTừ những thanh âm hào hùng, uy quyền trong Xuất Hành, đến lời hỏi thân thương “Bà Maria ơi, trên đường Bà thấy những gì…”, hay những giai điệu “Alleluia” quen thuộc trong Thánh ca cổ Ode to Joy, mỗi nhạc phẩm góp thêm một sắc màu cho bức tranh Phục Sinh. Tất cả cùng quy tụ trong lời ca hân hoan “Exsultet” – “Hãy vui lên!”, như một lời tuyên xưng đức tin mạnh mẽ vào quyền năng Thiên Chúa và niềm xác tín vào lời hứa cứu độ của Người.\n\nTrong đêm nhạc, Cha Bề trên Giáo xứ Thái Hà Giuse Nguyễn Văn Hội đã chia sẻ một thông điệp đặc biệt: “…Exsultet cho dù là bài thánh ca cổ xưa, và biến cố Chúa Phục Sinh cũng xa rồi, nhưng bài Exsultet không chỉ để nghe mà còn để sống, và biến cố Phục Sinh không chỉ để biết nhưng là để chúng ta thông dự vào…”. Đó cũng chính là điều đêm nhạc muốn gửi gắm, không chỉ có những lời ca, nốt nhạc mà còn là những “điểm chạm” đi vào đôi tai, đi vào con tim mỗi người, như những hạt mầm âm thầm được gieo xuống mảnh đất tâm hồn của quý khán thính giả.\n\nĐêm nhạc quy tụ đông đảo khán thính giả, trong đó có nhiều anh chị em tôn giáo bạn. Với Ca đoàn Giới trẻ Teresa, đây cũng là cơ hội để dùng chính khả năng và sứ vụ của mình để trở thành nhịp cầu đưa Đức Tin và những giá trị của Tin Mừng đến gần hơn với mọi người. Đêm nhạc Exsultet từ đó cũng mở ra một khoảng thánh thiêng để người tham dự cùng lắng nghe, cảm nhận và cảm nếm trọn vẹn niềm vui Phục Sinh.\n\nĐêm nhạc cũng nhận được sự quan tâm và lan toả tích cực trên các nền tảng mạng xã hội. Khép lại trong niềm vui và những dấu ấn đẹp, hoà nhạc Exsultet đã trở thành một kỷ niệm đáng nhớ trên hành trình phục vụ của Ca đoàn Giới trẻ Teresa.",
-      "images": []
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/652eaaee93eb66cc50ba1210/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/652eaaee93eb66cc50ba1210/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/652eaaee93eb66cc50ba1210/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/652eaaee93eb66cc50ba1210/medium.webp",
+            "width": 1280,
+            "height": 853
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/652eaaee93eb66cc50ba1210/original.webp",
+            "width": 2560,
+            "height": 1707
+          }
+        },
+        "alt": "Hoà nhạc Phục Sinh Exsultet",
+        "caption": "Hoà nhạc Phục Sinh Exsultet",
+        "sourceFilename": "ảnh bìa.jpg"
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 0,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/90396ba796eac0c235709656/original.webp"
+        },
+        {
+          "afterParagraph": 2,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b5f174cb6f8f241b6800a58e/original.webp"
+        },
+        {
+          "afterParagraph": 4,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1222f37ba78c62c8ee4fa99b/original.webp"
+        }
+      ],
+      "album": {
+        "manifest": "data/albums/2026/2026-activity-1.json",
+        "count": 53,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/652eaaee93eb66cc50ba1210/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/652eaaee93eb66cc50ba1210/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/652eaaee93eb66cc50ba1210/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/652eaaee93eb66cc50ba1210/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/652eaaee93eb66cc50ba1210/original.webp",
+                "width": 2560,
+                "height": 1707
+              }
+            },
+            "alt": "Hoà nhạc Phục Sinh Exsultet",
+            "caption": "Hoà nhạc Phục Sinh Exsultet",
+            "sourceFilename": "ảnh bìa.jpg"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/90396ba796eac0c235709656/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/90396ba796eac0c235709656/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/90396ba796eac0c235709656/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/90396ba796eac0c235709656/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/90396ba796eac0c235709656/original.webp",
+                "width": 2560,
+                "height": 1707
+              }
+            },
+            "alt": "Toàn cảnh đêm hoà nhạc Exsultet",
+            "caption": "Toàn cảnh đêm hoà nhạc Exsultet",
+            "sourceFilename": "hoà nhạc5.jpg"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b5f174cb6f8f241b6800a58e/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b5f174cb6f8f241b6800a58e/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b5f174cb6f8f241b6800a58e/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b5f174cb6f8f241b6800a58e/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b5f174cb6f8f241b6800a58e/original.webp",
+                "width": 2560,
+                "height": 1707
+              }
+            },
+            "alt": "Ca viên cất lời ca trong đêm hoà nhạc",
+            "caption": "Ca viên cất lời ca trong đêm hoà nhạc",
+            "sourceFilename": "hoà nhạc19.jpg"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1222f37ba78c62c8ee4fa99b/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1222f37ba78c62c8ee4fa99b/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1222f37ba78c62c8ee4fa99b/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1222f37ba78c62c8ee4fa99b/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1222f37ba78c62c8ee4fa99b/original.webp",
+                "width": 2560,
+                "height": 1707
+              }
+            },
+            "alt": "Khán thính giả cùng lắng nghe đêm nhạc",
+            "caption": "Khán thính giả cùng lắng nghe đêm nhạc",
+            "sourceFilename": "hoà nhạc54.jpg"
+          }
+        ]
+      }
     },
     {
       "id": "2026-hon-phoi-thanh-minh-diem-trang",
@@ -303,7 +552,118 @@
       "topic": "Hôn phối",
       "description": "Ngày 30/04/2026, tại Thánh đường Giáo xứ Vinh Sơn, Giáo phận Thanh Hóa, Ca đoàn Giới trẻ Teresa hân hoan phục vụ Thánh lễ Hôn Phối của anh Anton Thành Minh và chị Teresa Diễm Trang. Một gia đình mới được hình thành, một mầm sống mới của Giáo hội được gieo xuống trong ngày hai anh chị trao cho nhau lời thề ước trước bàn thờ Chúa.",
       "body": "Ngày 30/04/2026, tại Thánh đường Giáo xứ Vinh Sơn, Giáo phận Thanh Hóa, Ca đoàn Giới trẻ Teresa hân hoan phục vụ Thánh lễ Hôn Phối của anh Anton Thành Minh và chị Teresa Diễm Trang. Một gia đình mới được hình thành, một mầm sống mới của Giáo hội được gieo xuống trong ngày hai anh chị trao cho nhau lời thề ước trước bàn thờ Chúa.\n\nVới Ca đoàn Giới trẻ Teresa, ngày vui ấy càng trở nên đặc biệt khi cô dâu Diễm Trang từng là một thành viên thân thuộc của đại gia đình Teresa - cựu ca viên bè Soprano, từng đồng hành cùng Ban Truyền thông và luôn nhiệt thành, tận tụy trong những năm tháng phục vụ.\n\nƯớc mong rằng trên hành trình mới của chị luôn có Chúa đồng hành và giữ gìn, như lời Cha nhắn nhủ với anh chị trong Thánh lễ: “…chỉ cần chúng ta tiếp tục yêu nhau như cách Chúa vẫn yêu, cầu nguyện cho nửa kia mọi ngày trong suốt cuộc đời thì gia đình sẽ lại ấm êm, tình yêu sẽ lại đong đầy”.",
-      "images": []
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/085a7ad5f98746a4337a5dbe/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/085a7ad5f98746a4337a5dbe/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/085a7ad5f98746a4337a5dbe/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/085a7ad5f98746a4337a5dbe/medium.webp",
+            "width": 1280,
+            "height": 854
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/085a7ad5f98746a4337a5dbe/original.webp",
+            "width": 2560,
+            "height": 1708
+          }
+        },
+        "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+        "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+        "sourceFilename": "ảnh bìa.jpg"
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 0,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4f9a02ca259faa0d35de8a8d/original.webp"
+        },
+        {
+          "afterParagraph": 1,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d74a1b56698e0f3b36b6df50/original.webp"
+        }
+      ],
+      "album": {
+        "manifest": "data/albums/2026/2026-hon-phoi-thanh-minh-diem-trang.json",
+        "count": 22,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/085a7ad5f98746a4337a5dbe/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/085a7ad5f98746a4337a5dbe/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/085a7ad5f98746a4337a5dbe/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/085a7ad5f98746a4337a5dbe/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/085a7ad5f98746a4337a5dbe/original.webp",
+                "width": 2560,
+                "height": 1708
+              }
+            },
+            "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+            "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+            "sourceFilename": "ảnh bìa.jpg"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4f9a02ca259faa0d35de8a8d/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4f9a02ca259faa0d35de8a8d/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4f9a02ca259faa0d35de8a8d/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4f9a02ca259faa0d35de8a8d/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/4f9a02ca259faa0d35de8a8d/original.webp",
+                "width": 2560,
+                "height": 1708
+              }
+            },
+            "alt": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+            "caption": "Thánh lễ Hôn phối Thành Minh – Diễm Trang",
+            "sourceFilename": "ảnh cưới11.jpg"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d74a1b56698e0f3b36b6df50/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d74a1b56698e0f3b36b6df50/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d74a1b56698e0f3b36b6df50/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d74a1b56698e0f3b36b6df50/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d74a1b56698e0f3b36b6df50/original.webp",
+                "width": 2560,
+                "height": 1708
+              }
+            },
+            "alt": "Ca đoàn phục vụ Thánh lễ",
+            "caption": "Ca đoàn phục vụ Thánh lễ",
+            "sourceFilename": "ảnh cưới5.jpg"
+          }
+        ]
+      }
     },
     {
       "id": "2026-hon-phoi-minh-tiep-to-uyen",
@@ -313,7 +673,94 @@
       "topic": "Hôn phối",
       "description": "Ngày 16/05/2026, tại Giáo xứ Bái Xuyên, Giáo phận Hà Nội, anh Giuse Minh Tiệp & chị Lucia Tố Uyên đã chính thức bước vào giao ước hôn nhân thánh thiện trước mặt Thiên Chúa. Ca đoàn Giới trẻ Teresa vinh dự được phục vụ Thánh lễ thành hôn của hai anh chị, cùng chứng kiến khoảnh khắc thiêng liêng của anh chị thành toàn trước mặt Chúa và Hội thánh. Giữa bầu khí linh thiêng của Thánh lễ, những lời ca tiếng hát của Ca đoàn trở thành lời cầu nguyện và lời chúc phúc gửi đến đôi tân hôn. Đó là lời nguyện xin cho hai anh chị luôn biết yêu thương nhau trong tình yêu của Chúa, trung tín với nhau qua những ngày vui cũng như những lúc gian nan, để từ hôm nay và mãi về sau, hai người luôn có thể nắm tay nhau bước qua mọi chặng đường của cuộc sống.",
       "body": "Ngày 16/05/2026, tại Giáo xứ Bái Xuyên, Giáo phận Hà Nội, anh Giuse Minh Tiệp & chị Lucia Tố Uyên đã chính thức bước vào giao ước hôn nhân thánh thiện trước mặt Thiên Chúa. Ca đoàn Giới trẻ Teresa vinh dự được phục vụ Thánh lễ thành hôn của hai anh chị, cùng chứng kiến khoảnh khắc thiêng liêng của anh chị thành toàn trước mặt Chúa và Hội thánh. Giữa bầu khí linh thiêng của Thánh lễ, những lời ca tiếng hát của Ca đoàn trở thành lời cầu nguyện và lời chúc phúc gửi đến đôi tân hôn. Đó là lời nguyện xin cho hai anh chị luôn biết yêu thương nhau trong tình yêu của Chúa, trung tín với nhau qua những ngày vui cũng như những lúc gian nan, để từ hôm nay và mãi về sau, hai người luôn có thể nắm tay nhau bước qua mọi chặng đường của cuộc sống.",
-      "images": []
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1b690996fa74b9864ecb1731/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1b690996fa74b9864ecb1731/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1b690996fa74b9864ecb1731/thumb.webp",
+            "width": 480,
+            "height": 319
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1b690996fa74b9864ecb1731/medium.webp",
+            "width": 1280,
+            "height": 852
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1b690996fa74b9864ecb1731/original.webp",
+            "width": 2560,
+            "height": 1703
+          }
+        },
+        "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+        "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+        "sourceFilename": "ảnh bìa.jpg"
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 0,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f6299b8ab138b628d29df277/original.webp"
+        },
+        {
+          "afterParagraph": 0,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1b690996fa74b9864ecb1731/original.webp"
+        }
+      ],
+      "album": {
+        "manifest": "data/albums/2026/2026-hon-phoi-minh-tiep-to-uyen.json",
+        "count": 53,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1b690996fa74b9864ecb1731/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1b690996fa74b9864ecb1731/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1b690996fa74b9864ecb1731/thumb.webp",
+                "width": 480,
+                "height": 319
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1b690996fa74b9864ecb1731/medium.webp",
+                "width": 1280,
+                "height": 852
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1b690996fa74b9864ecb1731/original.webp",
+                "width": 2560,
+                "height": 1703
+              }
+            },
+            "alt": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+            "caption": "Thánh lễ Hôn phối MC Tố Uyên – Minh Tiệp",
+            "sourceFilename": "ảnh bìa.jpg"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f6299b8ab138b628d29df277/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f6299b8ab138b628d29df277/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f6299b8ab138b628d29df277/thumb.webp",
+                "width": 480,
+                "height": 319
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f6299b8ab138b628d29df277/medium.webp",
+                "width": 1280,
+                "height": 852
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f6299b8ab138b628d29df277/original.webp",
+                "width": 2560,
+                "height": 1703
+              }
+            },
+            "alt": "Đôi tân hôn cùng ca viên sau Thánh lễ",
+            "caption": "Đôi tân hôn cùng ca viên sau Thánh lễ",
+            "sourceFilename": "ảnh cứoi49.jpg"
+          }
+        ]
+      }
     },
     {
       "id": "2026-tyc-badminton-season-i",
@@ -323,7 +770,118 @@
       "topic": "Hội thao",
       "description": "Chiều Chủ Nhật, ngày 24/05/2026, tại sân cầu lông MD, giải cầu lông nội bộ mùa đầu tiên chính thức được khai mạc với 20 vợt thủ trong bầu không khí sôi động, nhiệt huyết và đầy cảm xúc. Trận đấu không chỉ là những phút giây giao tranh mà còn là cơ hội gắn kết và lan tỏa tinh thần hiệp nhất giữa các anh chị em trong ca đoàn.",
       "body": "Chiều Chủ Nhật, ngày 24/05/2026, tại sân cầu lông MD, giải cầu lông nội bộ mùa đầu tiên chính thức được khai mạc với 20 vợt thủ trong bầu không khí sôi động, nhiệt huyết và đầy cảm xúc. Trận đấu không chỉ là những phút giây giao tranh mà còn là cơ hội gắn kết và lan tỏa tinh thần hiệp nhất giữa các anh chị em trong ca đoàn.\n\nTrận đấu khép lại với chức vô địch thuộc về: Nguyễn Văn Hiếu - Phan Tài Đức (Bảng A) & Phạm Thu Hoài - Nguyễn Đức Tường (Bảng B)\n\nKhông chỉ là sân chơi thể thao lành mạnh, giải đấu còn là dịp để các thành viên thêm gắn kết, giao lưu và lan tỏa tinh thần đoàn kết trong đại gia đình Teresa. TYC - Badminton season I khép lại với thật nhiều khoảnh khắc đáng nhớ, hy vọng rằng trong những mùa giải tiếp theo, chúng ta sẽ tiếp tục được gặp lại nhau trên sân cầu với tinh thần máu lửa và hiệp nhất hơn nữa!",
-      "images": []
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8f6bfa4f3bf641037e4d5057/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8f6bfa4f3bf641037e4d5057/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8f6bfa4f3bf641037e4d5057/thumb.webp",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8f6bfa4f3bf641037e4d5057/medium.webp",
+            "width": 1280,
+            "height": 960
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8f6bfa4f3bf641037e4d5057/original.webp",
+            "width": 2560,
+            "height": 1920
+          }
+        },
+        "alt": "TYC Badminton Season I",
+        "caption": "TYC Badminton Season I",
+        "sourceFilename": "ảnh bìa.JPG"
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 0,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bd589446c8c6debdeaf05d05/original.webp"
+        },
+        {
+          "afterParagraph": 1,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1f759d084d8c894d9cc820e1/original.webp"
+        }
+      ],
+      "album": {
+        "manifest": "data/albums/2026/2026-tyc-badminton-season-i.json",
+        "count": 43,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8f6bfa4f3bf641037e4d5057/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8f6bfa4f3bf641037e4d5057/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8f6bfa4f3bf641037e4d5057/thumb.webp",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8f6bfa4f3bf641037e4d5057/medium.webp",
+                "width": 1280,
+                "height": 960
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8f6bfa4f3bf641037e4d5057/original.webp",
+                "width": 2560,
+                "height": 1920
+              }
+            },
+            "alt": "TYC Badminton Season I",
+            "caption": "TYC Badminton Season I",
+            "sourceFilename": "ảnh bìa.JPG"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bd589446c8c6debdeaf05d05/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bd589446c8c6debdeaf05d05/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bd589446c8c6debdeaf05d05/thumb.webp",
+                "width": 270,
+                "height": 480
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bd589446c8c6debdeaf05d05/medium.webp",
+                "width": 720,
+                "height": 1280
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bd589446c8c6debdeaf05d05/original.webp",
+                "width": 1440,
+                "height": 2560
+              }
+            },
+            "alt": "Khoảnh khắc thi đấu trên sân cầu",
+            "caption": "Khoảnh khắc thi đấu trên sân cầu",
+            "sourceFilename": "cầu lông3.jpeg"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1f759d084d8c894d9cc820e1/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1f759d084d8c894d9cc820e1/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1f759d084d8c894d9cc820e1/thumb.webp",
+                "width": 480,
+                "height": 270
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1f759d084d8c894d9cc820e1/medium.webp",
+                "width": 1280,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1f759d084d8c894d9cc820e1/original.webp",
+                "width": 2560,
+                "height": 1440
+              }
+            },
+            "alt": "Trao thưởng tại giải cầu lông",
+            "caption": "Trao thưởng tại giải cầu lông",
+            "sourceFilename": "cầu lông18.JPG"
+          }
+        ]
+      }
     },
     {
       "id": "2026-hon-phoi-hung-vuong-hong-ngoc",
@@ -333,7 +891,94 @@
       "topic": "Hôn phối",
       "description": "Ngày 04/07/2026, tại Giáo xứ Phong Lộc, Giáo phận Bùi Chu, anh Giuse Hùng Vương & chị Maria Hồng Ngọc đã quyết định trao nhau lời thề nguyện thiêng liêng của Bí tích Hôn Phối. Nhờ bàn tay của Thiên Chúa âm thầm dẫn lối, hai anh chị từ hai người xa lạ giờ đây đã trở thành “một xương một thịt”, cùng nắm tay nhau đến trước bàn thờ Chúa, cùng trao nhau lời ước nguyện yêu thương và chung thuỷ. Đó không chỉ là lời hứa của ngày hôm ấy, mà còn là khởi đầu của hành trình sống trọn ơn gọi hôn nhân Kitô giáo. Với Ca đoàn Giới trẻ Teresa, được hiện diện trong ngày vui của Hồng Ngọc cũng là một niềm vui đặc biệt. Những lời ca tiếng hát trong Thánh lễ như thay cho lời cầu nguyện dành cho anh chị, xin Chúa luôn đồng hành, gìn giữ và dẫn lối cho gia đình nhỏ trong từng chặng đường phía trước. Nguyện xin Chúa và Mẹ Maria luôn ở bên, chúc phúc cho tình yêu của anh chị hôm nay và mãi mãi về sau.",
       "body": "Ngày 04/07/2026, tại Giáo xứ Phong Lộc, Giáo phận Bùi Chu, anh Giuse Hùng Vương & chị Maria Hồng Ngọc đã quyết định trao nhau lời thề nguyện thiêng liêng của Bí tích Hôn Phối. Nhờ bàn tay của Thiên Chúa âm thầm dẫn lối, hai anh chị từ hai người xa lạ giờ đây đã trở thành “một xương một thịt”, cùng nắm tay nhau đến trước bàn thờ Chúa, cùng trao nhau lời ước nguyện yêu thương và chung thuỷ. Đó không chỉ là lời hứa của ngày hôm ấy, mà còn là khởi đầu của hành trình sống trọn ơn gọi hôn nhân Kitô giáo. Với Ca đoàn Giới trẻ Teresa, được hiện diện trong ngày vui của Hồng Ngọc cũng là một niềm vui đặc biệt. Những lời ca tiếng hát trong Thánh lễ như thay cho lời cầu nguyện dành cho anh chị, xin Chúa luôn đồng hành, gìn giữ và dẫn lối cho gia đình nhỏ trong từng chặng đường phía trước. Nguyện xin Chúa và Mẹ Maria luôn ở bên, chúc phúc cho tình yêu của anh chị hôm nay và mãi mãi về sau.",
-      "images": []
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59ed15500bbed826acd4b159/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59ed15500bbed826acd4b159/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59ed15500bbed826acd4b159/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59ed15500bbed826acd4b159/medium.webp",
+            "width": 1280,
+            "height": 853
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59ed15500bbed826acd4b159/original.webp",
+            "width": 2560,
+            "height": 1707
+          }
+        },
+        "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+        "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+        "sourceFilename": "ảnh bìa.JPG"
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 0,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b8302c21549f126437667cf7/original.webp"
+        },
+        {
+          "afterParagraph": 0,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59ed15500bbed826acd4b159/original.webp"
+        }
+      ],
+      "album": {
+        "manifest": "data/albums/2026/2026-hon-phoi-hung-vuong-hong-ngoc.json",
+        "count": 25,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59ed15500bbed826acd4b159/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59ed15500bbed826acd4b159/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59ed15500bbed826acd4b159/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59ed15500bbed826acd4b159/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59ed15500bbed826acd4b159/original.webp",
+                "width": 2560,
+                "height": 1707
+              }
+            },
+            "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+            "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+            "sourceFilename": "ảnh bìa.JPG"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b8302c21549f126437667cf7/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b8302c21549f126437667cf7/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b8302c21549f126437667cf7/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b8302c21549f126437667cf7/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b8302c21549f126437667cf7/original.webp",
+                "width": 2560,
+                "height": 1707
+              }
+            },
+            "alt": "Hùng Vương – Hồng Ngọc trong Thánh lễ Hôn phối",
+            "caption": "Hùng Vương – Hồng Ngọc trong Thánh lễ Hôn phối",
+            "sourceFilename": "ảnh cưới25.JPG"
+          }
+        ]
+      }
     },
     {
       "id": "2026-teambuilding-ba-vi",
@@ -343,7 +988,118 @@
       "topic": "Gắn kết",
       "description": "Đi để nhớ, ở để thương..",
       "body": "Đi để nhớ, ở để thương..\n\nTrong hai ngày 18-19/07/2026, Ca đoàn Giới trẻ Teresa đã có chuyến đi teambuilding tại Ba Vì, Hà Nội, một chuyến đi mang lại thật nhiều tiếng cười và những kỷ niệm khó quên.\n\nTại Ba Vì, anh chị em ca viên không chỉ chơi hết mình, cháy hết cỡ, mà còn hiểu nhau hơn, gần nhau hơn, và gắn bó như một gia đình thật sự. Sau mỗi chuyến đi, điều đáng nhớ có lẽ không nằm ở việc chúng ta đã đi đâu, đã chơi những gì, mà là chúng ta đã đi cùng ai. Là những câu chuyện sẽ còn được nhắc lại trong những buổi tập sau này, những bức ảnh sẽ còn được mở ra khi nhớ về tuổi trẻ, và những kỷ niệm mà mỗi người sẽ mang theo trên hành trình đồng hành cùng Teresa.",
-      "images": []
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3f4c2092ecc24846f48b5105/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3f4c2092ecc24846f48b5105/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3f4c2092ecc24846f48b5105/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3f4c2092ecc24846f48b5105/medium.webp",
+            "width": 1280,
+            "height": 854
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3f4c2092ecc24846f48b5105/original.webp",
+            "width": 2560,
+            "height": 1708
+          }
+        },
+        "alt": "Teambuilding tại Ba Vì",
+        "caption": "Teambuilding tại Ba Vì",
+        "sourceFilename": "ảnh bìa.jpg"
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 1,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3ed25eeba4d6c764520f46fe/original.webp"
+        },
+        {
+          "afterParagraph": 2,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/56cc0813bd000f2669ea9744/original.webp"
+        }
+      ],
+      "album": {
+        "manifest": "data/albums/2026/2026-teambuilding-ba-vi.json",
+        "count": 53,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3f4c2092ecc24846f48b5105/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3f4c2092ecc24846f48b5105/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3f4c2092ecc24846f48b5105/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3f4c2092ecc24846f48b5105/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3f4c2092ecc24846f48b5105/original.webp",
+                "width": 2560,
+                "height": 1708
+              }
+            },
+            "alt": "Teambuilding tại Ba Vì",
+            "caption": "Teambuilding tại Ba Vì",
+            "sourceFilename": "ảnh bìa.jpg"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3ed25eeba4d6c764520f46fe/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3ed25eeba4d6c764520f46fe/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3ed25eeba4d6c764520f46fe/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3ed25eeba4d6c764520f46fe/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3ed25eeba4d6c764520f46fe/original.webp",
+                "width": 2560,
+                "height": 1708
+              }
+            },
+            "alt": "Ca viên cùng tham gia trò chơi tại Ba Vì",
+            "caption": "Ca viên cùng tham gia trò chơi tại Ba Vì",
+            "sourceFilename": "team building15.jpg"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/56cc0813bd000f2669ea9744/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/56cc0813bd000f2669ea9744/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/56cc0813bd000f2669ea9744/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/56cc0813bd000f2669ea9744/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/56cc0813bd000f2669ea9744/original.webp",
+                "width": 2560,
+                "height": 1708
+              }
+            },
+            "alt": "Bữa ăn chung trong chuyến teambuilding",
+            "caption": "Bữa ăn chung trong chuyến teambuilding",
+            "sourceFilename": "team building47.jpg"
+          }
+        ]
+      }
     },
     {
       "id": "2026-chung-ket-giao-ly-thai-ha",
@@ -353,7 +1109,94 @@
       "topic": "Học hỏi",
       "description": "Tối ngày 30/7/2026, đại diện Ca đoàn Giới trẻ Teresa đã góp mặt tại chung kết Hội thi Giáo lý Giáo xứ Thái Hà. Với định hướng “Dạy giáo lý gắn liền với Lời loan báo đầu tiên”, cuộc thi không chỉ là nơi mỗi đội thi được gặp gỡ, giao lưu và học hỏi lời Chúa mà còn là cơ hội cho mỗi người đào sâu đức tin để trở thành những chứng tá của Chúa trong đời sống. Chung cuộc Ca đoàn Giới trẻ Teresa đã nỗ lực vượt qua các vòng thi đầy cam go và xuất sắc đạt được: Giải Nhất cá nhân & Giải Nhì tập thể.",
       "body": "Tối ngày 30/7/2026, đại diện Ca đoàn Giới trẻ Teresa đã góp mặt tại chung kết Hội thi Giáo lý Giáo xứ Thái Hà. Với định hướng “Dạy giáo lý gắn liền với Lời loan báo đầu tiên”, cuộc thi không chỉ là nơi mỗi đội thi được gặp gỡ, giao lưu và học hỏi lời Chúa mà còn là cơ hội cho mỗi người đào sâu đức tin để trở thành những chứng tá của Chúa trong đời sống. Chung cuộc Ca đoàn Giới trẻ Teresa đã nỗ lực vượt qua các vòng thi đầy cam go và xuất sắc đạt được: Giải Nhất cá nhân & Giải Nhì tập thể.\n\nKết quả ấy tiếp nối thành tích của Ca đoàn trong những năm qua tại các cuộc thi Giáo lý của Giáo xứ Thái Hà và Gia đình Công giáo Xa quê Hà Nội. Quan trọng hơn đó là minh chứng cho tinh thần nghiêm túc tìm hiểu và học hỏi Kinh Thánh và Giáo lý của các ca viên Teresa. Tinh thần ấy càng trở nên có ý nghĩa hơn khi đặt trong chủ đề của cuộc thi Giáo lý năm nay: Giáo lý là hành trang để Tin Mừng thành lối sống.",
-      "images": []
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c7a6992f160521df39ef87df/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c7a6992f160521df39ef87df/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c7a6992f160521df39ef87df/thumb.webp",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c7a6992f160521df39ef87df/medium.webp",
+            "width": 1280,
+            "height": 960
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c7a6992f160521df39ef87df/original.webp",
+            "width": 2560,
+            "height": 1920
+          }
+        },
+        "alt": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+        "caption": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+        "sourceFilename": "ảnh bìa.JPG"
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 0,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2395aa40b9a753f5bdb06da6/original.webp"
+        },
+        {
+          "afterParagraph": 0,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c7a6992f160521df39ef87df/original.webp"
+        }
+      ],
+      "album": {
+        "manifest": "data/albums/2026/2026-chung-ket-giao-ly-thai-ha.json",
+        "count": 15,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c7a6992f160521df39ef87df/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c7a6992f160521df39ef87df/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c7a6992f160521df39ef87df/thumb.webp",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c7a6992f160521df39ef87df/medium.webp",
+                "width": 1280,
+                "height": 960
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c7a6992f160521df39ef87df/original.webp",
+                "width": 2560,
+                "height": 1920
+              }
+            },
+            "alt": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+            "caption": "Chung kết Hội thi Giáo lý Giáo xứ Thái Hà",
+            "sourceFilename": "ảnh bìa.JPG"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2395aa40b9a753f5bdb06da6/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2395aa40b9a753f5bdb06da6/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2395aa40b9a753f5bdb06da6/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2395aa40b9a753f5bdb06da6/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2395aa40b9a753f5bdb06da6/original.webp",
+                "width": 2560,
+                "height": 1707
+              }
+            },
+            "alt": "Đại diện ca đoàn tham gia Hội thi Giáo lý",
+            "caption": "Đại diện ca đoàn tham gia Hội thi Giáo lý",
+            "sourceFilename": "thi giáo lý7.JPG"
+          }
+        ]
+      }
     },
     {
       "id": "2026-thien-nguyen-huong-la",
@@ -363,7 +1206,146 @@
       "topic": "Thiện nguyện",
       "description": "Sáng Chúa Nhật ngày 02/08/2026, Ca đoàn Giới trẻ Teresa cùng Cha phó đặc trách Giuse Lương Thanh Tùng và ông Phó Chủ tịch Toán đã về với miền Tử Nê, Bắc Ninh, thăm các em nhỏ ở Nhà tình thương Hương La và hiệp dâng Thánh lễ tại Giáo họ nơi đây trong những ngày cuối trước khi phải di dời để phục vụ cho dự án Sân bay Gia Bình.",
       "body": "Sáng Chúa Nhật ngày 02/08/2026, Ca đoàn Giới trẻ Teresa cùng Cha phó đặc trách Giuse Lương Thanh Tùng và ông Phó Chủ tịch Toán đã về với miền Tử Nê, Bắc Ninh, thăm các em nhỏ ở Nhà tình thương Hương La và hiệp dâng Thánh lễ tại Giáo họ nơi đây trong những ngày cuối trước khi phải di dời để phục vụ cho dự án Sân bay Gia Bình.\n\nCâu chuyện ở Hương La có lẽ chỉ có thể gọi gọn trong một chữ “thương”. Suốt hơn 1 thế kỷ qua, Nhà tình thương Hương La - nơi lưu giữ những câu chuyện về biết bao đời người, là mái ấm đầy tình yêu thương chở che biết bao phận người bé nhỏ và những em bé khuyết tật, mồ côi. Trong chuyến tới thăm, Ca đoàn đã trao tặng những phần quà đầy yêu thương tới các sơ, các dì và các em nhỏ. Mỗi phần quà được trao gửi là một phần tình yêu và hi vọng được gửi gắm, đây cũng là cơ hội để mỗi ca viên mang tình yêu của Chúa đến với những người bé nhỏ, cùng nhau \"làm cho Thiên Chúa được yêu mến.\"\n\nSau chuyến thăm Nhà tình thương, Ca đoàn tiếp tục phục vụ Thánh lễ tại Giáo họ Hương La và tới thăm Giáo xứ Tử Nê. Trong bối cảnh nơi đây chuẩn bị di dời, Thánh lễ hôm ấy mang một cảm thức thật đặc biệt. Có thể đó là một trong những lần cuối cùng cộng đoàn được cùng nhau quy tụ dưới ngôi thánh đường Hương La này.\n\nSau Thánh lễ, Ca đoàn tới cầu nguyện và đọc kinh trước chứng tích \"Giám mục hầm trú\" Thánh Valentino Ochoa Vinh, nơi từng ghi dấu những năm tháng Ngài từng ẩn náu và điều hành Giáo phận Trung Đàng Ngoài trong những năm tháng Giáo hội chịu bách hại dưới triều vua Tự Đức. Đứng trước chứng tích ấy, người ta không chỉ nhìn thấy một căn hầm hay một dấu tích của quá khứ. Nơi đây còn kể lại câu chuyện về một Giáo hội đã từng đi qua những năm tháng khắc nghiệt bằng lòng trung thành và đức tin. Và trong chuyến đi lần này, Ca đoàn Giới trẻ Teresa cũng trở thành một trong những đoàn hành hương cuối cùng được hiện diện và chiêm ngắm chứng tích lịch sử trước khi nơi đây phải nhường đất cho một dự án sân bay Gia Bình.\n\nTrên đường trở về, đi ngang qua những khu vực đang được phá dỡ, chỉ còn lại những bức tường dang dở và dấu tích của một thời đã qua, để lại trong lòng sự bùi ngùi đối với mỗi ca viên. Đất nước cần sự phát triển, song phía sau những đổi thay ấy lại là sự hy sinh của cả một vùng quê, cả một lịch sử họ đạo, họ lặng lẽ trao lại một phần ký ức thân thuộc nhất của mình để nhường chỗ cho tương lai của đất nước.",
-      "images": []
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/28792bdc8ab7be8f6e91ed7b/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/28792bdc8ab7be8f6e91ed7b/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/28792bdc8ab7be8f6e91ed7b/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/28792bdc8ab7be8f6e91ed7b/medium.webp",
+            "width": 1280,
+            "height": 853
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/28792bdc8ab7be8f6e91ed7b/original.webp",
+            "width": 2560,
+            "height": 1707
+          }
+        },
+        "alt": "Thiện nguyện Nhà tình thương Hương La",
+        "caption": "Thiện nguyện Nhà tình thương Hương La",
+        "sourceFilename": "ảnh bìa.cr2"
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 0,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3318ea79cd10d0e62889d3e7/original.webp"
+        },
+        {
+          "afterParagraph": 1,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/20813ad8680034c35f2e6a35/original.webp"
+        },
+        {
+          "afterParagraph": 2,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/252c6769ac83407033c6dcb5/original.webp"
+        }
+      ],
+      "album": {
+        "manifest": "data/albums/2026/2026-thien-nguyen-huong-la.json",
+        "count": 65,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/28792bdc8ab7be8f6e91ed7b/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/28792bdc8ab7be8f6e91ed7b/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/28792bdc8ab7be8f6e91ed7b/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/28792bdc8ab7be8f6e91ed7b/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/28792bdc8ab7be8f6e91ed7b/original.webp",
+                "width": 2560,
+                "height": 1707
+              }
+            },
+            "alt": "Thiện nguyện Nhà tình thương Hương La",
+            "caption": "Thiện nguyện Nhà tình thương Hương La",
+            "sourceFilename": "ảnh bìa.cr2"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3318ea79cd10d0e62889d3e7/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3318ea79cd10d0e62889d3e7/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3318ea79cd10d0e62889d3e7/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3318ea79cd10d0e62889d3e7/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3318ea79cd10d0e62889d3e7/original.webp",
+                "width": 2560,
+                "height": 1707
+              }
+            },
+            "alt": "Gặp gỡ các em tại Nhà tình thương Hương La",
+            "caption": "Gặp gỡ các em tại Nhà tình thương Hương La",
+            "sourceFilename": "thiện nguyện15.cr2"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/20813ad8680034c35f2e6a35/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/20813ad8680034c35f2e6a35/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/20813ad8680034c35f2e6a35/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/20813ad8680034c35f2e6a35/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/20813ad8680034c35f2e6a35/original.webp",
+                "width": 2560,
+                "height": 1707
+              }
+            },
+            "alt": "Ca viên thăm hỏi và trò chuyện cùng các em",
+            "caption": "Ca viên thăm hỏi và trò chuyện cùng các em",
+            "sourceFilename": "thiện nguyện18.cr2"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/252c6769ac83407033c6dcb5/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/252c6769ac83407033c6dcb5/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/252c6769ac83407033c6dcb5/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/252c6769ac83407033c6dcb5/medium.webp",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/252c6769ac83407033c6dcb5/original.webp",
+                "width": 2560,
+                "height": 1707
+              }
+            },
+            "alt": "Hiệp dâng Thánh lễ tại Hương La",
+            "caption": "Hiệp dâng Thánh lễ tại Hương La",
+            "sourceFilename": "thiện nguyện52.cr2"
+          }
+        ]
+      }
     },
     {
       "id": "2026-bau-ban-dieu-hanh",
@@ -373,7 +1355,118 @@
       "topic": "Cộng đoàn",
       "description": "Tối ngày 20/8/2026 tại phòng Mục vụ Di Dân Giáo xứ Thái Hà, Ca đoàn Giới trẻ Teresa đã tổ chức buổi họp kiện toàn Tân Trưởng Ca đoàn nhiệm kỳ 2026-2028. Buổi họp có sự hiện diện và đồng hành của Cha Đặc trách Vincent Trần Trí Tuệ, quý Ban Thường vụ HĐMV Gia đình Công giáo Xa quê Hà Nội cùng toàn thể anh chị em ca viên của ca đoàn.",
       "body": "Tối ngày 20/8/2026 tại phòng Mục vụ Di Dân Giáo xứ Thái Hà, Ca đoàn Giới trẻ Teresa đã tổ chức buổi họp kiện toàn Tân Trưởng Ca đoàn nhiệm kỳ 2026-2028. Buổi họp có sự hiện diện và đồng hành của Cha Đặc trách Vincent Trần Trí Tuệ, quý Ban Thường vụ HĐMV Gia đình Công giáo Xa quê Hà Nội cùng toàn thể anh chị em ca viên của ca đoàn.\n\nSau khi nhận được đa số biếu bầu tín nhiệm và được sự động viên của quý Cha, quý Ban Thường vụ, cựu Ban Điều hành, anh Phê-rô Đặng Trung Kiên đã nhận lời và chính thức trở thành tân trưởng ca đoàn nhiệm kỳ 2026-2028.\n\nĐây là dấu mốc quan trọng, mở ra một chặng đường mới với nhiều kỳ vọng nơi Ban Điều hành và toàn thể Ca đoàn. Nguyện xin Chúa Thánh Thần luôn soi sáng, hướng dẫn và ban thêm sức mạnh, lòng nhiệt thành cùng tinh thần phục vụ cho tân Ban Điều hành, để các anh chị có thể cộng tác cách quảng đại, dẫn dắt Ca đoàn ngày một hiệp nhất và phát triển.",
-      "images": []
+      "coverImage": {
+        "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/057f1fa2416f1b4fea312e99/original.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/057f1fa2416f1b4fea312e99/medium.webp",
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/057f1fa2416f1b4fea312e99/thumb.webp",
+            "width": 480,
+            "height": 320
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/057f1fa2416f1b4fea312e99/medium.webp",
+            "width": 1280,
+            "height": 854
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/057f1fa2416f1b4fea312e99/original.webp",
+            "width": 2560,
+            "height": 1708
+          }
+        },
+        "alt": "Bầu Ban Điều hành nhiệm kỳ 2026–2028",
+        "caption": "Bầu Ban Điều hành nhiệm kỳ 2026–2028",
+        "sourceFilename": "ảnh bìa.jpg"
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 0,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7f9b12bd6d25b2543d9624f0/original.webp"
+        },
+        {
+          "afterParagraph": 1,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8ebabfcfb535932cb962ad6a/original.webp"
+        }
+      ],
+      "album": {
+        "manifest": "data/albums/2026/2026-bau-ban-dieu-hanh.json",
+        "count": 30,
+        "preview": [
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/057f1fa2416f1b4fea312e99/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/057f1fa2416f1b4fea312e99/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/057f1fa2416f1b4fea312e99/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/057f1fa2416f1b4fea312e99/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/057f1fa2416f1b4fea312e99/original.webp",
+                "width": 2560,
+                "height": 1708
+              }
+            },
+            "alt": "Bầu Ban Điều hành nhiệm kỳ 2026–2028",
+            "caption": "Bầu Ban Điều hành nhiệm kỳ 2026–2028",
+            "sourceFilename": "ảnh bìa.jpg"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7f9b12bd6d25b2543d9624f0/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7f9b12bd6d25b2543d9624f0/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7f9b12bd6d25b2543d9624f0/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7f9b12bd6d25b2543d9624f0/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7f9b12bd6d25b2543d9624f0/original.webp",
+                "width": 2560,
+                "height": 1708
+              }
+            },
+            "alt": "Buổi họp kiện toàn Ban Điều hành",
+            "caption": "Buổi họp kiện toàn Ban Điều hành",
+            "sourceFilename": "NQK-7970.jpg"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8ebabfcfb535932cb962ad6a/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8ebabfcfb535932cb962ad6a/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8ebabfcfb535932cb962ad6a/thumb.webp",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8ebabfcfb535932cb962ad6a/medium.webp",
+                "width": 1280,
+                "height": 854
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8ebabfcfb535932cb962ad6a/original.webp",
+                "width": 2560,
+                "height": 1708
+              }
+            },
+            "alt": "Chia sẻ trong buổi họp của ca đoàn",
+            "caption": "Chia sẻ trong buổi họp của ca đoàn",
+            "sourceFilename": "NQK-7989.jpg"
+          }
+        ]
+      }
     }
   ],
   "achievements": [],

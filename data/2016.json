@@ -417,83 +417,98 @@
         "manifest": "data/albums/2016/2016-dong-chiem.json",
         "count": 16,
         "preview": [
+          "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/001.jpg",
           {
-            "id": "media/2016/dong-chiem/a91c3871583e80ee/original.jpg",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/a91c3871583e80ee/medium.jpg",
-            "alt": "Sinh hoạt chung trong chuyến tĩnh tâm Đồng Chiêm",
-            "caption": "Sinh hoạt chung trong chuyến tĩnh tâm Đồng Chiêm",
+            "id": "media/2016/dong-chiem/8c4d0a9bc5a1a9e4/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/8c4d0a9bc5a1a9e4/medium.jpg",
+            "alt": "Tĩnh tâm tại Giáo xứ Đồng Chiêm",
+            "caption": "Ca viên lắng nghe chia sẻ trong kỳ tĩnh tâm",
             "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm",
-            "sourceFilename": "1786532850191_1995884631902468284_7736263391661925970_7ba4512f34c16b409968191e62ac7345.jpg",
+            "sourceFilename": "1787136612231_1995884631902468284_7736263391661925970_e7bc029895202e00ef227fdd564e689b.jpg",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/a91c3871583e80ee/thumb.jpg",
-                "width": 480,
-                "height": 320
-              },
-              "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/a91c3871583e80ee/medium.jpg",
-                "width": 1280,
-                "height": 853
-              },
-              "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/a91c3871583e80ee/original.jpg",
-                "width": 1334,
-                "height": 889
-              }
-            }
-          },
-          {
-            "id": "media/2016/dong-chiem/992356dcd63ca62e/original.jpg",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/992356dcd63ca62e/medium.jpg",
-            "alt": "Các ca viên gặp gỡ và chia sẻ",
-            "caption": "Các ca viên gặp gỡ và chia sẻ",
-            "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm",
-            "sourceFilename": "1787136612255_1995884631902468284_7736263391661925970_0228176197eb2b017b690e32da77eafc.jpg",
-            "variants": {
-              "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/992356dcd63ca62e/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/8c4d0a9bc5a1a9e4/thumb.jpg",
                 "width": 480,
                 "height": 360
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/992356dcd63ca62e/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/8c4d0a9bc5a1a9e4/medium.jpg",
                 "width": 960,
                 "height": 720
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/992356dcd63ca62e/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/8c4d0a9bc5a1a9e4/original.jpg",
                 "width": 960,
                 "height": 720
               }
             }
           },
           {
-            "id": "media/2016/dong-chiem/f2cb316b67d9a6d0/original.jpg",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/f2cb316b67d9a6d0/medium.jpg",
-            "alt": "Sinh hoạt gắn kết trong ngày tĩnh tâm",
-            "caption": "Sinh hoạt gắn kết trong ngày tĩnh tâm",
+            "id": "media/2016/dong-chiem/ceb37657debfd79e/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/ceb37657debfd79e/medium.jpg",
+            "alt": "Tĩnh tâm tại Giáo xứ Đồng Chiêm",
+            "caption": "Ca đoàn tại Giáo xứ Đồng Chiêm",
             "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm",
-            "sourceFilename": "1787136612295_1995884631902468284_7736263391661925970_aa54cb0988efbd16e4fa44345f068d4f.jpg",
+            "sourceFilename": "1787136612079_1995884631902468284_7736263391661925970_b7d26864cc3d29dae97472fb2b6d07b7.jpg",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/f2cb316b67d9a6d0/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/ceb37657debfd79e/thumb.jpg",
                 "width": 480,
-                "height": 480
+                "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/f2cb316b67d9a6d0/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/ceb37657debfd79e/medium.jpg",
                 "width": 960,
-                "height": 960
+                "height": 640
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/f2cb316b67d9a6d0/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/ceb37657debfd79e/original.jpg",
                 "width": 960,
-                "height": 960
+                "height": 640
+              }
+            }
+          },
+          {
+            "id": "media/2016/dong-chiem/5bdb309fb0b192b5/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/5bdb309fb0b192b5/medium.jpg",
+            "alt": "Tĩnh tâm tại Giáo xứ Đồng Chiêm",
+            "caption": "Giờ cầu nguyện trong chuyến tĩnh tâm",
+            "event": "Tĩnh tâm tại Giáo xứ Đồng Chiêm",
+            "sourceFilename": "1787136612129_1995884631902468284_7736263391661925970_59c4743256591dc0ed29c0409e3895b7.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/5bdb309fb0b192b5/thumb.jpg",
+                "width": 480,
+                "height": 270
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/5bdb309fb0b192b5/medium.jpg",
+                "width": 960,
+                "height": 540
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2016/dong-chiem/5bdb309fb0b192b5/original.jpg",
+                "width": 960,
+                "height": 540
               }
             }
           }
         ]
-      }
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 0,
+          "photoId": "media/2016/dong-chiem/8c4d0a9bc5a1a9e4/original.jpg"
+        },
+        {
+          "afterParagraph": 0,
+          "photoId": "media/2016/dong-chiem/ceb37657debfd79e/original.jpg"
+        },
+        {
+          "afterParagraph": 0,
+          "photoId": "media/2016/dong-chiem/5bdb309fb0b192b5/original.jpg"
+        }
+      ]
     },
     {
       "id": "2016-scripture",

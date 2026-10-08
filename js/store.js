@@ -10,6 +10,7 @@
   const YEAR_MAX = Number(Schema.maxYear?.() || Math.max(2027, new Date().getFullYear() + 1));
   const DB_NAME = "teresa-youth-choir-cache";
   const DB_VERSION = 4;
+  const CACHE_RELEASE = "archive-2026-20261008";
   const CACHE_FRESH_MS = 5 * 60 * 1000;
   const CACHE_STALE_MS = 30 * 24 * 60 * 60 * 1000;
   const CACHE_REFRESH_WINDOW_MS = 60 * 60 * 1000;
@@ -100,7 +101,7 @@
   }
 
   const age = (record) => Date.now() - new Date(record?.updatedAt || 0).getTime();
-  const isFresh = (record) => Boolean(record?.data && age(record) < CACHE_FRESH_MS);
+  const isFresh = (record) => Boolean(record?.data && record.release === CACHE_RELEASE && age(record) < CACHE_FRESH_MS);
   const isUsable = (record) => Boolean(record?.data && age(record) < CACHE_STALE_MS);
 
   function refreshPublished(key, loader) {
@@ -163,14 +164,14 @@
     const memory = memoryCache.get(key);
     if (!options.force && isFresh(memory)) return normalizeIndex(memory.data);
     const cached = memory || await readPublicCache("index", key);
-    if (!options.force && isUsable(cached) && age(cached) < CACHE_REFRESH_WINDOW_MS) {
+    if (!options.force && isUsable(cached) && cached.release === CACHE_RELEASE && age(cached) < CACHE_REFRESH_WINDOW_MS) {
       memoryCache.set(key, cached);
       if (!isFresh(cached)) refreshPublished(key, () => loadIndex({ force: true }));
       return normalizeIndex(cached.data);
     }
     try {
       const data = normalizeIndex(await fetchJson("data/index.json"));
-      const record = { id: key, data, updatedAt: new Date().toISOString() };
+      const record = { id: key, data, release: CACHE_RELEASE, updatedAt: new Date().toISOString() };
       memoryCache.set(key, record);
       // Cache persistence is best effort; rendering must not wait for a disk write.
       void safeStore("index", "readwrite", (store) => store.put(record));
@@ -195,14 +196,14 @@
     const memory = memoryCache.get(key);
     if (!options.force && isFresh(memory)) return normalizeYear(memory.data);
     const cached = memory || await readPublicCache("years", numericYear);
-    if (!options.force && isUsable(cached) && age(cached) < CACHE_REFRESH_WINDOW_MS) {
+    if (!options.force && isUsable(cached) && cached.release === CACHE_RELEASE && age(cached) < CACHE_REFRESH_WINDOW_MS) {
       memoryCache.set(key, cached);
       if (!isFresh(cached)) refreshPublished(key, () => loadYear(numericYear, { force: true }));
       return normalizeYear(cached.data);
     }
     try {
       const data = normalizeYear(await fetchJson(`data/${numericYear}.json`));
-      const record = { year: numericYear, data, updatedAt: new Date().toISOString() };
+      const record = { year: numericYear, data, release: CACHE_RELEASE, updatedAt: new Date().toISOString() };
       memoryCache.set(key, record);
       void safeStore("years", "readwrite", (store) => store.put(record));
       return data;
@@ -223,7 +224,7 @@
     const memory = memoryCache.get(`album:${id}`);
     if (!options.force && isFresh(memory)) return memory.data.images || [];
     const cached = memory || await readPublicCache("albums", id);
-    if (!options.force && isUsable(cached) && age(cached) < CACHE_REFRESH_WINDOW_MS) {
+    if (!options.force && isUsable(cached) && cached.release === CACHE_RELEASE && age(cached) < CACHE_REFRESH_WINDOW_MS) {
       memoryCache.set(`album:${id}`, cached);
       if (!isFresh(cached)) refreshPublished(`album:${id}`, () => loadAlbum(year, activityOrAlbum, { force: true }));
       return cached.data.images || [];
@@ -231,7 +232,7 @@
     try {
       const data = await fetchJson(album.manifest);
       const images = (data.images || []).map((item) => Schema.normalizeMedia ? Schema.normalizeMedia(item) : item);
-      const record = { id, data: { ...data, images }, updatedAt: new Date().toISOString() };
+      const record = { id, data: { ...data, images }, release: CACHE_RELEASE, updatedAt: new Date().toISOString() };
       memoryCache.set(`album:${id}`, record);
       void safeStore("albums", "readwrite", (store) => store.put(record));
       return images;
@@ -273,7 +274,7 @@
     const response = await api(`/api/years/${numericYear}`);
     const data = normalizeYear(response.data);
     Object.defineProperty(data, "_revision", { value: response.revision || "", writable: true, enumerable: false, configurable: true });
-    const record = { year: numericYear, data, updatedAt: new Date().toISOString() };
+    const record = { year: numericYear, data, release: CACHE_RELEASE, updatedAt: new Date().toISOString() };
     memoryCache.set(`year:${numericYear}`, record);
     await safeStore("years", "readwrite", (store) => store.put(record));
     return data;

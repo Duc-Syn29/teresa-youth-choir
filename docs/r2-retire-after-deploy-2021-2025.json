@@ -1,6 +1,6 @@
 {
-  "deleted": false,
-  "reason": "Ảnh cũ có thể còn được web đang triển khai hoặc bản nháp tham chiếu. Chỉ dọn sau khi triển khai và đối chiếu toàn bộ tham chiếu.",
+  "deleted": true,
+  "reason": "Đã đối chiếu toàn bộ JSON trên website chính thức, kiểm tra mobile/desktop và xoá theo yêu cầu chủ dự án. Không giữ bản sao ảnh theo yêu cầu.",
   "candidateCount": 2139,
   "urls": [
     "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2021/duc-chinh-anh-nguyet/02/medium.jpg",
@@ -2142,5 +2142,11 @@
     "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/tinh-tam-tu-chau/591864922dc4eb7d/medium.jpg",
     "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/tinh-tam-tu-chau/591864922dc4eb7d/thumb.jpg",
     "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2025/tinh-tam-tu-chau/591864922dc4eb7d/original.jpg"
-  ]
+  ],
+  "deletedCount": 2139,
+  "verifiedAt": "2026-10-07T05:19:29.557Z",
+  "bytesRemoved": 1205638605,
+  "remainingObjects": 4878,
+  "referencedObjectsRetained": 4765,
+  "backupImagesRetained": false
 }

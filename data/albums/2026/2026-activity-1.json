@@ -1,0 +1,1281 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "activityId": "2026-activity-1",
+  "title": "Hoà nhạc Phục Sinh Exsultet",
+  "count": 53,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ec45c3ab2abdbac36adfc20c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ec45c3ab2abdbac36adfc20c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ec45c3ab2abdbac36adfc20c/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ec45c3ab2abdbac36adfc20c/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ec45c3ab2abdbac36adfc20c/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc1.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8ef12c04cdac8d029905123e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8ef12c04cdac8d029905123e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8ef12c04cdac8d029905123e/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8ef12c04cdac8d029905123e/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8ef12c04cdac8d029905123e/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc2.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2b6c6f5e7da2418abd7a6b39/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2b6c6f5e7da2418abd7a6b39/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2b6c6f5e7da2418abd7a6b39/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2b6c6f5e7da2418abd7a6b39/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2b6c6f5e7da2418abd7a6b39/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc3.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9ae3384dd1447477c3bd1df1/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9ae3384dd1447477c3bd1df1/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9ae3384dd1447477c3bd1df1/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9ae3384dd1447477c3bd1df1/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9ae3384dd1447477c3bd1df1/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc4.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/90396ba796eac0c235709656/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/90396ba796eac0c235709656/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/90396ba796eac0c235709656/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/90396ba796eac0c235709656/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/90396ba796eac0c235709656/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Toàn cảnh đêm hoà nhạc Exsultet",
+      "caption": "Toàn cảnh đêm hoà nhạc Exsultet",
+      "sourceFilename": "hoà nhạc5.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/037c4e3722812b232cc4e1e1/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/037c4e3722812b232cc4e1e1/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/037c4e3722812b232cc4e1e1/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/037c4e3722812b232cc4e1e1/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/037c4e3722812b232cc4e1e1/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc8.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/dd4dc17dba4c7a0e9a6509f0/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/dd4dc17dba4c7a0e9a6509f0/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/dd4dc17dba4c7a0e9a6509f0/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/dd4dc17dba4c7a0e9a6509f0/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/dd4dc17dba4c7a0e9a6509f0/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc9.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b2c5c987b4351675a071108c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b2c5c987b4351675a071108c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b2c5c987b4351675a071108c/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b2c5c987b4351675a071108c/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b2c5c987b4351675a071108c/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc10.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/51916bc5f3e9f011cfb4feb4/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/51916bc5f3e9f011cfb4feb4/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/51916bc5f3e9f011cfb4feb4/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/51916bc5f3e9f011cfb4feb4/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/51916bc5f3e9f011cfb4feb4/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc11.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/526a11c42f537b6cce601d62/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/526a11c42f537b6cce601d62/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/526a11c42f537b6cce601d62/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/526a11c42f537b6cce601d62/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/526a11c42f537b6cce601d62/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc12.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a194d47c96df24ac3bba4fd2/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a194d47c96df24ac3bba4fd2/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a194d47c96df24ac3bba4fd2/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a194d47c96df24ac3bba4fd2/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a194d47c96df24ac3bba4fd2/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc13.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/66394b8207fd7e8f9e325063/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/66394b8207fd7e8f9e325063/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/66394b8207fd7e8f9e325063/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/66394b8207fd7e8f9e325063/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/66394b8207fd7e8f9e325063/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc14.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/138ea4bb7f973f4ae51e48a1/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/138ea4bb7f973f4ae51e48a1/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/138ea4bb7f973f4ae51e48a1/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/138ea4bb7f973f4ae51e48a1/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/138ea4bb7f973f4ae51e48a1/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc15.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e40d9f351857349fa28d1e82/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e40d9f351857349fa28d1e82/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e40d9f351857349fa28d1e82/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e40d9f351857349fa28d1e82/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e40d9f351857349fa28d1e82/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc16.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b8c8ab9af798e4fafc4d293f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b8c8ab9af798e4fafc4d293f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b8c8ab9af798e4fafc4d293f/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b8c8ab9af798e4fafc4d293f/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b8c8ab9af798e4fafc4d293f/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc17.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a5fc1fe5b99abb358bcd6ab6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a5fc1fe5b99abb358bcd6ab6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a5fc1fe5b99abb358bcd6ab6/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a5fc1fe5b99abb358bcd6ab6/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a5fc1fe5b99abb358bcd6ab6/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc18.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b5f174cb6f8f241b6800a58e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b5f174cb6f8f241b6800a58e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b5f174cb6f8f241b6800a58e/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b5f174cb6f8f241b6800a58e/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b5f174cb6f8f241b6800a58e/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Ca viên cất lời ca trong đêm hoà nhạc",
+      "caption": "Ca viên cất lời ca trong đêm hoà nhạc",
+      "sourceFilename": "hoà nhạc19.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2e7eac6626899dc03e5fd4ad/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2e7eac6626899dc03e5fd4ad/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2e7eac6626899dc03e5fd4ad/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2e7eac6626899dc03e5fd4ad/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2e7eac6626899dc03e5fd4ad/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc20.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/60674396d30e9cd16bae8396/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/60674396d30e9cd16bae8396/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/60674396d30e9cd16bae8396/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/60674396d30e9cd16bae8396/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/60674396d30e9cd16bae8396/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc21.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d7505de8466f2db4238a5794/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d7505de8466f2db4238a5794/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d7505de8466f2db4238a5794/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d7505de8466f2db4238a5794/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d7505de8466f2db4238a5794/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc22.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/081d205e4c2c192bd178888f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/081d205e4c2c192bd178888f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/081d205e4c2c192bd178888f/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/081d205e4c2c192bd178888f/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/081d205e4c2c192bd178888f/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc23.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c5a8d6df0f58196773ae0076/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c5a8d6df0f58196773ae0076/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c5a8d6df0f58196773ae0076/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c5a8d6df0f58196773ae0076/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/c5a8d6df0f58196773ae0076/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc24.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8a583fa23f98956a76958b5c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8a583fa23f98956a76958b5c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8a583fa23f98956a76958b5c/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8a583fa23f98956a76958b5c/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8a583fa23f98956a76958b5c/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc25.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/83af489dda9c29903a61c309/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/83af489dda9c29903a61c309/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/83af489dda9c29903a61c309/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/83af489dda9c29903a61c309/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/83af489dda9c29903a61c309/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc26.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5a0271740e32c00364234445/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5a0271740e32c00364234445/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5a0271740e32c00364234445/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5a0271740e32c00364234445/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5a0271740e32c00364234445/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc27.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7049a4ac6b3a0d073c7d8e7c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7049a4ac6b3a0d073c7d8e7c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7049a4ac6b3a0d073c7d8e7c/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7049a4ac6b3a0d073c7d8e7c/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7049a4ac6b3a0d073c7d8e7c/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc28.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e67c458dab0558449df960a8/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e67c458dab0558449df960a8/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e67c458dab0558449df960a8/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e67c458dab0558449df960a8/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/e67c458dab0558449df960a8/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc29.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6fc98eda0dacdf8b2f5f7f54/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6fc98eda0dacdf8b2f5f7f54/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6fc98eda0dacdf8b2f5f7f54/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6fc98eda0dacdf8b2f5f7f54/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6fc98eda0dacdf8b2f5f7f54/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc30.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7e354570e42952c475d3ddf2/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7e354570e42952c475d3ddf2/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7e354570e42952c475d3ddf2/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7e354570e42952c475d3ddf2/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7e354570e42952c475d3ddf2/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc31.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ad7973ab068bbae1ea3a9c1e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ad7973ab068bbae1ea3a9c1e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ad7973ab068bbae1ea3a9c1e/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ad7973ab068bbae1ea3a9c1e/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ad7973ab068bbae1ea3a9c1e/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc32.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/60746407765c3b0ba6c1791b/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/60746407765c3b0ba6c1791b/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/60746407765c3b0ba6c1791b/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/60746407765c3b0ba6c1791b/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/60746407765c3b0ba6c1791b/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc33.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/05f72c30a495136048792822/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/05f72c30a495136048792822/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/05f72c30a495136048792822/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/05f72c30a495136048792822/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/05f72c30a495136048792822/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc34.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d495199773d4366105b3ce61/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d495199773d4366105b3ce61/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d495199773d4366105b3ce61/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d495199773d4366105b3ce61/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d495199773d4366105b3ce61/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc35.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8c737e812a79f315ff10c24d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8c737e812a79f315ff10c24d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8c737e812a79f315ff10c24d/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8c737e812a79f315ff10c24d/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8c737e812a79f315ff10c24d/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc36.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5da3bba2e7cf3513eeaf7c7e/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5da3bba2e7cf3513eeaf7c7e/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5da3bba2e7cf3513eeaf7c7e/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5da3bba2e7cf3513eeaf7c7e/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5da3bba2e7cf3513eeaf7c7e/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc37.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bed4656ee3bd6ad6a4865e63/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bed4656ee3bd6ad6a4865e63/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bed4656ee3bd6ad6a4865e63/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bed4656ee3bd6ad6a4865e63/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/bed4656ee3bd6ad6a4865e63/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc38.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8800dd5bcb54f61dfc30e84d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8800dd5bcb54f61dfc30e84d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8800dd5bcb54f61dfc30e84d/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8800dd5bcb54f61dfc30e84d/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8800dd5bcb54f61dfc30e84d/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc39.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2e654234c937f8efa0603129/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2e654234c937f8efa0603129/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2e654234c937f8efa0603129/thumb.webp",
+          "width": 480,
+          "height": 319
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2e654234c937f8efa0603129/medium.webp",
+          "width": 1280,
+          "height": 852
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2e654234c937f8efa0603129/original.webp",
+          "width": 2560,
+          "height": 1703
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc40.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8d669e00269cf3b7136e5790/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8d669e00269cf3b7136e5790/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8d669e00269cf3b7136e5790/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8d669e00269cf3b7136e5790/medium.webp",
+          "width": 1280,
+          "height": 854
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8d669e00269cf3b7136e5790/original.webp",
+          "width": 2560,
+          "height": 1708
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc41.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9b4d2b7e3fff38f8b3135464/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9b4d2b7e3fff38f8b3135464/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9b4d2b7e3fff38f8b3135464/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9b4d2b7e3fff38f8b3135464/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9b4d2b7e3fff38f8b3135464/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc42.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0817d224d9af352d0d5c56a9/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0817d224d9af352d0d5c56a9/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0817d224d9af352d0d5c56a9/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0817d224d9af352d0d5c56a9/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/0817d224d9af352d0d5c56a9/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc43.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8557e3528e9f5603ffbd2274/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8557e3528e9f5603ffbd2274/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8557e3528e9f5603ffbd2274/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8557e3528e9f5603ffbd2274/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8557e3528e9f5603ffbd2274/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc44.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7ea686d0e87c9860061f6933/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7ea686d0e87c9860061f6933/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7ea686d0e87c9860061f6933/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7ea686d0e87c9860061f6933/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/7ea686d0e87c9860061f6933/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc45.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/55f384fcc1aa139f46b4d57c/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/55f384fcc1aa139f46b4d57c/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/55f384fcc1aa139f46b4d57c/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/55f384fcc1aa139f46b4d57c/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/55f384fcc1aa139f46b4d57c/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc46.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2cbc2106f0eb9fb0f4842c5a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2cbc2106f0eb9fb0f4842c5a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2cbc2106f0eb9fb0f4842c5a/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2cbc2106f0eb9fb0f4842c5a/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/2cbc2106f0eb9fb0f4842c5a/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc47.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ceb0440c575cf2cdf90d2225/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ceb0440c575cf2cdf90d2225/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ceb0440c575cf2cdf90d2225/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ceb0440c575cf2cdf90d2225/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ceb0440c575cf2cdf90d2225/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc48.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1d2eb1ca771dca6c672b7f01/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1d2eb1ca771dca6c672b7f01/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1d2eb1ca771dca6c672b7f01/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1d2eb1ca771dca6c672b7f01/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1d2eb1ca771dca6c672b7f01/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc49.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/86beda37d3672f26cfd98c83/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/86beda37d3672f26cfd98c83/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/86beda37d3672f26cfd98c83/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/86beda37d3672f26cfd98c83/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/86beda37d3672f26cfd98c83/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc50.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3f0d5325ee521f2c190e7d07/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3f0d5325ee521f2c190e7d07/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3f0d5325ee521f2c190e7d07/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3f0d5325ee521f2c190e7d07/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3f0d5325ee521f2c190e7d07/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc51.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5ad099c3f5be1fb8a10b95f3/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5ad099c3f5be1fb8a10b95f3/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5ad099c3f5be1fb8a10b95f3/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5ad099c3f5be1fb8a10b95f3/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5ad099c3f5be1fb8a10b95f3/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc52.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6c23547833f4e1d94da4e6b6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6c23547833f4e1d94da4e6b6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6c23547833f4e1d94da4e6b6/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6c23547833f4e1d94da4e6b6/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6c23547833f4e1d94da4e6b6/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "hoà nhạc53.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1222f37ba78c62c8ee4fa99b/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1222f37ba78c62c8ee4fa99b/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1222f37ba78c62c8ee4fa99b/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1222f37ba78c62c8ee4fa99b/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/1222f37ba78c62c8ee4fa99b/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Khán thính giả cùng lắng nghe đêm nhạc",
+      "caption": "Khán thính giả cùng lắng nghe đêm nhạc",
+      "sourceFilename": "hoà nhạc54.jpg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/652eaaee93eb66cc50ba1210/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/652eaaee93eb66cc50ba1210/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/652eaaee93eb66cc50ba1210/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/652eaaee93eb66cc50ba1210/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/652eaaee93eb66cc50ba1210/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hoà nhạc Phục Sinh Exsultet",
+      "caption": "Hoà nhạc Phục Sinh Exsultet",
+      "sourceFilename": "ảnh bìa.jpg"
+    }
+  ]
+}

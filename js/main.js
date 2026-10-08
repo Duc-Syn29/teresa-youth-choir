@@ -414,8 +414,9 @@
         years.length,
         years.reduce((total, item) => total + Math.max(0, Number(item.members?.total || 0)), 0),
         years.reduce((total, item) => total + (item.events || []).length, 0),
+        years.reduce((total, item) => total + (item.events || []).length, 0),
       ];
-      counters.slice(0, 3).forEach((counter, position) => {
+      counters.slice(0, 4).forEach((counter, position) => {
         if (!Number.isFinite(values[position]) || values[position] <= 0) return;
         counter.dataset.target = String(values[position]);
         counter.textContent = "0";

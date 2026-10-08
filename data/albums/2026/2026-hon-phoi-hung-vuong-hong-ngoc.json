@@ -1,0 +1,609 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "activityId": "2026-hon-phoi-hung-vuong-hong-ngoc",
+  "title": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+  "count": 25,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59ed15500bbed826acd4b159/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59ed15500bbed826acd4b159/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59ed15500bbed826acd4b159/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59ed15500bbed826acd4b159/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59ed15500bbed826acd4b159/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh bìa.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6770f67d60baf4eaf09d847d/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6770f67d60baf4eaf09d847d/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6770f67d60baf4eaf09d847d/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6770f67d60baf4eaf09d847d/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6770f67d60baf4eaf09d847d/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới1.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/944dd84942693232d12f09c4/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/944dd84942693232d12f09c4/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/944dd84942693232d12f09c4/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/944dd84942693232d12f09c4/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/944dd84942693232d12f09c4/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới2.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/959c3d67c7729fa3b270d589/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/959c3d67c7729fa3b270d589/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/959c3d67c7729fa3b270d589/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/959c3d67c7729fa3b270d589/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/959c3d67c7729fa3b270d589/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới3.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/97eb09a85e4f49a5c53f684b/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/97eb09a85e4f49a5c53f684b/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/97eb09a85e4f49a5c53f684b/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/97eb09a85e4f49a5c53f684b/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/97eb09a85e4f49a5c53f684b/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới4.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d2e3680618638435b6a51188/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d2e3680618638435b6a51188/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d2e3680618638435b6a51188/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d2e3680618638435b6a51188/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d2e3680618638435b6a51188/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới5.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/279734e7811ce5c27ff827f1/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/279734e7811ce5c27ff827f1/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/279734e7811ce5c27ff827f1/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/279734e7811ce5c27ff827f1/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/279734e7811ce5c27ff827f1/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới6.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3926c3e6ec810d09d778b9f0/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3926c3e6ec810d09d778b9f0/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3926c3e6ec810d09d778b9f0/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3926c3e6ec810d09d778b9f0/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/3926c3e6ec810d09d778b9f0/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới7.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/95d842fcc13aa7329fddc753/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/95d842fcc13aa7329fddc753/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/95d842fcc13aa7329fddc753/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/95d842fcc13aa7329fddc753/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/95d842fcc13aa7329fddc753/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới8.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d31a11ce339d2e23e978952f/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d31a11ce339d2e23e978952f/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d31a11ce339d2e23e978952f/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d31a11ce339d2e23e978952f/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d31a11ce339d2e23e978952f/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới9.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/998837aa6334fe960af8ceba/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/998837aa6334fe960af8ceba/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/998837aa6334fe960af8ceba/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/998837aa6334fe960af8ceba/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/998837aa6334fe960af8ceba/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới10.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8aa286030bd26dfe4a6ef935/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8aa286030bd26dfe4a6ef935/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8aa286030bd26dfe4a6ef935/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8aa286030bd26dfe4a6ef935/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/8aa286030bd26dfe4a6ef935/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới11.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5dced57f7500c5cd9ed5bb63/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5dced57f7500c5cd9ed5bb63/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5dced57f7500c5cd9ed5bb63/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5dced57f7500c5cd9ed5bb63/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5dced57f7500c5cd9ed5bb63/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới12.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/efd4f280fa9380fe2e1bb177/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/efd4f280fa9380fe2e1bb177/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/efd4f280fa9380fe2e1bb177/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/efd4f280fa9380fe2e1bb177/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/efd4f280fa9380fe2e1bb177/original.webp",
+          "width": 2560,
+          "height": 1706
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới13.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f767750ebcddc641f65782eb/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f767750ebcddc641f65782eb/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f767750ebcddc641f65782eb/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f767750ebcddc641f65782eb/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/f767750ebcddc641f65782eb/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới14.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9fb4dd8cfc39112f3a7029b1/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9fb4dd8cfc39112f3a7029b1/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9fb4dd8cfc39112f3a7029b1/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9fb4dd8cfc39112f3a7029b1/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9fb4dd8cfc39112f3a7029b1/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới15.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ced920b3cb17d38f5285fb36/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ced920b3cb17d38f5285fb36/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ced920b3cb17d38f5285fb36/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ced920b3cb17d38f5285fb36/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/ced920b3cb17d38f5285fb36/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới16.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/68e8bcac3cd8e4d30a89ffc8/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/68e8bcac3cd8e4d30a89ffc8/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/68e8bcac3cd8e4d30a89ffc8/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/68e8bcac3cd8e4d30a89ffc8/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/68e8bcac3cd8e4d30a89ffc8/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới17.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b189549225f2271f1fd57bc6/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b189549225f2271f1fd57bc6/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b189549225f2271f1fd57bc6/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b189549225f2271f1fd57bc6/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b189549225f2271f1fd57bc6/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới18.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5b7c088099855cd721cbb167/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5b7c088099855cd721cbb167/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5b7c088099855cd721cbb167/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5b7c088099855cd721cbb167/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/5b7c088099855cd721cbb167/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới19.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/801386fe06ecb757eb18699a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/801386fe06ecb757eb18699a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/801386fe06ecb757eb18699a/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/801386fe06ecb757eb18699a/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/801386fe06ecb757eb18699a/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới21.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/44f1578c0e64bb0d89fa9e58/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/44f1578c0e64bb0d89fa9e58/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/44f1578c0e64bb0d89fa9e58/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/44f1578c0e64bb0d89fa9e58/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/44f1578c0e64bb0d89fa9e58/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới22.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/05a664a92599952af9b395f2/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/05a664a92599952af9b395f2/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/05a664a92599952af9b395f2/thumb.webp",
+          "width": 320,
+          "height": 480
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/05a664a92599952af9b395f2/medium.webp",
+          "width": 853,
+          "height": 1280
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/05a664a92599952af9b395f2/original.webp",
+          "width": 1707,
+          "height": 2560
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới23.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/22f22ba05c69cd4185323239/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/22f22ba05c69cd4185323239/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/22f22ba05c69cd4185323239/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/22f22ba05c69cd4185323239/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/22f22ba05c69cd4185323239/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "caption": "Thánh lễ Hôn phối Hùng Vương – Hồng Ngọc",
+      "sourceFilename": "ảnh cưới24.JPG"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b8302c21549f126437667cf7/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b8302c21549f126437667cf7/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b8302c21549f126437667cf7/thumb.webp",
+          "width": 480,
+          "height": 320
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b8302c21549f126437667cf7/medium.webp",
+          "width": 1280,
+          "height": 853
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/b8302c21549f126437667cf7/original.webp",
+          "width": 2560,
+          "height": 1707
+        }
+      },
+      "alt": "Hùng Vương – Hồng Ngọc trong Thánh lễ Hôn phối",
+      "caption": "Hùng Vương – Hồng Ngọc trong Thánh lễ Hôn phối",
+      "sourceFilename": "ảnh cưới25.JPG"
+    }
+  ]
+}

@@ -3,34 +3,8 @@
   "year": 2024,
   "activityId": "2024-dong-am-na-ri",
   "title": "Đông Ấm Na Rì",
-  "count": 196,
+  "count": 185,
   "images": [
-    {
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/95c8bab7fb8cc8c8c2fbddfa/original.webp",
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/95c8bab7fb8cc8c8c2fbddfa/medium.webp",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/95c8bab7fb8cc8c8c2fbddfa/thumb.webp",
-          "width": 480,
-          "height": 320
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/95c8bab7fb8cc8c8c2fbddfa/medium.webp",
-          "width": 1280,
-          "height": 853
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/95c8bab7fb8cc8c8c2fbddfa/original.webp",
-          "width": 2560,
-          "height": 1706
-        }
-      },
-      "alt": "Đông Ấm Na Rì",
-      "caption": "Đông Ấm Na Rì",
-      "event": "Đông Ấm Na Rì",
-      "sourceFilename": "ảnh bìa.JPG",
-      "sourceDirectory": "Đông ấm Na Rì"
-    },
     {
       "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/140673899372e2ee2aca64b9/original.webp",
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/140673899372e2ee2aca64b9/medium.webp",
@@ -136,58 +110,6 @@
       "sourceDirectory": "Đông ấm Na Rì"
     },
     {
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/f82a9c79f6d3d7ddf1abaaab/original.webp",
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/f82a9c79f6d3d7ddf1abaaab/medium.webp",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/f82a9c79f6d3d7ddf1abaaab/thumb.webp",
-          "width": 480,
-          "height": 270
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/f82a9c79f6d3d7ddf1abaaab/medium.webp",
-          "width": 1280,
-          "height": 720
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/f82a9c79f6d3d7ddf1abaaab/original.webp",
-          "width": 2048,
-          "height": 1152
-        }
-      },
-      "alt": "Đông Ấm Na Rì",
-      "caption": "Đông Ấm Na Rì",
-      "event": "Đông Ấm Na Rì",
-      "sourceFilename": "thiện nguyện5.jpg",
-      "sourceDirectory": "Đông ấm Na Rì"
-    },
-    {
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/cb848513ba471b12b0845756/original.webp",
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/cb848513ba471b12b0845756/medium.webp",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/cb848513ba471b12b0845756/thumb.webp",
-          "width": 480,
-          "height": 229
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/cb848513ba471b12b0845756/medium.webp",
-          "width": 1280,
-          "height": 610
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/cb848513ba471b12b0845756/original.webp",
-          "width": 1344,
-          "height": 640
-        }
-      },
-      "alt": "Đông Ấm Na Rì",
-      "caption": "Đông Ấm Na Rì",
-      "event": "Đông Ấm Na Rì",
-      "sourceFilename": "thiện nguyện6.jpg",
-      "sourceDirectory": "Đông ấm Na Rì"
-    },
-    {
       "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/83f38f7f7315dba1ac86fa30/original.webp",
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/83f38f7f7315dba1ac86fa30/medium.webp",
       "variants": {
@@ -211,58 +133,6 @@
       "caption": "Đông Ấm Na Rì",
       "event": "Đông Ấm Na Rì",
       "sourceFilename": "thiện nguyện7.jpg",
-      "sourceDirectory": "Đông ấm Na Rì"
-    },
-    {
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/c053c0a6fbff0b93d47e9bce/original.webp",
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/c053c0a6fbff0b93d47e9bce/medium.webp",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/c053c0a6fbff0b93d47e9bce/thumb.webp",
-          "width": 480,
-          "height": 270
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/c053c0a6fbff0b93d47e9bce/medium.webp",
-          "width": 1280,
-          "height": 720
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/c053c0a6fbff0b93d47e9bce/original.webp",
-          "width": 2048,
-          "height": 1152
-        }
-      },
-      "alt": "Đông Ấm Na Rì",
-      "caption": "Đông Ấm Na Rì",
-      "event": "Đông Ấm Na Rì",
-      "sourceFilename": "thiện nguyện8.jpg",
-      "sourceDirectory": "Đông ấm Na Rì"
-    },
-    {
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4d81ad9be9346ec08a84eced/original.webp",
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4d81ad9be9346ec08a84eced/medium.webp",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4d81ad9be9346ec08a84eced/thumb.webp",
-          "width": 480,
-          "height": 270
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4d81ad9be9346ec08a84eced/medium.webp",
-          "width": 1280,
-          "height": 720
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/4d81ad9be9346ec08a84eced/original.webp",
-          "width": 2048,
-          "height": 1152
-        }
-      },
-      "alt": "Đông Ấm Na Rì",
-      "caption": "Đông Ấm Na Rì",
-      "event": "Đông Ấm Na Rì",
-      "sourceFilename": "thiện nguyện9.jpg",
       "sourceDirectory": "Đông ấm Na Rì"
     },
     {
@@ -315,58 +185,6 @@
       "caption": "Đông Ấm Na Rì",
       "event": "Đông Ấm Na Rì",
       "sourceFilename": "thiện nguyện11.jpg",
-      "sourceDirectory": "Đông ấm Na Rì"
-    },
-    {
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/296447d0027d8f54fbd1cf65/original.webp",
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/296447d0027d8f54fbd1cf65/medium.webp",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/296447d0027d8f54fbd1cf65/thumb.webp",
-          "width": 480,
-          "height": 228
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/296447d0027d8f54fbd1cf65/medium.webp",
-          "width": 1280,
-          "height": 607
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/296447d0027d8f54fbd1cf65/original.webp",
-          "width": 1350,
-          "height": 640
-        }
-      },
-      "alt": "Đông Ấm Na Rì",
-      "caption": "Đông Ấm Na Rì",
-      "event": "Đông Ấm Na Rì",
-      "sourceFilename": "thiện nguyện12.jpg",
-      "sourceDirectory": "Đông ấm Na Rì"
-    },
-    {
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/8c26c49b3bd4de0c42ecec57/original.webp",
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/8c26c49b3bd4de0c42ecec57/medium.webp",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/8c26c49b3bd4de0c42ecec57/thumb.webp",
-          "width": 480,
-          "height": 270
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/8c26c49b3bd4de0c42ecec57/medium.webp",
-          "width": 1280,
-          "height": 720
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/8c26c49b3bd4de0c42ecec57/original.webp",
-          "width": 2048,
-          "height": 1152
-        }
-      },
-      "alt": "Đông Ấm Na Rì",
-      "caption": "Đông Ấm Na Rì",
-      "event": "Đông Ấm Na Rì",
-      "sourceFilename": "thiện nguyện13.jpg",
       "sourceDirectory": "Đông ấm Na Rì"
     },
     {
@@ -471,32 +289,6 @@
       "caption": "Đông Ấm Na Rì",
       "event": "Đông Ấm Na Rì",
       "sourceFilename": "thiện nguyện18.jpg",
-      "sourceDirectory": "Đông ấm Na Rì"
-    },
-    {
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a1babf4c19c77ad77a9fde7c/original.webp",
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a1babf4c19c77ad77a9fde7c/medium.webp",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a1babf4c19c77ad77a9fde7c/thumb.webp",
-          "width": 480,
-          "height": 229
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a1babf4c19c77ad77a9fde7c/medium.webp",
-          "width": 1280,
-          "height": 610
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/a1babf4c19c77ad77a9fde7c/original.webp",
-          "width": 1344,
-          "height": 640
-        }
-      },
-      "alt": "Đông Ấm Na Rì",
-      "caption": "Đông Ấm Na Rì",
-      "event": "Đông Ấm Na Rì",
-      "sourceFilename": "thiện nguyện19.jpg",
       "sourceDirectory": "Đông ấm Na Rì"
     },
     {
@@ -630,32 +422,6 @@
       "sourceDirectory": "Đông ấm Na Rì"
     },
     {
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/13e2a68091ce3ba4a4d792c5/original.webp",
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/13e2a68091ce3ba4a4d792c5/medium.webp",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/13e2a68091ce3ba4a4d792c5/thumb.webp",
-          "width": 480,
-          "height": 270
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/13e2a68091ce3ba4a4d792c5/medium.webp",
-          "width": 1280,
-          "height": 720
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/13e2a68091ce3ba4a4d792c5/original.webp",
-          "width": 2048,
-          "height": 1152
-        }
-      },
-      "alt": "Đông Ấm Na Rì",
-      "caption": "Đông Ấm Na Rì",
-      "event": "Đông Ấm Na Rì",
-      "sourceFilename": "thiện nguyện25.jpg",
-      "sourceDirectory": "Đông ấm Na Rì"
-    },
-    {
       "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b363c8c5b2f1b509231cb408/original.webp",
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/b363c8c5b2f1b509231cb408/medium.webp",
       "variants": {
@@ -682,32 +448,6 @@
       "sourceDirectory": "Đông ấm Na Rì"
     },
     {
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/70ba92d5ecb0138cec12a56d/original.webp",
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/70ba92d5ecb0138cec12a56d/medium.webp",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/70ba92d5ecb0138cec12a56d/thumb.webp",
-          "width": 480,
-          "height": 270
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/70ba92d5ecb0138cec12a56d/medium.webp",
-          "width": 1280,
-          "height": 720
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/70ba92d5ecb0138cec12a56d/original.webp",
-          "width": 2048,
-          "height": 1152
-        }
-      },
-      "alt": "Đông Ấm Na Rì",
-      "caption": "Đông Ấm Na Rì",
-      "event": "Đông Ấm Na Rì",
-      "sourceFilename": "thiện nguyện27.jpg",
-      "sourceDirectory": "Đông ấm Na Rì"
-    },
-    {
       "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1823696de00756842fa330cd/original.webp",
       "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/1823696de00756842fa330cd/medium.webp",
       "variants": {
@@ -731,32 +471,6 @@
       "caption": "Đông Ấm Na Rì",
       "event": "Đông Ấm Na Rì",
       "sourceFilename": "thiện nguyện28.jpg",
-      "sourceDirectory": "Đông ấm Na Rì"
-    },
-    {
-      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/8623094d81b7360a2faa06fd/original.webp",
-      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/8623094d81b7360a2faa06fd/medium.webp",
-      "variants": {
-        "thumbnail": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/8623094d81b7360a2faa06fd/thumb.webp",
-          "width": 480,
-          "height": 270
-        },
-        "medium": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/8623094d81b7360a2faa06fd/medium.webp",
-          "width": 1280,
-          "height": 720
-        },
-        "original": {
-          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2024/optimized/8623094d81b7360a2faa06fd/original.webp",
-          "width": 2048,
-          "height": 1152
-        }
-      },
-      "alt": "Đông Ấm Na Rì",
-      "caption": "Đông Ấm Na Rì",
-      "event": "Đông Ấm Na Rì",
-      "sourceFilename": "thiện nguyện29.jpg",
       "sourceDirectory": "Đông ấm Na Rì"
     },
     {

@@ -297,7 +297,135 @@
       "title": "MV Muôn Đời Tạ Ơn",
       "description": "MV kỷ niệm 5 năm thành lập ca đoàn – Muôn Đời Tạ Ơn : Đặc biệt, cũng tại Đan viện Thiên Hà, Ca đoàn đã thực hiện MV “Muôn Đời Tạ Ơn”, như một món quà đặc biệt nhân dịp kỷ niệm 5 năm thành lập.",
       "body": "MV kỷ niệm 5 năm thành lập ca đoàn – Muôn Đời Tạ Ơn : Đặc biệt, cũng tại Đan viện Thiên Hà, Ca đoàn đã thực hiện MV “Muôn Đời Tạ Ơn”, như một món quà đặc biệt nhân dịp kỷ niệm 5 năm thành lập. Những hình ảnh, những giai điệu và những khuôn mặt trong MV đã trở thành một trang ký ức của cả một thế hệ ca viên. Đó không chỉ là một sản phẩm âm nhạc, mà còn là lời tạ ơn của Ca đoàn sau 5 năm được Chúa quy tụ, gìn giữ và đồng hành.",
-      "images": []
+      "coverImage": {
+        "id": "media/2020/muon-doi-ta-on/frame-77-84479817c799/medium.webp",
+        "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-77-84479817c799/medium.webp",
+        "alt": "Toàn ca đoàn trong MV Muôn Đời Tạ Ơn (01:17)",
+        "caption": "Toàn ca đoàn trong MV Muôn Đời Tạ Ơn (01:17) — Trích từ MV của Ca Đoàn Giới Trẻ Teresa",
+        "event": "MV Muôn Đời Tạ Ơn",
+        "sourceFilename": "MV-8wa0hKd2VLM-77s.jpg",
+        "sourceUrl": "https://www.youtube.com/watch?v=8wa0hKd2VLM",
+        "sourceTimeSeconds": 77,
+        "variants": {
+          "thumbnail": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-77-84479817c799/thumb.webp",
+            "width": 480,
+            "height": 276
+          },
+          "medium": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-77-84479817c799/medium.webp",
+            "width": 648,
+            "height": 372
+          },
+          "original": {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-77-84479817c799/medium.webp",
+            "width": 648,
+            "height": 372
+          }
+        }
+      },
+      "album": {
+        "manifest": "data/albums/2020/2020-muon-doi-ta-on.json",
+        "count": 3,
+        "preview": [
+          {
+            "id": "media/2020/muon-doi-ta-on/frame-77-84479817c799/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-77-84479817c799/medium.webp",
+            "alt": "Toàn ca đoàn trong MV Muôn Đời Tạ Ơn (01:17)",
+            "caption": "Toàn ca đoàn trong MV Muôn Đời Tạ Ơn (01:17) — Trích từ MV của Ca Đoàn Giới Trẻ Teresa",
+            "event": "MV Muôn Đời Tạ Ơn",
+            "sourceFilename": "MV-8wa0hKd2VLM-77s.jpg",
+            "sourceUrl": "https://www.youtube.com/watch?v=8wa0hKd2VLM",
+            "sourceTimeSeconds": 77,
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-77-84479817c799/thumb.webp",
+                "width": 480,
+                "height": 276
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-77-84479817c799/medium.webp",
+                "width": 648,
+                "height": 372
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-77-84479817c799/medium.webp",
+                "width": 648,
+                "height": 372
+              }
+            }
+          },
+          {
+            "id": "media/2020/muon-doi-ta-on/frame-194-214cd3242b68/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-194-214cd3242b68/medium.webp",
+            "alt": "Ca viên hát trong nhà nguyện ở MV Muôn Đời Tạ Ơn (03:14)",
+            "caption": "Ca viên hát trong nhà nguyện ở MV Muôn Đời Tạ Ơn (03:14) — Trích từ MV của Ca Đoàn Giới Trẻ Teresa",
+            "event": "MV Muôn Đời Tạ Ơn",
+            "sourceFilename": "MV-8wa0hKd2VLM-194s.jpg",
+            "sourceUrl": "https://www.youtube.com/watch?v=8wa0hKd2VLM",
+            "sourceTimeSeconds": 194,
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-194-214cd3242b68/thumb.webp",
+                "width": 480,
+                "height": 276
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-194-214cd3242b68/medium.webp",
+                "width": 648,
+                "height": 372
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-194-214cd3242b68/medium.webp",
+                "width": 648,
+                "height": 372
+              }
+            }
+          },
+          {
+            "id": "media/2020/muon-doi-ta-on/frame-311-3409b66ec322/medium.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-311-3409b66ec322/medium.webp",
+            "alt": "Nhóm ca viên hát ngoài trời trong MV Muôn Đời Tạ Ơn (05:11)",
+            "caption": "Nhóm ca viên hát ngoài trời trong MV Muôn Đời Tạ Ơn (05:11) — Trích từ MV của Ca Đoàn Giới Trẻ Teresa",
+            "event": "MV Muôn Đời Tạ Ơn",
+            "sourceFilename": "MV-8wa0hKd2VLM-311s.jpg",
+            "sourceUrl": "https://www.youtube.com/watch?v=8wa0hKd2VLM",
+            "sourceTimeSeconds": 311,
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-311-3409b66ec322/thumb.webp",
+                "width": 480,
+                "height": 276
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-311-3409b66ec322/medium.webp",
+                "width": 648,
+                "height": 372
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/muon-doi-ta-on/frame-311-3409b66ec322/medium.webp",
+                "width": 648,
+                "height": 372
+              }
+            }
+          }
+        ]
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 0,
+          "photoId": "media/2020/muon-doi-ta-on/frame-77-84479817c799/medium.webp"
+        },
+        {
+          "afterParagraph": 0,
+          "photoId": "media/2020/muon-doi-ta-on/frame-194-214cd3242b68/medium.webp"
+        },
+        {
+          "afterParagraph": 0,
+          "photoId": "media/2020/muon-doi-ta-on/frame-311-3409b66ec322/medium.webp"
+        }
+      ],
+      "sourceUrl": "https://www.youtube.com/watch?v=8wa0hKd2VLM"
     },
     {
       "id": "2020-song-ca",
@@ -932,82 +1060,121 @@
         "count": 19,
         "preview": [
           {
-            "id": "media/2020/ha-giang-charity/c574c371889e806f/original.jpg",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/c574c371889e806f/medium.jpg",
-            "alt": "Hành trình thiện nguyện đến Hà Giang",
-            "caption": "Hành trình thiện nguyện đến Hà Giang",
+            "id": "media/2020/ha-giang-charity/564b806f1c129e01/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/564b806f1c129e01/medium.jpg",
+            "alt": "Giáng Sinh Yêu Thương — Hà Giang",
+            "caption": "Giáng Sinh Yêu Thương — Hà Giang",
             "event": "Giáng Sinh Yêu Thương — Hà Giang",
-            "sourceFilename": "thiện nguyện8.jpg",
+            "sourceFilename": "ảnh bìa.jpg",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/c574c371889e806f/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/564b806f1c129e01/thumb.jpg",
                 "width": 480,
-                "height": 229
+                "height": 280
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/c574c371889e806f/medium.jpg",
-                "width": 1280,
-                "height": 610
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/564b806f1c129e01/medium.jpg",
+                "width": 960,
+                "height": 560
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/c574c371889e806f/original.jpg",
-                "width": 1344,
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/564b806f1c129e01/original.jpg",
+                "width": 960,
+                "height": 560
+              }
+            }
+          },
+          {
+            "id": "media/2020/ha-giang-charity/f5e1c357d88339b1/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/f5e1c357d88339b1/medium.jpg",
+            "alt": "Giáng Sinh Yêu Thương — Hà Giang",
+            "caption": "Trao những phần quà Giáng Sinh đến bà con Hà Giang",
+            "event": "Giáng Sinh Yêu Thương — Hà Giang",
+            "sourceFilename": "thiện nguyện1.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/f5e1c357d88339b1/thumb.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/f5e1c357d88339b1/medium.jpg",
+                "width": 1280,
+                "height": 960
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/f5e1c357d88339b1/original.jpg",
+                "width": 2568,
+                "height": 1926
+              }
+            }
+          },
+          {
+            "id": "media/2020/ha-giang-charity/cbfbf133d552649a/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/cbfbf133d552649a/medium.jpg",
+            "alt": "Giáng Sinh Yêu Thương — Hà Giang",
+            "caption": "Gặp gỡ và sẻ chia cùng bà con",
+            "event": "Giáng Sinh Yêu Thương — Hà Giang",
+            "sourceFilename": "thiện nguyện10.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/cbfbf133d552649a/thumb.jpg",
+                "width": 480,
+                "height": 227
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/cbfbf133d552649a/medium.jpg",
+                "width": 1280,
+                "height": 606
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/cbfbf133d552649a/original.jpg",
+                "width": 1352,
                 "height": 640
               }
             }
           },
           {
-            "id": "media/2020/ha-giang-charity/643c6990e93643d9/original.jpg",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/643c6990e93643d9/medium.jpg",
-            "alt": "Sinh hoạt chung trong chuyến Giáng Sinh Yêu Thương",
-            "caption": "Sinh hoạt chung trong chuyến Giáng Sinh Yêu Thương",
+            "id": "media/2020/ha-giang-charity/a2ab8f64f32dd86e/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/a2ab8f64f32dd86e/medium.jpg",
+            "alt": "Giáng Sinh Yêu Thương — Hà Giang",
+            "caption": "Chương trình hoan ca trong chuyến thiện nguyện",
             "event": "Giáng Sinh Yêu Thương — Hà Giang",
-            "sourceFilename": "thiện nguyện14.jpg",
+            "sourceFilename": "thiện nguyện11.jpg",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/643c6990e93643d9/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/a2ab8f64f32dd86e/thumb.jpg",
                 "width": 480,
                 "height": 229
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/643c6990e93643d9/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/a2ab8f64f32dd86e/medium.jpg",
                 "width": 1280,
                 "height": 610
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/643c6990e93643d9/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/a2ab8f64f32dd86e/original.jpg",
                 "width": 1344,
-                "height": 640
-              }
-            }
-          },
-          {
-            "id": "media/2020/ha-giang-charity/76e1c0c7fcbb3a36/original.jpg",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/76e1c0c7fcbb3a36/medium.jpg",
-            "alt": "Các ca viên gặp gỡ trong chuyến thiện nguyện",
-            "caption": "Các ca viên gặp gỡ trong chuyến thiện nguyện",
-            "event": "Giáng Sinh Yêu Thương — Hà Giang",
-            "sourceFilename": "thiện nguyện20.jpg",
-            "variants": {
-              "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/76e1c0c7fcbb3a36/thumb.jpg",
-                "width": 480,
-                "height": 228
-              },
-              "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/76e1c0c7fcbb3a36/medium.jpg",
-                "width": 1280,
-                "height": 607
-              },
-              "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2020/ha-giang-charity/76e1c0c7fcbb3a36/original.jpg",
-                "width": 1350,
                 "height": 640
               }
             }
           }
         ]
-      }
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 0,
+          "photoId": "media/2020/ha-giang-charity/f5e1c357d88339b1/original.jpg"
+        },
+        {
+          "afterParagraph": 0,
+          "photoId": "media/2020/ha-giang-charity/cbfbf133d552649a/original.jpg"
+        },
+        {
+          "afterParagraph": 0,
+          "photoId": "media/2020/ha-giang-charity/a2ab8f64f32dd86e/original.jpg"
+        }
+      ]
     }
   ],
   "achievements": [

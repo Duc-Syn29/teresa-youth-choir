@@ -1619,3 +1619,26 @@ img[data-media-src] { transition: opacity .35s ease; }
   .activity-breadcrumb a, .year-nav a { min-height: 44px; display: inline-flex; align-items: center; }
   .gallery-load-more, .lightbox-close, .lightbox-nav, .album-dialog-close { min-width: 44px; min-height: 44px; }
 }
+
+/* Short introduction followed by regular, readable body copy. */
+.activity-prose p { font-weight: 400; }
+.activity-prose .activity-opening > .activity-lead {
+  display: block;
+  font-size: clamp(1.12rem, 1.6vw, 1.4rem);
+  font-weight: 500;
+  line-height: 1.65;
+  margin-bottom: .85rem;
+}
+.activity-prose .activity-lead-rest {
+  display: block;
+  font-family: var(--sans);
+  font-size: clamp(.95rem, 1.3vw, 1.06rem);
+  font-weight: 400;
+  color: var(--muted);
+  line-height: 1.9;
+}
+.activity-story-photo-group { display: grid; gap: 1.2rem; min-width: 0; }
+@media (max-width: 680px) {
+  .activity-prose .activity-opening > .activity-lead { font-size: 1.08rem; }
+  .activity-story-photo-group { gap: 1rem; }
+}

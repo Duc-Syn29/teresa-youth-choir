@@ -145,8 +145,8 @@
       "topic": "Gắn kết",
       "date": "09/03/2017",
       "title": "Giao hữu bóng đá cùng Cộng đoàn Giu-se Hiền Xuân Dục",
-      "description": "Khời đầu những hoạt động đầu tiên của ca đoàn trong năm 2017, Ca đoàn Giới Trẻ Têrêsa có buổi giao hữu bóng đá với Cộng đoàn Giu-se Hiền Xuân Dục.",
-      "body": "Khời đầu những hoạt động đầu tiên của ca đoàn trong năm 2017, Ca đoàn Giới Trẻ Têrêsa có buổi giao hữu bóng đá với Cộng đoàn Giu-se Hiền Xuân Dục. Trận đấu diễn ra hấp dẫn và gay cấn trong bầu khí vui tươi và gần gũi giữ những người con xa quê. Trận giao hữu là cơ hội để các thành viên tạm gác lại những công việc thường ngày, cùng nhau vận động, vui chơi và tạo nên những kỷ niệm đẹp của tuổi trẻ. Trên sân bóng, tinh thần thi đấu hết mình, những tiếng cười và sự cổ vũ dành cho nhau đã giúp các thành viên thêm gắn bó. Điều đáng nhớ không chỉ nằm ở kết quả của trận đấu, mà còn ở tình bạn, tình huynh đệ được hình thành và vun đắp qua những hoạt động rất đời thương. Đối với Ca đoàn Giới Trẻ Têrêsa, những chương trình như vậy cũng góp phần tạo nên một môi trường sinh hoạt trẻ trung, nơi mỗi thành viên không chỉ gặp nhau để phục vụ mà còn thực sự trở thành những người bạn, những người anh chị em đồng hành cùng nhau trên hành trình đức tin.",
+      "description": "Khởi đầu những hoạt động đầu tiên của ca đoàn trong năm 2017, Ca đoàn Giới Trẻ Têrêsa có buổi giao hữu bóng đá với Cộng đoàn Giu-se Hiền Xuân Dục.",
+      "body": "Khởi đầu những hoạt động đầu tiên của ca đoàn trong năm 2017, Ca đoàn Giới Trẻ Têrêsa có buổi giao hữu bóng đá với Cộng đoàn Giu-se Hiền Xuân Dục. Trận đấu diễn ra hấp dẫn và gay cấn trong bầu khí vui tươi và gần gũi giữ những người con xa quê. Trận giao hữu là cơ hội để các thành viên tạm gác lại những công việc thường ngày, cùng nhau vận động, vui chơi và tạo nên những kỷ niệm đẹp của tuổi trẻ. Trên sân bóng, tinh thần thi đấu hết mình, những tiếng cười và sự cổ vũ dành cho nhau đã giúp các thành viên thêm gắn bó. Điều đáng nhớ không chỉ nằm ở kết quả của trận đấu, mà còn ở tình bạn, tình huynh đệ được hình thành và vun đắp qua những hoạt động rất đời thương. Đối với Ca đoàn Giới Trẻ Têrêsa, những chương trình như vậy cũng góp phần tạo nên một môi trường sinh hoạt trẻ trung, nơi mỗi thành viên không chỉ gặp nhau để phục vụ mà còn thực sự trở thành những người bạn, những người anh chị em đồng hành cùng nhau trên hành trình đức tin.",
       "coverImage": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/football/001.jpg",
       "album": {
         "manifest": "data/albums/2017/2017-football.json",
@@ -450,82 +450,121 @@
         "count": 20,
         "preview": [
           {
-            "id": "media/2017/patron/8e65b46de93ced9c/original.jpg",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/8e65b46de93ced9c/medium.jpg",
-            "alt": "Ca đoàn sum họp trong ngày lễ Quan thầy",
-            "caption": "Ca đoàn sum họp trong ngày lễ Quan thầy",
+            "id": "media/2017/patron/c017dac00f5497c9/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/c017dac00f5497c9/medium.jpg",
+            "alt": "Ca đoàn Giới Trẻ Têrêsa mừng Lễ Quan Thầy lần thứ 2",
+            "caption": "Ca đoàn Giới Trẻ Têrêsa mừng Lễ Quan Thầy lần thứ 2",
             "event": "Ca đoàn Giới Trẻ Têrêsa mừng Lễ Quan Thầy lần thứ 2",
-            "sourceFilename": "lễ quan thầy6.jpg",
+            "sourceFilename": "ảnh bìa ( cả năm ).jpg",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/8e65b46de93ced9c/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/c017dac00f5497c9/thumb.jpg",
+                "width": 480,
+                "height": 295
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/c017dac00f5497c9/medium.jpg",
+                "width": 1024,
+                "height": 629
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/c017dac00f5497c9/original.jpg",
+                "width": 1024,
+                "height": 629
+              }
+            }
+          },
+          {
+            "id": "media/2017/patron/310ad59eea929bd8/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/310ad59eea929bd8/medium.jpg",
+            "alt": "Ca đoàn Giới Trẻ Têrêsa mừng Lễ Quan Thầy lần thứ 2",
+            "caption": "Hiệp dâng Thánh lễ Quan thầy năm 2017",
+            "event": "Ca đoàn Giới Trẻ Têrêsa mừng Lễ Quan Thầy lần thứ 2",
+            "sourceFilename": "lễ quan thầy7.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/310ad59eea929bd8/thumb.jpg",
                 "width": 480,
                 "height": 319
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/8e65b46de93ced9c/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/310ad59eea929bd8/medium.jpg",
                 "width": 720,
                 "height": 479
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/8e65b46de93ced9c/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/310ad59eea929bd8/original.jpg",
                 "width": 720,
                 "height": 479
               }
             }
           },
           {
-            "id": "media/2017/patron/f6b94d3e2d79de37/original.jpg",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/f6b94d3e2d79de37/medium.jpg",
-            "alt": "Không gian mừng kính Thánh Têrêsa",
-            "caption": "Không gian mừng kính Thánh Têrêsa",
+            "id": "media/2017/patron/05ba545b0f32a51b/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/05ba545b0f32a51b/medium.jpg",
+            "alt": "Ca đoàn Giới Trẻ Têrêsa mừng Lễ Quan Thầy lần thứ 2",
+            "caption": "Ca viên dâng lời ca trong ngày lễ Quan thầy",
             "event": "Ca đoàn Giới Trẻ Têrêsa mừng Lễ Quan Thầy lần thứ 2",
-            "sourceFilename": "lễ quan thầy14.jpg",
+            "sourceFilename": "lễ quan thầy10.jpg",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/f6b94d3e2d79de37/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/05ba545b0f32a51b/thumb.jpg",
                 "width": 480,
-                "height": 321
+                "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/f6b94d3e2d79de37/medium.jpg",
-                "width": 1280,
-                "height": 856
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/05ba545b0f32a51b/medium.jpg",
+                "width": 1024,
+                "height": 683
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/f6b94d3e2d79de37/original.jpg",
-                "width": 2048,
-                "height": 1370
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/05ba545b0f32a51b/original.jpg",
+                "width": 1024,
+                "height": 683
               }
             }
           },
           {
-            "id": "media/2017/patron/bf8de8720115dd08/original.jpg",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/bf8de8720115dd08/medium.jpg",
-            "alt": "Gặp gỡ huynh đệ sau ngày lễ",
-            "caption": "Gặp gỡ huynh đệ sau ngày lễ",
+            "id": "media/2017/patron/b8e063a83dd2d522/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/b8e063a83dd2d522/medium.jpg",
+            "alt": "Ca đoàn Giới Trẻ Têrêsa mừng Lễ Quan Thầy lần thứ 2",
+            "caption": "Ca đoàn chung vui trong ngày lễ Quan thầy",
             "event": "Ca đoàn Giới Trẻ Têrêsa mừng Lễ Quan Thầy lần thứ 2",
-            "sourceFilename": "lễ quan thầy20.jpg",
+            "sourceFilename": "lễ quan thầy12.jpg",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/bf8de8720115dd08/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/b8e063a83dd2d522/thumb.jpg",
                 "width": 480,
-                "height": 360
+                "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/bf8de8720115dd08/medium.jpg",
-                "width": 960,
-                "height": 720
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/b8e063a83dd2d522/medium.jpg",
+                "width": 1024,
+                "height": 683
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/bf8de8720115dd08/original.jpg",
-                "width": 960,
-                "height": 720
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/patron/b8e063a83dd2d522/original.jpg",
+                "width": 1024,
+                "height": 683
               }
             }
           }
         ]
-      }
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 0,
+          "photoId": "media/2017/patron/310ad59eea929bd8/original.jpg"
+        },
+        {
+          "afterParagraph": 1,
+          "photoId": "media/2017/patron/05ba545b0f32a51b/original.jpg"
+        },
+        {
+          "afterParagraph": 1,
+          "photoId": "media/2017/patron/b8e063a83dd2d522/original.jpg"
+        }
+      ]
     },
     {
       "id": "2017-migrant",
@@ -565,10 +604,60 @@
         "count": 8,
         "preview": [
           {
+            "id": "media/2017/migrant/49579a0da1a5ae23/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/49579a0da1a5ae23/medium.jpg",
+            "alt": "Đại lễ Di dân 2017",
+            "caption": "Đại lễ Di dân 2017",
+            "event": "Đại lễ Di dân 2017",
+            "sourceFilename": "ảnh bìa.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/49579a0da1a5ae23/thumb.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/49579a0da1a5ae23/medium.jpg",
+                "width": 960,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/49579a0da1a5ae23/original.jpg",
+                "width": 960,
+                "height": 720
+              }
+            }
+          },
+          {
+            "id": "media/2017/migrant/81705d833e6268d1/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/81705d833e6268d1/medium.jpg",
+            "alt": "Đại lễ Di dân 2017",
+            "caption": "Ca đoàn phục vụ Đại lễ Di dân 2017",
+            "event": "Đại lễ Di dân 2017",
+            "sourceFilename": "đại lễ di dân 20162.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/81705d833e6268d1/thumb.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/81705d833e6268d1/medium.jpg",
+                "width": 960,
+                "height": 720
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/81705d833e6268d1/original.jpg",
+                "width": 960,
+                "height": 720
+              }
+            }
+          },
+          {
             "id": "media/2017/migrant/e71bb64686ab73d4/original.jpg",
             "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/e71bb64686ab73d4/medium.jpg",
             "alt": "Ca đoàn cất tiếng hát phục vụ Đại lễ Di dân",
-            "caption": "Ca đoàn cất tiếng hát phục vụ Đại lễ Di dân",
+            "caption": "Cộng đoàn hiệp dâng Đại lễ Di dân",
             "event": "Đại lễ Di dân 2017",
             "sourceFilename": "đại lễ di dân 20161.jpg",
             "variants": {
@@ -588,34 +677,19 @@
                 "height": 720
               }
             }
-          },
-          {
-            "id": "media/2017/migrant/c09076cdf5d14889/original.jpg",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/c09076cdf5d14889/medium.jpg",
-            "alt": "Sinh hoạt của các ca viên trong dịp Đại lễ",
-            "caption": "Sinh hoạt của các ca viên trong dịp Đại lễ",
-            "event": "Đại lễ Di dân 2017",
-            "sourceFilename": "đại lễ di dân 20168.jpg",
-            "variants": {
-              "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/c09076cdf5d14889/thumb.jpg",
-                "width": 480,
-                "height": 360
-              },
-              "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/c09076cdf5d14889/medium.jpg",
-                "width": 960,
-                "height": 720
-              },
-              "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/migrant/c09076cdf5d14889/original.jpg",
-                "width": 960,
-                "height": 720
-              }
-            }
           }
         ]
-      }
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 0,
+          "photoId": "media/2017/migrant/81705d833e6268d1/original.jpg"
+        },
+        {
+          "afterParagraph": 0,
+          "photoId": "media/2017/migrant/e71bb64686ab73d4/original.jpg"
+        }
+      ]
     },
     {
       "id": "2017-charity",
@@ -630,61 +704,37 @@
         "manifest": "data/albums/2017/2017-charity.json",
         "count": 11,
         "preview": [
+          "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/001.jpg",
           {
-            "id": "media/2017/charity/f16a20937696beb1/original.jpg",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/f16a20937696beb1/medium.jpg",
-            "alt": "Chuyến thiện nguyện tại Giáo xứ Bó Tờ",
-            "caption": "Chuyến thiện nguyện tại Giáo xứ Bó Tờ",
+            "id": "media/2017/charity/233dfe9c9a8fa429/original.jpg",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/233dfe9c9a8fa429/medium.jpg",
+            "alt": "Chuẩn bị quà cho chuyến thiện nguyện Bó Tờ",
+            "caption": "Chuẩn bị quà cho chuyến thiện nguyện Bó Tờ",
             "event": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
-            "sourceFilename": "thiện nguyện1.jpg",
+            "sourceFilename": "thiện nguyện3.jpg",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/f16a20937696beb1/thumb.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/233dfe9c9a8fa429/thumb.jpg",
                 "width": 480,
-                "height": 290
+                "height": 292
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/f16a20937696beb1/medium.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/233dfe9c9a8fa429/medium.jpg",
                 "width": 960,
-                "height": 579
+                "height": 583
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/f16a20937696beb1/original.jpg",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/233dfe9c9a8fa429/original.jpg",
                 "width": 960,
-                "height": 579
-              }
-            }
-          },
-          {
-            "id": "media/2017/charity/9a644dbf1495df28/original.jpg",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/9a644dbf1495df28/medium.jpg",
-            "alt": "Gặp gỡ và chia sẻ trong chuyến thiện nguyện",
-            "caption": "Gặp gỡ và chia sẻ trong chuyến thiện nguyện",
-            "event": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
-            "sourceFilename": "thiện nguyện4.jpg",
-            "variants": {
-              "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/9a644dbf1495df28/thumb.jpg",
-                "width": 480,
-                "height": 270
-              },
-              "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/9a644dbf1495df28/medium.jpg",
-                "width": 960,
-                "height": 540
-              },
-              "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/9a644dbf1495df28/original.jpg",
-                "width": 960,
-                "height": 540
+                "height": 583
               }
             }
           },
           {
             "id": "media/2017/charity/b7bd1549deb2d35b/original.jpg",
             "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2017/charity/b7bd1549deb2d35b/medium.jpg",
-            "alt": "Các ca viên trên hành trình thiện nguyện",
-            "caption": "Các ca viên trên hành trình thiện nguyện",
+            "alt": "Gặp gỡ trong chuyến thiện nguyện và thăm Giáo phận Lạng Sơn",
+            "caption": "Gặp gỡ trong chuyến thiện nguyện và thăm Giáo phận Lạng Sơn",
             "event": "Thiện nguyện tại Giáo xứ Bó Tờ, Giáo phận Lạng Sơn",
             "sourceFilename": "thiện nguyện8.jpg",
             "variants": {
@@ -706,7 +756,17 @@
             }
           }
         ]
-      }
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 0,
+          "photoId": "media/2017/charity/233dfe9c9a8fa429/original.jpg"
+        },
+        {
+          "afterParagraph": 1,
+          "photoId": "media/2017/charity/b7bd1549deb2d35b/original.jpg"
+        }
+      ]
     },
     {
       "id": "2017-review",

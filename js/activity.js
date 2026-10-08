@@ -162,21 +162,25 @@
 
   function storyPhotoPlan(activity, parts, photos) {
     if (!parts.length || !photos.length) return new Map();
-    const count = Math.min(4, photos.length, parts.length > 1 ? parts.length - 1 : 1);
-    const slots = [];
-    for (let index = 0; index < count; index += 1) {
-      const slot = parts.length === 1 ? 0 : Math.min(parts.length - 2, Math.round(((index + 1) * parts.length) / (count + 1)) - 1);
-      if (!slots.includes(slot)) slots.push(slot);
-    }
-    for (let slot = 0; slots.length < count && slot < Math.max(1, parts.length - 1); slot += 1) {
-      if (!slots.includes(slot)) slots.push(slot);
-    }
-    slots.sort((a, b) => a - b);
-
-    const unused = new Set(photos.map((_photo, index) => index));
     const plan = new Map();
-    slots.forEach((slot, order) => {
-      const target = Math.round(((order + 1) * (photos.length - 1)) / (slots.length + 1));
+    const used = new Set();
+    const add = (slot, photoIndex) => {
+      if (used.has(photoIndex) || used.size >= 3) return;
+      used.add(photoIndex);
+      plan.set(slot, [...(plan.get(slot) || []), photoIndex]);
+    };
+    for (const placement of Array.isArray(activity.storyPhotos) ? activity.storyPhotos : []) {
+      const index = photos.findIndex((photo) => photo.id === placement.photoId);
+      if (index >= 0 && Number.isInteger(placement.afterParagraph) && placement.afterParagraph >= 0 && placement.afterParagraph < parts.length) {
+        add(placement.afterParagraph, index);
+      }
+    }
+    if (used.size) return plan;
+    const count = Math.min(3, photos.length);
+    const unused = new Set(photos.map((_photo, index) => index));
+    for (let order = 0; order < count; order += 1) {
+      const slot = parts.length === 1 ? 0 : Math.min(parts.length - 1, Math.max(0, Math.round(((order + 1) * parts.length) / (count + 1)) - 1));
+      const target = Math.round(((order + 1) * (photos.length - 1)) / (count + 1));
       const paragraphContext = `${activity.title} ${activity.type || ""} ${activity.topic || ""} ${parts[slot]}`;
       const candidates = [...unused].map((photoIndex) => ({
         photoIndex,
@@ -184,10 +188,10 @@
         distance: Math.abs(photoIndex - target),
       })).sort((left, right) => right.score - left.score || left.distance - right.distance || left.photoIndex - right.photoIndex);
       const selected = candidates[0]?.photoIndex;
-      if (selected === undefined) return;
+      if (selected === undefined) continue;
       unused.delete(selected);
-      plan.set(slot, selected);
-    });
+      add(slot, selected);
+    }
     return plan;
   }
 
@@ -196,7 +200,15 @@
     const photoPlan = storyPhotoPlan(activity, parts, photos);
     const chapters = [];
     let textRun = [];
-    const paragraphMarkup = (paragraph, index) => `<p${index === 0 ? ' class="activity-lead"' : ""}>${escapeHTML(paragraph)}</p>`;
+    const paragraphMarkup = (paragraph, index) => {
+      if (index !== 0) return `<p>${escapeHTML(paragraph)}</p>`;
+      // Emphasize at most two opening sentences, preserving every character.
+      const sentences = [...paragraph.matchAll(/[.!?…](?:["”’»)]*)(?:\s+|$)/gu)];
+      const shortEnd = sentences.slice(0, 2).find((match) => match.index + match[0].length >= 120) || sentences[1] || sentences[0];
+      const end = shortEnd ? shortEnd.index + shortEnd[0].length : paragraph.indexOf(" ", 220);
+      const split = end > 0 ? end : paragraph.length;
+      return `<p class="activity-opening"><span class="activity-lead">${escapeHTML(paragraph.slice(0, split))}</span>${split < paragraph.length ? `<span class="activity-lead-rest">${escapeHTML(paragraph.slice(split))}</span>` : ""}</p>`;
+    };
     const flushTextRun = () => {
       if (!textRun.length) return;
       chapters.push(`<section class="activity-story-chapter text-only">${textRun.map(({ paragraph, index }) => paragraphMarkup(paragraph, index)).join("")}</section>`);
@@ -204,15 +216,18 @@
     };
 
     parts.forEach((paragraph, index) => {
-      const photoIndex = photoPlan.get(index);
-      const photo = photoIndex !== undefined ? photos[photoIndex] : null;
-      if (!photo) {
+      const photoIndexes = photoPlan.get(index) || [];
+      if (!photoIndexes.length) {
         textRun.push({ paragraph, index });
         return;
       }
       flushTextRun();
-      const caption = photo ? displayCaption(photo.caption, activity.title) : "";
-      chapters.push(`<section class="activity-story-chapter has-inline-media">${paragraphMarkup(paragraph, index)}<figure class="activity-story-figure"><button class="activity-story-photo ${mediaShape(photo)}" type="button" data-story-photo="${photoIndex}" aria-label="Mở ảnh: ${escapeHTML(caption)}"><img ${mediaAttributes(photo, "medium", "(max-width:680px) 92vw, 62vw")} alt="${escapeHTML(photo.alt || caption)}" loading="lazy" decoding="async" /><span>${String(photoIndex + 1).padStart(2, "0")} / ${photos.length}</span></button><figcaption>${escapeHTML(caption)}</figcaption></figure></section>`);
+      const figures = photoIndexes.map((photoIndex) => {
+        const photo = photos[photoIndex];
+        const caption = displayCaption(photo.caption, activity.title);
+        return `<figure class="activity-story-figure"><button class="activity-story-photo ${mediaShape(photo)}" type="button" data-story-photo="${photoIndex}" aria-label="Mở ảnh: ${escapeHTML(caption)}"><img ${mediaAttributes(photo, "medium", "(max-width:680px) 92vw, 62vw")} alt="${escapeHTML(photo.alt || caption)}" loading="lazy" decoding="async" /><span>${String(photoIndex + 1).padStart(2, "0")} / ${photos.length}</span></button><figcaption>${escapeHTML(caption)}</figcaption></figure>`;
+      }).join("");
+      chapters.push(`<section class="activity-story-chapter has-inline-media">${paragraphMarkup(paragraph, index)}<div class="activity-story-photo-group">${figures}</div></section>`);
     });
     flushTextRun();
     return chapters.join("");

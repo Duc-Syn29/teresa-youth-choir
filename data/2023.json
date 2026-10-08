@@ -377,55 +377,55 @@
         "count": 81,
         "preview": [
           {
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0763811505cd578a5e06b89a/original.webp",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0763811505cd578a5e06b89a/medium.webp",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1aa4b668f5453853eff19244/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1aa4b668f5453853eff19244/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0763811505cd578a5e06b89a/thumb.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1aa4b668f5453853eff19244/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0763811505cd578a5e06b89a/medium.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1aa4b668f5453853eff19244/medium.webp",
                 "width": 1280,
                 "height": 853
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/0763811505cd578a5e06b89a/original.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/1aa4b668f5453853eff19244/original.webp",
                 "width": 2560,
                 "height": 1707
               }
             },
-            "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-            "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 29",
+            "alt": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
+            "caption": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
             "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
-            "sourceFilename": "tĩnh tâm11.JPG",
+            "sourceFilename": "ảnh bìa.JPG",
             "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
           },
           {
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b05481fad336010a66d8b4c0/original.webp",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b05481fad336010a66d8b4c0/medium.webp",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bb1de7c8cb3d1baadc8c78db/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bb1de7c8cb3d1baadc8c78db/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b05481fad336010a66d8b4c0/thumb.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bb1de7c8cb3d1baadc8c78db/thumb.webp",
                 "width": 480,
                 "height": 320
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b05481fad336010a66d8b4c0/medium.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bb1de7c8cb3d1baadc8c78db/medium.webp",
                 "width": 1280,
                 "height": 853
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b05481fad336010a66d8b4c0/original.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bb1de7c8cb3d1baadc8c78db/original.webp",
                 "width": 2560,
                 "height": 1707
               }
             },
-            "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-            "caption": "Những khoảnh khắc gặp gỡ và sinh hoạt trong chuyến tĩnh tâm Cô Tô · ảnh 41",
+            "alt": "Lên đường trong chuyến tĩnh tâm Cô Tô",
+            "caption": "Lên đường trong chuyến tĩnh tâm Cô Tô",
             "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
-            "sourceFilename": "tĩnh tâm22.JPG",
+            "sourceFilename": "tĩnh tâm2.JPG",
             "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
           },
           {
@@ -448,14 +448,51 @@
                 "height": 1707
               }
             },
-            "alt": "Ca đoàn trong chuyến tĩnh tâm tại Giáo xứ Cô Tô",
-            "caption": "Ca đoàn hiệp dâng và phục vụ Thánh lễ tại Giáo xứ Cô Tô · ảnh 56",
+            "alt": "Lãnh nhận Thánh Thể trong ngày tĩnh tâm",
+            "caption": "Lãnh nhận Thánh Thể trong ngày tĩnh tâm",
             "event": "Tĩnh tâm của Ca đoàn Teresa tại giáo xứ Cô Tô",
             "sourceFilename": "tĩnh tâm33.JPG",
             "sourceDirectory": "Tĩnh tâm Cô Tô( dấu thân trong niềm tin )"
+          },
+          {
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/010/medium.jpg",
+            "alt": "Ca viên đạp xe trong những giờ sinh hoạt tại Cô Tô",
+            "caption": "Ca viên đạp xe trong những giờ sinh hoạt tại Cô Tô",
+            "id": "media/2023/tinh-tam-co-to/010/original.jpg",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/010/thumb.jpg",
+                "width": 480,
+                "height": 320
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/010/medium.jpg",
+                "width": 1280,
+                "height": 853
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/tinh-tam-co-to/010/original.jpg",
+                "width": 2784,
+                "height": 1856
+              }
+            }
           }
         ]
-      }
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 0,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bb1de7c8cb3d1baadc8c78db/original.webp"
+        },
+        {
+          "afterParagraph": 1,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/7b43905c02f44bf0c7d00bb6/original.webp"
+        },
+        {
+          "afterParagraph": 2,
+          "photoId": "media/2023/tinh-tam-co-to/010/original.jpg"
+        }
+      ]
     },
     {
       "id": "2023-tinh-tam-thanh-minh",
@@ -617,29 +654,29 @@
         "count": 150,
         "preview": [
           {
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/002cedceced0495ca66bfdf6/original.webp",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/002cedceced0495ca66bfdf6/medium.webp",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/69275ef0fdaa771412b376a6/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/69275ef0fdaa771412b376a6/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/002cedceced0495ca66bfdf6/thumb.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/69275ef0fdaa771412b376a6/thumb.webp",
                 "width": 480,
-                "height": 320
+                "height": 309
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/002cedceced0495ca66bfdf6/medium.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/69275ef0fdaa771412b376a6/medium.webp",
                 "width": 1280,
-                "height": 853
+                "height": 824
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/002cedceced0495ca66bfdf6/original.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/69275ef0fdaa771412b376a6/original.webp",
                 "width": 2048,
-                "height": 1365
+                "height": 1318
               }
             },
-            "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-            "caption": "Thánh lễ Mừng kính Thánh Têrêsa Hài Đồng Giêsu · ảnh 23",
+            "alt": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
+            "caption": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
             "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
-            "sourceFilename": "lễ quan thầy11.jpg",
+            "sourceFilename": "ảnh bìa( cả năm).jpg",
             "sourceDirectory": "QUAN THẦY 2023"
           },
           {
@@ -662,40 +699,50 @@
                 "height": 1363
               }
             },
-            "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-            "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 65",
+            "alt": "Công bố Lời Chúa trong Thánh lễ Quan thầy",
+            "caption": "Công bố Lời Chúa trong Thánh lễ Quan thầy",
             "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
             "sourceFilename": "lễ quan thầy23.jpg",
             "sourceDirectory": "QUAN THẦY 2023"
           },
           {
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b3d47c4642aa74405e8e9101/original.webp",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b3d47c4642aa74405e8e9101/medium.webp",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f2f98e2cb31d5bfd8a6ba7d7/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f2f98e2cb31d5bfd8a6ba7d7/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b3d47c4642aa74405e8e9101/thumb.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f2f98e2cb31d5bfd8a6ba7d7/thumb.webp",
                 "width": 480,
-                "height": 309
+                "height": 319
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b3d47c4642aa74405e8e9101/medium.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f2f98e2cb31d5bfd8a6ba7d7/medium.webp",
                 "width": 1280,
-                "height": 824
+                "height": 852
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/b3d47c4642aa74405e8e9101/original.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f2f98e2cb31d5bfd8a6ba7d7/original.webp",
                 "width": 2048,
-                "height": 1318
+                "height": 1363
               }
             },
-            "alt": "Ca đoàn mừng Lễ Quan Thầy và kỷ niệm 8 năm thành lập",
-            "caption": "Ca đoàn lưu ảnh trong ngày mừng Bổn mạng · ảnh 80",
+            "alt": "Bữa cơm thân mật sau Thánh lễ",
+            "caption": "Bữa cơm thân mật sau Thánh lễ",
             "event": "Thánh Lễ Quan Thầy & Kỷ Niệm 8 Năm Thành Lập",
-            "sourceFilename": "lễ quan thầy35.jpg",
+            "sourceFilename": "lễ quan thầy37.jpg",
             "sourceDirectory": "QUAN THẦY 2023"
           }
         ]
-      }
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 1,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/356985dd6b3dcd55be3d1349/original.webp"
+        },
+        {
+          "afterParagraph": 2,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/f2f98e2cb31d5bfd8a6ba7d7/original.webp"
+        }
+      ]
     },
     {
       "id": "2023-dai-le-di-dan",
@@ -868,29 +915,81 @@
         "count": 54,
         "preview": [
           {
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9a4162e4d18417e05e01eec4/original.webp",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9a4162e4d18417e05e01eec4/medium.webp",
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4b7250442db783b36c51c892/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4b7250442db783b36c51c892/medium.webp",
             "variants": {
               "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9a4162e4d18417e05e01eec4/thumb.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4b7250442db783b36c51c892/thumb.webp",
                 "width": 480,
                 "height": 318
               },
               "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9a4162e4d18417e05e01eec4/medium.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4b7250442db783b36c51c892/medium.webp",
                 "width": 1280,
                 "height": 848
               },
               "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/9a4162e4d18417e05e01eec4/original.webp",
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/4b7250442db783b36c51c892/original.webp",
                 "width": 2560,
                 "height": 1696
               }
             },
-            "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 13",
-            "caption": "Trao quà và sẻ chia cùng các gia đình trong chương trình “Hơi ấm nơi rẻo cao”.",
+            "alt": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+            "caption": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
             "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
-            "sourceFilename": "thiện nguyện13.JPG",
+            "sourceFilename": "ảnh bìa.JPG",
+            "sourceDirectory": "Thiện Nguyện 2023"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cadd00109625879f83cead51/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cadd00109625879f83cead51/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cadd00109625879f83cead51/thumb.webp",
+                "width": 480,
+                "height": 318
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cadd00109625879f83cead51/medium.webp",
+                "width": 1280,
+                "height": 848
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cadd00109625879f83cead51/original.webp",
+                "width": 2560,
+                "height": 1696
+              }
+            },
+            "alt": "Ca viên cùng vận chuyển đồ đạc cho chuyến thiện nguyện",
+            "caption": "Ca viên cùng vận chuyển đồ đạc cho chuyến thiện nguyện",
+            "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+            "sourceFilename": "thiện nguyện2.JPG",
+            "sourceDirectory": "Thiện Nguyện 2023"
+          },
+          {
+            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a5b10c1b438b466681ddaa36/original.webp",
+            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a5b10c1b438b466681ddaa36/medium.webp",
+            "variants": {
+              "thumbnail": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a5b10c1b438b466681ddaa36/thumb.webp",
+                "width": 480,
+                "height": 318
+              },
+              "medium": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a5b10c1b438b466681ddaa36/medium.webp",
+                "width": 1280,
+                "height": 848
+              },
+              "original": {
+                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a5b10c1b438b466681ddaa36/original.webp",
+                "width": 2560,
+                "height": 1696
+              }
+            },
+            "alt": "Trao quà tới bà con vùng cao",
+            "caption": "Trao quà tới bà con vùng cao",
+            "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
+            "sourceFilename": "thiện nguyện24.JPG",
             "sourceDirectory": "Thiện Nguyện 2023"
           },
           {
@@ -913,40 +1012,28 @@
                 "height": 1696
               }
             },
-            "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 41",
-            "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
+            "alt": "Ca đoàn cùng cộng đoàn tham dự Thánh lễ",
+            "caption": "Ca đoàn cùng cộng đoàn tham dự Thánh lễ",
             "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
             "sourceFilename": "thiện nguyện39.JPG",
             "sourceDirectory": "Thiện Nguyện 2023"
-          },
-          {
-            "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8d23e163abfbe32b889a83ce/original.webp",
-            "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8d23e163abfbe32b889a83ce/medium.webp",
-            "variants": {
-              "thumbnail": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8d23e163abfbe32b889a83ce/thumb.webp",
-                "width": 480,
-                "height": 318
-              },
-              "medium": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8d23e163abfbe32b889a83ce/medium.webp",
-                "width": 1280,
-                "height": 848
-              },
-              "original": {
-                "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/8d23e163abfbe32b889a83ce/original.webp",
-                "width": 2560,
-                "height": 1696
-              }
-            },
-            "alt": "Chương trình thiện nguyện Hơi ấm nơi rẻo cao tại Cao Bằng · ảnh 54",
-            "caption": "Thánh lễ, cầu nguyện và sinh hoạt trong chuyến thiện nguyện Cao Bằng.",
-            "event": "Chuyến đi sẻ chia tình yêu Đức Kitô tại Cao Bằng",
-            "sourceFilename": "thiện nguyện52.JPG",
-            "sourceDirectory": "Thiện Nguyện 2023"
           }
         ]
-      }
+      },
+      "storyPhotos": [
+        {
+          "afterParagraph": 1,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/cadd00109625879f83cead51/original.webp"
+        },
+        {
+          "afterParagraph": 2,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/a5b10c1b438b466681ddaa36/original.webp"
+        },
+        {
+          "afterParagraph": 3,
+          "photoId": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2023/optimized/bb13df032c1a5942eb239b3e/original.webp"
+        }
+      ]
     }
   ],
   "achievements": [],

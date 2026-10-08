@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "activityId": "2026-phuc-vu-dai-le-phuc-sinh",
+  "title": "Phục vụ Đại lễ Phục Sinh",
+  "count": 5,
+  "images": [
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59f2a5708cf5276ed7a7e612/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59f2a5708cf5276ed7a7e612/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59f2a5708cf5276ed7a7e612/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59f2a5708cf5276ed7a7e612/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/59f2a5708cf5276ed7a7e612/original.webp",
+          "width": 2560,
+          "height": 1920
+        }
+      },
+      "alt": "Ca đoàn sau Đại lễ Phục Sinh",
+      "caption": "Ca đoàn sau Đại lễ Phục Sinh",
+      "sourceFilename": "IMG_1762.jpeg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6f8eca1555394d6f13a5c8d0/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6f8eca1555394d6f13a5c8d0/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6f8eca1555394d6f13a5c8d0/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6f8eca1555394d6f13a5c8d0/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/6f8eca1555394d6f13a5c8d0/original.webp",
+          "width": 2560,
+          "height": 1920
+        }
+      },
+      "alt": "Phục vụ Đại lễ Phục Sinh",
+      "caption": "Phục vụ Đại lễ Phục Sinh",
+      "sourceFilename": "IMG_1763.jpeg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9d6e7a71a5fe4bf496842288/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9d6e7a71a5fe4bf496842288/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9d6e7a71a5fe4bf496842288/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9d6e7a71a5fe4bf496842288/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/9d6e7a71a5fe4bf496842288/original.webp",
+          "width": 2560,
+          "height": 1920
+        }
+      },
+      "alt": "Phục vụ Đại lễ Phục Sinh",
+      "caption": "Phục vụ Đại lễ Phục Sinh",
+      "sourceFilename": "IMG_1764.jpeg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d8e5a430068b95377a15fa7a/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d8e5a430068b95377a15fa7a/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d8e5a430068b95377a15fa7a/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d8e5a430068b95377a15fa7a/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/d8e5a430068b95377a15fa7a/original.webp",
+          "width": 2560,
+          "height": 1920
+        }
+      },
+      "alt": "Phục vụ Đại lễ Phục Sinh",
+      "caption": "Phục vụ Đại lễ Phục Sinh",
+      "sourceFilename": "IMG_1765.jpeg"
+    },
+    {
+      "id": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a652f3f97ee10803f3325cce/original.webp",
+      "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a652f3f97ee10803f3325cce/medium.webp",
+      "variants": {
+        "thumbnail": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a652f3f97ee10803f3325cce/thumb.webp",
+          "width": 480,
+          "height": 360
+        },
+        "medium": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a652f3f97ee10803f3325cce/medium.webp",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "src": "https://teresa-admin-api.chanvcl10.workers.dev/media/media/2026/optimized/a652f3f97ee10803f3325cce/original.webp",
+          "width": 2560,
+          "height": 1920
+        }
+      },
+      "alt": "Phục vụ Đại lễ Phục Sinh",
+      "caption": "Phục vụ Đại lễ Phục Sinh",
+      "sourceFilename": "ảnh bìa.jpeg"
+    }
+  ]
+}
