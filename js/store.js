@@ -363,25 +363,21 @@
     return { file: new File([blob], `${base}-${label}.${extension}`, { type, lastModified: file.lastModified }), width, height, bytes: blob.size };
   }
 
-  async function prepareImageVariants(file) {
-    if (!file?.type?.startsWith("image/") || file.type === "image/svg+xml") throw new Error("Chỉ hỗ trợ ảnh JPEG, PNG, WebP hoặc AVIF.");
-    if (file.size > MAX_UPLOAD_BYTES) throw new Error("Ảnh lớn hơn 25 MB. Hãy chọn ảnh nhỏ hơn.");
+  async function prepareImageVariants(file, metadata = {}) {
+    if (!['image/jpeg', 'image/png', 'image/webp', 'image/avif'].includes(file?.type)) throw new Error("Hãy chọn ảnh JPG, PNG, WebP hoặc AVIF. Ảnh RAW cần xuất sang JPG trước khi thêm.");
+    if (file.size > MAX_UPLOAD_BYTES) throw new Error("Ảnh lớn hơn 25 MB. Hãy xuất ảnh JPG nhỏ hơn rồi thêm lại.");
     try {
-      // Tạo tuần tự để tránh tăng đột biến bộ nhớ trên iPhone. Bản "original"
-      // là ảnh xem lớn 3200 px chất lượng cao; kích thước này vẫn sắc nét khi
-      // lightbox phóng 2× nhưng tránh lưu ảnh máy ảnh 6K–8K quá nặng trên R2.
-      const thumbnail = await imageVariant(file, 480, "thumb", .76);
-      const medium = await imageVariant(file, 1280, "medium", .82);
-      const original = await imageVariant(file, 3200, "large", .90);
-      return { thumbnail, medium, original, originalBytes: file.size };
-    } catch (error) {
-      console.warn("Không thể tạo đủ biến thể, tải ảnh gốc:", error);
-      return { original: { file, width: 0, height: 0, bytes: file.size }, originalBytes: file.size };
+      const thumbnail = await imageVariant(file, 480, "thumb", .74);
+      const original = await imageVariant(file, metadata.purpose === "cover" ? 2560 : 2048, "web", .82);
+      // Worker aliases the missing medium to original: two stored files, three compatible URLs.
+      return { thumbnail, original, originalBytes: file.size };
+    } catch (_error) {
+      throw new Error("Không thể tối ưu ảnh này. Hãy xuất lại thành JPG rồi thử lại; ảnh gốc chưa được tải lên.");
     }
   }
 
   async function saveMedia(file, metadata = {}) {
-    const prepared = await prepareImageVariants(file);
+    const prepared = await prepareImageVariants(file, metadata);
     const form = new FormData();
     Object.entries(prepared).forEach(([variant, item]) => {
       if (variant === "originalBytes" || !item?.file) return;
@@ -405,10 +401,12 @@
     normalized.alt ||= metadata.alt || file.name;
     normalized.compression = {
       originalBytes: file.size,
-      displayBytes: prepared.medium?.bytes || file.size,
+      displayBytes: prepared.original.bytes,
       lightboxBytes: prepared.original?.bytes || file.size,
       originalPreserved: false,
-      maxLightboxEdge: 3200,
+      maxLightboxEdge: metadata.purpose === "cover" ? 2560 : 2048,
+      storedBytes: prepared.thumbnail.bytes + prepared.original.bytes,
+      storedVariants: 2,
     };
     await safeStore("media", "readwrite", (store) => store.put(normalized));
     return normalized;

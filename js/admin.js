@@ -16,6 +16,7 @@
   };
   const ROLE_KEYS = Schema?.ROLE_KEYS || Object.keys(ROLE_LABELS);
 
+  let activeSection = "events";
   let years = [];
   let currentYear = Number(params.get("year")) || 0;
   let draft = null;
@@ -24,6 +25,7 @@
   let editingId = params.get("activity") || "";
   let pendingActivityForm = null;
   let pendingActivityImages = [];
+  let pendingYearCover = null;
   let pendingCoverMedia = null;
   let dirty = false;
   let pendingLocalSave = false;
@@ -121,11 +123,11 @@
       else if (draftSavedAt) detail.textContent = `Bản nháp đã lưu lúc ${formatTime(draftSavedAt)}`;
       else detail.textContent = "Chưa có thay đổi";
     }
-    document.querySelector("#command-save-draft")?.toggleAttribute("disabled", busy || savingDraft);
-    document.querySelector("#command-preview")?.toggleAttribute("disabled", busy || !validation.valid);
-    document.querySelector("#command-publish")?.toggleAttribute("disabled", busy || !validation.valid || (!dirty && !pendingNew));
-    document.querySelector("#command-discard")?.toggleAttribute("disabled", busy || (!dirty && !pendingLocalSave && !pendingNew));
-    document.querySelectorAll("[data-year], #add-year").forEach((button) => button.toggleAttribute("disabled", busy || savingDraft || uploading));
+    document.querySelector("#command-save-draft")?.toggleAttribute("disabled", busy || savingDraft || uploading);
+    document.querySelector("#command-preview")?.toggleAttribute("disabled", busy || uploading || !validation.valid);
+    document.querySelector("#command-publish")?.toggleAttribute("disabled", busy || uploading || !validation.valid || (!dirty && !pendingNew));
+    document.querySelector("#command-discard")?.toggleAttribute("disabled", busy || uploading || (!dirty && !pendingLocalSave && !pendingNew));
+    document.querySelectorAll("[data-year], #add-year, #new-activity, #clear-activity, [data-edit-activity], [data-delete-activity], #logout").forEach((button) => button.toggleAttribute("disabled", busy || savingDraft || uploading));
     document.title = dirty || pendingLocalSave || pendingNew ? `• Quản trị ${currentYear} — Teresa` : `Quản trị ${currentYear} — Teresa`;
   }
 
@@ -148,9 +150,9 @@
     commandBar.hidden = true;
     const configured = Store.isFirebaseConfigured() && Store.isSourceApiConfigured();
     const cloudStatus = configured
-      ? `<p class="cloud-status active">Firebase Auth và Worker quản trị đã sẵn sàng.</p>`
+      ? `<p class="cloud-status active">Đăng nhập bằng tài khoản được cấp cho bạn.</p>`
       : `<p class="cloud-status warning">Thiếu cấu hình Firebase hoặc Worker quản trị. Chế độ đăng nhập cục bộ không được hỗ trợ.</p>`;
-    app.innerHTML = `<section class="admin-login"><div class="admin-login-card"><p class="eyebrow">Khu quản trị</p><h1>Chào người giữ ký ức.</h1><p>Đăng nhập để chuẩn bị bản nháp, xem trước rồi mới xuất bản.</p>${cloudStatus}${note}<form id="login-form"><label>Email Admin<input name="username" type="email" autocomplete="username" required /></label><label>Mật khẩu<span class="password-control"><input name="password" type="password" autocomplete="current-password" required /><button type="button" data-password-toggle aria-label="Hiện mật khẩu">Hiện</button></span></label><button class="button button-primary" type="submit">Đăng nhập →</button></form></div></section>`;
+    app.innerHTML = `<section class="admin-login"><div class="admin-login-card"><p class="eyebrow">Khu quản trị</p><h1>Chào người giữ ký ức.</h1><p>Đăng nhập để chuẩn bị bản nháp, xem trước rồi mới xuất bản.</p>${cloudStatus}${note}<form id="login-form"><label>Email<input name="username" type="email" autocomplete="username" required /></label><label>Mật khẩu<span class="password-control"><input name="password" type="password" autocomplete="current-password" required /><button type="button" data-password-toggle aria-label="Hiện mật khẩu">Hiện</button></span></label><button class="button button-primary" type="submit">Đăng nhập →</button></form></div></section>`;
     document.querySelector("[data-password-toggle]")?.addEventListener("click", (event) => {
       const input = document.querySelector('[name="password"]');
       const visible = input.type === "text";
@@ -203,7 +205,7 @@
       <label>Tiêu đề<input name="title" value="${escapeHTML(overview.title)}" required /></label>
       <label>Tóm tắt<textarea name="summary" rows="3">${escapeHTML(overview.summary)}</textarea></label>
       <label>Bài giới thiệu<textarea name="longDescription" rows="6">${escapeHTML(overview.longDescription)}</textarea></label>
-      <label>Ảnh bìa<input name="coverImage" value="${escapeHTML(sourceOf(overview.coverImage, "original"))}" /></label>
+      <label class="cover-upload">Chọn ảnh bìa năm<input id="year-cover" type="file" accept="image/jpeg,image/png,image/webp,image/avif" /></label><img class="year-cover-preview" src="${escapeHTML(sourceOf(overview.coverImage, "medium") || "images/hero.jpg")}" alt="Ảnh bìa năm" /><label hidden>Ảnh bìa<input name="coverImage" value="${escapeHTML(sourceOf(overview.coverImage, "original"))}" /></label>
       <div class="form-divider"><strong>Khung Dấu ấn</strong><small>Nội dung ngắn gọn giúp hiển thị tốt trên điện thoại.</small></div>
       <label>Tiêu đề dấu ấn<input name="yearMarkTitle" value="${escapeHTML(yearMark.title)}" /></label>
       <label>Dòng mô tả / ngày nổi bật<input name="yearMarkHighlight" value="${escapeHTML(yearMark.highlight)}" /></label>
@@ -246,6 +248,7 @@
       return `<figure class="selected-media-card" data-media-key="${escapeHTML(key)}" data-source="${escapeHTML(sourceOf(image, "original"))}">
         <img src="${escapeHTML(thumbnail || "images/hero.jpg")}" data-media-src="${escapeHTML(thumbnail)}" alt="${escapeHTML(caption)}" loading="lazy" decoding="async" />
         <figcaption title="${escapeHTML(caption)}">${escapeHTML(caption)}</figcaption>
+        <button type="button" data-use-activity-cover="${escapeHTML(key)}">Dùng làm bìa</button>
         ${hasManifest ? "" : `<button type="button" data-remove-activity-media="${escapeHTML(key)}" aria-label="Xóa ảnh ${escapeHTML(caption)}">Xóa</button>`}
       </figure>`;
     }).join("");
@@ -253,11 +256,11 @@
     return `<form class="admin-form" id="activity-form"><input type="hidden" name="id" value="${escapeHTML(activity.id || "")}" /><input type="hidden" name="coverImage" value="${escapeHTML(cover)}" />
       <div class="admin-form-title"><div><p class="eyebrow">Hoạt động</p><h2>${activity.id ? "Chỉnh sửa hoạt động" : "Thêm hoạt động"}</h2></div><button class="text-button" type="button" id="clear-activity">Tạo mục mới</button></div>
       <div class="activity-context"><span>Năm cố định: <strong>${currentYear}</strong></span><span>Mọi thay đổi chỉ nằm trong bản nháp cho đến khi bấm Xuất bản.</span></div>
-      <div class="form-grid two"><label>Tên hoạt động<input name="title" required value="${escapeHTML(activity.title || "")}" /></label><label>Ngày / thời gian<input name="date" required value="${escapeHTML(activity.date || "")}" placeholder="Ví dụ: 01.10.${currentYear}" /></label><label>Địa điểm<input name="location" value="${escapeHTML(activity.location || "")}" placeholder="Có thể để trống và bổ sung sau" /></label><label>Loại hoạt động<input name="type" required value="${escapeHTML(activity.type || "Thánh lễ")}" /></label><label>Chủ đề ảnh${topicSelect("topic", topic)}</label></div>
-      <label>Tóm tắt<input name="description" required value="${escapeHTML(activity.description || "")}" /></label>
-      <label>Bài viết chi tiết<textarea name="body" rows="7" required>${escapeHTML(activity.body || activity.description || "")}</textarea></label>
+      <div class="form-grid two"><label>Tên hoạt động<input name="title" required value="${escapeHTML(activity.title || "")}" /></label><label>Ngày / thời gian<input name="date" required value="${escapeHTML(activity.date || "")}" placeholder="Ví dụ: 01.10.${currentYear}" /></label><label>Địa điểm<input name="location" value="${escapeHTML(activity.location || "")}" placeholder="Có thể để trống và bổ sung sau" /></label><label>Loại sự kiện<input name="type" required value="${escapeHTML(activity.type || "Thánh lễ")}" /></label><label>Chủ đề ảnh${topicSelect("topic", topic)}</label></div>
+      <label>Giới thiệu ngắn<input name="description" required value="${escapeHTML(activity.description || "")}" /></label>
+      <label>Nội dung bài viết<textarea name="body" rows="7" required>${escapeHTML(activity.body || activity.description || "")}</textarea></label>
       <div class="word-import"><strong>Nhập bài viết Word</strong><input id="word-import" type="file" accept=".docx,application/vnd.openxmlformats-officedocument.wordprocessingml.document" /><small id="word-import-note">Chỉ nhập nội dung bài viết; năm và chủ đề không thay đổi.</small></div>
-      <div class="cover-picker"><div class="cover-picker-copy"><strong>Ảnh trang mở đầu hoạt động</strong><small>Ảnh tải lên được lưu ở R2 nhưng chỉ được áp dụng vào bản nháp.</small><code>${escapeHTML(cover || "Chưa chọn")}</code></div><img class="cover-preview" data-media-src="${escapeHTML(cover)}" src="${escapeHTML(cover || "images/hero.jpg")}" alt="Xem trước ảnh trang mở đầu" /><label class="cover-upload">Thay ảnh<input id="activity-cover" type="file" accept="image/jpeg,image/png,image/webp,image/avif" /></label></div>
+      <div class="cover-picker"><div class="cover-picker-copy"><strong>Ảnh trang mở đầu hoạt động</strong><small>Ảnh được tự động thu nhỏ và nén trước khi tải lên.</small><code hidden>${escapeHTML(cover || "Chưa chọn")}</code></div><img class="cover-preview" data-media-src="${escapeHTML(cover)}" src="${escapeHTML(cover || "images/hero.jpg")}" alt="Xem trước ảnh trang mở đầu" /><label class="cover-upload">Thay ảnh<input id="activity-cover" type="file" accept="image/jpeg,image/png,image/webp,image/avif" /></label></div>
       <div class="media-picker"><div><strong>Ảnh của hoạt động</strong><p>${hasManifest ? "Album đang dùng chỉ mục riêng. Ảnh xem trước được hiển thị bên dưới; có thể quản lý toàn bộ tại Kho ảnh theo sự kiện." : `Ảnh được tải tuần tự để tránh quá tải bộ nhớ trên điện thoại. Bấm Xóa trên ảnh nếu không còn cần dùng.`}</p></div><input id="activity-images" type="file" accept="image/jpeg,image/png,image/webp,image/avif" multiple ${hasManifest ? "disabled" : ""} /><button class="text-button" type="button" data-cancel-upload hidden>Dừng sau ảnh hiện tại</button><small data-upload-status></small><div id="selected-images" class="selected-media">${imageRows || '<p class="empty-note">Hoạt động này chưa có ảnh.</p>'}</div></div>
       <button class="button button-primary" type="submit">Lưu hoạt động vào bản nháp</button></form>`;
   }
@@ -276,7 +279,7 @@
     }).join("");
     return `<section class="admin-panel media-panel"><div class="admin-form-title"><div><p class="eyebrow">Kho ảnh ${currentYear}</p><h2>Ảnh theo năm và chủ đề</h2></div></div>
       <form id="media-form" class="media-upload-form"><input name="media" type="file" accept="image/jpeg,image/png,image/webp,image/avif" multiple required /><label>Chủ đề${topicSelect("topic", mediaState.topic === "Tất cả" ? "Khác" : mediaState.topic)}</label><input name="caption" placeholder="Chú thích ảnh" /><button class="button" type="submit">Thêm vào kho ảnh</button><button class="text-button" type="button" data-cancel-upload hidden>Dừng sau ảnh hiện tại</button><small data-upload-status></small></form>
-      <p class="storage-note">Mỗi lần chỉ hiển thị 24 ảnh. Ảnh tải lên có bản nhỏ, vừa và đầy đủ để dùng tốt trên điện thoại.</p>
+      <p class="storage-note">Ảnh được nén tự động và lưu hai kích thước để tiết kiệm dung lượng. Hiện hỗ trợ JPG, PNG, WebP và AVIF; ảnh RAW cần xuất sang JPG trước khi thêm.</p>
       <div class="media-library-controls"><label>Sự kiện<select id="media-activity-filter"><option value="">Tất cả sự kiện</option>${activityOptions}</select></label><div class="media-filters">${allTopics.map((topic) => `<button type="button" class="${topic === mediaState.topic ? "active" : ""}" data-media-filter="${escapeHTML(topic)}">${escapeHTML(topic)}</button>`).join("")}</div></div>
       <div class="media-library">${cards || '<p class="empty-note">Chưa có ảnh trong trang này.</p>'}</div>
       ${mediaState.truncated ? '<button class="button" id="load-more-media" type="button">Tải thêm 24 ảnh</button>' : ""}</section>`;
@@ -357,9 +360,17 @@
     if (extraNotice) noticeHTML = extraNotice;
     const selected = draft.activities.find((activity) => activity.id === editingId) || (!editingId ? pendingActivityForm || {} : {});
     const yearButtons = years.map((year) => `<button type="button" class="${year === currentYear ? "active" : ""}" data-year="${year}">${year}</button>`).join("");
-    app.innerHTML = `<section class="admin-shell"><div class="container"><div class="admin-heading"><div><p class="eyebrow">Quản trị kho lưu trữ · Bản nháp an toàn</p><h1>Nhật ký, hoạt động<br /><em>và những bức ảnh.</em></h1></div><div class="admin-tools"><button type="button" id="export-word">Xuất Word năm ${currentYear}</button><button type="button" id="export-archive">Sao lưu JSON đã xuất bản</button><label class="import-label">Nhập JSON vào bản nháp<input id="import-archive" type="file" accept="application/json" /></label><button type="button" id="logout">Đăng xuất</button></div></div>
+    const sections = [["events", "Sự kiện"], ["year", "Giới thiệu năm"], ["people", "Ban điều hành & ca viên"], ["photos", "Kho ảnh"], ["review", "Kiểm tra & lịch sử"]];
+    app.innerHTML = `<section class="admin-shell"><div class="container"><div class="admin-heading"><div><p class="eyebrow">Quản trị nhật ký</p><h1>Nhật ký năm ${currentYear}</h1><p>Chọn năm, sửa nội dung và ảnh, xem trước rồi đăng lên website.</p></div><div class="admin-tools"><a class="button" href="year.html?year=${currentYear}" target="_blank" rel="noopener">Xem website ↗</a><button type="button" id="logout">Đăng xuất</button></div></div>
       ${noticeHTML}<nav class="admin-years" aria-label="Chọn năm">${yearButtons}<button type="button" id="add-year">+ Thêm năm</button></nav>
-      ${editorPanel()}${validationPanel()}<div class="admin-grid"><aside>${overviewForm()}${membersForm()}</aside><div><section class="admin-panel"><div class="admin-form-title"><div><p class="eyebrow">Danh sách</p><h2>Hoạt động năm ${currentYear}</h2></div><button type="button" class="button" id="new-activity">+ Thêm hoạt động</button></div><div class="admin-activity-list">${activityRows() || '<p class="empty-note">Chưa có hoạt động.</p>'}</div></section>${activityForm(selected)}${mediaPanel()}${historyPanel()}</div></div></div></section>`;
+      <ol class="admin-steps" aria-label="Các bước đăng bài"><li><strong>1</strong> Chọn năm & viết bài</li><li><strong>2</strong> Thêm ảnh & chọn bìa</li><li><strong>3</strong> Xem trước & đăng bài</li></ol>
+      <nav class="admin-sections" aria-label="Mục quản trị">${sections.map(([key, label]) => `<button type="button" data-admin-section="${key}" aria-controls="admin-section-${key}" aria-pressed="${key === activeSection}">${label}</button>`).join("")}</nav>
+      <div class="admin-section" id="admin-section-events" ${activeSection === "events" ? "" : "hidden"}><section class="admin-panel"><div class="admin-form-title"><div><p class="eyebrow">${draft.activities.length} sự kiện</p><h2>Sự kiện năm ${currentYear}</h2></div><button type="button" class="button button-primary" id="new-activity">+ Thêm sự kiện</button></div><label class="admin-search">Tìm sự kiện<input id="activity-search" type="search" placeholder="Nhập tên hoặc ngày…" /></label><div class="admin-activity-list">${activityRows() || '<p class="empty-note">Chưa có sự kiện. Bấm “Thêm sự kiện” để bắt đầu.</p>'}</div><p id="activity-search-empty" hidden>Không tìm thấy sự kiện phù hợp.</p></section>${activityForm(selected)}</div>
+      <div class="admin-section" id="admin-section-year" ${activeSection === "year" ? "" : "hidden"}>${overviewForm()}</div>
+      <div class="admin-section" id="admin-section-people" ${activeSection === "people" ? "" : "hidden"}>${leadershipForm()}${membersForm()}</div>
+      <div class="admin-section" id="admin-section-photos" ${activeSection === "photos" ? "" : "hidden"}>${mediaPanel()}</div>
+      <div class="admin-section" id="admin-section-review" ${activeSection === "review" ? "" : "hidden"}>${validationPanel()}${editorPanel()}${historyPanel()}<details class="admin-panel admin-advanced"><summary>Công cụ nâng cao · sao lưu và nhập dữ liệu</summary><div class="admin-tools"><button type="button" id="export-word">Tải bài viết Word năm ${currentYear}</button><button type="button" id="export-archive">Sao lưu dữ liệu</button><label class="import-label">Khôi phục từ tệp dữ liệu<input id="import-archive" type="file" accept="application/json" /></label></div></details></div>
+      <p class="storage-note">Bản nháp tự lưu trên thiết bị này. Bấm “Đăng lên website” khi đã xem trước và kiểm tra xong.</p></div></section>`;
     noticeHTML = "";
     Store.hydrateMedia?.(app);
     bindDashboard();
@@ -408,7 +419,7 @@
       title: values.title || "",
       summary: values.summary || "",
       longDescription: values.longDescription || "",
-      coverImage: preserveMedia(draft.overview?.coverImage, values.coverImage),
+      coverImage: preserveMedia(draft.overview?.coverImage, values.coverImage, pendingYearCover),
     };
     draft.yearMark = { ...(draft.yearMark || {}), title: values.yearMarkTitle || "Dấu ấn trong năm", highlight: values.yearMarkHighlight || "" };
   }
@@ -547,6 +558,7 @@
     const requestId = ++openYearRequest;
     busy = true;
     updateCommandBar();
+    pendingYearCover = null;
     currentYear = Number(year);
     editingId = "";
     pendingActivityForm = null;
@@ -615,6 +627,7 @@
   }
 
   async function publishDraft() {
+    if (uploading || busy) return;
     syncAllForms();
     await saveDraftNow({ sync: false });
     await auditCoverImages({ render: false });
@@ -682,6 +695,7 @@
     if (!files.length || uploading) return;
     const oversized = files.find((file) => file.size > Number(Store.MAX_UPLOAD_BYTES || 25 * 1024 * 1024));
     if (oversized) throw new Error(`${oversized.name} lớn hơn 25 MB. Hãy nén hoặc chọn ảnh nhỏ hơn.`);
+    syncAllForms();
     uploading = true;
     cancelUploads = false;
     const context = { year: currentYear, draft, editingId, baseRevision, pendingImages: pendingActivityImages };
@@ -775,6 +789,43 @@
   }
 
   function bindDashboard() {
+    document.querySelectorAll("[data-use-activity-cover]").forEach((button) => button.addEventListener("click", () => {
+      const media = activityMediaRegistry.get(button.dataset.useActivityCover);
+      if (!media) return;
+      pendingCoverMedia = clone(media);
+      document.querySelector('#activity-form [name="coverImage"]').value = sourceOf(media);
+      document.querySelector(".cover-preview").src = sourceOf(media, "medium");
+      markChanged();
+      button.textContent = "Đã chọn làm bìa";
+    }));
+    document.querySelector("#year-cover")?.addEventListener("change", async (event) => {
+      const file = event.target.files[0];
+      if (!file || uploading) return;
+      try {
+        uploading = true; updateCommandBar(); event.target.disabled = true;
+        const saved = await Store.saveMedia(file, { year: currentYear, topic: "Cộng đoàn", caption: `Ảnh bìa năm ${currentYear}`, purpose: "cover", draftId: `${currentYear}:${baseRevision || "new"}` });
+        pendingYearCover = saved;
+        document.querySelector('#overview-form [name="coverImage"]').value = sourceOf(saved);
+        document.querySelector(".year-cover-preview").src = sourceOf(saved, "medium");
+        draft.overview.coverImage = clone(saved);
+        markChanged();
+      } catch (error) { showError(error, "Không thể thêm ảnh bìa năm"); }
+      finally { uploading = false; event.target.disabled = false; updateCommandBar(); }
+    });
+    document.querySelectorAll("[data-admin-section]").forEach((button) => button.addEventListener("click", () => {
+      activeSection = button.dataset.adminSection;
+      document.querySelectorAll(".admin-section").forEach((section) => { section.hidden = section.id !== `admin-section-${activeSection}`; });
+      document.querySelectorAll("[data-admin-section]").forEach((item) => item.setAttribute("aria-pressed", String(item === button)));
+    }));
+    document.querySelector("#activity-search")?.addEventListener("input", (event) => {
+      const query = event.target.value.trim().toLocaleLowerCase("vi");
+      let count = 0;
+      document.querySelectorAll(".admin-activity-row").forEach((row) => {
+        row.hidden = !row.textContent.toLocaleLowerCase("vi").includes(query);
+        if (!row.hidden) count += 1;
+      });
+      document.querySelector("#activity-search-empty").hidden = count > 0;
+    });
     document.querySelectorAll("[data-year]").forEach((button) => button.addEventListener("click", async () => openYear(Number(button.dataset.year))));
     document.querySelector("#add-year")?.addEventListener("click", async () => {
       const suggested = Math.min(Store.YEAR_MAX, Math.max(...years) + 1);
@@ -787,7 +838,7 @@
     });
     document.querySelector("#logout")?.addEventListener("click", async () => { if (pendingLocalSave) await saveDraftNow(); await Store.logout(); loginView(); });
     document.querySelector("#new-activity")?.addEventListener("click", () => { syncAllForms(); editingId = ""; pendingActivityForm = null; pendingActivityImages = []; pendingCoverMedia = null; renderPreservingScroll(); document.querySelector("#activity-form")?.scrollIntoView({ behavior: "smooth", block: "start" }); });
-    document.querySelector("#clear-activity")?.addEventListener("click", () => { editingId = ""; pendingActivityForm = null; pendingActivityImages = []; pendingCoverMedia = null; renderPreservingScroll(); });
+    document.querySelector("#clear-activity")?.addEventListener("click", () => { syncAllForms(); editingId = ""; pendingActivityForm = null; pendingActivityImages = []; pendingCoverMedia = null; renderPreservingScroll(); });
     document.querySelectorAll("[data-edit-activity]").forEach((button) => button.addEventListener("click", () => { syncAllForms(); editingId = button.dataset.editActivity; pendingActivityImages = []; pendingCoverMedia = null; renderPreservingScroll(); document.querySelector("#activity-form")?.scrollIntoView({ behavior: "smooth", block: "start" }); }));
     document.querySelectorAll("[data-preview-activity]").forEach((button) => button.addEventListener("click", () => previewDraft(button.dataset.previewActivity)));
     document.querySelectorAll("[data-delete-activity]").forEach((button) => button.addEventListener("click", async () => {
@@ -882,6 +933,7 @@
       const file = event.target.files[0];
       if (!file || uploading) return;
       if (file.size > Number(Store.MAX_UPLOAD_BYTES || 25 * 1024 * 1024)) { showError(new Error(`${file.name} lớn hơn 25 MB.`), "Không thể tải ảnh bìa"); return; }
+      syncAllForms();
       const uploadYear = currentYear;
       const uploadRevision = baseRevision;
       const uploadEditingId = editingId;
@@ -891,7 +943,7 @@
         event.target.disabled = true;
         updateCommandBar();
         const topic = document.querySelector('#activity-form [name="topic"]')?.value || "Khác";
-        const saved = await Store.saveMedia(file, { year: uploadYear, topic, activityId: uploadEditingId, caption: `Ảnh mở đầu · ${file.name}`, alt: file.name, draftId: `${uploadYear}:${uploadRevision || "new"}` });
+        const saved = await Store.saveMedia(file, { year: uploadYear, topic, activityId: uploadEditingId, caption: `Ảnh mở đầu · ${file.name}`, alt: file.name, purpose: "cover", draftId: `${uploadYear}:${uploadRevision || "new"}` });
         pendingCoverMedia = saved;
         const src = sourceOf(saved, "original");
         document.querySelector('#activity-form [name="coverImage"]').value = src;

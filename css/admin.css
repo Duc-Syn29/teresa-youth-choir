@@ -1,0 +1,36 @@
+/* A focused workspace for editors; public pages keep their own styling. */
+.admin-page .admin-shell { padding-bottom: 13rem; }
+.admin-page .admin-heading { align-items: center; margin-bottom: 1.5rem; }
+.admin-page .admin-heading h1 { font-size: clamp(2rem, 5vw, 3.2rem); line-height: 1.2; }
+.admin-page .admin-heading p:not(.eyebrow) { margin-top: .6rem; color: var(--muted); font-size: .95rem; }
+.admin-steps { display: flex; flex-wrap: wrap; gap: 1rem; padding: 1rem; margin: 0 0 1rem; list-style: none; background: #fff8; border-radius: 1rem; }
+.admin-steps li { display: flex; align-items: center; gap: .5rem; font-size: .85rem; }
+.admin-steps strong { display: grid; place-items: center; width: 1.8rem; height: 1.8rem; border-radius: 50%; color: white; background: var(--teal-700); }
+.admin-sections { display: flex; flex-wrap: wrap; gap: .5rem; margin-bottom: 1.25rem; }
+.admin-sections button { min-height: 44px; padding: .75rem 1rem; border: 1px solid #087ca52e; border-radius: .75rem; background: white; color: var(--ink); font: inherit; font-size: .9rem; cursor: pointer; }
+.admin-sections button[aria-pressed="true"] { background: var(--teal-700); color: white; }
+.admin-section[hidden], .admin-activity-row[hidden], #activity-search-empty[hidden] { display: none; }
+.admin-page .admin-form label { font-size: .9rem; letter-spacing: 0; }
+.admin-page .admin-form input, .admin-page .admin-form textarea, .admin-page .admin-form select, .admin-page .media-upload-form input, .admin-page .media-upload-form select { font-size: 1rem; min-height: 44px; }
+.admin-page .admin-tools button, .admin-page .text-button, .admin-page .admin-row-actions button { min-height: 44px; font-size: .8rem; }
+.admin-search { display: grid; gap: .5rem; margin-bottom: 1rem; }
+.admin-search input { width: 100%; min-height: 44px; padding: .8rem; font: inherit; border: 1px solid #087ca52e; border-radius: .7rem; }
+.year-cover-preview { width: min(100%, 32rem); max-height: 18rem; object-fit: contain; border-radius: .8rem; margin-bottom: 1rem; }
+.admin-page .team-member-editor { grid-template-columns: minmax(8rem, 1fr) minmax(8rem, 1fr) minmax(8rem, 1fr) auto auto auto; }
+.admin-advanced summary { cursor: pointer; min-height: 44px; font-weight: 600; }
+.admin-advanced .admin-tools { justify-content: start; padding-top: 1rem; }
+.admin-page .selected-media-card button { min-height: 44px; position: static; font-size: .8rem; margin: .2rem; }
+.admin-page .selected-media-card figcaption { position: static; color: var(--ink); background: transparent; }
+.admin-page :focus-visible { outline: 3px solid var(--teal-700); outline-offset: 3px; }
+@media (max-width: 720px) {
+  .admin-sections { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); }
+  .admin-sections button { padding: .65rem .4rem; font-size: .82rem; }
+  .admin-page .form-grid.two, .admin-page .form-grid.three, .admin-page .team-row, .admin-page .team-member-editor { grid-template-columns: minmax(0, 1fr); }
+  .admin-page .admin-panel, .admin-page .admin-form { padding: 1rem; }
+  .admin-page .admin-form-title { flex-wrap: wrap; }
+  .admin-page .admin-row-actions { flex-wrap: wrap; }
+  .admin-page .admin-command-actions .button { font-size: .7rem; white-space: normal; }
+  .admin-page .admin-command-status span { font-size: .75rem; }
+  .admin-page .media-upload-form { grid-template-columns: minmax(0,1fr); }
+  .admin-page .admin-activity-row { display: grid; grid-template-columns: minmax(0,1fr); }
+}
