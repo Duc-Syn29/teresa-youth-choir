@@ -8,7 +8,7 @@
       content="Ca đoàn Giới trẻ Têrêsa — Hiệp nhất, Yêu thương, Phục vụ. Tập hát lúc 19:30 thứ Năm hằng tuần; phục vụ Thánh lễ lúc 20:00 tối thứ Bảy vào các tuần 1, 3 và 5 hằng tháng."
     />
     <meta name="theme-color" content="#83cedd" />
-    <title>Teresa Youth Choir — Nhật ký hành trình 2015–2025</title>
+    <title>Teresa Youth Choir — Nhật ký hành trình 2015–2026</title>
     <link rel="icon" type="image/png" href="images/favicon.png" />
 
     <!-- Phông chữ có fallback hệ thống nên website vẫn hiển thị tốt khi offline. -->
@@ -17,11 +17,12 @@
     <link rel="preconnect" href="https://teresa-admin-api.chanvcl10.workers.dev" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
     <noscript><link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet" /></noscript>
-    <link rel="preload" as="image" type="image/webp" href="images/optimized/hero-1280.webp" imagesrcset="images/optimized/hero-480.webp 480w, images/optimized/hero-768.webp 768w, images/optimized/hero-1280.webp 1280w, images/optimized/hero-2048.webp 2048w" imagesizes="100vw" fetchpriority="high" />
-    <link rel="stylesheet" href="css/style.css?v=archive-2026-65" />
+    <link rel="preload" as="image" type="image/webp" href="images/optimized/hero-1280.webp" imagesrcset="images/optimized/hero-480.webp 480w, images/optimized/hero-768.webp 768w, images/optimized/hero-1280.webp 1280w, images/optimized/hero-2048.webp 2048w" imagesizes="(max-width: 680px) max(100vw, 150svh), 100vw" fetchpriority="high" />
+    <link rel="stylesheet" href="css/style.css?v=public-20261015" />
+    <script src="js/public-tools.js?v=public-20261015" defer></script>
     <script src="js/schema.js?v=archive-2026-62" defer></script>
-    <script src="js/store.js?v=archive-2026-66" defer></script>
-    <script src="js/main.js?v=archive-2026-64" defer></script>
+    <script src="js/store.js?v=public-20261015" defer></script>
+    <script src="js/main.js?v=public-20261015" defer></script>
   </head>
 
   <body>
@@ -53,10 +54,10 @@
 
     <main id="main-content">
       <section class="hero" id="home" aria-labelledby="hero-title">
-        <div class="hero-bg" aria-hidden="true"><picture><source type="image/webp" srcset="images/optimized/hero-480.webp 480w, images/optimized/hero-768.webp 768w, images/optimized/hero-1280.webp 1280w, images/optimized/hero-2048.webp 2048w" sizes="100vw" /><img src="images/optimized/hero-1280.jpg" srcset="images/optimized/hero-480.jpg 480w, images/optimized/hero-1280.jpg 1280w, images/optimized/hero-2048.jpg 2048w" sizes="(max-width: 680px) max(100vw, 150svh), 100vw" alt="" width="2400" height="1596" fetchpriority="high" decoding="async" /></picture></div>
+        <div class="hero-bg" aria-hidden="true"><picture><source type="image/webp" srcset="images/optimized/hero-480.webp 480w, images/optimized/hero-768.webp 768w, images/optimized/hero-1280.webp 1280w, images/optimized/hero-2048.webp 2048w" sizes="(max-width: 680px) max(100vw, 150svh), 100vw" /><img src="images/optimized/hero-1280.jpg" srcset="images/optimized/hero-480.jpg 480w, images/optimized/hero-1280.jpg 1280w, images/optimized/hero-2048.jpg 2048w" sizes="(max-width: 680px) max(100vw, 150svh), 100vw" alt="" width="2400" height="1596" fetchpriority="high" decoding="async" /></picture></div>
         <div class="hero-grain" aria-hidden="true"></div>
         <div class="hero-content container">
-          <p class="eyebrow hero-reveal">Digital Memory Archive · 2015—2025</p>
+          <p class="eyebrow hero-reveal">Digital Memory Archive · 2015—2026</p>
           <h1 id="hero-title" class="hero-reveal">
             <span>TERESA</span>
             <span class="script-line">Youth Choir</span>
@@ -136,7 +137,8 @@
             <p>Chọn một năm để mở lại những trang nhật ký đã được cùng nhau viết nên.</p>
           </div>
 
-          <div class="timeline" aria-label="Hành trình từ 2015 đến 2025">
+          <section class="memory-search" aria-label="Tìm kỷ niệm"><label for="memory-query">Tìm kỷ niệm trong hành trình</label><div class="memory-search-fields"><input id="memory-query" type="search" placeholder="Tên sự kiện, địa điểm, kỷ niệm…" autocomplete="off" /><select id="memory-year" aria-label="Chọn năm"><option value="">Tất cả năm</option></select><select id="memory-topic" aria-label="Chọn chủ đề"><option value="">Tất cả chủ đề</option></select></div><p id="memory-search-status" role="status"></p><div id="memory-results"></div><button type="button" id="memory-more" hidden>Xem thêm kết quả</button></section>
+        <div class="timeline" aria-label="Hành trình từ 2015 đến 2025">
             <div class="timeline-line" aria-hidden="true"><span></span></div>
 
             <a class="timeline-item" href="year.html?year=2015">

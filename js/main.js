@@ -186,13 +186,13 @@
       let referringYear = 0;
       try {
         const referrer = new URL(document.referrer);
-        if (referrer.origin === location.origin && referrer.pathname.endsWith("/year.html")) referringYear = Number(referrer.searchParams.get("year"));
+        if (referrer.origin === location.origin && (referrer.pathname.endsWith("/year.html") || /\/nhat-ky-\d{4}(?:\.html)?$/.test(referrer.pathname))) referringYear = Number(referrer.searchParams.get("year") || window.TeresaPublic?.route(referrer.pathname)?.year);
       } catch (_error) { /* Liên kết quay lại thông thường vẫn hoạt động. */ }
       document.addEventListener("click", (event) => {
-        const link = event.target.closest('a[href*="year.html?year="]');
+        const link = event.target.closest('a[href*="year.html?year="],a[href*="nhat-ky-"]');
         if (!link || event.defaultPrevented || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey || link.target || link.hasAttribute("download")) return;
         const destination = new URL(link.href, location.href);
-        if (!referringYear || Number(destination.searchParams.get("year")) !== referringYear) return;
+        if (!referringYear || Number(destination.searchParams.get("year") || window.TeresaPublic?.route(destination.pathname)?.year) !== referringYear) return;
         event.preventDefault();
         document.documentElement.classList.add("page-leaving");
         requestAnimationFrame(() => history.back());
@@ -767,6 +767,7 @@
       eventsRoot.innerHTML = visibleEvents.length
         ? visibleEvents.map(eventMarkup).join("")
         : '<div class="activity-archive-empty"><strong>Không tìm thấy sự kiện</strong><p>Hãy thử tên, chủ đề hoặc một năm khác.</p></div>';
+      rewritePublicLinks(eventsRoot);
       await window.TeresaStore?.hydrateMedia(eventsRoot);
     };
 
@@ -833,156 +834,159 @@
     dialog.addEventListener("click", (event) => { if (event.target === dialog) closeDialog(); });
   }
 
+  function initMemorySearch() {
+    const query = document.querySelector("#memory-query");
+    if (!query) return;
+    const yearSelect = document.querySelector("#memory-year");
+    const topicSelect = document.querySelector("#memory-topic");
+    const results = document.querySelector("#memory-results");
+    const status = document.querySelector("#memory-search-status");
+    const more = document.querySelector("#memory-more");
+    let all = [], visible = 8, timer;
+    const render = (reset = true) => {
+      if (reset) visible = 8;
+      const text = normalizeText(query.value);
+      if (!text && !yearSelect.value && !topicSelect.value) {
+        results.innerHTML = ""; status.textContent = "Tìm theo tên, địa điểm, năm hoặc chủ đề."; more.hidden = true; return;
+      }
+      const matches = all.filter(item => (!yearSelect.value || String(item.year) === yearSelect.value) && (!topicSelect.value || item.type === topicSelect.value) && (!text || normalizeText([item.title,item.description,item.type,item.topic,item.date,item.year].join(" ")).includes(text)));
+      status.textContent = `${matches.length} kỷ niệm phù hợp`;
+      results.innerHTML = matches.slice(0, visible).map(item => `<a class="memory-result" href="activity.html?year=${item.year}&id=${encodeURIComponent(item.id)}"><small>${item.year} · ${escapeHTML(item.type || "Kỷ niệm")}</small><strong>${escapeHTML(item.title)}</strong><span>${escapeHTML(item.date)} <b aria-hidden="true">↗</b></span></a>`).join("");
+      more.hidden = visible >= matches.length;
+      rewritePublicLinks(results);
+    };
+    query.addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(render, 120); });
+    yearSelect.addEventListener("change", () => render()); topicSelect.addEventListener("change", () => render());
+    more.addEventListener("click", () => { visible += 8; render(false); });
+    window.TeresaStore.loadIndex().then(index => {
+      all = index.years.filter(item => window.TeresaSchema?.isYearPublic?.(item.year) !== false).flatMap(item => (item.events || []).map(event => ({...event,year:item.year}))).sort((a,b) => b.year-a.year);
+      yearSelect.innerHTML += [...new Set(all.map(item => item.year))].sort((a,b)=>b-a).map(year=>`<option>${year}</option>`).join("");
+      topicSelect.innerHTML += [...new Set(all.map(item=>item.type).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"vi")).map(type=>`<option value="${escapeHTML(type)}">${escapeHTML(type)}</option>`).join("");
+      render();
+    }).catch(() => { status.textContent = "Chưa tải được chỉ mục. Hãy tải lại trang để tìm kiếm."; });
+  }
+
+  function rewritePublicLinks(root = document) {
+    if (!document.documentElement.hasAttribute("data-static-routes")) return;
+    root.querySelectorAll("a[href]").forEach(link => {
+      const url = new URL(link.href, location.href);
+      if (url.origin !== location.origin || url.searchParams.has("preview")) return;
+      const year = url.searchParams.get("year");
+      if (!/^\d{4}$/.test(year || "")) return;
+      if (/\/(year)(\.html)?$/.test(url.pathname)) link.href = window.TeresaPublic.yearUrl(year) + url.hash;
+      if (/\/(activity)(\.html)?$/.test(url.pathname) && url.searchParams.get("id")) link.href = window.TeresaPublic.activityUrl(year, url.searchParams.get("id")) + url.hash;
+    });
+  }
+
+  function initDataPreference() {
+    if (document.body.classList.contains("admin-page")) return;
+    const footer = document.querySelector(".site-footer .container") || document.querySelector(".site-footer");
+    if (!footer) return;
+    const label = document.createElement("label"); label.className = "data-preference";
+    const input = document.createElement("input"); input.type = "checkbox"; input.checked = window.TeresaPublic.savingData();
+    const span = document.createElement("span"); span.textContent = "Tiết kiệm dữ liệu ảnh";
+    label.append(input,span); footer.append(label);
+    input.addEventListener("change", () => {
+      window.TeresaPublic.setSavingData(input.checked);
+      document.dispatchEvent(new CustomEvent("teresa:data-preference"));
+    });
+  }
+
   function initLightbox() {
     const dialog = document.querySelector(".lightbox");
     if (!dialog || typeof dialog.showModal !== "function") return;
-    const image = dialog.querySelector("figure img");
-    const caption = dialog.querySelector("figcaption");
-    const close = dialog.querySelector(".lightbox-close");
-    const previous = dialog.querySelector(".lightbox-prev");
-    const next = dialog.querySelector(".lightbox-next");
-    const figure = dialog.querySelector("figure");
+    // Dynamic galleries may re-initialize; install the controls exactly once.
+    if (dialog._teresaOpen) { window.TeresaUI.openLightbox = dialog._teresaOpen; return; }
+    const image = dialog.querySelector("figure img"), figure = dialog.querySelector("figure");
+    const caption = dialog.querySelector("figcaption"), close = dialog.querySelector(".lightbox-close");
+    const previous = dialog.querySelector(".lightbox-prev"), next = dialog.querySelector(".lightbox-next");
     let counter = figure.querySelector(".lightbox-counter");
-    if (!counter) {
-      counter = document.createElement("span");
-      counter.className = "lightbox-counter";
-      figure.prepend(counter);
-    }
-    const state = dialog._teresaState || { activeIndex: 0, customItems: null, albumTitle: "", touchStartX: 0, touchStartY: 0, requestId: 0, opener: null, lastTap: 0, zoomed: false };
-    dialog._teresaState = state;
-
-    const domItems = () => [...document.querySelectorAll(".gallery-item[data-full]:not(.hidden)")].map((item) => ({
-      src: item.dataset.full,
-      alt: item.querySelector("img")?.alt || "Ảnh kỷ niệm của ca đoàn",
-      caption: item.dataset.caption || "Kỷ niệm Teresa Youth Choir",
-    }));
-    const items = () => state.customItems || domItems();
-    const resolveItem = async (item) => {
-      const candidate = window.TeresaStore?.mediaSource(item, "original") || item?.src || "";
-      return window.TeresaStore?.resolveSource(candidate, "original") || candidate;
+    if (!counter) { counter = document.createElement("span"); counter.className = "lightbox-counter"; figure.prepend(counter); }
+    const status = document.createElement("p"); status.className = "lightbox-status"; status.setAttribute("role","status");
+    const retry = document.createElement("button"); retry.type="button"; retry.className="lightbox-retry"; retry.textContent="Thử tải lại ảnh"; retry.hidden=true;
+    const full = document.createElement("button"); full.type="button"; full.className="lightbox-full"; full.textContent="Xem bản nét"; full.hidden=true;
+    figure.append(status,retry,full);
+    const state = { index:0, custom:null, title:"", request:0, opener:null, scale:1, x:0,y:0, full:false,lastTap:0 };
+    const domItems = () => [...document.querySelectorAll(".gallery-item[data-full]:not(.hidden)")].map(item => ({src:item.dataset.full, preview:item.querySelector("img")?.currentSrc || item.querySelector("img")?.dataset.mediaSrc, variants:{medium:item.dataset.medium || item.querySelector("img")?.currentSrc || item.querySelector("img")?.dataset.mediaSrc,thumbnail:item.querySelector("img")?.currentSrc || item.querySelector("img")?.dataset.mediaSrc}, alt:item.querySelector("img")?.alt,caption:item.dataset.caption}));
+    const items = () => state.custom || domItems();
+    const resolve = async (item, variant="original") => {
+      const candidate = window.TeresaStore?.mediaSource(item,variant) || item?.src || "";
+      return window.TeresaStore?.resolveSource(candidate,variant) || candidate;
     };
-    const preloadNext = (currentItems) => {
-      if (currentItems.length < 2 || navigator.connection?.saveData || /(^|-)2g$/.test(navigator.connection?.effectiveType || "")) return;
-      [currentItems[(state.activeIndex + 1) % currentItems.length]].forEach(async (item) => {
-        const src = await resolveItem(item);
-        if (!src) return;
-        const preload = new Image();
-        preload.decoding = "async";
-        preload.fetchPriority = "low";
-        preload.src = src;
-      });
+    const transform = () => {
+      const xLimit = image.clientWidth * (state.scale-1)/2, yLimit = image.clientHeight * (state.scale-1)/2;
+      state.x = Math.max(-xLimit,Math.min(xLimit,state.x)); state.y=Math.max(-yLimit,Math.min(yLimit,state.y));
+      image.style.transform=`translate3d(${state.x}px,${state.y}px,0) scale(${state.scale})`;
+      image.classList.toggle("is-zoomed",state.scale>1);
     };
-    const show = async (index) => {
-      const currentItems = items();
-      if (!currentItems.length) return;
-      state.activeIndex = (index + currentItems.length) % currentItems.length;
-      state.zoomed = false;
-      image.classList.remove("is-zoomed");
-      image.style.transform = "";
-      figure.style.transform = "";
-      const current = currentItems[state.activeIndex];
-      const requestId = ++state.requestId;
-      image.classList.add("is-changing");
-      const resolved = await resolveItem(current);
-      if (requestId !== state.requestId) return;
-      image.alt = current.alt || "Ảnh kỷ niệm của ca đoàn";
-      caption.textContent = current.caption || state.albumTitle || "Kỷ niệm Teresa Youth Choir";
-      counter.textContent = `${state.activeIndex + 1} / ${currentItems.length}${state.albumTitle ? ` · ${state.albumTitle}` : ""}`;
-      previous.disabled = currentItems.length < 2;
-      next.disabled = currentItems.length < 2;
-      const finish = () => {
-        if (requestId !== state.requestId) return;
-        image.classList.remove("is-changing");
-        preloadNext(currentItems);
-      };
-      image.addEventListener("load", finish, { once: true });
-      image.addEventListener("error", finish, { once: true });
-      image.src = resolved;
-      if (image.complete) requestAnimationFrame(finish);
-    };
-    const open = (customItems, index = 0, albumTitle = "") => {
-      state.opener = document.activeElement;
-      state.customItems = customItems?.length ? customItems : null;
-      state.albumTitle = albumTitle;
-      if (!dialog.open) dialog.showModal();
-      document.body.classList.add("lightbox-open");
-      show(index);
-      requestAnimationFrame(() => close.focus({ preventScroll: true }));
-    };
-    window.TeresaUI = { ...(window.TeresaUI || {}), openLightbox: open };
-
-    document.querySelectorAll(".gallery-item[data-full]").forEach((item) => {
-      if (item.dataset.lightboxBound) return;
-      item.dataset.lightboxBound = "true";
-      item.addEventListener("click", () => {
-        const visibleItems = [...document.querySelectorAll(".gallery-item[data-full]:not(.hidden)")];
-        open(null, visibleItems.indexOf(item));
-      });
-    });
-
-    if (dialog.dataset.controlsBound) return;
-    dialog.dataset.controlsBound = "true";
-    const closeDialog = () => {
-      state.requestId += 1;
-      if (dialog.open) dialog.close();
-      document.body.classList.remove("lightbox-open");
-      state.customItems = null;
-      state.albumTitle = "";
-      state.opener?.focus?.({ preventScroll: true });
-      state.opener = null;
-    };
-    close.addEventListener("click", closeDialog);
-    previous.addEventListener("click", () => show(state.activeIndex - 1));
-    next.addEventListener("click", () => show(state.activeIndex + 1));
-    dialog.addEventListener("click", (event) => {
-      if (event.target === dialog) closeDialog();
-    });
-    dialog.addEventListener("cancel", (event) => {
-      event.preventDefault();
-      closeDialog();
-    });
-    dialog.addEventListener("close", () => document.body.classList.remove("lightbox-open"));
-    dialog.addEventListener("keydown", (event) => {
-      if (event.key === "Escape") {
-        event.preventDefault();
-        closeDialog();
+    const load = async (index, forceFull=false) => {
+      const all=items(); if(!all.length)return;
+      state.index=(index+all.length)%all.length; state.scale=1;state.x=state.y=0;transform();
+      const request=++state.request, item=all[state.index];
+      const save=window.TeresaPublic.savingData(); state.full=forceFull||!save;
+      image.alt=item.alt||"Ảnh kỷ niệm của ca đoàn"; caption.textContent=item.caption||state.title||"Kỷ niệm Teresa";
+      counter.textContent=`${state.index+1} / ${all.length}${state.title?` · ${state.title}`:""}`;
+      previous.disabled=next.disabled=all.length<2; retry.hidden=true;full.hidden=state.full;
+      status.textContent=state.full?"Đang tải ảnh nét…":"";
+      // Swap only after decode; an already visible preview remains while loading.
+      const preview = item.preview || await resolve(item,"thumbnail");
+      if(request!==state.request)return;
+      image.src=preview||""; image.hidden=!preview;
+      try {
+        const url=await resolve(item,state.full?"original":"medium");
+        if(request!==state.request)return;
+        const candidate=new Image(); candidate.decoding="async";
+        await new Promise((ok,fail)=>{ candidate.onload=ok; candidate.onerror=()=>fail(new Error("image"));candidate.src=url;if(candidate.complete&&candidate.naturalWidth)ok(); });
+        try { await candidate.decode?.(); } catch (_) {}
+        if(request!==state.request||!dialog.open)return;
+        image.src=url; image.hidden=false; status.textContent="";
+        if(!save&&all.length>1) { const nextUrl=await resolve(all[(state.index+1)%all.length]); if(request!==state.request)return;const preload=new Image();preload.fetchPriority="low";preload.src=nextUrl; }
+      } catch (_) {
+        if(request!==state.request)return;
+        status.textContent="Chưa tải được ảnh nét. Bạn có thể thử lại.";retry.hidden=false;
       }
-      if (event.key === "ArrowLeft") show(state.activeIndex - 1);
-      if (event.key === "ArrowRight") show(state.activeIndex + 1);
-    });
-    figure.addEventListener("touchstart", (event) => {
-      state.touchStartX = event.changedTouches[0]?.clientX || 0;
-      state.touchStartY = event.changedTouches[0]?.clientY || 0;
-    }, { passive: true });
-    figure.addEventListener("touchmove", (event) => {
-      if (state.zoomed) return;
-      const distanceX = (event.changedTouches[0]?.clientX || 0) - state.touchStartX;
-      const distanceY = (event.changedTouches[0]?.clientY || 0) - state.touchStartY;
-      if (distanceY > 0 && Math.abs(distanceY) > Math.abs(distanceX)) {
-        dialog.classList.add("is-dragging");
-        figure.style.transform = `translate3d(0,${Math.min(distanceY, 240)}px,0) scale(${Math.max(.88, 1 - distanceY / 1100)})`;
-        event.preventDefault();
-      } else if (Math.abs(distanceX) > 8) {
-        figure.style.transform = `translate3d(${Math.max(-90, Math.min(90, distanceX * .3))}px,0,0)`;
-      }
-    }, { passive: false });
-    figure.addEventListener("touchend", (event) => {
-      const distanceX = (event.changedTouches[0]?.clientX || 0) - state.touchStartX;
-      const distanceY = (event.changedTouches[0]?.clientY || 0) - state.touchStartY;
-      dialog.classList.remove("is-dragging");
-      figure.style.transform = "";
-      const now = Date.now();
-      if (Math.abs(distanceX) < 12 && Math.abs(distanceY) < 12 && now - state.lastTap < 320) {
-        state.zoomed = !state.zoomed;
-        image.classList.toggle("is-zoomed", state.zoomed);
-        state.lastTap = 0;
-        event.preventDefault();
-        return;
-      }
-      state.lastTap = now;
-      if (!state.zoomed && distanceY > 110 && Math.abs(distanceY) > Math.abs(distanceX)) return closeDialog();
-      if (!state.zoomed && Math.abs(distanceX) >= 48 && Math.abs(distanceX) > Math.abs(distanceY)) show(state.activeIndex + (distanceX < 0 ? 1 : -1));
-    }, { passive: false });
+    };
+    const open=(custom,index=0,title="")=>{state.opener=document.activeElement;state.custom=custom?.length?custom:null;state.title=title;if(!dialog.open)dialog.showModal();document.body.classList.add("lightbox-open");load(index);close.focus({preventScroll:true});};
+    dialog._teresaOpen=open;window.TeresaUI={...(window.TeresaUI||{}),openLightbox:open};
+    document.addEventListener("click",event=>{const item=event.target.closest(".gallery-item[data-full]");if(item&&!item.closest(".album-dialog")){const all=[...document.querySelectorAll(".gallery-item[data-full]:not(.hidden)")];open(null,all.indexOf(item));}});
+    const dismiss=()=>{++state.request;if(dialog.open)dialog.close();document.body.classList.remove("lightbox-open");state.opener?.focus?.({preventScroll:true});};
+    close.addEventListener("click",dismiss);previous.addEventListener("click",()=>load(state.index-1));next.addEventListener("click",()=>load(state.index+1));
+    retry.addEventListener("click",()=>load(state.index,state.full));full.addEventListener("click",()=>load(state.index,true));
+    dialog.addEventListener("click",e=>{if(e.target===dialog)dismiss();});dialog.addEventListener("cancel",e=>{e.preventDefault();dismiss();});
+    dialog.addEventListener("close",()=>{++state.request;document.body.classList.remove("lightbox-open");});
+    dialog.addEventListener("keydown",e=>{if(e.key==="ArrowLeft")load(state.index-1);if(e.key==="ArrowRight")load(state.index+1);});
+    let gesture=null;
+    const distance=t=>Math.hypot(t[0].clientX-t[1].clientX,t[0].clientY-t[1].clientY);
+    figure.addEventListener("touchstart",e=>{
+      if(e.target.closest("button"))return;
+      gesture={x:e.touches[0].clientX,y:e.touches[0].clientY,panX:state.x,panY:state.y,scale:state.scale,pinch:e.touches.length>1?distance(e.touches):0,moved:false,wasZoomed:state.scale>1};
+      image.classList.add("is-gesturing");
+    },{passive:true});
+    figure.addEventListener("touchmove",e=>{
+      if(!gesture)return;const dx=e.touches[0].clientX-gesture.x,dy=e.touches[0].clientY-gesture.y;
+      if(e.touches.length>1&&gesture.pinch){state.scale=Math.max(1,Math.min(4,gesture.scale*distance(e.touches)/gesture.pinch));gesture.moved=true;transform();}
+      else if(state.scale>1){state.x=gesture.panX+dx;state.y=gesture.panY+dy;gesture.moved=Math.abs(dx)+Math.abs(dy)>8;transform();}
+      else {gesture.moved=Math.abs(dx)+Math.abs(dy)>10;}
+      e.preventDefault();
+    },{passive:false});
+    figure.addEventListener("touchend",e=>{
+      if(!gesture)return;
+      const g=gesture;gesture=null;image.classList.remove("is-gesturing");
+      if(e.touches.length)return;
+      const dx=(e.changedTouches[0]?.clientX||g.x)-g.x,dy=(e.changedTouches[0]?.clientY||g.y)-g.y;
+      const now=Date.now();
+      if(!g.moved&&now-state.lastTap<320){state.scale=state.scale>1?1:2;state.x=state.y=0;transform();state.lastTap=0;e.preventDefault();return;}
+      state.lastTap=g.moved?0:now;
+      if(!g.wasZoomed&&!g.pinch&&state.scale===1&&Math.abs(dx)>=48&&Math.abs(dx)>Math.abs(dy))load(state.index+(dx<0?1:-1));
+      else if(!g.wasZoomed&&!g.pinch&&state.scale===1&&dy>110&&dy>Math.abs(dx))dismiss();
+    },{passive:false});
+    figure.addEventListener("touchcancel",()=>{gesture=null;image.classList.remove("is-gesturing");});
+    image.addEventListener("dblclick",()=>{state.scale=state.scale>1?1:2;state.x=state.y=0;transform();});
+    let pointer;
+    image.addEventListener("pointerdown",e=>{if(e.pointerType!=="mouse"||state.scale<=1)return;pointer={x:e.clientX,y:e.clientY,panX:state.x,panY:state.y};image.setPointerCapture(e.pointerId);e.preventDefault();});
+    image.addEventListener("pointermove",e=>{if(!pointer)return;state.x=pointer.panX+e.clientX-pointer.x;state.y=pointer.panY+e.clientY-pointer.y;transform();});
+    image.addEventListener("pointerup",()=>{pointer=null;});image.addEventListener("pointercancel",()=>{pointer=null;});
+    image.draggable=false;
   }
 
   function initBackToTop() {
@@ -1011,6 +1015,11 @@
 
   function init() {
     initHeader();
+    initMemorySearch();
+    initDataPreference();
+    rewritePublicLinks();
+    document.addEventListener("teresa:content-ready", () => rewritePublicLinks());
+    document.addEventListener("teresa:page-rendered", () => rewritePublicLinks());
     pageReturnController = initPageReturn();
     initPageTransitions();
     initRoutePrefetch();
@@ -1023,6 +1032,7 @@
       if (timeline) initReveal(timeline);
       initTimeline();
       initCounters();
+      rewritePublicLinks();
     });
     initLiquidGlass();
     initActivityArchive();

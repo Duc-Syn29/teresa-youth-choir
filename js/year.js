@@ -3,7 +3,8 @@
   "use strict";
 
   const params = new URLSearchParams(window.location.search);
-  const selectedYear = Number(params.get("year"));
+  const route = window.TeresaPublic?.route(window.location.pathname) || {};
+  const selectedYear = Number(params.get("year") || route.year);
   const app = document.querySelector("#year-app");
   const loading = document.querySelector("#year-loading");
   const Schema = window.TeresaSchema || {};
@@ -24,11 +25,12 @@
     : photo;
 
   function mediaAttributes(media, variant = "thumbnail", sizes = "(max-width: 680px) 92vw, 42vw") {
-    const src = source(media, variant);
+    const src = source(media, variant === "cover" ? "medium" : variant);
     const variants = typeof media === "object" ? media.variants || {} : {};
     const candidates = [
       [variants.thumbnail || variants.thumb, 480],
       [variants.medium, 1280],
+      ...(variant === "cover" ? [[variants.original, 2560]] : []),
     ];
     const seen = new Set();
     const srcset = candidates.map(([candidate, width]) => {
@@ -42,7 +44,7 @@
     const width = Number(dimensions.width || 0);
     const height = Number(dimensions.height || 0);
     const sizeAttributes = width > 0 && height > 0 ? ` width="${width}" height="${height}" style="aspect-ratio:auto ${width} / ${height}"` : "";
-    return `${sizeAttributes} data-media-src="${escapeHTML(src)}" data-media-variant="${variant}"${srcset ? ` data-media-srcset="${escapeHTML(srcset)}" data-media-sizes="${escapeHTML(sizes)}"` : ""}`;
+    return `${sizeAttributes} data-media-src="${escapeHTML(src)}" data-media-variant="${variant === "cover" ? "medium" : variant}"${srcset ? ` data-media-srcset="${escapeHTML(srcset)}" data-media-sizes="${escapeHTML(sizes)}"` : ""}`;
   }
 
   function editorialVisual(type = "") {
@@ -227,7 +229,7 @@
       more.onclick = renderBatch;
       dialog._albumObserver?.disconnect();
       dialog._albumObserver = new IntersectionObserver((entries) => {
-        if (entries.some((entry) => entry.isIntersecting)) renderBatch();
+        if (!window.TeresaPublic?.savingData() && entries.some((entry) => entry.isIntersecting)) renderBatch();
       }, { root: dialog.querySelector(".album-dialog-body"), rootMargin: "240px 0px" });
       dialog._albumObserver.observe(more);
       if (options.photoIndex !== undefined && Number.isInteger(Number(options.photoIndex))) {
@@ -339,7 +341,7 @@
     const hero = source(overview.coverImage, "original");
 
     app.innerHTML = `
-      <section class="year-hero${hero ? " has-cover" : ""}"><div class="year-hero-bg">${hero ? `<img ${mediaAttributes(overview.coverImage, "medium", "100vw")} data-media-priority="high" alt="" loading="eager" decoding="async" fetchpriority="high" />` : ""}</div><div class="container year-hero-content"><div class="year-number">${year}</div><div class="year-intro"><p class="eyebrow">${escapeHTML(overview.eyebrow)}</p><h1>${escapeHTML(overview.title)}</h1><p>${escapeHTML(overview.summary)}</p><p class="year-verse">${escapeHTML(overview.verse)}</p></div></div></section>
+      <section class="year-hero${hero ? " has-cover" : ""}" style="${window.TeresaPublic?.focusStyle(overview.coverFocus) || ""}"><div class="year-hero-bg">${hero ? `<img ${mediaAttributes(overview.coverImage, "cover", "(max-width: 680px) max(100vw, 150svh), 100vw")} data-media-priority="high" alt="" loading="eager" decoding="async" fetchpriority="high" />` : ""}</div><div class="container year-hero-content"><div class="year-number">${year}</div><div class="year-intro"><p class="eyebrow">${escapeHTML(overview.eyebrow)}</p><h1>${escapeHTML(overview.title)}</h1><p>${escapeHTML(window.TeresaPublic?.intro(overview.summary) || overview.summary)}</p><p class="year-verse">${escapeHTML(overview.verse)}</p></div></div></section>
       <nav class="year-nav" aria-label="Mục lục năm ${year}"><div class="container year-nav-inner"><span class="year-nav-current" aria-live="polite"><small>Đang xem</small><strong data-year-nav-label>Tổng quan</strong></span><a href="#overview">Tổng quan</a><a href="#leadership">Ban điều hành</a><a href="#members">Thành viên</a><a href="#year-activities">Hoạt động</a><a href="#reflection">${reflectionText ? "Nhật ký cảm xúc" : "Nhìn lại"}</a><a href="#year-album">Album</a>${sharing.length ? '<a href="#sharing">Lời chia sẻ</a>' : ""}</div></nav>
       <section class="year-section" aria-labelledby="overview"><div class="container">${sectionHeading(1, "Tổng quan năm", overview.title, "overview")}<div class="overview-grid"><article class="overview-story reveal">${prose(overview.longDescription)}</article><article class="year-mark-card reveal"><small>Dấu ấn ${year}</small><strong>${escapeHTML(yearMark.title)}</strong><span>${escapeHTML(yearMark.highlight)}</span></article></div></div></section>
       <section class="year-section" aria-labelledby="leadership"><div class="container">${sectionHeading(2, "Những người phục vụ", "Ban điều hành", "leadership")}<div class="leadership-grid">${renderLeadership(leadership)}</div></div></section>

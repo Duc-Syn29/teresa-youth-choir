@@ -3,8 +3,9 @@
   "use strict";
 
   const params = new URLSearchParams(window.location.search);
-  const year = Number(params.get("year"));
-  const activityId = params.get("id");
+  const route = window.TeresaPublic?.route(window.location.pathname) || {};
+  const year = Number(params.get("year") || route.year);
+  const activityId = params.get("id") || route.id;
   const app = document.querySelector("#activity-app");
   const loading = document.querySelector("#activity-loading");
   const Schema = window.TeresaSchema || {};
@@ -64,11 +65,12 @@
   }
 
   function mediaAttributes(media, variant = "thumbnail", sizes = "(max-width: 680px) 92vw, 42vw") {
-    const src = source(media, variant);
+    const src = source(media, variant === "cover" ? "medium" : variant);
     const variants = typeof media === "object" ? media.variants || {} : {};
     const candidates = [
       [variants.thumbnail || variants.thumb, 480],
       [variants.medium, 1280],
+      ...(variant === "cover" ? [[variants.original, 2560]] : []),
     ];
     const seen = new Set();
     const srcset = candidates.map(([candidate, fallbackWidth]) => {
@@ -81,7 +83,7 @@
     const width = Number(dimensions.width || 0);
     const height = Number(dimensions.height || 0);
     const sizeAttributes = width > 0 && height > 0 ? ` width="${width}" height="${height}" style="aspect-ratio:auto ${width} / ${height}"` : "";
-    return `${sizeAttributes} data-media-src="${escapeHTML(src)}" data-media-variant="${variant}"${srcset ? ` data-media-srcset="${escapeHTML(srcset)}" data-media-sizes="${escapeHTML(sizes)}"` : ""}`;
+    return `${sizeAttributes} data-media-src="${escapeHTML(src)}" data-media-variant="${variant === "cover" ? "medium" : variant}"${srcset ? ` data-media-srcset="${escapeHTML(srcset)}" data-media-sizes="${escapeHTML(sizes)}"` : ""}`;
   }
 
   function mediaShape(media) {
@@ -98,7 +100,7 @@
   function photoMarkup(photo, activity, index) {
     const original = source(photo, "original");
     const caption = displayCaption(photo?.caption, activity.title);
-    return `<button class="gallery-item activity-photo ${mediaShape(photo)} reveal" type="button" data-full="${escapeHTML(original)}" data-caption="${escapeHTML(caption)}" aria-label="Mở ảnh ${index + 1}: ${escapeHTML(caption)}"><img ${mediaAttributes(photo)} alt="${escapeHTML(photo?.alt || caption)}" loading="lazy" decoding="async" fetchpriority="low" /><span class="activity-photo-index">${String(index + 1).padStart(2, "0")}</span><span><small>${escapeHTML(activity.topic || activity.type)}</small><strong>${escapeHTML(caption)}</strong></span></button>`;
+    return `<button class="gallery-item activity-photo ${mediaShape(photo)} reveal" type="button" data-full="${escapeHTML(original)}" data-medium="${escapeHTML(source(photo, "medium"))}" data-caption="${escapeHTML(caption)}" aria-label="Mở ảnh ${index + 1}: ${escapeHTML(caption)}"><img ${mediaAttributes(photo)} alt="${escapeHTML(photo?.alt || caption)}" loading="lazy" decoding="async" fetchpriority="low" /><span class="activity-photo-index">${String(index + 1).padStart(2, "0")}</span><span><small>${escapeHTML(activity.topic || activity.type)}</small><strong>${escapeHTML(caption)}</strong></span></button>`;
   }
 
   function initProgressiveGallery(photos, activity) {
@@ -139,7 +141,7 @@
     });
     if ("IntersectionObserver" in window) {
       const observer = new IntersectionObserver((entries) => {
-        if (entries.some((entry) => entry.isIntersecting)) loadMore();
+        if (!window.TeresaPublic?.savingData() && entries.some((entry) => entry.isIntersecting)) loadMore();
         if (rendered >= photos.length) observer.disconnect();
       }, { rootMargin: "240px 0px" });
       observer.observe(button);
@@ -175,7 +177,7 @@
         add(placement.afterParagraph, index);
       }
     }
-    if (used.size) return plan;
+    if (used.size || activity.storyPhotosMode === "manual") return plan;
     const count = Math.min(3, photos.length);
     const unused = new Set(photos.map((_photo, index) => index));
     for (let order = 0; order < count; order += 1) {
@@ -337,14 +339,14 @@
       document.querySelector("#back-to-year").href = yearUrl;
       const adminLink = window.TeresaStore.isAdmin() ? `<a class="button button-light" href="admin.html?year=${year}&activity=${encodeURIComponent(activity.id)}">Chỉnh sửa hoạt động ↗</a>` : "";
       app.innerHTML = `
-        <section class="activity-hero${coverImage ? " has-cover" : ` activity-hero-editorial editorial-theme-${editorial.theme}`}">
-          <div class="activity-hero-bg${coverImage ? "" : " activity-hero-bg-empty"}">${coverImage ? `<img ${mediaAttributes(cover, "medium", "100vw")} data-media-priority="high" alt="" loading="eager" decoding="async" fetchpriority="high" />` : `<span class="activity-editorial-year" aria-hidden="true">${year}</span><i class="activity-editorial-icon" aria-hidden="true">${editorial.icon}</i><small>Tư liệu hình ảnh đang được bổ sung</small>`}</div>
+        <section class="activity-hero${coverImage ? " has-cover" : ` activity-hero-editorial editorial-theme-${editorial.theme}`}" style="${window.TeresaPublic?.focusStyle(activity.coverFocus) || ""}">
+          <div class="activity-hero-bg${coverImage ? "" : " activity-hero-bg-empty"}">${coverImage ? `<img ${mediaAttributes(cover, "cover", "(max-width: 680px) max(100vw, 150svh), 100vw")} data-media-priority="high" alt="" loading="eager" decoding="async" fetchpriority="high" />` : `<span class="activity-editorial-year" aria-hidden="true">${year}</span><i class="activity-editorial-icon" aria-hidden="true">${editorial.icon}</i><small>Tư liệu hình ảnh đang được bổ sung</small>`}</div>
           <div class="activity-hero-grain" aria-hidden="true"></div>
           <div class="container activity-hero-content">
             <nav class="activity-breadcrumb" aria-label="Đường dẫn"><a href="index.html">Trang chủ</a><span>/</span><a href="${yearUrl}">Nhật ký ${year}</a><span>/</span><span>${escapeHTML(activity.type)}</span></nav>
             <div class="activity-hero-meta"><span>${escapeHTML(activity.type)}</span><time>${escapeHTML(activity.date)}</time></div>
             <h1>${escapeHTML(activity.title)}</h1>
-            <p class="activity-hero-summary">${escapeHTML(activity.description)}</p>
+            <p class="activity-hero-summary">${escapeHTML(window.TeresaPublic?.intro(activity.description) || activity.description)}</p>
             <div class="activity-actions"><a class="button button-primary" href="#activity-story">Xem hành trình ↓</a><a class="button button-light" href="${yearUrl}">← Nhật ký ${year}</a>${adminLink}</div>
           </div>
           <a class="activity-scroll-cue" href="#activity-story"><span>Đọc câu chuyện</span><i aria-hidden="true">↓</i></a>
@@ -369,7 +371,7 @@
         ${hasPhotos ? `<section class="activity-gallery-section" aria-labelledby="activity-gallery-title">
           <div class="container">
             <div class="activity-section-heading reveal"><div><span>Ảnh — tư liệu</span><strong data-gallery-count>${String(photoCount).padStart(2, "0")}</strong></div><h2 id="activity-gallery-title">Những khoảnh khắc<br /><em>còn ở lại.</em></h2></div>
-            <div data-activity-gallery>${deferredAlbum ? '<p class="album-load-status" role="status">Đang tải danh sách ảnh…</p>' : galleryMarkup(photos, activity)}</div>
+            <div data-activity-gallery>${deferredAlbum ? '<p class="album-load-status" role="status">Kho ảnh sẽ mở khi bạn cuộn tới đây.</p>' : galleryMarkup(photos, activity)}</div>
           </div>
         </section>` : ""}
         <section class="activity-navigation"><div class="container"><p class="eyebrow">Tiếp tục hành trình ${year}</p><div class="activity-nav-grid">${navigationCard(previous, data, "previous")}${navigationCard(next, data, "next")}</div></div></section>`;
@@ -381,7 +383,19 @@
       app.hidden = false;
       window.TeresaUI?.initReveal(app);
       window.TeresaUI?.initLightbox();
-      if (deferredAlbum) loadGallery(activity);
+      if (deferredAlbum) {
+        const target = app.querySelector("[data-activity-gallery]");
+        const trigger = document.createElement("button");
+        trigger.type = "button"; trigger.className = "button"; trigger.textContent = "Mở kho ảnh sự kiện";
+        target?.append(trigger);
+        let started = false;
+        const start = () => { if (started) return; started = true; observer?.disconnect(); loadGallery(activity); };
+        const observer = "IntersectionObserver" in window ? new IntersectionObserver((entries) => {
+          if (!window.TeresaPublic?.savingData() && entries.some((entry) => entry.isIntersecting)) start();
+        }, { rootMargin: "300px" }) : null;
+        if (target) observer?.observe(target);
+        trigger.addEventListener("click", start);
+      }
       else initProgressiveGallery(photos, activity);
       app.querySelectorAll("[data-story-photo]").forEach((button) => button.addEventListener("click", () => window.TeresaUI?.openLightbox(photos, Number(button.dataset.storyPhoto), activity.title)));
       window.TeresaUI?.completeCoverTransition?.(app.querySelector(".activity-hero-bg"));

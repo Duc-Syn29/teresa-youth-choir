@@ -10,7 +10,7 @@
   const YEAR_MAX = Number(Schema.maxYear?.() || Math.max(2027, new Date().getFullYear() + 1));
   const DB_NAME = "teresa-youth-choir-cache";
   const DB_VERSION = 4;
-  const CACHE_RELEASE = "archive-2026-20261008";
+  const CACHE_RELEASE = "public-20261015";
   const CACHE_FRESH_MS = 5 * 60 * 1000;
   const CACHE_STALE_MS = 30 * 24 * 60 * 60 * 1000;
   const CACHE_REFRESH_WINDOW_MS = 60 * 60 * 1000;
@@ -22,6 +22,8 @@
   let firebaseApp = null;
   let firebaseAuth = null;
   let mediaObserver = null;
+  let adminSession = null;
+  const cloudDraftRevisions = new Map();
 
   const copy = (value) => value == null ? value : JSON.parse(JSON.stringify(value));
   const apiConfig = () => window.TERESA_API_CONFIG || {};
@@ -183,6 +185,10 @@
   }
 
   async function availableYears() {
+    try {
+      const boot = JSON.parse(document.querySelector?.("#archive-bootstrap")?.textContent || "null");
+      if (Array.isArray(boot?.publicYears)) return boot.publicYears.map(Number).sort((a,b) => a-b);
+    } catch (_) {}
     try { return (await loadIndex()).years.map((item) => Number(item.year)).filter(Number.isInteger).sort((a, b) => a - b); }
     catch (_error) { return Array.from({ length: YEAR_MAX - YEAR_MIN + 1 }, (_, index) => YEAR_MIN + index); }
   }
@@ -192,6 +198,12 @@
     if (!Number.isInteger(numericYear) || numericYear < YEAR_MIN || numericYear > YEAR_MAX) throw new Error(`Năm phải trong khoảng ${YEAR_MIN}–${YEAR_MAX}.`);
     const preview = previewYear(numericYear);
     if (preview) return preview;
+    if (!options.force) {
+      try {
+        const boot = JSON.parse(document.querySelector?.("#archive-bootstrap")?.textContent || "null");
+        if (Number(boot?.year) === numericYear) return normalizeYear(boot);
+      } catch (_) { /* An old or invalid boot payload falls back to JSON. */ }
+    }
     const key = `year:${numericYear}`;
     const memory = memoryCache.get(key);
     if (!options.force && isFresh(memory)) return normalizeYear(memory.data);
@@ -246,26 +258,32 @@
     initFirebase();
     const user = firebaseAuth?.currentUser;
     if (!user) throw new Error("Phiên đăng nhập đã hết. Vui lòng đăng nhập lại.");
-    if (!adminEmail() || user.email?.toLowerCase() !== adminEmail()) throw new Error("Tài khoản này không có quyền quản trị.");
     return user.getIdToken();
   }
 
   async function api(path, options = {}) {
     if (!isSourceApiConfigured()) throw new Error("Chưa cấu hình địa chỉ Worker quản trị trong js/firebase-config.js.");
+    if (adminSession && !["GET","HEAD"].includes(options.method || "GET") && !(adminSession.capabilities?.adminProtocol === 2 && adminSession.capabilities?.cloudDrafts)) throw new Error("Bản quản trị mới chưa được kích hoạt. Nội dung vẫn lưu trên máy; thêm ảnh và đăng bài sẽ mở sau khi cập nhật hoàn tất.");
     const token = await requireAdminToken();
-    const response = await fetch(`${String(apiConfig().endpoint).replace(/\/$/, "")}${path}`, {
-      ...options,
-      headers: { Authorization: `Bearer ${token}`, Accept: "application/json", ...(options.headers || {}) }
-    });
-    const body = await response.json().catch(() => ({}));
-    if (!response.ok) {
-      const error = new Error(body.error || "Không thể kết nối máy chủ quản trị.");
-      error.status = response.status;
-      error.details = body.details || [];
-      error.requestId = response.headers.get("X-Request-Id") || body.requestId || "";
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), 120000);
+    try {
+      const response = await fetch(`${String(apiConfig().endpoint).replace(/\/$/, "")}${path}`, {
+        ...options, signal: controller.signal,
+        headers: { Authorization: `Bearer ${token}`, Accept: "application/json", ...(options.headers || {}) }
+      });
+      const body = await response.json();
+      if (!response.ok) {
+        const error = new Error(body.error || "Không thể kết nối máy chủ quản trị.");
+        error.status = response.status; error.details = body.details || [];
+        error.requestId = response.headers.get("X-Request-Id") || body.requestId || "";
+        throw error;
+      }
+      return body;
+    } catch (error) {
+      if (controller.signal.aborted) throw new Error("Kết nối quá chậm hoặc gián đoạn. Hãy thử lại; ảnh thành công vẫn được giữ.");
       throw error;
-    }
-    return body;
+    } finally { clearTimeout(timer); }
   }
 
   async function loadYearForAdmin(year) {
@@ -280,10 +298,14 @@
     return data;
   }
 
-  async function saveLocalRevision(data, label = "Bản trước khi xuất bản") {
+  async function saveLocalRevision(data, label = "Bản trước khi xuất bản", required = false) {
     const timestamp = new Date().toISOString();
-    const record = { id: `${data.year}:${timestamp}`, year: Number(data.year), timestamp, label, data: copy(data) };
-    await safeStore("revisions", "readwrite", (store) => store.put(record));
+    const record = { id: `${data.year}:${timestamp}:${Math.random().toString(36).slice(2)}`, year: Number(data.year), timestamp, label, data: copy(data) };
+    if (required) await inStore("revisions", "readwrite", (store) => store.put(record));
+    else await safeStore("revisions", "readwrite", (store) => store.put(record));
+    const all = await safeStore("revisions", "readonly", (store) => store.getAll(), []);
+    const old = (all || []).filter((item) => Number(item.year) === Number(data.year)).sort((a,b)=>String(b.timestamp).localeCompare(String(a.timestamp))).slice(12);
+    if (old.length) await safeStore("revisions", "readwrite", (store) => { old.forEach((item)=>store.delete(item.id)); });
     return record;
   }
 
@@ -340,15 +362,21 @@
     return new Promise((resolve) => canvas.toBlob(resolve, type, quality));
   }
 
-  async function imageVariant(file, maxEdge, label, quality) {
-    const bitmap = await createImageBitmap(file);
+  async function imageVariant(file, maxEdge, label, quality, budgetBytes = Infinity) {
+    const bitmap = await createImageBitmap(file, file.rawOrientation ? { imageOrientation: "none" } : {});
+    const orientation = file.rawOrientation || 1;
+    const swapped = orientation >= 5;
     const scale = Math.min(1, maxEdge / Math.max(bitmap.width, bitmap.height));
     const width = Math.max(1, Math.round(bitmap.width * scale));
     const height = Math.max(1, Math.round(bitmap.height * scale));
     const canvas = document.createElement("canvas");
-    canvas.width = width;
-    canvas.height = height;
+    canvas.width = swapped ? height : width;
+    canvas.height = swapped ? width : height;
     const context = canvas.getContext("2d", { alpha: true, desynchronized: true });
+    if (orientation !== 1) {
+      const matrices = { 2: [-1,0,0,1,width,0], 3: [-1,0,0,-1,width,height], 4: [1,0,0,-1,0,height], 5: [0,1,1,0,0,0], 6: [0,1,-1,0,height,0], 7: [0,-1,-1,0,height,width], 8: [0,-1,1,0,0,width] };
+      context.transform(...matrices[orientation]);
+    }
     context.drawImage(bitmap, 0, 0, width, height);
     bitmap.close?.();
     let type = "image/webp";
@@ -358,17 +386,24 @@
       blob = await canvasBlob(canvas, type, quality);
     }
     if (!blob) throw new Error("Trình duyệt không thể tạo ảnh tối ưu.");
+    // Bound encode work and preserve detail: quality never drops below .70.
+    while (blob.size > budgetBytes && quality > .70) {
+      quality = Math.max(.70, quality - .04);
+      const candidate = await canvasBlob(canvas, type, quality);
+      if (!candidate) break;
+      if (candidate.size < blob.size) blob = candidate;
+    }
     const extension = type === "image/webp" ? "webp" : "jpg";
     const base = String(file.name || "anh").replace(/\.[^.]+$/, "");
-    return { file: new File([blob], `${base}-${label}.${extension}`, { type, lastModified: file.lastModified }), width, height, bytes: blob.size };
+    return { file: new File([blob], `${base}-${label}.${extension}`, { type, lastModified: file.lastModified }), width: canvas.width, height: canvas.height, bytes: blob.size };
   }
 
   async function prepareImageVariants(file, metadata = {}) {
     if (!['image/jpeg', 'image/png', 'image/webp', 'image/avif'].includes(file?.type)) throw new Error("Hãy chọn ảnh JPG, PNG, WebP hoặc AVIF. Ảnh RAW cần xuất sang JPG trước khi thêm.");
     if (file.size > MAX_UPLOAD_BYTES) throw new Error("Ảnh lớn hơn 25 MB. Hãy xuất ảnh JPG nhỏ hơn rồi thêm lại.");
     try {
-      const thumbnail = await imageVariant(file, 480, "thumb", .74);
-      const original = await imageVariant(file, metadata.purpose === "cover" ? 2560 : 2048, "web", .82);
+      const thumbnail = await imageVariant(file, 480, "thumb", .74, 60 * 1024);
+      const original = await imageVariant(file, metadata.purpose === "cover" ? 2560 : 2048, "web", .82, (metadata.purpose === "cover" ? 500 : 350) * 1024);
       // Worker aliases the missing medium to original: two stored files, three compatible URLs.
       return { thumbnail, original, originalBytes: file.size };
     } catch (_error) {
@@ -377,7 +412,8 @@
   }
 
   async function saveMedia(file, metadata = {}) {
-    const prepared = await prepareImageVariants(file, metadata);
+    const inputFile = window.TeresaRaw?.isRaw(file) ? await window.TeresaRaw.extract(file) : file;
+    const prepared = await prepareImageVariants(inputFile, metadata);
     const form = new FormData();
     Object.entries(prepared).forEach(([variant, item]) => {
       if (variant === "originalBytes" || !item?.file) return;
@@ -396,7 +432,7 @@
     normalized.id ||= media.id || media.src;
     normalized.year = Number(metadata.year);
     normalized.topic = metadata.topic || "Khác";
-    normalized.filename ||= file.name;
+    normalized.filename = file.name;
     normalized.caption ||= metadata.caption || "";
     normalized.alt ||= metadata.alt || file.name;
     normalized.compression = {
@@ -404,6 +440,7 @@
       displayBytes: prepared.original.bytes,
       lightboxBytes: prepared.original?.bytes || file.size,
       originalPreserved: false,
+      rawPreview: inputFile !== file,
       maxLightboxEdge: metadata.purpose === "cover" ? 2560 : 2048,
       storedBytes: prepared.thumbnail.bytes + prepared.original.bytes,
       storedVariants: 2,
@@ -539,17 +576,14 @@
     if (!firebaseAuth) return { success: false, message: "Firebase Auth chưa được tải. Hãy kiểm tra cấu hình." };
     try {
       const credential = await firebaseAuth.signInWithEmailAndPassword(email, password);
-      if (credential.user.email?.toLowerCase() !== adminEmail()) {
-        await firebaseAuth.signOut();
-        return { success: false, message: "Email này không có quyền quản trị." };
-      }
+      adminSession = await api("/api/session");
       return { success: true, user: credential.user };
-    } catch (error) { return { success: false, message: getAuthErrorMessage(error.code) }; }
+    } catch (error) { adminSession = null; await firebaseAuth.signOut(); return { success: false, message: error.message || getAuthErrorMessage(error.code) }; }
   }
 
   function isAdmin() {
     initFirebase();
-    return Boolean(firebaseAuth?.currentUser && firebaseAuth.currentUser.email?.toLowerCase() === adminEmail());
+    return Boolean(firebaseAuth?.currentUser && adminSession);
   }
 
   function currentUser() {
@@ -562,10 +596,11 @@
   async function waitForAuth() {
     initFirebase();
     if (!firebaseAuth) return;
-    await new Promise((resolve) => firebaseAuth.onAuthStateChanged(() => resolve()));
+    await new Promise((resolve) => { let unsubscribe; unsubscribe = firebaseAuth.onAuthStateChanged(() => { resolve(); queueMicrotask(() => unsubscribe?.()); }); });
+    if (firebaseAuth.currentUser) { try { adminSession = await api("/api/session"); } catch (_error) { adminSession = null; } }
   }
 
-  async function logout() { initFirebase(); if (firebaseAuth) await firebaseAuth.signOut(); }
+  async function logout() { initFirebase(); adminSession = null; cloudDraftRevisions.clear(); if (firebaseAuth) await firebaseAuth.signOut(); }
 
   async function changeCredentials(_email, password) {
     initFirebase();
@@ -582,17 +617,68 @@
       baseRevision: String(options.baseRevision || ""),
       updatedAt: new Date().toISOString(),
       editor: currentUser(),
+      cloudRevision: cloudDraftRevisions.get(Number(year)) || "",
+      retainedMedia: options.retainedMedia,
     };
     // Bản nháp là dữ liệu bắt buộc; lỗi IndexedDB phải được báo cho người dùng.
     await inStore("drafts", "readwrite", (store) => store.put(record));
+    if (adminSession?.capabilities?.cloudDrafts && !options.localOnly) {
+      try {
+        const response = await api(`/api/drafts/${Number(year)}`, { method: "PUT", headers: { "Content-Type": "application/json", "If-Match": cloudDraftRevisions.get(Number(year)) || "" }, body: JSON.stringify(record) });
+        cloudDraftRevisions.set(Number(year), response.record.cloudRevision);
+        record.cloudRevision = response.record.cloudRevision;
+        record.cloudSynced = true;
+        await inStore("drafts", "readwrite", (store) => store.put(record));
+      } catch (error) { record.cloudSynced = false; record.cloudError = error.message; if (error.status === 409) throw error; }
+    }
     return record;
   }
 
   async function loadDraft(year) {
-    return safeStore("drafts", "readonly", (store) => store.get(String(Number(year))), null);
+    const local = await safeStore("drafts", "readonly", (store) => store.get(String(Number(year))), null);
+    if (!adminSession?.capabilities?.cloudDrafts) return local;
+    let response;
+    try { response = await api(`/api/drafts/${Number(year)}`); }
+    catch (error) { if (local && ![401,403].includes(error.status)) return { ...local, cloudSynced: false, cloudError: error.message }; throw error; }
+    const remote = response.record;
+    cloudDraftRevisions.set(Number(year), response.cloudRevision || remote?.cloudRevision || "");
+    if (local && local.cloudSynced !== true && JSON.stringify(local.data) !== JSON.stringify(remote?.data)) {
+      if ((local.cloudRevision || "") !== (response.cloudRevision || remote?.cloudRevision || "")) return { ...local, conflict: true };
+      return local;
+    }
+    if (local && String(local.updatedAt) > String(remote?.updatedAt || "")) return local;
+    if (remote) { remote.cloudSynced = true; await safeStore("drafts", "readwrite", (store) => store.put(remote)); }
+    return remote || local;
+  }
+
+  async function draftComparison(year, currentData, baseRevision) {
+    if (!adminSession?.capabilities?.cloudDrafts) throw new Error("Chưa triển khai đồng bộ bản nháp.");
+    const response = await api(`/api/drafts/${Number(year)}`);
+    const local = { data: normalizeYear(currentData), baseRevision };
+    let remote = response.record;
+    if (!remote) { const published = await loadYearForAdmin(year); remote = { data: published, baseRevision: published._revision || "" }; }
+    return { local, remote, revision: response.cloudRevision || remote.cloudRevision || "" };
+  }
+
+  async function resolveDraftComparison(year, data, comparison) {
+    await saveLocalRevision(comparison.local.data, "Trước đối chiếu · bản trên máy", true);
+    await saveLocalRevision(comparison.remote.data, "Trước đối chiếu · bản đồng bộ", true);
+    const roots = new Set();
+    const collect = (value) => {
+      if (typeof value === "string") { let decoded=value; try { decoded=decodeURIComponent(value); } catch(_error) {} const match=/(?:^|\/)(media\/\d{4}\/[^/]+\/[^/?#\s]+)/.exec(decoded); if (match) roots.add(match[1]); }
+      else if (Array.isArray(value)) value.forEach(collect);
+      else if (value && typeof value === "object") Object.values(value).forEach(collect);
+    };
+    collect(comparison.local.data); collect(comparison.remote.data);
+    cloudDraftRevisions.set(Number(year), comparison.revision);
+    return saveDraft(year, data, { baseRevision: comparison.remote.baseRevision, retainedMedia: [...roots] });
   }
 
   async function clearDraft(year) {
+    if (adminSession?.capabilities?.cloudDrafts) {
+      const result = await api(`/api/drafts/${Number(year)}`, { method: "DELETE", headers: { "If-Match": cloudDraftRevisions.get(Number(year)) || "" } });
+      cloudDraftRevisions.set(Number(year), result.cloudRevision || "");
+    }
     return inStore("drafts", "readwrite", (store) => store.delete(String(Number(year))));
   }
 
@@ -603,7 +689,7 @@
 
   async function getYearHistory(year) {
     if (!isSourceApiConfigured()) return { items: await localRevisions(year) };
-    try { return await api(`/api/years/${Number(year)}/history`); }
+    try { const response = await api(`/api/years/${Number(year)}/history`); return { ...response, items: [...(await localRevisions(year)), ...(response.items || [])] }; }
     catch (_error) { return { items: await localRevisions(year) }; }
   }
 
@@ -701,10 +787,34 @@
   }
 
   window.TeresaStore = {
+    inputLimit: (file) => window.TeresaRaw?.isRaw(file) ? window.TeresaRaw.MAX_RAW_BYTES : MAX_UPLOAD_BYTES,
+    mediaReferences: (id) => api("/api/media/references", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ id }) }),
+    listTrash: (year, cursor = "") => api(`/api/trash?year=${Number(year)}&cursor=${encodeURIComponent(cursor)}`),
+    restoreTrash: (key) => api("/api/trash/restore", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ key }) }),
+    async trashPreview(key) {
+      const token = await requireAdminToken();
+      const response = await fetch(`${String(apiConfig().endpoint).replace(/\/$/, "")}/api/trash/preview?key=${encodeURIComponent(key)}`, { headers: { Authorization: `Bearer ${token}` } });
+      if (!response.ok) throw new Error("Chưa lấy được ảnh xem trước.");
+      return URL.createObjectURL(await response.blob());
+    },
+    mediaStats: (year) => api(`/api/media/stats?year=${Number(year)}`),
+    listAccounts: () => api("/api/accounts"),
+    changeAccount: (data, revision, remove = false) => api("/api/accounts", { method: remove ? "DELETE" : "POST", headers: { "Content-Type": "application/json", "If-Match": revision || "" }, body: JSON.stringify(data) }),
+    async waitForPublished(data, onProgress = () => {}) {
+      const expected = JSON.stringify(normalizeYear(data));
+      for (let attempt = 0; attempt < 20; attempt++) {
+        try { const value = await fetchJson(`data/${Number(data.year)}.json?publication=${Date.now()}`); if (JSON.stringify(normalizeYear(value)) === expected) return true; } catch (_error) { /* retry deployment propagation */ }
+        onProgress(attempt + 1);
+        await new Promise((resolve) => setTimeout(resolve, 3000));
+      }
+      return false;
+    },
+    isUpgradeReady: () => Boolean(adminSession?.capabilities?.adminProtocol === 2 && adminSession?.capabilities?.cloudDrafts),
+    adminRole: () => adminSession?.role || "owner",
     YEAR_MIN, YEAR_MAX, availableYears, loadYear, loadYearForAdmin, loadIndex, loadAlbum,
     saveYear, saveActivity, deleteActivity, saveMedia, listMedia, getMedia, deleteMedia,
     resolveSource, mediaSource, hydrateMedia, login, isAdmin, currentUser, logout, changeCredentials,
-    saveDraft, loadDraft, clearDraft, localRevisions, getYearHistory, loadYearRevision,
+    draftComparison, resolveDraftComparison, saveDraft, loadDraft, clearDraft, localRevisions, getYearHistory, loadYearRevision,
     setPreviewYear, exportArchive, analyzeArchive, importArchive,
     isFirebaseConfigured, isSourceApiConfigured, waitForAuth, MAX_UPLOAD_BYTES
   };

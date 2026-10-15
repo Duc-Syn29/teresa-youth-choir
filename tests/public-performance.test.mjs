@@ -135,10 +135,11 @@ test("article renders before its album; an album failure and retry preserve the 
   const data = Schema.normalizeYear(JSON.parse(read("data/2020.json")));
   let render;
   let rejectAlbum;
+  let openAlbum;
   let retry;
   let attempts = 0;
   const album = {
-    dataset: {}, innerHTML: "", setAttribute() {},
+    dataset: {}, innerHTML: "", setAttribute() {}, append() {},
     querySelector: () => ({ addEventListener(_type, callback) { retry = callback; } }),
   };
   const count = { textContent: "" };
@@ -171,6 +172,7 @@ test("article renders before its album; an album failure and retry preserve the 
     CustomEvent: class { constructor(type) { this.type = type; } },
     document: {
       querySelector: (selector) => selector === "#activity-app" ? app : selector === "#activity-loading" ? loading : {},
+      createElement() { return {addEventListener(_type, callback) {openAlbum=callback;}}; },
       addEventListener(type, callback) { if (type === "DOMContentLoaded") render = callback; },
       dispatchEvent() {},
     },
@@ -180,6 +182,8 @@ test("article renders before its album; an album failure and retry preserve the 
   assert.equal(loading.hidden, true);
   assert.match(app.innerHTML, /activity-story-section/);
   assert.match(app.innerHTML, /Ngày 20-21\/6/);
+  assert.equal(attempts, 0, "album manifest waits until the reader requests it");
+  openAlbum();
   assert.equal(album.dataset.loading, "true", "album is still pending while story is visible");
   const storyBefore = app.innerHTML;
   rejectAlbum(new Error("offline"));

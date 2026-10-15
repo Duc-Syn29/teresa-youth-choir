@@ -1,39 +1,82 @@
-# Quản trị đơn giản — bản thử bước 1
+# Quản trị nhật ký — bản cải tiến đến 15/10/2026
 
-Bước 1 ngày 10/10/2026: giao diện quản trị đơn giản và tối ưu ảnh mới trước khi tải lên R2.
+Bản phát hành 15/10/2026 dùng bucket R2 riêng `teresa-admin-private` (preview: `teresa-admin-private-preview`), giữ bucket này riêng tư và gắn binding `PRIVATE_BUCKET`; không bật tên miền công khai cho bucket quản trị. Chức năng đồng bộ, tài khoản, dung lượng, chống ảnh trùng và bảo vệ lịch sử cần triển khai Worker cùng giao diện. Nếu máy chủ chưa đúng phiên bản hoặc chưa có kho riêng, bản thử khóa thêm ảnh và đăng bài để tránh tác động website thật qua máy chủ cũ; vẫn cho chuẩn bị bản nháp trên máy và xem trước. Khi phát hành: tạo kho riêng và triển khai Worker trước, rồi cập nhật giao diện.
 
-## Cách đăng một sự kiện
+## Thêm hoặc sửa sự kiện
 
-1. Đăng nhập bằng tài khoản được cấp, chọn năm.
-2. Trong **Sự kiện**, bấm **Thêm sự kiện**, điền tên, thời gian, giới thiệu ngắn và nội dung. Xuống dòng giữa các đoạn để bài dễ đọc.
-3. Thêm ảnh JPG/PNG/WebP/AVIF. Ảnh được tối ưu tự động. Bấm **Dùng làm bìa** trên ảnh phù hợp hoặc tải một ảnh bìa riêng.
-4. Bấm **Lưu hoạt động vào bản nháp**, rồi **Xem trước**. Chuyển giữa Điện thoại và Máy tính để kiểm tra.
-5. Bấm **Đăng lên website** khi đã kiểm tra xong. Thao tác này đăng toàn bộ thay đổi của năm đang chọn.
+1. Chọn năm, mở **Sự kiện**, bấm **Thêm sự kiện** hoặc **Sửa**.
+2. **Viết bài**: nhập tên, ngày và nội dung. Giới thiệu ngắn có thể để trống để lấy phần đầu bài. Xuống dòng để chia đoạn.
+3. **Chọn ảnh**: chọn tệp hoặc kéo ảnh vào khung. Sửa chú thích; dùng nút ↑/↓ để đổi thứ tự. Chọn **Bìa sự kiện** hoặc **Bìa năm** trên ảnh có sẵn để tái sử dụng ảnh.
+4. Trong **Ảnh trong nội dung bài viết**, mở đoạn cần minh họa và chọn ảnh. Tìm theo chú thích hoặc tên tệp, có thể gõ không dấu. Chỉ hiện 24 ảnh mỗi lần và có nút xem thêm. Lựa chọn được giữ khi lọc ảnh hoặc đổi trang. Tối đa 3 ảnh trong bài; mỗi ảnh chỉ chèn một lần. Các ảnh còn lại nằm trong album. Bỏ hết lựa chọn để bài chỉ có chữ và album.
+5. **Xem trước & đăng**: mặc định xem điện thoại, có thể chuyển máy tính. Nút đăng sẽ thông báo số sự kiện thêm/sửa/gỡ trước khi xác nhận; đăng toàn bộ thay đổi của năm đang chọn. Sau khi gửi, trang kiểm tra dữ liệu công khai để báo website đã cập nhật hay vẫn chờ.
 
-Bản nháp tự lưu trên thiết bị đang dùng; chưa đồng bộ sang máy khác. Đóng trang khi đang tải ảnh có thể làm gián đoạn việc tải. Khi đang tải ảnh, nút đăng bài và đổi năm được khóa.
+**Gỡ khỏi sự kiện** chỉ bỏ ảnh khỏi bài. **Xóa khỏi kho ảnh** là thao tác riêng của chủ quản trị và có kiểm tra tham chiếu.
 
-## Các mục khác
+## RAW và dung lượng R2
 
-- **Giới thiệu năm**: sửa tiêu đề, lời giới thiệu, dấu ấn và chọn ảnh bìa năm.
-- **Ban điều hành & ca viên**: tên, ảnh, ghi chú người phụ trách và thống kê ca viên.
-- **Kho ảnh**: thêm và tìm ảnh theo chủ đề/sự kiện.
-- **Kiểm tra & lịch sử**: kiểm tra ảnh bìa, đọc lỗi cần sửa, khôi phục phiên bản vào bản nháp. Công cụ sao lưu nằm trong mục nâng cao.
+RAW được xử lý ngay trên thiết bị: lấy ảnh JPEG xem trước lớn nhất có sẵn trong tệp máy ảnh, giữ hướng ảnh rồi nén thành ảnh web. Đây là ảnh máy ảnh đã xử lý sẵn, không phải giải mã cảm biến RAW để chỉnh màu/phơi sáng. Tệp RAW không gửi lên R2.
 
-## Tối ưu ảnh trong bước này
+Đã kiểm tra với CR2 của ca đoàn: năm mẫu có JPEG 5184 × 3456 px. Một mẫu xoay trái được thử trong Chrome thật, tạo thumbnail 22.244 byte và ảnh web 205.848 byte, tổng 228.092 byte. Không bảo đảm mọi máy ảnh/RAW có ảnh xem trước phù hợp. RAW thiếu JPEG lớn, bị hỏng hoặc lớn hơn 100 MB sẽ yêu cầu xuất JPG. JPG/PNG/WebP/AVIF giới hạn đầu vào 25 MB.
 
-Ảnh mới lưu hai tệp: ảnh thu nhỏ tối đa 480 px và ảnh web tối đa 2048 px (bìa tải riêng: 2560 px). Ảnh web được dùng chung cho nội dung và màn xem ảnh lớn. WebP được ưu tiên; trình duyệt không hỗ trợ xuất WebP dùng JPEG. Dung lượng phụ thuộc độ chi tiết của ảnh, không áp dụng mức KB cố định.
+Ảnh mới lưu hai tệp: thumbnail tối đa 480 px và ảnh web tối đa 2048 px; bìa tải riêng tối đa 2560 px. Ảnh web dùng chung cho nội dung và xem lớn. Ưu tiên WebP, có JPEG dự phòng. Tệp đã tối ưu giống hệt trong cùng năm dùng chung khóa R2 theo nội dung; không ghi thêm bản sao khi đủ hai biến thể. Đổi kích thước/chất lượng hoặc trình duyệt tạo byte khác có thể tạo bộ ảnh khác.
 
-Nếu đọc/nén ảnh thất bại thì dừng tải, không đưa tệp gốc lên R2. Hiện giới hạn đầu vào 25 MB/tệp; RAW chưa được hỗ trợ, cần xuất JPG trước. Ảnh cũ trong R2 không thay đổi.
+Thông báo tải ảnh cho biết dung lượng đầu vào và tổng ảnh tối ưu. **Kho ảnh → Xem dung lượng** tính số tệp/biến thể và dung lượng thực tế của năm, không nhầm số tệp với số ảnh độc lập.
 
-## Các bước tiếp theo
+## Bản nháp và tài khoản
 
-- Bộ xử lý RAW tự động: kiểm tra định dạng máy ảnh thực tế, giải mã trên dịch vụ xử lý, ảnh gốc ở vùng tạm riêng, kiểm tra ảnh web thành công rồi xóa tệp tạm.
-- Tài khoản người biên tập và chủ quản trị: hiện phía trình duyệt vẫn chỉ cho email quản trị cấu hình; cần cập nhật cả trình duyệt và Worker để giao tài khoản riêng.
-- Bản nháp đồng bộ, quản lý ảnh chèn theo đoạn, chống ảnh trùng, dung lượng album, thùng rác có thời hạn. Cần kiểm tra liên kết dữ liệu trước khi bổ sung tự động dọn ảnh.
+Bản nháp lưu trên máy trước rồi đồng bộ vào bucket quản trị riêng trong R2 khi Worker hỗ trợ. Trạng thái phân biệt đã đồng bộ và chỉ lưu trên máy. Phiên bản được kiểm tra để hai thiết bị không ghi đè im lặng. Nếu xung đột, bản cục bộ được giữ và báo đối chiếu; có màn đối chiếu để chọn bản cần giữ cho từng mục khác nhau. Với mỗi sự kiện, lựa chọn giữ nguyên cả nội dung và ảnh của sự kiện đó; không tự trộn câu văn. Hai bản được lưu vào lịch sử trên thiết bị trước khi kết hợp, giữ tối đa 12 bản khôi phục/năm. Nếu không lưu được bản dự phòng thì dừng kết hợp.
 
-## Kiểm tra đã thực hiện
+Chủ quản trị mở **Kiểm tra & lịch sử → Người quản trị** để tạo tài khoản email/mật khẩu riêng hoặc cấp quyền cho tài khoản Firebase đã có. Người biên tập có thể viết, tải ảnh, xem trước và đăng bài; không được quản lý tài khoản hoặc xóa ảnh khỏi kho. Gỡ quyền sẽ có hiệu lực ở yêu cầu API tiếp theo. Mật khẩu không lưu vào dữ liệu/R2 và không gửi email tự động.
 
-- Toàn bộ dữ liệu hiện tại: 12 năm, 114 sự kiện, 107 album, không lỗi/cảnh báo cấu trúc.
-- 24 kiểm tra tự động: gồm tải hai biến thể, kích thước bìa, chặn ảnh lỗi và RAW trước khi gửi mạng.
-- Chrome mô phỏng 320/390/1440 px với tài khoản và API giả lập: năm mục không tràn ngang, tìm sự kiện, giữ nội dung khi chuyển mục, tự lưu, chọn bìa từ ảnh có sẵn, sửa nhân sự.
-- Chưa thử đăng bài thật hoặc tải ảnh thật lên R2 trong phiên này; chưa kiểm tra trên iPhone vật lý.
+Tài khoản chủ quản trị vẫn cấu hình ở secrets ADMIN_UIDS/ADMIN_EMAIL(S). Nếu có người biên tập cấp qua secrets EDITOR_UIDS/EDITOR_EMAILS, việc thu hồi người đó phải cập nhật secrets, vì danh sách trên giao diện quản lý quyền đã cấp qua giao diện.
+
+API Firebase dùng theo tài liệu chính thức: https://firebase.google.com/docs/reference/rest/auth#section-create-email-password
+
+## Xóa ảnh và lịch sử
+
+Worker kiểm tra dữ liệu đang công khai, bản nháp đồng bộ và các ảnh trong lịch sử 30 ngày tạo bởi bản Worker mới trước khi cho xóa ảnh. Lịch sử này được ghi ở mỗi lần đăng từ khi triển khai, không tự nhập toàn bộ lịch sử cũ. Xóa ảnh khỏi kho vẫn đi qua cơ chế thùng rác hiện có. Chưa bật tự động xóa hàng loạt, chưa xóa ảnh hay lịch sử thật trong lần sửa này.
+
+Ban điều hành chỉ nhập tên và ghi chú; không còn nút tải ảnh. Dữ liệu ảnh cũ được giữ.
+
+## Kiểm tra
+
+Dữ liệu 12 năm/114 sự kiện/107 album không thay đổi. Kiểm tra tự động gồm RAW lỗi/thumbnail nhỏ, khóa bản nháp, quyền người biên tập, thu hồi tài khoản, tái sử dụng ảnh trùng và ảnh được chọn ngoài ba ảnh đầu album. Chrome mô phỏng 320/390/1440 px đã kiểm tra luồng bài, chú thích, thứ tự, chèn ảnh, bìa, đồng bộ và xem trước điện thoại; chưa thử trên iPhone vật lý.
+
+
+## Tải ảnh lỗi và gián đoạn
+
+Mỗi lượt tải có danh sách tên tệp và trạng thái thành công, lỗi hoặc đã dừng. Một ảnh lỗi không làm dừng cả album. **Thử lại ảnh lỗi / chưa tải** chỉ gửi những ảnh chưa thành công của lượt đó. Hàng đợi cũ được giữ khi thêm một lượt mới trong cùng phiên; phải mở đúng năm/sự kiện để thử lại. Trong lúc lưu chuẩn bị và tải ảnh, các thao tác sửa được khóa để giữ đúng nội dung.
+
+Yêu cầu mạng bị treo sẽ dừng sau tối đa hai phút và báo thử lại. Nút dừng hàng đợi chờ ảnh hiện tại hoàn tất/timeout. Tệp nguồn của hàng đợi chỉ được giữ trong bộ nhớ phiên trang, không tải RAW lên R2 và không lưu RAW vào bản nháp. Sau khi đóng/tải lại trang, cần chọn lại tệp chưa thành công; ảnh đã thêm vẫn ở bản nháp.
+
+## Bài cần hoàn thiện và hướng dẫn
+
+Trong **Sự kiện**, mở danh sách cần kiểm tra để thấy bài thiếu tên/ngày/nội dung/bìa/ảnh hoặc chưa xem trước. Thiếu bìa/ảnh là gợi ý, không buộc mượn ảnh không liên quan. Dấu xem trước chỉ áp dụng phiên hiện tại và hết hiệu lực khi nội dung sự kiện thay đổi.
+
+**Hướng dẫn nhanh & bài mẫu** tạo bài THỰC HÀNH trong bản nháp. Giao diện và Worker đều chặn đăng bài còn cờ thực hành. Phải thay tên và nội dung mẫu trước khi đánh dấu đã đổi thành bài thật, hoặc gỡ bài mẫu.
+
+## Dung lượng theo sự kiện và thùng rác
+
+Kho ảnh có bảng dung lượng năm và từng sự kiện, phân biệt bộ ảnh độc lập, tệp/biến thể và byte thực tế. Ảnh dùng chung có thể được tính trong nhiều dòng sự kiện, nhưng tổng của năm chỉ tính mỗi tệp một lần; không cộng các dòng sự kiện để ra dung lượng R2. Ảnh ngoài kho năm đang chọn được ghi là chưa tính, thay vì khẳng định dung lượng bằng 0.
+
+**Xóa khỏi kho ảnh** mở màn xem trước ảnh, số biến thể/dung lượng và nơi còn sử dụng: dữ liệu công khai, bản nháp trên máy/đồng bộ, lịch sử đang giữ. Có tham chiếu thì khóa nút xóa. Không tự gỡ nội dung khỏi bài để cho phép xóa. Máy chủ kiểm tra lại ở thời điểm xóa.
+
+**Xem thùng rác** hiển thị ảnh nhỏ, ngày gỡ và hạn giữ tối thiểu 30 ngày. Ảnh xem trước yêu cầu đăng nhập chủ quản trị, không mở công khai. Khôi phục trả các biến thể về đường dẫn cũ và gỡ bản sao thùng rác sau khi hoàn tất; không ghi đè ảnh khác đang tồn tại. Ảnh được trả vào kho, không tự chèn lại vào bài. Hiện chưa bật tự xóa ảnh quá hạn hoặc xóa hàng loạt.
+
+Để giảm dung lượng kho riêng, lịch sử bảo vệ ảnh chỉ giữ danh sách nhóm ảnh được tham chiếu, không sao chép byte ảnh hay toàn bộ bài viết. Khi đối chiếu, ảnh của cả hai bản được giữ tham chiếu 30 ngày để tránh xóa nhầm ảnh cần khôi phục. Nội dung đã đăng vẫn nằm trong lịch sử GitHub; hai bản trước đối chiếu nằm trong lịch sử trên thiết bị.
+
+Kiểm tra bổ sung: tìm ảnh/phân trang, giữ lựa chọn khi lọc, tải lại riêng ảnh bị lỗi mạng, đối chiếu bản nháp, chặn đăng bài mẫu, xem trước khi xóa, khôi phục thùng rác và bảng dung lượng chạy ở Chrome 320/390/1440 px với API giả lập. Không thao tác xóa/tải ảnh, tạo tài khoản hay đăng bài trên website/R2 thật trong phiên này.
+
+## Căn bìa và dùng lại ảnh giữa các năm
+
+Trong **Giới thiệu năm** hoặc bước **Chọn ảnh** của sự kiện, dùng bốn thanh căn khung để đặt trọng tâm riêng cho máy tính và điện thoại. Hai khung xem trước dùng cùng URL ảnh; chỉ tọa độ được lưu trong bản nháp.
+
+Trong **Kho ảnh**, chọn **Năm lưu ảnh**, mở ảnh và bấm **Dùng lại trong sự kiện** sau khi chọn một sự kiện cần sửa. Ảnh giữ nguyên URL/biến thể ở năm nguồn, không sao chép lên R2. Chỉ mục `data/media-usage.json` bảo vệ ảnh đang dùng trong album của năm khác; Worker cập nhật chỉ mục cùng commit xuất bản. Nếu sửa JSON thủ công, chạy `npm run index:media`.
+
+Ảnh mới nén với mục tiêu thumbnail 60 KiB, ảnh bài 350 KiB, bìa 500 KiB; chất lượng giảm có giới hạn tới .70, không giảm kích thước tiếp chỉ để ép dung lượng. Ảnh nhiều chi tiết có thể vượt mục tiêu nhằm giữ độ rõ.
+
+## Giao diện công khai
+
+Nội dung được căn đều hai lề trên điện thoại và máy tính. Tìm kỷ niệm ở trang chủ dùng chỉ mục JSON, không tải ảnh kết quả. Có tùy chọn tiết kiệm dữ liệu ảnh ở chân trang; chế độ này dừng tự tải thêm/tải trước và có nút mở bản nét. Ảnh lớn giữ ảnh xem trước tới khi giải mã xong, hỗ trợ kéo khi phóng và pinch trên màn hình cảm ứng.
+
+`npm run build` tạo 126 trang đầu năm/sự kiện trong `.site/`, kèm ảnh bìa preload và dữ liệu năm nhúng sẵn; đường dẫn cũ vẫn hoạt động. Cloudflare Pages dùng build command `npm run build`, output `.site`. Không tạo thêm ảnh R2 trong bước build.

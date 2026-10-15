@@ -378,6 +378,7 @@ function validateYearPayload(input, routeYear, env) {
   let totalImages = 0;
   data.activities = data.activities.map((activity, index) => {
     if (!isObject(activity)) fail(422, "INVALID_ACTIVITY", `Hoạt động số ${index + 1} không hợp lệ.`);
+    if (activity.practice) fail(422, "PRACTICE_ENTRY", "Hãy gỡ hoặc hoàn thiện bài thực hành trước khi đăng.");
     const next = { ...activity };
     next.id = safeText(next.id || `${year}-activity-${index + 1}`, "Mã hoạt động", 120, true);
     if (!/^[a-zA-Z0-9][a-zA-Z0-9._-]*$/.test(next.id)) fail(422, "INVALID_ACTIVITY_ID", `Mã hoạt động “${next.id}” chỉ được dùng chữ, số, dấu chấm, gạch ngang và gạch dưới.`);
@@ -528,7 +529,9 @@ function buildAlbumChanges(data, previousData) {
         count: images.length,
         images
       }, null, 2) + "\n");
-      activity.album = { manifest: path, count: images.length, preview: images.slice(0, 3) };
+      const storyIds = new Set((activity.storyPhotos || []).map((placement) => placement.photoId));
+      const selected = images.filter((image) => storyIds.has(image.id));
+      activity.album = { manifest: path, count: images.length, preview: [...selected, ...images.filter((image) => !storyIds.has(image.id))].slice(0, 3) };
       delete activity.images;
     }
     delete activity.albumManifest;
@@ -577,11 +580,15 @@ async function verifyAdmin(request, env) {
   if (String(env.REQUIRE_VERIFIED_EMAIL || "false") === "true" && !user.emailVerified) fail(403, "EMAIL_NOT_VERIFIED", "Email quản trị chưa được xác minh.");
   const allowedUids = String(env.ADMIN_UIDS || "").split(",").map((item) => item.trim()).filter(Boolean);
   const allowedEmails = String(env.ADMIN_EMAILS || env.ADMIN_EMAIL || "").split(",").map((item) => item.trim().toLowerCase()).filter(Boolean);
-  if (!allowedUids.length && !allowedEmails.length) fail(503, "ADMIN_NOT_CONFIGURED", "Worker chưa cấu hình tài khoản quản trị.");
-  if (allowedUids.length ? !allowedUids.includes(user.localId) : !allowedEmails.includes(user.email.trim().toLowerCase())) {
-    fail(403, "ADMIN_FORBIDDEN", "Tài khoản này không có quyền quản trị.");
-  }
-  return { uid: user.localId, email: user.email.trim().toLowerCase() };
+  const editorUids = String(env.EDITOR_UIDS || "").split(",").map((value) => value.trim()).filter(Boolean);
+  const editorEmails = String(env.EDITOR_EMAILS || "").split(",").map((value) => value.trim().toLowerCase()).filter(Boolean);
+  const email = user.email.trim().toLowerCase();
+  const owner = allowedUids.length ? allowedUids.includes(user.localId) : allowedEmails.includes(email);
+  const accessObject = env.PRIVATE_BUCKET ? await env.PRIVATE_BUCKET.get("private/access.json") : null;
+  const access = accessObject ? await accessObject.json() : { editors: [] };
+  const editor = editorUids.includes(user.localId) || editorEmails.includes(email) || (access.editors || []).some((entry) => entry.email === email);
+  if (!owner && !editor) fail(403, "ADMIN_FORBIDDEN", "Tài khoản này chưa được cấp quyền quản trị.");
+  return { uid: user.localId, email, role: owner ? "owner" : "editor" };
 }
 
 async function enforceRateLimit(env, key) {
@@ -663,6 +670,16 @@ function jsonContainsMedia(value, candidates) {
   return false;
 }
 
+function mediaAssetRoots(value) {
+  const roots=new Set();
+  const visit=(item)=>{
+    if(typeof item === "string") { let decoded=item;try{decoded=decodeURIComponent(item);}catch(_error){}const match=/(?:^|\/)(media\/\d{4}\/[^/]+\/[^/?#\s]+)/.exec(decoded);if(match)roots.add(match[1]); }
+    else if(Array.isArray(item))item.forEach(visit);
+    else if(isObject(item))Object.values(item).forEach(visit);
+  };
+  visit(value);return [...roots];
+}
+
 async function repositoryMediaReferences(env, candidateValues) {
   const candidates = [...new Set(candidateValues.filter(Boolean).map(String))];
   if (!candidates.length) return [];
@@ -674,10 +691,21 @@ async function repositoryMediaReferences(env, candidateValues) {
   const head = await gitHead(env, branch);
   const index = await readGitHubJson(env, "data/index.json", head);
   const references = [];
+  const usage = await readGitHubJson(env, "data/media-usage.json", head, true);
   await Promise.all((index.years || []).map(async (entry) => {
     const year = Number(entry.year);
     const data = await readGitHubJson(env, `data/${year}.json`, head);
     if (jsonContainsMedia(data, candidates)) references.push(`data/${year}.json`);
+    const known = usage?.version === 1 && usage.years?.[year];
+    if (known && Number(known.revision) === Number(data.meta?.revision || 0)) {
+      const roots = mediaAssetRoots(candidates);
+      if ((known.roots || []).some(root => roots.includes(root))) references.push(`data/albums/${year}/photo-references`);
+      return;
+    }
+    // A missing cross-year index must block deletion rather than miss a reused photo.
+    if (mediaYears.size && !mediaYears.has(year) && manifestPathsIn(data).length) {
+      fail(409, "MEDIA_INDEX_STALE", "Chỉ mục ảnh cần cập nhật trước khi xóa. Hãy chạy index:media và xuất bản lại website.");
+    }
     // R2 phân vùng ảnh theo năm. Chỉ album của năm sở hữu ảnh cần đọc đầy đủ;
     // 12 tệp năm vẫn được kiểm tra để phát hiện tham chiếu chéo trong preview
     // mà không vượt giới hạn subrequest của gói Worker nhỏ.
@@ -737,9 +765,18 @@ async function commitYear(env, input, branch, message, expectedHead = "") {
     const data = clone(input);
     const changes = buildAlbumChanges(data, previousData);
     const index = mergeIndex(currentIndex, data);
+    const usage = await readGitHubJson(env, "data/media-usage.json", head, true) || { version: 1, years: {} };
+    usage.years ||= {};
+    const completeInput = await hydrateExternalAlbums(env, input, head);
+    usage.years[data.year] = { revision: Number(data.meta?.revision || 0), roots: mediaAssetRoots(completeInput).sort() };
+    changes.set("data/media-usage.json", JSON.stringify(usage, null, 2) + "\n");
     changes.set(`data/${data.year}.json`, JSON.stringify(data, null, 2) + "\n");
     changes.set("data/index.json", JSON.stringify(index, null, 2) + "\n");
     try {
+      if (previousData && env.PRIVATE_BUCKET) {
+        const oldData = await hydrateExternalAlbums(env, previousData, head);
+        await env.PRIVATE_BUCKET.put(`private/history/${input.year}/${head}.json`, JSON.stringify({ retainedAt: new Date().toISOString(), revision: head, data: {year:input.year,media:mediaAssetRoots(oldData)} }), { httpMetadata: { contentType: "application/json" } });
+      }
       const commit = await createAtomicCommit(env, branch, head, changes, message);
       return { commit, data, index, manifests: [...changes.keys()].filter((path) => path.startsWith("data/albums/") && changes.get(path) !== null) };
     } catch (error) {
@@ -841,9 +878,9 @@ async function uploadMedia(request, env) {
   if (original.bytes.byteLength + (medium?.bytes.byteLength || 0) + (thumbnail?.bytes.byteLength || 0) > MULTIPART_LIMIT) {
     fail(413, "UPLOAD_TOO_LARGE", "Tổng dung lượng ba phiên bản ảnh vượt quá giới hạn.");
   }
-  const requestedAssetId = String(form.get("assetId") || "");
-  const assetId = /^[a-zA-Z0-9_-]{8,100}$/.test(requestedAssetId) ? requestedAssetId : crypto.randomUUID();
-  const root = `media/${year}/${slug(topic)}/${assetId}`;
+  const digest = async (bytes) => [...new Uint8Array(await crypto.subtle.digest("SHA-256", bytes))].map((value) => value.toString(16).padStart(2, "0")).join("");
+  const assetId = await digest(new TextEncoder().encode([await digest(original.bytes), medium ? await digest(medium.bytes) : "", thumbnail ? await digest(thumbnail.bytes) : ""].join(":")));
+  const root = `media/${year}/shared/${assetId}`;
   const variants = {
     original: { prepared: original, key: `${root}/original.${original.extension}`, width: positiveDimension(form.get("originalWidth")), height: positiveDimension(form.get("originalHeight")) }
   };
@@ -857,8 +894,10 @@ async function uploadMedia(request, env) {
     thumbnailWidth: String(variants.thumbnail?.width || variants.medium?.width || variants.original.width || ""),
     thumbnailHeight: String(variants.thumbnail?.height || variants.medium?.height || variants.original.height || "")
   };
+  const existingVariants = await Promise.all(Object.values(variants).map((item) => env.MEDIA_BUCKET.head(item.key)));
+  const reused = existingVariants.every(Boolean);
   try {
-    await Promise.all(Object.entries(variants).map(([variant, item]) => env.MEDIA_BUCKET.put(item.key, item.prepared.bytes, {
+    if (!reused) await Promise.all(Object.entries(variants).map(([variant, item]) => env.MEDIA_BUCKET.put(item.key, item.prepared.bytes, {
       httpMetadata: {
         contentType: item.prepared.mime,
         contentDisposition: `inline; filename="${safeFilename(item.prepared.originalName)}"`,
@@ -872,8 +911,7 @@ async function uploadMedia(request, env) {
       }
     })));
   } catch (_error) {
-    await env.MEDIA_BUCKET.delete(Object.values(keyMap)).catch(() => undefined);
-    fail(503, "R2_UPLOAD_FAILED", "Không thể lưu đủ các phiên bản ảnh. Không có ảnh dở dang nào được giữ lại.");
+    fail(503, "R2_UPLOAD_FAILED", "Chưa tải đủ ảnh. Hãy thử lại để hoàn tất; ảnh chưa được gắn vào bài viết.");
   }
   const descriptor = (name) => {
     const item = variants[name] || variants.original;
@@ -884,6 +922,7 @@ async function uploadMedia(request, env) {
   const thumbnailDescriptor = descriptor("thumbnail");
   return {
     ok: true,
+    reused,
     id: originalDescriptor.id,
     src: mediumDescriptor.src,
     year,
@@ -915,7 +954,7 @@ function mediaDescriptorFromObject(request, env, item) {
   const imported = importedVariantFromKey(item.key);
   const inferredKey = (variant) => imported ? `${imported.root}/${variant}.${imported.extension}` : "";
   const originalKey = metadata.originalKey || inferredKey("original") || item.key;
-  const mediumKey = metadata.mediumKey || inferredKey("medium") || originalKey;
+  const mediumKey = Object.prototype.hasOwnProperty.call(metadata, "mediumKey") ? metadata.mediumKey || originalKey : inferredKey("medium") || originalKey;
   const thumbnailKey = metadata.thumbnailKey || inferredKey("thumb") || mediumKey;
   const variant = (key, width = 0, height = 0) => ({ id: key, src: mediaUrl(request, env, key), width, height });
   const original = variant(originalKey, positiveDimension(metadata.originalWidth || metadata.width), positiveDimension(metadata.originalHeight || metadata.height));
@@ -946,7 +985,7 @@ async function listMedia(request, env, url) {
   const activityId = String(url.searchParams.get("activityId") || "").trim();
   const cursor = url.searchParams.get("cursor") || undefined;
   const limit = boundedInteger(url.searchParams.get("limit"), 500, 1, 1000);
-  const prefix = topic && topic !== "Tất cả" ? `media/${year}/${slug(topic)}/` : `media/${year}/`;
+  const prefix = `media/${year}/`;
   const page = await env.MEDIA_BUCKET.list({ prefix, cursor, limit, include: ["customMetadata", "httpMetadata"] });
   const items = page.objects
     .filter((item) => {
@@ -1023,6 +1062,87 @@ async function serveMedia(request, env, ctx, key) {
   return response;
 }
 
+async function mediaUseReport(env, key) {
+  if (!validMediaKey(key, env)) fail(422, "INVALID_MEDIA_PATH", "Ảnh không hợp lệ.");
+  const object = await env.MEDIA_BUCKET.head(key);
+  if (!object) fail(404, "MEDIA_NOT_FOUND", "Ảnh không còn trong kho.");
+  const root = object.customMetadata?.assetRoot || importedVariantFromKey(key)?.root;
+  const page = root ? await env.MEDIA_BUCKET.list({ prefix: `${root}/`, limit: 1000 }) : { objects: [{ key }] };
+  const candidates = [root, ...page.objects.map((item) => item.key)].filter(Boolean);
+  const published = await repositoryMediaReferences(env, candidates);
+  const references = published.map((path) => ({ scope: "public", label: `Nội dung đang công khai · năm ${/(20\d{2})/.exec(path)?.[1] || ""}${path.includes("/albums/") ? " · album" : ""}` }));
+  if (env.PRIVATE_BUCKET) {
+    for (const [prefix,scope] of [["private/drafts/","draft"],["private/history/","history"]]) {
+      let cursor;
+      do {
+        const listed = await env.PRIVATE_BUCKET.list({ prefix, limit: 1000, cursor });
+        for (const item of listed.objects) {
+          const object = await env.PRIVATE_BUCKET.get(item.key);
+          const record = object ? await object.json() : null;
+          if (!record || record.cleared || (scope === "history" && Date.now() - Date.parse(record.retainedAt) >= 30 * 86400000)) continue;
+          if (jsonContainsMedia(record, candidates)) references.push({ scope, label: `${scope === "draft" ? "Bản nháp đồng bộ" : "Lịch sử 30 ngày"} · năm ${record.data?.year || /(20\d{2})/.exec(item.key)?.[1] || ""}` });
+        }
+        cursor = listed.truncated ? listed.cursor : undefined;
+      } while(cursor);
+    }
+  }
+  return { key, variants: page.objects.length, bytes: page.objects.reduce((sum,item)=>sum+Number(item.size||0),0), references };
+}
+
+function validTrashKey(key, env) {
+  const match = /^trash\/[^/]+\/(media\/.+)$/.exec(String(key));
+  return match && validMediaKey(match[1], env);
+}
+
+async function listTrash(env, url) {
+  const year = cleanYear(url.searchParams.get("year"), env);
+  const page = await env.MEDIA_BUCKET.list({ prefix: "trash/", cursor: url.searchParams.get("cursor") || undefined, limit: 24, include: ["customMetadata"] });
+  const items = page.objects.filter((item) => {
+    const key = item.customMetadata?.originalKey;
+    if (!validTrashKey(item.key, env) || !key?.startsWith(`media/${year}/`)) return false;
+    const variant = item.customMetadata?.variant || importedVariantFromKey(key)?.variant;
+    return !variant || variant === "original";
+  }).map((item) => {
+    const metadata = item.customMetadata || {};
+    const prefix = item.key.split("/").slice(0,2).join("/");
+    const expiresAt = new Date(Date.parse(metadata.deletedAt) + 30 * 86400000);
+    return { key: item.key, caption: metadata.caption || metadata.filename || "Ảnh đã gỡ", filename: metadata.filename || "", deletedAt: metadata.deletedAt || "", retainUntil: Number.isNaN(expiresAt.getTime()) ? "" : expiresAt.toISOString(), thumbnailKey: metadata.thumbnailKey ? `${prefix}/${metadata.thumbnailKey}` : item.key };
+  });
+  return { items, cursor: page.truncated ? page.cursor : "" };
+}
+
+async function restoreTrash(env, key) {
+  if (!validTrashKey(key, env)) fail(422, "INVALID_TRASH_KEY", "Ảnh khôi phục không hợp lệ.");
+  const selected = await env.MEDIA_BUCKET.get(key);
+  if (!selected) fail(404, "TRASH_NOT_FOUND", "Ảnh không còn trong thùng rác.");
+  const originalKey = selected.customMetadata?.originalKey;
+  if (!validMediaKey(originalKey,env)) fail(422, "INVALID_TRASH_KEY", "Không xác định được ảnh gốc để khôi phục.");
+  const selectedVariant = selected.customMetadata?.variant || importedVariantFromKey(originalKey)?.variant;
+  if (selectedVariant && selectedVariant !== "original") fail(422,"INVALID_TRASH_KEY","Hãy chọn ảnh chính để khôi phục cả bộ.");
+  const root = selected.customMetadata?.assetRoot || importedVariantFromKey(originalKey)?.root;
+  const prefix = key.split("/").slice(0,2).join("/");
+  const listed = root ? await env.MEDIA_BUCKET.list({ prefix: `${prefix}/${root}/`, limit: 1000 }) : { objects: [{ key }] };
+  if (listed.truncated) fail(422, "TRASH_TOO_LARGE", "Bộ ảnh khôi phục quá lớn.");
+  const entries = [];
+  for (const item of listed.objects) {
+    const source = await env.MEDIA_BUCKET.get(item.key);
+    const target = source?.customMetadata?.originalKey;
+    if (!source || !validMediaKey(target,env)) fail(422, "INVALID_TRASH_KEY", "Bộ ảnh khôi phục không đầy đủ.");
+    const current = await env.MEDIA_BUCKET.head(target);
+    if (current && current.etag !== source.etag) fail(409, "RESTORE_EXISTS", "Đường dẫn này đã có ảnh khác; chưa ghi đè ảnh hiện có.");
+    entries.push({ key: item.key, source, target, current });
+  }
+  for (const entry of entries) {
+    if (entry.current) continue;
+    const metadata = { ...(entry.source.customMetadata || {}), originalKey };
+    delete metadata.deletedAt; delete metadata.trashed;
+    const saved = await env.MEDIA_BUCKET.put(entry.target, entry.source.body, { onlyIf: { etagDoesNotMatch: "*" }, httpMetadata: entry.source.httpMetadata, customMetadata: metadata });
+    if (!saved) fail(409, "RESTORE_EXISTS", "Kho ảnh vừa thay đổi; bản thùng rác vẫn được giữ để thử lại.");
+  }
+  await env.MEDIA_BUCKET.delete(entries.map((entry)=>entry.key));
+  return { ok: true, restored: entries.map((entry)=>entry.target) };
+}
+
 async function deleteMedia(request, env) {
   const body = await readJson(request, 16 * 1024);
   const key = String(body.path || body.id || "");
@@ -1040,6 +1160,27 @@ async function deleteMedia(request, env) {
     const references = await repositoryMediaReferences(env, [root, ...keys]);
     if (references.length) {
       fail(409, "MEDIA_IN_USE", `Ảnh vẫn đang được sử dụng trong ${references.length} tệp dữ liệu. Hãy gỡ ảnh và xuất bản thay đổi trước khi xóa.`, references);
+    }
+    if (env.PRIVATE_BUCKET) {
+    let draftCursor;
+    do {
+      const listed = await env.PRIVATE_BUCKET.list({ prefix: "private/drafts/", limit: 1000, cursor: draftCursor });
+      for (const entry of listed.objects) {
+        const record = await env.PRIVATE_BUCKET.get(entry.key);
+        if (record && jsonContainsMedia(await record.json(), [root, ...keys].filter(Boolean))) fail(409, "MEDIA_IN_DRAFT", "Ảnh đang được dùng trong bản nháp đồng bộ. Hãy gỡ ảnh khỏi bản nháp trước khi xóa.");
+      }
+      draftCursor = listed.truncated ? listed.cursor : undefined;
+    } while (draftCursor);
+    let historyCursor;
+    do {
+      const listed = await env.PRIVATE_BUCKET.list({ prefix: "private/history/", limit: 1000, cursor: historyCursor });
+      for (const entry of listed.objects) {
+        const retained = await env.PRIVATE_BUCKET.get(entry.key);
+        const record = retained ? await retained.json() : null;
+        if (record && Date.now() - Date.parse(record.retainedAt) < 30 * 24 * 60 * 60 * 1000 && jsonContainsMedia(record.data, [root, ...keys].filter(Boolean))) fail(409, "MEDIA_IN_HISTORY", "Ảnh còn được dùng trong lịch sử 30 ngày được giữ lại. Hãy chờ hết thời hạn trước khi xóa khỏi kho.");
+      }
+      historyCursor = listed.truncated ? listed.cursor : undefined;
+    } while (historyCursor);
     }
     const deletedAt = new Date().toISOString();
     const trashPrefix = `trash/${deletedAt.replace(/[:.]/g, "-")}`;
@@ -1106,7 +1247,7 @@ async function route(request, env, ctx) {
       service: "teresa-admin-api",
       environment: environment(env),
       release: String(env.RELEASE || "development"),
-      bindings: { media: Boolean(env.MEDIA_BUCKET), rateLimiter: Boolean(env.RATE_LIMITER) },
+      bindings: { private: Boolean(env.PRIVATE_BUCKET), media: Boolean(env.MEDIA_BUCKET), rateLimiter: Boolean(env.RATE_LIMITER) },
       yearRange: yearBounds(env)
     });
   }
@@ -1120,8 +1261,110 @@ async function route(request, env, ctx) {
   await enforceRateLimit(env, `admin:${admin.uid}:${request.method}:${url.pathname.split("/").slice(0, 4).join("/")}`);
 
   if (request.method === "GET" && url.pathname === "/api/session") {
-    return json({ ok: true, email: admin.email, uid: admin.uid, environment: environment(env), branch: branchName(env) });
+    return json({ ok: true, email: admin.email, uid: admin.uid, role: admin.role, capabilities: { adminProtocol: 2, cloudDrafts: Boolean(env.PRIVATE_BUCKET) }, environment: environment(env), branch: branchName(env) });
   }
+
+  if (url.pathname === "/api/media/references" && request.method === "POST") {
+    if (admin.role !== "owner") fail(403,"OWNER_REQUIRED","Chỉ chủ quản trị được kiểm tra để xóa ảnh.");
+    const body=await readJson(request,16*1024); return json(await mediaUseReport(env,String(body.id || "")));
+  }
+  if (url.pathname === "/api/trash" || url.pathname === "/api/trash/restore" || url.pathname === "/api/trash/preview") {
+    if (admin.role !== "owner") fail(403,"OWNER_REQUIRED","Chỉ chủ quản trị được mở thùng rác.");
+    if (url.pathname === "/api/trash" && request.method === "GET") return json(await listTrash(env,url));
+    if (url.pathname === "/api/trash/restore" && request.method === "POST") { const body=await readJson(request,16*1024); return json(await restoreTrash(env,body.key)); }
+    if (url.pathname === "/api/trash/preview" && request.method === "GET") {
+      const key=url.searchParams.get("key") || "";
+      if (!validTrashKey(key,env)) fail(422,"INVALID_TRASH_KEY","Ảnh xem trước không hợp lệ.");
+      const object=await env.MEDIA_BUCKET.get(key);
+      if (!object) fail(404,"TRASH_NOT_FOUND","Không còn ảnh xem trước.");
+      const type=object.httpMetadata?.contentType;
+      if (!ALLOWED_IMAGE_TYPES.has(type) || object.size > 5 * 1024 * 1024) fail(413,"PREVIEW_UNAVAILABLE","Ảnh này không có bản xem trước nhỏ.");
+      return new Response(object.body,{headers:{"Content-Type":type,"Cache-Control":"private, no-store","X-Content-Type-Options":"nosniff"}});
+    }
+    fail(405,"METHOD_NOT_ALLOWED","Thao tác không hợp lệ.");
+  }
+
+  if (url.pathname === "/api/accounts") {
+    if (!env.PRIVATE_BUCKET) fail(503, "PRIVATE_STORAGE_REQUIRED", "Chưa triển khai kho quản trị riêng.");
+    if (admin.role !== "owner") fail(403, "OWNER_REQUIRED", "Chỉ chủ quản trị được quản lý tài khoản.");
+    const key = "private/access.json";
+    const object = await env.PRIVATE_BUCKET.get(key);
+    const access = object ? await object.json() : { editors: [] };
+    if (request.method === "GET") return json({ items: access.editors || [], revision: object?.etag || "" });
+    const body = await readJson(request, 16 * 1024);
+    const email = String(body.email || "").trim().toLowerCase();
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) || email.length > 254) fail(422, "INVALID_EMAIL", "Email chưa đúng.");
+    if (String(request.headers.get("If-Match") || "") !== (object?.etag || "")) fail(409, "ACCESS_CONFLICT", "Danh sách tài khoản đã thay đổi. Hãy tải lại.");
+    if (request.method === "POST") {
+      if (access.editors.some((entry) => entry.email === email)) fail(409, "ACCOUNT_EXISTS", "Email đã được cấp quyền.");
+      if (!body.existing) {
+        if (String(body.password || "").length < 10) fail(422, "WEAK_PASSWORD", "Mật khẩu cần ít nhất 10 ký tự.");
+        const response = await fetch(`https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=${encodeURIComponent(env.FIREBASE_API_KEY)}`, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ email, password: body.password, returnSecureToken: false }) });
+        const result = await response.json();
+        if (!response.ok) fail(422, "ACCOUNT_CREATION_FAILED", result.error?.message === "EMAIL_EXISTS" ? "Email đã có tài khoản. Chọn cấp quyền cho tài khoản có sẵn." : "Không thể tạo tài khoản. Hãy kiểm tra email và mật khẩu.");
+      }
+      access.editors.push({ email, role: "editor", createdAt: new Date().toISOString(), addedBy: admin.email });
+    } else if (request.method === "DELETE") access.editors = access.editors.filter((entry) => entry.email !== email);
+    else fail(405, "METHOD_NOT_ALLOWED", "Thao tác chưa được hỗ trợ.");
+    const saved = await env.PRIVATE_BUCKET.put(key, JSON.stringify(access), { onlyIf: object ? { etagMatches: object.etag } : { etagDoesNotMatch: "*" }, httpMetadata: { contentType: "application/json" } });
+    if (!saved) fail(409, "ACCESS_CONFLICT", "Danh sách quyền vừa thay đổi. Nếu tài khoản đã tạo, hãy chọn cấp quyền cho tài khoản có sẵn.");
+    return json({ items: access.editors, revision: saved.etag });
+  }
+  if (url.pathname === "/api/media/stats" && request.method === "GET") {
+    const year = cleanYear(url.searchParams.get("year"), env);
+    let cursor, bytes = 0, objects = 0;
+    const assets = new Map();
+    do {
+      const page = await env.MEDIA_BUCKET.list({ prefix: `media/${year}/`, cursor, limit: 1000, include: ["customMetadata"] });
+      for (const item of page.objects) {
+        bytes += item.size; objects++;
+        const root = item.customMetadata?.assetRoot || importedVariantFromKey(item.key)?.root || item.key;
+        if (!assets.has(root)) assets.set(root,{id:root,keys:[],variants:0,bytes:0});
+        const asset=assets.get(root);asset.keys.push(item.key);asset.variants++;asset.bytes+=item.size;
+      }
+      cursor = page.truncated ? page.cursor : undefined;
+    } while (cursor);
+    return json({ year, bytes, objects, photos: assets.size, assets: [...assets.values()] });
+  }
+
+  const draftMatch = /^\/api\/drafts\/(\d{4})$/.exec(url.pathname);
+  if (draftMatch) {
+    if (!env.PRIVATE_BUCKET) fail(503, "PRIVATE_STORAGE_REQUIRED", "Chưa triển khai kho bản nháp riêng.");
+    const year = cleanYear(draftMatch[1], env);
+    const key = `private/drafts/${year}.json`;
+    const object = await env.PRIVATE_BUCKET.get(key);
+    if (request.method === "GET") {
+      const record = object ? await object.json() : null;
+      return json({ record: record && !record.cleared ? { ...record, cloudRevision: object.etag } : null, cloudRevision: object?.etag || "" });
+    }
+    const expected = String(request.headers.get("If-Match") || "");
+    if ((object?.etag || "") !== expected) fail(409, "DRAFT_CONFLICT", "Bản nháp đã được sửa ở thiết bị khác. Nội dung trên máy này vẫn được giữ; tải lại để đối chiếu.");
+    if (request.method === "DELETE") {
+      const cleared = await env.PRIVATE_BUCKET.put(key, JSON.stringify({ cleared: true }), { onlyIf: object ? { etagMatches: object.etag } : { etagDoesNotMatch: "*" }, httpMetadata: { contentType: "application/json" } });
+      if (!cleared) fail(409, "DRAFT_CONFLICT", "Bản nháp vừa được sửa ở máy khác. Chưa xóa bản nháp đó.");
+      return json({ ok: true, cloudRevision: cleared.etag });
+    }
+    if (request.method === "PUT") {
+      const body = await readJson(request);
+      if (Number(body.data?.year) !== year) fail(422, "INVALID_YEAR", "Năm của bản nháp không khớp.");
+      if (!isObject(body.data) || !Array.isArray(body.data.activities)) fail(422, "INVALID_DRAFT", "Bản nháp không hợp lệ.");
+      const data = clone(body.data);
+      const record = { id: String(year), year, data, baseRevision: String(body.baseRevision || ""), updatedAt: new Date().toISOString(), editor: { uid: admin.uid, email: admin.email, name: admin.email } };
+      if (body.retainedMedia !== undefined) {
+        if (!Array.isArray(body.retainedMedia) || body.retainedMedia.length > 10000 || body.retainedMedia.some((value) => typeof value !== "string" || value.length > 300 || !validMediaKey(value,env))) fail(422,"INVALID_RETAINED_MEDIA","Danh sách ảnh cần giữ không hợp lệ.");
+        const media=[...new Set(body.retainedMedia)].sort();
+        const digest=[...new Uint8Array(await crypto.subtle.digest("SHA-256",new TextEncoder().encode(JSON.stringify(media))))].map((value)=>value.toString(16).padStart(2,"0")).join("");
+        await env.PRIVATE_BUCKET.put(`private/history/${year}/merge-${digest}.json`,JSON.stringify({retainedAt:new Date().toISOString(),data:{year,media}}),{httpMetadata:{contentType:"application/json"}});
+      }
+      const saved = await env.PRIVATE_BUCKET.put(key, JSON.stringify(record), {
+        onlyIf: object ? { etagMatches: object.etag } : { etagDoesNotMatch: "*" },
+        httpMetadata: { contentType: "application/json" }
+      });
+      if (!saved) fail(409, "DRAFT_CONFLICT", "Bản nháp vừa được sửa ở máy khác. Hãy tải lại để đối chiếu.");
+      return json({ record: { ...record, cloudRevision: saved.etag } });
+    }
+  }
+  if (request.method === "DELETE" && url.pathname === "/api/media" && admin.role !== "owner") fail(403, "OWNER_REQUIRED", "Chỉ chủ quản trị được xóa ảnh khỏi kho.");
 
   const yearMatch = /^\/api\/years\/(\d{4})$/.exec(url.pathname);
   if (request.method === "GET" && yearMatch) {

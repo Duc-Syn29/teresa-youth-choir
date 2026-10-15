@@ -16,6 +16,10 @@ Kho nhật ký số của Ca đoàn Giới trẻ Têrêsa từ năm 2015. Websit
 - Cloudflare R2 `teresa-choir-images`: lưu ảnh tải từ trang quản trị. Worker nhận binding `MEDIA_BUCKET`.
 - GitHub: nguồn xuất bản nội dung JSON. Worker cập nhật file năm và `data/index.json` trong cùng một commit để tránh trạng thái nửa chừng.
 
+## Xuất bản tĩnh
+
+`npm run build` tạo website trong `.site/`, bao gồm phần mở đầu tạo sẵn của từng năm/sự kiện, preload bìa và dữ liệu nhúng để bớt lượt chờ. Cloudflare Pages dùng build command `npm run build`, output `.site`. Ảnh giữ URL R2 hiện có. Sau khi sửa JSON thủ công, chạy `npm run index:media` để cập nhật chỉ mục bảo vệ ảnh dùng chéo năm.
+
 ## Chạy cục bộ
 
 Không mở trực tiếp bằng `file://`, vì trình duyệt sẽ chặn `fetch()` JSON.
@@ -74,8 +78,8 @@ Mỗi người trong Ban điều hành là một phần tử độc lập có `i
 
 ## Ảnh và album
 
-- Ảnh mới được trình duyệt tạo tuần tự thành ba kích thước 480, 1280 và tối đa 3200 px để hạn chế tăng RAM trên iPhone.
-- Bản 3200 px chất lượng cao chỉ tải khi mở lightbox; ảnh gốc 6K–8K không được lưu dư trên R2.
+- Ảnh mới được trình duyệt tạo tuần tự thành hai kích thước 480 và 2048 px (bìa tối đa 2560 px) để hạn chế tăng RAM trên iPhone.
+- Bản xem lớn dùng chung cho nội dung và lightbox; ảnh gốc 6K–8K và RAW không được lưu dư trên R2. RAW được trích ảnh JPEG xem trước trên thiết bị khi định dạng hỗ trợ.
 - Worker kiểm tra MIME bằng chữ ký file, lưu metadata vào R2 và trả về URL của từng biến thể.
 - Khi thêm ảnh trong trang quản trị, ảnh được upload lên R2 ngay lúc chọn tệp; nếu upload thất bại, ảnh không được thêm vào bản nháp.
 - Nếu chép ảnh trực tiếp vào thư mục dự án, chạy `npm run sync:r2:write` trước khi commit dữ liệu. Lệnh chỉ sửa JSON sau khi mọi object R2 và URL công khai đều được kiểm tra thành công.

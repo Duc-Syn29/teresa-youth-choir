@@ -11,8 +11,10 @@
     "optimize:r2:write": "node scripts/optimize-r2-originals.mjs --write",
     "sync:r2": "node scripts/sync-local-media-to-r2.mjs",
     "sync:r2:write": "node scripts/sync-local-media-to-r2.mjs --upload --verify --rewrite",
-    "check:js": "node --check js/schema.js && node --check js/store.js && node --check js/main.js && node --check js/year.js && node --check js/activity.js && node --check js/admin.js && node --check js/word.js",
+    "check:js": "node --check js/public-tools.js && node --check js/schema.js && node --check js/store.js && node --check js/raw.js && node --check js/main.js && node --check js/year.js && node --check js/activity.js && node --check js/admin.js && node --check js/admin-tools.js && node --check js/word.js",
     "check:worker": "node --input-type=module --check < cloudflare-worker/worker.js",
-    "check": "npm run validate:data && npm test && npm run check:js && npm run check:worker"
+    "check": "npm run validate:data && npm test && npm run check:js && npm run check:worker",
+    "build": "node scripts/build-site.mjs",
+    "index:media": "node scripts/media-usage.mjs"
   }
 }

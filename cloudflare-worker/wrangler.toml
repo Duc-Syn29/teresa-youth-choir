@@ -13,7 +13,7 @@ ALLOWED_ORIGINS = "https://cadoangioitreteresa.org,https://www.cadoangioitretere
 ALLOWED_ORIGIN_SUFFIXES = ""
 REQUIRE_VERIFIED_EMAIL = "false"
 R2_PUBLIC_BASE_URL = ""
-RELEASE = "worker-v3"
+RELEASE = "admin-usability-20261015"
 
 [observability]
 enabled = true
@@ -22,6 +22,10 @@ head_sampling_rate = 1
 [[r2_buckets]]
 binding = "MEDIA_BUCKET"
 bucket_name = "teresa-choir-images"
+
+[[r2_buckets]]
+binding = "PRIVATE_BUCKET"
+bucket_name = "teresa-admin-private"
 
 # Một namespace riêng trong tài khoản Cloudflare. Có thể đổi số nếu namespace
 # 1001 đã được dùng bởi Worker khác.
@@ -43,7 +47,7 @@ ALLOWED_ORIGINS = "https://teresa-youth-choir.pages.dev"
 ALLOWED_ORIGIN_SUFFIXES = ".teresa-youth-choir.pages.dev"
 REQUIRE_VERIFIED_EMAIL = "false"
 R2_PUBLIC_BASE_URL = ""
-RELEASE = "worker-v3-preview"
+RELEASE = "admin-usability-20261015-preview"
 
 [env.preview.observability]
 enabled = true
@@ -52,6 +56,10 @@ head_sampling_rate = 1
 [[env.preview.r2_buckets]]
 binding = "MEDIA_BUCKET"
 bucket_name = "teresa-choir-images-preview"
+
+[[env.preview.r2_buckets]]
+binding = "PRIVATE_BUCKET"
+bucket_name = "teresa-admin-private-preview"
 
 [[env.preview.ratelimits]]
 name = "RATE_LIMITER"

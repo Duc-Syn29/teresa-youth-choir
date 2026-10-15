@@ -163,3 +163,23 @@ Worker → Observability** để lọc lỗi `4xx/5xx` và request chậm.
 Sau khi deploy, cập nhật endpoint trong `js/firebase-config.js` nếu URL Worker thay
 đổi. Khi thêm domain hoặc Pages project mới, cập nhật `ALLOWED_ORIGINS`; đừng dùng
 wildcard cho API quản trị.
+
+## Phát hành bản quản trị cải tiến (15/10/2026)
+
+Bản giao diện mới yêu cầu `/api/session` trả `capabilities.adminProtocol = 2` và `cloudDrafts = true`. Khi chưa đủ hai điều kiện, giao diện giữ bản nháp trên máy và cho xem trước, khóa thêm ảnh và đăng bài.
+
+Trước khi triển khai, tạo bucket `teresa-admin-private` và gắn binding `PRIVATE_BUCKET` theo `wrangler.toml`. Bucket riêng chứa quyền biên tập, bản nháp và tham chiếu ảnh trong lịch sử; không bật `r2.dev` hoặc tên miền công khai cho bucket này. Nếu dùng môi trường preview, tạo thêm `teresa-admin-private-preview`.
+
+Triển khai Worker trước rồi cập nhật giao diện. `/health` phải báo binding `private: true` và release `admin-usability-20261015`. Tài khoản chủ quản trị vẫn dùng secrets ADMIN_UIDS/ADMIN_EMAIL(S). Quyền cấp qua giao diện lưu ở bucket riêng; EDITOR_UIDS/EDITOR_EMAILS vẫn là quyền cấu hình qua secrets và phải thu hồi qua secrets.
+
+Các API bổ sung: `/api/drafts/:year`, `/api/accounts`, `/api/media/stats`, `/api/media/references`, `/api/trash`, `/api/trash/preview`, `/api/trash/restore`. Xem [hướng dẫn quản trị](../docs/admin-simple-guide.md) để biết phạm vi lưu trữ và các giới hạn. Chưa bật lịch tự xóa thùng rác hoặc lịch sử; không cấu hình lifecycle xóa các nhóm này khi chưa thống nhất thời hạn giữ với chủ quản trị.
+
+Kiểm tra cục bộ bằng `npm run check` tại thư mục gốc. Phiên kiểm tra dùng R2/Firebase/API giả lập; cần kiểm tra đăng nhập và thao tác đọc trên môi trường triển khai sau khi phát hành.
+
+### Bản phát hành công khai 15/10/2026
+
+Pages dùng `npm run build` và output `.site`, tạo trước phần bìa/giới thiệu cùng payload năm cho từng trang. Liên kết cũ `year.html?year=…` và `activity.html?year=…&id=…` vẫn hoạt động; liên kết mới trên website dùng trang đã tạo sẵn.
+
+Kho `teresa-admin-private` giữ riêng tư (r2.dev tắt, không custom domain). Production Worker đã gắn `PRIVATE_BUCKET`; preview cần tạo bucket preview trước khi dùng. Các secrets sẵn có được giữ nguyên.
+
+`data/media-usage.json` lưu các gốc ảnh được từng năm tham chiếu, kể cả ảnh không nằm trong ba ảnh preview. Worker cập nhật file cùng commit năm/album. Khi chỉnh JSON thủ công, chạy `npm run index:media` trước khi commit. Nếu chỉ mục khác revision, thao tác xóa ảnh dừng an toàn.
