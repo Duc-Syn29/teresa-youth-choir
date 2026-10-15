@@ -9,7 +9,7 @@
     <link rel="icon" type="image/png" href="images/favicon.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
     <link rel="stylesheet" href="css/style.css?v=public-20261015" />
     <link rel="stylesheet" href="css/admin-legacy.css?v=public-20261015" />
     <link rel="stylesheet" href="css/admin.css?v=public-20261015" />
@@ -19,11 +19,11 @@
     <script src="js/public-tools.js?v=public-20261015" defer></script>
     <script src="js/schema.js?v=archive-2026-62" defer></script>
     <script src="js/raw.js?v=admin-usability-1" defer></script>
-    <script src="js/store.js?v=public-20261015" defer></script>
+    <script src="js/store.js?v=admin-speed-20261015" defer></script>
     <script src="js/word.js?v=archive-2026-17" defer></script>
     <script src="js/main.js?v=public-20261015" defer></script>
     <script src="js/admin-tools.js?v=admin-usability-1" defer></script>
-    <script src="js/admin.js?v=public-20261015" defer></script>
+    <script src="js/admin.js?v=admin-speed-20261015" defer></script>
   </head>
   <body class="admin-page">
     <a class="skip-link" href="#admin-app">Đi đến nội dung chính</a>
@@ -32,7 +32,7 @@
       <button class="menu-toggle" type="button" aria-label="Mở menu" aria-expanded="false"><span></span><span></span><span></span></button>
       <nav class="main-nav" aria-label="Điều hướng chính"><a href="index.html">Trang chủ</a><a href="index.html#journey">Hành trình</a><a href="index.html#album">Album</a><a class="active" href="admin.html">Quản trị</a></nav>
     </header>
-    <main id="admin-app"></main>
+    <main id="admin-app"><section class="admin-shell" role="status"><div class="container"><h1>Đang mở trang quản trị…</h1><p>Đang kiểm tra đăng nhập và đọc nội dung năm.</p></div></section></main>
     <aside class="admin-command-bar" id="admin-command-bar" aria-label="Điều khiển bản nháp" aria-live="polite" hidden>
       <div class="admin-command-status"><strong id="draft-status-title">Bản nháp</strong><span id="draft-status-detail">Chưa có thay đổi</span></div>
       <div class="admin-command-actions">

@@ -23,6 +23,10 @@
   let firebaseAuth = null;
   let mediaObserver = null;
   let adminSession = null;
+  const adminYears = new Map();
+  const pendingAdminYears = new Map();
+  const adminAlbums = new Map();
+  const cloudSyncTasks = new Map();
   const cloudDraftRevisions = new Map();
 
   const copy = (value) => value == null ? value : JSON.parse(JSON.stringify(value));
@@ -286,16 +290,36 @@
     } finally { clearTimeout(timer); }
   }
 
-  async function loadYearForAdmin(year) {
+  async function loadYearForAdmin(year, options = {}) {
     const numericYear = Number(year);
-    if (!isSourceApiConfigured()) return loadYear(numericYear, { force: true });
-    const response = await api(`/api/years/${numericYear}`);
-    const data = normalizeYear(response.data);
-    Object.defineProperty(data, "_revision", { value: response.revision || "", writable: true, enumerable: false, configurable: true });
-    const record = { year: numericYear, data, release: CACHE_RELEASE, updatedAt: new Date().toISOString() };
-    memoryCache.set(`year:${numericYear}`, record);
-    await safeStore("years", "readwrite", (store) => store.put(record));
-    return data;
+    if (!isSourceApiConfigured()) return loadYear(numericYear, { force: Boolean(options.force) });
+    const cached = adminYears.get(numericYear);
+    const restore = (entry) => {
+      const data = normalizeYear(entry.data);
+      Object.defineProperty(data, "_revision", { value: entry.revision || "", writable: true, enumerable: false, configurable: true });
+      return data;
+    };
+    if (!options.force && cached && Date.now() - cached.at < 60000) return restore(cached);
+    if (!pendingAdminYears.has(numericYear)) {
+      const task = api(`/api/years/${numericYear}?compact=1`).then(response => {
+        const entry = { data: response.data, revision: response.revision, at: Date.now() };
+        adminYears.set(numericYear, entry); return entry;
+      }).finally(() => pendingAdminYears.delete(numericYear));
+      pendingAdminYears.set(numericYear, task);
+    }
+    return restore(await pendingAdminYears.get(numericYear));
+  }
+
+  async function loadActivityMedia(year, activity, revision) {
+    if (Array.isArray(activity.images)) return activity.images;
+    if (!activity.album?.manifest) return [];
+    const key = `${year}:${activity.id}:${revision}`;
+    if (!adminAlbums.has(key)) {
+      const task = api(`/api/years/${Number(year)}/activities/${encodeURIComponent(activity.id)}/media?revision=${encodeURIComponent(revision || "")}`)
+        .then(result => (result.images || []).map(item => Schema.normalizeMedia(item))).catch(error => { adminAlbums.delete(key); throw error; });
+      adminAlbums.set(key, task);
+    }
+    return copy(await adminAlbums.get(key));
   }
 
   async function saveLocalRevision(data, label = "Bản trước khi xuất bản", required = false) {
@@ -303,7 +327,7 @@
     const record = { id: `${data.year}:${timestamp}:${Math.random().toString(36).slice(2)}`, year: Number(data.year), timestamp, label, data: copy(data) };
     if (required) await inStore("revisions", "readwrite", (store) => store.put(record));
     else await safeStore("revisions", "readwrite", (store) => store.put(record));
-    const all = await safeStore("revisions", "readonly", (store) => store.getAll(), []);
+    const all = await safeStore("revisions", "readonly", store => store.indexNames?.contains("year") ? store.index("year").getAll(Number(data.year)) : store.getAll(), []);
     const old = (all || []).filter((item) => Number(item.year) === Number(data.year)).sort((a,b)=>String(b.timestamp).localeCompare(String(a.timestamp))).slice(12);
     if (old.length) await safeStore("revisions", "readwrite", (store) => { old.forEach((item)=>store.delete(item.id)); });
     return record;
@@ -325,6 +349,7 @@
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ data: normalized, baseRevision: options.baseRevision ?? data?._revision ?? "", mode: options.mode || "publish" })
     });
+    adminYears.delete(normalized.year);
     const saved = normalizeYear(response.data || normalized);
     Object.defineProperty(saved, "_revision", { value: response.revision || "", writable: true, enumerable: false, configurable: true });
     const record = { year: saved.year, data: saved, updatedAt: new Date().toISOString() };
@@ -600,7 +625,7 @@
     if (firebaseAuth.currentUser) { try { adminSession = await api("/api/session"); } catch (_error) { adminSession = null; } }
   }
 
-  async function logout() { initFirebase(); adminSession = null; cloudDraftRevisions.clear(); if (firebaseAuth) await firebaseAuth.signOut(); }
+  async function logout() { initFirebase(); adminSession = null; adminYears.clear(); adminAlbums.clear(); cloudDraftRevisions.clear(); if (firebaseAuth) await firebaseAuth.signOut(); }
 
   async function changeCredentials(_email, password) {
     initFirebase();
@@ -619,28 +644,53 @@
       editor: currentUser(),
       cloudRevision: cloudDraftRevisions.get(Number(year)) || "",
       retainedMedia: options.retainedMedia,
+      localVersion: makeId("draft"),
     };
     // Bản nháp là dữ liệu bắt buộc; lỗi IndexedDB phải được báo cho người dùng.
     await inStore("drafts", "readwrite", (store) => store.put(record));
     if (adminSession?.capabilities?.cloudDrafts && !options.localOnly) {
-      try {
-        const response = await api(`/api/drafts/${Number(year)}`, { method: "PUT", headers: { "Content-Type": "application/json", "If-Match": cloudDraftRevisions.get(Number(year)) || "" }, body: JSON.stringify(record) });
-        cloudDraftRevisions.set(Number(year), response.record.cloudRevision);
-        record.cloudRevision = response.record.cloudRevision;
-        record.cloudSynced = true;
-        await inStore("drafts", "readwrite", (store) => store.put(record));
-      } catch (error) { record.cloudSynced = false; record.cloudError = error.message; if (error.status === 409) throw error; }
+      if (cloudSyncTasks.has(Number(year))) await cloudSyncTasks.get(Number(year));
+      return syncDraft(year);
     }
     return record;
   }
 
+  async function syncDraft(year) {
+    year = Number(year);
+    if (!adminSession?.capabilities?.cloudDrafts) return null;
+    if (cloudSyncTasks.has(year)) return cloudSyncTasks.get(year);
+    const task = (async () => {
+      const record = await inStore("drafts", "readonly", store => store.get(String(year)));
+      if (!record) return null;
+      try {
+        const response = await api(`/api/drafts/${year}`, { method: "PUT", headers: { "Content-Type": "application/json", "If-Match": cloudDraftRevisions.get(year) || "" }, body: JSON.stringify(record) });
+        cloudDraftRevisions.set(year, response.record.cloudRevision);
+        record.cloudRevision = response.record.cloudRevision; record.cloudSynced = true;
+        await inStore("drafts", "readwrite", store => {
+          const request = store.get(String(year));
+          request.onsuccess = () => {
+            const latest = request.result;
+            if (!latest) return;
+            if (latest.localVersion === record.localVersion) store.put(record);
+            else store.put({ ...latest, cloudRevision: record.cloudRevision, cloudSynced: false });
+          };
+          return request;
+        });
+      } catch (error) { record.cloudSynced = false; record.cloudError = error.message; if (error.status === 409) throw error; }
+      return record;
+    })().finally(() => cloudSyncTasks.delete(year));
+    cloudSyncTasks.set(year, task); return task;
+  }
+
   async function loadDraft(year) {
-    const local = await safeStore("drafts", "readonly", (store) => store.get(String(Number(year))), null);
+    let local = await safeStore("drafts", "readonly", (store) => store.get(String(Number(year))), null);
     if (!adminSession?.capabilities?.cloudDrafts) return local;
     let response;
     try { response = await api(`/api/drafts/${Number(year)}`); }
     catch (error) { if (local && ![401,403].includes(error.status)) return { ...local, cloudSynced: false, cloudError: error.message }; throw error; }
     const remote = response.record;
+    local = await safeStore("drafts", "readonly", store => store.get(String(Number(year))), local);
+    if (local && cloudSyncTasks.has(Number(year))) return local;
     cloudDraftRevisions.set(Number(year), response.cloudRevision || remote?.cloudRevision || "");
     if (local && local.cloudSynced !== true && JSON.stringify(local.data) !== JSON.stringify(remote?.data)) {
       if ((local.cloudRevision || "") !== (response.cloudRevision || remote?.cloudRevision || "")) return { ...local, conflict: true };
@@ -656,7 +706,7 @@
     const response = await api(`/api/drafts/${Number(year)}`);
     const local = { data: normalizeYear(currentData), baseRevision };
     let remote = response.record;
-    if (!remote) { const published = await loadYearForAdmin(year); remote = { data: published, baseRevision: published._revision || "" }; }
+    if (!remote) { const published = await loadYearForAdmin(year, { force: true }); remote = { data: published, baseRevision: published._revision || "" }; }
     return { local, remote, revision: response.cloudRevision || remote.cloudRevision || "" };
   }
 
@@ -683,7 +733,7 @@
   }
 
   async function localRevisions(year) {
-    const all = (await safeStore("revisions", "readonly", (store) => store.getAll(), [])) || [];
+    const all = (await safeStore("revisions", "readonly", store => store.indexNames?.contains("year") ? store.index("year").getAll(Number(year)) : store.getAll(), [])) || [];
     return all.filter((item) => Number(item.year) === Number(year)).sort((a, b) => String(b.timestamp).localeCompare(String(a.timestamp))).slice(0, 12);
   }
 
@@ -811,7 +861,7 @@
     },
     isUpgradeReady: () => Boolean(adminSession?.capabilities?.adminProtocol === 2 && adminSession?.capabilities?.cloudDrafts),
     adminRole: () => adminSession?.role || "owner",
-    YEAR_MIN, YEAR_MAX, availableYears, loadYear, loadYearForAdmin, loadIndex, loadAlbum,
+    YEAR_MIN, YEAR_MAX, availableYears, loadYear, loadYearForAdmin, loadActivityMedia, loadIndex, loadAlbum, syncDraft,
     saveYear, saveActivity, deleteActivity, saveMedia, listMedia, getMedia, deleteMedia,
     resolveSource, mediaSource, hydrateMedia, login, isAdmin, currentUser, logout, changeCredentials,
     draftComparison, resolveDraftComparison, saveDraft, loadDraft, clearDraft, localRevisions, getYearHistory, loadYearRevision,

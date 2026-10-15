@@ -80,3 +80,11 @@ Trong **Kho ảnh**, chọn **Năm lưu ảnh**, mở ảnh và bấm **Dùng l�
 Nội dung được căn đều hai lề trên điện thoại và máy tính. Tìm kỷ niệm ở trang chủ dùng chỉ mục JSON, không tải ảnh kết quả. Có tùy chọn tiết kiệm dữ liệu ảnh ở chân trang; chế độ này dừng tự tải thêm/tải trước và có nút mở bản nét. Ảnh lớn giữ ảnh xem trước tới khi giải mã xong, hỗ trợ kéo khi phóng và pinch trên màn hình cảm ứng.
 
 `npm run build` tạo 126 trang đầu năm/sự kiện trong `.site/`, kèm ảnh bìa preload và dữ liệu năm nhúng sẵn; đường dẫn cũ vẫn hoạt động. Cloudflare Pages dùng build command `npm run build`, output `.site`. Không tạo thêm ảnh R2 trong bước build.
+
+## Giảm thời gian chờ khi mở và sửa bài
+
+API năm dạng gọn giữ manifest album; ảnh đầy đủ của một sự kiện chỉ tải khi mở bước Chọn ảnh, ghim theo commit cơ sở của bản nháp. Chỉ dựng 24 thẻ ảnh mỗi đợt; mọi ảnh còn lại vẫn được giữ khi lưu bài. Chọn sự kiện luôn trở về bước Viết bài.
+
+Lịch sử và kho ảnh tải khi mở đúng mục. Năm đã đọc được dùng lại tối đa 60 giây; bỏ thay đổi/tải lại luôn đọc bản mới. Tự lưu trên thiết bị sau 700 ms ngừng nhập, đồng bộ sau khoảng 3,5 giây rảnh và không khóa điều hướng; nút Lưu bản nháp vẫn chờ đồng bộ. Xác nhận đồng bộ cũ không được ghi đè nội dung mới đang gõ. Phông chữ tải không chặn hiển thị.
+
+Đối chiếu JSON chưa nén: năm 2025 từ 21 lượt đọc GitHub/564.869 byte xuống 2 lượt/149.309 byte; năm 2026 từ 13 lượt/360.472 byte xuống 2 lượt/69.425 byte. Chưa gồm đăng nhập và bản nháp. Cùng sự kiện 65 ảnh, phép thử trình duyệt cho bước viết giảm từ 65 thẻ xuống 0, thời gian dựng từ 10,5 ms xuống 3,2 ms trên máy thử. Bước ảnh dựng 24/65 thẻ, lưu vẫn đủ 65 ảnh. Phép thử quản trị dùng API giả lập, không đăng bài hoặc ảnh thật.

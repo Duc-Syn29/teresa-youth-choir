@@ -162,3 +162,20 @@ test('a photo reused in another year cannot be deleted even when absent from alb
   assert.equal(res.status,409);assert.equal((await res.json()).code,'MEDIA_IN_USE');assert.ok(await env.MEDIA_BUCKET.head(key));
  }finally{globalThis.fetch=oldFetch;}
 });
+
+test('compact year loads skip album expansion and individual albums use the pinned commit',async()=>{
+ const oldFetch=globalThis.fetch;const requests=[];const revision='b'.repeat(40);
+ globalThis.fetch=async url=>{
+  url=String(url);requests.push(url);
+  if(url.includes('identitytoolkit'))return new Response(JSON.stringify({users:[{localId:'owner',email:'owner@example.test'}]}));
+  if(url.includes('/git/ref/'))return new Response(JSON.stringify({object:{sha:revision}}));
+  const data=url.includes('/contents/data/albums/')?{images:[{id:'photo',src:'https://example.test/photo.jpg'}]}:{year:2026,activities:[{id:'event',album:{manifest:'data/albums/2026/event.json',count:1,preview:[]}}]};
+  return new Response(JSON.stringify({content:Buffer.from(JSON.stringify(data)).toString('base64')}));
+ };
+ const env={FIREBASE_API_KEY:'test',ADMIN_EMAIL:'owner@example.test',GITHUB_OWNER:'test',GITHUB_REPO:'test',GITHUB_TOKEN:'test',ENVIRONMENT:'preview',ALLOWED_ORIGINS:'https://example.test'};
+ const get=path=>worker.fetch(new Request('https://example.test'+path,{headers:{Origin:'https://example.test',Authorization:'Bearer test'}}),env,{waitUntil(){}});
+ try{
+  const compact=await get('/api/years/2026?compact=1');assert.equal(compact.status,200);const data=await compact.json();assert.ok(data.data.activities[0].album);assert.equal(requests.filter(u=>u.includes('/contents/data/albums/')).length,0);
+  const album=await get('/api/years/2026/activities/event/media?revision='+revision);assert.equal(album.status,200);assert.equal((await album.json()).images.length,1);assert.ok(requests.filter(u=>u.includes('/contents/data/albums/')).every(u=>u.endsWith('ref='+revision)));
+ }finally{globalThis.fetch=oldFetch;}
+});

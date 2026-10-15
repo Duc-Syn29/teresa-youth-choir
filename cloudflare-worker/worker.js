@@ -1366,6 +1366,19 @@ async function route(request, env, ctx) {
   }
   if (request.method === "DELETE" && url.pathname === "/api/media" && admin.role !== "owner") fail(403, "OWNER_REQUIRED", "Chỉ chủ quản trị được xóa ảnh khỏi kho.");
 
+  const activityMediaMatch = /^\/api\/years\/(\d{4})\/activities\/([a-zA-Z0-9._-]+)\/media$/.exec(url.pathname);
+  if (request.method === "GET" && activityMediaMatch) {
+    const year = cleanYear(activityMediaMatch[1], env);
+    const requested = url.searchParams.get("revision") || "";
+    if (requested && !/^[a-f0-9]{40}$/i.test(requested)) fail(422, "INVALID_REVISION", "Phiên bản album không hợp lệ.");
+    const revision = requested || await gitHead(env, branchName(env));
+    const data = await readGitHubJson(env, `data/${year}.json`, revision);
+    const activity = (data.activities || []).find(item => item.id === activityMediaMatch[2]);
+    if (!activity) fail(404, "ACTIVITY_NOT_FOUND", "Không tìm thấy sự kiện.");
+    const expanded = await hydrateExternalAlbums(env, { year, activities: [activity] }, revision);
+    return json({ images: expanded.activities[0].images || [], revision });
+  }
+
   const yearMatch = /^\/api\/years\/(\d{4})$/.exec(url.pathname);
   if (request.method === "GET" && yearMatch) {
     const year = cleanYear(yearMatch[1], env);
@@ -1375,7 +1388,7 @@ async function route(request, env, ctx) {
       return new Response(null, { status: 304, headers: { ETag: `"${head}"`, "Cache-Control": "private, no-cache" } });
     }
     let data = await readGitHubJson(env, `data/${year}.json`, head);
-    data = await hydrateExternalAlbums(env, data, head);
+    if (url.searchParams.get("compact") !== "1") data = await hydrateExternalAlbums(env, data, head);
     return json({ ok: true, data, year, branch, revision: head, commit: head }, 200, { ETag: `"${head}"` });
   }
   if (request.method === "PUT" && yearMatch) {

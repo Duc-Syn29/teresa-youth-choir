@@ -183,3 +183,7 @@ Pages dùng `npm run build` và output `.site`, tạo trước phần bìa/giớ
 Kho `teresa-admin-private` giữ riêng tư (r2.dev tắt, không custom domain). Production Worker đã gắn `PRIVATE_BUCKET`; preview cần tạo bucket preview trước khi dùng. Các secrets sẵn có được giữ nguyên.
 
 `data/media-usage.json` lưu các gốc ảnh được từng năm tham chiếu, kể cả ảnh không nằm trong ba ảnh preview. Worker cập nhật file cùng commit năm/album. Khi chỉnh JSON thủ công, chạy `npm run index:media` trước khi commit. Nếu chỉ mục khác revision, thao tác xóa ảnh dừng an toàn.
+
+### API đọc quản trị gọn
+
+`GET /api/years/:year?compact=1` trả JSON năm cùng manifest, không bung toàn bộ album. Bỏ tham số giữ hành vi cũ. `GET /api/years/:year/activities/:id/media?revision=<commit>` chỉ bung album được chọn, ghim vào commit 40 ký tự đã đọc. Cả hai route yêu cầu quyền quản trị. Triển khai Worker trước giao diện.
