@@ -748,6 +748,18 @@ async function createAtomicCommit(env, branch, baseSha, changes, message) {
   return commit;
 }
 
+export function assertPhotoLimit(next, previous = {activities:[]}) {
+  for (const activity of next.activities || []) {
+    const images=activity.images || [];
+    if(images.length<=50)continue;
+    const old=(previous.activities || []).find(item=>item.id===activity.id);
+    const oldPhotos=old?.images || [];
+    const identity=photo=>typeof photo==="string"?photo:String(photo?.src || photo?.variants?.original?.src || photo?.id || "");
+    const oldRoots=new Set(oldPhotos.map(identity));
+    if(images.length>oldPhotos.length || images.some(photo=>!oldRoots.has(identity(photo))))fail(422,"PHOTO_LIMIT","Mỗi sự kiện tối đa 50 ảnh. Album cũ trên 50 ảnh được giữ; hãy gỡ bớt trước khi thêm ảnh mới.");
+  }
+}
+
 async function commitYear(env, input, branch, message, expectedHead = "") {
   if (expectedHead && !/^[a-f0-9]{7,40}$/i.test(expectedHead)) fail(422, "INVALID_REVISION", "Mã phiên bản cơ sở không hợp lệ.");
   for (let attempt = 0; attempt < 3; attempt += 1) {
@@ -768,6 +780,8 @@ async function commitYear(env, input, branch, message, expectedHead = "") {
     const usage = await readGitHubJson(env, "data/media-usage.json", head, true) || { version: 1, years: {} };
     usage.years ||= {};
     const completeInput = await hydrateExternalAlbums(env, input, head);
+    const oversized=(completeInput.activities || []).some(activity=>(activity.images || []).length>50);
+    if(oversized) assertPhotoLimit(completeInput, previousData ? await hydrateExternalAlbums(env,previousData,head) : {activities:[]});
     usage.years[data.year] = { revision: Number(data.meta?.revision || 0), roots: mediaAssetRoots(completeInput).sort() };
     changes.set("data/media-usage.json", JSON.stringify(usage, null, 2) + "\n");
     changes.set(`data/${data.year}.json`, JSON.stringify(data, null, 2) + "\n");

@@ -11,7 +11,7 @@
   const compactViewport = window.matchMedia("(max-width: 680px)");
   const albumBatchSize = compactViewport.matches ? 8 : 16;
 
-  const escapeHTML = (value = "") => String(value).replace(/[&<>'"]/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[character]);
+  const escapeHTML = window.TeresaPublic.escapeHTML;
   const list = (items = []) => items.map((item) => `<li>${escapeHTML(item)}</li>`).join("");
   const source = (media, variant = "medium") => window.TeresaStore?.mediaSource(media, variant)
     || Schema.mediaSource?.(media, variant)
@@ -337,6 +337,7 @@
     const albumTypes = [...new Set(albums.map((album) => album.type).filter(Boolean))];
     const imageTotal = albums.reduce((total, album) => total + Number(album.count || 0), 0);
     document.title = `${year} — Teresa Youth Choir`;
+    window.TeresaPublic.updateSEO({title:document.title,description:overview.summary,file:window.TeresaPublic.yearUrl(year),image:source(overview.coverImage,"medium")});
     document.documentElement.style.setProperty("--year-accent", data.theme?.accent || "#58bfd5");
     const hero = source(overview.coverImage, "original");
 

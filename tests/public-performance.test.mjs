@@ -154,8 +154,9 @@ test("article renders before its album; an album failure and retry preserve the 
   };
   const loading = { hidden: false };
   const window = {
-    location: { search: "?year=2020&id=2020-retreat-thien-ha" },
+    location: { search: "?year=2020&id=2020-retreat-thien-ha", pathname:"/activity.html" },
     matchMedia: () => ({ matches: true }), TeresaSchema: Schema,
+    TeresaPublic: {...require("../js/public-tools.js"), updateSEO() {}},
     TeresaStore: {
       mediaSource: Schema.mediaSource,
       loadYear: async () => data, isAdmin: () => false,

@@ -6,6 +6,7 @@
   const Store = window.TeresaStore;
   const Schema = window.TeresaSchema;
   const Helpers = window.TeresaAdminTools;
+  const PhotoPicker = window.TeresaPhotoPicker;
   const reviewedActivities = new Map();
   let uploadJob = null;
   const uploadJobs = [];
@@ -67,7 +68,7 @@
   let openYearRequest = 0;
 
   const clone = (value) => value == null ? value : JSON.parse(JSON.stringify(value));
-  const escapeHTML = (value = "") => String(value).replace(/[&<>'"]/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[character]);
+  const escapeHTML = window.TeresaPublic.escapeHTML;
   const message = (text, type = "success") => `<p class="admin-message ${type}" role="status">${escapeHTML(text)}</p>`;
   const sourceOf = (media, variant = "original") => Store.mediaSource?.(media, variant) || Schema.mediaSource?.(media, variant) || (typeof media === "string" ? media : media?.src || "");
   const mediaKey = (media) => String(media?.id || sourceOf(media, "original") || sourceOf(media, "medium"));
@@ -159,7 +160,7 @@
     document.querySelector("#command-preview")?.toggleAttribute("disabled", busy || uploading || preparingUpload || !validation.valid);
     document.querySelector("#command-publish")?.toggleAttribute("disabled", Store.isUpgradeReady?.() === false || busy || uploading || preparingUpload || !validation.valid || (!dirty && !pendingNew));
     document.querySelector("#command-discard")?.toggleAttribute("disabled", busy || uploading || preparingUpload || (!dirty && !pendingLocalSave && !pendingNew));
-    document.querySelectorAll("[data-year], #add-year, #new-activity, #clear-activity, [data-edit-activity], [data-delete-activity], #logout").forEach((button) => button.toggleAttribute("disabled", busy || savingDraft || uploading || preparingUpload));
+    document.querySelectorAll("[data-quick-action], [data-year], #add-year, #new-activity, #clear-activity, [data-edit-activity], [data-delete-activity], #logout").forEach((button) => button.toggleAttribute("disabled", busy || savingDraft || uploading || preparingUpload));
     document.querySelectorAll('#activity-form input:not([type="file"]):not([type="checkbox"]), #activity-form textarea, #overview-form input:not([type="file"]), #overview-form textarea').forEach((input) => { input.readOnly = uploading || preparingUpload; });
     document.querySelectorAll('[data-activity-step], [data-go-step], [data-photo-move], [data-use-activity-cover], [data-use-year-cover], [data-remove-activity-media], [data-paragraph-photo]').forEach((input) => { input.disabled = uploading || preparingUpload; });
     const readyPanel = document.querySelector("#readiness-panel");
@@ -216,38 +217,7 @@
     });
   }
 
-  function memberRow(member = {}, options = {}) {
-    const data = Schema.normalizeMember(member, { scope: options.scope || "member", index: options.index || 0 });
-    return `<div class="team-member-editor" data-member-id="${escapeHTML(data.id)}">
-      <input class="team-member-name" value="${escapeHTML(data.name)}" placeholder="Tên thành viên" aria-label="Tên thành viên" />
-      <input class="team-member-note" value="${escapeHTML(data.note || "")}" placeholder="Ghi chú (tùy chọn)" aria-label="Ghi chú thành viên" />
-      <button class="danger-link" type="button" data-remove-member aria-label="Xóa thành viên">×</button>
-    </div>`;
-  }
-
-  function roleEditor(key, role = {}) {
-    const members = Array.isArray(role.members) ? role.members : [];
-    return `<article class="team-row leadership-role-editor" data-role-key="${escapeHTML(key)}">
-      <div class="teams-heading"><strong>${escapeHTML(ROLE_LABELS[key] || key)}</strong><button class="text-button" type="button" data-add-role-member="${escapeHTML(key)}">+ Thêm người</button></div>
-      <div class="team-members-list">${members.map((member, index) => memberRow(member, { scope: key, index })).join("") || '<p class="empty-note">Chưa có người phụ trách.</p>'}</div>
-    </article>`;
-  }
-
-  function teamEditor(team = {}, index = 0) {
-    return `<article class="team-row" data-team-id="${escapeHTML(team.id || "")}">
-      <label>Tên ban<input class="team-name" value="${escapeHTML(team.name || "")}" placeholder="Ví dụ: Ban Truyền thông" required /></label>
-      <div class="team-members-editor"><div class="team-members-list">${(team.members || []).map((member, memberIndex) => memberRow(member, { scope: team.name || `team-${index}`, index: memberIndex })).join("") || '<p class="empty-note">Chưa có thành viên.</p>'}</div><button class="text-button" type="button" data-add-team-member>+ Thêm thành viên</button></div>
-      <button class="danger-link" type="button" data-remove-team>Xóa ban</button>
-    </article>`;
-  }
-
-  function coverFocusFields(value = {}, image = "") {
-    const f = window.TeresaPublic.focus(value);
-    return `<fieldset class="cover-focus"><legend>Căn khung ảnh bìa</legend><p>Di chuyển để giữ đúng người hoặc chi tiết quan trọng trong khung. Dùng lại ảnh hiện có.</p>${[["Máy tính", "x", "y", "desktop"],["Điện thoại", "mobileX", "mobileY", "phone"]].map(([title,x,y,device]) => `<div class="cover-focus-device" data-focus-device="${device}"><strong>${title}</strong><img src="${escapeHTML(image || "images/optimized/hero-768.webp")}" alt="Khung ảnh ${title}" style="object-position:${f[x]}% ${f[y]}%" /><label>Trái – phải<input type="range" name="focus_${x}" min="0" max="100" value="${f[x]}" /></label><label>Trên – dưới<input type="range" name="focus_${y}" min="0" max="100" value="${f[y]}" /></label></div>`).join("")}</fieldset>`;
-  }
-  function collectCoverFocus(values) {
-    return window.TeresaPublic.focus({x:values.focus_x,y:values.focus_y,mobileX:values.focus_mobileX,mobileY:values.focus_mobileY});
-  }
+  const {memberRow,roleEditor,teamEditor,coverFocusFields,collectCoverFocus} = window.TeresaAdminView({Schema,ROLE_LABELS,escapeHTML});
 
   function overviewForm() {
     const overview = draft.overview || {};
@@ -386,6 +356,7 @@
     activityMediaRegistry = new Map();
     const hasManifest = Boolean(activity.album?.manifest);
     const images = hasManifest ? (activity.album.preview || []) : uniqueMedia([...(activity.images || []), ...pendingActivityImages]);
+    const photoCount = hasManifest ? Number(activity.album.count || images.length) : images.length;
     const cover = sourceOf(pendingCoverMedia || activity.coverImage || images[0], "original");
     images.forEach(registerActivityMedia);
     const imageRows = (activityStep === 2 ? images.slice(0, photoLimit) : []).map((image) => {
@@ -413,7 +384,7 @@
       <button class="button" type="button" data-go-step="2">Tiếp tục: chọn ảnh →</button></div>
       <div data-step-panel="2" ${activityStep === 2 ? "" : "hidden"}>
       <p class="storage-note">Chọn bìa từ ảnh đã có bên dưới: dùng lại ảnh, không tăng dung lượng.</p><div class="cover-picker"><div class="cover-picker-copy"><strong>Ảnh trang mở đầu hoạt động</strong><small>Ảnh được tự động thu nhỏ và nén trước khi tải lên.</small><code hidden>${escapeHTML(cover || "Chưa chọn")}</code></div><img class="cover-preview" data-media-src="${escapeHTML(sourceOf(pendingCoverMedia || activity.coverImage || images[0], "medium"))}" src="${escapeHTML(sourceOf(pendingCoverMedia || activity.coverImage || images[0], "medium") || "images/optimized/hero-768.webp")}" alt="Xem trước ảnh trang mở đầu" /><label class="cover-upload">Thay ảnh<input id="activity-cover" type="file" accept="image/jpeg,image/png,image/webp,image/avif,.cr2,.cr3,.nef,.nrw,.arw,.dng,.raf,.rw2,.orf,.pef,.srw" /></label></div>
-      ${coverFocusFields(activity.coverFocus, sourceOf(pendingCoverMedia || activity.coverImage || images[0],"medium"))}<div class="media-picker" id="activity-drop-zone"><div><strong>Kéo ảnh vào đây hoặc bấm chọn tệp</strong><p>${hasManifest ? "Album đang dùng chỉ mục riêng. Ảnh xem trước được hiển thị bên dưới; có thể quản lý toàn bộ tại Kho ảnh theo sự kiện." : `Ảnh được tải tuần tự để tránh quá tải bộ nhớ trên điện thoại. Bấm “Gỡ khỏi sự kiện” khi không muốn dùng ảnh trong bài.`}</p></div><label class="cover-upload">Chọn ảnh hoặc RAW<input id="activity-images" type="file" accept="image/jpeg,image/png,image/webp,image/avif,.cr2,.cr3,.nef,.nrw,.arw,.dng,.raf,.rw2,.orf,.pef,.srw" multiple ${hasManifest ? "disabled" : ""} /></label><button class="text-button" type="button" data-cancel-upload hidden>Dừng sau ảnh hiện tại</button><small data-upload-status></small><p id="activity-media-status" role="status">${hasManifest ? escapeHTML(activityMediaError || "Ảnh đầy đủ chỉ được tải khi mở bước chọn ảnh.") : `${Math.min(photoLimit, images.length)}/${images.length} ảnh đang hiển thị`}</p>${hasManifest ? '<button type="button" class="button" data-open-activity-media>Mở / thử lại ảnh sự kiện</button>' : ""}<div id="selected-images" class="selected-media">${imageRows || '<p class="empty-note">Hoạt động này chưa có ảnh.</p>'}</div>${!hasManifest && images.length > photoLimit ? '<button type="button" class="button" id="more-selected-photos">Xem thêm 24 ảnh</button>' : ""}</div>
+      ${coverFocusFields(activity.coverFocus, sourceOf(pendingCoverMedia || activity.coverImage || images[0],"medium"))}<div class="media-picker" id="activity-drop-zone"><div><strong>Chọn 20–40 ảnh tiêu biểu · tối đa 50 ảnh/sự kiện</strong><p data-event-photo-count role="status">${photoCount}/50 ảnh${photoCount > 50 ? " · Album cũ được giữ nguyên; hãy gỡ bớt trước khi thêm ảnh." : ""}</p><p>${hasManifest ? "Album đang dùng chỉ mục riêng. Ảnh xem trước được hiển thị bên dưới; có thể quản lý toàn bộ tại Kho ảnh theo sự kiện." : `Ảnh được tải tuần tự để tránh quá tải bộ nhớ trên điện thoại. Bấm “Gỡ khỏi sự kiện” khi không muốn dùng ảnh trong bài.`}</p></div><label class="cover-upload">Chọn ảnh hoặc RAW<input id="activity-images" type="file" accept="image/jpeg,image/png,image/webp,image/avif,.cr2,.cr3,.nef,.nrw,.arw,.dng,.raf,.rw2,.orf,.pef,.srw" multiple ${hasManifest ? "disabled" : ""} /></label><button class="text-button" type="button" data-cancel-upload hidden>Dừng sau ảnh hiện tại</button><small data-upload-status></small><p id="activity-media-status" role="status">${hasManifest ? escapeHTML(activityMediaError || "Ảnh đầy đủ chỉ được tải khi mở bước chọn ảnh.") : `${Math.min(photoLimit, images.length)}/${images.length} ảnh đang hiển thị`}</p>${hasManifest ? '<button type="button" class="button" data-open-activity-media>Mở / thử lại ảnh sự kiện</button>' : ""}<div id="selected-images" class="selected-media">${imageRows || '<p class="empty-note">Hoạt động này chưa có ảnh.</p>'}</div>${!hasManifest && images.length > photoLimit ? '<button type="button" class="button" id="more-selected-photos">Xem thêm 24 ảnh</button>' : ""}</div>
       <div id="story-placement-editor">${activityStep === 2 ? storyPlacementEditor(activity, images) : ""}</div><button class="button" type="button" data-go-step="3">Tiếp tục: xem trước →</button></div>
       <div data-step-panel="3" ${activityStep === 3 ? "" : "hidden"}><p>Kiểm tra bài trên điện thoại trước khi đăng. Nút “Đăng lên website” đăng tất cả thay đổi của năm đang chọn.</p><button type="button" class="button" id="preview-current-activity">Xem trước sự kiện trên điện thoại</button><button type="button" class="button" data-go-step="1">← Sửa nội dung</button></div>
       <button class="button button-primary" type="submit">Lưu sự kiện vào bản nháp</button></form>`;
@@ -523,7 +494,7 @@
     const yearButtons = years.map((year) => `<button type="button" class="${year === currentYear ? "active" : ""}" data-year="${year}">${year}</button>`).join("");
     const sections = [["events", "Sự kiện"], ["year", "Giới thiệu năm"], ["people", "Ban điều hành & ca viên"], ["photos", "Kho ảnh"], ["review", "Kiểm tra & lịch sử"]];
     app.innerHTML = `<section class="admin-shell"><div class="container"><div class="admin-heading"><div><p class="eyebrow">Quản trị nhật ký</p><h1>Nhật ký năm ${currentYear}</h1><p>Chọn năm, sửa nội dung và ảnh, xem trước rồi đăng lên website.</p></div><div class="admin-tools"><a class="button" href="year.html?year=${currentYear}" target="_blank" rel="noopener">Xem website ↗</a><button type="button" id="logout">Đăng xuất</button></div></div>
-      ${Store.isUpgradeReady?.() === false ? '<p class="admin-message warning">Bản quản trị mới chưa được kích hoạt trên website. Bạn vẫn có thể chuẩn bị nội dung và xem trước; thêm ảnh mới và đăng bài sẽ mở khi cập nhật hoàn tất.</p>' : ""}${noticeHTML}${draftConflict ? '<button class="button" type="button" id="compare-drafts">Đối chiếu hai bản nháp</button>' : ""}${helpPanel()}${uploadJobPanel()}<p id="publication-status" role="status">${escapeHTML(publicationStatus)}</p><nav class="admin-years" aria-label="Chọn năm">${yearButtons}<button type="button" id="add-year">+ Thêm năm</button></nav>
+      ${Store.isUpgradeReady?.() === false ? '<p class="admin-message warning">Bản quản trị mới chưa được kích hoạt trên website. Bạn vẫn có thể chuẩn bị nội dung và xem trước; thêm ảnh mới và đăng bài sẽ mở khi cập nhật hoàn tất.</p>' : ""}${noticeHTML}${draftConflict ? '<button class="button" type="button" id="compare-drafts">Đối chiếu hai bản nháp</button>' : ""}<nav class="admin-quick-actions" aria-label="Bắt đầu quản trị"><button type="button" data-quick-action="new">＋ Thêm sự kiện</button><button type="button" data-quick-action="edit">Sửa bài đã có</button><button type="button" data-quick-action="resume">Tiếp tục bản nháp</button></nav>${helpPanel()}${uploadJobPanel()}<p id="publication-status" role="status">${escapeHTML(publicationStatus)}</p><nav class="admin-years" aria-label="Chọn năm">${yearButtons}<button type="button" id="add-year">+ Thêm năm</button></nav>
       <ol class="admin-steps" aria-label="Các bước đăng bài"><li><strong>1</strong> Chọn năm & viết bài</li><li><strong>2</strong> Thêm ảnh & chọn bìa</li><li><strong>3</strong> Xem trước & đăng bài</li></ol>
       <nav class="admin-sections" aria-label="Mục quản trị">${sections.map(([key, label]) => `<button type="button" data-admin-section="${key}" aria-controls="admin-section-${key}" aria-pressed="${key === activeSection}">${label}</button>`).join("")}</nav>
       <div class="admin-section" id="admin-section-events" ${activeSection === "events" ? "" : "hidden"}>${readinessPanel()}<section class="admin-panel"><div class="admin-form-title"><div><p class="eyebrow">${draft.activities.length} sự kiện</p><h2>Sự kiện năm ${currentYear}</h2></div><button type="button" class="button button-primary" id="new-activity">+ Thêm sự kiện</button></div><label class="admin-search">Tìm sự kiện<input id="activity-search" type="search" placeholder="Nhập tên hoặc ngày…" /></label><div class="admin-activity-list">${activityRows() || '<p class="empty-note">Chưa có sự kiện. Bấm “Thêm sự kiện” để bắt đầu.</p>'}</div><p id="activity-search-empty" hidden>Không tìm thấy sự kiện phù hợp.</p></section>${activityForm(selected)}</div>
@@ -668,6 +639,7 @@
       const idInput = document.querySelector('#activity-form [name="id"]');
       if (idInput) idInput.value = activity.id;
     }
+    if(activity?.id)try {localStorage.setItem(`teresa:last-event:${currentYear}`,activity.id);} catch (_) {}
     draft = Schema.normalizeYear(draft);
   }
 
@@ -812,6 +784,7 @@
       pendingLocalSave = false;
       if (requestId !== openYearRequest) return;
       historyItems = [];
+      if (params.get("activity") && draft.activities.some(a=>a.id===params.get("activity"))) {editingId=params.get("activity");params.delete("activity");}
       if (requestId !== openYearRequest) return;
       history.replaceState(null, "", `admin.html?year=${currentYear}${editingId ? `&activity=${encodeURIComponent(editingId)}` : ""}`);
       renderDashboard(options.blank ? message(`Đã tạo bản nháp năm ${currentYear}. Chưa có dữ liệu nào được xuất bản.`) : "");
@@ -825,7 +798,7 @@
     if (!Schema || !Store) { adminError(new Error("Thiếu TeresaSchema hoặc TeresaStore.")); return; }
     years = [...new Set((await Store.availableYears()).map(Number).filter(Number.isInteger))].sort((a, b) => a - b);
     if (!years.length) years = [new Date().getFullYear()];
-    if (!currentYear || !years.includes(currentYear)) currentYear = years.at(-1);
+    if (!currentYear || !years.includes(currentYear)) currentYear = years.includes(new Date().getFullYear()) ? new Date().getFullYear() : years.at(-1);
     await openYear(currentYear);
   }
 
@@ -915,6 +888,10 @@
   async function runUploadQueue(files, metadata, onSaved, status, cancelButton, options = {}) {
     if (!files.length || uploading || preparingUpload) return;
     syncAllForms();
+    if (status?.closest("form")?.id === "activity-form") {
+      const remaining = options.retry ? files.filter(file => !uploadJob?.entries.some(e => e.file === file && e.state === "success")) : files;
+      if (currentActivityMedia().length + remaining.length > 50) throw new Error("Mỗi sự kiện tối đa 50 ảnh. Hãy bỏ bớt ảnh trước khi tải.");
+    }
     preparingUpload = true; updateCommandBar();
     try { await saveDraftNow({ sync: false }); }
     finally { preparingUpload = false; updateCommandBar(); }
@@ -941,7 +918,7 @@
         try {
           if (entry.file.size > Number(Store.inputLimit?.(entry.file) || Store.MAX_UPLOAD_BYTES)) throw new Error("Tệp vượt giới hạn. Hãy xuất JPG nhỏ hơn.");
           entry.meta ||= typeof job.metadata === "function" ? job.metadata(entry.file, index, context) : job.metadata;
-          const saved = await Store.saveMedia(entry.file, { ...entry.meta, year: context.year, draftId: `${context.year}:${context.baseRevision || "new"}` });
+          const saved = await Store.saveMedia(entry.file, { ...entry.meta, year: context.year, draftId: `${context.year}:${context.baseRevision || "new"}` }, (phase) => { if (status) status.textContent = `${phase === "optimizing" ? "Đang tối ưu" : "Đang tải"} ảnh ${index + 1}/${entries.length}: ${entry.file.name}`; });
           await job.onSaved(saved, index, context);
           entry.state = "success";
           entry.storedBytes = saved.reused ? 0 : saved.compression?.storedBytes || 0;
@@ -952,7 +929,8 @@
       const failed = job.entries.filter((entry) => entry.state === "failed").length;
       const paused = job.entries.filter((entry) => entry.state === "paused").length;
       const bytes = success.reduce((sum,entry) => sum + (entry.storedBytes || 0),0);
-      if (status) status.textContent = `Đã thêm ${success.length}/${job.entries.length} ảnh · ${failed} lỗi · ${paused} chưa tải · ${(bytes / 1048576).toFixed(2)} MB lưu thêm trên R2.`;
+      const sourceBytes=success.reduce((sum,entry)=>sum+entry.file.size,0);
+      if (status) status.textContent = `Đã thêm ${success.length}/${job.entries.length} ảnh · ${failed} lỗi · ${paused} chưa tải · ${(bytes / 1048576).toFixed(2)} MB lưu thêm trên R2 (tệp nguồn ${(sourceBytes/1048576).toFixed(2)} MB).`;
     } finally {
       uploading = false; cancelUploads = false;
       if (cancelButton) cancelButton.hidden = true;
@@ -1312,9 +1290,19 @@
       await openYear(year, { blank: true });
     });
     document.querySelector("#logout")?.addEventListener("click", async () => { if (pendingLocalSave) await saveDraftNow(); await Store.logout(); loginView(); });
+    document.querySelectorAll("[data-quick-action]").forEach(button => button.addEventListener("click", () => {
+      syncAllForms(); activeSection = "events"; renderPreservingScroll();
+      if (button.dataset.quickAction === "new") document.querySelector("#new-activity")?.click();
+      else if (button.dataset.quickAction === "edit") { document.querySelector("#activity-search")?.focus(); document.querySelector(".admin-activity-list")?.scrollIntoView({behavior:"smooth",block:"start"}); }
+      else {
+        let id=""; try { id=localStorage.getItem(`teresa:last-event:${currentYear}`)||""; } catch (_) {}
+        if(draft.activities.some(activity=>activity.id===id)) { editingId=id; activityStep=1; pendingActivityImages=[];pendingCoverMedia=null;renderPreservingScroll(); }
+        document.querySelector("#activity-form")?.scrollIntoView({behavior:"smooth",block:"start"});
+      }
+    }));
     document.querySelector("#new-activity")?.addEventListener("click", () => { activityStep = 1; syncAllForms(); editingId = ""; pendingActivityForm = null; pendingActivityImages = []; pendingCoverMedia = null; renderPreservingScroll(); document.querySelector("#activity-form")?.scrollIntoView({ behavior: "smooth", block: "start" }); });
     document.querySelector("#clear-activity")?.addEventListener("click", () => { activityStep = 1; syncAllForms(); editingId = ""; pendingActivityForm = null; pendingActivityImages = []; pendingCoverMedia = null; renderPreservingScroll(); });
-    document.querySelectorAll("[data-edit-activity]").forEach((button) => button.addEventListener("click", () => { syncAllForms(); editingId = button.dataset.editActivity; activityStep = 1; photoLimit = 24; activityMediaError = ""; pendingActivityImages = []; pendingCoverMedia = null; renderPreservingScroll(); document.querySelector("#activity-form")?.scrollIntoView({ behavior: "smooth", block: "start" }); }));
+    document.querySelectorAll("[data-edit-activity]").forEach((button) => button.addEventListener("click", () => { syncAllForms(); editingId = button.dataset.editActivity; try {localStorage.setItem(`teresa:last-event:${currentYear}`,editingId);} catch (_) {} activityStep = 1; photoLimit = 24; activityMediaError = ""; pendingActivityImages = []; pendingCoverMedia = null; renderPreservingScroll(); document.querySelector("#activity-form")?.scrollIntoView({ behavior: "smooth", block: "start" }); }));
     document.querySelectorAll("[data-preview-activity]").forEach((button) => button.addEventListener("click", () => previewDraft(button.dataset.previewActivity)));
     document.querySelectorAll("[data-delete-activity]").forEach((button) => button.addEventListener("click", async () => {
       if (!confirm("Xóa hoạt động khỏi bản nháp? Ảnh trong R2 không bị xóa.")) return;
@@ -1417,12 +1405,16 @@
       const status = form.querySelector("[data-upload-status]");
       const cancel = form.querySelector("[data-cancel-upload]");
       try {
-        await runUploadQueue(files, (_file, _index, context) => ({ topic: form.querySelector('[name="topic"]').value || "Khác", activityId: context.editingId, caption: "Ảnh hoạt động", alt: "Ảnh hoạt động" }), async (saved, _index, context) => {
+        const selected = await PhotoPicker.choose(files, { existingCount: currentActivityMedia().length });
+        event.target.value = "";
+        if (!selected.length) return;
+        await runUploadQueue(selected, (_file, _index, context) => ({ topic: form.querySelector('[name="topic"]').value || "Khác", activityId: context.editingId, caption: "Ảnh hoạt động", alt: "Ảnh hoạt động" }), async (saved, _index, context) => {
           if (context.editingId) {
             const activity = context.draft.activities.find((item) => item.id === context.editingId);
             if (activity?.album?.manifest) throw new Error("Album manifest cần API cập nhật album trước khi thêm ảnh.");
             activity.images = uniqueMedia([...(activity.images || []), saved]);
           } else if (!context.pendingImages.some((item) => mediaKey(item) === mediaKey(saved))) context.pendingImages.push(saved);
+          registerActivityMedia(saved);
           dirty = true;
         }, status, cancel);
         if (editingId) await saveDraftNow({ sync: false });
@@ -1437,6 +1429,7 @@
       const activity = draft.activities.find((item) => item.id === editingId);
       if (activity) activity.images = (activity.images || []).filter((image) => mediaKey(image) !== key);
       activityMediaRegistry.delete(key);
+      const counter=document.querySelector("[data-event-photo-count]");if(counter)counter.textContent=`${activityMediaRegistry.size}/50 ảnh`;
       pendingActivityImages = pendingActivityImages.filter((image) => mediaKey(image) !== key);
       button.closest("[data-media-key]")?.remove();
       document.querySelectorAll("[data-paragraph-photo]").forEach((input) => { if (input.value === key) input.checked = false; });
@@ -1481,7 +1474,9 @@
       try {
         const photos = activity.album?.manifest ? await Store.loadActivityMedia(targetYear, activity, baseRevision) : (activity.images || []);
         if (targetYear !== currentYear || targetId !== editingId) return;
-        activity.images = uniqueMedia([...photos, clone(media)]); delete activity.album;
+        const nextPhotos = uniqueMedia([...photos, clone(media)]);
+        if (nextPhotos.length > 50 && nextPhotos.length > photos.length) throw new Error("Sự kiện đã đủ 50 ảnh. Hãy gỡ bớt trước khi thêm.");
+        activity.images = nextPhotos; delete activity.album;
         dirty = true; await saveDraftNow({sync:false});
         renderPreservingScroll(message("Đã dùng lại ảnh trong sự kiện; không tải thêm tệp lên R2."));
       } catch (error) { showError(error); }

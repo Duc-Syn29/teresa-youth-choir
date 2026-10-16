@@ -11,7 +11,7 @@
   const Schema = window.TeresaSchema || {};
   const compactViewport = window.matchMedia("(max-width: 680px)");
   const galleryBatchSize = compactViewport.matches ? 8 : 16;
-  const escapeHTML = (value = "") => String(value).replace(/[&<>'"]/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[character]);
+  const escapeHTML = window.TeresaPublic.escapeHTML;
   const source = (media, variant = "medium") => window.TeresaStore?.mediaSource(media, variant)
     || Schema.mediaSource?.(media, variant)
     || (typeof media === "string" ? media : media?.src || "");
@@ -336,6 +336,7 @@
       const yearUrl = `year.html?year=${year}#year-activities`;
 
       document.title = `${activity.title} — Teresa Youth Choir`;
+      window.TeresaPublic.updateSEO({title:document.title,description:activity.description,file:window.TeresaPublic.activityUrl(year,activity.id),image:coverImage});
       document.querySelector("#back-to-year").href = yearUrl;
       const adminLink = window.TeresaStore.isAdmin() ? `<a class="button button-light" href="admin.html?year=${year}&activity=${encodeURIComponent(activity.id)}">Chỉnh sửa hoạt động ↗</a>` : "";
       app.innerHTML = `

@@ -10,7 +10,7 @@
   const YEAR_MAX = Number(Schema.maxYear?.() || Math.max(2027, new Date().getFullYear() + 1));
   const DB_NAME = "teresa-youth-choir-cache";
   const DB_VERSION = 4;
-  const CACHE_RELEASE = "public-20261015";
+  const CACHE_RELEASE = "easy-admin-20261016";
   const CACHE_FRESH_MS = 5 * 60 * 1000;
   const CACHE_STALE_MS = 30 * 24 * 60 * 60 * 1000;
   const CACHE_REFRESH_WINDOW_MS = 60 * 60 * 1000;
@@ -436,7 +436,8 @@
     }
   }
 
-  async function saveMedia(file, metadata = {}) {
+  async function saveMedia(file, metadata = {}, onProgress = () => {}) {
+    onProgress("optimizing");
     const inputFile = window.TeresaRaw?.isRaw(file) ? await window.TeresaRaw.extract(file) : file;
     const prepared = await prepareImageVariants(inputFile, metadata);
     const form = new FormData();
@@ -452,6 +453,7 @@
     form.append("draftId", metadata.draftId || "");
     form.append("caption", metadata.caption || "");
     form.append("alt", metadata.alt || file.name);
+    onProgress("uploading");
     const media = await api("/api/media", { method: "POST", body: form });
     const normalized = Schema.normalizeMedia ? Schema.normalizeMedia(media) : media;
     normalized.id ||= media.id || media.src;

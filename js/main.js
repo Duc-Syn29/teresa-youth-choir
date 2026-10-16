@@ -8,7 +8,7 @@
   const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   const coarsePointer = window.matchMedia("(pointer: coarse)").matches || window.matchMedia("(max-width: 820px)").matches;
   let pageReturnController = null;
-  const escapeHTML = (value = "") => String(value).replace(/[&<>'"]/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[character]);
+  const escapeHTML = window.TeresaPublic.escapeHTML;
   const activityGroups = {
     liturgy: {
       title: "Phụng vụ & Thánh nhạc",

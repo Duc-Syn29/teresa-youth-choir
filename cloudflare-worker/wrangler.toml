@@ -13,7 +13,7 @@ ALLOWED_ORIGINS = "https://cadoangioitreteresa.org,https://www.cadoangioitretere
 ALLOWED_ORIGIN_SUFFIXES = ""
 REQUIRE_VERIFIED_EMAIL = "false"
 R2_PUBLIC_BASE_URL = ""
-RELEASE = "admin-speed-20261015"
+RELEASE = "easy-admin-20261016"
 
 [observability]
 enabled = true
@@ -47,7 +47,7 @@ ALLOWED_ORIGINS = "https://teresa-youth-choir.pages.dev"
 ALLOWED_ORIGIN_SUFFIXES = ".teresa-youth-choir.pages.dev"
 REQUIRE_VERIFIED_EMAIL = "false"
 R2_PUBLIC_BASE_URL = ""
-RELEASE = "admin-speed-20261015-preview"
+RELEASE = "easy-admin-20261016-preview"
 
 [env.preview.observability]
 enabled = true

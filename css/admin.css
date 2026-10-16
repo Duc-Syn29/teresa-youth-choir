@@ -79,3 +79,17 @@
 .cover-focus-device[data-focus-device="phone"] img { width: 6rem; height: 11rem; margin-inline: auto; }
 .cover-focus-device input[type="range"] { padding: 0; min-height: 44px; accent-color: #167c9a; }
 .cover-focus-device label { font-size: .8rem; }
+
+.admin-quick-actions { display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.75rem;margin:1.5rem 0; }
+.admin-quick-actions button { padding:1.2rem;border:1px solid var(--line);border-radius:1rem;background:var(--paper);font-weight:600;cursor:pointer; }
+.photo-selection-dialog { width:min(900px,94vw);max-height:90svh;overflow:auto;padding:1.5rem;border:1px solid var(--line);border-radius:1.25rem;color:var(--ink);background:var(--paper); }
+.photo-selection-dialog::backdrop { background:rgba(10,40,55,.65); }
+.photo-selection-grid { display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.75rem;margin:1rem 0; }
+.photo-selection-grid label { padding:.5rem;border:1px solid var(--line);border-radius:.75rem;overflow-wrap:anywhere;cursor:pointer; }
+.photo-selection-preview { display:grid;place-items:center;aspect-ratio:4/3;background:var(--cream);font-size:.75rem; }
+.photo-selection-preview img { width:100%;height:100%;object-fit:contain; }
+.photo-selection-grid small { display:block;color:var(--muted); }
+.photo-selection-actions { display:flex;flex-wrap:wrap;align-items:center;gap:.75rem;justify-content:space-between; }
+.photo-selection-actions button { min-height:44px; }
+[data-selection-error] { color:#a32828; }
+@media(max-width:680px) { .admin-quick-actions { grid-template-columns:1fr; }.photo-selection-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }.photo-selection-dialog { padding:1rem; } }

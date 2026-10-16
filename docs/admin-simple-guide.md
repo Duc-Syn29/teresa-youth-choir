@@ -88,3 +88,21 @@ API năm dạng gọn giữ manifest album; ảnh đầy đủ của một sự 
 Lịch sử và kho ảnh tải khi mở đúng mục. Năm đã đọc được dùng lại tối đa 60 giây; bỏ thay đổi/tải lại luôn đọc bản mới. Tự lưu trên thiết bị sau 700 ms ngừng nhập, đồng bộ sau khoảng 3,5 giây rảnh và không khóa điều hướng; nút Lưu bản nháp vẫn chờ đồng bộ. Xác nhận đồng bộ cũ không được ghi đè nội dung mới đang gõ. Phông chữ tải không chặn hiển thị.
 
 Đối chiếu JSON chưa nén: năm 2025 từ 21 lượt đọc GitHub/564.869 byte xuống 2 lượt/149.309 byte; năm 2026 từ 13 lượt/360.472 byte xuống 2 lượt/69.425 byte. Chưa gồm đăng nhập và bản nháp. Cùng sự kiện 65 ảnh, phép thử trình duyệt cho bước viết giảm từ 65 thẻ xuống 0, thời gian dựng từ 10,5 ms xuống 3,2 ms trên máy thử. Bước ảnh dựng 24/65 thẻ, lưu vẫn đủ 65 ảnh. Phép thử quản trị dùng API giả lập, không đăng bài hoặc ảnh thật.
+
+## Quản trị dễ dùng và chọn tối đa 50 ảnh (16/10/2026)
+
+Đầu trang có ba nút **Thêm sự kiện**, **Sửa bài đã có**, **Tiếp tục bản nháp**. Nút tiếp tục mở sự kiện sửa gần nhất trên thiết bị của năm đang chọn. Mặc định mở năm hiện tại nếu có dữ liệu, nếu chưa có thì mở năm mới nhất.
+
+Chọn 20–40 ảnh tiêu biểu, tối đa 50 ảnh trong album mỗi sự kiện, tính cả ảnh đã có. Khi chọn tệp, màn duyệt ảnh mở trước khi tải: có ảnh nhỏ, tên, dung lượng nguồn, nút bỏ/chọn và phân trang 24 ảnh. Nếu chọn nhiều hơn số chỗ còn lại, ban đầu chưa chọn ảnh nào; tự chọn những ảnh cần giữ. Hệ thống không tự bỏ ảnh. Tệp giống hệt nhau trong lượt chọn được loại trước khi tải. Ảnh gần giống trong các trang đã xem có gợi ý theo hình thu nhỏ để tự cân nhắc; đây chỉ là gợi ý, không tự bỏ chọn. Không tự đánh giá ảnh mờ hay đúng ngữ cảnh.
+
+Sau xác nhận, ảnh được tối ưu rồi tải lần lượt. Kết quả báo số ảnh thành công/lỗi và dung lượng lưu thêm trên R2 so với tệp nguồn. RAW không tải lên. Các giới hạn chất lượng và hai biến thể ở phần RAW phía trên tiếp tục áp dụng. Album cũ trên 50 ảnh được giữ, được sửa chữ/chú thích hoặc giảm ảnh; muốn thêm ảnh mới phải giảm album về giới hạn. Giao diện chặn tải/dùng lại thêm ảnh khi đủ 50; Worker kiểm tra lại khi xuất bản. Bìa riêng vẫn có thể thay; nên chọn bìa từ ảnh trong album để dùng chung tệp.
+
+## Chia sẻ, SEO, CSS và ngoại tuyến
+
+Build tạo OG/Twitter, canonical riêng và dữ liệu có cấu trúc Article/CollectionPage cho 126 trang năm/sự kiện; sitemap chỉ chứa trang công khai. Trang quản trị và xem trước đặt noindex. Mã escapeHTML dùng chung trong public-tools; các khung thành viên/căn bìa và bộ chọn ảnh được tách khỏi admin.js.
+
+`npm run build` tạo ba stylesheet theo nhóm trang từ style.css, giữ nguyên thứ tự khai báo trong từng trang. Sửa style.css rồi chạy build để cập nhật home.css/archive.css/admin-base.css; admin.css vẫn là phần quản trị riêng.
+
+Service Worker lưu giới hạn 90 tài nguyên cùng nguồn trên thiết bị. HTML/dữ liệu luôn ưu tiên mạng và chỉ dùng bản đã lưu khi mất kết nối; CSS/JS có phiên bản được dùng lại từ cache. Không lưu R2/ảnh ngoài nguồn, yêu cầu xác thực, API, trang quản trị hoặc xem trước. Ảnh vẫn theo bộ nhớ đệm thông thường của trình duyệt; không hứa tải được toàn bộ album ngoại tuyến. Nội dung chưa từng đọc có màn hướng dẫn kết nối lại. Cache được đổi phiên bản theo nội dung build, không tạo thêm tệp R2.
+
+Tham khảo triển khai: [MDN Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers) và [Google Article structured data](https://developers.google.com/search/docs/appearance/structured-data/article).
