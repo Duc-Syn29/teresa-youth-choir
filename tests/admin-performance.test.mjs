@@ -48,3 +48,18 @@ test('photo pagination preserves unrendered photos and respects removals and ord
  registry.delete('photo-5');visible.splice(5,1);visible.reverse();
  images=vm.runInNewContext(`(${fn})()`,context);assert.equal(images.length,64);assert.equal(images[0].id,'photo-23');assert.ok(!images.some(image=>image.id==='photo-5'));
 });
+
+test('session connection errors remain visible and a retry restores admin access',async()=>{
+ let fail=true;
+ const {store}=storeHarness(async()=>{
+  if(fail)throw new Error('Worker connection unavailable');
+  return response({role:'owner',capabilities:{adminProtocol:2,cloudDrafts:true}});
+ });
+ await store.waitForAuth();
+ assert.equal(store.isAdmin(),false);
+ assert.equal(store.authSessionError(),'Worker connection unavailable');
+ fail=false;
+ await store.waitForAuth();
+ assert.equal(store.isAdmin(),true);
+ assert.equal(store.authSessionError(),'');
+});

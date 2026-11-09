@@ -23,6 +23,7 @@
   let firebaseAuth = null;
   let mediaObserver = null;
   let adminSession = null;
+  let authSessionError = "";
   const adminYears = new Map();
   const pendingAdminYears = new Map();
   const adminAlbums = new Map();
@@ -604,6 +605,7 @@
     try {
       const credential = await firebaseAuth.signInWithEmailAndPassword(email, password);
       adminSession = await api("/api/session");
+      authSessionError = "";
       return { success: true, user: credential.user };
     } catch (error) { adminSession = null; await firebaseAuth.signOut(); return { success: false, message: error.message || getAuthErrorMessage(error.code) }; }
   }
@@ -624,7 +626,10 @@
     initFirebase();
     if (!firebaseAuth) return;
     await new Promise((resolve) => { let unsubscribe; unsubscribe = firebaseAuth.onAuthStateChanged(() => { resolve(); queueMicrotask(() => unsubscribe?.()); }); });
-    if (firebaseAuth.currentUser) { try { adminSession = await api("/api/session"); } catch (_error) { adminSession = null; } }
+    if (firebaseAuth.currentUser) {
+      try { adminSession = await api("/api/session"); authSessionError = ""; }
+      catch (error) { adminSession = null; authSessionError = error.message || "Không thể xác nhận quyền quản trị. Vui lòng thử đăng nhập lại."; }
+    }
   }
 
   async function logout() { initFirebase(); adminSession = null; adminYears.clear(); adminAlbums.clear(); cloudDraftRevisions.clear(); if (firebaseAuth) await firebaseAuth.signOut(); }
@@ -862,6 +867,7 @@
       return false;
     },
     isUpgradeReady: () => Boolean(adminSession?.capabilities?.adminProtocol === 2 && adminSession?.capabilities?.cloudDrafts),
+    authSessionError: () => authSessionError,
     adminRole: () => adminSession?.role || "owner",
     YEAR_MIN, YEAR_MAX, availableYears, loadYear, loadYearForAdmin, loadActivityMedia, loadIndex, loadAlbum, syncDraft,
     saveYear, saveActivity, deleteActivity, saveMedia, listMedia, getMedia, deleteMedia,

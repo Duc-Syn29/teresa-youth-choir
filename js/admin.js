@@ -201,7 +201,15 @@
     const cloudStatus = configured
       ? `<p class="cloud-status active">Đăng nhập bằng tài khoản được cấp cho bạn.</p>`
       : `<p class="cloud-status warning">Thiếu cấu hình Firebase hoặc Worker quản trị. Chế độ đăng nhập cục bộ không được hỗ trợ.</p>`;
-    app.innerHTML = `<section class="admin-login"><div class="admin-login-card"><p class="eyebrow">Khu quản trị</p><h1>Chào người giữ ký ức.</h1><p>Đăng nhập để chuẩn bị bản nháp, xem trước rồi mới xuất bản.</p>${cloudStatus}${note}<form id="login-form"><label>Email<input name="username" type="email" autocomplete="username" required /></label><label>Mật khẩu<span class="password-control"><input name="password" type="password" autocomplete="current-password" required /><button type="button" data-password-toggle aria-label="Hiện mật khẩu">Hiện</button></span></label><button class="button button-primary" type="submit">Đăng nhập →</button></form></div></section>`;
+    app.innerHTML = `<section class="admin-login"><div class="admin-login-card"><p class="eyebrow">Khu quản trị</p><h1>Chào người giữ ký ức.</h1><p>Đăng nhập để chuẩn bị bản nháp, xem trước rồi mới xuất bản.</p>${cloudStatus}${note}${Store.currentUser?.() && Store.authSessionError?.() ? '<button class="button" type="button" id="retry-session">Kết nối lại quản trị</button>' : ""}<form id="login-form"><label>Email<input name="username" type="email" autocomplete="username" required /></label><label>Mật khẩu<span class="password-control"><input name="password" type="password" autocomplete="current-password" required /><button type="button" data-password-toggle aria-label="Hiện mật khẩu">Hiện</button></span></label><button class="button button-primary" type="submit">Đăng nhập →</button></form></div></section>`;
+    document.querySelector("#retry-session")?.addEventListener("click", async (event) => {
+      event.currentTarget.disabled = true;
+      try {
+        await Store.waitForAuth();
+        if (Store.isAdmin()) await initializeDashboard();
+        else loginView(message(Store.authSessionError?.() || "Chưa xác nhận được quyền quản trị. Hãy đăng nhập lại.", "error"));
+      } catch (error) { adminError(error); }
+    });
     document.querySelector("[data-password-toggle]")?.addEventListener("click", (event) => {
       const input = document.querySelector('[name="password"]');
       const visible = input.type === "text";
@@ -1585,8 +1593,10 @@
       adminError(new Error("Thiếu TeresaSchema hoặc TeresaStore."));
       return;
     }
-    await Store.waitForAuth();
-    if (Store.isAdmin()) await initializeDashboard();
-    else loginView();
+    try {
+      await Store.waitForAuth();
+      if (Store.isAdmin()) await initializeDashboard();
+      else loginView(Store.authSessionError?.() ? message(Store.authSessionError(), "error") : "");
+    } catch (error) { adminError(error); }
   });
 })();
